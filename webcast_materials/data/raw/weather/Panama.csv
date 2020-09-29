@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Panama,,12/31/2019,Rain in the morning and afternoon.,rain,0.19,0.0266,0.2082,0.93,rain,70.94,62.95,66.26,1.0,1012.2,0.78,8,63.56,70.94,8.538,-80.7821
+Panama,,1/1/2020,Possible drizzle in the morning.,rain,0.22,0.0056,0.0143,0.64,rain,72.1,62.66,65.82,0.98,1011.9,0.58,9,62.95,72.1,8.538,-80.7821
+Panama,,1/2/2020,Possible drizzle in the morning.,rain,0.25,0.0038,0.0107,0.59,rain,76.5,61.92,65.59,0.94,1012.0,0.63,7,62.66,76.5,8.538,-80.7821
+Panama,,1/3/2020,Mostly cloudy throughout the day.,rain,0.28,0.0047,0.017,0.38,rain,74.74,62.28,65.96,0.96,1013.3,0.67,7,61.92,74.74,8.538,-80.7821
+Panama,,1/4/2020,Possible light rain overnight.,rain,0.31,0.0017,0.0101,0.26,rain,75.64,63.1,64.9,0.92,1014.7,0.49,9,62.29,75.64,8.538,-80.7821
+Panama,,1/5/2020,Possible light rain in the morning.,rain,0.34,0.0096,0.0323,0.6,rain,73.47,62.89,65.56,0.96,1015.9,0.77,7,63.1,73.47,8.538,-80.7821
+Panama,,1/6/2020,Mostly cloudy throughout the day.,rain,0.37,0.0071,0.0194,0.41,rain,72.54,62.63,65.81,0.96,1013.8,0.63,8,62.89,72.54,8.538,-80.7821
+Panama,,1/7/2020,Partly cloudy throughout the day.,rain,0.4,0.0096,0.0234,0.47,rain,74.1,63.87,65.64,0.95,1013.0,0.38,9,62.63,74.1,8.538,-80.7821
+Panama,,1/8/2020,Possible light rain in the morning.,rain,0.44,0.0148,0.0252,0.57,rain,73.61,64.44,66.71,0.97,1013.1,0.43,9,63.87,73.61,8.538,-80.7821
+Panama,,1/9/2020,Possible light rain in the morning.,rain,0.47,0.01,0.0269,0.55,rain,74.86,64.09,67.21,0.97,1011.7,0.43,9,64.41,74.86,8.538,-80.7821
+Panama,,1/10/2020,Partly cloudy throughout the day.,rain,0.51,0.0084,0.0215,0.4,rain,74.22,63.99,66.22,0.95,1009.6,0.5,9,63.18,74.22,8.538,-80.7821
+Panama,,1/11/2020,Partly cloudy throughout the day.,rain,0.55,0.0051,0.0122,0.44,rain,74.81,64.79,67.06,0.96,1009.8,0.4,10,63.99,74.81,8.538,-80.7821
+Panama,,1/12/2020,Partly cloudy throughout the day.,rain,0.58,0.0074,0.0164,0.42,rain,74.38,65.79,67.44,0.97,1010.2,0.54,9,64.79,74.38,8.538,-80.7821
+Panama,,1/13/2020,Partly cloudy throughout the day.,rain,0.62,0.0083,0.0164,0.52,rain,73.33,64.64,67.72,0.97,1010.1,0.52,9,65.79,73.33,8.538,-80.7821
+Panama,,1/14/2020,Possible light rain in the morning and afternoon.,rain,0.66,0.0112,0.02,0.63,rain,72.89,63.86,67.18,0.97,1010.0,0.59,8,64.64,72.89,8.538,-80.7821
+Panama,,1/15/2020,Possible light rain in the morning.,rain,0.7,0.0102,0.0171,0.59,rain,72.29,64.11,66.57,0.97,1010.2,0.5,8,63.87,72.29,8.538,-80.7821
+Panama,,1/16/2020,Possible light rain in the morning.,rain,0.73,0.0091,0.0225,0.61,rain,74.11,66.05,67.57,0.97,1010.4,0.49,10,64.11,74.11,8.538,-80.7821
+Panama,,1/17/2020,Possible light rain in the morning.,rain,0.77,0.0106,0.0186,0.57,rain,76.23,66.82,68.89,0.96,1009.7,0.66,9,66.05,76.23,8.538,-80.7821
+Panama,,1/18/2020,Partly cloudy throughout the day.,rain,0.8,0.0102,0.0181,0.57,rain,75.48,65.63,69.15,0.98,1009.8,0.53,9,66.82,75.48,8.538,-80.7821
+Panama,,1/19/2020,Possible drizzle in the morning.,rain,0.84,0.0063,0.013000000000000001,0.56,rain,73.1,65.1,68.81,0.98,1010.1,0.52,9,65.63,73.1,8.538,-80.7821
+Panama,,1/20/2020,Possible light rain in the morning and overnight.,rain,0.87,0.0091,0.0184,0.67,rain,75.27,64.85,67.83,0.97,1012.3,0.81,7,65.1,75.27,8.538,-80.7821
+Panama,,1/21/2020,Possible drizzle in the morning.,rain,0.91,0.0063,0.0157,0.56,rain,73.53,62.85,66.31,0.95,1013.5,0.91,6,64.85,73.53,8.538,-80.7821
+Panama,,1/22/2020,"Light rain until morning, starting again in the evening.",rain,0.94,0.0098,0.0203,0.69,rain,74.02,63.58,65.84,0.95,1013.6,0.69,9,62.85,74.02,8.538,-80.7821
+Panama,,1/23/2020,Light rain in the morning and afternoon.,rain,0.97,0.018000000000000002,0.0361,0.85,rain,72.03,63.38,66.75,0.99,1013.1,0.85,7,63.58,72.03,8.538,-80.7821
+Panama,,1/24/2020,Mostly cloudy throughout the day.,rain,0.01,0.0071,0.0149,0.57,rain,71.95,63.46,66.79,0.99,1012.9,0.64,8,63.38,71.95,8.538,-80.7821
+Panama,,1/25/2020,Partly cloudy throughout the day.,rain,0.04,0.0059,0.012,0.45,rain,72.0,61.35,65.85,0.98,1013.5,0.53,9,63.46,72.0,8.538,-80.7821
+Panama,,1/26/2020,Partly cloudy throughout the day.,rain,0.07,0.0032,0.0118,0.37,rain,72.93,59.45,64.56,0.94,1014.0,0.51,9,61.35,72.93,8.538,-80.7821
+Panama,,1/27/2020,Possible drizzle in the evening.,rain,0.1,0.0038,0.0139,0.43,rain,75.02,61.29,63.85,0.94,1014.6,0.4,9,59.45,75.02,8.538,-80.7821
+Panama,,1/28/2020,Possible light rain in the afternoon and evening.,rain,0.13,0.0215,0.0739,0.59,rain,73.96,62.15,65.94,0.97,1013.9,0.54,8,61.29,73.96,8.538,-80.7821
+Panama,,1/29/2020,Possible light rain until evening.,rain,0.16,0.0208,0.0855,0.65,rain,74.48,61.7,66.61,0.98,1013.5,0.58,8,62.15,74.48,8.538,-80.7821
+Panama,,1/30/2020,Partly cloudy throughout the day.,rain,0.19,0.0009,0.0021,0.26,rain,78.1,60.89,64.82,0.91,1013.1,0.39,9,61.7,78.1,8.538,-80.7821
+Panama,,1/31/2020,Partly cloudy throughout the day.,rain,0.22,0.0016,0.0046,0.26,rain,74.0,62.73,64.4,0.92,1013.1,0.33,10,60.89,74.0,8.538,-80.7821
+Panama,,2/1/2020,Possible light rain overnight.,rain,0.25,0.0049,0.0283,0.46,rain,76.65,64.96,66.21,0.93,1013.0,0.25,11,62.73,76.65,8.538,-80.7821
+Panama,,2/2/2020,Possible light rain in the morning and afternoon.,rain,0.28,0.0179,0.0401,0.73,rain,72.5,64.06,67.69,0.99,1013.5,0.69,8,64.96,72.5,8.538,-80.7821
+Panama,,2/3/2020,Mostly cloudy throughout the day.,rain,0.31,0.0049,0.012,0.47,rain,73.22,64.31,66.11,0.95,1013.2,0.68,9,64.06,73.22,8.538,-80.7821
+Panama,,2/4/2020,Possible light rain in the morning.,rain,0.35,0.0081,0.0183,0.58,rain,73.57,63.62,67.29,0.97,1012.9,0.5,9,64.31,73.57,8.538,-80.7821
+Panama,,2/5/2020,Mostly cloudy throughout the day.,rain,0.38,0.0034,0.0112,0.4,rain,73.47,62.47,66.51,0.95,1012.0,0.68,8,63.62,73.47,8.538,-80.7821
+Panama,,2/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.42,0.0005,0.0022,0.19,rain,75.37,61.57,64.68,0.9,1011.0,0.57,8,62.47,75.37,8.538,-80.7821
+Panama,,2/7/2020,Clear throughout the day.,rain,0.45,0.0009,0.004,0.25,rain,77.16,62.36,65.17,0.9,1011.8,0.3,12,61.57,77.16,8.538,-80.7821
+Panama,,2/8/2020,Partly cloudy throughout the day.,rain,0.49,0.0044,0.0153,0.35,rain,73.82,62.4,65.6,0.94,1013.7,0.44,10,62.36,73.82,8.538,-80.7821
+Panama,,2/9/2020,Mostly cloudy throughout the day.,rain,0.53,0.0071,0.0261,0.4,rain,71.94,63.54,64.97,0.95,1013.5,0.54,8,62.4,71.94,8.538,-80.7821
+Panama,,2/10/2020,Partly cloudy throughout the day.,rain,0.57,0.0062,0.0153,0.38,rain,75.46,63.62,65.67,0.93,1011.6,0.61,10,63.54,75.46,8.538,-80.7821
+Panama,,2/11/2020,Partly cloudy throughout the day.,rain,0.61,0.0082,0.0163,0.48,rain,72.64,64.17,66.83,0.97,1011.4,0.56,9,63.62,72.64,8.538,-80.7821
+Panama,,2/12/2020,Mostly cloudy throughout the day.,rain,0.64,0.0067,0.0136,0.44,rain,72.63,63.77,66.71,0.96,1010.9,0.6,8,64.17,72.63,8.538,-80.7821
+Panama,,2/13/2020,Mostly cloudy throughout the day.,rain,0.68,0.0058,0.0144,0.31,rain,72.96,63.92,67.09,0.97,1010.5,0.72,10,63.77,72.96,8.538,-80.7821
+Panama,,2/14/2020,Mostly cloudy throughout the day.,rain,0.72,0.0066,0.0151,0.3,rain,73.64,64.24,66.41,0.95,1011.3,0.75,8,63.92,73.64,8.538,-80.7821
+Panama,,2/15/2020,Mostly cloudy throughout the day.,rain,0.75,0.0116,0.0215,0.37,rain,72.64,64.09,66.87,0.97,1011.4,0.75,8,64.24,72.64,8.538,-80.7821
+Panama,,2/16/2020,Mostly cloudy throughout the day.,rain,0.79,0.0103,0.0237,0.41,rain,72.09,64.51,66.7,0.97,1010.4,0.69,8,64.09,72.09,8.538,-80.7821
+Panama,,2/17/2020,Possible light rain in the morning.,rain,0.82,0.0124,0.0293,0.55,rain,70.8,65.72,67.25,0.98,1008.9,0.58,9,64.51,70.8,8.538,-80.7821
+Panama,,2/18/2020,Partly cloudy throughout the day.,rain,0.86,0.0125,0.0209,0.54,rain,73.57,65.93,68.17,0.97,1009.0,0.48,10,65.72,73.57,8.538,-80.7821
+Panama,,2/19/2020,Partly cloudy throughout the day.,rain,0.89,0.0109,0.0231,0.51,rain,72.12,64.76,68.4,0.98,1010.4,0.5,10,65.93,72.12,8.538,-80.7821
+Panama,,2/20/2020,Mostly cloudy throughout the day.,rain,0.92,0.0073,0.0126,0.5,rain,72.25,63.68,67.05,0.97,1011.3,0.62,9,64.76,72.25,8.538,-80.7821
+Panama,,2/21/2020,Mostly cloudy throughout the day.,rain,0.95,0.0095,0.019,0.53,rain,71.97,62.31,66.5,0.98,1013.7,0.82,7,63.68,71.97,8.538,-80.7821
+Panama,,2/22/2020,Mostly cloudy throughout the day.,rain,0.98,0.0042,0.009000000000000001,0.43,rain,72.38,62.43,65.26,0.96,1014.2,0.8,8,62.31,72.38,8.538,-80.7821
+Panama,,2/23/2020,Partly cloudy throughout the day.,rain,0.01,0.0018,0.0059,0.26,rain,72.99,61.45,62.96,0.89,1013.2,0.64,9,62.43,72.99,8.538,-80.7821
+Panama,,2/24/2020,Clear throughout the day.,partly-cloudy-day,0.04,0.0008,0.0041,0.18,rain,77.84,60.01,62.37,0.86,1012.3,0.4,12,61.45,77.84,8.538,-80.7821
+Panama,,2/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0005,0.0031,0.16,rain,78.71,61.07,62.08,0.84,1012.4,0.6,12,60.01,78.71,8.538,-80.7821
+Panama,,2/26/2020,Partly cloudy throughout the day.,rain,0.1,0.0071,0.0388,0.33,rain,80.19,61.59,64.74,0.89,1013.2,0.46,12,61.07,80.19,8.538,-80.7821
+Panama,,2/27/2020,Partly cloudy throughout the day.,rain,0.13,0.0046,0.0176,0.33,rain,75.8,64.28,65.59,0.93,1013.6,0.43,11,61.59,75.8,8.538,-80.7821
+Panama,,2/28/2020,Partly cloudy throughout the day.,rain,0.16,0.0052,0.0253,0.29,rain,75.52,64.1,65.04,0.91,1013.5,0.49,11,64.28,75.52,8.538,-80.7821
+Panama,,2/29/2020,Mostly cloudy throughout the day.,rain,0.2,0.0059,0.0205,0.43,rain,75.08,63.23,65.17,0.92,1013.9,0.65,8,64.1,75.08,8.538,-80.7821
+Panama,,3/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0018,0.004,0.19,rain,73.67,62.44,63.96,0.89,1013.2,0.41,10,63.23,73.67,8.538,-80.7821
+Panama,,3/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.26,0.0033,0.0084,0.22,rain,73.86,63.04,64.28,0.91,1012.1,0.46,12,62.44,73.86,8.538,-80.7821
+Panama,,3/3/2020,Mostly cloudy throughout the day.,rain,0.29,0.0028,0.0064,0.25,rain,74.93,63.39,65.85,0.93,1011.9,0.59,10,63.04,74.93,8.538,-80.7821
+Panama,,3/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.33,0.0022,0.0062,0.17,rain,78.44,62.77,65.01,0.88,1011.9,0.52,9,63.39,78.44,8.538,-80.7821
+Panama,,3/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.0026,0.0098,0.23,rain,76.42,64.04,64.85,0.89,1012.4,0.51,11,62.77,76.42,8.538,-80.7821
+Panama,,3/6/2020,Partly cloudy throughout the day.,rain,0.4,0.008,0.0207,0.33,rain,74.78,62.32,66.51,0.94,1013.5,0.38,10,64.04,74.78,8.538,-80.7821
+Panama,,3/7/2020,Partly cloudy throughout the day.,rain,0.44,0.0052,0.0157,0.37,rain,72.49,63.02,65.16,0.94,1013.2,0.54,10,62.32,72.49,8.538,-80.7821
+Panama,,3/8/2020,Partly cloudy throughout the day.,rain,0.47,0.0065,0.0261,0.42,rain,74.45,63.27,64.12,0.9,1012.8,0.45,12,63.02,74.45,8.538,-80.7821
+Panama,,3/9/2020,Mostly cloudy throughout the day.,rain,0.51,0.0041,0.0131,0.37,rain,75.04,63.19,64.93,0.91,1012.9,0.62,9,63.27,75.04,8.538,-80.7821
+Panama,,3/10/2020,Partly cloudy throughout the day.,rain,0.55,0.0044,0.0181,0.36,rain,75.14,62.75,64.52,0.89,1013.3,0.4,12,63.19,75.14,8.538,-80.7821
+Panama,,3/11/2020,Clear throughout the day.,rain,0.59,0.0034,0.008,0.33,rain,76.47,62.56,63.77,0.88,1012.1,0.32,13,62.75,76.47,8.538,-80.7821
+Panama,,3/12/2020,Partly cloudy throughout the day.,rain,0.63,0.005,0.0183,0.33,rain,74.77,61.88,64.23,0.9,1010.7,0.45,12,62.56,74.77,8.538,-80.7821
+Panama,,3/13/2020,Clear throughout the day.,partly-cloudy-day,0.67,0.001,0.0023,0.19,rain,75.48,62.01,63.97,0.89,1012.5,0.37,12,61.88,75.48,8.538,-80.7821
+Panama,,3/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.7,0.0019,0.0108,0.21,rain,76.25,62.93,63.86,0.88,1013.8,0.43,11,62.01,76.25,8.538,-80.7821
+Panama,,3/15/2020,Mostly cloudy throughout the day.,rain,0.74,0.0036,0.0202,0.34,rain,74.91,62.88,64.91,0.92,1013.5,0.71,8,62.93,74.91,8.538,-80.7821
+Panama,,3/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.77,0.0025,0.0113,0.19,rain,74.87,62.53,63.94,0.89,1013.1,0.46,11,62.88,74.87,8.538,-80.7821
+Panama,,3/17/2020,Clear throughout the day.,partly-cloudy-day,0.81,0.0016,0.0059,0.19,rain,76.16,62.9,63.21,0.86,1013.4,0.4,14,62.53,76.16,8.538,-80.7821
+Panama,,3/18/2020,Partly cloudy throughout the day.,rain,0.84,0.0075,0.0182,0.28,rain,74.26,62.85,65.02,0.93,1013.7,0.46,11,62.9,74.26,8.538,-80.7821
+Panama,,3/19/2020,Partly cloudy throughout the day.,rain,0.87,0.0084,0.0199,0.28,rain,75.66,62.2,65.36,0.92,1014.0,0.43,10,62.85,75.66,8.538,-80.7821
+Panama,,3/20/2020,Partly cloudy throughout the day.,rain,0.9,0.0083,0.027999999999999997,0.36,rain,74.88,60.93,64.56,0.91,1015.1,0.43,11,62.2,74.88,8.538,-80.7821
+Panama,,3/21/2020,Partly cloudy throughout the day.,rain,0.93,0.0085,0.0354,0.48,rain,73.39,61.6,63.85,0.93,1014.2,0.48,10,60.93,73.39,8.538,-80.7821
+Panama,,3/22/2020,Partly cloudy throughout the day.,rain,0.96,0.0088,0.0245,0.54,rain,74.87,62.74,64.57,0.93,1013.0,0.49,9,61.6,74.87,8.538,-80.7821
+Panama,,3/23/2020,Mostly cloudy throughout the day.,rain,0.99,0.0099,0.0221,0.51,rain,75.74,62.99,65.43,0.92,1014.0,0.62,10,62.74,75.74,8.538,-80.7821
+Panama,,3/24/2020,Partly cloudy throughout the day.,rain,0.02,0.0071,0.022000000000000002,0.43,rain,75.93,62.91,65.08,0.9,1013.6,0.47,11,62.99,75.93,8.538,-80.7821
+Panama,,3/25/2020,Partly cloudy throughout the day.,rain,0.05,0.0055,0.0256,0.33,rain,76.0,63.34,64.97,0.9,1012.0,0.56,10,62.91,76.0,8.538,-80.7821
+Panama,,3/26/2020,Mostly cloudy throughout the day.,rain,0.08,0.0027,0.0136,0.29,rain,78.45,62.53,64.31,0.87,1011.3,0.63,9,63.34,78.45,8.538,-80.7821
+Panama,,3/27/2020,Partly cloudy throughout the day.,rain,0.11,0.0028,0.0149,0.3,rain,78.71,62.65,63.24,0.85,1010.5,0.48,12,62.53,78.71,8.538,-80.7821
+Panama,,3/28/2020,Mostly cloudy throughout the day.,rain,0.14,0.0092,0.0243,0.45,rain,75.18,62.46,64.97,0.91,1010.8,0.59,9,62.65,75.18,8.538,-80.7821
+Panama,,3/29/2020,Mostly cloudy throughout the day.,rain,0.17,0.003,0.0107,0.27,rain,75.24,64.08,64.77,0.9,1011.5,0.57,10,62.46,75.24,8.538,-80.7821
+Panama,,3/30/2020,Mostly cloudy throughout the day.,rain,0.21,0.011000000000000001,0.0313,0.44,rain,75.19,63.74,66.65,0.94,1011.5,0.63,8,64.08,75.19,8.538,-80.7821
+Panama,,3/31/2020,Mostly cloudy throughout the day.,rain,0.24,0.0081,0.017,0.41,rain,77.68,63.24,66.63,0.94,1010.8,0.54,9,63.74,77.68,8.538,-80.7821
+Panama,,4/1/2020,Mostly cloudy throughout the day.,rain,0.27,0.0062,0.0135,0.4,rain,80.22,63.08,65.92,0.89,1011.2,0.72,8,63.24,80.22,8.538,-80.7821
+Panama,,4/2/2020,Mostly cloudy throughout the day.,rain,0.31,0.0038,0.0098,0.34,rain,79.18,63.12,65.78,0.9,1011.9,0.61,10,63.08,79.18,8.538,-80.7821
+Panama,,4/3/2020,Clear throughout the day.,clear-day,0.34,0.0004,0.0018,0.1,rain,82.07,64.96,64.36,0.83,1011.0,0.27,12,63.12,82.07,8.538,-80.7821
+Panama,,4/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.0028,0.0078,0.23,rain,80.14,64.42,67.2,0.9,1010.2,0.42,10,64.96,80.14,8.538,-80.7821
+Panama,,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0016,0.0076,0.22,rain,82.27,65.38,65.84,0.85,1010.9,0.46,12,64.42,82.27,8.538,-80.7821
+Panama,,4/6/2020,Possible light rain overnight.,rain,0.46,0.0042,0.0158,0.41,rain,78.99,66.33,67.97,0.92,1011.8,0.59,10,65.38,78.99,8.538,-80.7821
+Panama,,4/7/2020,Possible light rain in the morning and overnight.,rain,0.5,0.0149,0.0357,0.75,rain,78.83,66.91,69.3,0.95,1012.3,0.65,8,66.33,78.83,8.538,-80.7821
+Panama,,4/8/2020,Possible light rain in the morning.,rain,0.54,0.0095,0.0263,0.63,rain,79.35,66.31,69.06,0.94,1011.4,0.67,8,66.91,79.35,8.538,-80.7821
+Panama,,4/9/2020,Possible light rain in the morning.,rain,0.58,0.009000000000000001,0.023,0.59,rain,76.62,65.47,68.99,0.96,1011.0,0.81,9,66.31,76.62,8.538,-80.7821
+Panama,,4/10/2020,Partly cloudy throughout the day.,rain,0.62,0.0021,0.0061,0.31,rain,78.95,65.7,67.42,0.9,1011.1,0.54,11,65.47,78.95,8.538,-80.7821
+Panama,,4/11/2020,Mostly cloudy throughout the day.,rain,0.65,0.0034,0.0121,0.46,rain,79.12,65.21,67.8,0.91,1011.8,0.7,9,65.7,79.12,8.538,-80.7821
+Panama,,4/12/2020,Light rain throughout the day.,rain,0.69,0.013000000000000001,0.0342,0.84,rain,79.62,65.46,68.59,0.93,1012.5,0.73,10,65.21,79.62,8.538,-80.7821
+Panama,,4/13/2020,Rain and humid throughout the day.,rain,0.72,0.0617,0.1259,0.98,rain,75.73,65.08,69.29,0.98,1013.5,0.79,7,65.46,75.73,8.538,-80.7821
+Panama,,4/14/2020,Rain and humid throughout the day.,rain,0.75,0.0806,0.1836,0.98,rain,74.27,63.59,68.26,0.99,1013.3,0.74,8,65.08,74.27,8.538,-80.7821
+Panama,,4/15/2020,Rain until evening.,rain,0.79,0.0617,0.1896,0.95,rain,74.34,63.89,67.95,1.0,1012.8,0.69,9,63.59,74.34,8.538,-80.7821
+Panama,,4/16/2020,Partly cloudy throughout the day.,rain,0.82,0.004,0.0157,0.42,rain,78.74,63.61,66.65,0.92,1013.6,0.48,12,63.89,78.74,8.538,-80.7821
+Panama,,4/17/2020,Partly cloudy throughout the day.,rain,0.85,0.0048,0.0142,0.31,rain,75.96,63.76,66.66,0.94,1014.2,0.4,11,63.61,75.96,8.538,-80.7821
+Panama,,4/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.88,0.0007,0.002,0.14,rain,78.08,62.85,65.07,0.88,1014.1,0.34,11,63.76,78.08,8.538,-80.7821
+Panama,,4/19/2020,Mostly cloudy throughout the day.,rain,0.91,0.0033,0.0076,0.32,rain,78.9,61.96,65.7,0.9,1013.4,0.46,8,62.85,78.9,8.538,-80.7821
+Panama,,4/20/2020,Partly cloudy throughout the day.,rain,0.94,0.0028,0.0112,0.26,rain,79.82,64.6,65.62,0.89,1012.8,0.45,10,61.96,79.82,8.538,-80.7821

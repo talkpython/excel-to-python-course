@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Cruise Ship,Diamond Princess,12/31/2019,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0,0.0002,0.04,,52.08,39.97,24.45,0.44,1021.4,0.33,2,41.2,52.08,35.4437,139.638
+Cruise Ship,Diamond Princess,1/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.06,rain,54.63,40.74,30.36,0.52,1021.5,0.35,2,39.97,54.63,35.4437,139.638
+Cruise Ship,Diamond Princess,1/2/2020,Clear throughout the day.,clear-day,0.26,0.0,0.0,0.0,,54.95,40.29,31.16,0.54,1016.5,0.07,2,40.74,54.95,35.4437,139.638
+Cruise Ship,Diamond Princess,1/3/2020,Possible light rain overnight.,rain,0.29,0.0009,0.0199,0.28,rain,54.61,38.3,29.5,0.51,1014.7,0.45,2,40.29,54.61,35.4437,139.638
+Cruise Ship,Diamond Princess,1/4/2020,Clear throughout the day.,rain,0.32,0.0023,0.0288,0.53,rain,52.87,39.18,22.42,0.43,1020.6,0.1,2,38.3,52.87,35.4437,139.638
+Cruise Ship,Diamond Princess,1/5/2020,Clear throughout the day.,clear-day,0.35,0.0,0.0002,0.01,,55.07,41.94,21.58,0.37,1025.7,0.3,2,38.87,55.07,35.4437,139.638
+Cruise Ship,Diamond Princess,1/6/2020,Light rain starting in the afternoon.,rain,0.38,0.0042,0.0177,0.82,rain,51.21,41.81,32.78,0.61,1024.8,0.94,2,41.97,51.21,35.4437,139.638
+Cruise Ship,Diamond Princess,1/7/2020,Light rain in the morning and afternoon.,rain,0.42,0.0122,0.0984,0.76,rain,56.02,45.81,39.6,0.73,1004.2,0.64,2,41.81,56.02,35.4437,139.638
+Cruise Ship,Diamond Princess,1/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0009,0.0095,0.09,rain,59.31,42.84,32.47,0.5,1009.7,0.32,3,46.7,59.31,35.4437,139.638
+Cruise Ship,Diamond Princess,1/9/2020,Clear throughout the day.,rain,0.49,0.0012,0.0064,0.29,rain,54.3,41.53,34.0,0.59,1016.5,0.49,3,42.84,54.3,35.4437,139.638
+Cruise Ship,Diamond Princess,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0003,0.0013,0.13,rain,54.78,40.0,35.64,0.63,1015.4,0.65,2,41.53,54.78,35.4437,139.638
+Cruise Ship,Diamond Princess,1/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.0002,0.0011,0.18,rain,52.67,41.29,34.73,0.64,1011.3,0.6,2,39.99,52.67,35.4437,139.638
+Cruise Ship,Diamond Princess,1/12/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0005,0.19,rain,56.49,42.55,36.2,0.64,1011.6,0.18,3,40.88,56.49,35.4437,139.638
+Cruise Ship,Diamond Princess,1/13/2020,Rain overnight.,partly-cloudy-day,0.64,0.0001,0.0006,0.07,rain,55.93,42.67,37.02,0.64,1020.0,0.59,3,42.55,55.93,35.4437,139.638
+Cruise Ship,Diamond Princess,1/14/2020,Rain in the morning.,rain,0.67,0.0178,0.1247,0.89,rain,53.56,40.79,37.61,0.7,1016.4,0.66,2,42.82,53.56,35.4437,139.638
+Cruise Ship,Diamond Princess,1/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0009,0.1,rain,51.94,40.98,25.64,0.46,1021.8,0.68,2,40.79,51.94,35.4437,139.638
+Cruise Ship,Diamond Princess,1/16/2020,Light rain overnight.,rain,0.75,0.0008,0.0083,0.37,rain,53.18,39.9,31.47,0.55,1018.8,0.99,2,40.98,53.18,35.4437,139.638
+Cruise Ship,Diamond Princess,1/17/2020,Light rain until evening.,rain,0.78,0.0248,0.0657,0.98,rain,44.29,37.48,32.81,0.71,1012.7,0.99,2,38.8,44.29,35.4437,139.638
+Cruise Ship,Diamond Princess,1/18/2020,Clear throughout the day.,partly-cloudy-day,0.82,0.0001,0.001,0.11,rain,50.22,38.41,30.72,0.59,1015.2,0.55,3,37.48,50.22,35.4437,139.638
+Cruise Ship,Diamond Princess,1/19/2020,Clear throughout the day.,clear-day,0.85,0.0,0.0002,0.02,,55.73,39.48,30.92,0.55,1013.4,0.01,3,38.41,55.73,35.4437,139.638
+Cruise Ship,Diamond Princess,1/20/2020,Clear throughout the day.,clear-day,0.89,0.0001,0.0002,0.03,rain,55.01,39.18,23.57,0.43,1019.7,0.12,3,39.48,55.01,35.4437,139.638
+Cruise Ship,Diamond Princess,1/21/2020,Overcast throughout the day.,partly-cloudy-day,0.92,0.0001,0.0004,0.06,rain,49.71,40.89,27.63,0.53,1028.2,0.74,3,39.18,49.71,35.4437,139.638
+Cruise Ship,Diamond Princess,1/22/2020,Drizzle until evening.,rain,0.95,0.0054,0.0134,0.89,rain,49.68,45.43,35.01,0.66,1021.9,0.89,3,40.89,49.68,35.4437,139.638
+Cruise Ship,Diamond Princess,1/23/2020,Overcast throughout the day.,partly-cloudy-day,0.99,0.0005,0.002,0.14,rain,57.76,45.02,41.9,0.71,1022.2,0.85,2,45.43,57.76,35.4437,139.638
+Cruise Ship,Diamond Princess,1/24/2020,Possible light rain overnight.,cloudy,0.02,0.0001,0.001,0.08,rain,52.03,38.43,24.56,0.4,1027.5,0.97,2,45.02,52.03,35.4437,139.638
+Cruise Ship,Diamond Princess,1/25/2020,Light rain in the morning.,rain,0.05,0.0097,0.0314,0.83,rain,47.95,40.17,32.8,0.66,1026.3,0.99,2,38.43,47.95,35.4437,139.638
+Cruise Ship,Diamond Princess,1/26/2020,Light rain in the evening and overnight.,rain,0.08,0.0112,0.0577,0.66,rain,50.19,38.73,32.92,0.65,1025.0,0.99,2,40.17,50.19,35.4437,139.638
+Cruise Ship,Diamond Princess,1/27/2020,Rain throughout the day.,rain,0.11,0.0826,0.3633,1.0,rain,50.6,48.37,40.74,0.88,1015.7,1.0,2,38.52,52.69,35.4437,139.638
+Cruise Ship,Diamond Princess,1/28/2020,Possible light rain and windy in the morning.,rain,0.14,0.0368,0.3745,0.94,rain,63.06,48.01,48.42,0.76,1002.3,0.54,3,49.44,63.06,35.4437,139.638
+Cruise Ship,Diamond Princess,1/29/2020,Clear throughout the day.,clear-day,0.17,0.0002,0.0019,0.18,rain,61.61,45.33,39.98,0.6,999.6,0.29,3,48.01,61.61,35.4437,139.638
+Cruise Ship,Diamond Princess,1/30/2020,Overcast throughout the day.,partly-cloudy-day,0.2,0.0004,0.0027,0.18,rain,53.2,41.6,25.17,0.41,1004.7,0.64,2,44.41,53.2,35.4437,139.638
+Cruise Ship,Diamond Princess,1/31/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0003,0.03,rain,55.8,42.45,21.03,0.34,1014.4,0.16,4,41.6,55.8,35.4437,139.638
+Cruise Ship,Diamond Princess,2/1/2020,Clear throughout the day.,partly-cloudy-day,0.26,0.0002,0.002,0.06,rain,55.92,42.08,22.09,0.37,1021.4,0.42,4,42.45,55.92,35.4437,139.638
+Cruise Ship,Diamond Princess,2/2/2020,Clear throughout the day.,partly-cloudy-day,0.29,0.0005,0.0033,0.11,rain,60.72,42.64,32.85,0.51,1017.7,0.62,4,42.08,60.72,35.4437,139.638
+Cruise Ship,Diamond Princess,2/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.33,0.0007,0.0058,0.15,rain,54.39,40.21,30.09,0.5,1019.8,0.54,3,42.64,54.39,35.4437,139.638
+Cruise Ship,Diamond Princess,2/4/2020,Clear throughout the day.,clear-day,0.36,0.0002,0.0026,0.13,rain,59.76,36.81,25.25,0.45,1012.8,0.03,4,40.21,59.76,35.4437,139.638
+Cruise Ship,Diamond Princess,2/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.4,0.0001,0.0007,0.06,rain,44.84,30.11,9.37,0.29,1022.1,0.48,3,35.66,44.84,35.4437,139.638
+Cruise Ship,Diamond Princess,2/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0001,0.0006,0.04,rain,46.4,35.47,17.77,0.43,1026.3,0.63,3,30.11,46.4,35.4437,139.638
+Cruise Ship,Diamond Princess,2/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0007,0.0048,0.2,rain,55.06,36.71,23.03,0.44,1013.8,0.59,3,35.47,55.06,35.4437,139.638
+Cruise Ship,Diamond Princess,2/8/2020,Clear throughout the day.,clear-day,0.51,0.0007,0.0039,0.22,rain,47.07,33.71,11.23,0.3,1016.1,0.27,3,36.71,47.07,35.4437,139.638
+Cruise Ship,Diamond Princess,2/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.55,0.0002,0.0004,0.09,rain,51.03,38.53,20.27,0.41,1015.0,0.32,2,33.71,51.03,35.4437,139.638
+Cruise Ship,Diamond Princess,2/10/2020,Clear throughout the day.,clear-day,0.58,0.0001,0.0002,0.05,rain,53.49,38.24,21.68,0.4,1025.3,0.04,4,38.53,53.49,35.4437,139.638
+Cruise Ship,Diamond Princess,2/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.0005,0.0036,0.07,rain,62.01,52.26,34.94,0.56,1025.9,0.65,3,38.24,62.01,35.4437,139.638
+Cruise Ship,Diamond Princess,2/12/2020,Rain in the morning.,rain,0.66,0.0145,0.1006,0.92,rain,63.8,48.29,47.01,0.71,1015.4,0.66,3,50.91,63.8,35.4437,139.638
+Cruise Ship,Diamond Princess,2/13/2020,Mostly cloudy throughout the day.,rain,0.7,0.0011,0.006,0.27,rain,60.71,46.52,46.73,0.74,1018.9,0.56,3,48.29,60.71,35.4437,139.638
+Cruise Ship,Diamond Princess,2/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.0001,0.0004,0.07,rain,62.84,48.13,45.0,0.7,1020.5,0.59,3,46.52,62.84,35.4437,139.638
+Cruise Ship,Diamond Princess,2/15/2020,Light rain throughout the day.,rain,0.77,0.0106,0.0493,0.94,rain,54.18,50.32,45.35,0.81,1009.8,0.82,3,48.13,55.35,35.4437,139.638
+Cruise Ship,Diamond Princess,2/16/2020,Clear throughout the day.,rain,0.8,0.0007,0.0097,0.58,rain,62.33,39.41,40.36,0.6,1001.2,0.4,4,47.53,62.33,35.4437,139.638
+Cruise Ship,Diamond Princess,2/17/2020,Clear throughout the day.,clear-day,0.84,0.0003,0.0015,0.14,rain,54.71,36.57,16.88,0.33,1011.4,0.16,4,39.41,54.71,35.4437,139.638
+Cruise Ship,Diamond Princess,2/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0001,0.0004,0.03,rain,55.54,39.69,22.81,0.4,1024.6,0.41,4,36.57,55.54,35.4437,139.638
+Cruise Ship,Diamond Princess,2/19/2020,Overcast throughout the day.,cloudy,0.9,0.0008,0.0114,0.21,rain,57.42,44.04,34.09,0.58,1028.6,0.94,3,39.69,57.42,35.4437,139.638
+Cruise Ship,Diamond Princess,2/20/2020,Clear throughout the day.,rain,0.93,0.0009,0.0131,0.28,rain,58.36,48.6,37.56,0.6,1034.0,0.24,5,44.04,58.36,35.4437,139.638
+Cruise Ship,Diamond Princess,2/21/2020,Possible light rain in the afternoon and evening.,rain,0.96,0.0097,0.0399,0.72,rain,63.55,46.07,47.04,0.7,1021.3,0.72,4,48.6,63.55,35.4437,139.638
+Cruise Ship,Diamond Princess,2/22/2020,Clear throughout the day.,clear-day,1.0,0.0001,0.0003,0.09,rain,60.95,39.54,25.61,0.38,1016.6,0.13,4,45.46,60.95,35.4437,139.638
+Cruise Ship,Diamond Princess,2/23/2020,Clear throughout the day.,clear-day,0.03,0.0,0.0003,0.01,,59.7,43.06,27.72,0.43,1021.8,0.06,4,39.54,59.7,35.4437,139.638
+Cruise Ship,Diamond Princess,2/24/2020,Light rain overnight.,rain,0.06,0.0003,0.0049,0.32,rain,61.03,46.92,36.13,0.55,1019.6,0.95,3,43.06,61.03,35.4437,139.638
+Cruise Ship,Diamond Princess,2/25/2020,"Light rain until morning, starting again in the evening.",rain,0.09,0.0086,0.0322,0.95,rain,51.99,40.92,42.29,0.78,1013.8,0.99,3,45.39,51.99,35.4437,139.638
+Cruise Ship,Diamond Princess,2/26/2020,Clear throughout the day.,rain,0.12,0.0034,0.0197,0.74,rain,52.97,36.12,24.96,0.47,1017.4,0.35,4,40.92,52.97,35.4437,139.638
+Cruise Ship,Diamond Princess,2/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.15,0.0001,0.0008,0.04,rain,51.74,41.42,22.93,0.43,1023.0,0.45,4,36.12,51.74,35.4437,139.638
+Cruise Ship,Diamond Princess,2/28/2020,Drizzle in the evening and overnight.,rain,0.18,0.0017,0.0099,0.6,rain,57.64,45.9,35.91,0.59,1018.3,0.67,4,41.42,57.64,35.4437,139.638
+Cruise Ship,Diamond Princess,2/29/2020,Possible light rain overnight.,rain,0.21,0.0007,0.0104,0.64,rain,62.83,47.21,39.95,0.61,1015.6,0.57,5,45.9,62.83,35.4437,139.638
+Cruise Ship,Diamond Princess,3/1/2020,Light rain in the morning and afternoon.,rain,0.24,0.0137,0.0318,0.97,rain,48.63,42.61,40.85,0.76,1015.5,0.95,3,45.59,54.21,35.4437,139.638
+Cruise Ship,Diamond Princess,3/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0001,0.0016,0.06,rain,60.89,48.05,37.58,0.58,1020.4,0.36,4,42.61,60.89,35.4437,139.638
+Cruise Ship,Diamond Princess,3/3/2020,Light rain throughout the day.,rain,0.31,0.0111,0.0508,0.88,rain,54.37,46.04,43.07,0.73,1018.6,0.99,4,47.47,54.37,35.4437,139.638
+Cruise Ship,Diamond Princess,3/4/2020,Mostly cloudy throughout the day.,rain,0.34,0.0054,0.0634,0.9,rain,55.83,39.27,33.07,0.56,1006.4,0.63,3,43.57,55.83,35.4437,139.638
+Cruise Ship,Diamond Princess,3/5/2020,Clear throughout the day.,clear-day,0.38,0.0001,0.0003,0.02,rain,57.58,43.37,23.14,0.37,1017.3,0.08,5,39.27,57.58,35.4437,139.638
+Cruise Ship,Diamond Princess,3/6/2020,Overcast throughout the day.,cloudy,0.41,0.0023,0.0059,0.21,rain,55.0,44.4,35.92,0.62,1022.6,0.95,3,43.37,55.0,35.4437,139.638
+Cruise Ship,Diamond Princess,3/7/2020,Light rain until evening.,rain,0.45,0.0122,0.0573,0.91,rain,50.96,48.38,41.02,0.76,1018.1,0.99,3,44.4,51.29,35.4437,139.638
+Cruise Ship,Diamond Princess,3/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0004,0.0018,0.13,rain,64.77,54.17,47.4,0.72,1016.0,0.62,3,48.38,64.77,35.4437,139.638
+Cruise Ship,Diamond Princess,3/9/2020,Rain in the afternoon and evening.,rain,0.53,0.0273,0.129,0.98,rain,61.62,55.49,55.7,0.9,1004.3,0.95,4,54.17,63.78,35.4437,139.638
+Cruise Ship,Diamond Princess,3/10/2020,Clear throughout the day.,clear-day,0.57,0.0006,0.0035,0.19,rain,66.5,44.53,48.35,0.66,1001.0,0.11,6,51.57,66.5,35.4437,139.638
+Cruise Ship,Diamond Princess,3/11/2020,Partly cloudy throughout the day.,clear-day,0.61,0.0008,0.0069,0.18,rain,59.67,48.68,32.29,0.48,1019.8,0.29,5,44.53,59.67,35.4437,139.638
+Cruise Ship,Diamond Princess,3/12/2020,Overcast throughout the day.,partly-cloudy-day,0.65,0.0003,0.0036,0.12,rain,65.67,47.35,39.96,0.55,1016.5,0.84,4,48.68,65.67,35.4437,139.638
+Cruise Ship,Diamond Princess,3/13/2020,Rain until evening.,rain,0.68,0.0413,0.1349,0.98,rain,48.87,38.15,39.36,0.79,1008.7,0.77,4,39.73,53.26,35.4437,139.638
+Cruise Ship,Diamond Princess,3/14/2020,Mostly cloudy throughout the day.,rain,0.72,0.0014,0.006,0.35,rain,52.32,38.68,32.72,0.61,1006.2,0.66,3,38.15,52.32,35.4437,139.638
+Cruise Ship,Diamond Princess,3/15/2020,Windy in the afternoon.,wind,0.75,0.0003,0.002,0.09,rain,56.81,37.38,24.46,0.45,1006.4,0.34,4,38.68,56.81,35.4437,139.638
+Cruise Ship,Diamond Princess,3/16/2020,Clear throughout the day.,clear-day,0.79,0.0001,0.0005,0.01,rain,57.57,42.55,25.34,0.41,1015.6,0.08,5,37.38,57.57,35.4437,139.638
+Cruise Ship,Diamond Princess,3/17/2020,Clear throughout the day.,clear-day,0.82,0.0001,0.0004,0.03,rain,64.24,44.91,36.32,0.52,1013.3,0.08,6,42.55,64.24,35.4437,139.638
+Cruise Ship,Diamond Princess,3/18/2020,Light rain in the evening and overnight.,rain,0.85,0.0062,0.0749,0.8,rain,69.21,57.68,44.57,0.62,1011.0,0.15,6,44.91,69.21,35.4437,139.638
+Cruise Ship,Diamond Princess,3/19/2020,Windy in the morning.,rain,0.88,0.0048,0.0793,0.8,rain,65.56,44.12,36.91,0.47,1003.0,0.36,5,50.92,65.56,35.4437,139.638
+Cruise Ship,Diamond Princess,3/20/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0004,0.01,rain,69.91,48.67,33.28,0.41,1011.9,0.02,6,44.12,69.91,35.4437,139.638
+Cruise Ship,Diamond Princess,3/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0001,0.0005,0.04,rain,73.33,50.93,43.36,0.51,1007.8,0.7,6,48.67,73.33,35.4437,139.638
+Cruise Ship,Diamond Princess,3/22/2020,Possible light rain overnight.,rain,0.97,0.0041,0.0131,0.42,rain,54.66,43.08,38.16,0.62,1010.3,0.84,3,44.86,57.75,35.4437,139.638
+Cruise Ship,Diamond Princess,3/23/2020,Clear throughout the day.,rain,0.0,0.0035,0.0223,0.43,rain,56.15,37.47,22.6,0.38,1013.9,0.32,6,43.08,56.15,35.4437,139.638
+Cruise Ship,Diamond Princess,3/24/2020,Clear throughout the day.,clear-day,0.03,0.0002,0.0004,0.01,rain,59.21,45.34,28.72,0.46,1021.0,0.06,6,37.47,59.21,35.4437,139.638
+Cruise Ship,Diamond Princess,3/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.06,0.0001,0.0003,0.01,rain,66.11,49.43,35.74,0.48,1021.5,0.44,7,45.34,66.11,35.4437,139.638
+Cruise Ship,Diamond Princess,3/26/2020,Drizzle overnight.,rain,0.09,0.0007,0.0063,0.46,rain,70.68,62.48,50.38,0.68,1017.4,0.75,5,49.43,70.68,35.4437,139.638
+Cruise Ship,Diamond Princess,3/27/2020,Rain throughout the day.,rain,0.12,0.0198,0.1153,1.0,rain,70.87,40.81,56.25,0.82,1011.6,0.93,4,47.75,70.87,35.4437,139.638
+Cruise Ship,Diamond Princess,3/28/2020,Rain in the morning and afternoon.,rain,0.16,0.0953,0.2021,1.0,rain,44.4,39.81,38.52,0.87,1018.0,0.96,4,37.36,47.05,35.4437,139.638
+Cruise Ship,Diamond Princess,3/29/2020,Overcast throughout the day.,cloudy,0.19,0.0001,0.0004,0.07,rain,54.87,45.43,37.97,0.7,1022.8,0.98,4,39.81,54.87,35.4437,139.638
+Cruise Ship,Diamond Princess,3/30/2020,Possible drizzle overnight.,rain,0.22,0.0011,0.005,0.34,rain,58.93,50.61,43.25,0.72,1022.1,0.99,4,45.43,58.93,35.4437,139.638
+Cruise Ship,Diamond Princess,3/31/2020,Rain throughout the day.,rain,0.25,0.0463,0.1007,1.0,rain,56.66,52.2,50.64,0.89,1007.5,0.99,4,50.61,56.66,35.4437,139.638
+Cruise Ship,Diamond Princess,4/1/2020,Partly cloudy throughout the day.,rain,0.29,0.0056,0.035,0.89,rain,64.91,45.81,40.54,0.55,1006.5,0.41,7,50.84,64.91,35.4437,139.638
+Cruise Ship,Diamond Princess,4/2/2020,Clear throughout the day.,partly-cloudy-day,0.32,0.0001,0.0009,0.04,rain,63.71,50.65,36.32,0.49,1020.4,0.33,6,45.81,63.71,35.4437,139.638
+Cruise Ship,Diamond Princess,4/3/2020,Clear throughout the day.,clear-day,0.36,0.0003,0.0017,0.13,rain,70.09,51.19,46.41,0.61,1014.7,0.27,7,50.65,70.09,35.4437,139.638
+Cruise Ship,Diamond Princess,4/4/2020,Mostly cloudy throughout the day.,rain,0.4,0.0021,0.0173,0.38,rain,59.95,45.88,42.68,0.66,1011.4,0.56,5,47.63,60.37,35.4437,139.638
+Cruise Ship,Diamond Princess,4/5/2020,Clear throughout the day.,clear-day,0.44,0.0005,0.0054,0.04,rain,62.69,46.95,37.29,0.53,1014.7,0.31,7,45.88,62.69,35.4437,139.638
+Cruise Ship,Diamond Princess,4/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.48,0.0,0.0002,0.01,,62.84,47.57,33.15,0.44,1013.9,0.66,5,46.95,62.84,35.4437,139.638
+Cruise Ship,Diamond Princess,4/7/2020,Clear throughout the day.,clear-day,0.52,0.0,0.0002,0.01,,67.47,51.28,42.89,0.56,1012.7,0.05,7,47.57,67.47,35.4437,139.638
+Cruise Ship,Diamond Princess,4/8/2020,Clear throughout the day.,clear-day,0.55,0.001,0.0052,0.15,rain,65.27,45.97,43.15,0.58,1015.6,0.21,7,49.51,65.27,35.4437,139.638
+Cruise Ship,Diamond Princess,4/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.59,0.0003,0.0034,0.1,rain,61.64,46.19,31.94,0.49,1017.3,0.63,4,45.97,61.64,35.4437,139.638
+Cruise Ship,Diamond Princess,4/10/2020,Light rain in the evening and overnight.,rain,0.63,0.0095,0.0932,0.67,rain,60.94,45.49,31.27,0.45,1018.4,0.49,6,46.19,60.94,35.4437,139.638
+Cruise Ship,Diamond Princess,4/11/2020,"Rain until morning, starting again in the evening.",rain,0.67,0.016,0.0957,0.98,rain,57.81,49.6,45.83,0.8,1013.9,0.96,4,45.49,57.81,35.4437,139.638
+Cruise Ship,Diamond Princess,4/12/2020,Rain throughout the day.,rain,0.7,0.1129,0.3013,1.0,rain,56.66,43.95,46.78,0.88,994.6,0.99,3,43.95,56.66,35.4437,139.638
+Cruise Ship,Diamond Princess,4/13/2020,Clear throughout the day.,rain,0.73,0.0009,0.0128,0.72,rain,61.77,44.06,36.31,0.54,1004.9,0.22,7,45.05,61.77,35.4437,139.638
+Cruise Ship,Diamond Princess,4/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.77,0.0,0.0001,0.01,,67.7,51.36,39.78,0.52,1012.6,0.49,5,44.06,67.7,35.4437,139.638
+Cruise Ship,Diamond Princess,4/15/2020,Mostly cloudy throughout the day.,rain,0.8,0.0012,0.0073,0.38,rain,62.99,47.26,43.25,0.61,1016.1,0.82,4,49.14,62.99,35.4437,139.638
+Cruise Ship,Diamond Princess,4/16/2020,Light rain overnight.,rain,0.83,0.0013,0.0089,0.45,rain,61.07,55.25,43.89,0.68,1024.7,0.96,4,47.26,61.07,35.4437,139.638
+Cruise Ship,Diamond Princess,4/17/2020,Rain until evening.,rain,0.86,0.0869,0.2901,1.0,rain,67.08,51.12,53.48,0.82,1011.5,0.8,4,55.25,67.08,35.4437,139.638
+Cruise Ship,Diamond Princess,4/18/2020,Clear throughout the day.,partly-cloudy-day,0.89,0.0,0.0002,0.03,,69.59,51.49,46.27,0.61,1011.7,0.35,8,51.12,69.59,35.4437,139.638
+Cruise Ship,Diamond Princess,4/19/2020,Light rain in the morning and afternoon.,rain,0.92,0.0235,0.0647,0.95,rain,54.28,50.42,46.84,0.81,1011.6,0.96,4,50.49,54.28,35.4437,139.638
+Cruise Ship,Diamond Princess,4/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.95,0.0001,0.0004,0.06,rain,67.33,54.7,49.44,0.7,1007.7,0.74,5,50.42,67.33,35.4437,139.638

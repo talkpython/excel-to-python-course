@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Mayotte,,12/31/2019,"Light rain until afternoon, starting again overnight.",rain,0.21,0.0204,0.0502,0.95,rain,83.84,79.64,74.93,0.81,1009.5,0.99,6,79.29,83.84,-12.8275,45.1662
+Mayotte,,1/1/2020,Possible drizzle in the morning.,rain,0.24,0.0044,0.0135,0.67,rain,84.31,79.75,74.8,0.79,1010.5,0.99,6,79.64,84.31,-12.8275,45.1662
+Mayotte,,1/2/2020,Humid and overcast throughout the day.,rain,0.27,0.003,0.01,0.42,rain,84.0,78.48,73.88,0.78,1012.8,0.96,7,79.63,84.0,-12.8275,45.1662
+Mayotte,,1/3/2020,Humid and mostly cloudy throughout the day.,rain,0.3,0.0022,0.0174,0.32,rain,84.45,78.05,73.29,0.77,1011.7,0.9,8,78.5,84.45,-12.8275,45.1662
+Mayotte,,1/4/2020,Possible light rain in the afternoon.,rain,0.33,0.0061,0.032,0.52,rain,83.02,78.03,72.32,0.77,1009.8,0.94,7,78.05,83.02,-12.8275,45.1662
+Mayotte,,1/5/2020,Humid and mostly cloudy throughout the day.,rain,0.36,0.0071,0.0259,0.48,rain,84.67,78.04,72.66,0.76,1009.9,0.81,10,78.44,84.67,-12.8275,45.1662
+Mayotte,,1/6/2020,Humid and mostly cloudy throughout the day.,rain,0.39,0.0037,0.0128,0.59,rain,83.13,77.49,73.34,0.79,1011.2,0.7,8,78.04,83.13,-12.8275,45.1662
+Mayotte,,1/7/2020,Possible light rain in the morning.,rain,0.43,0.0088,0.0376,0.7,rain,83.17,77.51,73.37,0.8,1011.5,0.69,9,77.49,83.17,-12.8275,45.1662
+Mayotte,,1/8/2020,Humid and partly cloudy throughout the day.,rain,0.46,0.0033,0.0155,0.41,rain,83.39,78.3,72.28,0.76,1010.5,0.56,9,77.51,83.39,-12.8275,45.1662
+Mayotte,,1/9/2020,Possible light rain in the morning and afternoon.,rain,0.5,0.0136,0.0653,0.78,rain,83.06,78.87,71.89,0.74,1010.5,0.86,6,78.3,83.06,-12.8275,45.1662
+Mayotte,,1/10/2020,Possible drizzle in the evening.,rain,0.53,0.0034,0.0122,0.67,rain,83.76,77.11,71.39,0.73,1010.8,0.6,8,78.87,83.76,-12.8275,45.1662
+Mayotte,,1/11/2020,Possible drizzle in the morning and afternoon.,rain,0.57,0.0055,0.0167,0.85,rain,83.3,76.6,71.08,0.74,1010.8,0.75,9,77.11,83.3,-12.8275,45.1662
+Mayotte,,1/12/2020,Light rain and humid throughout the day.,rain,0.61,0.0153,0.0455,0.93,rain,82.42,77.89,73.01,0.81,1010.2,0.81,8,76.57,82.42,-12.8275,45.1662
+Mayotte,,1/13/2020,Light rain until evening.,rain,0.65,0.0163,0.0478,0.96,rain,82.37,77.9,73.52,0.81,1010.3,0.72,7,77.89,82.37,-12.8275,45.1662
+Mayotte,,1/14/2020,"Possible drizzle until afternoon, starting again overnight.",rain,0.68,0.0042,0.0148,0.78,rain,83.53,78.16,72.77,0.78,1011.1,0.55,10,77.9,83.53,-12.8275,45.1662
+Mayotte,,1/15/2020,Light rain and humid throughout the day.,rain,0.72,0.0047,0.0299,0.92,rain,82.52,76.7,72.94,0.79,1010.6,0.68,8,78.16,82.52,-12.8275,45.1662
+Mayotte,,1/16/2020,Light rain and humid throughout the day.,rain,0.76,0.0238,0.0472,0.97,rain,81.96,78.71,74.36,0.84,1009.3,0.84,8,76.7,81.96,-12.8275,45.1662
+Mayotte,,1/17/2020,Light rain until evening.,rain,0.79,0.0195,0.0505,0.94,rain,83.24,79.89,75.56,0.84,1008.4,0.96,7,78.85,83.24,-12.8275,45.1662
+Mayotte,,1/18/2020,Light rain starting in the afternoon.,rain,0.83,0.0149,0.0512,0.84,rain,83.76,79.43,74.96,0.82,1008.2,0.98,6,79.87,83.76,-12.8275,45.1662
+Mayotte,,1/19/2020,Light rain in the morning and afternoon.,rain,0.86,0.0162,0.033,0.91,rain,83.78,80.0,75.93,0.83,1007.1,0.97,6,79.43,83.78,-12.8275,45.1662
+Mayotte,,1/20/2020,Possible drizzle in the evening.,rain,0.9,0.0104,0.0296,0.61,rain,85.06,80.11,75.71,0.81,1006.0,0.97,6,80.0,85.06,-12.8275,45.1662
+Mayotte,,1/21/2020,Rain throughout the day.,rain,0.93,0.0599,0.2068,0.92,rain,82.71,77.41,75.4,0.85,1005.8,0.99,6,77.38,82.71,-12.8275,45.1662
+Mayotte,,1/22/2020,Rain and humid throughout the day.,rain,0.96,0.0407,0.1127,0.96,rain,81.36,76.85,74.08,0.85,1008.1,0.99,6,77.29,81.36,-12.8275,45.1662
+Mayotte,,1/23/2020,Light rain and humid throughout the day.,rain,1.0,0.019,0.0429,0.9,rain,81.51,76.81,74.39,0.87,1010.5,0.84,9,76.81,81.51,-12.8275,45.1662
+Mayotte,,1/24/2020,Light rain and humid throughout the day.,rain,0.03,0.0098,0.0409,0.94,rain,81.63,75.42,73.6,0.84,1011.7,0.79,9,75.42,81.63,-12.8275,45.1662
+Mayotte,,1/25/2020,Light rain in the morning and afternoon.,rain,0.06,0.0149,0.0295,0.93,rain,82.74,76.81,72.06,0.79,1013.0,0.96,6,75.76,82.74,-12.8275,45.1662
+Mayotte,,1/26/2020,Humid and mostly cloudy throughout the day.,rain,0.09,0.0003,0.002,0.29,rain,83.44,78.06,71.63,0.75,1012.0,0.61,8,76.81,83.44,-12.8275,45.1662
+Mayotte,,1/27/2020,Possible light rain overnight.,rain,0.12,0.0023,0.0124,0.49,rain,83.78,78.99,73.45,0.79,1010.9,0.62,6,78.06,83.78,-12.8275,45.1662
+Mayotte,,1/28/2020,Possible light rain in the afternoon and evening.,rain,0.15,0.0117,0.0617,0.78,rain,84.31,78.88,74.29,0.8,1011.4,0.79,8,78.99,84.31,-12.8275,45.1662
+Mayotte,,1/29/2020,"Light rain until afternoon, starting again overnight.",rain,0.18,0.0177,0.0751,0.87,rain,83.78,77.66,74.52,0.81,1011.4,0.87,7,78.88,83.78,-12.8275,45.1662
+Mayotte,,1/30/2020,Rain in the morning and afternoon.,rain,0.21,0.0349,0.1296,0.93,rain,82.6,77.99,74.2,0.83,1010.6,0.94,6,77.66,82.6,-12.8275,45.1662
+Mayotte,,1/31/2020,Humid and mostly cloudy throughout the day.,rain,0.24,0.0048,0.0178,0.43,rain,82.69,77.14,72.74,0.78,1011.3,0.72,9,77.99,82.69,-12.8275,45.1662
+Mayotte,,2/1/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0002,0.0006,0.18,rain,83.58,78.26,72.66,0.77,1012.4,0.65,12,77.14,83.58,-12.8275,45.1662
+Mayotte,,2/2/2020,Possible light rain in the morning and overnight.,rain,0.3,0.008,0.0491,0.67,rain,83.45,77.14,73.38,0.8,1011.7,0.91,6,77.92,83.45,-12.8275,45.1662
+Mayotte,,2/3/2020,Possible light rain in the morning and afternoon.,rain,0.34,0.0076,0.0194,0.8,rain,83.29,77.49,71.96,0.76,1011.4,0.78,7,77.14,83.29,-12.8275,45.1662
+Mayotte,,2/4/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.37,0.0016,0.0137,0.2,rain,83.31,77.93,71.17,0.74,1011.6,0.84,6,77.49,83.31,-12.8275,45.1662
+Mayotte,,2/5/2020,Possible light rain in the morning.,rain,0.41,0.0089,0.0672,0.5,rain,82.67,77.85,71.93,0.76,1012.5,0.42,9,77.93,82.67,-12.8275,45.1662
+Mayotte,,2/6/2020,Humid throughout the day.,rain,0.44,0.0136,0.0713,0.58,rain,82.89,77.26,71.37,0.74,1013.2,0.05,13,77.85,82.89,-12.8275,45.1662
+Mayotte,,2/7/2020,Humid throughout the day.,rain,0.48,0.0078,0.0421,0.37,rain,83.02,77.53,71.34,0.74,1013.2,0.07,14,77.26,83.02,-12.8275,45.1662
+Mayotte,,2/8/2020,Humid throughout the day.,rain,0.52,0.0026,0.0124,0.35,rain,83.95,77.99,70.9,0.72,1012.6,0.09,14,77.53,83.95,-12.8275,45.1662
+Mayotte,,2/9/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.56,0.0014,0.0061,0.24,rain,84.54,78.28,70.32,0.7,1011.3,0.34,15,77.99,84.54,-12.8275,45.1662
+Mayotte,,2/10/2020,Humid throughout the day.,clear-day,0.59,0.0012,0.0081,0.18,rain,83.99,79.42,71.41,0.72,1009.8,0.21,13,78.28,83.99,-12.8275,45.1662
+Mayotte,,2/11/2020,Humid and partly cloudy throughout the day.,rain,0.63,0.0044,0.0245,0.52,rain,84.54,78.94,71.55,0.71,1008.7,0.48,8,79.42,84.54,-12.8275,45.1662
+Mayotte,,2/12/2020,Possible light rain until evening.,rain,0.67,0.016,0.0531,0.85,rain,83.63,78.85,72.3,0.75,1010.6,0.92,7,78.94,83.63,-12.8275,45.1662
+Mayotte,,2/13/2020,Light rain in the morning and afternoon.,rain,0.71,0.0112,0.0427,0.81,rain,84.04,79.4,72.69,0.75,1011.6,0.95,6,78.85,84.04,-12.8275,45.1662
+Mayotte,,2/14/2020,Humid and partly cloudy throughout the day.,rain,0.74,0.0011,0.0096,0.27,rain,85.0,79.56,73.2,0.75,1011.3,0.52,9,79.4,85.0,-12.8275,45.1662
+Mayotte,,2/15/2020,Humid throughout the day.,rain,0.78,0.004,0.0196,0.42,rain,85.26,79.27,73.86,0.76,1010.9,0.13,13,79.56,85.26,-12.8275,45.1662
+Mayotte,,2/16/2020,Possible light rain in the morning and afternoon.,rain,0.81,0.0202,0.0497,0.76,rain,84.98,79.35,73.66,0.77,1011.3,0.67,8,79.27,84.98,-12.8275,45.1662
+Mayotte,,2/17/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.0019,0.0161,0.21,rain,84.63,79.4,73.09,0.75,1011.7,0.77,11,79.35,84.63,-12.8275,45.1662
+Mayotte,,2/18/2020,Humid and overcast throughout the day.,cloudy,0.88,0.0005,0.0064,0.23,rain,85.01,78.78,73.57,0.76,1011.2,0.91,6,79.4,85.01,-12.8275,45.1662
+Mayotte,,2/19/2020,Possible light rain in the morning and afternoon.,rain,0.91,0.0151,0.0772,0.62,rain,83.7,78.51,73.76,0.78,1009.6,0.68,14,78.78,83.7,-12.8275,45.1662
+Mayotte,,2/20/2020,Light rain and humid throughout the day.,rain,0.94,0.021,0.0674,0.83,rain,84.66,77.4,73.16,0.76,1010.1,0.88,6,78.51,84.66,-12.8275,45.1662
+Mayotte,,2/21/2020,"Light rain until afternoon, starting again overnight.",rain,0.97,0.0201,0.042,0.95,rain,83.26,79.28,73.74,0.78,1010.5,0.99,6,77.4,83.26,-12.8275,45.1662
+Mayotte,,2/22/2020,"Light rain until afternoon, starting again overnight.",rain,0.0,0.0267,0.0807,0.92,rain,83.84,78.98,74.74,0.8,1010.0,0.98,6,79.28,83.84,-12.8275,45.1662
+Mayotte,,2/23/2020,Light rain and humid throughout the day.,rain,0.03,0.013000000000000001,0.0331,0.91,rain,85.54,79.23,75.51,0.81,1009.2,0.74,8,78.98,85.54,-12.8275,45.1662
+Mayotte,,2/24/2020,Rain and humid throughout the day.,rain,0.06,0.0561,0.2415,0.98,rain,83.38,77.84,75.15,0.84,1008.0,0.95,6,77.82,83.38,-12.8275,45.1662
+Mayotte,,2/25/2020,Light rain and humid throughout the day.,rain,0.09,0.0122,0.0606,0.91,rain,84.85,78.13,74.48,0.8,1009.0,0.82,7,78.24,84.85,-12.8275,45.1662
+Mayotte,,2/26/2020,Possible drizzle in the morning.,rain,0.12,0.0064,0.0156,0.62,rain,83.76,78.57,74.46,0.81,1009.9,0.83,7,78.13,83.76,-12.8275,45.1662
+Mayotte,,2/27/2020,Possible light rain overnight.,rain,0.15,0.0016,0.0147,0.32,rain,85.31,79.24,75.01,0.8,1009.7,0.46,14,78.57,85.31,-12.8275,45.1662
+Mayotte,,2/28/2020,Light rain in the morning and afternoon.,rain,0.18,0.0162,0.0495,0.88,rain,83.9,79.86,74.74,0.8,1007.8,0.78,6,79.24,83.9,-12.8275,45.1662
+Mayotte,,2/29/2020,Possible light rain in the afternoon.,rain,0.22,0.0105,0.0621,0.47,rain,84.9,79.31,74.59,0.79,1006.7,0.94,6,79.86,84.9,-12.8275,45.1662
+Mayotte,,3/1/2020,Possible light rain in the morning.,rain,0.25,0.0055,0.0231,0.49,rain,84.01,78.77,74.19,0.79,1008.3,0.87,6,79.31,84.01,-12.8275,45.1662
+Mayotte,,3/2/2020,Humid and overcast throughout the day.,rain,0.28,0.0099,0.0515,0.52,rain,84.3,78.83,74.22,0.79,1010.7,0.83,6,78.77,84.3,-12.8275,45.1662
+Mayotte,,3/3/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.31,0.0004,0.0028,0.14,rain,84.89,79.34,71.37,0.71,1011.2,0.64,9,78.83,84.89,-12.8275,45.1662
+Mayotte,,3/4/2020,Humid and overcast throughout the day.,rain,0.35,0.0028,0.0129,0.29,rain,84.22,79.4,72.31,0.74,1010.2,0.82,6,79.34,84.22,-12.8275,45.1662
+Mayotte,,3/5/2020,Possible light rain overnight.,rain,0.39,0.0024,0.0115,0.25,rain,84.23,78.81,73.51,0.76,1009.3,0.86,9,79.4,84.23,-12.8275,45.1662
+Mayotte,,3/6/2020,Light rain in the morning and afternoon.,rain,0.42,0.0125,0.0343,0.89,rain,82.22,79.52,73.11,0.79,1008.9,0.98,6,78.81,82.22,-12.8275,45.1662
+Mayotte,,3/7/2020,Light rain in the morning and afternoon.,rain,0.46,0.0103,0.0428,0.79,rain,83.24,78.35,73.41,0.78,1008.6,0.96,6,79.22,83.24,-12.8275,45.1662
+Mayotte,,3/8/2020,Light rain in the morning and afternoon.,rain,0.5,0.0144,0.0613,0.85,rain,84.65,79.77,73.82,0.79,1007.4,0.86,8,78.35,84.65,-12.8275,45.1662
+Mayotte,,3/9/2020,Possible drizzle in the morning.,rain,0.54,0.0021,0.0145,0.51,rain,84.97,79.09,73.35,0.75,1007.9,0.74,11,79.77,84.97,-12.8275,45.1662
+Mayotte,,3/10/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0021,0.018000000000000002,0.19,rain,85.11,80.02,72.91,0.74,1008.4,0.83,6,79.09,85.11,-12.8275,45.1662
+Mayotte,,3/11/2020,Possible drizzle in the morning and afternoon.,rain,0.62,0.0037,0.0093,0.73,rain,85.48,79.78,74.36,0.77,1008.5,0.95,6,80.02,85.48,-12.8275,45.1662
+Mayotte,,3/12/2020,Light rain in the morning and afternoon.,rain,0.66,0.0094,0.0741,0.8,rain,83.85,80.02,74.33,0.79,1009.1,0.85,6,79.78,83.85,-12.8275,45.1662
+Mayotte,,3/13/2020,Possible drizzle in the morning.,rain,0.69,0.0049,0.0136,0.69,rain,85.19,80.02,75.12,0.79,1009.6,0.96,7,80.02,85.19,-12.8275,45.1662
+Mayotte,,3/14/2020,Possible light rain in the morning and afternoon.,rain,0.73,0.0089,0.0292,0.79,rain,84.94,79.52,75.18,0.79,1007.9,0.98,6,80.02,84.94,-12.8275,45.1662
+Mayotte,,3/15/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.76,0.0006,0.0044,0.2,rain,85.14,79.38,73.04,0.74,1007.5,0.51,11,79.52,85.14,-12.8275,45.1662
+Mayotte,,3/16/2020,Humid throughout the day.,rain,0.79,0.0073,0.0283,0.32,rain,84.65,77.83,71.93,0.73,1009.4,0.19,13,78.03,84.65,-12.8275,45.1662
+Mayotte,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0002,0.0022,0.18,rain,83.87,77.96,69.17,0.68,1010.7,0.55,10,77.83,83.87,-12.8275,45.1662
+Mayotte,,3/18/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.86,0.0024,0.0144,0.15,rain,83.28,77.23,69.81,0.7,1011.3,0.36,10,77.96,83.28,-12.8275,45.1662
+Mayotte,,3/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.89,0.0,0.0002,0.06,,84.23,77.9,67.75,0.65,1012.1,0.4,12,77.23,84.23,-12.8275,45.1662
+Mayotte,,3/20/2020,Humid and mostly cloudy throughout the day.,rain,0.92,0.0032,0.0197,0.32,rain,83.92,78.73,70.87,0.72,1011.9,0.49,8,77.9,83.92,-12.8275,45.1662
+Mayotte,,3/21/2020,Humid and mostly cloudy throughout the day.,rain,0.95,0.0013,0.0053,0.38,rain,84.06,78.57,71.94,0.73,1012.4,0.5,7,78.73,84.06,-12.8275,45.1662
+Mayotte,,3/22/2020,Humid throughout the day.,rain,0.98,0.0043,0.0313,0.27,rain,84.15,77.87,71.77,0.73,1013.2,0.17,13,78.57,84.15,-12.8275,45.1662
+Mayotte,,3/23/2020,Humid throughout the day.,rain,0.01,0.0015,0.011000000000000001,0.25,rain,84.24,78.01,71.95,0.74,1011.3,0.19,11,77.87,84.24,-12.8275,45.1662
+Mayotte,,3/24/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0005,0.0021,0.14,rain,84.25,78.49,70.78,0.71,1008.6,0.32,10,78.01,84.25,-12.8275,45.1662
+Mayotte,,3/25/2020,Possible light rain in the morning.,rain,0.07,0.0131,0.0745,0.55,rain,84.22,78.57,71.65,0.74,1008.0,0.13,13,78.49,84.22,-12.8275,45.1662
+Mayotte,,3/26/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.001,0.0078,0.21,rain,83.97,78.97,70.98,0.71,1010.4,0.44,8,78.57,83.97,-12.8275,45.1662
+Mayotte,,3/27/2020,Possible light rain in the morning.,rain,0.13,0.004,0.0251,0.48,rain,84.22,79.04,72.15,0.74,1011.0,0.83,6,78.97,84.22,-12.8275,45.1662
+Mayotte,,3/28/2020,Humid throughout the day.,rain,0.16,0.0027,0.0168,0.35,rain,83.94,78.89,73.61,0.78,1009.5,0.52,13,79.04,83.94,-12.8275,45.1662
+Mayotte,,3/29/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0005,0.0021,0.15,rain,84.54,78.15,73.08,0.76,1009.0,0.47,12,78.89,84.54,-12.8275,45.1662
+Mayotte,,3/30/2020,Humid throughout the day.,clear-day,0.23,0.0001,0.0004,0.09,rain,85.35,77.67,71.18,0.71,1009.8,0.08,12,78.15,85.35,-12.8275,45.1662
+Mayotte,,3/31/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.26,0.0023,0.0188,0.17,rain,84.6,77.94,70.94,0.72,1010.6,0.43,12,77.67,84.6,-12.8275,45.1662
+Mayotte,,4/1/2020,Clear throughout the day.,clear-day,0.3,0.0002,0.0027,0.08,rain,83.59,77.25,69.04,0.68,1009.8,0.3,12,77.94,83.59,-12.8275,45.1662
+Mayotte,,4/2/2020,Clear throughout the day.,clear-day,0.33,0.0003,0.0015,0.07,rain,83.85,76.55,67.24,0.65,1009.8,0.27,10,77.25,83.85,-12.8275,45.1662
+Mayotte,,4/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0007,0.0022,0.15,rain,82.96,76.68,68.54,0.69,1011.1,0.32,10,76.55,82.96,-12.8275,45.1662
+Mayotte,,4/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0012,0.005,0.2,rain,82.54,77.03,70.35,0.74,1012.3,0.42,9,76.68,82.54,-12.8275,45.1662
+Mayotte,,4/5/2020,Possible light rain overnight.,rain,0.45,0.0098,0.0373,0.48,rain,82.75,77.96,71.37,0.75,1012.6,0.37,9,77.03,82.75,-12.8275,45.1662
+Mayotte,,4/6/2020,Humid throughout the day.,rain,0.49,0.009000000000000001,0.0541,0.55,rain,83.23,77.44,71.47,0.75,1012.9,0.2,10,77.96,83.23,-12.8275,45.1662
+Mayotte,,4/7/2020,Humid throughout the day.,clear-day,0.53,0.0001,0.0003,0.06,rain,83.9,79.25,71.13,0.73,1013.3,0.21,11,77.44,83.9,-12.8275,45.1662
+Mayotte,,4/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.56,0.0003,0.0017,0.15,rain,84.65,79.0,71.76,0.73,1012.8,0.34,8,79.0,84.65,-12.8275,45.1662
+Mayotte,,4/9/2020,Humid throughout the day.,clear-day,0.6,0.0003,0.0011,0.12,rain,84.82,78.36,72.94,0.74,1012.3,0.03,12,79.21,84.82,-12.8275,45.1662
+Mayotte,,4/10/2020,Humid throughout the day.,rain,0.64,0.0037,0.0132,0.53,rain,84.11,78.86,73.3,0.77,1012.5,0.09,10,78.36,84.11,-12.8275,45.1662
+Mayotte,,4/11/2020,Humid and partly cloudy throughout the day.,rain,0.68,0.0045,0.0136,0.45,rain,84.88,78.51,73.47,0.77,1011.6,0.29,7,78.86,84.88,-12.8275,45.1662
+Mayotte,,4/12/2020,Humid and overcast throughout the day.,rain,0.71,0.0021,0.0057,0.47,rain,84.62,78.0,73.57,0.77,1011.2,0.85,6,78.51,84.62,-12.8275,45.1662
+Mayotte,,4/13/2020,Humid and partly cloudy throughout the day.,rain,0.74,0.0007,0.002,0.27,rain,83.32,78.14,71.72,0.74,1012.0,0.5,11,78.0,83.32,-12.8275,45.1662
+Mayotte,,4/14/2020,Humid throughout the day.,clear-day,0.78,0.0003,0.0016,0.11,rain,84.53,79.07,72.13,0.74,1012.6,0.05,11,78.14,84.53,-12.8275,45.1662
+Mayotte,,4/15/2020,Humid and partly cloudy throughout the day.,rain,0.81,0.0007,0.0034,0.28,rain,84.17,77.9,71.64,0.73,1011.8,0.42,6,79.07,84.17,-12.8275,45.1662
+Mayotte,,4/16/2020,Humid and partly cloudy throughout the day.,rain,0.84,0.002,0.0063,0.46,rain,84.09,78.44,71.51,0.74,1011.3,0.59,8,77.9,84.09,-12.8275,45.1662
+Mayotte,,4/17/2020,Humid and partly cloudy throughout the day.,rain,0.87,0.0029,0.0095,0.4,rain,83.25,77.18,71.73,0.75,1011.7,0.43,9,78.44,83.25,-12.8275,45.1662
+Mayotte,,4/18/2020,Humid and partly cloudy throughout the day.,rain,0.9,0.0044,0.0142,0.44,rain,83.8,78.15,71.34,0.75,1011.3,0.6,9,77.18,83.8,-12.8275,45.1662
+Mayotte,,4/19/2020,Light rain in the morning and overnight.,rain,0.93,0.0096,0.0302,0.63,rain,83.9,76.98,71.31,0.73,1011.0,0.57,6,78.15,83.9,-12.8275,45.1662
+Mayotte,,4/20/2020,Light rain in the morning.,rain,0.96,0.0234,0.0924,0.86,rain,81.36,77.59,71.28,0.77,1011.5,0.67,5,76.98,81.36,-12.8275,45.1662

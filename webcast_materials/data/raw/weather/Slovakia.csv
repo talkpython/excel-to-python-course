@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Slovakia,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.09,snow,35.11,21.02,20.63,0.76,1031.9,0.04,1,23.26,35.11,48.669,19.699
+Slovakia,,1/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.05,snow,36.91,20.59,4.02,0.39,1032.2,0.33,1,21.02,36.91,48.669,19.699
+Slovakia,,1/2/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0003,0.01,snow,33.6,24.06,10.38,0.54,1027.9,0.2,1,20.59,33.6,48.669,19.699
+Slovakia,,1/3/2020,Foggy in the evening.,snow,0.3,0.0027,0.0088,0.39,snow,32.54,22.95,24.43,0.89,1021.0,0.84,1,25.05,32.54,48.669,19.699
+Slovakia,,1/4/2020,Clear throughout the day.,clear-day,0.33,0.0012,0.0072,0.23,snow,27.97,14.64,16.03,0.75,1026.9,0.22,1,17.43,27.97,48.669,19.699
+Slovakia,,1/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.0,0.0,0.0,,29.33,15.08,9.2,0.64,1032.5,0.42,1,14.0,29.33,48.669,19.699
+Slovakia,,1/6/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0002,0.05,snow,28.46,17.1,10.82,0.67,1029.4,0.06,1,15.08,28.46,48.669,19.699
+Slovakia,,1/7/2020,Clear throughout the day.,clear-day,0.43,0.0002,0.0017,0.03,snow,30.22,21.98,16.27,0.77,1032.0,0.17,1,17.08,30.22,48.669,19.699
+Slovakia,,1/8/2020,Overcast throughout the day.,cloudy,0.47,0.0006,0.0031,0.15,snow,30.08,22.56,23.59,0.89,1028.6,0.98,1,22.67,30.08,48.669,19.699
+Slovakia,,1/9/2020,Overcast throughout the day.,cloudy,0.5,0.0001,0.0004,0.05,snow,34.35,25.42,22.0,0.8,1023.5,0.95,1,22.56,34.35,48.669,19.699
+Slovakia,,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0001,0.0003,0.08,snow,36.03,22.24,27.08,0.88,1028.1,0.52,1,24.47,36.03,48.669,19.699
+Slovakia,,1/11/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0003,0.07,snow,34.77,23.86,24.55,0.89,1030.4,0.31,1,22.24,34.77,48.669,19.699
+Slovakia,,1/12/2020,Overcast throughout the day.,cloudy,0.61,0.0001,0.0003,0.04,snow,33.16,22.91,24.48,0.91,1027.4,0.94,1,22.89,33.16,48.669,19.699
+Slovakia,,1/13/2020,Overcast throughout the day.,cloudy,0.65,0.0002,0.0009,0.06,snow,30.19,19.8,22.57,0.87,1026.2,0.9,1,22.91,30.19,48.669,19.699
+Slovakia,,1/14/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.01,,34.03,23.77,20.75,0.8,1029.0,0.27,1,19.8,34.03,48.669,19.699
+Slovakia,,1/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0,0.0002,0.04,,38.09,25.44,24.79,0.84,1030.8,0.42,1,23.77,38.09,48.669,19.699
+Slovakia,,1/16/2020,Overcast throughout the day.,partly-cloudy-day,0.76,0.0001,0.0004,0.05,snow,36.12,22.82,26.16,0.88,1029.7,0.66,1,25.44,36.12,48.669,19.699
+Slovakia,,1/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.0,0.0002,0.04,,31.99,21.02,21.16,0.82,1026.3,0.85,1,22.82,31.99,48.669,19.699
+Slovakia,,1/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0003,0.02,,32.34,21.68,20.64,0.81,1029.5,0.75,1,21.02,32.34,48.669,19.699
+Slovakia,,1/19/2020,Clear throughout the day.,clear-day,0.87,0.0,0.0002,0.02,,34.26,18.93,21.02,0.8,1043.0,0.31,1,21.68,34.26,48.669,19.699
+Slovakia,,1/20/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0002,0.04,snow,34.04,17.97,16.38,0.7,1042.6,0.23,1,18.93,34.04,48.669,19.699
+Slovakia,,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0001,0.0002,0.02,snow,33.9,21.36,14.63,0.65,1031.5,0.53,1,17.97,33.9,48.669,19.699
+Slovakia,,1/22/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0002,0.04,snow,33.28,18.98,18.83,0.75,1034.0,0.26,1,21.36,33.28,48.669,19.699
+Slovakia,,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0001,0.0002,0.02,snow,31.76,18.74,15.54,0.7,1028.7,0.1,1,18.98,31.76,48.669,19.699
+Slovakia,,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0003,0.02,snow,33.16,17.86,15.24,0.7,1024.5,0.43,1,18.74,33.16,48.669,19.699
+Slovakia,,1/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.06,0.0001,0.0003,0.07,snow,33.32,23.96,17.31,0.73,1023.1,0.43,1,17.86,33.32,48.669,19.699
+Slovakia,,1/26/2020,Clear throughout the day.,partly-cloudy-day,0.09,0.0001,0.0004,0.2,snow,37.12,23.23,26.13,0.9,1018.1,0.4,1,24.1,37.12,48.669,19.699
+Slovakia,,1/27/2020,Snow (4–7 in.) in the evening.,snow,0.12,0.0217,0.1042,0.52,snow,28.05,22.61,24.36,0.94,1008.2,0.91,1,23.23,28.05,48.669,19.699
+Slovakia,,1/28/2020,Partly cloudy throughout the day.,snow,0.15,0.0011,0.0042,0.33,snow,29.66,23.13,22.85,0.89,1007.0,0.65,1,22.61,29.66,48.669,19.699
+Slovakia,,1/29/2020,Partly cloudy throughout the day.,snow,0.18,0.0007,0.0025,0.29,snow,32.95,27.09,23.81,0.86,1014.5,0.8,1,23.15,32.95,48.669,19.699
+Slovakia,,1/30/2020,Snow (1–3 in.) in the morning and afternoon.,snow,0.21,0.0138,0.1079,0.64,snow,41.31,33.05,32.42,0.94,1009.2,0.98,1,27.09,41.31,48.669,19.699
+Slovakia,,1/31/2020,Possible light rain overnight.,cloudy,0.24,0.0001,0.0013,0.19,rain,44.87,34.87,36.55,0.96,1011.3,0.92,1,33.05,44.87,48.669,19.699
+Slovakia,,2/1/2020,"Light rain until morning, starting again in the evening.",rain,0.27,0.0136,0.061,0.9,rain,38.64,35.36,34.22,0.9,1010.2,0.74,1,34.87,40.28,48.669,19.699
+Slovakia,,2/2/2020,"Light rain until afternoon, starting again overnight.",rain,0.31,0.0153,0.0544,0.94,rain,37.31,32.27,35.1,0.96,1009.0,0.98,1,33.53,41.4,48.669,19.699
+Slovakia,,2/3/2020,Snow (3–7 in.) in the morning and afternoon.,snow,0.34,0.0386,0.1423,0.88,snow,36.64,26.74,30.15,0.92,1000.4,0.99,1,27.94,36.64,48.669,19.699
+Slovakia,,2/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0003,0.0008,0.24,snow,31.27,18.75,17.32,0.69,1013.6,0.7,1,19.76,31.27,48.669,19.699
+Slovakia,,2/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0001,0.0003,0.01,snow,31.67,26.15,16.9,0.7,1025.0,0.59,1,18.75,31.67,48.669,19.699
+Slovakia,,2/6/2020,Mostly cloudy throughout the day.,snow,0.44,0.0003,0.0008,0.25,snow,36.41,18.83,23.93,0.82,1025.5,0.7,1,20.03,36.41,48.669,19.699
+Slovakia,,2/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.0001,0.0003,0.04,snow,33.21,19.36,17.34,0.74,1030.9,0.34,2,18.83,33.21,48.669,19.699
+Slovakia,,2/8/2020,Partly cloudy throughout the day.,clear-day,0.52,0.0001,0.0003,0.02,snow,34.65,25.92,17.73,0.69,1027.6,0.19,2,19.36,34.65,48.669,19.699
+Slovakia,,2/9/2020,Light snow (< 1 in.) in the morning and afternoon.,snow,0.56,0.0052,0.0357,0.72,snow,36.82,28.34,28.15,0.89,1007.3,0.83,2,25.99,36.82,48.669,19.699
+Slovakia,,2/10/2020,Possible light snow (1–2 in.) in the morning.,snow,0.6,0.0053,0.0278,0.65,snow,34.24,24.54,24.93,0.84,1003.7,0.7,1,25.75,34.24,48.669,19.699
+Slovakia,,2/11/2020,Partly cloudy throughout the day.,snow,0.64,0.0018,0.0051,0.25,snow,32.21,20.65,21.19,0.8,1013.7,0.6,1,24.54,32.21,48.669,19.699
+Slovakia,,2/12/2020,Foggy overnight.,partly-cloudy-day,0.67,0.0004,0.0041,0.16,snow,33.32,26.56,22.09,0.81,1019.0,0.44,2,20.65,33.32,48.669,19.699
+Slovakia,,2/13/2020,Possible light snow (< 1 in.) in the morning.,snow,0.71,0.004,0.0157,0.45,snow,37.19,25.65,28.4,0.9,1015.7,0.84,1,27.8,37.19,48.669,19.699
+Slovakia,,2/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.75,0.0001,0.0009,0.11,snow,36.58,25.23,27.48,0.88,1028.0,0.49,2,25.65,36.58,48.669,19.699
+Slovakia,,2/15/2020,Overcast throughout the day.,cloudy,0.78,0.0001,0.0003,0.07,snow,38.63,28.02,29.17,0.91,1028.1,0.92,2,25.23,38.63,48.669,19.699
+Slovakia,,2/16/2020,Overcast throughout the day.,cloudy,0.81,0.0001,0.0003,0.1,rain,40.88,31.96,32.13,0.93,1021.6,0.97,2,28.02,40.88,48.669,19.699
+Slovakia,,2/17/2020,Possible drizzle in the morning.,rain,0.85,0.0011,0.0064,0.53,rain,39.5,23.87,30.8,0.87,1022.0,0.63,2,28.48,39.5,48.669,19.699
+Slovakia,,2/18/2020,Possible light snow (< 1 in.) in the evening.,snow,0.88,0.0022,0.0097,0.41,snow,36.2,24.88,25.74,0.86,1020.0,0.65,2,23.87,36.2,48.669,19.699
+Slovakia,,2/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.91,0.0002,0.0034,0.17,snow,35.59,23.03,22.76,0.79,1021.6,0.49,2,23.87,35.59,48.669,19.699
+Slovakia,,2/20/2020,Possible light snow (< 1 in.) in the morning and afternoon.,snow,0.94,0.0031,0.0153,0.57,snow,34.03,20.47,23.69,0.84,1021.7,0.72,2,23.03,34.03,48.669,19.699
+Slovakia,,2/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0002,0.0004,0.03,snow,36.32,30.12,23.29,0.79,1027.9,0.42,2,20.47,36.32,48.669,19.699
+Slovakia,,2/22/2020,Light rain starting in the afternoon.,rain,0.01,0.0193,0.0779,0.85,rain,39.47,27.68,33.57,0.93,1015.9,0.98,2,30.12,42.12,48.669,19.699
+Slovakia,,2/23/2020,Dangerously windy in the morning.,rain,0.04,0.0048,0.0366,0.66,rain,36.31,28.51,26.04,0.76,1015.7,0.44,2,27.68,41.88,48.669,19.699
+Slovakia,,2/24/2020,Overcast throughout the day.,cloudy,0.07,0.0006,0.0062,0.2,snow,44.24,32.7,32.22,0.84,1006.4,0.92,2,29.52,44.24,48.669,19.699
+Slovakia,,2/25/2020,Possible light snow (< 1 in.) in the morning and afternoon.,snow,0.1,0.0031,0.0118,0.67,snow,37.73,24.77,30.94,0.91,997.2,0.98,2,26.65,37.73,48.669,19.699
+Slovakia,,2/26/2020,Snow (1–2 in.) overnight.,partly-cloudy-day,0.13,0.0001,0.0022,0.11,snow,36.08,23.87,20.96,0.74,1003.8,0.72,2,23.87,36.08,48.669,19.699
+Slovakia,,2/27/2020,Snow (1–3 in.) in the morning.,snow,0.16,0.0137,0.057,0.63,snow,33.26,19.67,22.56,0.85,1008.6,0.84,1,21.94,33.26,48.669,19.699
+Slovakia,,2/28/2020,Overcast throughout the day.,partly-cloudy-day,0.19,0.0001,0.0003,0.1,snow,34.14,26.69,21.93,0.81,1014.2,0.87,2,19.67,34.14,48.669,19.699
+Slovakia,,2/29/2020,Possible light rain (with a chance of 1–2 in. of snow) in the evening and overnight.,snow,0.22,0.0057,0.0284,0.55,snow,37.99,31.82,29.68,0.9,1007.8,1.0,2,26.69,37.99,48.669,19.699
+Slovakia,,3/1/2020,Snow (1–4 in.) in the morning and afternoon.,snow,0.25,0.0256,0.0798,0.88,snow,40.1,32.82,32.73,0.94,1000.0,0.79,2,31.82,40.1,48.669,19.699
+Slovakia,,3/2/2020,Light rain until evening.,rain,0.28,0.0146,0.0452,0.81,rain,37.56,31.35,35.49,0.99,1001.3,0.97,2,33.34,37.56,48.669,19.699
+Slovakia,,3/3/2020,Light snow (1–3 in.) in the morning and afternoon.,snow,0.32,0.0093,0.0351,0.78,snow,32.61,22.24,29.4,0.93,1009.0,0.93,2,25.23,35.3,48.669,19.699
+Slovakia,,3/4/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0003,0.03,snow,36.8,27.06,23.56,0.8,1010.0,0.11,2,22.24,36.8,48.669,19.699
+Slovakia,,3/5/2020,Possible light snow (2–4 in.) throughout the day.,snow,0.39,0.0127,0.0214,0.64,snow,31.93,28.27,28.39,0.95,1003.2,0.95,2,27.08,31.93,48.669,19.699
+Slovakia,,3/6/2020,Overcast throughout the day.,snow,0.43,0.0004,0.0049,0.27,snow,37.54,26.8,28.63,0.88,1009.6,0.8,2,27.82,37.54,48.669,19.699
+Slovakia,,3/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0009,0.0036,0.15,snow,39.0,27.02,26.07,0.81,1019.0,0.41,3,26.8,39.0,48.669,19.699
+Slovakia,,3/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.0003,0.0024,0.19,snow,42.21,25.88,25.7,0.8,1015.2,0.4,2,27.02,42.21,48.669,19.699
+Slovakia,,3/9/2020,Clear throughout the day.,partly-cloudy-day,0.54,0.0001,0.0004,0.03,snow,43.66,33.39,27.17,0.75,1013.9,0.34,3,25.88,43.66,48.669,19.699
+Slovakia,,3/10/2020,Possible drizzle in the morning and afternoon.,rain,0.58,0.0068,0.0145,0.69,rain,44.71,37.44,37.38,0.95,1012.7,0.93,2,33.66,44.71,48.669,19.699
+Slovakia,,3/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.0005,0.0019,0.2,rain,52.43,39.26,39.94,0.85,1013.7,0.76,3,37.44,52.43,48.669,19.699
+Slovakia,,3/12/2020,Windy in the afternoon.,wind,0.66,0.0005,0.003,0.12,rain,42.23,29.09,28.88,0.68,1013.5,0.75,2,31.33,45.03,48.669,19.699
+Slovakia,,3/13/2020,Partly cloudy throughout the day.,clear-day,0.69,0.0001,0.0004,0.03,snow,40.48,19.75,19.46,0.6,1020.6,0.22,3,24.73,40.48,48.669,19.699
+Slovakia,,3/14/2020,Clear throughout the day.,clear-day,0.73,0.0001,0.0004,0.02,snow,43.41,23.06,7.36,0.45,1028.6,0.05,3,19.75,43.41,48.669,19.699
+Slovakia,,3/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.76,0.0,0.0,0.0,,43.71,27.3,15.71,0.53,1028.6,0.57,3,23.06,43.71,48.669,19.699
+Slovakia,,3/16/2020,Clear throughout the day.,partly-cloudy-day,0.8,0.0001,0.0005,0.01,snow,54.18,34.01,25.05,0.59,1028.1,0.37,3,27.3,54.18,48.669,19.699
+Slovakia,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0001,0.0003,0.02,rain,54.5,35.97,32.57,0.69,1028.8,0.35,3,34.01,54.5,48.669,19.699
+Slovakia,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0003,0.03,rain,58.47,37.77,35.33,0.71,1025.1,0.12,4,35.97,58.47,48.669,19.699
+Slovakia,,3/19/2020,Partly cloudy throughout the day.,clear-day,0.89,0.0004,0.0022,0.07,rain,55.75,38.25,37.28,0.74,1020.6,0.28,4,37.77,55.75,48.669,19.699
+Slovakia,,3/20/2020,Snow (1–3 in.) in the morning and afternoon.,snow,0.92,0.0146,0.0617,0.92,snow,39.8,19.84,32.03,0.9,1019.1,0.89,3,25.29,42.33,48.669,19.699
+Slovakia,,3/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.95,0.0003,0.0008,0.09,snow,29.28,18.56,8.19,0.53,1026.7,0.4,3,19.84,29.28,48.669,19.699
+Slovakia,,3/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.98,0.0001,0.0003,0.07,snow,29.68,19.99,9.6,0.57,1029.9,0.55,3,18.56,29.68,48.669,19.699
+Slovakia,,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.02,snow,32.29,18.39,6.46,0.46,1031.1,0.06,3,19.99,32.29,48.669,19.699
+Slovakia,,3/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0002,0.0004,0.06,snow,35.01,24.91,8.38,0.48,1030.1,0.39,3,18.39,35.01,48.669,19.699
+Slovakia,,3/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0004,0.01,snow,48.72,32.84,19.61,0.51,1025.3,0.73,3,25.45,48.72,48.669,19.699
+Slovakia,,3/26/2020,Clear throughout the day.,partly-cloudy-day,0.1,0.0001,0.0004,0.01,rain,54.56,33.59,27.34,0.6,1021.3,0.32,4,32.84,54.56,48.669,19.699
+Slovakia,,3/27/2020,Partly cloudy throughout the day.,rain,0.13,0.0046,0.0255,0.35,rain,51.57,32.34,31.58,0.74,1014.7,0.29,3,33.42,51.57,48.669,19.699
+Slovakia,,3/28/2020,Partly cloudy throughout the day.,clear-day,0.17,0.0032,0.0113,0.22,rain,51.33,26.96,31.91,0.74,1011.3,0.29,4,32.34,51.33,48.669,19.699
+Slovakia,,3/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.2,0.0004,0.002,0.09,snow,32.34,17.41,16.98,0.63,1019.3,0.63,3,20.51,33.74,48.669,19.699
+Slovakia,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0003,0.0015,0.06,snow,37.14,18.57,5.79,0.46,1024.7,0.34,4,17.41,37.14,48.669,19.699
+Slovakia,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.01,snow,39.31,21.83,10.77,0.52,1022.3,0.07,5,18.57,39.31,48.669,19.699
+Slovakia,,4/1/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0003,0.02,snow,43.89,24.82,13.26,0.5,1015.5,0.0,5,21.83,43.89,48.669,19.699
+Slovakia,,4/2/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.01,snow,49.25,29.36,22.11,0.6,1013.0,0.17,5,24.82,49.25,48.669,19.699
+Slovakia,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.01,snow,51.14,30.63,24.05,0.6,1022.7,0.25,5,29.36,51.14,48.669,19.699
+Slovakia,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0,0.0,,54.46,32.95,21.92,0.51,1029.3,0.0,6,30.63,54.46,48.669,19.699
+Slovakia,,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0,0.0002,0.01,,55.23,33.42,23.51,0.5,1032.1,0.0,6,32.95,55.23,48.669,19.699
+Slovakia,,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0,0.0,,59.72,34.91,15.77,0.39,1033.8,0.0,6,33.42,59.72,48.669,19.699
+Slovakia,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0,0.0003,0.01,,63.05,37.46,16.02,0.31,1029.3,0.0,6,34.91,63.05,48.669,19.699
+Slovakia,,4/8/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.01,rain,64.6,39.87,18.18,0.32,1021.9,0.0,6,37.46,64.6,48.669,19.699
+Slovakia,,4/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.6,0.0001,0.0004,0.02,rain,59.9,34.18,28.37,0.51,1021.8,0.32,4,39.87,59.9,48.669,19.699
+Slovakia,,4/10/2020,Clear throughout the day.,partly-cloudy-day,0.64,0.0001,0.0004,0.02,rain,59.02,35.26,23.0,0.45,1023.7,0.4,6,34.18,59.02,48.669,19.699
+Slovakia,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0003,0.01,,59.54,41.62,29.42,0.53,1020.9,0.14,6,35.26,59.54,48.669,19.699
+Slovakia,,4/12/2020,Overcast throughout the day.,rain,0.71,0.0026,0.0117,0.47,rain,59.46,29.96,37.6,0.68,1010.6,0.85,3,41.16,59.46,48.669,19.699
+Slovakia,,4/13/2020,Overcast throughout the day.,rain,0.74,0.001,0.0041,0.37,rain,39.12,22.88,20.33,0.62,1015.6,0.8,4,26.68,40.58,48.669,19.699
+Slovakia,,4/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.01,snow,50.37,30.86,20.97,0.58,1022.4,0.36,4,22.88,50.37,48.669,19.699
+Slovakia,,4/15/2020,Clear throughout the day.,clear-day,0.81,0.0,0.0,0.0,,61.48,39.54,29.21,0.58,1019.1,0.24,6,30.86,61.48,48.669,19.699
+Slovakia,,4/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.0001,0.0006,0.02,rain,64.72,37.34,32.15,0.52,1014.2,0.61,4,39.54,64.72,48.669,19.699
+Slovakia,,4/17/2020,Clear throughout the day.,clear-day,0.87,0.0003,0.0013,0.02,rain,61.49,37.79,33.17,0.59,1015.9,0.19,6,37.34,61.49,48.669,19.699
+Slovakia,,4/18/2020,Mostly cloudy throughout the day.,rain,0.9,0.0069,0.0373,0.4,rain,48.96,28.41,33.83,0.71,1016.5,0.71,5,35.82,48.96,48.669,19.699
+Slovakia,,4/19/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0004,0.01,rain,54.01,30.68,21.4,0.51,1021.2,0.03,7,28.41,54.01,48.669,19.699
+Slovakia,,4/20/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0003,0.01,rain,54.05,28.78,21.31,0.48,1021.7,0.01,6,30.68,54.05,48.669,19.699

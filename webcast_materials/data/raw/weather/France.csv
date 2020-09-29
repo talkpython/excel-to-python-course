@@ -1,0 +1,897 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+France,France,12/31/2019,Overcast throughout the day.,partly-cloudy-day,0.21,0.0005,0.0036,0.18,rain,52.04,39.55,34.3,0.85,1032.5,0.63,1,29.33,52.04,46.2276,2.2137
+France,France,1/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0002,0.0007,0.1,rain,52.89,39.62,37.52,0.81,1029.3,0.82,1,39.55,52.89,46.2276,2.2137
+France,France,1/2/2020,Overcast throughout the day.,cloudy,0.27,0.0011,0.0065,0.24,rain,51.56,40.06,39.26,0.8,1029.5,0.97,1,40.86,51.56,46.2276,2.2137
+France,France,1/3/2020,Overcast throughout the day.,rain,0.3,0.0011,0.006999999999999999,0.3,rain,47.14,29.57,35.97,0.83,1036.4,0.9,1,29.85,47.14,46.2276,2.2137
+France,France,1/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.33,0.0001,0.0003,0.08,rain,46.76,28.18,30.68,0.79,1035.9,0.43,1,29.93,46.76,46.2276,2.2137
+France,France,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,55.35,36.62,29.38,0.7,1029.0,0.09,1,29.07,55.35,46.2276,2.2137
+France,France,1/6/2020,Overcast throughout the day.,cloudy,0.4,0.001,0.0019,0.2,rain,50.86,45.22,40.25,0.86,1031.7,0.97,1,36.62,50.86,46.2276,2.2137
+France,France,1/7/2020,Overcast throughout the day.,rain,0.43,0.0012,0.0098,0.37,rain,56.31,44.23,44.92,0.86,1030.4,0.95,1,45.19,56.31,46.2276,2.2137
+France,France,1/8/2020,Light rain in the evening and overnight.,rain,0.47,0.0024,0.0188,0.59,rain,55.37,43.16,41.18,0.75,1022.3,0.79,1,44.23,55.37,46.2276,2.2137
+France,France,1/9/2020,Possible drizzle in the morning.,rain,0.5,0.0039,0.0273,0.74,rain,45.98,27.21,38.0,0.83,1025.8,0.79,1,34.05,47.09,46.2276,2.2137
+France,France,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0001,0.0003,0.03,rain,49.14,26.46,29.5,0.81,1034.0,0.56,1,27.21,49.14,46.2276,2.2137
+France,France,1/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0001,0.0006,0.06,rain,48.77,38.04,28.98,0.75,1030.8,0.67,1,26.46,48.77,46.2276,2.2137
+France,France,1/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0009,0.0078,0.19,rain,57.63,43.16,36.01,0.71,1022.1,0.83,1,39.48,57.63,46.2276,2.2137
+France,France,1/13/2020,Overcast throughout the day.,cloudy,0.65,0.0,0.0,0.0,,57.57,44.23,29.04,0.46,1015.6,0.96,1,43.16,57.57,46.2276,2.2137
+France,France,1/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0001,0.0008,0.1,rain,59.14,38.09,38.11,0.64,1018.2,0.59,1,44.23,59.14,46.2276,2.2137
+France,France,1/15/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.05,,61.89,46.48,38.64,0.71,1023.2,0.18,1,38.09,61.89,46.2276,2.2137
+France,France,1/16/2020,Light rain in the morning and afternoon.,rain,0.76,0.006,0.0305,0.83,rain,49.81,32.51,38.33,0.75,1023.3,0.72,1,39.82,49.82,46.2276,2.2137
+France,France,1/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0,0.0002,0.05,,48.52,31.66,31.49,0.76,1029.3,0.52,1,32.48,48.52,46.2276,2.2137
+France,France,1/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0001,0.0006,0.16,rain,41.64,29.2,28.03,0.76,1035.1,0.75,1,31.15,41.64,46.2276,2.2137
+France,France,1/19/2020,Clear throughout the day.,partly-cloudy-day,0.87,0.0001,0.0006,0.06,snow,43.16,23.94,23.9,0.68,1039.7,0.34,1,29.07,43.16,46.2276,2.2137
+France,France,1/20/2020,Partly cloudy throughout the day.,clear-day,0.9,0.0001,0.0002,0.06,snow,49.16,25.22,21.84,0.65,1038.0,0.28,1,23.94,49.16,46.2276,2.2137
+France,France,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0,0.0001,0.02,,50.89,31.32,22.51,0.59,1032.2,0.36,1,25.22,50.89,46.2276,2.2137
+France,France,1/22/2020,Overcast throughout the day.,partly-cloudy-day,0.97,0.0002,0.0022,0.06,rain,50.14,33.2,26.99,0.63,1025.6,0.82,1,31.32,50.14,46.2276,2.2137
+France,France,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0001,0.0002,0.07,rain,58.15,35.75,35.85,0.79,1023.1,0.23,1,33.2,58.15,46.2276,2.2137
+France,France,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0003,0.08,rain,57.98,36.47,36.22,0.8,1020.5,0.72,1,35.75,57.98,46.2276,2.2137
+France,France,1/25/2020,Possible drizzle in the afternoon.,rain,0.06,0.0008,0.0055,0.43,rain,51.35,41.31,37.87,0.85,1019.3,0.84,1,36.47,51.35,46.2276,2.2137
+France,France,1/26/2020,Light rain starting in the afternoon.,rain,0.09,0.0086,0.0221,0.9,rain,48.53,41.42,39.22,0.79,1014.2,0.97,1,41.79,48.53,46.2276,2.2137
+France,France,1/27/2020,Light rain throughout the day.,rain,0.12,0.0201,0.0337,0.98,rain,43.07,41.82,39.07,0.86,1011.3,0.98,1,40.25,47.08,46.2276,2.2137
+France,France,1/28/2020,Light rain in the morning.,rain,0.15,0.0071,0.0311,0.81,rain,49.0,36.46,39.54,0.88,1018.6,0.94,1,38.32,49.0,46.2276,2.2137
+France,France,1/29/2020,Light rain throughout the day.,rain,0.18,0.0079,0.0243,0.93,rain,51.85,50.34,43.73,0.9,1016.9,0.94,1,36.46,52.23,46.2276,2.2137
+France,France,1/30/2020,Possible drizzle in the morning.,rain,0.21,0.0031,0.0104,0.64,rain,56.38,47.99,49.18,0.91,1018.1,0.92,1,48.45,56.38,46.2276,2.2137
+France,France,1/31/2020,Possible drizzle overnight.,rain,0.24,0.0012,0.0061,0.4,rain,56.24,50.17,46.8,0.85,1017.0,0.73,1,47.99,56.24,46.2276,2.2137
+France,France,2/1/2020,Light rain in the morning and afternoon.,rain,0.27,0.013999999999999999,0.068,0.95,rain,57.86,51.94,50.92,0.89,1021.1,0.97,2,50.91,57.86,46.2276,2.2137
+France,France,2/2/2020,Windy overnight.,wind,0.31,0.0004,0.0022,0.24,rain,61.63,39.02,48.36,0.78,1023.3,0.75,2,51.67,61.63,46.2276,2.2137
+France,France,2/3/2020,Possible light rain in the morning and afternoon.,rain,0.34,0.0077,0.0348,0.68,rain,45.32,30.4,37.42,0.83,1027.2,0.67,1,38.21,56.04,46.2276,2.2137
+France,France,2/4/2020,Foggy in the morning.,partly-cloudy-day,0.37,0.0001,0.0008,0.15,rain,48.17,29.29,31.77,0.82,1035.4,0.83,2,30.4,48.17,46.2276,2.2137
+France,France,2/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0,0.0003,0.01,,49.74,27.68,23.49,0.61,1028.4,0.54,2,29.29,49.74,46.2276,2.2137
+France,France,2/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.0001,0.0003,0.04,rain,59.64,32.42,31.44,0.72,1024.0,0.43,2,27.68,59.64,46.2276,2.2137
+France,France,2/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.48,0.0001,0.0003,0.03,rain,58.92,42.37,36.08,0.74,1023.6,0.54,2,32.42,58.92,46.2276,2.2137
+France,France,2/8/2020,Possible drizzle overnight.,wind,0.52,0.0003,0.0026,0.15,rain,59.06,48.33,40.74,0.71,1021.1,0.82,2,42.37,59.06,46.2276,2.2137
+France,France,2/9/2020,Drizzle in the morning and overnight.,rain,0.56,0.0054,0.0112,0.81,rain,55.51,43.68,44.22,0.76,1018.0,0.99,2,48.07,55.51,46.2276,2.2137
+France,France,2/10/2020,Possible drizzle in the afternoon.,rain,0.6,0.0029,0.0147,0.72,rain,48.8,34.69,38.38,0.78,1021.7,0.88,2,38.44,49.17,46.2276,2.2137
+France,France,2/11/2020,Partly cloudy throughout the day.,rain,0.64,0.0007,0.0033,0.34,rain,51.4,32.84,34.04,0.79,1024.9,0.69,2,34.03,51.4,46.2276,2.2137
+France,France,2/12/2020,Light rain in the afternoon and evening.,rain,0.67,0.0063,0.0324,0.73,rain,53.3,41.6,38.76,0.79,1015.2,0.94,2,32.84,53.3,46.2276,2.2137
+France,France,2/13/2020,Overcast throughout the day.,rain,0.71,0.0009,0.004,0.32,rain,54.69,29.71,38.62,0.79,1025.2,0.9,2,36.22,54.69,46.2276,2.2137
+France,France,2/14/2020,Clear throughout the day.,partly-cloudy-day,0.75,0.0001,0.0003,0.03,rain,62.61,50.35,34.03,0.68,1023.8,0.46,2,29.71,62.61,46.2276,2.2137
+France,France,2/15/2020,Overcast throughout the day.,cloudy,0.78,0.0001,0.0003,0.04,rain,66.72,48.08,39.21,0.52,1018.1,0.94,2,50.35,66.72,46.2276,2.2137
+France,France,2/16/2020,Light rain until evening.,rain,0.81,0.013000000000000001,0.0517,0.93,rain,49.97,34.51,41.29,0.78,1023.0,0.86,2,41.51,55.09,46.2276,2.2137
+France,France,2/17/2020,Mostly cloudy throughout the day.,rain,0.85,0.002,0.015,0.35,rain,50.98,40.08,35.77,0.8,1031.9,0.5,2,34.51,50.98,46.2276,2.2137
+France,France,2/18/2020,Possible drizzle in the afternoon.,rain,0.88,0.0028,0.0084,0.61,rain,52.98,35.45,39.36,0.83,1029.2,0.91,2,40.08,52.98,46.2276,2.2137
+France,France,2/19/2020,Clear throughout the day.,partly-cloudy-day,0.91,0.0003,0.0034,0.09,rain,57.4,31.09,37.57,0.77,1024.6,0.56,3,35.45,57.4,46.2276,2.2137
+France,France,2/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0006,0.0069,0.19,rain,53.3,29.83,31.7,0.72,1032.3,0.7,2,31.09,53.3,46.2276,2.2137
+France,France,2/21/2020,Clear throughout the day.,partly-cloudy-day,0.97,0.0001,0.0004,0.05,rain,59.51,35.93,31.33,0.69,1032.7,0.32,3,29.83,59.51,46.2276,2.2137
+France,France,2/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.01,0.0001,0.0003,0.04,rain,63.31,41.23,36.18,0.67,1032.2,0.82,3,35.93,63.31,46.2276,2.2137
+France,France,2/23/2020,Clear throughout the day.,clear-day,0.04,0.0001,0.0005,0.04,rain,65.1,40.85,39.59,0.7,1025.2,0.27,3,41.23,65.1,46.2276,2.2137
+France,France,2/24/2020,Light rain throughout the day.,rain,0.07,0.0059,0.0173,0.78,rain,50.36,34.33,39.31,0.82,1013.2,0.91,2,40.76,50.36,46.2276,2.2137
+France,France,2/25/2020,Light rain in the morning and afternoon.,rain,0.1,0.0052,0.0295,0.87,rain,43.69,34.3,32.12,0.81,1013.8,0.69,2,34.26,43.69,46.2276,2.2137
+France,France,2/26/2020,Light rain until evening.,rain,0.13,0.0127,0.0559,0.88,rain,50.38,27.74,38.49,0.88,1010.3,0.94,2,34.3,50.38,46.2276,2.2137
+France,France,2/27/2020,Overcast throughout the day.,partly-cloudy-day,0.16,0.0002,0.0009,0.1,rain,53.67,46.31,35.71,0.82,1019.2,0.82,2,27.74,53.67,46.2276,2.2137
+France,France,2/28/2020,Possible drizzle in the afternoon and evening.,rain,0.19,0.0015,0.0092,0.56,rain,54.67,41.75,40.29,0.71,1004.3,0.96,2,42.99,54.67,46.2276,2.2137
+France,France,2/29/2020,Light rain until evening.,rain,0.22,0.0054,0.0293,0.71,rain,49.69,40.68,38.32,0.79,1003.2,0.89,2,40.68,49.69,46.2276,2.2137
+France,France,3/1/2020,Light rain throughout the day.,rain,0.25,0.0167,0.0827,0.95,rain,44.37,32.97,38.5,0.88,995.3,0.94,2,37.05,44.37,46.2276,2.2137
+France,France,3/2/2020,Light rain until evening.,rain,0.28,0.0049,0.0233,0.84,rain,42.28,32.39,35.05,0.91,1008.9,0.67,2,32.97,42.28,46.2276,2.2137
+France,France,3/3/2020,Light rain overnight.,rain,0.32,0.0019,0.0075,0.36,rain,44.9,43.91,36.53,0.9,1015.0,0.95,2,32.39,47.04,46.2276,2.2137
+France,France,3/4/2020,Light rain throughout the day.,rain,0.35,0.0266,0.0456,0.95,rain,51.34,35.54,44.93,0.92,999.8,1.0,3,39.83,51.87,46.2276,2.2137
+France,France,3/5/2020,Light rain throughout the day.,rain,0.39,0.0092,0.0288,0.86,rain,43.37,36.15,36.27,0.9,1007.3,0.84,2,35.54,43.37,46.2276,2.2137
+France,France,3/6/2020,Foggy in the morning.,rain,0.43,0.0018,0.0088,0.47,rain,46.23,34.96,35.71,0.88,1022.8,0.89,2,35.62,46.23,46.2276,2.2137
+France,France,3/7/2020,Possible light rain in the evening and overnight.,rain,0.47,0.0032,0.0199,0.57,rain,52.15,38.38,38.5,0.83,1020.9,0.88,3,34.96,52.15,46.2276,2.2137
+France,France,3/8/2020,Possible drizzle in the morning and overnight.,rain,0.5,0.0043,0.0139,0.74,rain,48.78,39.78,36.76,0.82,1021.7,0.57,3,38.38,48.78,46.2276,2.2137
+France,France,3/9/2020,Light rain in the morning and afternoon.,rain,0.54,0.0073,0.0206,0.88,rain,52.81,48.8,42.69,0.85,1022.0,1.0,3,40.71,52.81,46.2276,2.2137
+France,France,3/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0006,0.002,0.11,rain,60.81,46.38,46.95,0.81,1022.7,0.73,3,46.72,60.81,46.2276,2.2137
+France,France,3/11/2020,Overcast throughout the day.,partly-cloudy-day,0.62,0.0006,0.0021,0.12,rain,56.53,31.06,44.8,0.81,1020.9,0.87,3,43.76,56.53,46.2276,2.2137
+France,France,3/12/2020,Clear throughout the day.,partly-cloudy-day,0.66,0.0,0.0004,0.01,,53.93,30.89,30.7,0.66,1024.6,0.43,4,31.06,53.93,46.2276,2.2137
+France,France,3/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0002,0.0009,0.06,rain,55.99,30.07,33.98,0.74,1022.4,0.58,3,30.89,55.99,46.2276,2.2137
+France,France,3/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.73,0.0001,0.0004,0.02,rain,66.96,40.03,34.69,0.67,1015.6,0.47,3,30.07,66.96,46.2276,2.2137
+France,France,3/15/2020,Light rain in the morning.,rain,0.76,0.0103,0.0647,0.85,rain,57.05,43.62,42.12,0.8,1019.1,0.98,3,40.03,57.05,46.2276,2.2137
+France,France,3/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.0003,0.001,0.12,rain,63.73,36.65,44.37,0.76,1029.4,0.81,3,43.62,63.73,46.2276,2.2137
+France,France,3/17/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0003,0.03,,68.5,40.52,42.45,0.73,1027.9,0.0,4,36.65,68.5,46.2276,2.2137
+France,France,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0006,0.0055,0.04,rain,71.71,42.86,43.72,0.68,1022.3,0.26,4,40.52,71.71,46.2276,2.2137
+France,France,3/19/2020,Partly cloudy throughout the day.,rain,0.89,0.0041,0.0185,0.33,rain,69.0,39.12,43.07,0.64,1019.1,0.57,3,42.86,69.0,46.2276,2.2137
+France,France,3/20/2020,Clear throughout the day.,clear-day,0.92,0.0006,0.0036,0.1,rain,64.79,40.06,43.49,0.77,1015.5,0.26,4,39.12,64.79,46.2276,2.2137
+France,France,3/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.95,0.0006,0.0053,0.2,rain,57.79,35.08,41.92,0.79,1016.1,0.64,3,40.06,57.79,46.2276,2.2137
+France,France,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0005,0.05,rain,63.11,25.76,40.02,0.74,1021.2,0.14,4,35.08,63.11,46.2276,2.2137
+France,France,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.01,rain,58.44,23.79,25.37,0.57,1022.3,0.0,4,25.76,58.44,46.2276,2.2137
+France,France,3/24/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0004,0.02,snow,56.65,23.35,24.0,0.54,1018.0,0.09,4,23.79,56.65,46.2276,2.2137
+France,France,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0004,0.02,snow,50.63,24.84,21.71,0.57,1014.1,0.09,4,23.35,50.63,46.2276,2.2137
+France,France,3/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0004,0.01,snow,56.37,29.03,28.26,0.65,1016.7,0.54,4,24.84,56.37,46.2276,2.2137
+France,France,3/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0001,0.0004,0.02,rain,61.97,36.66,33.84,0.68,1018.6,0.63,3,29.03,61.97,46.2276,2.2137
+France,France,3/28/2020,Foggy in the morning and afternoon.,rain,0.17,0.0014,0.0052,0.29,rain,41.05,32.79,31.42,0.75,1022.4,0.9,3,36.12,41.88,46.2276,2.2137
+France,France,3/29/2020,Foggy in the morning.,cloudy,0.2,0.0016,0.0056,0.2,rain,48.88,26.69,26.58,0.62,1021.4,0.93,3,32.79,48.88,46.2276,2.2137
+France,France,3/30/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0003,0.02,rain,52.37,24.3,17.12,0.43,1020.7,0.06,4,26.69,52.37,46.2276,2.2137
+France,France,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0,0.0,0.0,,60.0,26.11,23.76,0.53,1018.1,0.0,5,24.3,60.0,46.2276,2.2137
+France,France,4/1/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0003,0.02,rain,58.14,25.02,25.88,0.58,1015.6,0.04,5,26.11,58.14,46.2276,2.2137
+France,France,4/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.33,0.0001,0.0005,0.01,rain,55.72,29.85,30.84,0.69,1019.2,0.33,4,25.02,55.72,46.2276,2.2137
+France,France,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.01,rain,65.76,34.38,32.33,0.61,1019.9,0.02,5,29.85,65.76,46.2276,2.2137
+France,France,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0,0.0,,72.14,45.65,29.94,0.5,1017.9,0.0,6,34.38,72.14,46.2276,2.2137
+France,France,4/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.45,0.0015,0.0116,0.14,rain,67.14,40.14,28.2,0.37,1020.9,0.58,4,45.65,67.14,46.2276,2.2137
+France,France,4/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0,0.0,0.0,,73.05,45.81,37.33,0.56,1027.0,0.59,5,40.14,73.05,46.2276,2.2137
+France,France,4/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0,0.0003,0.02,,71.88,41.18,38.21,0.5,1024.5,0.69,5,45.81,71.88,46.2276,2.2137
+France,France,4/8/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.04,rain,75.92,42.79,37.98,0.53,1022.5,0.0,6,41.18,75.92,46.2276,2.2137
+France,France,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0004,0.02,rain,74.82,44.83,36.92,0.46,1021.7,0.0,7,42.79,74.82,46.2276,2.2137
+France,France,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0003,0.0023,0.06,rain,75.03,45.74,36.05,0.44,1021.5,0.05,7,44.83,75.03,46.2276,2.2137
+France,France,4/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0034,0.0293,0.16,rain,72.54,44.88,37.95,0.49,1017.1,0.52,5,45.74,72.54,46.2276,2.2137
+France,France,4/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0002,0.0006,0.08,rain,70.67,38.68,38.52,0.5,1013.2,0.78,5,44.88,70.67,46.2276,2.2137
+France,France,4/13/2020,Clear throughout the day.,partly-cloudy-day,0.74,0.0001,0.001,0.05,rain,62.49,34.07,31.34,0.52,1018.8,0.35,6,38.68,62.49,46.2276,2.2137
+France,France,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0005,0.01,rain,76.6,48.17,30.39,0.4,1017.4,0.02,6,34.07,76.6,46.2276,2.2137
+France,France,4/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0015,0.0062,0.09,rain,74.16,45.75,43.96,0.55,1016.7,0.69,6,48.17,74.16,46.2276,2.2137
+France,France,4/16/2020,Light rain in the evening and overnight.,rain,0.84,0.0047,0.042,0.69,rain,72.83,49.82,45.71,0.59,1014.7,0.8,4,45.75,72.83,46.2276,2.2137
+France,France,4/17/2020,Possible light rain in the afternoon and evening.,rain,0.87,0.0099,0.0345,0.89,rain,68.18,53.27,50.99,0.75,1015.9,0.94,4,49.82,68.18,46.2276,2.2137
+France,France,4/18/2020,Light rain until evening.,rain,0.9,0.0137,0.0437,0.97,rain,61.58,49.65,51.44,0.8,1012.6,0.99,3,53.27,61.58,46.2276,2.2137
+France,France,4/19/2020,Light rain starting in the afternoon.,rain,0.93,0.0106,0.0442,0.97,rain,66.73,52.73,54.41,0.91,1008.0,0.97,4,49.65,66.73,46.2276,2.2137
+France,France,4/20/2020,Light rain starting in the afternoon.,rain,0.96,0.008,0.036000000000000004,0.95,rain,64.09,54.17,56.2,0.94,1007.5,0.99,4,52.73,64.09,46.2276,2.2137
+France,French Guiana,12/31/2019,Humid and overcast throughout the day.,cloudy,0.18,0.0009,0.0033,0.15,rain,83.26,65.33,69.4,0.87,1011.8,0.92,6,66.51,83.26,3.9339,-53.1258
+France,French Guiana,1/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0002,0.0006,0.1,rain,84.22,65.87,67.83,0.83,1012.3,0.69,9,65.33,84.22,3.9339,-53.1258
+France,French Guiana,1/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0005,0.0026,0.12,rain,85.47,66.54,67.92,0.83,1012.5,0.69,9,65.87,85.47,3.9339,-53.1258
+France,French Guiana,1/3/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.27,0.0007,0.0052,0.17,rain,84.56,70.36,70.21,0.88,1013.5,0.64,6,66.54,84.56,3.9339,-53.1258
+France,French Guiana,1/4/2020,Possible light rain in the evening and overnight.,rain,0.31,0.0051,0.0258,0.47,rain,84.31,69.2,72.4,0.92,1013.7,0.75,6,70.26,84.31,3.9339,-53.1258
+France,French Guiana,1/5/2020,Possible light rain in the morning.,rain,0.34,0.0106,0.0491,0.68,rain,85.43,69.86,71.97,0.9,1012.1,0.53,9,69.2,85.43,3.9339,-53.1258
+France,French Guiana,1/6/2020,Humid and overcast throughout the day.,rain,0.37,0.0006,0.0015,0.26,rain,86.37,70.28,70.69,0.84,1012.3,0.77,6,69.86,86.37,3.9339,-53.1258
+France,French Guiana,1/7/2020,Possible light rain and humid throughout the day.,rain,0.4,0.0108,0.0266,0.85,rain,81.74,71.46,73.12,0.95,1013.0,0.87,7,70.28,81.74,3.9339,-53.1258
+France,French Guiana,1/8/2020,Possible drizzle in the afternoon and evening.,rain,0.44,0.0044,0.0147,0.7,rain,85.67,70.02,73.37,0.92,1013.0,0.69,7,71.46,85.67,3.9339,-53.1258
+France,French Guiana,1/9/2020,Possible drizzle in the afternoon.,rain,0.47,0.0047,0.0121,0.59,rain,83.74,67.61,71.65,0.89,1013.1,0.68,9,70.02,83.74,3.9339,-53.1258
+France,French Guiana,1/10/2020,Partly cloudy throughout the day.,rain,0.51,0.001,0.0052,0.29,rain,84.25,66.93,68.89,0.84,1013.0,0.48,8,67.61,84.25,3.9339,-53.1258
+France,French Guiana,1/11/2020,Partly cloudy throughout the day.,rain,0.54,0.001,0.0051,0.32,rain,87.97,69.53,67.57,0.78,1012.7,0.43,9,66.93,87.97,3.9339,-53.1258
+France,French Guiana,1/12/2020,Possible drizzle in the afternoon.,rain,0.58,0.0028,0.0082,0.58,rain,85.13,69.71,70.18,0.84,1012.9,0.43,8,69.53,85.13,3.9339,-53.1258
+France,French Guiana,1/13/2020,Light rain and humid throughout the day.,rain,0.62,0.0102,0.0292,0.93,rain,78.68,69.24,72.72,0.98,1012.6,0.91,7,69.81,78.68,3.9339,-53.1258
+France,French Guiana,1/14/2020,Rain and humid throughout the day.,rain,0.66,0.0385,0.1193,0.96,rain,76.45,70.32,72.76,1.0,1012.0,0.82,7,69.24,76.45,3.9339,-53.1258
+France,French Guiana,1/15/2020,Light rain until evening.,rain,0.69,0.018000000000000002,0.0598,0.91,rain,80.46,70.15,73.99,0.99,1011.5,0.86,7,70.32,80.46,3.9339,-53.1258
+France,French Guiana,1/16/2020,Rain starting in the afternoon.,rain,0.73,0.0414,0.1665,0.89,rain,83.45,69.51,73.84,0.97,1012.6,0.76,8,70.15,83.45,3.9339,-53.1258
+France,French Guiana,1/17/2020,Light rain until evening.,rain,0.77,0.0136,0.0719,0.88,rain,82.12,70.31,74.03,0.98,1013.3,0.91,6,69.51,82.12,3.9339,-53.1258
+France,French Guiana,1/18/2020,Humid and mostly cloudy throughout the day.,rain,0.8,0.0012,0.0038,0.31,rain,84.73,70.22,73.18,0.92,1013.4,0.73,8,70.31,84.73,3.9339,-53.1258
+France,French Guiana,1/19/2020,Humid and partly cloudy throughout the day.,rain,0.84,0.0011,0.0055,0.28,rain,87.84,70.95,71.53,0.84,1012.7,0.55,10,70.22,87.84,3.9339,-53.1258
+France,French Guiana,1/20/2020,Humid and mostly cloudy throughout the day.,rain,0.87,0.0044,0.0187,0.58,rain,84.3,69.36,73.27,0.93,1012.0,0.77,9,70.95,84.3,3.9339,-53.1258
+France,French Guiana,1/21/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0006,0.0015,0.17,rain,84.87,67.22,69.5,0.83,1012.1,0.8,7,69.36,84.87,3.9339,-53.1258
+France,French Guiana,1/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0001,0.0006,0.07,rain,88.25,66.07,66.58,0.75,1011.7,0.63,8,67.22,88.25,3.9339,-53.1258
+France,French Guiana,1/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0001,0.0002,0.03,rain,88.3,66.61,65.33,0.72,1011.7,0.54,11,66.07,88.3,3.9339,-53.1258
+France,French Guiana,1/24/2020,Humid throughout the day.,partly-cloudy-day,0.0,0.0004,0.0032,0.14,rain,89.96,71.37,68.95,0.78,1011.8,0.64,7,66.61,89.96,3.9339,-53.1258
+France,French Guiana,1/25/2020,Light rain and humid throughout the day.,rain,0.03,0.019,0.0628,0.91,rain,82.75,70.11,74.17,0.96,1012.4,0.77,8,71.37,82.75,3.9339,-53.1258
+France,French Guiana,1/26/2020,Light rain and humid throughout the day.,rain,0.07,0.0245,0.0753,0.97,rain,80.14,69.32,73.9,1.0,1012.8,0.95,6,70.11,80.14,3.9339,-53.1258
+France,French Guiana,1/27/2020,Possible light rain in the afternoon and evening.,rain,0.1,0.0071,0.027999999999999997,0.81,rain,78.74,69.82,73.65,1.0,1013.3,0.98,6,69.32,78.74,3.9339,-53.1258
+France,French Guiana,1/28/2020,Humid and mostly cloudy throughout the day.,rain,0.13,0.001,0.0055,0.4,rain,81.21,70.03,73.74,0.96,1012.2,0.73,9,69.82,81.21,3.9339,-53.1258
+France,French Guiana,1/29/2020,Humid and partly cloudy throughout the day.,rain,0.16,0.0044,0.0094,0.57,rain,84.86,70.39,73.22,0.92,1011.8,0.57,11,70.03,84.86,3.9339,-53.1258
+France,French Guiana,1/30/2020,Light rain starting in the afternoon.,rain,0.19,0.0101,0.0362,0.73,rain,86.72,70.6,73.97,0.94,1012.2,0.81,8,70.39,86.72,3.9339,-53.1258
+France,French Guiana,1/31/2020,Light rain in the morning and afternoon.,rain,0.22,0.0164,0.0624,0.86,rain,81.3,68.37,73.83,0.95,1013.5,0.82,8,70.6,81.3,3.9339,-53.1258
+France,French Guiana,2/1/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0005,0.0021,0.16,rain,85.82,65.57,69.01,0.82,1014.1,0.61,7,68.37,85.82,3.9339,-53.1258
+France,French Guiana,2/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.28,0.0012,0.0068,0.21,rain,85.37,68.78,67.88,0.82,1013.7,0.59,9,65.57,85.37,3.9339,-53.1258
+France,French Guiana,2/3/2020,Humid and mostly cloudy throughout the day.,rain,0.31,0.0023,0.0098,0.37,rain,86.84,69.87,70.57,0.84,1014.2,0.64,9,68.78,86.84,3.9339,-53.1258
+France,French Guiana,2/4/2020,Humid and partly cloudy throughout the day.,clear-day,0.34,0.0009,0.0029,0.24,rain,87.51,70.83,69.98,0.81,1013.8,0.29,10,69.87,87.51,3.9339,-53.1258
+France,French Guiana,2/5/2020,Possible light rain in the morning.,rain,0.38,0.0046,0.0269,0.45,rain,85.56,66.94,69.45,0.82,1013.5,0.68,10,70.83,85.56,3.9339,-53.1258
+France,French Guiana,2/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.002,0.0065,0.21,rain,85.5,66.16,67.32,0.79,1013.4,0.64,8,66.94,85.5,3.9339,-53.1258
+France,French Guiana,2/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0036,0.0175,0.23,rain,83.21,65.58,68.43,0.83,1013.0,0.42,10,66.16,83.21,3.9339,-53.1258
+France,French Guiana,2/8/2020,Possible light rain in the afternoon and evening.,rain,0.49,0.0117,0.0652,0.65,rain,83.3,66.64,70.01,0.91,1013.2,0.65,7,65.58,83.3,3.9339,-53.1258
+France,French Guiana,2/9/2020,Humid and mostly cloudy throughout the day.,rain,0.53,0.001,0.0032,0.28,rain,82.34,66.42,68.81,0.87,1014.8,0.65,6,66.64,82.34,3.9339,-53.1258
+France,French Guiana,2/10/2020,Rain starting in the afternoon.,rain,0.57,0.024,0.1082,0.89,rain,84.89,71.16,71.95,0.94,1014.2,0.27,9,66.42,84.89,3.9339,-53.1258
+France,French Guiana,2/11/2020,Light rain until evening.,rain,0.6,0.0142,0.0528,0.92,rain,83.37,68.25,74.33,0.97,1012.4,0.49,11,70.92,83.37,3.9339,-53.1258
+France,French Guiana,2/12/2020,Possible drizzle in the morning.,rain,0.64,0.0013,0.0071,0.51,rain,85.05,68.9,70.71,0.87,1012.6,0.72,8,68.25,85.05,3.9339,-53.1258
+France,French Guiana,2/13/2020,Humid and mostly cloudy throughout the day.,rain,0.68,0.0017,0.0083,0.32,rain,83.87,67.63,71.06,0.88,1012.0,0.85,7,68.9,83.87,3.9339,-53.1258
+France,French Guiana,2/14/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.0005,0.0016,0.22,rain,87.72,70.34,69.58,0.82,1012.5,0.63,10,67.63,87.72,3.9339,-53.1258
+France,French Guiana,2/15/2020,Light rain starting in the afternoon.,rain,0.75,0.0174,0.0647,0.83,rain,83.37,70.57,72.14,0.91,1012.6,0.67,7,70.34,83.37,3.9339,-53.1258
+France,French Guiana,2/16/2020,Light rain until evening.,rain,0.79,0.0146,0.0453,0.92,rain,82.12,69.08,73.57,0.96,1011.4,0.69,7,70.57,82.12,3.9339,-53.1258
+France,French Guiana,2/17/2020,Humid and mostly cloudy throughout the day.,rain,0.82,0.0017,0.0031,0.26,rain,84.16,68.77,71.16,0.88,1011.6,0.61,8,69.08,84.16,3.9339,-53.1258
+France,French Guiana,2/18/2020,Humid and mostly cloudy throughout the day.,rain,0.85,0.0016,0.0068,0.26,rain,86.05,69.47,70.68,0.86,1012.0,0.65,6,68.77,86.05,3.9339,-53.1258
+France,French Guiana,2/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0008,0.0028,0.19,rain,83.8,68.99,68.91,0.82,1012.0,0.71,10,69.47,83.8,3.9339,-53.1258
+France,French Guiana,2/20/2020,Overcast throughout the day.,cloudy,0.92,0.0002,0.001,0.13,rain,85.22,70.17,68.31,0.79,1011.6,0.96,6,68.99,85.22,3.9339,-53.1258
+France,French Guiana,2/21/2020,Humid and overcast throughout the day.,rain,0.95,0.0012,0.0055,0.36,rain,88.65,70.95,68.38,0.74,1011.8,0.9,6,70.17,88.65,3.9339,-53.1258
+France,French Guiana,2/22/2020,Possible light rain starting in the afternoon.,rain,0.98,0.0253,0.0847,0.68,rain,85.34,72.05,74.14,0.94,1012.5,0.82,8,70.95,85.34,3.9339,-53.1258
+France,French Guiana,2/23/2020,Rain until evening.,rain,0.01,0.0434,0.1246,0.88,rain,82.48,71.62,75.21,0.99,1011.9,0.81,7,72.05,82.48,3.9339,-53.1258
+France,French Guiana,2/24/2020,Light rain in the afternoon and evening.,rain,0.04,0.0135,0.0559,0.8,rain,80.28,69.93,74.5,1.0,1011.9,0.96,7,71.62,80.28,3.9339,-53.1258
+France,French Guiana,2/25/2020,Humid and mostly cloudy throughout the day.,rain,0.07,0.0014,0.0082,0.35,rain,85.01,66.58,71.73,0.87,1012.1,0.7,7,69.93,85.01,3.9339,-53.1258
+France,French Guiana,2/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0003,0.08,rain,89.45,64.42,65.98,0.72,1012.5,0.5,7,66.58,89.45,3.9339,-53.1258
+France,French Guiana,2/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0003,0.0016,0.1,rain,85.45,64.83,66.48,0.78,1013.1,0.46,7,64.42,85.45,3.9339,-53.1258
+France,French Guiana,2/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.16,0.0002,0.0006,0.11,rain,86.84,65.92,67.69,0.79,1013.8,0.57,6,64.83,86.84,3.9339,-53.1258
+France,French Guiana,2/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.19,0.0001,0.0003,0.06,rain,90.27,69.58,67.65,0.74,1014.1,0.64,9,65.92,90.27,3.9339,-53.1258
+France,French Guiana,3/1/2020,Humid and mostly cloudy throughout the day.,rain,0.22,0.0043,0.0185,0.41,rain,88.0,69.75,70.51,0.81,1013.4,0.71,7,69.58,88.0,3.9339,-53.1258
+France,French Guiana,3/2/2020,Humid and mostly cloudy throughout the day.,rain,0.26,0.0061,0.0288,0.33,rain,88.71,69.84,71.14,0.85,1012.7,0.62,9,69.75,88.71,3.9339,-53.1258
+France,French Guiana,3/3/2020,Possible light rain in the evening.,rain,0.29,0.0051,0.0201,0.51,rain,86.71,67.57,72.41,0.9,1012.9,0.56,9,69.84,86.71,3.9339,-53.1258
+France,French Guiana,3/4/2020,Humid and mostly cloudy throughout the day.,rain,0.32,0.0022,0.0089,0.36,rain,83.74,68.76,71.36,0.88,1014.0,0.56,8,67.57,83.74,3.9339,-53.1258
+France,French Guiana,3/5/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.36,0.0003,0.0015,0.16,rain,89.05,67.94,68.54,0.76,1014.2,0.53,8,68.76,89.05,3.9339,-53.1258
+France,French Guiana,3/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.39,0.0004,0.0028,0.11,rain,89.56,68.6,67.67,0.75,1013.8,0.46,9,67.94,89.56,3.9339,-53.1258
+France,French Guiana,3/7/2020,Humid and mostly cloudy throughout the day.,rain,0.43,0.0017,0.004,0.27,rain,85.65,69.48,71.14,0.86,1011.9,0.71,8,68.6,85.65,3.9339,-53.1258
+France,French Guiana,3/8/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.0008,0.0037,0.12,rain,89.72,67.47,68.21,0.75,1012.5,0.61,7,69.48,89.72,3.9339,-53.1258
+France,French Guiana,3/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.51,0.0003,0.0008,0.13,rain,90.07,67.63,66.66,0.73,1014.2,0.7,9,67.47,90.07,3.9339,-53.1258
+France,French Guiana,3/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.55,0.0009,0.0073,0.13,rain,87.27,67.66,67.48,0.76,1013.6,0.73,7,67.63,87.27,3.9339,-53.1258
+France,French Guiana,3/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.59,0.0002,0.0004,0.1,rain,92.87,66.9,65.38,0.67,1011.3,0.4,14,67.66,92.87,3.9339,-53.1258
+France,French Guiana,3/12/2020,Clear throughout the day.,partly-cloudy-day,0.63,0.0002,0.0004,0.16,rain,94.61,68.75,66.3,0.68,1010.5,0.36,14,66.9,94.61,3.9339,-53.1258
+France,French Guiana,3/13/2020,Overcast throughout the day.,partly-cloudy-day,0.66,0.0004,0.0031,0.09,rain,91.38,69.83,68.82,0.73,1011.5,0.82,7,68.75,91.38,3.9339,-53.1258
+France,French Guiana,3/14/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.7,0.0001,0.0007,0.13,rain,92.74,70.18,67.76,0.7,1011.5,0.59,11,69.83,92.74,3.9339,-53.1258
+France,French Guiana,3/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.0007,0.0068,0.14,rain,90.76,71.17,68.35,0.72,1012.1,0.79,10,70.18,90.76,3.9339,-53.1258
+France,French Guiana,3/16/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.77,0.0007,0.0043,0.14,rain,91.7,71.61,69.94,0.75,1011.9,0.77,6,71.17,91.7,3.9339,-53.1258
+France,French Guiana,3/17/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.0002,0.0009,0.11,rain,95.92,70.41,68.76,0.71,1012.1,0.6,11,71.61,95.92,3.9339,-53.1258
+France,French Guiana,3/18/2020,Rain until evening.,rain,0.83,0.0334,0.1339,0.94,rain,81.79,69.73,74.58,0.97,1011.9,0.75,11,70.41,81.79,3.9339,-53.1258
+France,French Guiana,3/19/2020,Humid and overcast throughout the day.,rain,0.87,0.0017,0.006999999999999999,0.42,rain,86.47,68.21,71.31,0.85,1012.6,0.89,6,69.73,86.47,3.9339,-53.1258
+France,French Guiana,3/20/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0011,0.0047,0.18,rain,89.24,68.51,69.17,0.78,1012.9,0.82,8,68.21,89.24,3.9339,-53.1258
+France,French Guiana,3/21/2020,Humid and partly cloudy throughout the day.,rain,0.93,0.0051,0.0224,0.34,rain,89.93,69.31,70.6,0.82,1012.0,0.62,12,68.51,89.93,3.9339,-53.1258
+France,French Guiana,3/22/2020,Humid and mostly cloudy throughout the day.,rain,0.96,0.0063,0.0313,0.37,rain,88.8,68.81,71.65,0.84,1012.7,0.72,10,69.31,88.8,3.9339,-53.1258
+France,French Guiana,3/23/2020,Possible light rain in the evening.,rain,0.99,0.0075,0.0275,0.58,rain,90.05,71.23,71.54,0.83,1013.4,0.48,8,68.81,90.05,3.9339,-53.1258
+France,French Guiana,3/24/2020,Rain until evening.,rain,0.02,0.0221,0.107,0.95,rain,84.46,70.66,74.53,0.97,1012.8,0.72,7,71.23,84.46,3.9339,-53.1258
+France,French Guiana,3/25/2020,Possible light rain starting in the afternoon.,rain,0.05,0.0109,0.0397,0.66,rain,84.15,70.11,74.48,0.97,1011.2,0.79,9,70.66,84.15,3.9339,-53.1258
+France,French Guiana,3/26/2020,"Light rain until morning, starting again in the evening.",rain,0.08,0.0276,0.086,0.86,rain,87.46,70.33,74.07,0.95,1010.2,0.87,8,70.11,87.46,3.9339,-53.1258
+France,French Guiana,3/27/2020,Rain until evening.,rain,0.11,0.0467,0.0986,0.95,rain,83.13,70.21,74.0,0.99,1009.5,0.9,6,70.33,83.13,3.9339,-53.1258
+France,French Guiana,3/28/2020,Rain and humid throughout the day.,rain,0.14,0.096,0.3841,0.98,rain,84.06,69.93,73.82,0.98,1010.3,0.75,12,70.21,84.06,3.9339,-53.1258
+France,French Guiana,3/29/2020,Light rain until evening.,rain,0.17,0.028999999999999998,0.0663,0.99,rain,79.15,70.69,74.19,0.99,1011.3,0.91,7,69.93,79.15,3.9339,-53.1258
+France,French Guiana,3/30/2020,Possible light rain in the afternoon and evening.,rain,0.2,0.0155,0.0498,0.72,rain,81.78,69.65,74.7,1.0,1010.4,0.96,7,70.69,81.78,3.9339,-53.1258
+France,French Guiana,3/31/2020,Rain starting in the afternoon.,rain,0.24,0.0247,0.1051,0.78,rain,84.55,69.94,73.93,0.96,1010.1,0.85,6,69.65,84.55,3.9339,-53.1258
+France,French Guiana,4/1/2020,Rain and humid throughout the day.,rain,0.27,0.0664,0.2676,0.96,rain,79.96,70.6,74.22,1.0,1010.6,0.99,6,69.94,79.96,3.9339,-53.1258
+France,French Guiana,4/2/2020,"Rain until afternoon, starting again overnight.",rain,0.3,0.0614,0.2249,1.0,rain,78.47,70.39,72.52,1.0,1012.8,0.98,6,69.96,78.47,3.9339,-53.1258
+France,French Guiana,4/3/2020,Light rain until evening.,rain,0.34,0.0179,0.0482,0.96,rain,80.92,72.19,74.7,0.99,1011.8,0.95,7,70.39,80.92,3.9339,-53.1258
+France,French Guiana,4/4/2020,Possible light rain in the morning and afternoon.,rain,0.38,0.0143,0.0388,0.8,rain,83.55,72.15,76.06,0.99,1010.5,0.89,8,72.19,83.55,3.9339,-53.1258
+France,French Guiana,4/5/2020,Humid and overcast throughout the day.,rain,0.42,0.0039,0.0158,0.48,rain,87.21,73.01,75.44,0.93,1011.6,0.91,7,72.15,87.21,3.9339,-53.1258
+France,French Guiana,4/6/2020,Possible drizzle overnight.,rain,0.46,0.0037,0.0145,0.55,rain,86.61,73.05,76.15,0.93,1011.9,0.81,9,73.01,86.61,3.9339,-53.1258
+France,French Guiana,4/7/2020,Light rain until evening.,rain,0.5,0.0135,0.0394,0.95,rain,84.42,72.5,77.11,0.99,1011.6,0.91,8,73.05,84.42,3.9339,-53.1258
+France,French Guiana,4/8/2020,Humid and mostly cloudy throughout the day.,rain,0.54,0.0032,0.0072,0.61,rain,85.74,72.48,75.84,0.95,1010.9,0.84,8,72.5,85.74,3.9339,-53.1258
+France,French Guiana,4/9/2020,Rain and humid throughout the day.,rain,0.57,0.0348,0.2082,0.9,rain,83.1,71.14,75.03,0.99,1011.5,0.94,6,72.48,83.1,3.9339,-53.1258
+France,French Guiana,4/10/2020,Light rain until evening.,rain,0.61,0.0321,0.1223,0.99,rain,78.14,71.53,74.23,1.0,1011.9,0.91,6,71.14,78.14,3.9339,-53.1258
+France,French Guiana,4/11/2020,Humid and mostly cloudy throughout the day.,rain,0.65,0.0028,0.0079,0.42,rain,83.44,69.8,74.05,0.94,1012.5,0.84,8,71.53,83.44,3.9339,-53.1258
+France,French Guiana,4/12/2020,Light rain until evening.,rain,0.68,0.0075,0.0255,0.79,rain,81.97,69.77,73.64,0.94,1013.3,0.95,6,69.8,81.97,3.9339,-53.1258
+France,French Guiana,4/13/2020,Humid and overcast throughout the day.,cloudy,0.72,0.0004,0.0018,0.23,rain,80.79,69.75,72.43,0.92,1013.7,0.96,7,69.77,80.79,3.9339,-53.1258
+France,French Guiana,4/14/2020,Humid and overcast throughout the day.,rain,0.75,0.0021,0.0107,0.25,rain,81.25,68.64,72.23,0.93,1012.7,0.91,6,69.75,81.25,3.9339,-53.1258
+France,French Guiana,4/15/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.0006,0.0033,0.12,rain,86.52,68.58,70.85,0.84,1012.1,0.65,7,68.64,86.52,3.9339,-53.1258
+France,French Guiana,4/16/2020,Light rain starting in the afternoon.,rain,0.81,0.0074,0.0397,0.81,rain,86.57,71.27,72.3,0.87,1013.6,0.82,9,68.58,86.57,3.9339,-53.1258
+France,French Guiana,4/17/2020,Rain and humid throughout the day.,rain,0.84,0.0838,0.3571,1.0,rain,84.15,69.85,74.93,0.99,1014.1,0.89,7,71.27,84.15,3.9339,-53.1258
+France,French Guiana,4/18/2020,"Light rain until morning, starting again in the evening.",rain,0.88,0.0106,0.038,0.95,rain,86.98,70.61,73.69,0.92,1013.7,0.87,8,69.85,86.98,3.9339,-53.1258
+France,French Guiana,4/19/2020,Light rain and humid throughout the day.,rain,0.91,0.0216,0.0508,1.0,rain,84.8,70.0,75.22,0.97,1012.8,0.96,6,70.61,84.8,3.9339,-53.1258
+France,French Guiana,4/20/2020,Rain and humid throughout the day.,rain,0.94,0.0583,0.1457,1.0,rain,73.73,68.11,71.5,1.0,1013.7,0.97,7,69.83,73.73,3.9339,-53.1258
+France,French Polynesia,12/31/2019,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.2,0.0005,0.0022,0.12,rain,84.53,79.73,73.31,0.76,1011.5,0.38,8,79.29,84.53,-17.6797,149.4068
+France,French Polynesia,1/1/2020,Humid throughout the day.,rain,0.23,0.0031,0.0271,0.3,rain,84.38,78.82,74.71,0.79,1011.8,0.06,13,79.73,84.38,-17.6797,149.4068
+France,French Polynesia,1/2/2020,Possible drizzle overnight.,rain,0.26,0.0032,0.0205,0.4,rain,84.54,78.91,76.33,0.84,1010.3,0.46,8,78.82,84.54,-17.6797,149.4068
+France,French Polynesia,1/3/2020,Possible drizzle in the morning.,rain,0.29,0.0091,0.0145,0.7,rain,83.21,78.52,74.66,0.81,1010.1,0.86,6,78.91,83.21,-17.6797,149.4068
+France,French Polynesia,1/4/2020,Possible drizzle overnight.,rain,0.32,0.0054,0.0165,0.57,rain,84.22,78.92,74.49,0.81,1010.8,0.91,5,78.52,84.22,-17.6797,149.4068
+France,French Polynesia,1/5/2020,Possible light rain in the afternoon and evening.,rain,0.35,0.0143,0.046,0.62,rain,83.18,78.05,75.22,0.83,1010.5,0.11,11,78.92,83.18,-17.6797,149.4068
+France,French Polynesia,1/6/2020,Possible light rain in the morning and overnight.,rain,0.38,0.0097,0.0221,0.67,rain,83.45,78.9,75.42,0.84,1010.3,0.73,9,78.05,83.45,-17.6797,149.4068
+France,French Polynesia,1/7/2020,Possible light rain in the morning.,rain,0.42,0.0054,0.0175,0.74,rain,83.98,79.46,75.13,0.81,1010.5,0.65,7,78.9,83.98,-17.6797,149.4068
+France,French Polynesia,1/8/2020,Humid and mostly cloudy throughout the day.,rain,0.45,0.0026,0.0097,0.59,rain,84.28,78.99,75.56,0.82,1010.2,0.65,8,79.46,84.28,-17.6797,149.4068
+France,French Polynesia,1/9/2020,Possible light rain in the morning and afternoon.,rain,0.49,0.006999999999999999,0.0444,0.74,rain,83.74,79.03,76.29,0.84,1009.3,0.87,8,78.99,83.74,-17.6797,149.4068
+France,French Polynesia,1/10/2020,Humid and mostly cloudy throughout the day.,rain,0.52,0.0032,0.0093,0.45,rain,83.51,79.44,76.28,0.85,1008.2,0.79,8,79.03,83.51,-17.6797,149.4068
+France,French Polynesia,1/11/2020,Humid and overcast throughout the day.,cloudy,0.56,0.0002,0.0008,0.06,rain,83.69,79.0,73.35,0.77,1007.0,0.99,5,79.44,83.69,-17.6797,149.4068
+France,French Polynesia,1/12/2020,Possible light rain overnight.,rain,0.6,0.0042,0.0198,0.35,rain,84.32,79.51,75.31,0.82,1006.5,0.63,9,79.09,84.32,-17.6797,149.4068
+France,French Polynesia,1/13/2020,Possible light rain until evening.,rain,0.64,0.0136,0.046,0.88,rain,83.86,79.06,76.77,0.86,1007.5,0.64,8,79.51,83.86,-17.6797,149.4068
+France,French Polynesia,1/14/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.67,0.0006,0.0009,0.2,rain,84.87,79.7,74.65,0.78,1007.7,0.44,10,79.06,84.87,-17.6797,149.4068
+France,French Polynesia,1/15/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0005,0.0014,0.14,rain,84.72,80.94,72.37,0.72,1006.4,0.44,10,79.7,84.72,-17.6797,149.4068
+France,French Polynesia,1/16/2020,Rain overnight.,rain,0.75,0.0071,0.0663,0.27,rain,85.88,80.26,75.05,0.77,1004.1,0.26,11,80.94,85.88,-17.6797,149.4068
+France,French Polynesia,1/17/2020,Rain in the morning.,rain,0.78,0.0246,0.1412,0.66,rain,86.54,82.17,76.2,0.79,1002.5,0.33,13,80.26,86.54,-17.6797,149.4068
+France,French Polynesia,1/18/2020,Humid throughout the day.,rain,0.82,0.0041,0.0365,0.36,rain,86.64,82.27,77.39,0.8,1005.2,0.22,14,82.17,86.64,-17.6797,149.4068
+France,French Polynesia,1/19/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.85,0.0004,0.003,0.18,rain,86.8,82.42,78.13,0.81,1007.4,0.42,13,82.27,86.8,-17.6797,149.4068
+France,French Polynesia,1/20/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0001,0.0008,0.15,rain,86.68,82.4,76.71,0.78,1009.6,0.63,9,82.42,86.68,-17.6797,149.4068
+France,French Polynesia,1/21/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.92,0.0,0.0001,0.03,,86.6,81.67,74.8,0.73,1010.2,0.74,8,82.4,86.6,-17.6797,149.4068
+France,French Polynesia,1/22/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.95,0.0007,0.002,0.2,rain,86.74,81.63,75.71,0.76,1010.2,0.67,8,81.67,86.74,-17.6797,149.4068
+France,French Polynesia,1/23/2020,Humid and mostly cloudy throughout the day.,rain,0.99,0.0015,0.0037,0.33,rain,86.52,81.13,76.05,0.77,1010.2,0.73,10,81.63,86.52,-17.6797,149.4068
+France,French Polynesia,1/24/2020,Possible light rain and humid throughout the day.,rain,0.02,0.0169,0.0372,0.85,rain,85.0,80.86,77.33,0.83,1009.4,0.99,6,81.13,85.0,-17.6797,149.4068
+France,French Polynesia,1/25/2020,Light rain in the morning and afternoon.,rain,0.05,0.013999999999999999,0.0377,0.88,rain,85.32,81.59,75.72,0.78,1008.7,1.0,6,80.86,85.32,-17.6797,149.4068
+France,French Polynesia,1/26/2020,Light rain and humid throughout the day.,rain,0.08,0.0086,0.0236,0.84,rain,86.13,80.3,75.94,0.77,1007.7,1.0,6,81.34,86.13,-17.6797,149.4068
+France,French Polynesia,1/27/2020,Light rain and humid throughout the day.,rain,0.11,0.0262,0.0621,0.98,rain,85.36,79.22,76.59,0.83,1007.6,1.0,6,79.23,85.36,-17.6797,149.4068
+France,French Polynesia,1/28/2020,Light rain until evening.,rain,0.14,0.0202,0.0471,0.96,rain,85.86,81.05,76.83,0.82,1009.6,1.0,6,79.4,85.86,-17.6797,149.4068
+France,French Polynesia,1/29/2020,Possible light rain in the afternoon and evening.,rain,0.17,0.0236,0.0936,0.76,rain,86.07,81.06,76.86,0.8,1009.8,1.0,6,81.05,86.07,-17.6797,149.4068
+France,French Polynesia,1/30/2020,Humid and overcast throughout the day.,cloudy,0.2,0.0005,0.0022,0.14,rain,85.69,80.55,74.29,0.74,1011.0,0.92,6,81.06,85.69,-17.6797,149.4068
+France,French Polynesia,1/31/2020,Humid and mostly cloudy throughout the day.,rain,0.23,0.0062,0.0173,0.49,rain,85.44,80.85,75.32,0.78,1010.5,0.81,7,80.55,85.44,-17.6797,149.4068
+France,French Polynesia,2/1/2020,Possible light rain in the evening and overnight.,rain,0.26,0.0127,0.0436,0.62,rain,85.53,79.97,76.01,0.8,1009.2,0.82,8,80.85,85.53,-17.6797,149.4068
+France,French Polynesia,2/2/2020,Humid and mostly cloudy throughout the day.,rain,0.29,0.0041,0.0305,0.46,rain,86.1,81.61,77.08,0.82,1008.4,0.88,9,79.97,86.1,-17.6797,149.4068
+France,French Polynesia,2/3/2020,Humid throughout the day.,partly-cloudy-day,0.33,0.0004,0.0017,0.17,rain,86.31,80.61,76.54,0.79,1008.5,0.35,11,81.61,86.31,-17.6797,149.4068
+France,French Polynesia,2/4/2020,Humid and partly cloudy throughout the day.,rain,0.36,0.0027,0.0191,0.41,rain,85.82,79.51,76.36,0.81,1008.6,0.34,10,79.84,85.82,-17.6797,149.4068
+France,French Polynesia,2/5/2020,Humid and mostly cloudy throughout the day.,rain,0.39,0.0022,0.0106,0.35,rain,86.95,80.68,74.38,0.75,1008.8,0.52,8,79.51,86.95,-17.6797,149.4068
+France,French Polynesia,2/6/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0004,0.0033,0.13,rain,86.69,81.15,74.55,0.74,1008.7,0.59,9,80.68,86.69,-17.6797,149.4068
+France,French Polynesia,2/7/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.47,0.001,0.0089,0.22,rain,87.25,82.19,75.28,0.75,1007.2,0.43,9,81.15,87.25,-17.6797,149.4068
+France,French Polynesia,2/8/2020,Humid throughout the day.,partly-cloudy-day,0.51,0.0001,0.0015,0.17,rain,87.43,82.79,74.48,0.71,1006.1,0.51,12,82.19,87.43,-17.6797,149.4068
+France,French Polynesia,2/9/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.54,0.0002,0.0004,0.16,rain,87.92,82.79,74.18,0.69,1006.9,0.37,8,82.79,87.92,-17.6797,149.4068
+France,French Polynesia,2/10/2020,Humid throughout the day.,clear-day,0.58,0.0003,0.003,0.15,rain,89.08,83.65,76.89,0.75,1006.0,0.21,12,82.79,89.08,-17.6797,149.4068
+France,French Polynesia,2/11/2020,Humid throughout the day.,rain,0.62,0.0048,0.0424,0.5,rain,89.19,84.4,79.6,0.8,1003.7,0.05,14,83.65,89.19,-17.6797,149.4068
+France,French Polynesia,2/12/2020,Humid throughout the day.,rain,0.66,0.0046,0.0223,0.45,rain,89.47,84.65,80.64,0.82,1002.6,0.34,14,84.4,89.47,-17.6797,149.4068
+France,French Polynesia,2/13/2020,Possible light rain in the morning and afternoon.,rain,0.7,0.0045,0.0343,0.46,rain,89.12,85.22,80.83,0.82,1003.6,0.14,14,84.65,89.12,-17.6797,149.4068
+France,French Polynesia,2/14/2020,Possible drizzle in the morning.,rain,0.73,0.0031,0.0143,0.51,rain,89.73,84.66,81.37,0.82,1004.7,0.11,14,85.22,89.73,-17.6797,149.4068
+France,French Polynesia,2/15/2020,Humid throughout the day.,rain,0.77,0.0061,0.0383,0.6,rain,89.7,83.71,79.79,0.8,1005.8,0.07,14,84.44,89.7,-17.6797,149.4068
+France,French Polynesia,2/16/2020,"Possible light rain until afternoon, starting again overnight.",rain,0.8,0.008,0.0265,0.67,rain,87.76,81.85,77.73,0.78,1007.1,0.0,14,83.71,87.76,-17.6797,149.4068
+France,French Polynesia,2/17/2020,"Rain until morning, starting again in the evening.",rain,0.84,0.03,0.1046,0.85,rain,88.35,82.77,77.32,0.79,1006.4,0.5,11,81.82,88.35,-17.6797,149.4068
+France,French Polynesia,2/18/2020,Humid and partly cloudy throughout the day.,rain,0.87,0.0088,0.0214,0.5,rain,87.89,82.85,76.13,0.74,1005.8,0.53,11,82.77,87.89,-17.6797,149.4068
+France,French Polynesia,2/19/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0018,0.0176,0.24,rain,88.75,82.79,73.98,0.68,1007.1,0.47,11,82.85,88.75,-17.6797,149.4068
+France,French Polynesia,2/20/2020,Humid and partly cloudy throughout the day.,rain,0.93,0.0029,0.0167,0.36,rain,88.08,83.18,75.81,0.73,1008.7,0.42,11,82.79,88.08,-17.6797,149.4068
+France,French Polynesia,2/21/2020,Light rain starting in the afternoon.,rain,0.96,0.0139,0.0489,0.71,rain,88.01,82.42,77.19,0.77,1009.7,0.55,8,83.18,88.01,-17.6797,149.4068
+France,French Polynesia,2/22/2020,Light rain and humid throughout the day.,rain,0.99,0.012,0.0423,0.94,rain,88.11,82.62,76.98,0.76,1009.6,0.88,7,82.42,88.11,-17.6797,149.4068
+France,French Polynesia,2/23/2020,Light rain and humid throughout the day.,rain,0.02,0.0264,0.0524,0.99,rain,87.14,77.12,77.58,0.81,1010.0,0.95,7,78.58,87.14,-17.6797,149.4068
+France,French Polynesia,2/24/2020,Light rain in the morning and afternoon.,rain,0.06,0.0209,0.0683,0.95,rain,85.35,81.86,75.55,0.82,1010.4,1.0,6,77.12,85.35,-17.6797,149.4068
+France,French Polynesia,2/25/2020,Humid and overcast throughout the day.,rain,0.09,0.0006,0.0036,0.39,rain,86.91,82.29,74.92,0.73,1009.0,1.0,6,81.86,86.91,-17.6797,149.4068
+France,French Polynesia,2/26/2020,Possible light rain starting in the afternoon.,rain,0.12,0.0063,0.0476,0.65,rain,87.75,82.57,76.15,0.75,1007.7,0.98,6,82.29,87.75,-17.6797,149.4068
+France,French Polynesia,2/27/2020,Light rain in the morning.,rain,0.15,0.0115,0.0626,0.77,rain,88.44,82.99,77.81,0.78,1006.3,0.96,6,82.57,88.44,-17.6797,149.4068
+France,French Polynesia,2/28/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.18,0.0015,0.0066,0.16,rain,87.47,81.96,76.49,0.76,1007.7,0.63,8,82.95,87.47,-17.6797,149.4068
+France,French Polynesia,2/29/2020,Humid throughout the day.,clear-day,0.21,0.0027,0.0168,0.23,rain,86.56,81.8,75.91,0.76,1009.4,0.0,13,81.96,86.56,-17.6797,149.4068
+France,French Polynesia,3/1/2020,Humid and partly cloudy throughout the day.,rain,0.24,0.0022,0.0087,0.27,rain,86.87,80.38,75.77,0.76,1009.5,0.33,10,80.47,86.87,-17.6797,149.4068
+France,French Polynesia,3/2/2020,Humid and overcast throughout the day.,cloudy,0.27,0.0008,0.0044,0.21,rain,87.65,82.4,74.95,0.74,1008.9,0.91,6,80.38,87.65,-17.6797,149.4068
+France,French Polynesia,3/3/2020,Humid and overcast throughout the day.,cloudy,0.3,0.0,0.0002,0.03,,87.47,82.22,72.91,0.67,1008.1,0.98,6,82.4,87.47,-17.6797,149.4068
+France,French Polynesia,3/4/2020,Humid and overcast throughout the day.,cloudy,0.34,0.0,0.0004,0.04,,87.54,83.02,72.71,0.67,1008.1,0.96,6,82.22,87.54,-17.6797,149.4068
+France,French Polynesia,3/5/2020,Humid and overcast throughout the day.,cloudy,0.37,0.0001,0.0003,0.07,rain,87.92,82.57,73.98,0.68,1008.7,0.95,6,83.02,87.92,-17.6797,149.4068
+France,French Polynesia,3/6/2020,Possible light rain in the morning and afternoon.,rain,0.41,0.0082,0.0465,0.64,rain,87.65,82.31,76.04,0.74,1008.3,0.82,7,82.57,87.65,-17.6797,149.4068
+France,French Polynesia,3/7/2020,Humid and overcast throughout the day.,rain,0.45,0.0006,0.0018,0.25,rain,87.65,82.35,74.88,0.72,1008.0,0.99,6,82.31,87.65,-17.6797,149.4068
+France,French Polynesia,3/8/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0001,0.0009,0.1,rain,87.53,81.88,75.22,0.73,1007.6,0.68,9,82.35,87.53,-17.6797,149.4068
+France,French Polynesia,3/9/2020,Light rain starting in the afternoon.,rain,0.53,0.0073,0.0285,0.81,rain,87.94,80.75,75.38,0.73,1007.2,0.5,12,81.88,87.94,-17.6797,149.4068
+France,French Polynesia,3/10/2020,Rain and humid throughout the day.,rain,0.57,0.0601,0.2016,1.0,rain,82.99,80.26,76.73,0.86,1007.2,0.9,6,78.69,82.99,-17.6797,149.4068
+France,French Polynesia,3/11/2020,Rain throughout the day.,rain,0.61,0.0554,0.1571,1.0,rain,83.76,79.86,78.05,0.88,1004.4,0.98,6,80.26,83.76,-17.6797,149.4068
+France,French Polynesia,3/12/2020,Rain and dangerously windy throughout the day.,rain,0.64,0.0835,0.2139,1.0,rain,85.99,80.35,78.05,0.85,1000.8,0.98,6,79.86,85.99,-17.6797,149.4068
+France,French Polynesia,3/13/2020,Possible light rain in the evening.,rain,0.68,0.0074,0.0228,0.74,rain,83.8,79.7,74.48,0.79,1003.4,0.73,7,80.14,83.8,-17.6797,149.4068
+France,French Polynesia,3/14/2020,Humid and partly cloudy throughout the day.,rain,0.72,0.0036,0.0178,0.29,rain,84.48,79.24,71.29,0.71,1007.4,0.33,10,79.7,84.48,-17.6797,149.4068
+France,French Polynesia,3/15/2020,Humid throughout the day.,clear-day,0.75,0.0017,0.0124,0.19,rain,83.67,78.03,71.89,0.73,1011.5,0.16,12,79.24,83.67,-17.6797,149.4068
+France,French Polynesia,3/16/2020,Possible light rain in the morning and afternoon.,rain,0.78,0.0098,0.0159,0.64,rain,83.26,77.67,73.33,0.79,1013.9,0.61,8,78.03,83.26,-17.6797,149.4068
+France,French Polynesia,3/17/2020,Possible light rain in the morning.,rain,0.82,0.0049,0.0166,0.51,rain,83.4,78.96,71.63,0.74,1015.2,0.18,11,77.67,83.4,-17.6797,149.4068
+France,French Polynesia,3/18/2020,Humid throughout the day.,rain,0.85,0.0045,0.0121,0.38,rain,83.38,78.88,70.71,0.71,1015.2,0.18,12,78.96,83.38,-17.6797,149.4068
+France,French Polynesia,3/19/2020,Humid throughout the day.,rain,0.88,0.0108,0.0327,0.44,rain,84.48,78.75,72.27,0.74,1013.5,0.29,10,78.88,84.48,-17.6797,149.4068
+France,French Polynesia,3/20/2020,Light rain until evening.,rain,0.91,0.0114,0.0229,0.93,rain,84.08,79.44,73.68,0.78,1013.0,0.77,6,78.75,84.08,-17.6797,149.4068
+France,French Polynesia,3/21/2020,Humid and overcast throughout the day.,rain,0.94,0.001,0.0067,0.34,rain,84.14,79.83,73.38,0.75,1013.0,0.9,6,79.68,84.14,-17.6797,149.4068
+France,French Polynesia,3/22/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.97,0.0015,0.0065,0.22,rain,84.42,78.75,74.72,0.78,1011.9,0.61,7,79.83,84.42,-17.6797,149.4068
+France,French Polynesia,3/23/2020,Windy in the evening.,partly-cloudy-day,0.0,0.001,0.0028,0.19,rain,84.33,78.98,73.11,0.76,1012.1,0.66,6,78.75,84.33,-17.6797,149.4068
+France,French Polynesia,3/24/2020,Possible light rain overnight.,rain,0.03,0.0051,0.0148,0.49,rain,83.98,76.35,74.0,0.78,1012.1,0.73,7,78.55,83.98,-17.6797,149.4068
+France,French Polynesia,3/25/2020,Possible light rain and humid throughout the day.,rain,0.06,0.0225,0.0416,0.88,rain,80.73,78.35,75.58,0.89,1012.3,0.89,6,76.35,80.73,-17.6797,149.4068
+France,French Polynesia,3/26/2020,Humid and overcast throughout the day.,rain,0.09,0.0037,0.0153,0.44,rain,84.57,77.83,73.81,0.78,1012.1,0.88,6,78.73,84.57,-17.6797,149.4068
+France,French Polynesia,3/27/2020,Possible light rain in the evening and overnight.,rain,0.12,0.0058,0.0217,0.56,rain,83.69,77.69,74.5,0.81,1010.7,0.54,8,77.83,83.69,-17.6797,149.4068
+France,French Polynesia,3/28/2020,Possible light rain in the morning and overnight.,rain,0.15,0.0085,0.0282,0.71,rain,84.21,78.88,74.74,0.81,1010.6,0.65,11,77.69,84.21,-17.6797,149.4068
+France,French Polynesia,3/29/2020,Humid and mostly cloudy throughout the day.,rain,0.19,0.004,0.0115,0.59,rain,84.28,78.52,73.85,0.78,1011.1,0.68,7,78.88,84.28,-17.6797,149.4068
+France,French Polynesia,3/30/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.22,0.0005,0.0045,0.18,rain,83.46,77.91,71.65,0.73,1011.7,0.65,8,78.52,83.46,-17.6797,149.4068
+France,French Polynesia,3/31/2020,Humid and partly cloudy throughout the day.,rain,0.25,0.0026,0.0111,0.38,rain,83.12,77.68,71.74,0.75,1011.5,0.4,8,77.91,83.12,-17.6797,149.4068
+France,French Polynesia,4/1/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.29,0.0004,0.002,0.07,rain,83.07,77.27,71.17,0.73,1010.9,0.51,7,77.68,83.07,-17.6797,149.4068
+France,French Polynesia,4/2/2020,Clear throughout the day.,clear-day,0.32,0.0012,0.0077,0.16,rain,83.11,77.76,70.18,0.72,1010.0,0.23,11,77.27,83.11,-17.6797,149.4068
+France,French Polynesia,4/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.0002,0.0004,0.06,rain,82.82,78.53,68.03,0.66,1009.9,0.34,8,77.76,82.82,-17.6797,149.4068
+France,French Polynesia,4/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0,0.0002,0.03,,83.38,79.24,70.7,0.71,1011.0,0.34,9,78.53,83.38,-17.6797,149.4068
+France,French Polynesia,4/5/2020,Humid throughout the day.,clear-day,0.44,0.0001,0.0004,0.04,rain,83.84,78.04,72.0,0.73,1011.6,0.28,10,79.24,83.84,-17.6797,149.4068
+France,French Polynesia,4/6/2020,Clear throughout the day.,clear-day,0.47,0.0002,0.0009,0.06,rain,82.79,76.38,69.07,0.7,1011.8,0.26,10,77.74,82.79,-17.6797,149.4068
+France,French Polynesia,4/7/2020,Possible drizzle overnight.,rain,0.51,0.0045,0.021,0.34,rain,83.02,76.43,71.4,0.77,1012.6,0.38,10,76.38,83.02,-17.6797,149.4068
+France,French Polynesia,4/8/2020,Humid and partly cloudy throughout the day.,rain,0.55,0.0049,0.0206,0.69,rain,82.41,78.18,72.44,0.78,1014.4,0.45,9,76.43,82.41,-17.6797,149.4068
+France,French Polynesia,4/9/2020,Humid throughout the day.,clear-day,0.59,0.0007,0.0043,0.14,rain,82.84,77.85,71.68,0.75,1015.1,0.23,10,78.18,82.84,-17.6797,149.4068
+France,French Polynesia,4/10/2020,Humid and mostly cloudy throughout the day.,cloudy,0.63,0.0001,0.0004,0.05,rain,82.69,78.38,71.48,0.74,1013.3,0.88,6,77.85,82.69,-17.6797,149.4068
+France,French Polynesia,4/11/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.67,0.0001,0.0003,0.03,rain,82.5,78.46,69.79,0.7,1011.8,0.54,7,78.38,82.5,-17.6797,149.4068
+France,French Polynesia,4/12/2020,Humid throughout the day.,clear-day,0.7,0.0001,0.0003,0.06,rain,83.42,78.36,73.13,0.77,1013.1,0.04,10,78.46,83.42,-17.6797,149.4068
+France,French Polynesia,4/13/2020,Possible light rain and humid throughout the day.,rain,0.73,0.0085,0.0374,0.71,rain,83.09,77.62,74.78,0.83,1014.9,0.46,7,77.85,83.09,-17.6797,149.4068
+France,French Polynesia,4/14/2020,Light rain and humid throughout the day.,rain,0.77,0.0129,0.0515,0.78,rain,83.59,77.79,74.54,0.82,1014.5,0.26,9,77.62,83.59,-17.6797,149.4068
+France,French Polynesia,4/15/2020,Light rain and humid throughout the day.,rain,0.8,0.0247,0.0618,0.9,rain,82.83,78.67,75.27,0.85,1013.5,0.37,9,77.79,82.83,-17.6797,149.4068
+France,French Polynesia,4/16/2020,Possible light rain in the morning.,rain,0.83,0.0116,0.0389,0.8,rain,83.79,78.84,75.54,0.83,1013.5,0.63,6,78.67,83.79,-17.6797,149.4068
+France,French Polynesia,4/17/2020,Humid and partly cloudy throughout the day.,rain,0.86,0.0007,0.002,0.29,rain,83.84,79.21,73.75,0.78,1012.6,0.38,9,78.84,83.84,-17.6797,149.4068
+France,French Polynesia,4/18/2020,Humid throughout the day.,clear-day,0.89,0.0003,0.0009,0.2,rain,83.64,79.77,73.09,0.76,1012.1,0.23,9,79.21,83.64,-17.6797,149.4068
+France,French Polynesia,4/19/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.92,0.0001,0.0003,0.09,rain,85.07,79.72,72.87,0.73,1013.4,0.38,7,79.77,85.07,-17.6797,149.4068
+France,French Polynesia,4/20/2020,Humid and partly cloudy throughout the day.,clear-day,0.95,0.0002,0.0007,0.07,rain,83.43,78.19,72.48,0.75,1014.9,0.29,9,78.9,83.43,-17.6797,149.4068
+France,Guadeloupe,12/31/2019,Humid throughout the day.,clear-day,0.19,0.0002,0.0009,0.15,rain,86.81,73.59,72.35,0.78,1014.4,0.1,7,74.82,86.81,16.25,-61.5833
+France,Guadeloupe,1/1/2020,Humid throughout the day.,clear-day,0.22,0.0003,0.0016,0.18,rain,86.89,73.99,71.67,0.77,1014.8,0.18,7,73.59,86.89,16.25,-61.5833
+France,Guadeloupe,1/2/2020,Possible light rain in the morning.,rain,0.25,0.0055,0.0265,0.56,rain,85.88,73.37,72.54,0.8,1015.4,0.31,6,73.99,85.88,16.25,-61.5833
+France,Guadeloupe,1/3/2020,Possible light rain overnight.,rain,0.28,0.0044,0.0207,0.38,rain,85.53,74.37,72.3,0.81,1016.9,0.24,7,73.37,85.53,16.25,-61.5833
+France,Guadeloupe,1/4/2020,Possible light rain in the morning.,rain,0.31,0.0151,0.0278,0.71,rain,82.02,73.13,73.22,0.86,1016.4,0.51,6,74.37,82.02,16.25,-61.5833
+France,Guadeloupe,1/5/2020,Possible light rain in the morning and afternoon.,rain,0.34,0.0077,0.016,0.67,rain,82.71,72.89,72.69,0.84,1015.2,0.54,5,73.13,82.71,16.25,-61.5833
+France,Guadeloupe,1/6/2020,Humid and partly cloudy throughout the day.,rain,0.37,0.0011,0.0052,0.28,rain,84.56,71.92,70.8,0.78,1015.0,0.3,6,72.97,84.56,16.25,-61.5833
+France,Guadeloupe,1/7/2020,Humid and partly cloudy throughout the day.,rain,0.4,0.0014,0.004,0.3,rain,85.35,73.61,70.89,0.79,1016.4,0.33,6,71.92,85.35,16.25,-61.5833
+France,Guadeloupe,1/8/2020,Possible light rain overnight.,rain,0.44,0.0081,0.0223,0.54,rain,85.32,73.98,72.36,0.81,1017.9,0.48,7,73.62,85.32,16.25,-61.5833
+France,Guadeloupe,1/9/2020,Humid and partly cloudy throughout the day.,rain,0.47,0.0068,0.0178,0.56,rain,85.25,74.49,71.66,0.78,1018.5,0.41,7,73.98,85.25,16.25,-61.5833
+France,Guadeloupe,1/10/2020,Humid and partly cloudy throughout the day.,rain,0.51,0.0047,0.0182,0.39,rain,83.98,73.72,70.01,0.75,1018.5,0.34,6,74.5,83.98,16.25,-61.5833
+France,Guadeloupe,1/11/2020,Possible light rain in the morning and overnight.,rain,0.55,0.0234,0.0395,0.71,rain,83.2,74.48,71.17,0.8,1018.2,0.49,6,73.72,83.2,16.25,-61.5833
+France,Guadeloupe,1/12/2020,Possible light rain and humid throughout the day.,rain,0.58,0.0176,0.0276,0.81,rain,83.94,72.21,70.34,0.78,1018.9,0.46,6,74.48,83.94,16.25,-61.5833
+France,Guadeloupe,1/13/2020,Light rain and humid throughout the day.,rain,0.62,0.016,0.0244,0.84,rain,82.96,72.05,69.64,0.79,1017.9,0.46,6,72.31,82.96,16.25,-61.5833
+France,Guadeloupe,1/14/2020,Light rain and humid throughout the day.,rain,0.66,0.0255,0.0368,0.96,rain,82.94,73.32,70.59,0.81,1016.3,0.43,6,72.05,82.94,16.25,-61.5833
+France,Guadeloupe,1/15/2020,Light rain in the morning and afternoon.,rain,0.69,0.0161,0.0335,0.84,rain,83.07,72.48,70.63,0.79,1015.9,0.49,6,73.32,83.07,16.25,-61.5833
+France,Guadeloupe,1/16/2020,Humid and partly cloudy throughout the day.,rain,0.73,0.0039,0.013000000000000001,0.39,rain,84.31,72.22,70.38,0.79,1017.1,0.32,7,72.48,84.31,16.25,-61.5833
+France,Guadeloupe,1/17/2020,Humid and partly cloudy throughout the day.,rain,0.77,0.0036,0.0117,0.42,rain,84.77,71.83,71.48,0.81,1017.4,0.26,7,72.22,84.77,16.25,-61.5833
+France,Guadeloupe,1/18/2020,Possible light rain in the morning and afternoon.,rain,0.8,0.0136,0.0253,0.79,rain,82.46,72.74,71.7,0.85,1017.6,0.57,6,71.83,82.46,16.25,-61.5833
+France,Guadeloupe,1/19/2020,Humid and partly cloudy throughout the day.,rain,0.84,0.0012,0.0033,0.31,rain,83.86,72.61,70.08,0.78,1017.4,0.4,7,72.74,83.86,16.25,-61.5833
+France,Guadeloupe,1/20/2020,Clear throughout the day.,clear-day,0.87,0.0003,0.0009,0.12,rain,85.12,72.37,69.03,0.74,1016.8,0.27,8,72.61,85.12,16.25,-61.5833
+France,Guadeloupe,1/21/2020,Possible drizzle in the morning.,rain,0.91,0.0067,0.012,0.64,rain,83.04,72.85,71.83,0.85,1015.0,0.6,6,72.37,83.04,16.25,-61.5833
+France,Guadeloupe,1/22/2020,Possible drizzle in the morning.,rain,0.94,0.0037,0.0122,0.51,rain,83.92,73.54,71.49,0.82,1013.7,0.64,6,72.85,83.92,16.25,-61.5833
+France,Guadeloupe,1/23/2020,Humid and partly cloudy throughout the day.,rain,0.97,0.0013,0.0029,0.3,rain,85.29,73.34,71.92,0.8,1013.0,0.38,7,73.54,85.29,16.25,-61.5833
+France,Guadeloupe,1/24/2020,Possible light rain in the evening and overnight.,rain,0.0,0.01,0.0526,0.6,rain,84.84,72.73,72.92,0.84,1013.8,0.39,8,73.34,84.84,16.25,-61.5833
+France,Guadeloupe,1/25/2020,Humid throughout the day.,rain,0.04,0.0088,0.0544,0.58,rain,85.63,72.35,71.45,0.8,1015.1,0.25,8,72.73,85.63,16.25,-61.5833
+France,Guadeloupe,1/26/2020,Humid throughout the day.,rain,0.07,0.0052,0.0181,0.56,rain,84.96,72.61,71.09,0.79,1015.1,0.29,8,72.35,84.96,16.25,-61.5833
+France,Guadeloupe,1/27/2020,Clear throughout the day.,rain,0.1,0.0006,0.0081,0.31,rain,85.07,73.23,69.21,0.74,1015.7,0.13,9,72.61,85.07,16.25,-61.5833
+France,Guadeloupe,1/28/2020,Humid throughout the day.,clear-day,0.13,0.0015,0.0118,0.16,rain,85.42,71.88,70.45,0.77,1015.2,0.19,8,73.23,85.42,16.25,-61.5833
+France,Guadeloupe,1/29/2020,Clear throughout the day.,clear-day,0.16,0.0005,0.0031,0.12,rain,85.94,73.23,70.53,0.78,1015.6,0.11,9,71.88,85.94,16.25,-61.5833
+France,Guadeloupe,1/30/2020,Humid and partly cloudy throughout the day.,clear-day,0.19,0.0006,0.0023,0.19,rain,85.74,72.93,71.8,0.8,1016.2,0.29,8,73.23,85.74,16.25,-61.5833
+France,Guadeloupe,1/31/2020,Humid throughout the day.,clear-day,0.22,0.0002,0.0003,0.08,rain,86.61,73.64,71.06,0.77,1017.8,0.07,9,72.93,86.61,16.25,-61.5833
+France,Guadeloupe,2/1/2020,Humid throughout the day.,clear-day,0.25,0.0004,0.0021,0.16,rain,85.89,73.29,71.11,0.78,1017.7,0.16,9,73.64,85.89,16.25,-61.5833
+France,Guadeloupe,2/2/2020,Humid and partly cloudy throughout the day.,clear-day,0.28,0.0011,0.0041,0.23,rain,85.07,72.19,71.4,0.79,1016.7,0.29,8,73.29,85.07,16.25,-61.5833
+France,Guadeloupe,2/3/2020,Partly cloudy throughout the day.,clear-day,0.31,0.0007,0.004,0.16,rain,85.26,72.52,70.34,0.77,1018.0,0.24,8,72.19,85.26,16.25,-61.5833
+France,Guadeloupe,2/4/2020,Partly cloudy throughout the day.,clear-day,0.35,0.0007,0.0033,0.2,rain,83.73,72.71,70.09,0.77,1017.8,0.31,7,72.52,83.73,16.25,-61.5833
+France,Guadeloupe,2/5/2020,Humid throughout the day.,rain,0.38,0.0037,0.0147,0.5,rain,84.58,73.86,71.54,0.8,1017.7,0.27,8,72.71,84.58,16.25,-61.5833
+France,Guadeloupe,2/6/2020,Humid and partly cloudy throughout the day.,clear-day,0.42,0.001,0.0026,0.19,rain,85.36,73.98,70.87,0.76,1017.4,0.27,7,73.86,85.36,16.25,-61.5833
+France,Guadeloupe,2/7/2020,Humid and partly cloudy throughout the day.,rain,0.45,0.0065,0.0232,0.48,rain,84.84,73.9,70.84,0.77,1018.3,0.35,8,73.98,84.84,16.25,-61.5833
+France,Guadeloupe,2/8/2020,Humid and mostly cloudy throughout the day.,rain,0.49,0.0062,0.0237,0.51,rain,84.61,73.44,71.04,0.78,1017.6,0.46,6,73.9,84.61,16.25,-61.5833
+France,Guadeloupe,2/9/2020,Possible light rain in the morning.,rain,0.53,0.0102,0.0321,0.66,rain,83.62,72.67,71.33,0.8,1018.6,0.37,7,73.44,83.62,16.25,-61.5833
+France,Guadeloupe,2/10/2020,Possible light rain in the morning.,rain,0.57,0.0093,0.0232,0.59,rain,84.39,73.76,70.44,0.78,1018.8,0.25,8,72.67,84.39,16.25,-61.5833
+France,Guadeloupe,2/11/2020,Possible light rain in the morning and overnight.,rain,0.61,0.0124,0.0249,0.71,rain,83.6,73.21,70.78,0.79,1018.0,0.43,7,73.76,83.6,16.25,-61.5833
+France,Guadeloupe,2/12/2020,Possible light rain overnight.,rain,0.64,0.0101,0.0339,0.65,rain,84.74,72.84,70.53,0.78,1017.2,0.27,8,73.21,84.74,16.25,-61.5833
+France,Guadeloupe,2/13/2020,Possible light rain overnight.,rain,0.68,0.0107,0.0359,0.66,rain,84.0,72.95,70.38,0.78,1016.5,0.37,9,72.84,84.0,16.25,-61.5833
+France,Guadeloupe,2/14/2020,"Possible light rain until morning, starting again in the evening.",rain,0.72,0.0194,0.0666,0.79,rain,84.15,73.17,71.42,0.8,1016.9,0.46,7,72.95,84.15,16.25,-61.5833
+France,Guadeloupe,2/15/2020,Possible light rain in the morning and afternoon.,rain,0.75,0.0264,0.0513,0.83,rain,83.71,73.78,72.2,0.82,1016.3,0.76,6,73.17,83.71,16.25,-61.5833
+France,Guadeloupe,2/16/2020,Humid and partly cloudy throughout the day.,rain,0.79,0.0024,0.0108,0.37,rain,84.02,73.64,71.79,0.81,1015.3,0.35,8,73.78,84.02,16.25,-61.5833
+France,Guadeloupe,2/17/2020,Possible light rain in the morning.,rain,0.82,0.0091,0.0324,0.5,rain,83.66,73.3,71.33,0.8,1015.6,0.3,7,73.64,83.66,16.25,-61.5833
+France,Guadeloupe,2/18/2020,Humid and partly cloudy throughout the day.,rain,0.85,0.0041,0.0171,0.31,rain,83.6,72.69,70.65,0.79,1016.6,0.29,8,73.3,83.6,16.25,-61.5833
+France,Guadeloupe,2/19/2020,Possible light rain in the morning.,rain,0.89,0.0076,0.0166,0.54,rain,83.22,72.56,70.29,0.79,1016.3,0.4,7,72.69,83.22,16.25,-61.5833
+France,Guadeloupe,2/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.92,0.0013,0.0039,0.19,rain,83.03,71.5,68.9,0.76,1015.8,0.41,8,72.56,83.03,16.25,-61.5833
+France,Guadeloupe,2/21/2020,Clear throughout the day.,clear-day,0.95,0.0005,0.0021,0.19,rain,84.63,70.94,68.91,0.76,1015.8,0.17,10,71.5,84.63,16.25,-61.5833
+France,Guadeloupe,2/22/2020,Humid throughout the day.,rain,0.98,0.0053,0.0148,0.37,rain,84.73,70.39,69.92,0.79,1015.2,0.2,10,70.94,84.73,16.25,-61.5833
+France,Guadeloupe,2/23/2020,Clear throughout the day.,clear-day,0.01,0.0005,0.0021,0.17,rain,85.34,72.41,69.13,0.75,1015.2,0.08,10,70.39,85.34,16.25,-61.5833
+France,Guadeloupe,2/24/2020,Possible light rain in the afternoon and evening.,rain,0.04,0.0112,0.0565,0.51,rain,85.26,73.27,72.67,0.84,1015.3,0.36,8,72.41,85.26,16.25,-61.5833
+France,Guadeloupe,2/25/2020,Possible drizzle in the morning.,rain,0.07,0.0054,0.0186,0.55,rain,84.41,73.3,72.61,0.83,1015.4,0.41,8,73.27,84.41,16.25,-61.5833
+France,Guadeloupe,2/26/2020,Humid and partly cloudy throughout the day.,rain,0.1,0.0045,0.0135,0.38,rain,83.88,71.34,71.72,0.82,1015.7,0.47,8,73.3,83.88,16.25,-61.5833
+France,Guadeloupe,2/27/2020,Clear throughout the day.,clear-day,0.13,0.0003,0.0014,0.08,rain,83.89,71.82,69.22,0.76,1016.4,0.27,10,71.34,83.89,16.25,-61.5833
+France,Guadeloupe,2/28/2020,Humid and partly cloudy throughout the day.,clear-day,0.16,0.0009,0.0021,0.16,rain,84.66,71.67,70.15,0.78,1017.1,0.28,8,71.82,84.66,16.25,-61.5833
+France,Guadeloupe,2/29/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0032,0.0131,0.21,rain,85.09,72.54,70.72,0.79,1017.7,0.39,9,71.67,85.09,16.25,-61.5833
+France,Guadeloupe,3/1/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.22,0.0024,0.0063,0.24,rain,84.17,71.28,70.35,0.78,1017.3,0.35,8,72.54,84.17,16.25,-61.5833
+France,Guadeloupe,3/2/2020,Clear throughout the day.,clear-day,0.26,0.0007,0.0033,0.16,rain,83.84,72.25,69.03,0.76,1016.8,0.19,9,71.28,83.84,16.25,-61.5833
+France,Guadeloupe,3/3/2020,Partly cloudy throughout the day.,rain,0.29,0.0036,0.0184,0.35,rain,84.31,72.74,70.51,0.79,1016.8,0.31,10,72.25,84.31,16.25,-61.5833
+France,Guadeloupe,3/4/2020,Humid and partly cloudy throughout the day.,rain,0.32,0.0033,0.0116,0.37,rain,84.97,72.66,70.51,0.77,1017.8,0.24,9,72.74,84.97,16.25,-61.5833
+France,Guadeloupe,3/5/2020,Partly cloudy throughout the day.,clear-day,0.36,0.0006,0.0021,0.14,rain,83.76,72.4,69.02,0.74,1018.9,0.26,9,72.66,83.76,16.25,-61.5833
+France,Guadeloupe,3/6/2020,Humid and partly cloudy throughout the day.,rain,0.4,0.003,0.0192,0.26,rain,84.89,73.41,69.87,0.76,1017.5,0.26,10,72.4,84.89,16.25,-61.5833
+France,Guadeloupe,3/7/2020,Humid and partly cloudy throughout the day.,rain,0.43,0.0035,0.0082,0.32,rain,84.62,71.93,71.13,0.79,1015.3,0.43,8,73.41,84.62,16.25,-61.5833
+France,Guadeloupe,3/8/2020,Clear throughout the day.,clear-day,0.47,0.0005,0.0042,0.21,rain,85.57,71.14,67.54,0.7,1016.8,0.17,11,71.93,85.57,16.25,-61.5833
+France,Guadeloupe,3/9/2020,Partly cloudy throughout the day.,rain,0.51,0.0033,0.0178,0.27,rain,84.55,73.45,67.61,0.72,1018.5,0.4,9,71.14,84.55,16.25,-61.5833
+France,Guadeloupe,3/10/2020,Humid and mostly cloudy throughout the day.,rain,0.55,0.0038,0.0132,0.41,rain,84.49,72.92,70.32,0.77,1017.0,0.61,7,73.45,84.49,16.25,-61.5833
+France,Guadeloupe,3/11/2020,Partly cloudy throughout the day.,rain,0.59,0.0014,0.0081,0.3,rain,84.62,72.15,69.53,0.74,1014.7,0.48,8,72.92,84.62,16.25,-61.5833
+France,Guadeloupe,3/12/2020,Humid and partly cloudy throughout the day.,rain,0.63,0.0049,0.0372,0.38,rain,84.62,73.22,70.61,0.78,1013.2,0.44,9,72.15,84.62,16.25,-61.5833
+France,Guadeloupe,3/13/2020,Humid throughout the day.,rain,0.67,0.0019,0.0063,0.27,rain,85.78,72.25,70.47,0.75,1014.9,0.15,11,73.22,85.78,16.25,-61.5833
+France,Guadeloupe,3/14/2020,Humid and partly cloudy throughout the day.,rain,0.7,0.0085,0.0275,0.37,rain,84.76,71.44,70.48,0.78,1014.9,0.27,9,72.25,84.76,16.25,-61.5833
+France,Guadeloupe,3/15/2020,Humid and partly cloudy throughout the day.,rain,0.74,0.0069,0.0177,0.55,rain,83.04,70.91,70.51,0.81,1014.5,0.29,9,71.44,83.04,16.25,-61.5833
+France,Guadeloupe,3/16/2020,Clear throughout the day.,clear-day,0.77,0.0009,0.0077,0.19,rain,84.95,71.72,67.6,0.72,1014.7,0.18,11,70.91,84.95,16.25,-61.5833
+France,Guadeloupe,3/17/2020,Clear throughout the day.,clear-day,0.8,0.002,0.0105,0.19,rain,84.55,72.51,69.32,0.75,1015.3,0.25,11,71.72,84.55,16.25,-61.5833
+France,Guadeloupe,3/18/2020,Humid and partly cloudy throughout the day.,rain,0.84,0.0046,0.0124,0.41,rain,85.04,73.47,70.98,0.78,1016.4,0.24,10,72.51,85.04,16.25,-61.5833
+France,Guadeloupe,3/19/2020,Humid and partly cloudy throughout the day.,rain,0.87,0.0021,0.0081,0.34,rain,84.66,73.16,70.91,0.77,1017.3,0.26,9,73.47,84.66,16.25,-61.5833
+France,Guadeloupe,3/20/2020,Possible light rain in the morning and afternoon.,rain,0.9,0.016,0.0432,0.78,rain,83.38,72.34,70.44,0.79,1017.1,0.41,8,73.16,83.38,16.25,-61.5833
+France,Guadeloupe,3/21/2020,Light rain starting in the afternoon.,rain,0.93,0.0129,0.0338,0.72,rain,83.27,72.82,70.94,0.81,1016.1,0.41,8,72.34,83.27,16.25,-61.5833
+France,Guadeloupe,3/22/2020,Light rain until evening.,rain,0.96,0.0335,0.0746,0.98,rain,81.9,73.29,72.63,0.87,1016.8,0.57,7,72.82,81.9,16.25,-61.5833
+France,Guadeloupe,3/23/2020,Possible light rain and humid throughout the day.,rain,0.99,0.0185,0.0319,0.86,rain,80.75,72.75,72.61,0.87,1018.1,0.57,6,73.29,80.75,16.25,-61.5833
+France,Guadeloupe,3/24/2020,Light rain in the morning and afternoon.,rain,0.02,0.0167,0.0506,0.88,rain,82.77,72.08,72.17,0.85,1017.2,0.64,6,72.75,82.77,16.25,-61.5833
+France,Guadeloupe,3/25/2020,Humid throughout the day.,clear-day,0.05,0.002,0.0104,0.22,rain,84.16,72.14,70.44,0.79,1015.5,0.23,10,72.08,84.16,16.25,-61.5833
+France,Guadeloupe,3/26/2020,Humid throughout the day.,rain,0.08,0.0018,0.0056,0.25,rain,84.77,72.18,70.32,0.77,1014.0,0.21,9,72.14,84.77,16.25,-61.5833
+France,Guadeloupe,3/27/2020,Humid and partly cloudy throughout the day.,rain,0.11,0.0062,0.0301,0.44,rain,84.74,73.04,70.69,0.78,1012.8,0.22,9,72.18,84.74,16.25,-61.5833
+France,Guadeloupe,3/28/2020,Humid throughout the day.,rain,0.14,0.0039,0.0116,0.37,rain,83.86,73.92,72.26,0.82,1014.4,0.23,9,73.04,83.86,16.25,-61.5833
+France,Guadeloupe,3/29/2020,Humid and partly cloudy throughout the day.,rain,0.17,0.0029,0.0108,0.31,rain,83.88,72.26,70.87,0.77,1016.4,0.3,8,73.92,83.88,16.25,-61.5833
+France,Guadeloupe,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0005,0.0014,0.15,rain,84.39,70.97,68.71,0.74,1015.7,0.34,10,72.26,84.39,16.25,-61.5833
+France,Guadeloupe,3/31/2020,Humid and partly cloudy throughout the day.,clear-day,0.24,0.0013,0.0079,0.17,rain,83.17,71.52,68.99,0.75,1013.9,0.31,10,70.97,83.17,16.25,-61.5833
+France,Guadeloupe,4/1/2020,Clear throughout the day.,clear-day,0.27,0.0006,0.0028,0.14,rain,85.16,71.73,68.91,0.74,1013.6,0.26,10,71.52,85.16,16.25,-61.5833
+France,Guadeloupe,4/2/2020,Humid throughout the day.,clear-day,0.31,0.0002,0.0008,0.06,rain,85.8,73.12,69.15,0.73,1014.8,0.25,10,71.73,85.8,16.25,-61.5833
+France,Guadeloupe,4/3/2020,Humid and partly cloudy throughout the day.,rain,0.34,0.0034,0.0138,0.31,rain,86.74,74.01,72.48,0.79,1013.7,0.41,9,73.12,86.74,16.25,-61.5833
+France,Guadeloupe,4/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.38,0.0003,0.0007,0.09,rain,88.28,75.27,73.14,0.78,1013.0,0.45,9,74.01,88.28,16.25,-61.5833
+France,Guadeloupe,4/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0009,0.0036,0.12,rain,88.4,74.93,74.8,0.81,1014.2,0.51,8,75.27,88.4,16.25,-61.5833
+France,Guadeloupe,4/6/2020,Humid throughout the day.,partly-cloudy-day,0.46,0.0001,0.0002,0.05,rain,88.44,75.14,74.38,0.79,1015.5,0.33,11,74.93,88.44,16.25,-61.5833
+France,Guadeloupe,4/7/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.5,0.0001,0.0003,0.04,rain,88.99,74.69,73.36,0.77,1015.7,0.45,8,75.14,88.99,16.25,-61.5833
+France,Guadeloupe,4/8/2020,Humid and partly cloudy throughout the day.,clear-day,0.54,0.0002,0.0005,0.06,rain,88.4,75.06,72.72,0.76,1014.7,0.29,10,74.69,88.4,16.25,-61.5833
+France,Guadeloupe,4/9/2020,Humid throughout the day.,clear-day,0.58,0.0002,0.0005,0.08,rain,88.16,74.29,72.62,0.76,1014.2,0.24,10,75.06,88.16,16.25,-61.5833
+France,Guadeloupe,4/10/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0002,0.0006,0.06,rain,87.94,74.66,73.15,0.78,1014.8,0.34,9,74.29,87.94,16.25,-61.5833
+France,Guadeloupe,4/11/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0002,0.0006,0.08,rain,87.6,76.2,72.73,0.77,1016.4,0.36,10,74.66,87.6,16.25,-61.5833
+France,Guadeloupe,4/12/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0004,0.0018,0.09,rain,88.05,75.71,72.58,0.75,1017.6,0.47,8,76.2,88.05,16.25,-61.5833
+France,Guadeloupe,4/13/2020,Possible light rain overnight.,rain,0.72,0.0047,0.0143,0.26,rain,86.39,75.03,73.04,0.78,1017.0,0.4,8,75.71,86.39,16.25,-61.5833
+France,Guadeloupe,4/14/2020,Possible light rain in the morning.,rain,0.75,0.0155,0.02,0.77,rain,86.18,74.39,73.03,0.78,1015.4,0.36,8,75.03,86.18,16.25,-61.5833
+France,Guadeloupe,4/15/2020,Humid and partly cloudy throughout the day.,rain,0.78,0.0066,0.0153,0.5,rain,85.52,74.7,72.01,0.78,1015.0,0.25,9,74.39,85.52,16.25,-61.5833
+France,Guadeloupe,4/16/2020,Humid and partly cloudy throughout the day.,rain,0.82,0.0044,0.0111,0.43,rain,86.74,74.29,71.67,0.76,1016.7,0.36,9,74.7,86.74,16.25,-61.5833
+France,Guadeloupe,4/17/2020,Humid and partly cloudy throughout the day.,rain,0.85,0.0044,0.0143,0.42,rain,86.83,74.64,72.21,0.76,1017.7,0.36,10,74.29,86.83,16.25,-61.5833
+France,Guadeloupe,4/18/2020,Possible light rain in the morning.,rain,0.88,0.0062,0.0246,0.5,rain,87.66,74.86,73.03,0.78,1017.1,0.31,10,74.64,87.66,16.25,-61.5833
+France,Guadeloupe,4/19/2020,Possible light rain in the morning.,rain,0.91,0.0086,0.0192,0.6,rain,85.5,74.74,72.95,0.79,1016.7,0.36,10,74.86,85.5,16.25,-61.5833
+France,Guadeloupe,4/20/2020,Clear throughout the day.,clear-day,0.94,0.0016,0.0076,0.17,rain,85.04,74.79,70.61,0.73,1016.8,0.17,11,74.74,85.04,16.25,-61.5833
+France,Mayotte,12/31/2019,"Light rain until afternoon, starting again overnight.",rain,0.21,0.0204,0.0502,0.95,rain,83.84,79.64,74.93,0.81,1009.5,0.99,6,79.29,83.84,-12.8275,45.1662
+France,Mayotte,1/1/2020,Possible drizzle in the morning.,rain,0.24,0.0044,0.0135,0.67,rain,84.31,79.75,74.8,0.79,1010.5,0.99,6,79.64,84.31,-12.8275,45.1662
+France,Mayotte,1/2/2020,Humid and overcast throughout the day.,rain,0.27,0.003,0.01,0.42,rain,84.0,78.48,73.88,0.78,1012.8,0.96,7,79.63,84.0,-12.8275,45.1662
+France,Mayotte,1/3/2020,Humid and mostly cloudy throughout the day.,rain,0.3,0.0022,0.0174,0.32,rain,84.45,78.05,73.29,0.77,1011.7,0.9,8,78.5,84.45,-12.8275,45.1662
+France,Mayotte,1/4/2020,Possible light rain in the afternoon.,rain,0.33,0.0061,0.032,0.52,rain,83.02,78.03,72.32,0.77,1009.8,0.94,7,78.05,83.02,-12.8275,45.1662
+France,Mayotte,1/5/2020,Humid and mostly cloudy throughout the day.,rain,0.36,0.0071,0.0259,0.48,rain,84.67,78.04,72.66,0.76,1009.9,0.81,10,78.44,84.67,-12.8275,45.1662
+France,Mayotte,1/6/2020,Humid and mostly cloudy throughout the day.,rain,0.39,0.0037,0.0128,0.59,rain,83.13,77.49,73.34,0.79,1011.2,0.7,8,78.04,83.13,-12.8275,45.1662
+France,Mayotte,1/7/2020,Possible light rain in the morning.,rain,0.43,0.0088,0.0376,0.7,rain,83.17,77.51,73.37,0.8,1011.5,0.69,9,77.49,83.17,-12.8275,45.1662
+France,Mayotte,1/8/2020,Humid and partly cloudy throughout the day.,rain,0.46,0.0033,0.0155,0.41,rain,83.39,78.3,72.28,0.76,1010.5,0.56,9,77.51,83.39,-12.8275,45.1662
+France,Mayotte,1/9/2020,Possible light rain in the morning and afternoon.,rain,0.5,0.0136,0.0653,0.78,rain,83.06,78.87,71.89,0.74,1010.5,0.86,6,78.3,83.06,-12.8275,45.1662
+France,Mayotte,1/10/2020,Possible drizzle in the evening.,rain,0.53,0.0034,0.0122,0.67,rain,83.76,77.11,71.39,0.73,1010.8,0.6,8,78.87,83.76,-12.8275,45.1662
+France,Mayotte,1/11/2020,Possible drizzle in the morning and afternoon.,rain,0.57,0.0055,0.0167,0.85,rain,83.3,76.6,71.08,0.74,1010.8,0.75,9,77.11,83.3,-12.8275,45.1662
+France,Mayotte,1/12/2020,Light rain and humid throughout the day.,rain,0.61,0.0153,0.0455,0.93,rain,82.42,77.89,73.01,0.81,1010.2,0.81,8,76.57,82.42,-12.8275,45.1662
+France,Mayotte,1/13/2020,Light rain until evening.,rain,0.65,0.0163,0.0478,0.96,rain,82.37,77.9,73.52,0.81,1010.3,0.72,7,77.89,82.37,-12.8275,45.1662
+France,Mayotte,1/14/2020,"Possible drizzle until afternoon, starting again overnight.",rain,0.68,0.0042,0.0148,0.78,rain,83.53,78.16,72.77,0.78,1011.1,0.55,10,77.9,83.53,-12.8275,45.1662
+France,Mayotte,1/15/2020,Light rain and humid throughout the day.,rain,0.72,0.0047,0.0299,0.92,rain,82.52,76.7,72.94,0.79,1010.6,0.68,8,78.16,82.52,-12.8275,45.1662
+France,Mayotte,1/16/2020,Light rain and humid throughout the day.,rain,0.76,0.0238,0.0472,0.97,rain,81.96,78.71,74.36,0.84,1009.3,0.84,8,76.7,81.96,-12.8275,45.1662
+France,Mayotte,1/17/2020,Light rain until evening.,rain,0.79,0.0195,0.0505,0.94,rain,83.24,79.89,75.56,0.84,1008.4,0.96,7,78.85,83.24,-12.8275,45.1662
+France,Mayotte,1/18/2020,Light rain starting in the afternoon.,rain,0.83,0.0149,0.0512,0.84,rain,83.76,79.43,74.96,0.82,1008.2,0.98,6,79.87,83.76,-12.8275,45.1662
+France,Mayotte,1/19/2020,Light rain in the morning and afternoon.,rain,0.86,0.0162,0.033,0.91,rain,83.78,80.0,75.93,0.83,1007.1,0.97,6,79.43,83.78,-12.8275,45.1662
+France,Mayotte,1/20/2020,Possible drizzle in the evening.,rain,0.9,0.0104,0.0296,0.61,rain,85.06,80.11,75.71,0.81,1006.0,0.97,6,80.0,85.06,-12.8275,45.1662
+France,Mayotte,1/21/2020,Rain throughout the day.,rain,0.93,0.0599,0.2068,0.92,rain,82.71,77.41,75.4,0.85,1005.8,0.99,6,77.38,82.71,-12.8275,45.1662
+France,Mayotte,1/22/2020,Rain and humid throughout the day.,rain,0.96,0.0407,0.1127,0.96,rain,81.36,76.85,74.08,0.85,1008.1,0.99,6,77.29,81.36,-12.8275,45.1662
+France,Mayotte,1/23/2020,Light rain and humid throughout the day.,rain,1.0,0.019,0.0429,0.9,rain,81.51,76.81,74.39,0.87,1010.5,0.84,9,76.81,81.51,-12.8275,45.1662
+France,Mayotte,1/24/2020,Light rain and humid throughout the day.,rain,0.03,0.0098,0.0409,0.94,rain,81.63,75.42,73.6,0.84,1011.7,0.79,9,75.42,81.63,-12.8275,45.1662
+France,Mayotte,1/25/2020,Light rain in the morning and afternoon.,rain,0.06,0.0149,0.0295,0.93,rain,82.74,76.81,72.06,0.79,1013.0,0.96,6,75.76,82.74,-12.8275,45.1662
+France,Mayotte,1/26/2020,Humid and mostly cloudy throughout the day.,rain,0.09,0.0003,0.002,0.29,rain,83.44,78.06,71.63,0.75,1012.0,0.61,8,76.81,83.44,-12.8275,45.1662
+France,Mayotte,1/27/2020,Possible light rain overnight.,rain,0.12,0.0023,0.0124,0.49,rain,83.78,78.99,73.45,0.79,1010.9,0.62,6,78.06,83.78,-12.8275,45.1662
+France,Mayotte,1/28/2020,Possible light rain in the afternoon and evening.,rain,0.15,0.0117,0.0617,0.78,rain,84.31,78.88,74.29,0.8,1011.4,0.79,8,78.99,84.31,-12.8275,45.1662
+France,Mayotte,1/29/2020,"Light rain until afternoon, starting again overnight.",rain,0.18,0.0177,0.0751,0.87,rain,83.78,77.66,74.52,0.81,1011.4,0.87,7,78.88,83.78,-12.8275,45.1662
+France,Mayotte,1/30/2020,Rain in the morning and afternoon.,rain,0.21,0.0349,0.1296,0.93,rain,82.6,77.99,74.2,0.83,1010.6,0.94,6,77.66,82.6,-12.8275,45.1662
+France,Mayotte,1/31/2020,Humid and mostly cloudy throughout the day.,rain,0.24,0.0048,0.0178,0.43,rain,82.69,77.14,72.74,0.78,1011.3,0.72,9,77.99,82.69,-12.8275,45.1662
+France,Mayotte,2/1/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0002,0.0006,0.18,rain,83.58,78.26,72.66,0.77,1012.4,0.65,12,77.14,83.58,-12.8275,45.1662
+France,Mayotte,2/2/2020,Possible light rain in the morning and overnight.,rain,0.3,0.008,0.0491,0.67,rain,83.45,77.14,73.38,0.8,1011.7,0.91,6,77.92,83.45,-12.8275,45.1662
+France,Mayotte,2/3/2020,Possible light rain in the morning and afternoon.,rain,0.34,0.0076,0.0194,0.8,rain,83.29,77.49,71.96,0.76,1011.4,0.78,7,77.14,83.29,-12.8275,45.1662
+France,Mayotte,2/4/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.37,0.0016,0.0137,0.2,rain,83.31,77.93,71.17,0.74,1011.6,0.84,6,77.49,83.31,-12.8275,45.1662
+France,Mayotte,2/5/2020,Possible light rain in the morning.,rain,0.41,0.0089,0.0672,0.5,rain,82.67,77.85,71.93,0.76,1012.5,0.42,9,77.93,82.67,-12.8275,45.1662
+France,Mayotte,2/6/2020,Humid throughout the day.,rain,0.44,0.0136,0.0713,0.58,rain,82.89,77.26,71.37,0.74,1013.2,0.05,13,77.85,82.89,-12.8275,45.1662
+France,Mayotte,2/7/2020,Humid throughout the day.,rain,0.48,0.0078,0.0421,0.37,rain,83.02,77.53,71.34,0.74,1013.2,0.07,14,77.26,83.02,-12.8275,45.1662
+France,Mayotte,2/8/2020,Humid throughout the day.,rain,0.52,0.0026,0.0124,0.35,rain,83.95,77.99,70.9,0.72,1012.6,0.09,14,77.53,83.95,-12.8275,45.1662
+France,Mayotte,2/9/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.56,0.0014,0.0061,0.24,rain,84.54,78.28,70.32,0.7,1011.3,0.34,15,77.99,84.54,-12.8275,45.1662
+France,Mayotte,2/10/2020,Humid throughout the day.,clear-day,0.59,0.0012,0.0081,0.18,rain,83.99,79.42,71.41,0.72,1009.8,0.21,13,78.28,83.99,-12.8275,45.1662
+France,Mayotte,2/11/2020,Humid and partly cloudy throughout the day.,rain,0.63,0.0044,0.0245,0.52,rain,84.54,78.94,71.55,0.71,1008.7,0.48,8,79.42,84.54,-12.8275,45.1662
+France,Mayotte,2/12/2020,Possible light rain until evening.,rain,0.67,0.016,0.0531,0.85,rain,83.63,78.85,72.3,0.75,1010.6,0.92,7,78.94,83.63,-12.8275,45.1662
+France,Mayotte,2/13/2020,Light rain in the morning and afternoon.,rain,0.71,0.0112,0.0427,0.81,rain,84.04,79.4,72.69,0.75,1011.6,0.95,6,78.85,84.04,-12.8275,45.1662
+France,Mayotte,2/14/2020,Humid and partly cloudy throughout the day.,rain,0.74,0.0011,0.0096,0.27,rain,85.0,79.56,73.2,0.75,1011.3,0.52,9,79.4,85.0,-12.8275,45.1662
+France,Mayotte,2/15/2020,Humid throughout the day.,rain,0.78,0.004,0.0196,0.42,rain,85.26,79.27,73.86,0.76,1010.9,0.13,13,79.56,85.26,-12.8275,45.1662
+France,Mayotte,2/16/2020,Possible light rain in the morning and afternoon.,rain,0.81,0.0202,0.0497,0.76,rain,84.98,79.35,73.66,0.77,1011.3,0.67,8,79.27,84.98,-12.8275,45.1662
+France,Mayotte,2/17/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.0019,0.0161,0.21,rain,84.63,79.4,73.09,0.75,1011.7,0.77,11,79.35,84.63,-12.8275,45.1662
+France,Mayotte,2/18/2020,Humid and overcast throughout the day.,cloudy,0.88,0.0005,0.0064,0.23,rain,85.01,78.78,73.57,0.76,1011.2,0.91,6,79.4,85.01,-12.8275,45.1662
+France,Mayotte,2/19/2020,Possible light rain in the morning and afternoon.,rain,0.91,0.0151,0.0772,0.62,rain,83.7,78.51,73.76,0.78,1009.6,0.68,14,78.78,83.7,-12.8275,45.1662
+France,Mayotte,2/20/2020,Light rain and humid throughout the day.,rain,0.94,0.021,0.0674,0.83,rain,84.66,77.4,73.16,0.76,1010.1,0.88,6,78.51,84.66,-12.8275,45.1662
+France,Mayotte,2/21/2020,"Light rain until afternoon, starting again overnight.",rain,0.97,0.0201,0.042,0.95,rain,83.26,79.28,73.74,0.78,1010.5,0.99,6,77.4,83.26,-12.8275,45.1662
+France,Mayotte,2/22/2020,"Light rain until afternoon, starting again overnight.",rain,0.0,0.0267,0.0807,0.92,rain,83.84,78.98,74.74,0.8,1010.0,0.98,6,79.28,83.84,-12.8275,45.1662
+France,Mayotte,2/23/2020,Light rain and humid throughout the day.,rain,0.03,0.013000000000000001,0.0331,0.91,rain,85.54,79.23,75.51,0.81,1009.2,0.74,8,78.98,85.54,-12.8275,45.1662
+France,Mayotte,2/24/2020,Rain and humid throughout the day.,rain,0.06,0.0561,0.2415,0.98,rain,83.38,77.84,75.15,0.84,1008.0,0.95,6,77.82,83.38,-12.8275,45.1662
+France,Mayotte,2/25/2020,Light rain and humid throughout the day.,rain,0.09,0.0122,0.0606,0.91,rain,84.85,78.13,74.48,0.8,1009.0,0.82,7,78.24,84.85,-12.8275,45.1662
+France,Mayotte,2/26/2020,Possible drizzle in the morning.,rain,0.12,0.0064,0.0156,0.62,rain,83.76,78.57,74.46,0.81,1009.9,0.83,7,78.13,83.76,-12.8275,45.1662
+France,Mayotte,2/27/2020,Possible light rain overnight.,rain,0.15,0.0016,0.0147,0.32,rain,85.31,79.24,75.01,0.8,1009.7,0.46,14,78.57,85.31,-12.8275,45.1662
+France,Mayotte,2/28/2020,Light rain in the morning and afternoon.,rain,0.18,0.0162,0.0495,0.88,rain,83.9,79.86,74.74,0.8,1007.8,0.78,6,79.24,83.9,-12.8275,45.1662
+France,Mayotte,2/29/2020,Possible light rain in the afternoon.,rain,0.22,0.0105,0.0621,0.47,rain,84.9,79.31,74.59,0.79,1006.7,0.94,6,79.86,84.9,-12.8275,45.1662
+France,Mayotte,3/1/2020,Possible light rain in the morning.,rain,0.25,0.0055,0.0231,0.49,rain,84.01,78.77,74.19,0.79,1008.3,0.87,6,79.31,84.01,-12.8275,45.1662
+France,Mayotte,3/2/2020,Humid and overcast throughout the day.,rain,0.28,0.0099,0.0515,0.52,rain,84.3,78.83,74.22,0.79,1010.7,0.83,6,78.77,84.3,-12.8275,45.1662
+France,Mayotte,3/3/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.31,0.0004,0.0028,0.14,rain,84.89,79.34,71.37,0.71,1011.2,0.64,9,78.83,84.89,-12.8275,45.1662
+France,Mayotte,3/4/2020,Humid and overcast throughout the day.,rain,0.35,0.0028,0.0129,0.29,rain,84.22,79.4,72.31,0.74,1010.2,0.82,6,79.34,84.22,-12.8275,45.1662
+France,Mayotte,3/5/2020,Possible light rain overnight.,rain,0.39,0.0024,0.0115,0.25,rain,84.23,78.81,73.51,0.76,1009.3,0.86,9,79.4,84.23,-12.8275,45.1662
+France,Mayotte,3/6/2020,Light rain in the morning and afternoon.,rain,0.42,0.0125,0.0343,0.89,rain,82.22,79.52,73.11,0.79,1008.9,0.98,6,78.81,82.22,-12.8275,45.1662
+France,Mayotte,3/7/2020,Light rain in the morning and afternoon.,rain,0.46,0.0103,0.0428,0.79,rain,83.24,78.35,73.41,0.78,1008.6,0.96,6,79.22,83.24,-12.8275,45.1662
+France,Mayotte,3/8/2020,Light rain in the morning and afternoon.,rain,0.5,0.0144,0.0613,0.85,rain,84.65,79.77,73.82,0.79,1007.4,0.86,8,78.35,84.65,-12.8275,45.1662
+France,Mayotte,3/9/2020,Possible drizzle in the morning.,rain,0.54,0.0021,0.0145,0.51,rain,84.97,79.09,73.35,0.75,1007.9,0.74,11,79.77,84.97,-12.8275,45.1662
+France,Mayotte,3/10/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0021,0.018000000000000002,0.19,rain,85.11,80.02,72.91,0.74,1008.4,0.83,6,79.09,85.11,-12.8275,45.1662
+France,Mayotte,3/11/2020,Possible drizzle in the morning and afternoon.,rain,0.62,0.0037,0.0093,0.73,rain,85.48,79.78,74.36,0.77,1008.5,0.95,6,80.02,85.48,-12.8275,45.1662
+France,Mayotte,3/12/2020,Light rain in the morning and afternoon.,rain,0.66,0.0094,0.0741,0.8,rain,83.85,80.02,74.33,0.79,1009.1,0.85,6,79.78,83.85,-12.8275,45.1662
+France,Mayotte,3/13/2020,Possible drizzle in the morning.,rain,0.69,0.0049,0.0136,0.69,rain,85.19,80.02,75.12,0.79,1009.6,0.96,7,80.02,85.19,-12.8275,45.1662
+France,Mayotte,3/14/2020,Possible light rain in the morning and afternoon.,rain,0.73,0.0089,0.0292,0.79,rain,84.94,79.52,75.18,0.79,1007.9,0.98,6,80.02,84.94,-12.8275,45.1662
+France,Mayotte,3/15/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.76,0.0006,0.0044,0.2,rain,85.14,79.38,73.04,0.74,1007.5,0.51,11,79.52,85.14,-12.8275,45.1662
+France,Mayotte,3/16/2020,Humid throughout the day.,rain,0.79,0.0073,0.0283,0.32,rain,84.65,77.83,71.93,0.73,1009.4,0.19,13,78.03,84.65,-12.8275,45.1662
+France,Mayotte,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0002,0.0022,0.18,rain,83.87,77.96,69.17,0.68,1010.7,0.55,10,77.83,83.87,-12.8275,45.1662
+France,Mayotte,3/18/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.86,0.0024,0.0144,0.15,rain,83.28,77.23,69.81,0.7,1011.3,0.36,10,77.96,83.28,-12.8275,45.1662
+France,Mayotte,3/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.89,0.0,0.0002,0.06,,84.23,77.9,67.75,0.65,1012.1,0.4,12,77.23,84.23,-12.8275,45.1662
+France,Mayotte,3/20/2020,Humid and mostly cloudy throughout the day.,rain,0.92,0.0032,0.0197,0.32,rain,83.92,78.73,70.87,0.72,1011.9,0.49,8,77.9,83.92,-12.8275,45.1662
+France,Mayotte,3/21/2020,Humid and mostly cloudy throughout the day.,rain,0.95,0.0013,0.0053,0.38,rain,84.06,78.57,71.94,0.73,1012.4,0.5,7,78.73,84.06,-12.8275,45.1662
+France,Mayotte,3/22/2020,Humid throughout the day.,rain,0.98,0.0043,0.0313,0.27,rain,84.15,77.87,71.77,0.73,1013.2,0.17,13,78.57,84.15,-12.8275,45.1662
+France,Mayotte,3/23/2020,Humid throughout the day.,rain,0.01,0.0015,0.011000000000000001,0.25,rain,84.24,78.01,71.95,0.74,1011.3,0.19,11,77.87,84.24,-12.8275,45.1662
+France,Mayotte,3/24/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0005,0.0021,0.14,rain,84.25,78.49,70.78,0.71,1008.6,0.32,10,78.01,84.25,-12.8275,45.1662
+France,Mayotte,3/25/2020,Possible light rain in the morning.,rain,0.07,0.0131,0.0745,0.55,rain,84.22,78.57,71.65,0.74,1008.0,0.13,13,78.49,84.22,-12.8275,45.1662
+France,Mayotte,3/26/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.001,0.0078,0.21,rain,83.97,78.97,70.98,0.71,1010.4,0.44,8,78.57,83.97,-12.8275,45.1662
+France,Mayotte,3/27/2020,Possible light rain in the morning.,rain,0.13,0.004,0.0251,0.48,rain,84.22,79.04,72.15,0.74,1011.0,0.83,6,78.97,84.22,-12.8275,45.1662
+France,Mayotte,3/28/2020,Humid throughout the day.,rain,0.16,0.0027,0.0168,0.35,rain,83.94,78.89,73.61,0.78,1009.5,0.52,13,79.04,83.94,-12.8275,45.1662
+France,Mayotte,3/29/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0005,0.0021,0.15,rain,84.54,78.15,73.08,0.76,1009.0,0.47,12,78.89,84.54,-12.8275,45.1662
+France,Mayotte,3/30/2020,Humid throughout the day.,clear-day,0.23,0.0001,0.0004,0.09,rain,85.35,77.67,71.18,0.71,1009.8,0.08,12,78.15,85.35,-12.8275,45.1662
+France,Mayotte,3/31/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.26,0.0023,0.0188,0.17,rain,84.6,77.94,70.94,0.72,1010.6,0.43,12,77.67,84.6,-12.8275,45.1662
+France,Mayotte,4/1/2020,Clear throughout the day.,clear-day,0.3,0.0002,0.0027,0.08,rain,83.59,77.25,69.04,0.68,1009.8,0.3,12,77.94,83.59,-12.8275,45.1662
+France,Mayotte,4/2/2020,Clear throughout the day.,clear-day,0.33,0.0003,0.0015,0.07,rain,83.85,76.55,67.24,0.65,1009.8,0.27,10,77.25,83.85,-12.8275,45.1662
+France,Mayotte,4/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0007,0.0022,0.15,rain,82.96,76.68,68.54,0.69,1011.1,0.32,10,76.55,82.96,-12.8275,45.1662
+France,Mayotte,4/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0012,0.005,0.2,rain,82.54,77.03,70.35,0.74,1012.3,0.42,9,76.68,82.54,-12.8275,45.1662
+France,Mayotte,4/5/2020,Possible light rain overnight.,rain,0.45,0.0098,0.0373,0.48,rain,82.75,77.96,71.37,0.75,1012.6,0.37,9,77.03,82.75,-12.8275,45.1662
+France,Mayotte,4/6/2020,Humid throughout the day.,rain,0.49,0.009000000000000001,0.0541,0.55,rain,83.23,77.44,71.47,0.75,1012.9,0.2,10,77.96,83.23,-12.8275,45.1662
+France,Mayotte,4/7/2020,Humid throughout the day.,clear-day,0.53,0.0001,0.0003,0.06,rain,83.9,79.25,71.13,0.73,1013.3,0.21,11,77.44,83.9,-12.8275,45.1662
+France,Mayotte,4/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.56,0.0003,0.0017,0.15,rain,84.65,79.0,71.76,0.73,1012.8,0.34,8,79.0,84.65,-12.8275,45.1662
+France,Mayotte,4/9/2020,Humid throughout the day.,clear-day,0.6,0.0003,0.0011,0.12,rain,84.82,78.36,72.94,0.74,1012.3,0.03,12,79.21,84.82,-12.8275,45.1662
+France,Mayotte,4/10/2020,Humid throughout the day.,rain,0.64,0.0037,0.0132,0.53,rain,84.11,78.86,73.3,0.77,1012.5,0.09,10,78.36,84.11,-12.8275,45.1662
+France,Mayotte,4/11/2020,Humid and partly cloudy throughout the day.,rain,0.68,0.0045,0.0136,0.45,rain,84.88,78.51,73.47,0.77,1011.6,0.29,7,78.86,84.88,-12.8275,45.1662
+France,Mayotte,4/12/2020,Humid and overcast throughout the day.,rain,0.71,0.0021,0.0057,0.47,rain,84.62,78.0,73.57,0.77,1011.2,0.85,6,78.51,84.62,-12.8275,45.1662
+France,Mayotte,4/13/2020,Humid and partly cloudy throughout the day.,rain,0.74,0.0007,0.002,0.27,rain,83.32,78.14,71.72,0.74,1012.0,0.5,11,78.0,83.32,-12.8275,45.1662
+France,Mayotte,4/14/2020,Humid throughout the day.,clear-day,0.78,0.0003,0.0016,0.11,rain,84.53,79.07,72.13,0.74,1012.6,0.05,11,78.14,84.53,-12.8275,45.1662
+France,Mayotte,4/15/2020,Humid and partly cloudy throughout the day.,rain,0.81,0.0007,0.0034,0.28,rain,84.17,77.9,71.64,0.73,1011.8,0.42,6,79.07,84.17,-12.8275,45.1662
+France,Mayotte,4/16/2020,Humid and partly cloudy throughout the day.,rain,0.84,0.002,0.0063,0.46,rain,84.09,78.44,71.51,0.74,1011.3,0.59,8,77.9,84.09,-12.8275,45.1662
+France,Mayotte,4/17/2020,Humid and partly cloudy throughout the day.,rain,0.87,0.0029,0.0095,0.4,rain,83.25,77.18,71.73,0.75,1011.7,0.43,9,78.44,83.25,-12.8275,45.1662
+France,Mayotte,4/18/2020,Humid and partly cloudy throughout the day.,rain,0.9,0.0044,0.0142,0.44,rain,83.8,78.15,71.34,0.75,1011.3,0.6,9,77.18,83.8,-12.8275,45.1662
+France,Mayotte,4/19/2020,Light rain in the morning and overnight.,rain,0.93,0.0096,0.0302,0.63,rain,83.9,76.98,71.31,0.73,1011.0,0.57,6,78.15,83.9,-12.8275,45.1662
+France,Mayotte,4/20/2020,Light rain in the morning.,rain,0.96,0.0234,0.0924,0.86,rain,81.36,77.59,71.28,0.77,1011.5,0.67,5,76.98,81.36,-12.8275,45.1662
+France,Reunion,12/31/2019,Possible light rain in the morning.,rain,0.21,0.0123,0.0517,0.61,rain,84.4,77.15,77.23,0.89,1006.4,0.11,12,77.72,84.4,-21.1351,55.2471
+France,Reunion,1/1/2020,Humid and mostly cloudy throughout the day.,rain,0.24,0.0049,0.0118,0.52,rain,83.96,77.95,76.93,0.91,1011.1,0.57,8,77.15,83.96,-21.1351,55.2471
+France,Reunion,1/2/2020,Possible light rain starting in the afternoon.,rain,0.27,0.0095,0.0306,0.68,rain,82.67,76.64,74.58,0.84,1014.0,0.89,6,77.3,82.67,-21.1351,55.2471
+France,Reunion,1/3/2020,Rain and humid throughout the day.,rain,0.3,0.0268,0.0911,0.85,rain,81.15,75.68,74.8,0.9,1012.5,1.0,6,74.79,81.15,-21.1351,55.2471
+France,Reunion,1/4/2020,Rain and humid throughout the day.,rain,0.33,0.0221,0.1232,0.87,rain,80.41,77.1,75.12,0.89,1010.2,0.99,6,76.1,80.41,-21.1351,55.2471
+France,Reunion,1/5/2020,Humid and mostly cloudy throughout the day.,rain,0.36,0.0014,0.005,0.57,rain,83.24,78.61,76.11,0.87,1010.3,0.77,7,77.1,83.24,-21.1351,55.2471
+France,Reunion,1/6/2020,Humid and partly cloudy throughout the day.,rain,0.39,0.002,0.0051,0.44,rain,84.35,78.43,77.54,0.89,1011.8,0.59,10,78.61,84.35,-21.1351,55.2471
+France,Reunion,1/7/2020,Humid and mostly cloudy throughout the day.,rain,0.43,0.0017,0.0043,0.45,rain,84.35,78.25,75.91,0.83,1012.2,0.82,7,78.46,84.35,-21.1351,55.2471
+France,Reunion,1/8/2020,Humid and mostly cloudy throughout the day.,rain,0.46,0.0005,0.0021,0.3,rain,83.5,75.76,72.88,0.77,1012.2,0.67,9,78.25,83.5,-21.1351,55.2471
+France,Reunion,1/9/2020,Humid and partly cloudy throughout the day.,rain,0.5,0.0038,0.0185,0.36,rain,81.36,75.85,70.47,0.76,1012.4,0.45,12,75.75,81.36,-21.1351,55.2471
+France,Reunion,1/10/2020,Possible light rain starting in the afternoon.,rain,0.53,0.0117,0.0346,0.64,rain,82.06,77.3,73.84,0.84,1012.4,0.32,12,75.85,82.06,-21.1351,55.2471
+France,Reunion,1/11/2020,Possible drizzle overnight.,rain,0.57,0.0053,0.0166,0.66,rain,83.93,77.53,75.94,0.86,1011.9,0.25,11,77.3,83.93,-21.1351,55.2471
+France,Reunion,1/12/2020,Humid and mostly cloudy throughout the day.,rain,0.61,0.005,0.0115,0.68,rain,84.02,78.38,74.44,0.81,1012.2,0.56,8,77.53,84.02,-21.1351,55.2471
+France,Reunion,1/13/2020,Humid and mostly cloudy throughout the day.,rain,0.64,0.002,0.0098,0.47,rain,84.82,79.79,75.44,0.8,1012.8,0.7,9,78.38,84.82,-21.1351,55.2471
+France,Reunion,1/14/2020,Humid and partly cloudy throughout the day.,rain,0.68,0.0027,0.009000000000000001,0.47,rain,85.55,79.71,76.44,0.81,1013.9,0.46,10,79.79,85.55,-21.1351,55.2471
+France,Reunion,1/15/2020,Possible light rain starting in the afternoon.,rain,0.72,0.0051,0.017,0.69,rain,85.65,79.53,77.3,0.84,1013.5,0.48,12,79.67,85.65,-21.1351,55.2471
+France,Reunion,1/16/2020,Rain until evening.,rain,0.76,0.0228,0.1031,0.86,rain,84.39,80.23,77.14,0.86,1012.2,0.9,6,79.53,84.39,-21.1351,55.2471
+France,Reunion,1/17/2020,Possible light rain in the morning.,rain,0.79,0.0056,0.0176,0.56,rain,85.37,80.76,77.06,0.83,1010.6,0.98,7,80.23,85.37,-21.1351,55.2471
+France,Reunion,1/18/2020,Possible drizzle in the morning and afternoon.,rain,0.83,0.0037,0.013999999999999999,0.68,rain,85.48,80.44,76.81,0.81,1009.0,0.94,6,80.76,85.48,-21.1351,55.2471
+France,Reunion,1/19/2020,Light rain overnight.,rain,0.86,0.0022,0.0146,0.49,rain,86.44,78.17,77.6,0.83,1006.8,0.89,10,80.44,86.44,-21.1351,55.2471
+France,Reunion,1/20/2020,Rain and humid throughout the day.,rain,0.89,0.0414,0.1287,0.98,rain,82.35,77.23,77.49,0.91,1005.1,1.0,6,78.17,82.35,-21.1351,55.2471
+France,Reunion,1/21/2020,Light rain until evening.,rain,0.93,0.0222,0.0638,0.92,rain,83.23,79.49,78.48,0.93,1004.2,0.9,7,77.23,83.23,-21.1351,55.2471
+France,Reunion,1/22/2020,Light rain starting in the afternoon.,rain,0.96,0.0073,0.0239,0.73,rain,84.89,77.93,78.54,0.9,1005.5,0.9,7,79.49,84.89,-21.1351,55.2471
+France,Reunion,1/23/2020,Light rain and humid throughout the day.,rain,0.99,0.042,0.0842,0.98,rain,83.04,78.38,78.5,0.95,1005.9,0.99,6,77.93,83.04,-21.1351,55.2471
+France,Reunion,1/24/2020,Light rain until evening.,rain,0.03,0.017,0.0434,0.88,rain,82.14,74.89,77.01,0.91,1008.5,0.92,8,76.61,82.14,-21.1351,55.2471
+France,Reunion,1/25/2020,Humid throughout the day.,rain,0.06,0.0021,0.0058,0.48,rain,80.8,74.67,72.64,0.84,1012.5,0.32,13,74.89,80.8,-21.1351,55.2471
+France,Reunion,1/26/2020,Clear throughout the day.,rain,0.09,0.0012,0.0043,0.39,rain,80.8,73.93,69.72,0.77,1012.8,0.12,13,74.67,80.8,-21.1351,55.2471
+France,Reunion,1/27/2020,Clear throughout the day.,clear-day,0.12,0.0004,0.0011,0.15,rain,80.01,73.74,66.9,0.71,1011.1,0.1,13,73.93,80.01,-21.1351,55.2471
+France,Reunion,1/28/2020,Clear throughout the day.,clear-day,0.15,0.0004,0.0011,0.18,rain,81.13,75.09,67.03,0.7,1012.8,0.15,14,73.74,81.13,-21.1351,55.2471
+France,Reunion,1/29/2020,Humid throughout the day.,rain,0.18,0.0009,0.0015,0.26,rain,81.98,75.75,70.55,0.76,1014.4,0.32,13,75.09,81.98,-21.1351,55.2471
+France,Reunion,1/30/2020,Humid and mostly cloudy throughout the day.,rain,0.21,0.0012,0.0047,0.29,rain,82.6,76.94,72.62,0.8,1013.9,0.67,7,75.75,82.6,-21.1351,55.2471
+France,Reunion,1/31/2020,Humid throughout the day.,rain,0.24,0.0024,0.0158,0.44,rain,82.99,77.62,74.41,0.83,1014.7,0.18,12,76.94,82.99,-21.1351,55.2471
+France,Reunion,2/1/2020,Humid throughout the day.,rain,0.27,0.0013,0.006999999999999999,0.47,rain,84.2,78.27,75.42,0.83,1015.3,0.08,13,77.62,84.2,-21.1351,55.2471
+France,Reunion,2/2/2020,Humid throughout the day.,rain,0.3,0.0032,0.0164,0.5,rain,85.5,78.52,76.36,0.83,1014.2,0.07,13,78.27,85.5,-21.1351,55.2471
+France,Reunion,2/3/2020,Humid throughout the day.,clear-day,0.33,0.0003,0.0013,0.2,rain,84.65,78.45,74.38,0.79,1013.0,0.09,14,78.52,84.65,-21.1351,55.2471
+France,Reunion,2/4/2020,Humid throughout the day.,rain,0.37,0.0007,0.0026,0.25,rain,83.74,77.15,74.74,0.82,1012.5,0.17,12,78.45,83.74,-21.1351,55.2471
+France,Reunion,2/5/2020,Humid throughout the day.,rain,0.4,0.008,0.0366,0.45,rain,84.4,77.37,74.49,0.82,1013.3,0.06,13,77.15,84.4,-21.1351,55.2471
+France,Reunion,2/6/2020,Humid throughout the day.,rain,0.44,0.0027,0.0146,0.42,rain,83.01,76.35,73.57,0.8,1014.7,0.09,13,77.37,83.01,-21.1351,55.2471
+France,Reunion,2/7/2020,Humid throughout the day.,clear-day,0.48,0.0008,0.0042,0.24,rain,83.11,76.04,72.39,0.79,1014.5,0.08,13,76.35,83.11,-21.1351,55.2471
+France,Reunion,2/8/2020,Humid throughout the day.,rain,0.52,0.0012,0.0071,0.27,rain,82.66,75.77,72.99,0.81,1013.5,0.14,13,76.04,82.66,-21.1351,55.2471
+France,Reunion,2/9/2020,Humid throughout the day.,rain,0.55,0.0024,0.008,0.38,rain,82.61,76.99,73.74,0.83,1010.7,0.16,11,75.77,82.61,-21.1351,55.2471
+France,Reunion,2/10/2020,Humid throughout the day.,rain,0.59,0.0077,0.0268,0.59,rain,84.77,79.51,77.7,0.9,1007.2,0.08,13,76.99,84.77,-21.1351,55.2471
+France,Reunion,2/11/2020,Humid throughout the day.,rain,0.63,0.0041,0.0336,0.43,rain,86.99,79.52,77.42,0.84,1007.9,0.15,13,79.51,86.99,-21.1351,55.2471
+France,Reunion,2/12/2020,Humid and overcast throughout the day.,rain,0.67,0.0024,0.0215,0.29,rain,86.03,79.42,74.44,0.76,1011.7,0.94,6,79.52,86.03,-21.1351,55.2471
+France,Reunion,2/13/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0005,0.0029,0.16,rain,85.36,78.95,74.89,0.79,1012.8,0.46,9,79.42,85.36,-21.1351,55.2471
+France,Reunion,2/14/2020,Possible light rain in the afternoon.,rain,0.74,0.0158,0.0528,0.57,rain,84.74,78.87,76.86,0.85,1012.6,0.52,8,78.95,84.74,-21.1351,55.2471
+France,Reunion,2/15/2020,Humid and overcast throughout the day.,rain,0.78,0.0009,0.0028,0.29,rain,83.24,76.99,75.55,0.84,1014.0,0.73,8,78.86,83.24,-21.1351,55.2471
+France,Reunion,2/16/2020,Humid and partly cloudy throughout the day.,rain,0.81,0.0019,0.0059,0.3,rain,82.06,76.49,72.72,0.8,1014.6,0.58,11,76.99,82.06,-21.1351,55.2471
+France,Reunion,2/17/2020,Humid throughout the day.,rain,0.84,0.0009,0.0026,0.26,rain,82.54,76.49,73.84,0.83,1014.5,0.16,12,76.49,82.54,-21.1351,55.2471
+France,Reunion,2/18/2020,Humid throughout the day.,clear-day,0.88,0.0006,0.0018,0.2,rain,82.28,75.79,73.42,0.82,1013.3,0.11,12,76.49,82.28,-21.1351,55.2471
+France,Reunion,2/19/2020,Humid throughout the day.,rain,0.91,0.0013,0.0052,0.3,rain,82.29,75.28,72.12,0.8,1012.3,0.26,11,75.79,82.29,-21.1351,55.2471
+France,Reunion,2/20/2020,Humid and mostly cloudy throughout the day.,rain,0.94,0.0039,0.0081,0.43,rain,82.37,75.21,72.06,0.8,1013.2,0.69,6,75.28,82.37,-21.1351,55.2471
+France,Reunion,2/21/2020,Humid and mostly cloudy throughout the day.,rain,0.97,0.0026,0.0088,0.29,rain,82.2,76.78,72.07,0.8,1013.5,0.65,8,75.21,82.2,-21.1351,55.2471
+France,Reunion,2/22/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.0,0.0004,0.0013,0.16,rain,83.31,76.85,70.66,0.74,1011.8,0.8,6,76.78,83.31,-21.1351,55.2471
+France,Reunion,2/23/2020,Humid throughout the day.,clear-day,0.03,0.0001,0.0005,0.12,rain,83.33,77.76,71.16,0.74,1009.3,0.24,10,76.85,83.33,-21.1351,55.2471
+France,Reunion,2/24/2020,Light rain in the evening and overnight.,rain,0.06,0.0048,0.07400000000000001,0.59,rain,84.85,78.96,74.16,0.78,1008.3,0.9,6,77.76,84.85,-21.1351,55.2471
+France,Reunion,2/25/2020,Light rain and humid throughout the day.,rain,0.09,0.0137,0.0362,0.92,rain,84.78,77.96,76.33,0.83,1010.5,0.92,8,78.96,84.78,-21.1351,55.2471
+France,Reunion,2/26/2020,Possible light rain and humid throughout the day.,rain,0.12,0.0158,0.0473,0.83,rain,84.38,77.84,77.58,0.89,1011.0,0.9,6,77.96,84.38,-21.1351,55.2471
+France,Reunion,2/27/2020,Humid and partly cloudy throughout the day.,rain,0.15,0.0033,0.0091,0.5,rain,84.42,78.07,76.32,0.85,1009.4,0.41,12,77.84,84.42,-21.1351,55.2471
+France,Reunion,2/28/2020,Humid throughout the day.,rain,0.18,0.0047,0.0201,0.39,rain,84.4,78.12,76.68,0.88,1007.2,0.23,12,78.07,84.4,-21.1351,55.2471
+France,Reunion,2/29/2020,Possible light rain in the evening and overnight.,rain,0.21,0.0044,0.025,0.51,rain,85.12,78.16,77.04,0.87,1006.2,0.33,11,78.12,85.12,-21.1351,55.2471
+France,Reunion,3/1/2020,Possible light rain in the morning and afternoon.,rain,0.25,0.0146,0.0658,0.69,rain,84.18,79.18,77.84,0.89,1007.4,0.98,6,78.16,84.18,-21.1351,55.2471
+France,Reunion,3/2/2020,Humid and mostly cloudy throughout the day.,rain,0.28,0.0064,0.0215,0.58,rain,85.0,79.16,79.45,0.92,1008.4,0.72,7,79.18,85.0,-21.1351,55.2471
+France,Reunion,3/3/2020,Possible light rain in the evening and overnight.,rain,0.31,0.0146,0.0434,0.53,rain,84.33,79.09,79.91,0.95,1008.9,0.53,13,79.16,84.33,-21.1351,55.2471
+France,Reunion,3/4/2020,Light rain starting in the afternoon.,rain,0.35,0.0259,0.08199999999999999,0.76,rain,85.72,80.06,80.36,0.94,1008.2,0.49,12,79.09,85.72,-21.1351,55.2471
+France,Reunion,3/5/2020,Light rain and humid throughout the day.,rain,0.38,0.0325,0.07200000000000001,0.94,rain,85.42,78.41,79.95,0.92,1009.0,0.75,7,79.76,85.42,-21.1351,55.2471
+France,Reunion,3/6/2020,Rain in the morning and afternoon.,rain,0.42,0.0298,0.1018,0.95,rain,82.35,78.24,77.15,0.91,1009.9,0.91,6,78.21,82.35,-21.1351,55.2471
+France,Reunion,3/7/2020,Humid throughout the day.,rain,0.46,0.0024,0.0106,0.39,rain,83.84,78.08,76.16,0.85,1010.7,0.32,9,78.24,83.84,-21.1351,55.2471
+France,Reunion,3/8/2020,Light rain in the evening and overnight.,rain,0.5,0.0031,0.0122,0.68,rain,84.99,78.45,75.91,0.84,1010.0,0.43,11,78.08,84.99,-21.1351,55.2471
+France,Reunion,3/9/2020,Possible drizzle in the morning.,rain,0.54,0.0054,0.0257,0.84,rain,86.06,78.76,76.34,0.83,1009.3,0.05,12,78.45,86.06,-21.1351,55.2471
+France,Reunion,3/10/2020,Humid throughout the day.,rain,0.58,0.0029,0.0127,0.58,rain,83.99,78.89,77.72,0.9,1009.2,0.19,11,78.76,83.99,-21.1351,55.2471
+France,Reunion,3/11/2020,Light rain starting in the afternoon.,rain,0.62,0.0093,0.0533,0.78,rain,84.55,79.34,79.31,0.92,1009.2,0.58,10,78.89,84.55,-21.1351,55.2471
+France,Reunion,3/12/2020,Rain and humid throughout the day.,rain,0.65,0.0249,0.1011,0.97,rain,82.46,77.9,78.86,0.95,1010.0,0.98,6,78.76,82.46,-21.1351,55.2471
+France,Reunion,3/13/2020,Possible light rain in the morning and afternoon.,rain,0.69,0.0103,0.043,0.84,rain,82.21,77.02,77.86,0.93,1010.7,0.4,10,77.9,82.21,-21.1351,55.2471
+France,Reunion,3/14/2020,Humid and overcast throughout the day.,cloudy,0.73,0.0013,0.0038,0.2,rain,82.98,76.83,74.5,0.85,1009.1,0.96,5,77.02,82.98,-21.1351,55.2471
+France,Reunion,3/15/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.0007,0.0038,0.22,rain,82.87,77.05,73.84,0.83,1006.4,0.87,7,76.83,82.87,-21.1351,55.2471
+France,Reunion,3/16/2020,Humid and mostly cloudy throughout the day.,rain,0.79,0.0059,0.027000000000000003,0.25,rain,82.85,76.77,75.83,0.89,1006.9,0.61,8,77.05,82.85,-21.1351,55.2471
+France,Reunion,3/17/2020,Humid and partly cloudy throughout the day.,clear-day,0.83,0.0014,0.006,0.2,rain,82.69,76.51,73.41,0.82,1009.4,0.26,10,76.77,82.69,-21.1351,55.2471
+France,Reunion,3/18/2020,Humid throughout the day.,clear-day,0.86,0.0001,0.0003,0.05,rain,81.64,74.7,69.45,0.73,1011.6,0.14,10,76.51,81.64,-21.1351,55.2471
+France,Reunion,3/19/2020,Clear throughout the day.,clear-day,0.89,0.0,0.0002,0.03,,80.71,74.09,66.19,0.68,1013.8,0.02,12,74.7,80.71,-21.1351,55.2471
+France,Reunion,3/20/2020,Humid throughout the day.,clear-day,0.92,0.0004,0.001,0.12,rain,81.14,74.7,69.41,0.76,1015.7,0.2,12,74.09,81.14,-21.1351,55.2471
+France,Reunion,3/21/2020,Humid throughout the day.,clear-day,0.95,0.0014,0.0056,0.21,rain,82.57,76.77,72.04,0.8,1016.6,0.31,11,74.7,82.57,-21.1351,55.2471
+France,Reunion,3/22/2020,Possible drizzle in the afternoon and evening.,rain,0.98,0.003,0.009000000000000001,0.6,rain,83.61,78.4,74.72,0.83,1015.8,0.06,12,76.77,83.61,-21.1351,55.2471
+France,Reunion,3/23/2020,Possible light rain until evening.,rain,0.01,0.0074,0.0347,0.79,rain,82.61,77.08,76.37,0.87,1013.9,0.87,6,78.3,82.61,-21.1351,55.2471
+France,Reunion,3/24/2020,Humid throughout the day.,rain,0.04,0.0051,0.0119,0.53,rain,81.99,77.24,75.61,0.88,1011.6,0.43,10,77.08,81.99,-21.1351,55.2471
+France,Reunion,3/25/2020,Humid throughout the day.,rain,0.07,0.0021,0.0071,0.26,rain,83.48,77.32,74.86,0.83,1011.7,0.28,11,77.24,83.48,-21.1351,55.2471
+France,Reunion,3/26/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0015,0.0105,0.12,rain,82.54,77.0,73.91,0.82,1013.6,0.63,6,77.32,82.54,-21.1351,55.2471
+France,Reunion,3/27/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0011,0.0032,0.16,rain,82.4,77.12,74.17,0.84,1012.7,0.64,8,77.0,82.4,-21.1351,55.2471
+France,Reunion,3/28/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0003,0.0014,0.17,rain,84.02,78.11,74.39,0.82,1009.8,0.59,7,77.12,84.02,-21.1351,55.2471
+France,Reunion,3/29/2020,Rain and humid throughout the day.,rain,0.19,0.0198,0.1236,0.72,rain,85.02,78.84,77.28,0.88,1009.1,0.44,9,78.11,85.02,-21.1351,55.2471
+France,Reunion,3/30/2020,Possible light rain until evening.,rain,0.23,0.0184,0.0606,0.71,rain,84.49,77.75,77.54,0.9,1009.5,0.25,10,78.68,84.49,-21.1351,55.2471
+France,Reunion,3/31/2020,Humid throughout the day.,clear-day,0.26,0.0003,0.001,0.16,rain,83.56,76.72,75.65,0.86,1009.7,0.14,11,77.72,83.56,-21.1351,55.2471
+France,Reunion,4/1/2020,Humid and partly cloudy throughout the day.,rain,0.29,0.0014,0.0043,0.31,rain,82.79,75.53,74.6,0.85,1008.5,0.28,10,76.43,82.79,-21.1351,55.2471
+France,Reunion,4/2/2020,Possible drizzle in the morning.,rain,0.33,0.0047,0.0127,0.58,rain,82.45,75.46,74.71,0.87,1008.6,0.18,9,75.53,82.45,-21.1351,55.2471
+France,Reunion,4/3/2020,Humid throughout the day.,rain,0.37,0.0015,0.0044,0.48,rain,82.42,76.48,74.04,0.84,1010.2,0.17,9,75.46,82.42,-21.1351,55.2471
+France,Reunion,4/4/2020,Humid throughout the day.,rain,0.41,0.0031,0.0085,0.38,rain,82.76,76.4,72.97,0.8,1013.2,0.24,9,76.48,82.76,-21.1351,55.2471
+France,Reunion,4/5/2020,Humid and partly cloudy throughout the day.,rain,0.45,0.0023,0.0111,0.33,rain,82.51,75.88,71.97,0.78,1015.3,0.42,8,76.4,82.51,-21.1351,55.2471
+France,Reunion,4/6/2020,Humid throughout the day.,partly-cloudy-day,0.48,0.0016,0.0043,0.21,rain,83.12,76.2,69.99,0.73,1016.4,0.43,9,75.88,83.12,-21.1351,55.2471
+France,Reunion,4/7/2020,Possible drizzle in the evening.,rain,0.52,0.0061,0.0146,0.48,rain,82.28,76.08,72.69,0.8,1017.0,0.3,9,76.2,82.28,-21.1351,55.2471
+France,Reunion,4/8/2020,Humid throughout the day.,rain,0.56,0.0024,0.0101,0.36,rain,84.0,76.85,71.25,0.75,1017.0,0.01,10,76.08,84.0,-21.1351,55.2471
+France,Reunion,4/9/2020,Humid throughout the day.,rain,0.6,0.002,0.0096,0.41,rain,82.84,76.24,72.51,0.79,1017.0,0.26,8,76.85,82.84,-21.1351,55.2471
+France,Reunion,4/10/2020,Possible drizzle in the evening.,rain,0.64,0.0035,0.0247,0.43,rain,83.12,76.07,71.41,0.77,1017.3,0.33,8,76.24,83.12,-21.1351,55.2471
+France,Reunion,4/11/2020,Possible light rain in the evening.,rain,0.67,0.0059,0.0314,0.45,rain,83.02,76.02,71.69,0.77,1016.9,0.39,9,76.07,83.02,-21.1351,55.2471
+France,Reunion,4/12/2020,Humid and overcast throughout the day.,rain,0.71,0.0034,0.0097,0.42,rain,81.44,75.35,71.69,0.79,1016.8,0.83,5,76.02,81.44,-21.1351,55.2471
+France,Reunion,4/13/2020,Humid throughout the day.,clear-day,0.74,0.0003,0.0021,0.22,rain,83.6,76.26,70.89,0.76,1017.1,0.03,9,75.35,83.6,-21.1351,55.2471
+France,Reunion,4/14/2020,Humid throughout the day.,clear-day,0.77,0.0001,0.0004,0.1,rain,83.97,76.07,71.13,0.74,1018.0,0.06,9,76.26,83.97,-21.1351,55.2471
+France,Reunion,4/15/2020,Humid throughout the day.,clear-day,0.81,0.0001,0.0003,0.05,rain,81.21,75.38,68.92,0.72,1017.4,0.24,9,76.07,81.21,-21.1351,55.2471
+France,Reunion,4/16/2020,Humid throughout the day.,clear-day,0.84,0.0007,0.0023,0.14,rain,81.77,75.66,71.25,0.78,1016.8,0.31,8,75.38,81.77,-21.1351,55.2471
+France,Reunion,4/17/2020,Humid throughout the day.,clear-day,0.87,0.0007,0.0033,0.13,rain,82.11,76.23,71.62,0.78,1016.6,0.24,8,75.66,82.11,-21.1351,55.2471
+France,Reunion,4/18/2020,Humid and partly cloudy throughout the day.,clear-day,0.9,0.0006,0.0019,0.14,rain,82.18,74.34,72.5,0.81,1015.4,0.24,8,75.4,82.18,-21.1351,55.2471
+France,Reunion,4/19/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0019,0.0179,0.22,rain,81.18,74.58,69.8,0.76,1015.8,0.51,6,74.34,81.18,-21.1351,55.2471
+France,Reunion,4/20/2020,Clear throughout the day.,partly-cloudy-day,0.96,0.0013,0.0038,0.23,rain,80.84,73.5,69.43,0.76,1015.9,0.36,8,74.58,80.84,-21.1351,55.2471
+France,Saint Barthelemy,12/31/2019,Possible drizzle in the morning.,rain,0.19,0.008,0.017,0.66,rain,82.31,76.2,72.67,0.81,1014.1,0.29,6,76.04,82.31,17.9,-62.8333
+France,Saint Barthelemy,1/1/2020,Possible drizzle in the morning.,rain,0.22,0.0036,0.0138,0.46,rain,82.57,76.0,71.82,0.78,1014.7,0.26,6,76.2,82.57,17.9,-62.8333
+France,Saint Barthelemy,1/2/2020,Possible light rain in the morning.,rain,0.25,0.0062,0.0174,0.55,rain,82.17,76.6,71.72,0.78,1015.7,0.12,7,76.0,82.17,17.9,-62.8333
+France,Saint Barthelemy,1/3/2020,Humid throughout the day.,clear-day,0.28,0.0003,0.0011,0.15,rain,81.95,76.32,70.49,0.76,1017.9,0.21,6,76.6,81.95,17.9,-62.8333
+France,Saint Barthelemy,1/4/2020,Humid and mostly cloudy throughout the day.,rain,0.31,0.0017,0.0074,0.27,rain,80.8,76.25,70.4,0.77,1017.6,0.46,5,76.32,80.8,17.9,-62.8333
+France,Saint Barthelemy,1/5/2020,Partly cloudy throughout the day.,clear-day,0.34,0.0002,0.0006,0.12,rain,80.94,75.93,68.47,0.72,1016.2,0.24,6,76.25,80.94,17.9,-62.8333
+France,Saint Barthelemy,1/6/2020,Clear throughout the day.,rain,0.37,0.001,0.003,0.25,rain,81.5,75.59,69.03,0.74,1015.6,0.25,7,75.77,81.5,17.9,-62.8333
+France,Saint Barthelemy,1/7/2020,Partly cloudy throughout the day.,rain,0.4,0.0025,0.0057,0.35,rain,81.37,76.77,70.07,0.76,1016.9,0.36,6,75.59,81.37,17.9,-62.8333
+France,Saint Barthelemy,1/8/2020,Humid throughout the day.,rain,0.44,0.0015,0.0076,0.33,rain,81.71,76.64,71.0,0.77,1018.8,0.32,7,76.75,81.71,17.9,-62.8333
+France,Saint Barthelemy,1/9/2020,Windy overnight.,rain,0.47,0.0046,0.0143,0.41,rain,81.73,77.18,71.23,0.77,1019.7,0.41,6,76.64,81.73,17.9,-62.8333
+France,Saint Barthelemy,1/10/2020,Windy throughout the day.,rain,0.51,0.0041,0.0128,0.32,rain,81.88,76.27,69.58,0.73,1020.0,0.27,6,77.18,81.88,17.9,-62.8333
+France,Saint Barthelemy,1/11/2020,Windy throughout the day.,rain,0.55,0.0033,0.0118,0.35,rain,81.15,76.1,69.61,0.75,1019.7,0.34,6,76.27,81.15,17.9,-62.8333
+France,Saint Barthelemy,1/12/2020,Possible drizzle in the morning.,rain,0.58,0.0094,0.0157,0.68,rain,80.85,75.24,69.67,0.75,1020.0,0.38,6,76.1,80.85,17.9,-62.8333
+France,Saint Barthelemy,1/13/2020,Possible light rain overnight.,rain,0.62,0.0063,0.0174,0.64,rain,80.09,74.91,68.49,0.74,1019.5,0.43,6,75.24,80.09,17.9,-62.8333
+France,Saint Barthelemy,1/14/2020,"Light rain until morning, starting again in the evening.",rain,0.66,0.0124,0.0291,0.91,rain,80.07,75.24,69.4,0.77,1017.5,0.51,6,74.91,80.07,17.9,-62.8333
+France,Saint Barthelemy,1/15/2020,Possible light rain in the morning.,rain,0.69,0.0114,0.0299,0.8,rain,80.62,75.15,69.22,0.76,1016.9,0.48,6,75.24,80.62,17.9,-62.8333
+France,Saint Barthelemy,1/16/2020,Clear throughout the day.,rain,0.73,0.0018,0.0073,0.37,rain,81.09,74.42,69.16,0.75,1018.1,0.23,7,75.15,81.09,17.9,-62.8333
+France,Saint Barthelemy,1/17/2020,Clear throughout the day.,rain,0.77,0.001,0.0041,0.3,rain,80.73,75.0,68.77,0.75,1018.4,0.26,7,74.42,80.73,17.9,-62.8333
+France,Saint Barthelemy,1/18/2020,Partly cloudy throughout the day.,rain,0.8,0.0011,0.0023,0.28,rain,79.96,74.5,69.13,0.76,1018.9,0.38,7,75.0,79.96,17.9,-62.8333
+France,Saint Barthelemy,1/19/2020,"Possible light rain until morning, starting again in the evening.",rain,0.84,0.0096,0.0202,0.67,rain,78.99,74.64,70.08,0.81,1018.0,0.6,6,74.5,78.99,17.9,-62.8333
+France,Saint Barthelemy,1/20/2020,Light rain in the morning.,rain,0.87,0.0133,0.0418,0.74,rain,79.8,74.81,70.71,0.8,1016.7,0.57,6,74.64,79.8,17.9,-62.8333
+France,Saint Barthelemy,1/21/2020,Partly cloudy throughout the day.,rain,0.91,0.0018,0.0072,0.35,rain,80.26,74.84,69.24,0.77,1015.5,0.34,7,74.81,80.26,17.9,-62.8333
+France,Saint Barthelemy,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.94,0.0003,0.0011,0.14,rain,80.65,74.77,68.87,0.75,1013.9,0.43,7,74.84,80.65,17.9,-62.8333
+France,Saint Barthelemy,1/23/2020,Possible light rain in the morning and afternoon.,rain,0.97,0.0088,0.0223,0.62,rain,80.69,75.97,71.52,0.81,1012.3,0.31,8,74.77,80.69,17.9,-62.8333
+France,Saint Barthelemy,1/24/2020,Humid throughout the day.,rain,0.0,0.0017,0.0044,0.43,rain,80.98,75.39,71.14,0.79,1013.6,0.23,8,75.97,80.98,17.9,-62.8333
+France,Saint Barthelemy,1/25/2020,Clear throughout the day.,rain,0.04,0.0037,0.008,0.47,rain,80.05,75.03,70.22,0.78,1014.8,0.16,8,75.39,80.05,17.9,-62.8333
+France,Saint Barthelemy,1/26/2020,"Possible light rain until morning, starting again in the evening.",rain,0.07,0.0127,0.0236,0.75,rain,80.15,74.26,70.11,0.78,1015.1,0.27,7,75.03,80.15,17.9,-62.8333
+France,Saint Barthelemy,1/27/2020,Possible drizzle in the morning.,rain,0.1,0.004,0.0202,0.63,rain,81.66,75.64,70.32,0.78,1015.2,0.14,8,74.26,81.66,17.9,-62.8333
+France,Saint Barthelemy,1/28/2020,Partly cloudy throughout the day.,rain,0.13,0.002,0.006,0.42,rain,81.49,75.61,69.88,0.75,1014.4,0.5,7,75.64,81.49,17.9,-62.8333
+France,Saint Barthelemy,1/29/2020,Clear throughout the day.,rain,0.16,0.0019,0.0091,0.35,rain,81.11,75.47,69.39,0.75,1015.1,0.17,8,75.61,81.11,17.9,-62.8333
+France,Saint Barthelemy,1/30/2020,Clear throughout the day.,clear-day,0.19,0.0005,0.0018,0.2,rain,81.86,75.72,69.74,0.75,1016.1,0.1,8,75.47,81.86,17.9,-62.8333
+France,Saint Barthelemy,1/31/2020,Humid throughout the day.,clear-day,0.22,0.0002,0.0003,0.09,rain,82.03,75.02,70.2,0.75,1018.0,0.08,9,75.72,82.03,17.9,-62.8333
+France,Saint Barthelemy,2/1/2020,Clear throughout the day.,clear-day,0.25,0.0001,0.0004,0.11,rain,81.5,75.07,69.55,0.75,1018.1,0.11,9,75.02,81.5,17.9,-62.8333
+France,Saint Barthelemy,2/2/2020,Clear throughout the day.,clear-day,0.28,0.0001,0.0005,0.08,rain,81.89,75.44,68.69,0.73,1017.0,0.08,9,75.07,81.89,17.9,-62.8333
+France,Saint Barthelemy,2/3/2020,Clear throughout the day.,clear-day,0.31,0.0002,0.0005,0.13,rain,81.87,75.12,69.02,0.74,1018.5,0.11,9,75.44,81.87,17.9,-62.8333
+France,Saint Barthelemy,2/4/2020,Clear throughout the day.,clear-day,0.35,0.0009,0.003,0.2,rain,80.86,75.57,69.52,0.76,1018.5,0.19,8,75.12,80.86,17.9,-62.8333
+France,Saint Barthelemy,2/5/2020,Humid and partly cloudy throughout the day.,rain,0.38,0.0029,0.0062,0.39,rain,81.37,75.97,70.68,0.78,1018.4,0.34,7,75.57,81.37,17.9,-62.8333
+France,Saint Barthelemy,2/6/2020,Humid and partly cloudy throughout the day.,clear-day,0.42,0.0013,0.0049,0.22,rain,81.22,76.06,70.73,0.77,1018.0,0.2,7,75.97,81.22,17.9,-62.8333
+France,Saint Barthelemy,2/7/2020,Humid and partly cloudy throughout the day.,rain,0.45,0.0028,0.0095,0.36,rain,81.75,75.85,70.43,0.76,1019.1,0.33,8,76.06,81.75,17.9,-62.8333
+France,Saint Barthelemy,2/8/2020,Possible drizzle overnight.,rain,0.49,0.0024,0.0122,0.32,rain,81.59,75.76,69.14,0.74,1019.1,0.25,9,75.85,81.59,17.9,-62.8333
+France,Saint Barthelemy,2/9/2020,Humid and partly cloudy throughout the day.,rain,0.53,0.0039,0.0143,0.5,rain,80.85,75.71,70.12,0.76,1019.5,0.33,8,75.76,80.85,17.9,-62.8333
+France,Saint Barthelemy,2/10/2020,Clear throughout the day.,rain,0.57,0.0019,0.0106,0.32,rain,81.03,75.74,69.81,0.76,1019.8,0.17,8,75.71,81.03,17.9,-62.8333
+France,Saint Barthelemy,2/11/2020,Partly cloudy throughout the day.,rain,0.61,0.0038,0.0079,0.4,rain,80.82,75.39,69.46,0.76,1019.2,0.4,7,75.74,80.82,17.9,-62.8333
+France,Saint Barthelemy,2/12/2020,Clear throughout the day.,rain,0.64,0.0062,0.0127,0.51,rain,80.59,75.08,69.83,0.77,1018.3,0.25,8,75.39,80.59,17.9,-62.8333
+France,Saint Barthelemy,2/13/2020,Partly cloudy throughout the day.,rain,0.68,0.0032,0.011000000000000001,0.37,rain,80.41,75.15,69.11,0.75,1017.8,0.36,7,75.08,80.41,17.9,-62.8333
+France,Saint Barthelemy,2/14/2020,Possible light rain in the morning and overnight.,rain,0.72,0.0167,0.0482,0.69,rain,81.38,74.52,69.61,0.76,1018.0,0.24,9,75.15,81.38,17.9,-62.8333
+France,Saint Barthelemy,2/15/2020,Possible light rain until evening.,rain,0.75,0.0196,0.0406,0.78,rain,80.63,74.25,70.77,0.8,1017.1,0.3,7,74.52,80.63,17.9,-62.8333
+France,Saint Barthelemy,2/16/2020,Possible light rain in the morning and afternoon.,rain,0.79,0.0139,0.0258,0.71,rain,80.33,74.94,70.27,0.79,1016.1,0.44,6,74.25,80.33,17.9,-62.8333
+France,Saint Barthelemy,2/17/2020,Humid throughout the day.,rain,0.82,0.0051,0.0211,0.45,rain,80.14,75.58,70.44,0.79,1016.4,0.26,8,74.94,80.14,17.9,-62.8333
+France,Saint Barthelemy,2/18/2020,Clear throughout the day.,clear-day,0.85,0.0011,0.0043,0.2,rain,80.44,74.93,69.09,0.75,1017.9,0.22,9,75.58,80.44,17.9,-62.8333
+France,Saint Barthelemy,2/19/2020,Partly cloudy throughout the day.,rain,0.89,0.0019,0.0107,0.29,rain,80.53,75.27,68.66,0.74,1017.6,0.32,8,74.93,80.53,17.9,-62.8333
+France,Saint Barthelemy,2/20/2020,Clear throughout the day.,clear-day,0.92,0.0002,0.0007,0.12,rain,79.84,74.19,67.32,0.72,1016.9,0.11,10,75.27,79.84,17.9,-62.8333
+France,Saint Barthelemy,2/21/2020,Clear throughout the day.,clear-day,0.95,0.0012,0.0076,0.22,rain,80.53,73.95,67.4,0.72,1016.2,0.19,9,74.19,80.53,17.9,-62.8333
+France,Saint Barthelemy,2/22/2020,Clear throughout the day.,rain,0.98,0.0019,0.0075,0.28,rain,80.18,74.86,68.03,0.74,1015.4,0.13,10,73.95,80.18,17.9,-62.8333
+France,Saint Barthelemy,2/23/2020,Clear throughout the day.,clear-day,0.01,0.0003,0.0007,0.17,rain,81.5,74.24,67.08,0.7,1015.2,0.02,10,74.86,81.5,17.9,-62.8333
+France,Saint Barthelemy,2/24/2020,Clear throughout the day.,clear-day,0.04,0.0001,0.0003,0.09,rain,81.06,74.91,66.77,0.7,1016.1,0.0,10,74.24,81.06,17.9,-62.8333
+France,Saint Barthelemy,2/25/2020,Clear throughout the day.,clear-day,0.07,0.0018,0.0156,0.22,rain,81.41,74.16,69.32,0.75,1016.1,0.12,10,74.91,81.41,17.9,-62.8333
+France,Saint Barthelemy,2/26/2020,Humid throughout the day.,rain,0.1,0.0043,0.0091,0.39,rain,80.19,73.42,69.51,0.78,1016.5,0.36,9,74.16,80.19,17.9,-62.8333
+France,Saint Barthelemy,2/27/2020,Clear throughout the day.,clear-day,0.13,0.0004,0.0014,0.09,rain,80.51,73.92,68.29,0.74,1017.0,0.21,8,73.42,80.51,17.9,-62.8333
+France,Saint Barthelemy,2/28/2020,Clear throughout the day.,clear-day,0.16,0.0008,0.0042,0.11,rain,80.91,74.57,69.33,0.76,1017.4,0.13,10,73.92,80.91,17.9,-62.8333
+France,Saint Barthelemy,2/29/2020,Humid throughout the day.,rain,0.19,0.002,0.0035,0.29,rain,81.2,74.85,70.46,0.79,1017.8,0.21,9,74.57,81.2,17.9,-62.8333
+France,Saint Barthelemy,3/1/2020,Clear throughout the day.,clear-day,0.22,0.0001,0.0006,0.1,rain,81.27,74.67,68.78,0.74,1017.8,0.02,10,74.85,81.27,17.9,-62.8333
+France,Saint Barthelemy,3/2/2020,Clear throughout the day.,clear-day,0.26,0.0002,0.0006,0.1,rain,80.6,74.75,67.28,0.71,1017.4,0.11,9,74.67,80.6,17.9,-62.8333
+France,Saint Barthelemy,3/3/2020,Clear throughout the day.,clear-day,0.29,0.0001,0.0006,0.1,rain,81.22,74.84,67.73,0.72,1017.6,0.07,11,74.75,81.22,17.9,-62.8333
+France,Saint Barthelemy,3/4/2020,Clear throughout the day.,clear-day,0.32,0.0003,0.001,0.08,rain,81.02,75.16,69.31,0.75,1018.8,0.14,10,74.84,81.02,17.9,-62.8333
+France,Saint Barthelemy,3/5/2020,Clear throughout the day.,clear-day,0.36,0.0003,0.0013,0.11,rain,81.3,74.55,68.94,0.75,1019.4,0.09,11,75.16,81.3,17.9,-62.8333
+France,Saint Barthelemy,3/6/2020,Clear throughout the day.,clear-day,0.4,0.0009,0.004,0.19,rain,80.54,74.67,69.09,0.76,1018.1,0.21,10,74.55,80.54,17.9,-62.8333
+France,Saint Barthelemy,3/7/2020,Clear throughout the day.,rain,0.43,0.0014,0.0087,0.25,rain,80.81,74.13,69.17,0.76,1015.8,0.18,10,74.67,80.81,17.9,-62.8333
+France,Saint Barthelemy,3/8/2020,Clear throughout the day.,clear-day,0.47,0.0001,0.0003,0.08,rain,81.4,74.58,66.23,0.69,1017.2,0.03,11,74.13,81.4,17.9,-62.8333
+France,Saint Barthelemy,3/9/2020,Clear throughout the day.,clear-day,0.51,0.0002,0.0004,0.13,rain,81.17,74.69,66.16,0.68,1019.2,0.29,10,74.58,81.17,17.9,-62.8333
+France,Saint Barthelemy,3/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.55,0.0001,0.0003,0.09,rain,81.21,75.16,67.7,0.71,1018.2,0.39,9,74.69,81.21,17.9,-62.8333
+France,Saint Barthelemy,3/11/2020,Partly cloudy throughout the day.,clear-day,0.59,0.0009,0.006,0.2,rain,81.43,74.67,68.69,0.74,1015.3,0.3,10,75.16,81.43,17.9,-62.8333
+France,Saint Barthelemy,3/12/2020,Humid throughout the day.,rain,0.63,0.003,0.0101,0.39,rain,80.09,74.38,69.6,0.77,1013.7,0.23,9,74.67,80.09,17.9,-62.8333
+France,Saint Barthelemy,3/13/2020,Clear throughout the day.,rain,0.67,0.0019,0.0072,0.39,rain,81.58,74.59,69.7,0.76,1015.4,0.11,11,74.38,81.58,17.9,-62.8333
+France,Saint Barthelemy,3/14/2020,Clear throughout the day.,rain,0.7,0.0033,0.0104,0.48,rain,81.02,73.62,68.75,0.75,1015.6,0.05,11,74.59,81.02,17.9,-62.8333
+France,Saint Barthelemy,3/15/2020,Clear throughout the day.,rain,0.74,0.003,0.0126,0.35,rain,80.67,73.28,66.82,0.72,1015.3,0.2,11,73.62,80.67,17.9,-62.8333
+France,Saint Barthelemy,3/16/2020,Partly cloudy throughout the day.,rain,0.77,0.0016,0.0045,0.25,rain,80.35,74.66,67.85,0.74,1014.3,0.37,9,73.28,80.35,17.9,-62.8333
+France,Saint Barthelemy,3/17/2020,Clear throughout the day.,rain,0.8,0.0015,0.0043,0.25,rain,81.56,75.13,68.93,0.75,1015.4,0.15,11,74.66,81.56,17.9,-62.8333
+France,Saint Barthelemy,3/18/2020,Clear throughout the day.,clear-day,0.84,0.0003,0.0018,0.19,rain,80.98,75.11,69.71,0.76,1017.4,0.13,11,75.13,80.98,17.9,-62.8333
+France,Saint Barthelemy,3/19/2020,Possible light rain overnight.,rain,0.87,0.0056,0.0376,0.48,rain,81.21,73.73,68.98,0.75,1018.2,0.21,11,74.86,81.21,17.9,-62.8333
+France,Saint Barthelemy,3/20/2020,Possible light rain overnight.,rain,0.9,0.012,0.0424,0.72,rain,80.04,73.21,68.42,0.76,1018.4,0.61,9,73.73,80.04,17.9,-62.8333
+France,Saint Barthelemy,3/21/2020,Light rain in the morning and afternoon.,rain,0.93,0.0139,0.023,0.85,rain,80.14,74.68,68.8,0.77,1017.2,0.41,8,73.21,80.14,17.9,-62.8333
+France,Saint Barthelemy,3/22/2020,Light rain until evening.,rain,0.96,0.0134,0.0294,0.96,rain,79.75,74.89,69.91,0.78,1017.8,0.44,9,74.68,79.75,17.9,-62.8333
+France,Saint Barthelemy,3/23/2020,Partly cloudy throughout the day.,rain,0.99,0.0037,0.0114,0.36,rain,80.72,74.34,69.19,0.77,1019.4,0.44,8,74.89,80.72,17.9,-62.8333
+France,Saint Barthelemy,3/24/2020,Partly cloudy throughout the day.,rain,0.02,0.0036,0.0133,0.4,rain,79.95,74.36,69.21,0.77,1018.1,0.48,10,74.34,79.95,17.9,-62.8333
+France,Saint Barthelemy,3/25/2020,Clear throughout the day.,clear-day,0.05,0.0003,0.002,0.17,rain,80.97,73.75,66.93,0.71,1016.1,0.17,12,74.36,80.97,17.9,-62.8333
+France,Saint Barthelemy,3/26/2020,Clear throughout the day.,rain,0.08,0.0034,0.01,0.39,rain,81.19,74.57,69.08,0.76,1014.3,0.08,11,73.75,81.19,17.9,-62.8333
+France,Saint Barthelemy,3/27/2020,Clear throughout the day.,rain,0.11,0.0032,0.0075,0.41,rain,81.24,75.49,69.34,0.76,1013.5,0.09,11,74.57,81.24,17.9,-62.8333
+France,Saint Barthelemy,3/28/2020,Humid throughout the day.,rain,0.14,0.002,0.0096,0.3,rain,82.11,75.56,70.2,0.76,1015.4,0.11,12,75.49,82.11,17.9,-62.8333
+France,Saint Barthelemy,3/29/2020,Partly cloudy throughout the day.,clear-day,0.17,0.0002,0.0007,0.1,rain,81.26,74.5,69.26,0.74,1017.6,0.29,9,75.56,81.26,17.9,-62.8333
+France,Saint Barthelemy,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0009,0.0081,0.16,rain,80.49,73.72,67.71,0.73,1016.6,0.49,7,74.5,80.49,17.9,-62.8333
+France,Saint Barthelemy,3/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0004,0.0013,0.12,rain,81.59,74.45,66.21,0.69,1014.4,0.46,11,73.72,81.59,17.9,-62.8333
+France,Saint Barthelemy,4/1/2020,Partly cloudy throughout the day.,clear-day,0.27,0.0001,0.0003,0.05,rain,82.02,75.31,66.61,0.68,1013.8,0.28,9,74.45,82.02,17.9,-62.8333
+France,Saint Barthelemy,4/2/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0003,0.06,rain,82.55,75.53,67.4,0.69,1014.8,0.16,11,75.31,82.55,17.9,-62.8333
+France,Saint Barthelemy,4/3/2020,Clear throughout the day.,clear-day,0.34,0.0002,0.0015,0.07,rain,82.14,75.29,68.57,0.71,1013.8,0.09,12,75.53,82.14,17.9,-62.8333
+France,Saint Barthelemy,4/4/2020,Clear throughout the day.,clear-day,0.38,0.0001,0.0004,0.07,rain,83.11,76.32,66.9,0.66,1013.2,0.11,11,75.29,83.11,17.9,-62.8333
+France,Saint Barthelemy,4/5/2020,Clear throughout the day.,clear-day,0.42,0.0002,0.0021,0.08,rain,83.48,77.32,69.44,0.71,1014.5,0.17,12,76.32,83.48,17.9,-62.8333
+France,Saint Barthelemy,4/6/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.46,0.001,0.0103,0.12,rain,83.5,76.83,73.23,0.79,1015.6,0.44,10,77.32,83.5,17.9,-62.8333
+France,Saint Barthelemy,4/7/2020,Humid and partly cloudy throughout the day.,rain,0.5,0.0039,0.0125,0.39,rain,82.54,76.36,73.7,0.82,1015.8,0.46,10,76.83,82.54,17.9,-62.8333
+France,Saint Barthelemy,4/8/2020,Possible light rain in the morning.,rain,0.54,0.0067,0.021,0.53,rain,82.27,76.92,72.5,0.8,1014.6,0.42,8,76.36,82.27,17.9,-62.8333
+France,Saint Barthelemy,4/9/2020,Humid throughout the day.,clear-day,0.58,0.0002,0.0005,0.15,rain,83.96,78.08,71.91,0.75,1014.3,0.22,10,76.92,83.96,17.9,-62.8333
+France,Saint Barthelemy,4/10/2020,Humid throughout the day.,clear-day,0.61,0.0002,0.0006,0.08,rain,83.91,77.98,72.58,0.76,1014.9,0.18,12,78.08,83.91,17.9,-62.8333
+France,Saint Barthelemy,4/11/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0002,0.001,0.08,rain,83.86,77.7,72.54,0.76,1016.6,0.43,8,77.98,83.86,17.9,-62.8333
+France,Saint Barthelemy,4/12/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0004,0.0014,0.12,rain,84.29,76.88,72.19,0.76,1018.3,0.32,9,77.7,84.29,17.9,-62.8333
+France,Saint Barthelemy,4/13/2020,Humid throughout the day.,rain,0.72,0.006,0.0214,0.45,rain,83.17,76.87,72.72,0.79,1017.9,0.3,11,76.88,83.17,17.9,-62.8333
+France,Saint Barthelemy,4/14/2020,Humid and partly cloudy throughout the day.,rain,0.75,0.0017,0.0066,0.39,rain,83.08,75.99,72.21,0.78,1016.6,0.44,9,76.87,83.08,17.9,-62.8333
+France,Saint Barthelemy,4/15/2020,Humid and partly cloudy throughout the day.,rain,0.78,0.0012,0.0037,0.25,rain,82.07,76.57,71.62,0.79,1016.1,0.42,8,75.99,82.07,17.9,-62.8333
+France,Saint Barthelemy,4/16/2020,Humid and partly cloudy throughout the day.,rain,0.82,0.0011,0.0033,0.26,rain,82.01,76.45,70.76,0.76,1017.6,0.36,9,76.57,82.01,17.9,-62.8333
+France,Saint Barthelemy,4/17/2020,Humid throughout the day.,clear-day,0.85,0.0004,0.0008,0.14,rain,83.47,76.57,70.91,0.74,1018.7,0.19,11,76.45,83.47,17.9,-62.8333
+France,Saint Barthelemy,4/18/2020,Possible drizzle in the morning.,rain,0.88,0.0025,0.0118,0.46,rain,83.48,76.66,72.09,0.77,1017.8,0.43,11,76.57,83.48,17.9,-62.8333
+France,Saint Barthelemy,4/19/2020,Humid throughout the day.,clear-day,0.91,0.0008,0.0033,0.13,rain,83.37,75.84,72.28,0.78,1017.5,0.29,11,76.66,83.37,17.9,-62.8333
+France,Saint Barthelemy,4/20/2020,Humid throughout the day.,clear-day,0.94,0.0012,0.0046,0.18,rain,82.8,76.15,70.95,0.76,1017.1,0.19,13,75.84,82.8,17.9,-62.8333
+France,St Martin,12/31/2019,Possible light rain in the morning.,rain,0.19,0.0085,0.0173,0.69,rain,79.74,74.75,71.12,0.82,1014.2,0.29,6,74.61,79.74,18.0708,-63.0501
+France,St Martin,1/1/2020,Possible light rain in the morning.,rain,0.22,0.0045,0.0164,0.55,rain,79.95,74.76,70.32,0.8,1014.6,0.26,6,74.75,79.95,18.0708,-63.0501
+France,St Martin,1/2/2020,Possible light rain in the morning.,rain,0.25,0.0069,0.0186,0.58,rain,79.34,75.1,70.15,0.8,1015.7,0.19,7,74.76,79.34,18.0708,-63.0501
+France,St Martin,1/3/2020,Clear throughout the day.,clear-day,0.28,0.0005,0.0014,0.19,rain,79.34,74.63,68.66,0.76,1017.9,0.2,7,75.08,79.34,18.0708,-63.0501
+France,St Martin,1/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0012,0.008,0.23,rain,78.92,74.58,68.63,0.77,1017.7,0.4,5,74.63,78.92,18.0708,-63.0501
+France,St Martin,1/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0005,0.0017,0.14,rain,78.75,74.58,67.06,0.73,1016.2,0.33,6,74.58,78.75,18.0708,-63.0501
+France,St Martin,1/6/2020,Clear throughout the day.,clear-day,0.37,0.0006,0.0023,0.22,rain,79.15,74.24,66.64,0.72,1015.7,0.18,7,74.58,79.15,18.0708,-63.0501
+France,St Martin,1/7/2020,Partly cloudy throughout the day.,rain,0.4,0.002,0.0068,0.33,rain,79.25,75.28,68.48,0.76,1017.0,0.39,6,74.24,79.25,18.0708,-63.0501
+France,St Martin,1/8/2020,Clear throughout the day.,rain,0.44,0.0015,0.0062,0.33,rain,79.47,74.91,69.43,0.77,1018.9,0.35,7,75.25,79.47,18.0708,-63.0501
+France,St Martin,1/9/2020,Partly cloudy throughout the day.,rain,0.47,0.0045,0.015,0.41,rain,79.63,75.61,69.72,0.78,1019.8,0.41,6,74.91,79.63,18.0708,-63.0501
+France,St Martin,1/10/2020,Windy throughout the day.,rain,0.51,0.0033,0.013000000000000001,0.27,rain,79.39,74.66,67.84,0.73,1020.2,0.24,6,75.34,79.39,18.0708,-63.0501
+France,St Martin,1/11/2020,Windy throughout the day.,rain,0.55,0.0027,0.0083,0.39,rain,79.13,74.63,67.99,0.75,1019.9,0.29,7,74.66,79.13,18.0708,-63.0501
+France,St Martin,1/12/2020,Possible light rain in the morning.,rain,0.58,0.0073,0.0162,0.67,rain,78.59,73.75,68.25,0.76,1020.4,0.42,6,74.62,78.59,18.0708,-63.0501
+France,St Martin,1/13/2020,Possible light rain overnight.,rain,0.62,0.0058,0.0284,0.65,rain,78.23,72.81,66.94,0.74,1019.9,0.41,6,73.75,78.23,18.0708,-63.0501
+France,St Martin,1/14/2020,"Light rain until morning, starting again in the evening.",rain,0.66,0.0102,0.0258,0.88,rain,77.69,73.61,67.82,0.77,1017.7,0.48,6,72.88,77.69,18.0708,-63.0501
+France,St Martin,1/15/2020,Possible light rain in the morning.,rain,0.69,0.0118,0.0347,0.82,rain,77.96,73.3,67.5,0.76,1017.1,0.48,6,73.61,77.96,18.0708,-63.0501
+France,St Martin,1/16/2020,Clear throughout the day.,rain,0.73,0.0011,0.0046,0.33,rain,78.47,73.01,67.29,0.76,1018.1,0.21,7,73.3,78.47,18.0708,-63.0501
+France,St Martin,1/17/2020,Clear throughout the day.,rain,0.77,0.0007,0.0039,0.28,rain,78.22,73.61,66.92,0.75,1018.5,0.25,7,73.01,78.22,18.0708,-63.0501
+France,St Martin,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0008,0.0014,0.23,rain,77.54,72.73,67.3,0.77,1019.0,0.39,7,73.61,77.54,18.0708,-63.0501
+France,St Martin,1/19/2020,Possible light rain in the morning and overnight.,rain,0.84,0.0066,0.0128,0.64,rain,76.15,73.13,68.14,0.81,1018.1,0.61,6,72.73,76.15,18.0708,-63.0501
+France,St Martin,1/20/2020,Possible light rain in the morning.,rain,0.87,0.0095,0.0215,0.72,rain,76.9,72.94,69.23,0.82,1016.8,0.59,6,73.13,76.9,18.0708,-63.0501
+France,St Martin,1/21/2020,Clear throughout the day.,rain,0.91,0.0016,0.0046,0.31,rain,77.4,73.31,67.49,0.77,1015.4,0.29,8,72.94,77.4,18.0708,-63.0501
+France,St Martin,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.94,0.0003,0.0009,0.14,rain,77.93,73.1,67.13,0.75,1013.8,0.45,7,73.31,77.93,18.0708,-63.0501
+France,St Martin,1/23/2020,Possible light rain in the morning and afternoon.,rain,0.97,0.0116,0.0267,0.66,rain,77.75,73.85,70.06,0.83,1012.3,0.33,8,73.1,77.75,18.0708,-63.0501
+France,St Martin,1/24/2020,Possible drizzle in the morning and afternoon.,rain,0.0,0.0044,0.0111,0.62,rain,78.23,73.81,69.34,0.81,1013.4,0.24,8,73.85,78.23,18.0708,-63.0501
+France,St Martin,1/25/2020,Possible drizzle in the morning.,rain,0.04,0.0056,0.0092,0.58,rain,77.4,73.43,68.24,0.79,1014.8,0.17,9,73.81,77.4,18.0708,-63.0501
+France,St Martin,1/26/2020,"Possible light rain until morning, starting again in the evening.",rain,0.07,0.0123,0.0258,0.76,rain,77.38,73.2,68.45,0.8,1015.2,0.28,8,73.43,77.38,18.0708,-63.0501
+France,St Martin,1/27/2020,Possible light rain overnight.,rain,0.1,0.0035,0.021,0.65,rain,79.09,74.01,68.81,0.79,1015.1,0.2,8,73.2,79.09,18.0708,-63.0501
+France,St Martin,1/28/2020,Light rain in the morning.,rain,0.13,0.0107,0.039,0.73,rain,78.34,73.66,68.61,0.78,1014.3,0.53,7,74.01,78.34,18.0708,-63.0501
+France,St Martin,1/29/2020,Clear throughout the day.,rain,0.16,0.0021,0.008,0.39,rain,78.5,73.8,68.04,0.77,1015.0,0.24,8,73.66,78.5,18.0708,-63.0501
+France,St Martin,1/30/2020,Clear throughout the day.,rain,0.19,0.0008,0.0026,0.27,rain,79.12,74.26,68.31,0.77,1016.1,0.14,8,73.8,79.12,18.0708,-63.0501
+France,St Martin,1/31/2020,Clear throughout the day.,clear-day,0.22,0.0002,0.0004,0.1,rain,79.85,73.95,68.62,0.77,1017.9,0.13,8,74.26,79.85,18.0708,-63.0501
+France,St Martin,2/1/2020,Clear throughout the day.,clear-day,0.25,0.0004,0.0008,0.13,rain,78.64,73.77,68.36,0.78,1018.0,0.18,9,73.95,78.64,18.0708,-63.0501
+France,St Martin,2/2/2020,Clear throughout the day.,clear-day,0.28,0.0002,0.0004,0.1,rain,79.37,74.14,67.02,0.73,1016.9,0.1,9,73.77,79.37,18.0708,-63.0501
+France,St Martin,2/3/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0004,0.13,rain,79.16,73.69,67.23,0.74,1018.4,0.1,9,74.14,79.16,18.0708,-63.0501
+France,St Martin,2/4/2020,Clear throughout the day.,clear-day,0.35,0.0006,0.002,0.19,rain,77.81,74.1,68.04,0.77,1018.6,0.22,8,73.69,77.81,18.0708,-63.0501
+France,St Martin,2/5/2020,Partly cloudy throughout the day.,rain,0.38,0.0039,0.0138,0.43,rain,78.78,74.5,69.19,0.8,1018.5,0.38,7,74.1,78.78,18.0708,-63.0501
+France,St Martin,2/6/2020,Clear throughout the day.,clear-day,0.42,0.0006,0.0019,0.18,rain,79.1,74.35,69.27,0.78,1018.0,0.21,7,74.5,79.1,18.0708,-63.0501
+France,St Martin,2/7/2020,Partly cloudy throughout the day.,rain,0.45,0.0032,0.017,0.38,rain,79.4,74.4,69.03,0.78,1019.2,0.36,8,74.35,79.4,18.0708,-63.0501
+France,St Martin,2/8/2020,Clear throughout the day.,rain,0.49,0.0013,0.0053,0.26,rain,79.05,74.23,67.25,0.74,1019.3,0.25,9,74.4,79.05,18.0708,-63.0501
+France,St Martin,2/9/2020,Clear throughout the day.,rain,0.53,0.0036,0.0163,0.47,rain,78.19,74.36,68.38,0.77,1019.5,0.31,8,74.23,78.19,18.0708,-63.0501
+France,St Martin,2/10/2020,Clear throughout the day.,rain,0.57,0.0009,0.0057,0.28,rain,78.29,74.2,68.2,0.77,1019.9,0.15,8,74.36,78.29,18.0708,-63.0501
+France,St Martin,2/11/2020,Partly cloudy throughout the day.,rain,0.61,0.0044,0.0122,0.45,rain,78.19,73.73,67.88,0.76,1019.3,0.39,7,74.2,78.19,18.0708,-63.0501
+France,St Martin,2/12/2020,Clear throughout the day.,rain,0.64,0.0041,0.0112,0.46,rain,77.48,73.5,68.17,0.78,1018.4,0.3,7,73.73,77.48,18.0708,-63.0501
+France,St Martin,2/13/2020,Partly cloudy throughout the day.,rain,0.68,0.0019,0.008,0.31,rain,78.19,73.76,67.4,0.76,1018.0,0.35,7,73.5,78.19,18.0708,-63.0501
+France,St Martin,2/14/2020,Possible light rain in the morning and overnight.,rain,0.72,0.0136,0.0438,0.65,rain,78.7,72.94,67.97,0.77,1018.2,0.25,8,73.68,78.7,18.0708,-63.0501
+France,St Martin,2/15/2020,Possible light rain until evening.,rain,0.75,0.0208,0.0405,0.8,rain,77.84,72.96,68.93,0.81,1017.1,0.31,7,72.94,77.84,18.0708,-63.0501
+France,St Martin,2/16/2020,Possible light rain in the morning.,rain,0.79,0.0083,0.0191,0.61,rain,77.29,73.68,68.1,0.78,1016.2,0.34,7,72.96,77.29,18.0708,-63.0501
+France,St Martin,2/17/2020,Clear throughout the day.,rain,0.82,0.0032,0.0102,0.36,rain,77.22,74.16,68.69,0.8,1016.5,0.28,8,73.57,77.22,18.0708,-63.0501
+France,St Martin,2/18/2020,Clear throughout the day.,clear-day,0.85,0.0009,0.0038,0.2,rain,78.08,73.17,67.67,0.76,1018.0,0.28,9,74.16,78.08,18.0708,-63.0501
+France,St Martin,2/19/2020,Clear throughout the day.,rain,0.89,0.0016,0.0068,0.27,rain,77.91,73.4,67.18,0.75,1017.7,0.29,8,73.17,77.91,18.0708,-63.0501
+France,St Martin,2/20/2020,Clear throughout the day.,clear-day,0.92,0.0002,0.0014,0.12,rain,77.97,72.42,65.86,0.72,1017.0,0.1,10,73.4,77.97,18.0708,-63.0501
+France,St Martin,2/21/2020,Partly cloudy throughout the day.,clear-day,0.95,0.0015,0.0075,0.24,rain,77.91,72.26,65.66,0.73,1016.2,0.24,9,72.42,77.91,18.0708,-63.0501
+France,St Martin,2/22/2020,Clear throughout the day.,rain,0.98,0.0016,0.0056,0.26,rain,77.21,73.52,66.45,0.76,1015.4,0.15,9,72.26,77.21,18.0708,-63.0501
+France,St Martin,2/23/2020,Clear throughout the day.,clear-day,0.01,0.0002,0.0005,0.16,rain,79.37,72.85,65.65,0.71,1015.1,0.04,10,73.52,79.37,18.0708,-63.0501
+France,St Martin,2/24/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0004,0.1,rain,77.96,73.47,65.36,0.72,1016.0,0.05,10,72.85,77.96,18.0708,-63.0501
+France,St Martin,2/25/2020,Clear throughout the day.,clear-day,0.07,0.0018,0.0116,0.23,rain,78.38,72.79,68.02,0.78,1016.1,0.16,10,73.47,78.38,18.0708,-63.0501
+France,St Martin,2/26/2020,Clear throughout the day.,rain,0.1,0.0035,0.0081,0.37,rain,77.15,72.11,67.66,0.79,1016.6,0.3,9,72.7,77.15,18.0708,-63.0501
+France,St Martin,2/27/2020,Clear throughout the day.,clear-day,0.13,0.0008,0.004,0.12,rain,77.78,72.14,66.48,0.75,1016.9,0.24,8,72.11,77.78,18.0708,-63.0501
+France,St Martin,2/28/2020,Clear throughout the day.,clear-day,0.16,0.0011,0.0043,0.13,rain,78.33,73.09,67.79,0.78,1017.4,0.14,10,72.14,78.33,18.0708,-63.0501
+France,St Martin,2/29/2020,Clear throughout the day.,rain,0.19,0.0022,0.0041,0.29,rain,77.69,73.1,69.01,0.81,1017.8,0.16,9,73.09,77.69,18.0708,-63.0501
+France,St Martin,3/1/2020,Clear throughout the day.,clear-day,0.22,0.0002,0.002,0.12,rain,78.58,73.29,67.61,0.77,1017.8,0.06,10,73.1,78.58,18.0708,-63.0501
+France,St Martin,3/2/2020,Clear throughout the day.,clear-day,0.26,0.0002,0.0006,0.11,rain,78.01,73.38,65.51,0.71,1017.3,0.1,10,73.29,78.01,18.0708,-63.0501
+France,St Martin,3/3/2020,Clear throughout the day.,clear-day,0.29,0.0001,0.0006,0.11,rain,78.32,73.58,65.85,0.72,1017.5,0.11,10,73.38,78.32,18.0708,-63.0501
+France,St Martin,3/4/2020,Clear throughout the day.,clear-day,0.32,0.0002,0.0005,0.08,rain,78.13,73.68,67.39,0.75,1018.8,0.16,11,73.58,78.13,18.0708,-63.0501
+France,St Martin,3/5/2020,Clear throughout the day.,clear-day,0.36,0.0003,0.0008,0.12,rain,78.4,73.22,67.49,0.76,1019.4,0.14,10,73.68,78.4,18.0708,-63.0501
+France,St Martin,3/6/2020,Clear throughout the day.,clear-day,0.4,0.0006,0.0022,0.2,rain,78.07,73.23,67.6,0.77,1018.1,0.22,9,73.22,78.07,18.0708,-63.0501
+France,St Martin,3/7/2020,Clear throughout the day.,rain,0.43,0.0018,0.0084,0.27,rain,78.11,72.75,67.75,0.77,1015.8,0.19,10,73.23,78.11,18.0708,-63.0501
+France,St Martin,3/8/2020,Clear throughout the day.,clear-day,0.47,0.0001,0.0003,0.09,rain,78.47,73.23,64.23,0.69,1017.2,0.03,11,72.75,78.47,18.0708,-63.0501
+France,St Martin,3/9/2020,Clear throughout the day.,partly-cloudy-day,0.51,0.0004,0.0016,0.18,rain,78.19,73.22,64.93,0.7,1019.1,0.32,9,73.23,78.19,18.0708,-63.0501
+France,St Martin,3/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.55,0.0003,0.0032,0.1,rain,78.43,73.66,65.84,0.72,1018.1,0.38,9,73.22,78.43,18.0708,-63.0501
+France,St Martin,3/11/2020,Clear throughout the day.,clear-day,0.59,0.0008,0.0052,0.18,rain,78.49,73.02,67.18,0.75,1015.3,0.3,11,73.66,78.49,18.0708,-63.0501
+France,St Martin,3/12/2020,Clear throughout the day.,rain,0.63,0.003,0.0108,0.4,rain,77.45,72.84,67.92,0.78,1013.7,0.21,10,73.02,77.45,18.0708,-63.0501
+France,St Martin,3/13/2020,Clear throughout the day.,rain,0.67,0.0042,0.0253,0.46,rain,78.88,72.65,68.22,0.78,1015.4,0.15,10,72.75,78.88,18.0708,-63.0501
+France,St Martin,3/14/2020,Possible light rain in the morning.,rain,0.7,0.0038,0.0166,0.57,rain,77.99,71.96,67.08,0.76,1015.7,0.07,11,72.68,77.99,18.0708,-63.0501
+France,St Martin,3/15/2020,Clear throughout the day.,rain,0.74,0.0023,0.0119,0.32,rain,77.66,71.62,64.78,0.72,1015.5,0.21,11,71.96,77.66,18.0708,-63.0501
+France,St Martin,3/16/2020,Partly cloudy throughout the day.,rain,0.77,0.0016,0.0058,0.26,rain,78.08,73.02,66.78,0.76,1014.3,0.41,9,71.62,78.08,18.0708,-63.0501
+France,St Martin,3/17/2020,Clear throughout the day.,clear-day,0.8,0.0009,0.0031,0.24,rain,78.96,73.88,67.74,0.77,1015.4,0.13,12,73.02,78.96,18.0708,-63.0501
+France,St Martin,3/18/2020,Clear throughout the day.,clear-day,0.84,0.0009,0.0035,0.23,rain,78.21,73.61,68.13,0.77,1017.4,0.15,11,73.88,78.21,18.0708,-63.0501
+France,St Martin,3/19/2020,Possible light rain overnight.,rain,0.87,0.0045,0.0349,0.46,rain,78.61,72.06,67.26,0.75,1018.3,0.23,11,73.14,78.61,18.0708,-63.0501
+France,St Martin,3/20/2020,Possible light rain overnight.,rain,0.9,0.0074,0.0387,0.67,rain,78.38,71.6,66.86,0.76,1018.6,0.6,9,72.06,78.38,18.0708,-63.0501
+France,St Martin,3/21/2020,Light rain in the morning.,rain,0.93,0.0116,0.022000000000000002,0.83,rain,77.61,73.18,67.13,0.78,1017.4,0.46,9,71.6,77.61,18.0708,-63.0501
+France,St Martin,3/22/2020,Light rain until evening.,rain,0.96,0.0116,0.0296,0.94,rain,77.08,73.13,68.16,0.79,1017.9,0.42,9,73.18,77.08,18.0708,-63.0501
+France,St Martin,3/23/2020,Partly cloudy throughout the day.,rain,0.99,0.0021,0.0071,0.32,rain,77.52,72.8,67.36,0.77,1019.5,0.46,8,73.13,77.52,18.0708,-63.0501
+France,St Martin,3/24/2020,Clear throughout the day.,rain,0.02,0.0021,0.0089,0.3,rain,77.53,72.66,67.0,0.77,1018.2,0.41,11,72.8,77.53,18.0708,-63.0501
+France,St Martin,3/25/2020,Clear throughout the day.,clear-day,0.05,0.0003,0.001,0.15,rain,77.88,72.3,65.07,0.71,1016.2,0.16,11,72.66,77.88,18.0708,-63.0501
+France,St Martin,3/26/2020,Clear throughout the day.,rain,0.08,0.0018,0.0063,0.31,rain,78.91,73.25,67.44,0.77,1014.4,0.1,11,72.3,78.91,18.0708,-63.0501
+France,St Martin,3/27/2020,Clear throughout the day.,rain,0.11,0.0017,0.005,0.34,rain,78.7,73.97,67.8,0.77,1013.6,0.11,11,73.25,78.7,18.0708,-63.0501
+France,St Martin,3/28/2020,Clear throughout the day.,rain,0.14,0.0014,0.0063,0.28,rain,79.19,74.22,68.44,0.77,1015.5,0.11,12,73.97,79.19,18.0708,-63.0501
+France,St Martin,3/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.17,0.0002,0.0006,0.1,rain,78.68,73.1,67.52,0.75,1017.6,0.32,9,74.22,78.68,18.0708,-63.0501
+France,St Martin,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0004,0.0011,0.14,rain,77.83,72.39,65.66,0.73,1016.7,0.44,9,73.1,77.83,18.0708,-63.0501
+France,St Martin,3/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0004,0.0012,0.1,rain,79.4,72.31,64.05,0.68,1014.5,0.45,11,72.39,79.4,18.0708,-63.0501
+France,St Martin,4/1/2020,Partly cloudy throughout the day.,clear-day,0.27,0.0001,0.0003,0.05,rain,80.66,73.03,64.6,0.67,1013.7,0.29,9,72.31,80.66,18.0708,-63.0501
+France,St Martin,4/2/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0004,0.07,rain,80.04,73.76,65.29,0.68,1014.8,0.16,12,73.03,80.04,18.0708,-63.0501
+France,St Martin,4/3/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0005,0.07,rain,80.15,73.58,66.43,0.71,1013.8,0.1,12,73.76,80.15,18.0708,-63.0501
+France,St Martin,4/4/2020,Clear throughout the day.,clear-day,0.38,0.0001,0.0003,0.06,rain,81.4,74.02,64.63,0.66,1013.2,0.1,11,73.58,81.4,18.0708,-63.0501
+France,St Martin,4/5/2020,Clear throughout the day.,clear-day,0.42,0.0001,0.0002,0.08,rain,81.98,75.26,66.54,0.69,1014.5,0.16,12,74.02,81.98,18.0708,-63.0501
+France,St Martin,4/6/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.46,0.001,0.0085,0.12,rain,82.18,74.81,70.84,0.77,1015.6,0.42,11,75.26,82.18,18.0708,-63.0501
+France,St Martin,4/7/2020,Humid and partly cloudy throughout the day.,rain,0.5,0.0079,0.0169,0.5,rain,80.67,74.31,72.04,0.84,1015.8,0.58,9,74.81,80.67,18.0708,-63.0501
+France,St Martin,4/8/2020,Possible light rain in the morning.,rain,0.54,0.011000000000000001,0.0301,0.64,rain,79.86,75.58,71.25,0.83,1014.5,0.48,9,74.31,79.86,18.0708,-63.0501
+France,St Martin,4/9/2020,Humid throughout the day.,clear-day,0.58,0.0002,0.0008,0.17,rain,82.08,75.76,70.08,0.75,1014.3,0.25,10,75.58,82.08,18.0708,-63.0501
+France,St Martin,4/10/2020,Humid throughout the day.,clear-day,0.61,0.0002,0.0004,0.08,rain,82.42,75.97,70.89,0.76,1014.7,0.11,12,75.76,82.42,18.0708,-63.0501
+France,St Martin,4/11/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.65,0.0002,0.0008,0.08,rain,82.49,75.56,71.01,0.76,1016.5,0.48,8,75.97,82.49,18.0708,-63.0501
+France,St Martin,4/12/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0003,0.001,0.11,rain,81.65,75.01,70.27,0.77,1018.4,0.32,10,75.56,81.65,18.0708,-63.0501
+France,St Martin,4/13/2020,Humid and partly cloudy throughout the day.,rain,0.72,0.0037,0.0106,0.4,rain,80.62,75.44,71.2,0.8,1017.9,0.29,11,75.01,80.62,18.0708,-63.0501
+France,St Martin,4/14/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.75,0.0005,0.0028,0.24,rain,80.46,74.53,70.49,0.79,1016.8,0.45,9,75.44,80.46,18.0708,-63.0501
+France,St Martin,4/15/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0005,0.0014,0.21,rain,80.22,74.98,70.09,0.79,1016.2,0.43,8,74.53,80.22,18.0708,-63.0501
+France,St Martin,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.82,0.0009,0.0021,0.22,rain,80.09,75.0,69.3,0.76,1017.7,0.37,10,74.98,80.09,18.0708,-63.0501
+France,St Martin,4/17/2020,Clear throughout the day.,clear-day,0.85,0.0005,0.0011,0.14,rain,80.65,75.19,68.65,0.74,1018.7,0.17,11,75.0,80.65,18.0708,-63.0501
+France,St Martin,4/18/2020,Possible drizzle in the morning.,rain,0.88,0.0025,0.0095,0.43,rain,80.64,75.12,70.48,0.78,1017.9,0.43,11,75.19,80.64,18.0708,-63.0501
+France,St Martin,4/19/2020,Humid throughout the day.,clear-day,0.91,0.0007,0.0033,0.12,rain,81.11,74.24,70.19,0.78,1017.6,0.31,11,75.12,81.11,18.0708,-63.0501
+France,St Martin,4/20/2020,Clear throughout the day.,clear-day,0.94,0.0012,0.0062,0.17,rain,80.12,74.57,69.54,0.77,1017.2,0.21,13,74.24,80.12,18.0708,-63.0501

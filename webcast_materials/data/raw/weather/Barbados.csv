@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Barbados,,12/31/2019,Clear throughout the day.,clear-day,0.19,0.0002,0.0008,0.09,rain,78.99,73.32,67.45,0.75,1013.6,0.2,8,73.15,78.99,13.1939,-59.5432
+Barbados,,1/1/2020,Clear throughout the day.,clear-day,0.22,0.0012,0.0043,0.23,rain,79.4,74.09,67.64,0.76,1014.1,0.22,8,73.32,79.4,13.1939,-59.5432
+Barbados,,1/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0005,0.0038,0.2,rain,78.95,72.63,66.6,0.73,1014.5,0.45,8,74.08,78.95,13.1939,-59.5432
+Barbados,,1/3/2020,Clear throughout the day.,clear-day,0.28,0.0002,0.0004,0.06,rain,78.7,72.2,66.52,0.74,1015.8,0.2,9,72.63,78.7,13.1939,-59.5432
+Barbados,,1/4/2020,Partly cloudy throughout the day.,rain,0.31,0.0022,0.0104,0.26,rain,78.25,72.15,66.87,0.76,1016.0,0.32,6,72.2,78.25,13.1939,-59.5432
+Barbados,,1/5/2020,Possible light rain starting in the afternoon.,rain,0.34,0.0101,0.0468,0.62,rain,77.8,72.07,67.24,0.79,1014.0,0.31,7,72.07,77.8,13.1939,-59.5432
+Barbados,,1/6/2020,Partly cloudy throughout the day.,rain,0.37,0.0019,0.0109,0.39,rain,77.65,72.93,68.49,0.81,1013.6,0.37,7,72.48,77.65,13.1939,-59.5432
+Barbados,,1/7/2020,Clear throughout the day.,clear-day,0.4,0.0005,0.0019,0.1,rain,78.45,73.98,66.55,0.74,1015.3,0.23,8,72.93,78.45,13.1939,-59.5432
+Barbados,,1/8/2020,Partly cloudy throughout the day.,rain,0.44,0.0019,0.0042,0.28,rain,78.74,72.12,67.64,0.76,1016.4,0.38,8,73.98,78.74,13.1939,-59.5432
+Barbados,,1/9/2020,Partly cloudy throughout the day.,rain,0.47,0.0058,0.0122,0.52,rain,76.78,73.86,67.88,0.79,1016.5,0.49,6,72.12,76.78,13.1939,-59.5432
+Barbados,,1/10/2020,Windy in the morning and afternoon.,clear-day,0.51,0.0013,0.0065,0.24,rain,78.17,72.77,66.39,0.73,1016.4,0.06,9,73.97,78.17,13.1939,-59.5432
+Barbados,,1/11/2020,Possible light rain overnight.,rain,0.55,0.0053,0.0142,0.41,rain,76.33,72.71,67.81,0.81,1016.5,0.05,9,72.71,76.33,13.1939,-59.5432
+Barbados,,1/12/2020,Partly cloudy throughout the day.,rain,0.58,0.0097,0.0376,0.71,rain,77.99,71.83,66.67,0.75,1016.8,0.27,8,73.29,77.99,13.1939,-59.5432
+Barbados,,1/13/2020,Partly cloudy throughout the day.,rain,0.62,0.0065,0.0211,0.59,rain,77.04,72.48,66.23,0.76,1015.8,0.35,8,71.83,77.04,13.1939,-59.5432
+Barbados,,1/14/2020,Partly cloudy throughout the day.,rain,0.66,0.005,0.0136,0.66,rain,77.54,73.71,67.52,0.78,1014.7,0.35,8,72.48,77.54,13.1939,-59.5432
+Barbados,,1/15/2020,Partly cloudy throughout the day.,rain,0.69,0.0019,0.0073,0.34,rain,77.87,72.98,66.83,0.75,1014.4,0.37,7,73.71,77.87,13.1939,-59.5432
+Barbados,,1/16/2020,Clear throughout the day.,clear-day,0.73,0.0008,0.0022,0.23,rain,79.03,72.62,67.16,0.76,1015.6,0.26,7,72.98,79.03,13.1939,-59.5432
+Barbados,,1/17/2020,Clear throughout the day.,clear-day,0.77,0.0008,0.0018,0.2,rain,78.48,72.48,67.69,0.77,1015.9,0.2,8,72.62,78.48,13.1939,-59.5432
+Barbados,,1/18/2020,Partly cloudy throughout the day.,rain,0.8,0.0017,0.0039,0.37,rain,77.5,72.46,68.51,0.81,1016.2,0.38,8,72.48,77.5,13.1939,-59.5432
+Barbados,,1/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0005,0.0018,0.1,rain,78.04,72.64,65.89,0.73,1015.5,0.35,9,72.46,78.04,13.1939,-59.5432
+Barbados,,1/20/2020,Partly cloudy throughout the day.,rain,0.87,0.0027,0.0061,0.36,rain,78.1,71.79,68.11,0.79,1014.8,0.33,8,72.64,78.1,13.1939,-59.5432
+Barbados,,1/21/2020,Partly cloudy throughout the day.,rain,0.91,0.0032,0.0105,0.35,rain,78.23,71.56,67.32,0.78,1013.9,0.44,8,71.79,78.23,13.1939,-59.5432
+Barbados,,1/22/2020,Possible light rain in the morning.,rain,0.94,0.0093,0.0226,0.69,rain,76.0,72.56,69.0,0.85,1012.9,0.7,6,71.56,76.0,13.1939,-59.5432
+Barbados,,1/23/2020,Possible light rain in the afternoon and evening.,rain,0.97,0.0083,0.0381,0.59,rain,76.65,72.91,68.79,0.83,1012.4,0.5,7,72.56,76.65,13.1939,-59.5432
+Barbados,,1/24/2020,Clear throughout the day.,rain,0.0,0.0015,0.0038,0.31,rain,78.8,72.39,69.52,0.81,1013.1,0.34,9,73.4,78.8,13.1939,-59.5432
+Barbados,,1/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.04,0.0009,0.0035,0.18,rain,78.26,71.33,68.6,0.81,1014.2,0.73,6,72.39,78.26,13.1939,-59.5432
+Barbados,,1/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0014,0.0079,0.23,rain,76.45,71.19,66.6,0.78,1014.7,0.82,6,71.33,76.45,13.1939,-59.5432
+Barbados,,1/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0004,0.09,rain,79.88,72.3,65.25,0.72,1015.0,0.61,5,71.19,79.88,13.1939,-59.5432
+Barbados,,1/28/2020,Clear throughout the day.,rain,0.13,0.0012,0.0055,0.34,rain,78.74,72.32,69.2,0.82,1014.0,0.21,10,72.3,78.74,13.1939,-59.5432
+Barbados,,1/29/2020,Clear throughout the day.,clear-day,0.16,0.0003,0.0016,0.15,rain,78.82,73.14,69.21,0.81,1014.1,0.06,10,72.32,78.82,13.1939,-59.5432
+Barbados,,1/30/2020,Clear throughout the day.,clear-day,0.19,0.0002,0.0007,0.11,rain,79.19,72.89,68.4,0.78,1014.8,0.05,10,73.14,79.19,13.1939,-59.5432
+Barbados,,1/31/2020,Clear throughout the day.,rain,0.22,0.0015,0.0098,0.33,rain,79.35,73.23,69.35,0.81,1016.1,0.04,10,72.89,79.35,13.1939,-59.5432
+Barbados,,2/1/2020,Partly cloudy throughout the day.,rain,0.25,0.0008,0.0019,0.25,rain,79.07,72.1,68.38,0.78,1016.2,0.23,8,73.23,79.07,13.1939,-59.5432
+Barbados,,2/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.28,0.0008,0.0041,0.19,rain,79.38,72.29,66.84,0.76,1015.7,0.61,8,72.1,79.38,13.1939,-59.5432
+Barbados,,2/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.31,0.0014,0.0056,0.21,rain,78.19,71.98,66.64,0.76,1016.9,0.68,7,72.29,78.19,13.1939,-59.5432
+Barbados,,2/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.35,0.0007,0.0031,0.13,rain,78.23,72.54,65.27,0.73,1016.7,0.58,7,71.98,78.23,13.1939,-59.5432
+Barbados,,2/5/2020,Clear throughout the day.,clear-day,0.38,0.0015,0.0054,0.23,rain,78.44,71.83,67.34,0.77,1016.5,0.07,9,72.54,78.44,13.1939,-59.5432
+Barbados,,2/6/2020,Clear throughout the day.,clear-day,0.42,0.0014,0.0056,0.23,rain,78.94,72.98,66.94,0.76,1016.1,0.03,10,71.83,78.94,13.1939,-59.5432
+Barbados,,2/7/2020,Clear throughout the day.,clear-day,0.45,0.0008,0.0027,0.16,rain,79.01,72.67,65.62,0.72,1016.6,0.02,10,72.98,79.01,13.1939,-59.5432
+Barbados,,2/8/2020,Clear throughout the day.,clear-day,0.49,0.0005,0.0017,0.17,rain,78.46,72.95,65.98,0.73,1015.9,0.05,10,72.67,78.46,13.1939,-59.5432
+Barbados,,2/9/2020,Clear throughout the day.,rain,0.53,0.0023,0.0076,0.37,rain,78.91,72.0,66.81,0.75,1017.1,0.02,10,72.95,78.91,13.1939,-59.5432
+Barbados,,2/10/2020,Possible light rain overnight.,rain,0.57,0.0071,0.02,0.47,rain,76.78,71.07,66.61,0.77,1017.3,0.09,9,72.0,76.78,13.1939,-59.5432
+Barbados,,2/11/2020,Possible light rain in the morning.,rain,0.61,0.0068,0.0267,0.6,rain,77.47,72.15,67.82,0.8,1016.2,0.14,10,71.07,77.47,13.1939,-59.5432
+Barbados,,2/12/2020,Clear throughout the day.,rain,0.64,0.0036,0.0126,0.38,rain,78.54,72.43,67.69,0.79,1015.7,0.13,10,72.15,78.54,13.1939,-59.5432
+Barbados,,2/13/2020,Clear throughout the day.,rain,0.68,0.0013,0.0041,0.25,rain,76.67,73.54,66.2,0.75,1015.2,0.21,8,72.43,76.67,13.1939,-59.5432
+Barbados,,2/14/2020,Overcast throughout the day.,cloudy,0.72,0.0003,0.001,0.2,rain,77.4,73.34,65.55,0.72,1015.7,0.94,6,73.54,77.4,13.1939,-59.5432
+Barbados,,2/15/2020,Overcast throughout the day.,cloudy,0.75,0.0002,0.0012,0.12,rain,77.69,73.11,65.83,0.73,1015.3,0.92,6,73.34,77.69,13.1939,-59.5432
+Barbados,,2/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.79,0.0002,0.0034,0.11,rain,78.35,72.97,66.17,0.74,1014.1,0.63,7,73.11,78.35,13.1939,-59.5432
+Barbados,,2/17/2020,Clear throughout the day.,rain,0.82,0.002,0.0103,0.3,rain,78.38,72.62,68.15,0.78,1014.0,0.1,11,72.97,78.38,13.1939,-59.5432
+Barbados,,2/18/2020,Possible light rain in the morning.,rain,0.85,0.0083,0.0207,0.56,rain,76.49,72.03,69.47,0.85,1015.1,0.29,9,72.58,76.49,13.1939,-59.5432
+Barbados,,2/19/2020,Possible drizzle in the morning.,rain,0.89,0.0054,0.0138,0.56,rain,77.14,72.09,67.75,0.8,1014.9,0.27,11,72.03,77.14,13.1939,-59.5432
+Barbados,,2/20/2020,Clear throughout the day.,clear-day,0.92,0.0012,0.0047,0.17,rain,77.41,71.18,64.85,0.73,1014.2,0.07,10,72.09,77.41,13.1939,-59.5432
+Barbados,,2/21/2020,Clear throughout the day.,clear-day,0.95,0.0009,0.0068,0.19,rain,77.99,70.97,65.16,0.73,1014.4,0.03,11,71.18,77.99,13.1939,-59.5432
+Barbados,,2/22/2020,Clear throughout the day.,clear-day,0.98,0.001,0.0044,0.22,rain,79.6,71.64,66.14,0.74,1014.4,0.13,10,70.97,79.6,13.1939,-59.5432
+Barbados,,2/23/2020,Partly cloudy throughout the day.,rain,0.01,0.0033,0.0149,0.33,rain,78.72,73.45,69.94,0.84,1014.2,0.51,10,71.64,78.72,13.1939,-59.5432
+Barbados,,2/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0004,0.0016,0.16,rain,79.16,71.48,68.63,0.78,1014.4,0.48,8,73.45,79.16,13.1939,-59.5432
+Barbados,,2/25/2020,Clear throughout the day.,clear-day,0.07,0.0014,0.0083,0.2,rain,79.74,72.06,67.52,0.78,1014.5,0.14,12,71.48,79.74,13.1939,-59.5432
+Barbados,,2/26/2020,Clear throughout the day.,clear-day,0.1,0.0002,0.0022,0.1,rain,79.1,71.76,66.57,0.75,1014.6,0.05,12,72.06,79.1,13.1939,-59.5432
+Barbados,,2/27/2020,Clear throughout the day.,clear-day,0.13,0.0006,0.0038,0.15,rain,78.16,71.83,66.06,0.75,1015.1,0.13,11,71.76,78.16,13.1939,-59.5432
+Barbados,,2/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0009,0.0042,0.17,rain,77.4,71.76,65.38,0.74,1016.2,0.47,10,71.83,77.4,13.1939,-59.5432
+Barbados,,2/29/2020,Overcast throughout the day.,partly-cloudy-day,0.19,0.0012,0.006,0.18,rain,76.38,71.52,64.58,0.72,1016.8,0.74,6,71.76,76.38,13.1939,-59.5432
+Barbados,,3/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.22,0.0016,0.0086,0.24,rain,75.88,71.29,65.92,0.76,1016.2,0.35,10,71.52,75.88,13.1939,-59.5432
+Barbados,,3/2/2020,Partly cloudy throughout the day.,rain,0.26,0.0007,0.003,0.26,rain,77.44,71.07,64.79,0.73,1015.4,0.36,10,71.29,77.44,13.1939,-59.5432
+Barbados,,3/3/2020,Partly cloudy throughout the day.,rain,0.29,0.0047,0.0185,0.35,rain,78.76,72.18,67.15,0.79,1015.2,0.23,8,71.07,78.76,13.1939,-59.5432
+Barbados,,3/4/2020,Clear throughout the day.,clear-day,0.32,0.0007,0.0043,0.16,rain,79.01,72.26,64.77,0.7,1016.7,0.1,10,72.73,79.01,13.1939,-59.5432
+Barbados,,3/5/2020,Clear throughout the day.,clear-day,0.36,0.0002,0.001,0.09,rain,78.77,72.18,63.97,0.69,1017.2,0.09,11,72.26,78.77,13.1939,-59.5432
+Barbados,,3/6/2020,Clear throughout the day.,clear-day,0.4,0.0005,0.0019,0.15,rain,78.17,71.73,64.34,0.7,1016.5,0.08,13,72.18,78.17,13.1939,-59.5432
+Barbados,,3/7/2020,Clear throughout the day.,clear-day,0.43,0.0004,0.001,0.11,rain,78.62,71.82,65.72,0.74,1014.6,0.19,11,71.73,78.62,13.1939,-59.5432
+Barbados,,3/8/2020,Clear throughout the day.,clear-day,0.47,0.0002,0.0013,0.09,rain,79.15,72.23,64.3,0.7,1015.7,0.14,13,71.82,79.15,13.1939,-59.5432
+Barbados,,3/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.51,0.0008,0.004,0.19,rain,78.55,72.35,66.36,0.75,1017.2,0.66,8,72.23,78.55,13.1939,-59.5432
+Barbados,,3/10/2020,Partly cloudy throughout the day.,rain,0.55,0.0021,0.0062,0.27,rain,77.39,71.47,65.6,0.74,1016.2,0.38,11,72.36,77.39,13.1939,-59.5432
+Barbados,,3/11/2020,Clear throughout the day.,clear-day,0.59,0.0003,0.0014,0.11,rain,78.64,71.4,65.37,0.74,1013.7,0.17,13,71.47,78.64,13.1939,-59.5432
+Barbados,,3/12/2020,Clear throughout the day.,rain,0.63,0.0044,0.0261,0.33,rain,78.64,72.2,67.06,0.78,1012.2,0.12,12,71.4,78.64,13.1939,-59.5432
+Barbados,,3/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.67,0.0012,0.0045,0.2,rain,78.33,71.28,67.43,0.78,1013.8,0.5,6,72.2,78.33,13.1939,-59.5432
+Barbados,,3/14/2020,Light rain until evening.,rain,0.7,0.0176,0.0373,0.77,rain,75.47,71.76,69.95,0.9,1013.9,0.49,8,71.28,75.47,13.1939,-59.5432
+Barbados,,3/15/2020,Possible drizzle in the morning.,rain,0.74,0.0024,0.0167,0.57,rain,77.85,71.46,67.8,0.8,1014.0,0.65,8,71.76,77.85,13.1939,-59.5432
+Barbados,,3/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.77,0.0002,0.0018,0.1,rain,78.16,71.4,65.77,0.74,1014.0,0.61,12,71.46,78.16,13.1939,-59.5432
+Barbados,,3/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.0002,0.0007,0.1,rain,79.08,72.3,65.72,0.73,1014.7,0.56,8,71.4,79.08,13.1939,-59.5432
+Barbados,,3/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0004,0.0022,0.12,rain,79.15,72.38,66.41,0.74,1015.6,0.41,8,72.3,79.15,13.1939,-59.5432
+Barbados,,3/19/2020,Clear throughout the day.,clear-day,0.87,0.0009,0.0053,0.15,rain,79.02,72.17,67.29,0.76,1016.0,0.27,12,72.38,79.02,13.1939,-59.5432
+Barbados,,3/20/2020,Clear throughout the day.,rain,0.9,0.0048,0.0173,0.49,rain,77.7,70.26,67.88,0.8,1015.7,0.13,12,72.17,77.7,13.1939,-59.5432
+Barbados,,3/21/2020,Clear throughout the day.,rain,0.93,0.0026,0.0077,0.48,rain,78.38,71.68,68.18,0.82,1014.7,0.25,11,70.26,78.38,13.1939,-59.5432
+Barbados,,3/22/2020,Clear throughout the day.,rain,0.96,0.0016,0.0064,0.28,rain,77.72,72.77,67.88,0.79,1015.9,0.21,12,71.68,77.72,13.1939,-59.5432
+Barbados,,3/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.99,0.0004,0.0012,0.11,rain,79.21,72.59,66.35,0.73,1016.9,0.36,11,72.77,79.21,13.1939,-59.5432
+Barbados,,3/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.02,0.0003,0.0013,0.09,rain,79.48,71.87,65.69,0.72,1016.1,0.51,8,72.59,79.48,13.1939,-59.5432
+Barbados,,3/25/2020,Clear throughout the day.,clear-day,0.05,0.0009,0.0036,0.15,rain,79.25,71.16,66.09,0.75,1014.3,0.26,11,71.87,79.25,13.1939,-59.5432
+Barbados,,3/26/2020,Clear throughout the day.,partly-cloudy-day,0.08,0.0022,0.0201,0.24,rain,78.9,70.98,65.74,0.74,1012.9,0.33,11,71.16,78.9,13.1939,-59.5432
+Barbados,,3/27/2020,Clear throughout the day.,rain,0.11,0.0022,0.0147,0.28,rain,78.68,72.15,66.97,0.77,1011.8,0.2,13,70.98,78.68,13.1939,-59.5432
+Barbados,,3/28/2020,Clear throughout the day.,clear-day,0.14,0.0002,0.001,0.11,rain,79.59,72.66,67.63,0.76,1013.2,0.12,10,72.15,79.59,13.1939,-59.5432
+Barbados,,3/29/2020,Clear throughout the day.,clear-day,0.17,0.001,0.0029,0.23,rain,79.97,72.33,67.4,0.76,1014.8,0.2,12,72.66,79.97,13.1939,-59.5432
+Barbados,,3/30/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.2,0.0013,0.0044,0.17,rain,78.58,71.27,65.78,0.73,1013.9,0.6,7,72.33,78.58,13.1939,-59.5432
+Barbados,,3/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0005,0.0023,0.15,rain,78.39,70.62,63.27,0.68,1012.7,0.63,10,71.27,78.39,13.1939,-59.5432
+Barbados,,4/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.27,0.0009,0.0038,0.11,rain,79.61,71.96,65.38,0.73,1012.6,0.66,6,70.62,79.61,13.1939,-59.5432
+Barbados,,4/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.31,0.0003,0.0019,0.1,rain,79.55,73.18,66.38,0.74,1014.1,0.74,7,71.96,79.55,13.1939,-59.5432
+Barbados,,4/3/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.34,0.0006,0.0013,0.08,rain,81.77,74.76,69.43,0.78,1013.3,0.78,6,73.18,81.77,13.1939,-59.5432
+Barbados,,4/4/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.38,0.0001,0.0007,0.07,rain,82.66,74.66,70.52,0.77,1012.4,0.58,7,74.76,82.66,13.1939,-59.5432
+Barbados,,4/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.42,0.0004,0.0014,0.05,rain,82.33,74.85,69.97,0.76,1013.7,0.71,6,74.66,82.33,13.1939,-59.5432
+Barbados,,4/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.46,0.0002,0.0008,0.06,rain,82.4,74.97,69.85,0.75,1014.8,0.54,12,74.85,82.4,13.1939,-59.5432
+Barbados,,4/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.5,0.0004,0.0012,0.06,rain,82.53,74.68,69.42,0.75,1014.8,0.79,8,74.97,82.53,13.1939,-59.5432
+Barbados,,4/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0001,0.0004,0.05,rain,82.37,74.74,68.39,0.73,1013.8,0.85,8,74.68,82.37,13.1939,-59.5432
+Barbados,,4/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0001,0.0004,0.06,rain,82.0,74.09,68.99,0.74,1013.5,0.6,7,74.74,82.0,13.1939,-59.5432
+Barbados,,4/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0001,0.0003,0.04,rain,82.03,74.76,69.2,0.75,1014.2,0.53,7,74.09,82.03,13.1939,-59.5432
+Barbados,,4/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.65,0.0001,0.0005,0.06,rain,82.18,75.0,68.54,0.73,1015.5,0.63,6,74.76,82.18,13.1939,-59.5432
+Barbados,,4/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0002,0.0006,0.05,rain,81.68,74.17,67.67,0.72,1016.3,0.73,6,74.95,81.68,13.1939,-59.5432
+Barbados,,4/13/2020,Clear throughout the day.,partly-cloudy-day,0.72,0.0009,0.0049,0.14,rain,80.26,73.23,67.72,0.75,1016.1,0.33,12,74.17,80.26,13.1939,-59.5432
+Barbados,,4/14/2020,Clear throughout the day.,clear-day,0.75,0.0006,0.0016,0.16,rain,79.82,74.16,68.3,0.77,1014.6,0.07,13,73.23,79.82,13.1939,-59.5432
+Barbados,,4/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.0012,0.0073,0.2,rain,80.39,73.37,67.32,0.74,1014.2,0.78,7,73.83,80.39,13.1939,-59.5432
+Barbados,,4/16/2020,Mostly cloudy throughout the day.,rain,0.82,0.002,0.0048,0.33,rain,79.8,74.12,68.89,0.78,1015.8,0.78,8,73.37,79.8,13.1939,-59.5432
+Barbados,,4/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.85,0.0012,0.0034,0.23,rain,80.12,73.13,68.44,0.77,1016.8,0.81,6,74.12,80.12,13.1939,-59.5432
+Barbados,,4/18/2020,Partly cloudy throughout the day.,rain,0.88,0.0017,0.0045,0.26,rain,79.76,73.88,67.68,0.75,1016.3,0.56,7,73.13,79.76,13.1939,-59.5432
+Barbados,,4/19/2020,Clear throughout the day.,clear-day,0.91,0.0011,0.0054,0.23,rain,80.62,73.47,67.87,0.74,1015.7,0.27,12,73.88,80.62,13.1939,-59.5432
+Barbados,,4/20/2020,Clear throughout the day.,rain,0.94,0.0016,0.0079,0.29,rain,79.85,73.29,68.03,0.77,1015.5,0.19,10,73.29,79.85,13.1939,-59.5432

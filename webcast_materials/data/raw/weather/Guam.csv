@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Guam,,12/31/2019,Humid and overcast throughout the day.,rain,0.2,0.0013,0.006,0.32,rain,84.34,75.99,71.93,0.75,1014.6,0.91,5,77.46,84.34,13.4443,144.7937
+Guam,,1/1/2020,Humid and partly cloudy throughout the day.,rain,0.23,0.0013,0.0066,0.42,rain,84.82,76.59,71.64,0.75,1014.0,0.59,8,75.99,84.82,13.4443,144.7937
+Guam,,1/2/2020,Possible drizzle in the morning.,rain,0.26,0.0032,0.0128,0.53,rain,84.72,76.38,72.71,0.79,1012.3,0.32,8,76.59,84.72,13.4443,144.7937
+Guam,,1/3/2020,Humid and mostly cloudy throughout the day.,rain,0.29,0.0015,0.0066,0.28,rain,84.24,76.96,71.83,0.75,1011.5,0.58,7,76.38,84.24,13.4443,144.7937
+Guam,,1/4/2020,Humid throughout the day.,partly-cloudy-day,0.32,0.0004,0.0013,0.2,rain,85.45,76.72,71.87,0.74,1012.7,0.37,9,76.96,85.45,13.4443,144.7937
+Guam,,1/5/2020,Humid throughout the day.,partly-cloudy-day,0.35,0.0004,0.0061,0.23,rain,84.87,76.09,71.27,0.74,1012.8,0.33,8,76.72,84.87,13.4443,144.7937
+Guam,,1/6/2020,Humid and mostly cloudy throughout the day.,rain,0.38,0.0011,0.003,0.29,rain,84.83,76.75,72.04,0.77,1012.3,0.62,7,76.09,84.83,13.4443,144.7937
+Guam,,1/7/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.42,0.0008,0.0024,0.2,rain,84.8,77.38,72.41,0.77,1011.7,0.62,7,76.75,84.8,13.4443,144.7937
+Guam,,1/8/2020,Light rain starting in the afternoon.,rain,0.45,0.0073,0.0475,0.74,rain,84.95,77.53,75.31,0.84,1010.0,0.79,6,77.38,84.95,13.4443,144.7937
+Guam,,1/9/2020,Light rain in the morning and overnight.,rain,0.49,0.0089,0.0304,0.86,rain,85.75,77.09,75.99,0.84,1008.5,0.74,6,77.53,85.75,13.4443,144.7937
+Guam,,1/10/2020,Light rain and humid throughout the day.,rain,0.52,0.0085,0.0193,0.93,rain,85.15,77.91,76.23,0.85,1008.1,0.53,8,77.09,85.15,13.4443,144.7937
+Guam,,1/11/2020,Light rain in the morning.,rain,0.56,0.0103,0.0394,0.8,rain,85.01,77.37,75.06,0.83,1008.8,0.81,5,77.91,85.01,13.4443,144.7937
+Guam,,1/12/2020,Humid and partly cloudy throughout the day.,rain,0.6,0.0028,0.0065,0.43,rain,84.65,75.9,74.31,0.82,1010.1,0.62,8,77.37,84.65,13.4443,144.7937
+Guam,,1/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.0003,0.0016,0.12,rain,84.92,75.61,69.92,0.72,1012.1,0.74,5,75.9,84.92,13.4443,144.7937
+Guam,,1/14/2020,Humid and mostly cloudy throughout the day.,rain,0.67,0.0014,0.0083,0.33,rain,84.28,76.34,70.64,0.74,1012.8,0.65,6,75.21,84.28,13.4443,144.7937
+Guam,,1/15/2020,Humid and partly cloudy throughout the day.,rain,0.71,0.0005,0.0027,0.26,rain,84.35,76.14,70.43,0.73,1011.2,0.57,7,76.34,84.35,13.4443,144.7937
+Guam,,1/16/2020,Possible light rain overnight.,rain,0.75,0.0005,0.0029,0.3,rain,84.87,75.6,70.94,0.75,1010.5,0.29,9,76.14,84.87,13.4443,144.7937
+Guam,,1/17/2020,Possible light rain in the morning and overnight.,rain,0.78,0.0048,0.0217,0.56,rain,85.59,76.34,73.41,0.81,1010.0,0.45,8,75.6,85.59,13.4443,144.7937
+Guam,,1/18/2020,Possible light rain in the morning.,rain,0.82,0.0051,0.0248,0.57,rain,85.38,76.21,73.88,0.82,1011.3,0.59,7,76.34,85.38,13.4443,144.7937
+Guam,,1/19/2020,Humid and partly cloudy throughout the day.,rain,0.85,0.0026,0.0077,0.49,rain,84.88,76.45,73.5,0.81,1012.9,0.4,8,76.21,84.88,13.4443,144.7937
+Guam,,1/20/2020,Light rain in the evening and overnight.,rain,0.89,0.0082,0.0315,0.77,rain,84.34,76.26,74.6,0.84,1013.3,0.68,6,76.45,84.34,13.4443,144.7937
+Guam,,1/21/2020,Light rain in the morning and overnight.,rain,0.92,0.0094,0.0381,0.84,rain,84.54,76.23,74.84,0.85,1014.2,0.8,6,76.26,84.54,13.4443,144.7937
+Guam,,1/22/2020,Possible drizzle in the morning and overnight.,rain,0.95,0.0044,0.0156,0.6,rain,84.87,76.47,74.06,0.82,1014.6,0.58,7,76.23,84.87,13.4443,144.7937
+Guam,,1/23/2020,Humid throughout the day.,partly-cloudy-day,0.99,0.0006,0.0028,0.21,rain,85.68,77.07,71.48,0.74,1014.2,0.32,9,76.47,85.68,13.4443,144.7937
+Guam,,1/24/2020,Humid and partly cloudy throughout the day.,rain,0.02,0.002,0.0114,0.36,rain,85.11,76.56,73.33,0.79,1013.1,0.38,8,77.07,85.11,13.4443,144.7937
+Guam,,1/25/2020,Light rain and humid throughout the day.,rain,0.05,0.0087,0.028999999999999998,0.82,rain,84.09,76.37,73.7,0.82,1012.0,0.65,8,76.56,84.09,13.4443,144.7937
+Guam,,1/26/2020,Possible light rain in the morning and overnight.,rain,0.08,0.0051,0.0205,0.68,rain,84.97,76.42,74.21,0.82,1011.6,0.79,7,76.37,84.97,13.4443,144.7937
+Guam,,1/27/2020,Light rain in the morning.,rain,0.11,0.0129,0.0459,0.8,rain,84.0,77.73,75.86,0.87,1011.3,0.48,8,76.42,84.0,13.4443,144.7937
+Guam,,1/28/2020,Possible light rain in the morning and overnight.,rain,0.14,0.0054,0.0258,0.6,rain,84.54,76.78,75.54,0.85,1010.7,0.77,6,77.73,84.54,13.4443,144.7937
+Guam,,1/29/2020,Light rain in the morning and overnight.,rain,0.17,0.0067,0.0508,0.73,rain,85.3,76.75,75.35,0.84,1009.7,0.64,6,76.78,85.3,13.4443,144.7937
+Guam,,1/30/2020,Rain and humid throughout the day.,rain,0.2,0.0277,0.1101,0.98,rain,84.22,77.13,76.09,0.87,1009.7,0.54,9,76.75,84.22,13.4443,144.7937
+Guam,,1/31/2020,Rain and humid throughout the day.,rain,0.23,0.0464,0.1284,1.0,rain,80.91,75.84,75.76,0.9,1010.8,0.96,5,77.01,80.91,13.4443,144.7937
+Guam,,2/1/2020,Rain and humid throughout the day.,rain,0.26,0.0635,0.2251,1.0,rain,83.61,76.63,76.19,0.91,1011.2,0.73,6,75.84,83.61,13.4443,144.7937
+Guam,,2/2/2020,Light rain and humid throughout the day.,rain,0.29,0.0252,0.0506,0.97,rain,83.22,77.36,76.05,0.89,1011.3,0.82,6,76.63,83.22,13.4443,144.7937
+Guam,,2/3/2020,Light rain in the morning.,rain,0.33,0.0119,0.0732,0.84,rain,85.47,78.0,76.34,0.86,1011.6,0.81,6,77.36,85.47,13.4443,144.7937
+Guam,,2/4/2020,Humid and overcast throughout the day.,rain,0.36,0.0007,0.0044,0.36,rain,83.86,77.97,74.31,0.8,1011.9,0.87,6,78.0,83.86,13.4443,144.7937
+Guam,,2/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.39,0.0001,0.0003,0.13,rain,84.67,76.76,72.04,0.75,1013.2,0.32,8,77.85,84.67,13.4443,144.7937
+Guam,,2/6/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0013,0.0066,0.23,rain,86.6,77.26,74.87,0.82,1013.6,0.59,9,76.76,86.6,13.4443,144.7937
+Guam,,2/7/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.47,0.001,0.0028,0.23,rain,84.15,76.53,73.68,0.8,1012.4,0.44,10,77.26,84.15,13.4443,144.7937
+Guam,,2/8/2020,Humid and mostly cloudy throughout the day.,rain,0.51,0.0018,0.0034,0.27,rain,84.53,76.42,73.88,0.82,1011.7,0.69,6,76.53,84.53,13.4443,144.7937
+Guam,,2/9/2020,Humid and partly cloudy throughout the day.,rain,0.54,0.0036,0.0129,0.42,rain,84.69,75.83,74.57,0.83,1012.3,0.47,9,76.42,84.69,13.4443,144.7937
+Guam,,2/10/2020,Possible drizzle in the morning.,rain,0.58,0.0036,0.0105,0.56,rain,83.7,75.07,72.66,0.81,1014.6,0.44,9,75.83,83.7,13.4443,144.7937
+Guam,,2/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0006,0.0015,0.19,rain,82.38,75.68,67.91,0.71,1016.1,0.66,8,75.07,82.38,13.4443,144.7937
+Guam,,2/12/2020,Clear throughout the day.,partly-cloudy-day,0.66,0.001,0.0021,0.12,rain,82.82,75.47,67.75,0.7,1015.6,0.43,11,75.68,82.82,13.4443,144.7937
+Guam,,2/13/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.7,0.001,0.003,0.19,rain,82.99,75.36,69.47,0.73,1015.1,0.57,9,75.47,82.99,13.4443,144.7937
+Guam,,2/14/2020,Possible drizzle in the morning.,rain,0.73,0.0036,0.0125,0.42,rain,84.1,76.24,69.3,0.72,1014.5,0.72,6,75.36,84.1,13.4443,144.7937
+Guam,,2/15/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.77,0.0015,0.0058,0.18,rain,84.04,75.73,69.44,0.71,1014.0,0.49,10,76.24,84.04,13.4443,144.7937
+Guam,,2/16/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.8,0.002,0.0081,0.2,rain,83.44,75.79,70.2,0.73,1013.3,0.57,9,75.73,83.44,13.4443,144.7937
+Guam,,2/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0011,0.0075,0.16,rain,85.13,74.95,69.38,0.71,1012.7,0.34,9,75.79,85.13,13.4443,144.7937
+Guam,,2/18/2020,Possible drizzle in the morning.,rain,0.87,0.0031,0.015,0.43,rain,84.65,76.13,70.19,0.74,1012.9,0.21,10,74.95,84.65,13.4443,144.7937
+Guam,,2/19/2020,Clear throughout the day.,clear-day,0.9,0.0008,0.0017,0.17,rain,84.33,75.12,69.75,0.72,1013.6,0.21,10,76.13,84.33,13.4443,144.7937
+Guam,,2/20/2020,Humid throughout the day.,rain,0.93,0.0024,0.0087,0.41,rain,83.8,76.78,71.04,0.76,1014.7,0.24,9,75.12,83.8,13.4443,144.7937
+Guam,,2/21/2020,Humid throughout the day.,clear-day,0.96,0.0007,0.0027,0.2,rain,85.35,75.98,72.28,0.76,1015.1,0.2,10,76.78,85.35,13.4443,144.7937
+Guam,,2/22/2020,Humid throughout the day.,rain,0.99,0.0061,0.0196,0.39,rain,83.74,76.3,72.69,0.79,1015.1,0.29,11,75.98,83.74,13.4443,144.7937
+Guam,,2/23/2020,Possible drizzle overnight.,partly-cloudy-day,0.02,0.0004,0.0013,0.14,rain,84.28,75.46,70.06,0.73,1014.8,0.34,10,76.3,84.28,13.4443,144.7937
+Guam,,2/24/2020,Possible light rain in the morning.,rain,0.06,0.0085,0.0205,0.65,rain,84.21,77.13,73.26,0.81,1013.4,0.64,9,75.46,84.21,13.4443,144.7937
+Guam,,2/25/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.09,0.0006,0.0034,0.17,rain,85.39,76.26,73.04,0.78,1012.6,0.59,8,77.13,85.39,13.4443,144.7937
+Guam,,2/26/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.12,0.0006,0.0019,0.14,rain,85.42,75.61,72.46,0.77,1011.9,0.46,9,76.26,85.42,13.4443,144.7937
+Guam,,2/27/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.15,0.0003,0.0009,0.09,rain,84.66,75.79,71.34,0.76,1011.9,0.73,8,75.61,84.66,13.4443,144.7937
+Guam,,2/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.18,0.0002,0.0006,0.1,rain,84.97,75.99,69.77,0.72,1012.4,0.5,7,75.79,84.97,13.4443,144.7937
+Guam,,2/29/2020,Humid and mostly cloudy throughout the day.,rain,0.21,0.0026,0.0054,0.35,rain,85.87,77.28,74.59,0.82,1011.6,0.57,8,75.99,85.87,13.4443,144.7937
+Guam,,3/1/2020,Light rain until evening.,rain,0.24,0.0218,0.0807,0.84,rain,85.15,78.61,77.3,0.89,1011.5,0.64,11,77.28,85.15,13.4443,144.7937
+Guam,,3/2/2020,Humid and partly cloudy throughout the day.,rain,0.27,0.0011,0.0039,0.32,rain,85.51,78.44,76.96,0.86,1012.1,0.62,11,78.61,85.51,13.4443,144.7937
+Guam,,3/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0004,0.0015,0.1,rain,85.94,77.74,74.56,0.8,1012.7,0.49,11,78.44,85.94,13.4443,144.7937
+Guam,,3/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0004,0.06,rain,85.29,76.75,72.25,0.74,1012.2,0.48,10,77.74,85.29,13.4443,144.7937
+Guam,,3/5/2020,Humid throughout the day.,partly-cloudy-day,0.37,0.0003,0.0017,0.1,rain,85.59,75.39,70.55,0.72,1012.9,0.37,11,76.75,85.59,13.4443,144.7937
+Guam,,3/6/2020,Clear throughout the day.,clear-day,0.41,0.0005,0.0023,0.11,rain,84.85,75.45,70.32,0.73,1013.3,0.3,11,75.39,84.85,13.4443,144.7937
+Guam,,3/7/2020,Clear throughout the day.,partly-cloudy-day,0.45,0.0004,0.0009,0.11,rain,85.19,74.7,69.38,0.71,1012.3,0.42,12,75.45,85.19,13.4443,144.7937
+Guam,,3/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0012,0.0054,0.2,rain,85.6,75.9,70.65,0.74,1012.2,0.32,12,74.7,85.6,13.4443,144.7937
+Guam,,3/9/2020,Humid throughout the day.,clear-day,0.53,0.0001,0.0007,0.07,rain,86.21,76.42,71.35,0.74,1012.7,0.03,12,75.9,86.21,13.4443,144.7937
+Guam,,3/10/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0002,0.0005,0.08,rain,86.56,77.03,72.35,0.75,1014.6,0.36,12,76.42,86.56,13.4443,144.7937
+Guam,,3/11/2020,Humid and overcast throughout the day.,rain,0.61,0.0034,0.0244,0.34,rain,85.87,76.47,74.2,0.8,1014.9,0.86,6,77.03,85.87,13.4443,144.7937
+Guam,,3/12/2020,Light rain in the morning.,rain,0.64,0.0063,0.0229,0.77,rain,86.51,77.47,75.28,0.83,1013.5,0.59,9,76.47,86.51,13.4443,144.7937
+Guam,,3/13/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.68,0.0004,0.0037,0.22,rain,86.63,76.44,72.89,0.76,1011.5,0.59,9,77.47,86.63,13.4443,144.7937
+Guam,,3/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.0001,0.0003,0.08,rain,86.28,76.3,70.75,0.72,1012.0,0.57,8,76.44,86.28,13.4443,144.7937
+Guam,,3/15/2020,Possible drizzle overnight.,rain,0.75,0.0014,0.0137,0.35,rain,85.59,77.29,72.77,0.78,1013.3,0.55,8,76.3,85.59,13.4443,144.7937
+Guam,,3/16/2020,Humid and mostly cloudy throughout the day.,rain,0.78,0.0028,0.0138,0.57,rain,86.26,77.59,74.56,0.8,1014.0,0.8,7,77.29,86.26,13.4443,144.7937
+Guam,,3/17/2020,Humid and mostly cloudy throughout the day.,rain,0.82,0.0014,0.0097,0.26,rain,85.53,77.82,74.52,0.79,1013.9,0.55,8,77.59,85.53,13.4443,144.7937
+Guam,,3/18/2020,Humid and mostly cloudy throughout the day.,rain,0.85,0.0018,0.0114,0.35,rain,86.19,77.74,73.07,0.76,1014.6,0.76,7,77.82,86.19,13.4443,144.7937
+Guam,,3/19/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.88,0.0001,0.0005,0.05,rain,86.24,77.88,71.57,0.72,1014.1,0.75,8,77.74,86.24,13.4443,144.7937
+Guam,,3/20/2020,Humid and overcast throughout the day.,rain,0.91,0.0015,0.0067,0.43,rain,84.74,77.13,72.8,0.76,1014.0,0.9,6,77.88,84.74,13.4443,144.7937
+Guam,,3/21/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0006,0.0037,0.15,rain,86.06,77.24,71.73,0.74,1013.0,0.84,6,77.13,86.06,13.4443,144.7937
+Guam,,3/22/2020,Humid and mostly cloudy throughout the day.,rain,0.97,0.0037,0.0232,0.31,rain,85.93,76.74,73.59,0.79,1011.7,0.83,7,77.24,85.93,13.4443,144.7937
+Guam,,3/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.0,0.0002,0.0013,0.09,rain,84.96,76.52,69.77,0.7,1011.1,0.84,6,76.74,84.96,13.4443,144.7937
+Guam,,3/24/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0002,0.0003,0.1,rain,86.24,76.64,71.28,0.73,1012.0,0.74,7,76.52,86.24,13.4443,144.7937
+Guam,,3/25/2020,Possible drizzle overnight.,rain,0.06,0.0014,0.0103,0.3,rain,84.54,76.29,71.97,0.75,1013.2,0.74,7,76.64,84.54,13.4443,144.7937
+Guam,,3/26/2020,Possible drizzle overnight.,rain,0.09,0.0034,0.0122,0.57,rain,85.92,77.96,74.32,0.8,1012.9,0.58,7,76.29,85.92,13.4443,144.7937
+Guam,,3/27/2020,Humid and partly cloudy throughout the day.,rain,0.12,0.0046,0.0104,0.5,rain,85.12,77.47,75.49,0.83,1011.7,0.56,9,77.96,85.12,13.4443,144.7937
+Guam,,3/28/2020,Humid and mostly cloudy throughout the day.,rain,0.15,0.0022,0.009000000000000001,0.41,rain,87.44,78.26,74.75,0.8,1011.6,0.72,7,77.47,87.44,13.4443,144.7937
+Guam,,3/29/2020,Possible drizzle overnight.,rain,0.19,0.0022,0.0097,0.35,rain,86.56,77.35,74.1,0.78,1011.6,0.54,8,78.26,86.56,13.4443,144.7937
+Guam,,3/30/2020,Possible light rain in the morning.,rain,0.22,0.0093,0.0318,0.7,rain,85.88,77.28,75.09,0.82,1012.2,0.45,11,77.35,85.88,13.4443,144.7937
+Guam,,3/31/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.25,0.0013,0.0081,0.17,rain,86.21,77.13,73.62,0.78,1012.4,0.73,9,77.28,86.21,13.4443,144.7937
+Guam,,4/1/2020,Humid and mostly cloudy throughout the day.,rain,0.29,0.0021,0.0076,0.29,rain,86.35,77.2,73.74,0.78,1012.8,0.66,6,77.13,86.35,13.4443,144.7937
+Guam,,4/2/2020,Humid and partly cloudy throughout the day.,rain,0.32,0.0014,0.0092,0.35,rain,85.94,77.09,72.97,0.77,1012.8,0.43,9,77.2,85.94,13.4443,144.7937
+Guam,,4/3/2020,Possible drizzle overnight.,partly-cloudy-day,0.36,0.0008,0.0037,0.15,rain,86.9,76.93,70.67,0.71,1012.5,0.36,10,77.09,86.9,13.4443,144.7937
+Guam,,4/4/2020,Light rain in the morning and afternoon.,rain,0.4,0.0144,0.0508,0.8,rain,84.61,76.71,75.27,0.85,1011.9,0.59,8,76.93,84.61,13.4443,144.7937
+Guam,,4/5/2020,Humid and partly cloudy throughout the day.,rain,0.44,0.0012,0.0073,0.36,rain,86.7,77.03,73.87,0.78,1012.1,0.27,10,76.71,86.7,13.4443,144.7937
+Guam,,4/6/2020,Humid and partly cloudy throughout the day.,rain,0.47,0.0021,0.0044,0.27,rain,85.95,77.73,74.16,0.79,1011.4,0.33,10,77.03,85.95,13.4443,144.7937
+Guam,,4/7/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.51,0.0011,0.0035,0.19,rain,86.9,78.51,73.32,0.76,1011.8,0.37,12,77.73,86.9,13.4443,144.7937
+Guam,,4/8/2020,Humid and partly cloudy throughout the day.,rain,0.55,0.0022,0.0088,0.43,rain,86.72,78.13,75.12,0.8,1012.9,0.35,10,78.51,86.72,13.4443,144.7937
+Guam,,4/9/2020,Possible light rain in the morning.,rain,0.59,0.0036,0.0193,0.44,rain,87.5,77.72,74.36,0.77,1013.5,0.55,11,78.13,87.5,13.4443,144.7937
+Guam,,4/10/2020,Humid and partly cloudy throughout the day.,clear-day,0.63,0.0004,0.0028,0.09,rain,86.41,77.02,73.79,0.77,1012.7,0.31,10,77.72,86.41,13.4443,144.7937
+Guam,,4/11/2020,Humid and partly cloudy throughout the day.,rain,0.67,0.0031,0.0156,0.35,rain,87.09,76.46,73.35,0.76,1011.7,0.51,11,77.02,87.09,13.4443,144.7937
+Guam,,4/12/2020,Humid throughout the day.,clear-day,0.7,0.0019,0.0115,0.13,rain,87.65,76.7,72.12,0.73,1012.1,0.27,12,76.46,87.65,13.4443,144.7937
+Guam,,4/13/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.0001,0.0003,0.05,rain,87.02,77.18,72.17,0.73,1013.3,0.56,9,76.7,87.02,13.4443,144.7937
+Guam,,4/14/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.77,0.0004,0.0016,0.08,rain,86.64,77.63,73.32,0.76,1013.2,0.62,7,77.18,86.64,13.4443,144.7937
+Guam,,4/15/2020,Possible light rain starting in the afternoon.,rain,0.8,0.0074,0.0295,0.7,rain,85.68,78.19,75.19,0.82,1013.2,0.65,9,77.63,85.68,13.4443,144.7937
+Guam,,4/16/2020,Possible light rain in the morning.,rain,0.83,0.0049,0.0245,0.69,rain,87.75,79.11,76.07,0.81,1013.8,0.47,9,78.19,87.75,13.4443,144.7937
+Guam,,4/17/2020,Possible light rain overnight.,rain,0.86,0.0033,0.0246,0.4,rain,88.93,78.92,75.79,0.78,1013.5,0.75,9,79.11,88.93,13.4443,144.7937
+Guam,,4/18/2020,Humid and mostly cloudy throughout the day.,rain,0.89,0.0031,0.0255,0.46,rain,88.28,79.64,75.87,0.79,1013.1,0.76,8,78.92,88.28,13.4443,144.7937
+Guam,,4/19/2020,Humid and mostly cloudy throughout the day.,rain,0.92,0.0023,0.0116,0.29,rain,87.07,78.91,76.05,0.8,1013.1,0.53,7,79.64,87.07,13.4443,144.7937
+Guam,,4/20/2020,Humid throughout the day.,rain,0.95,0.0036,0.0115,0.45,rain,87.07,78.09,76.82,0.83,1012.6,0.27,10,78.91,87.07,13.4443,144.7937

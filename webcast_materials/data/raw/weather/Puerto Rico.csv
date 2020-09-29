@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Puerto Rico,,12/31/2019,Rain until evening.,rain,0.19,0.0358,0.3462,0.94,rain,74.6,63.43,66.44,0.98,1015.2,0.5,7,62.97,74.6,18.2,-66.5
+Puerto Rico,,1/1/2020,Mostly cloudy throughout the day.,rain,0.22,0.0021,0.0101,0.58,rain,72.44,63.78,66.44,1.0,1015.6,0.52,5,63.43,72.44,18.2,-66.5
+Puerto Rico,,1/2/2020,Rain in the evening and overnight.,rain,0.25,0.0035,0.0208,0.54,rain,74.35,64.09,66.38,0.97,1016.7,0.63,6,63.78,74.35,18.2,-66.5
+Puerto Rico,,1/3/2020,Light rain until evening.,rain,0.28,0.0241,0.1001,0.84,rain,71.83,62.13,66.39,1.0,1018.4,0.71,5,63.4,71.83,18.2,-66.5
+Puerto Rico,,1/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.31,0.0009,0.006,0.2,rain,72.05,60.49,63.8,0.95,1018.7,0.43,5,61.31,72.05,18.2,-66.5
+Puerto Rico,,1/5/2020,Possible light rain throughout the day.,rain,0.34,0.0035,0.0343,0.59,rain,73.44,61.44,63.65,0.95,1017.0,0.45,6,60.49,73.44,18.2,-66.5
+Puerto Rico,,1/6/2020,Light rain until evening.,rain,0.37,0.0168,0.0797,0.86,rain,72.64,60.41,64.74,0.98,1016.1,0.69,5,61.44,72.64,18.2,-66.5
+Puerto Rico,,1/7/2020,Possible drizzle in the morning.,rain,0.4,0.001,0.0071,0.66,rain,74.51,60.8,62.78,0.91,1017.3,0.28,7,60.41,74.51,18.2,-66.5
+Puerto Rico,,1/8/2020,Possible light rain in the morning and afternoon.,rain,0.44,0.0041,0.0171,0.63,rain,73.11,61.86,65.01,0.98,1019.2,0.34,6,60.8,73.11,18.2,-66.5
+Puerto Rico,,1/9/2020,Rain throughout the day.,rain,0.47,0.01,0.1217,0.75,rain,73.29,62.02,64.88,0.96,1020.5,0.49,6,61.86,73.29,18.2,-66.5
+Puerto Rico,,1/10/2020,Light rain starting in the afternoon.,rain,0.51,0.0052,0.0177,0.68,rain,71.44,61.76,63.53,0.92,1020.5,0.47,6,62.2,71.44,18.2,-66.5
+Puerto Rico,,1/11/2020,Partly cloudy throughout the day.,rain,0.55,0.0033,0.0162,0.65,rain,70.22,62.82,62.86,0.91,1020.4,0.35,6,61.75,70.22,18.2,-66.5
+Puerto Rico,,1/12/2020,Rain in the afternoon and evening.,rain,0.58,0.0149,0.1604,0.81,rain,72.42,61.84,64.12,0.93,1020.6,0.53,6,62.82,72.42,18.2,-66.5
+Puerto Rico,,1/13/2020,Light rain starting in the afternoon.,rain,0.62,0.0037,0.0171,0.67,rain,72.06,60.18,62.63,0.92,1020.5,0.52,6,61.84,72.06,18.2,-66.5
+Puerto Rico,,1/14/2020,Light rain until evening.,rain,0.66,0.0074,0.0502,0.93,rain,71.28,60.9,62.11,0.91,1018.6,0.49,6,60.18,71.28,18.2,-66.5
+Puerto Rico,,1/15/2020,Possible drizzle throughout the day.,rain,0.69,0.0033,0.0073,0.88,rain,71.33,59.58,63.32,0.95,1017.5,0.52,5,60.89,71.33,18.2,-66.5
+Puerto Rico,,1/16/2020,Possible drizzle in the evening and overnight.,rain,0.73,0.0016,0.0134,0.45,rain,73.51,59.73,61.32,0.89,1018.8,0.27,7,59.58,73.51,18.2,-66.5
+Puerto Rico,,1/17/2020,Possible drizzle in the morning.,rain,0.77,0.0006,0.004,0.5,rain,74.01,60.0,63.03,0.93,1018.8,0.4,7,59.73,74.01,18.2,-66.5
+Puerto Rico,,1/18/2020,"Light rain until morning, starting again in the evening.",rain,0.8,0.0061,0.0501,0.85,rain,71.55,60.65,62.21,0.94,1019.5,0.5,6,60.0,71.55,18.2,-66.5
+Puerto Rico,,1/19/2020,"Light rain until morning, starting again in the evening.",rain,0.84,0.0036,0.0101,0.71,rain,71.24,61.63,63.38,0.97,1018.6,0.7,6,60.65,71.24,18.2,-66.5
+Puerto Rico,,1/20/2020,Light rain in the morning and afternoon.,rain,0.87,0.0078,0.027999999999999997,0.89,rain,72.4,60.55,64.37,0.96,1016.9,0.63,6,61.63,72.4,18.2,-66.5
+Puerto Rico,,1/21/2020,Partly cloudy throughout the day.,rain,0.91,0.0005,0.0021,0.26,rain,73.2,60.2,62.88,0.93,1015.2,0.46,7,60.55,73.2,18.2,-66.5
+Puerto Rico,,1/22/2020,Light rain throughout the day.,rain,0.94,0.0094,0.0979,0.77,rain,71.73,62.2,64.32,0.98,1013.5,0.72,6,60.2,71.73,18.2,-66.5
+Puerto Rico,,1/23/2020,Rain until evening.,rain,0.97,0.0272,0.1388,0.9,rain,72.25,60.37,65.16,0.98,1012.7,0.69,6,62.2,72.25,18.2,-66.5
+Puerto Rico,,1/24/2020,Light rain throughout the day.,rain,0.0,0.0205,0.0964,0.84,rain,71.85,59.84,64.24,0.98,1014.3,0.67,7,60.37,71.85,18.2,-66.5
+Puerto Rico,,1/25/2020,Light rain throughout the day.,rain,0.04,0.0149,0.0515,0.92,rain,71.65,61.3,64.02,0.98,1015.7,0.55,8,59.84,71.65,18.2,-66.5
+Puerto Rico,,1/26/2020,Heavy rain until evening.,rain,0.07,0.0673,0.5967,0.96,rain,70.75,60.51,63.93,0.98,1015.9,0.58,8,61.3,70.75,18.2,-66.5
+Puerto Rico,,1/27/2020,Possible light rain until evening.,rain,0.1,0.0153,0.0792,0.76,rain,71.8,60.4,64.16,0.98,1015.7,0.29,8,60.51,71.8,18.2,-66.5
+Puerto Rico,,1/28/2020,Partly cloudy throughout the day.,rain,0.13,0.0016,0.0104,0.41,rain,73.94,59.92,63.55,0.94,1015.1,0.26,8,60.4,73.94,18.2,-66.5
+Puerto Rico,,1/29/2020,Possible drizzle in the morning.,rain,0.16,0.0159,0.1239,0.66,rain,74.34,60.8,62.56,0.92,1015.6,0.44,9,59.92,74.34,18.2,-66.5
+Puerto Rico,,1/30/2020,Possible drizzle in the morning and overnight.,rain,0.19,0.0042,0.0194,0.62,rain,74.44,60.17,63.56,0.93,1016.4,0.34,8,60.8,74.44,18.2,-66.5
+Puerto Rico,,1/31/2020,Rain throughout the day.,rain,0.22,0.0206,0.1433,0.86,rain,74.77,62.22,63.85,0.94,1017.8,0.32,8,60.17,74.77,18.2,-66.5
+Puerto Rico,,2/1/2020,Partly cloudy throughout the day.,rain,0.25,0.0011,0.0087,0.35,rain,73.97,59.85,64.75,0.94,1017.9,0.34,7,62.22,73.97,18.2,-66.5
+Puerto Rico,,2/2/2020,"Possible light rain until morning, starting again in the evening.",rain,0.28,0.0079,0.0707,0.58,rain,75.87,60.06,62.51,0.9,1017.2,0.27,10,59.85,75.87,18.2,-66.5
+Puerto Rico,,2/3/2020,Possible light rain in the morning.,rain,0.31,0.0026,0.0395,0.54,rain,74.34,61.01,63.07,0.91,1018.5,0.36,8,60.06,74.34,18.2,-66.5
+Puerto Rico,,2/4/2020,Mostly cloudy throughout the day.,rain,0.35,0.0005,0.0027,0.44,rain,73.69,60.22,63.33,0.92,1018.9,0.43,7,61.01,73.69,18.2,-66.5
+Puerto Rico,,2/5/2020,Partly cloudy throughout the day.,rain,0.38,0.0016,0.008,0.38,rain,73.79,62.42,63.43,0.92,1018.7,0.32,7,60.22,73.79,18.2,-66.5
+Puerto Rico,,2/6/2020,Partly cloudy throughout the day.,rain,0.42,0.0012,0.0057,0.43,rain,74.99,61.78,63.93,0.91,1017.7,0.3,7,62.42,74.99,18.2,-66.5
+Puerto Rico,,2/7/2020,Light rain in the afternoon and evening.,rain,0.45,0.0028,0.0193,0.7,rain,74.62,62.25,64.16,0.91,1019.0,0.32,8,61.78,74.62,18.2,-66.5
+Puerto Rico,,2/8/2020,Possible drizzle throughout the day.,rain,0.49,0.0029,0.0124,0.55,rain,73.96,60.98,62.64,0.89,1019.5,0.43,8,62.08,73.96,18.2,-66.5
+Puerto Rico,,2/9/2020,Partly cloudy throughout the day.,rain,0.53,0.0012,0.0034,0.46,rain,73.82,61.24,62.74,0.9,1019.9,0.46,7,60.98,73.82,18.2,-66.5
+Puerto Rico,,2/10/2020,Drizzle in the morning.,rain,0.57,0.0015,0.0079,0.69,rain,73.32,60.7,63.15,0.91,1019.8,0.42,7,61.24,73.32,18.2,-66.5
+Puerto Rico,,2/11/2020,Partly cloudy throughout the day.,rain,0.61,0.0014,0.0129,0.26,rain,73.22,60.81,62.14,0.89,1019.7,0.42,7,60.7,73.22,18.2,-66.5
+Puerto Rico,,2/12/2020,Light rain until evening.,rain,0.64,0.0035,0.037000000000000005,0.67,rain,73.9,60.97,63.12,0.92,1018.8,0.44,7,60.81,73.9,18.2,-66.5
+Puerto Rico,,2/13/2020,Clear throughout the day.,partly-cloudy-day,0.68,0.0003,0.0008,0.23,rain,75.31,61.08,61.77,0.87,1018.2,0.32,8,60.97,75.31,18.2,-66.5
+Puerto Rico,,2/14/2020,Light rain in the afternoon and evening.,rain,0.72,0.0051,0.0484,0.84,rain,73.93,60.68,62.99,0.91,1018.7,0.32,8,61.08,73.93,18.2,-66.5
+Puerto Rico,,2/15/2020,Possible drizzle overnight.,rain,0.75,0.0033,0.0132,0.45,rain,72.99,61.28,64.01,0.95,1017.6,0.33,8,60.68,72.99,18.2,-66.5
+Puerto Rico,,2/16/2020,Possible drizzle until evening.,rain,0.79,0.0033,0.0123,0.75,rain,73.51,61.68,64.12,0.95,1016.5,0.44,8,61.28,73.51,18.2,-66.5
+Puerto Rico,,2/17/2020,Possible drizzle overnight.,rain,0.82,0.0015,0.0035,0.41,rain,73.92,62.35,63.54,0.91,1016.8,0.48,8,61.68,73.92,18.2,-66.5
+Puerto Rico,,2/18/2020,Partly cloudy throughout the day.,rain,0.85,0.0021,0.0101,0.63,rain,73.95,61.17,63.41,0.9,1018.1,0.51,7,62.35,73.95,18.2,-66.5
+Puerto Rico,,2/19/2020,Possible light rain in the afternoon and evening.,rain,0.89,0.0046,0.0298,0.69,rain,72.51,60.49,63.24,0.92,1018.1,0.5,6,61.17,72.51,18.2,-66.5
+Puerto Rico,,2/20/2020,Clear throughout the day.,rain,0.92,0.0014,0.0057,0.4,rain,73.23,59.35,61.19,0.87,1017.0,0.27,9,60.49,73.23,18.2,-66.5
+Puerto Rico,,2/21/2020,Light rain starting in the afternoon.,rain,0.95,0.005,0.0342,0.71,rain,74.89,59.99,61.38,0.89,1016.2,0.34,10,59.35,74.89,18.2,-66.5
+Puerto Rico,,2/22/2020,Clear throughout the day.,rain,0.98,0.0142,0.1175,0.61,rain,73.82,59.09,62.17,0.91,1015.4,0.39,10,59.99,73.82,18.2,-66.5
+Puerto Rico,,2/23/2020,Rain throughout the day.,rain,0.01,0.0188,0.1188,0.92,rain,73.23,61.03,61.87,0.92,1015.0,0.36,9,59.09,73.23,18.2,-66.5
+Puerto Rico,,2/24/2020,Rain throughout the day.,rain,0.04,0.0355,0.163,0.94,rain,68.21,61.6,63.27,0.99,1016.0,0.7,7,61.03,68.21,18.2,-66.5
+Puerto Rico,,2/25/2020,Light rain throughout the day.,rain,0.07,0.0248,0.0735,0.89,rain,69.25,62.46,64.51,1.0,1016.7,0.84,6,61.6,69.25,18.2,-66.5
+Puerto Rico,,2/26/2020,Possible drizzle in the morning.,rain,0.1,0.0039,0.0157,0.69,rain,72.76,59.17,65.2,0.98,1017.0,0.7,7,61.87,72.76,18.2,-66.5
+Puerto Rico,,2/27/2020,Clear throughout the day.,clear-day,0.13,0.0,0.0002,0.07,,75.4,59.69,60.98,0.88,1017.3,0.13,11,59.17,75.4,18.2,-66.5
+Puerto Rico,,2/28/2020,Partly cloudy throughout the day.,rain,0.16,0.0015,0.0057,0.28,rain,74.62,59.28,63.23,0.92,1017.6,0.43,8,59.69,74.62,18.2,-66.5
+Puerto Rico,,2/29/2020,Possible drizzle in the morning.,rain,0.19,0.001,0.0049,0.48,rain,76.53,61.06,61.9,0.87,1017.9,0.25,10,59.28,76.53,18.2,-66.5
+Puerto Rico,,3/1/2020,Rain in the evening.,rain,0.22,0.044000000000000004,0.3604,0.84,rain,74.24,61.19,63.26,0.92,1017.8,0.43,8,61.06,74.24,18.2,-66.5
+Puerto Rico,,3/2/2020,Rain until evening.,rain,0.26,0.0443,0.2887,0.9,rain,71.23,60.84,64.27,0.99,1017.4,0.63,7,61.19,71.23,18.2,-66.5
+Puerto Rico,,3/3/2020,Partly cloudy throughout the day.,rain,0.29,0.0007,0.0035,0.32,rain,72.27,60.85,63.56,0.94,1017.7,0.36,8,60.84,72.27,18.2,-66.5
+Puerto Rico,,3/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.32,0.0001,0.0011,0.13,rain,74.76,60.26,62.6,0.88,1018.7,0.37,8,60.85,74.76,18.2,-66.5
+Puerto Rico,,3/5/2020,Partly cloudy throughout the day.,clear-day,0.36,0.0007,0.0033,0.24,rain,74.97,60.7,62.23,0.88,1019.1,0.27,9,60.26,74.97,18.2,-66.5
+Puerto Rico,,3/6/2020,Light rain in the afternoon.,rain,0.4,0.0047,0.0422,0.69,rain,72.59,59.52,63.38,0.94,1018.0,0.4,8,60.7,72.59,18.2,-66.5
+Puerto Rico,,3/7/2020,Partly cloudy throughout the day.,rain,0.43,0.0034,0.0182,0.34,rain,76.61,61.18,62.67,0.9,1015.8,0.4,10,59.52,76.61,18.2,-66.5
+Puerto Rico,,3/8/2020,Light rain starting in the afternoon.,rain,0.47,0.0042,0.0452,0.76,rain,71.97,61.44,63.16,0.94,1017.4,0.48,8,61.18,71.97,18.2,-66.5
+Puerto Rico,,3/9/2020,Rain throughout the day.,rain,0.51,0.0644,0.14,1.0,rain,67.08,60.97,63.73,1.0,1019.2,0.85,6,61.44,67.08,18.2,-66.5
+Puerto Rico,,3/10/2020,Light rain until evening.,rain,0.55,0.0077,0.0402,0.95,rain,72.0,60.02,62.92,0.94,1018.1,0.72,8,60.97,72.0,18.2,-66.5
+Puerto Rico,,3/11/2020,Rain in the afternoon and evening.,rain,0.59,0.0291,0.1573,0.91,rain,72.12,60.7,63.61,0.96,1015.1,0.47,10,60.02,72.12,18.2,-66.5
+Puerto Rico,,3/12/2020,Partly cloudy throughout the day.,rain,0.63,0.001,0.0048,0.47,rain,72.79,60.02,63.12,0.93,1013.7,0.4,8,60.7,72.79,18.2,-66.5
+Puerto Rico,,3/13/2020,Rain starting in the afternoon.,rain,0.67,0.0349,0.2781,0.91,rain,73.61,60.65,63.35,0.96,1015.6,0.24,10,60.02,73.61,18.2,-66.5
+Puerto Rico,,3/14/2020,Rain throughout the day.,rain,0.7,0.0146,0.131,0.89,rain,70.89,59.96,64.17,0.98,1016.6,0.47,8,60.65,70.89,18.2,-66.5
+Puerto Rico,,3/15/2020,Partly cloudy throughout the day.,rain,0.74,0.0012,0.0219,0.76,rain,70.64,59.13,60.65,0.9,1016.8,0.37,9,59.96,70.64,18.2,-66.5
+Puerto Rico,,3/16/2020,Light rain starting in the afternoon.,rain,0.77,0.0051,0.026000000000000002,0.55,rain,70.67,61.32,62.39,0.95,1016.1,0.55,7,59.13,70.67,18.2,-66.5
+Puerto Rico,,3/17/2020,Light rain throughout the day.,rain,0.8,0.0183,0.0482,0.85,rain,73.03,61.12,64.28,0.96,1016.5,0.76,7,61.32,73.03,18.2,-66.5
+Puerto Rico,,3/18/2020,Light rain throughout the day.,rain,0.84,0.0151,0.0722,0.88,rain,68.93,61.03,64.55,1.0,1018.0,0.67,7,61.12,68.93,18.2,-66.5
+Puerto Rico,,3/19/2020,Rain throughout the day.,rain,0.87,0.0328,0.2153,0.84,rain,72.23,60.76,64.1,0.96,1019.0,0.55,8,61.03,72.23,18.2,-66.5
+Puerto Rico,,3/20/2020,"Rain until morning, starting again in the evening.",rain,0.9,0.0265,0.1702,0.95,rain,71.69,59.95,62.61,0.92,1019.4,0.57,8,60.76,71.69,18.2,-66.5
+Puerto Rico,,3/21/2020,Rain throughout the day.,rain,0.93,0.0216,0.11900000000000001,0.92,rain,70.78,59.98,62.4,0.94,1018.5,0.65,7,59.95,70.78,18.2,-66.5
+Puerto Rico,,3/22/2020,"Light rain until morning, starting again in the evening.",rain,0.96,0.0055,0.0163,0.82,rain,71.71,61.38,63.43,0.96,1018.5,0.6,7,59.98,71.71,18.2,-66.5
+Puerto Rico,,3/23/2020,Rain until evening.,rain,0.99,0.0225,0.1034,0.98,rain,69.55,60.27,63.88,0.98,1019.6,0.79,5,61.38,69.55,18.2,-66.5
+Puerto Rico,,3/24/2020,Possible light rain starting in the afternoon.,rain,0.02,0.0042,0.0218,0.62,rain,71.8,61.34,63.43,0.96,1018.4,0.65,6,60.27,71.8,18.2,-66.5
+Puerto Rico,,3/25/2020,Possible drizzle in the morning.,rain,0.05,0.0101,0.0747,0.76,rain,71.86,59.12,63.79,0.93,1015.7,0.61,9,61.34,71.86,18.2,-66.5
+Puerto Rico,,3/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.08,0.0004,0.0024,0.15,rain,76.12,58.38,61.32,0.87,1014.3,0.32,10,59.12,76.12,18.2,-66.5
+Puerto Rico,,3/27/2020,Rain in the afternoon and evening.,rain,0.11,0.0404,0.3844,0.85,rain,75.28,60.56,61.47,0.9,1013.9,0.33,11,58.38,75.28,18.2,-66.5
+Puerto Rico,,3/28/2020,Possible light rain starting in the afternoon.,rain,0.14,0.0017,0.0172,0.53,rain,74.6,62.25,64.28,0.94,1015.6,0.42,10,60.56,74.6,18.2,-66.5
+Puerto Rico,,3/29/2020,Possible drizzle in the morning.,rain,0.17,0.0008,0.0051,0.51,rain,75.27,60.45,64.11,0.91,1017.8,0.45,9,62.25,75.27,18.2,-66.5
+Puerto Rico,,3/30/2020,Possible drizzle in the evening and overnight.,rain,0.2,0.0007,0.0087,0.43,rain,73.82,59.34,62.74,0.9,1017.0,0.45,8,60.45,73.82,18.2,-66.5
+Puerto Rico,,3/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0004,0.0022,0.11,rain,76.14,60.01,62.3,0.88,1014.4,0.32,11,59.34,76.14,18.2,-66.5
+Puerto Rico,,4/1/2020,Possible drizzle in the morning.,rain,0.27,0.0003,0.0041,0.42,rain,75.67,60.59,61.58,0.86,1013.3,0.09,13,60.01,75.67,18.2,-66.5
+Puerto Rico,,4/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0008,0.0042,0.15,rain,76.52,60.37,62.78,0.88,1014.3,0.37,9,60.59,76.52,18.2,-66.5
+Puerto Rico,,4/3/2020,Possible light rain in the evening.,rain,0.34,0.0093,0.0731,0.47,rain,77.42,60.45,63.76,0.9,1013.7,0.4,9,60.37,77.42,18.2,-66.5
+Puerto Rico,,4/4/2020,Rain throughout the day.,rain,0.38,0.0228,0.1922,0.68,rain,77.43,60.37,64.59,0.93,1013.1,0.49,11,60.45,77.43,18.2,-66.5
+Puerto Rico,,4/5/2020,Rain in the evening and overnight.,rain,0.42,0.0187,0.1381,0.7,rain,77.95,63.65,65.23,0.94,1014.6,0.54,9,60.37,77.95,18.2,-66.5
+Puerto Rico,,4/6/2020,Possible light rain overnight.,rain,0.46,0.0332,0.2287,0.59,rain,79.06,64.26,67.0,0.95,1015.9,0.67,9,63.65,79.06,18.2,-66.5
+Puerto Rico,,4/7/2020,Humid and mostly cloudy throughout the day.,rain,0.5,0.0126,0.036000000000000004,0.71,rain,74.23,63.66,67.45,0.99,1016.4,0.77,8,64.26,74.23,18.2,-66.5
+Puerto Rico,,4/8/2020,Light rain until evening.,rain,0.54,0.0237,0.0844,0.81,rain,70.95,63.64,67.15,1.0,1014.8,0.74,8,63.66,70.95,18.2,-66.5
+Puerto Rico,,4/9/2020,Mostly cloudy throughout the day.,rain,0.58,0.0023,0.0107,0.44,rain,75.26,62.89,67.16,0.96,1014.1,0.48,8,63.64,75.26,18.2,-66.5
+Puerto Rico,,4/10/2020,Partly cloudy throughout the day.,clear-day,0.61,0.0013,0.0088,0.12,rain,78.76,62.85,66.49,0.92,1014.4,0.28,11,62.89,78.76,18.2,-66.5
+Puerto Rico,,4/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0012,0.005,0.2,rain,78.32,64.31,67.45,0.93,1016.2,0.43,11,62.85,78.32,18.2,-66.5
+Puerto Rico,,4/12/2020,Possible drizzle in the morning.,rain,0.69,0.0008,0.0051,0.52,rain,79.28,63.86,67.19,0.92,1018.3,0.49,8,64.31,79.28,18.2,-66.5
+Puerto Rico,,4/13/2020,Mostly cloudy throughout the day.,rain,0.72,0.0023,0.0191,0.41,rain,74.05,63.21,67.49,0.98,1018.5,0.57,7,63.86,74.05,18.2,-66.5
+Puerto Rico,,4/14/2020,Mostly cloudy throughout the day.,rain,0.75,0.0012,0.0051,0.44,rain,76.9,61.97,66.04,0.93,1017.2,0.56,7,63.21,76.9,18.2,-66.5
+Puerto Rico,,4/15/2020,"Light rain until afternoon, starting again overnight.",rain,0.78,0.0087,0.0468,0.72,rain,73.34,61.86,66.14,0.97,1016.5,0.48,8,61.97,73.34,18.2,-66.5
+Puerto Rico,,4/16/2020,Partly cloudy throughout the day.,rain,0.82,0.0013,0.0059,0.5,rain,76.34,61.01,64.7,0.9,1017.8,0.37,9,61.86,76.34,18.2,-66.5
+Puerto Rico,,4/17/2020,Light rain in the afternoon and evening.,rain,0.85,0.0092,0.0839,0.76,rain,77.31,61.74,65.14,0.92,1018.7,0.34,8,61.01,77.31,18.2,-66.5
+Puerto Rico,,4/18/2020,Possible light rain in the afternoon and evening.,rain,0.88,0.0083,0.0756,0.59,rain,78.77,62.75,65.4,0.92,1017.9,0.41,10,61.74,78.77,18.2,-66.5
+Puerto Rico,,4/19/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0007,0.13,rain,78.96,62.12,64.94,0.87,1017.3,0.22,11,62.75,78.96,18.2,-66.5
+Puerto Rico,,4/20/2020,Partly cloudy throughout the day.,clear-day,0.94,0.001,0.0057,0.15,rain,77.65,62.33,65.13,0.9,1016.8,0.25,10,62.12,77.65,18.2,-66.5

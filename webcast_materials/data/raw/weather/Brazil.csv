@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Brazil,,12/31/2019,Light rain until evening.,rain,0.19,0.0295,0.0718,0.93,rain,88.69,70.31,74.37,0.87,1008.6,0.9,6,71.04,88.69,-14.235,-51.9253
+Brazil,,1/1/2020,Rain starting in the afternoon.,rain,0.22,0.0201,0.175,0.77,rain,91.93,69.17,72.48,0.81,1008.8,0.91,8,70.31,91.93,-14.235,-51.9253
+Brazil,,1/2/2020,Light rain in the morning and overnight.,rain,0.25,0.0164,0.1424,0.89,rain,86.34,70.91,72.39,0.86,1009.9,1.0,6,69.17,86.34,-14.235,-51.9253
+Brazil,,1/3/2020,Possible light rain in the morning.,rain,0.28,0.0082,0.0298,0.76,rain,86.66,71.75,73.4,0.87,1010.0,0.91,6,70.91,86.66,-14.235,-51.9253
+Brazil,,1/4/2020,Light rain in the morning and afternoon.,rain,0.31,0.0128,0.0429,0.83,rain,79.47,70.61,73.54,0.95,1009.6,0.99,6,71.75,79.47,-14.235,-51.9253
+Brazil,,1/5/2020,Light rain and humid throughout the day.,rain,0.34,0.0183,0.0462,0.89,rain,76.65,71.26,73.11,0.99,1009.7,0.94,7,70.61,76.65,-14.235,-51.9253
+Brazil,,1/6/2020,Light rain until evening.,rain,0.37,0.0119,0.0477,0.89,rain,83.64,70.52,74.3,0.94,1010.6,0.98,7,71.26,83.64,-14.235,-51.9253
+Brazil,,1/7/2020,Possible light rain in the afternoon and evening.,rain,0.4,0.0035,0.0216,0.6,rain,85.8,70.54,73.65,0.89,1011.9,0.96,6,70.52,85.8,-14.235,-51.9253
+Brazil,,1/8/2020,"Possible light rain until afternoon, starting again overnight.",rain,0.44,0.009000000000000001,0.0296,0.78,rain,87.81,72.12,72.89,0.84,1011.8,0.88,8,70.54,87.81,-14.235,-51.9253
+Brazil,,1/9/2020,Possible light rain in the morning and afternoon.,rain,0.47,0.0099,0.0386,0.82,rain,84.78,68.76,74.05,0.88,1012.4,0.84,8,72.12,84.78,-14.235,-51.9253
+Brazil,,1/10/2020,Possible light rain overnight.,rain,0.51,0.0002,0.0007,0.28,rain,91.12,72.02,71.98,0.75,1010.7,0.77,6,68.76,91.12,-14.235,-51.9253
+Brazil,,1/11/2020,Light rain and humid throughout the day.,rain,0.55,0.019,0.0502,0.92,rain,90.68,70.45,73.85,0.81,1009.9,0.97,6,72.02,90.68,-14.235,-51.9253
+Brazil,,1/12/2020,Possible drizzle in the morning.,rain,0.58,0.0051,0.0243,0.61,rain,89.42,70.94,74.04,0.84,1011.4,0.73,6,70.45,89.42,-14.235,-51.9253
+Brazil,,1/13/2020,Humid and mostly cloudy throughout the day.,rain,0.62,0.0016,0.0088,0.42,rain,88.88,69.46,72.1,0.79,1012.1,0.58,6,70.94,88.88,-14.235,-51.9253
+Brazil,,1/14/2020,Humid and partly cloudy throughout the day.,rain,0.66,0.0017,0.0072,0.4,rain,91.34,70.5,71.05,0.74,1011.1,0.42,11,69.46,91.34,-14.235,-51.9253
+Brazil,,1/15/2020,Possible light rain starting in the afternoon.,rain,0.69,0.0105,0.0453,0.63,rain,93.95,71.89,72.72,0.76,1010.1,0.38,11,70.5,93.95,-14.235,-51.9253
+Brazil,,1/16/2020,Humid and partly cloudy throughout the day.,rain,0.73,0.0067,0.0189,0.63,rain,94.78,73.14,74.19,0.77,1011.6,0.45,11,71.99,94.78,-14.235,-51.9253
+Brazil,,1/17/2020,Possible light rain in the morning.,rain,0.77,0.0034,0.0215,0.58,rain,93.3,72.53,71.64,0.74,1012.5,0.79,10,73.14,93.3,-14.235,-51.9253
+Brazil,,1/18/2020,Humid and overcast throughout the day.,rain,0.8,0.0041,0.0412,0.42,rain,93.27,70.49,70.51,0.7,1012.7,0.91,7,72.53,93.27,-14.235,-51.9253
+Brazil,,1/19/2020,Possible light rain in the afternoon.,rain,0.84,0.0038,0.0398,0.44,rain,94.61,71.88,71.44,0.72,1011.2,0.71,8,70.49,94.61,-14.235,-51.9253
+Brazil,,1/20/2020,Possible light rain in the morning and afternoon.,rain,0.87,0.0043,0.0242,0.71,rain,92.44,72.81,73.67,0.77,1009.7,0.74,10,71.88,92.44,-14.235,-51.9253
+Brazil,,1/21/2020,"Light rain until morning, starting again in the evening.",rain,0.91,0.0159,0.062,0.81,rain,90.62,71.46,74.78,0.82,1008.0,0.91,8,72.81,90.62,-14.235,-51.9253
+Brazil,,1/22/2020,Light rain and humid throughout the day.,rain,0.94,0.0181,0.073,0.94,rain,80.28,71.35,74.55,0.98,1008.1,1.0,6,71.46,80.28,-14.235,-51.9253
+Brazil,,1/23/2020,Light rain and humid throughout the day.,rain,0.97,0.0177,0.0614,0.91,rain,78.48,72.45,74.38,0.99,1007.5,1.0,6,71.35,78.48,-14.235,-51.9253
+Brazil,,1/24/2020,Light rain and humid throughout the day.,rain,0.0,0.0188,0.0387,0.94,rain,81.21,69.87,74.48,0.96,1007.8,0.95,6,72.45,81.21,-14.235,-51.9253
+Brazil,,1/25/2020,Light rain and humid throughout the day.,rain,0.04,0.0175,0.0592,0.94,rain,82.85,70.13,75.15,0.98,1010.1,0.98,6,69.87,82.85,-14.235,-51.9253
+Brazil,,1/26/2020,Possible light rain and humid throughout the day.,rain,0.07,0.0097,0.0213,0.9,rain,85.53,70.32,74.1,0.92,1010.5,0.92,7,70.13,85.53,-14.235,-51.9253
+Brazil,,1/27/2020,Rain and humid throughout the day.,rain,0.1,0.0386,0.1101,0.96,rain,80.9,71.9,75.02,1.0,1010.7,1.0,6,70.32,80.9,-14.235,-51.9253
+Brazil,,1/28/2020,Drizzle and humid throughout the day.,rain,0.13,0.01,0.0293,0.94,rain,82.48,69.17,74.19,0.95,1011.4,1.0,6,71.96,82.48,-14.235,-51.9253
+Brazil,,1/29/2020,Possible light rain in the morning and afternoon.,rain,0.16,0.0041,0.0195,0.77,rain,85.57,67.66,72.69,0.9,1013.5,0.87,7,69.17,85.57,-14.235,-51.9253
+Brazil,,1/30/2020,Humid and overcast throughout the day.,rain,0.19,0.0002,0.0007,0.31,rain,84.89,69.3,72.22,0.87,1013.9,0.94,6,67.66,84.89,-14.235,-51.9253
+Brazil,,1/31/2020,Possible light rain in the evening.,rain,0.22,0.0137,0.0594,0.56,rain,93.2,71.68,73.38,0.8,1012.6,0.91,8,69.3,93.2,-14.235,-51.9253
+Brazil,,2/1/2020,Light rain in the morning.,rain,0.25,0.0086,0.035,0.72,rain,92.05,72.67,73.11,0.77,1012.0,0.89,6,71.68,92.05,-14.235,-51.9253
+Brazil,,2/2/2020,Humid and mostly cloudy throughout the day.,rain,0.28,0.0024,0.0141,0.37,rain,89.96,70.96,72.91,0.78,1011.9,0.73,7,72.67,89.96,-14.235,-51.9253
+Brazil,,2/3/2020,Possible light rain in the morning and afternoon.,rain,0.31,0.0072,0.0455,0.64,rain,91.88,69.85,73.12,0.8,1011.1,0.61,10,70.96,91.88,-14.235,-51.9253
+Brazil,,2/4/2020,Possible light rain until evening.,rain,0.35,0.0197,0.0667,0.68,rain,85.17,68.18,73.85,0.93,1011.6,0.79,7,69.85,85.17,-14.235,-51.9253
+Brazil,,2/5/2020,Light rain and humid throughout the day.,rain,0.38,0.0047,0.0252,0.74,rain,87.41,69.4,72.55,0.85,1011.8,0.8,11,68.18,87.41,-14.235,-51.9253
+Brazil,,2/6/2020,Light rain in the morning and overnight.,rain,0.42,0.0074,0.0412,0.81,rain,85.47,70.02,71.8,0.84,1012.0,0.79,6,69.4,85.47,-14.235,-51.9253
+Brazil,,2/7/2020,Light rain and humid throughout the day.,rain,0.45,0.0282,0.0762,0.98,rain,79.23,69.46,73.32,0.98,1009.7,0.97,7,70.02,79.23,-14.235,-51.9253
+Brazil,,2/8/2020,Light rain and humid throughout the day.,rain,0.49,0.0112,0.0355,0.95,rain,81.58,70.55,72.42,0.94,1010.4,0.91,6,69.46,81.58,-14.235,-51.9253
+Brazil,,2/9/2020,Light rain until evening.,rain,0.53,0.0072,0.0307,0.9,rain,77.64,69.12,71.94,0.99,1013.5,0.9,6,69.47,77.64,-14.235,-51.9253
+Brazil,,2/10/2020,Possible light rain in the morning and afternoon.,rain,0.57,0.0049,0.0317,0.75,rain,77.6,65.89,71.65,0.96,1015.0,0.72,6,69.12,77.6,-14.235,-51.9253
+Brazil,,2/11/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0003,0.0023,0.22,rain,91.85,69.28,71.01,0.8,1012.8,0.66,13,65.89,91.85,-14.235,-51.9253
+Brazil,,2/12/2020,Light rain until evening.,rain,0.64,0.0119,0.0378,0.86,rain,89.6,69.29,73.42,0.84,1011.1,0.91,6,69.28,89.6,-14.235,-51.9253
+Brazil,,2/13/2020,Possible light rain in the afternoon and evening.,rain,0.68,0.0051,0.0219,0.65,rain,89.62,70.22,73.27,0.85,1011.6,0.92,6,69.29,89.62,-14.235,-51.9253
+Brazil,,2/14/2020,Humid and partly cloudy throughout the day.,rain,0.72,0.008,0.0614,0.54,rain,93.9,71.08,73.19,0.79,1010.9,0.59,12,70.22,93.9,-14.235,-51.9253
+Brazil,,2/15/2020,Rain in the morning and afternoon.,rain,0.75,0.0345,0.1994,0.84,rain,83.07,69.12,73.79,0.88,1010.9,0.56,11,71.08,83.07,-14.235,-51.9253
+Brazil,,2/16/2020,Possible light rain in the morning and afternoon.,rain,0.79,0.0091,0.0472,0.67,rain,90.96,69.13,73.29,0.86,1010.8,0.43,7,69.12,90.96,-14.235,-51.9253
+Brazil,,2/17/2020,Humid and mostly cloudy throughout the day.,rain,0.82,0.0017,0.0073,0.44,rain,92.02,71.77,72.26,0.78,1010.4,0.62,8,69.13,92.02,-14.235,-51.9253
+Brazil,,2/18/2020,Light rain and humid throughout the day.,rain,0.85,0.0233,0.0874,0.86,rain,89.39,71.51,75.82,0.9,1010.8,0.89,7,71.77,89.39,-14.235,-51.9253
+Brazil,,2/19/2020,Light rain until evening.,rain,0.89,0.0115,0.0369,0.85,rain,87.89,71.27,73.88,0.88,1009.4,1.0,6,71.51,87.89,-14.235,-51.9253
+Brazil,,2/20/2020,Possible light rain and humid throughout the day.,rain,0.92,0.0053,0.0143,0.74,rain,86.66,70.17,74.02,0.89,1009.9,0.99,6,71.27,86.66,-14.235,-51.9253
+Brazil,,2/21/2020,Light rain until evening.,rain,0.95,0.0168,0.0507,0.93,rain,85.43,68.71,73.86,0.92,1011.2,1.0,6,70.17,85.43,-14.235,-51.9253
+Brazil,,2/22/2020,Possible light rain in the afternoon and evening.,rain,0.98,0.0039,0.0182,0.65,rain,88.8,68.95,72.24,0.84,1012.8,0.87,7,68.71,88.8,-14.235,-51.9253
+Brazil,,2/23/2020,Humid and mostly cloudy throughout the day.,rain,0.01,0.0018,0.0086,0.57,rain,91.58,70.21,71.92,0.78,1012.4,0.89,8,68.95,91.58,-14.235,-51.9253
+Brazil,,2/24/2020,Possible light rain in the morning and afternoon.,rain,0.04,0.0055,0.0347,0.75,rain,84.69,70.93,73.44,0.87,1012.0,1.0,6,70.21,84.69,-14.235,-51.9253
+Brazil,,2/25/2020,Possible drizzle in the morning and afternoon.,rain,0.07,0.0038,0.0148,0.62,rain,88.11,69.34,74.06,0.87,1011.6,0.74,6,70.93,88.11,-14.235,-51.9253
+Brazil,,2/26/2020,Possible light rain until evening.,rain,0.1,0.0098,0.0411,0.77,rain,88.32,69.25,74.45,0.89,1011.0,0.77,6,69.34,88.32,-14.235,-51.9253
+Brazil,,2/27/2020,Possible light rain starting in the afternoon.,rain,0.13,0.0064,0.0209,0.64,rain,90.18,70.37,73.89,0.86,1010.8,0.93,8,69.25,90.18,-14.235,-51.9253
+Brazil,,2/28/2020,Light rain and humid throughout the day.,rain,0.16,0.0116,0.0408,0.83,rain,88.32,70.41,74.57,0.88,1012.1,0.87,11,70.37,88.32,-14.235,-51.9253
+Brazil,,2/29/2020,Rain in the morning and afternoon.,rain,0.19,0.0464,0.1166,0.96,rain,76.63,68.04,73.05,0.99,1013.8,1.0,6,70.41,76.63,-14.235,-51.9253
+Brazil,,3/1/2020,Light rain and humid throughout the day.,rain,0.22,0.012,0.0377,0.78,rain,85.96,69.73,74.06,0.95,1012.3,0.91,7,68.04,85.96,-14.235,-51.9253
+Brazil,,3/2/2020,Light rain and humid throughout the day.,rain,0.26,0.0257,0.0965,0.94,rain,84.35,69.1,75.38,0.97,1010.6,0.59,14,69.73,84.35,-14.235,-51.9253
+Brazil,,3/3/2020,Possible light rain in the afternoon and evening.,rain,0.29,0.0105,0.031,0.8,rain,86.38,68.88,74.67,0.93,1010.7,0.75,6,69.1,86.38,-14.235,-51.9253
+Brazil,,3/4/2020,Light rain starting in the afternoon.,rain,0.32,0.0158,0.0558,0.87,rain,87.65,70.39,74.27,0.91,1012.1,0.63,10,68.88,87.65,-14.235,-51.9253
+Brazil,,3/5/2020,Rain until evening.,rain,0.36,0.0307,0.1275,0.96,rain,86.51,70.42,74.98,0.93,1012.3,0.64,11,70.39,86.51,-14.235,-51.9253
+Brazil,,3/6/2020,Light rain until evening.,rain,0.4,0.0165,0.0627,0.9,rain,80.32,68.97,74.66,1.0,1012.0,0.99,6,70.42,80.32,-14.235,-51.9253
+Brazil,,3/7/2020,Possible light rain until evening.,rain,0.43,0.008,0.0365,0.75,rain,86.28,69.77,74.02,0.93,1010.5,0.92,6,68.97,86.28,-14.235,-51.9253
+Brazil,,3/8/2020,Possible light rain and humid throughout the day.,rain,0.47,0.0085,0.0221,0.78,rain,87.54,72.01,73.95,0.9,1010.8,0.73,8,69.77,87.54,-14.235,-51.9253
+Brazil,,3/9/2020,Light rain in the morning and afternoon.,rain,0.51,0.0177,0.0735,0.86,rain,83.11,68.69,74.46,0.94,1012.1,0.75,6,71.92,83.11,-14.235,-51.9253
+Brazil,,3/10/2020,"Light rain until afternoon, starting again overnight.",rain,0.55,0.0178,0.0523,0.8,rain,86.9,69.86,73.75,0.91,1011.4,0.62,6,68.69,86.9,-14.235,-51.9253
+Brazil,,3/11/2020,Light rain in the morning and afternoon.,rain,0.59,0.0217,0.0727,0.91,rain,79.62,69.65,72.66,0.96,1010.8,0.75,6,69.86,79.62,-14.235,-51.9253
+Brazil,,3/12/2020,Humid and mostly cloudy throughout the day.,rain,0.63,0.0019,0.0141,0.46,rain,84.85,68.42,73.44,0.94,1011.4,0.7,6,69.65,84.85,-14.235,-51.9253
+Brazil,,3/13/2020,Humid and partly cloudy throughout the day.,rain,0.67,0.0056,0.0378,0.49,rain,90.51,69.75,72.87,0.86,1011.5,0.41,12,68.42,90.51,-14.235,-51.9253
+Brazil,,3/14/2020,Possible light rain in the afternoon and evening.,rain,0.7,0.0069,0.0317,0.64,rain,84.11,67.29,72.81,0.89,1012.1,0.01,13,69.75,84.11,-14.235,-51.9253
+Brazil,,3/15/2020,Rain until evening.,rain,0.74,0.0187,0.1017,0.81,rain,88.04,66.08,72.67,0.88,1012.4,0.13,12,67.29,88.04,-14.235,-51.9253
+Brazil,,3/16/2020,Possible light rain in the afternoon.,rain,0.77,0.0052,0.0216,0.46,rain,87.65,67.63,71.49,0.86,1012.6,0.3,9,66.08,87.65,-14.235,-51.9253
+Brazil,,3/17/2020,Humid throughout the day.,clear-day,0.8,0.0002,0.0004,0.18,rain,89.8,69.69,70.99,0.79,1012.2,0.04,13,67.63,89.8,-14.235,-51.9253
+Brazil,,3/18/2020,Humid throughout the day.,rain,0.84,0.0039,0.0187,0.32,rain,91.7,70.26,72.78,0.79,1011.4,0.1,13,69.69,91.7,-14.235,-51.9253
+Brazil,,3/19/2020,Humid throughout the day.,rain,0.87,0.0022,0.0158,0.39,rain,92.24,71.59,73.89,0.81,1009.9,0.31,13,70.26,92.24,-14.235,-51.9253
+Brazil,,3/20/2020,Light rain until evening.,rain,0.9,0.0196,0.0732,0.91,rain,83.42,69.4,74.49,0.95,1009.4,0.96,6,71.59,83.42,-14.235,-51.9253
+Brazil,,3/21/2020,Humid and overcast throughout the day.,rain,0.93,0.0022,0.006999999999999999,0.6,rain,86.44,68.71,73.5,0.9,1010.4,0.95,7,69.4,86.44,-14.235,-51.9253
+Brazil,,3/22/2020,Possible light rain in the afternoon.,rain,0.96,0.0034,0.0247,0.61,rain,86.85,70.62,73.26,0.87,1012.1,0.46,11,68.71,86.85,-14.235,-51.9253
+Brazil,,3/23/2020,Possible light rain in the morning and afternoon.,rain,0.99,0.0075,0.0274,0.84,rain,86.05,70.88,74.49,0.9,1012.2,0.67,6,70.62,86.05,-14.235,-51.9253
+Brazil,,3/24/2020,Light rain until evening.,rain,0.02,0.0218,0.0818,0.96,rain,86.04,68.68,74.54,0.93,1011.1,0.92,6,70.88,86.04,-14.235,-51.9253
+Brazil,,3/25/2020,Possible light rain in the afternoon and evening.,rain,0.05,0.0059,0.0302,0.6,rain,85.84,69.41,73.45,0.92,1010.5,0.47,11,68.68,85.84,-14.235,-51.9253
+Brazil,,3/26/2020,Possible light rain in the morning and afternoon.,rain,0.08,0.0067,0.018000000000000002,0.57,rain,84.58,70.21,74.24,0.93,1010.0,0.32,9,69.41,84.58,-14.235,-51.9253
+Brazil,,3/27/2020,Possible drizzle in the morning.,rain,0.11,0.0047,0.0168,0.54,rain,84.81,68.27,73.61,0.91,1009.8,0.88,6,70.21,84.81,-14.235,-51.9253
+Brazil,,3/28/2020,Possible light rain in the afternoon and evening.,rain,0.14,0.0061,0.0257,0.69,rain,83.28,70.48,74.29,0.95,1011.7,0.95,6,68.27,83.28,-14.235,-51.9253
+Brazil,,3/29/2020,Humid and mostly cloudy throughout the day.,cloudy,0.17,0.0013,0.0054,0.17,rain,87.08,71.51,73.7,0.86,1013.3,0.88,9,70.48,87.08,-14.235,-51.9253
+Brazil,,3/30/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.2,0.002,0.0083,0.13,rain,90.07,68.56,72.49,0.79,1011.6,0.46,10,71.51,90.07,-14.235,-51.9253
+Brazil,,3/31/2020,Humid throughout the day.,clear-day,0.24,0.0018,0.0162,0.08,rain,91.44,69.42,71.36,0.77,1010.6,0.01,12,68.56,91.44,-14.235,-51.9253
+Brazil,,4/1/2020,Humid throughout the day.,clear-day,0.27,0.0053,0.0191,0.13,rain,91.92,70.25,72.0,0.76,1010.7,0.2,12,69.42,91.92,-14.235,-51.9253
+Brazil,,4/2/2020,Humid and partly cloudy throughout the day.,rain,0.31,0.0081,0.0458,0.43,rain,92.21,71.56,73.33,0.78,1012.4,0.59,10,70.25,92.21,-14.235,-51.9253
+Brazil,,4/3/2020,Humid throughout the day.,rain,0.34,0.0124,0.0517,0.38,rain,91.5,71.45,73.43,0.79,1010.8,0.29,10,71.56,91.5,-14.235,-51.9253
+Brazil,,4/4/2020,Humid throughout the day.,rain,0.38,0.0065,0.0431,0.32,rain,92.87,69.51,72.02,0.76,1010.4,0.44,10,71.45,92.87,-14.235,-51.9253
+Brazil,,4/5/2020,Humid throughout the day.,clear-day,0.42,0.0007,0.0028,0.04,rain,95.16,70.75,71.57,0.72,1011.4,0.14,10,69.51,95.16,-14.235,-51.9253
+Brazil,,4/6/2020,Possible light rain overnight.,rain,0.46,0.0136,0.0882,0.35,rain,94.84,72.23,73.54,0.75,1012.0,0.29,11,70.75,94.84,-14.235,-51.9253
+Brazil,,4/7/2020,Light rain in the morning and afternoon.,rain,0.5,0.0127,0.0587,0.9,rain,87.46,68.22,74.67,0.89,1012.5,0.72,7,72.23,87.46,-14.235,-51.9253
+Brazil,,4/8/2020,Possible light rain in the afternoon.,rain,0.54,0.0059,0.0286,0.61,rain,89.11,71.32,73.53,0.86,1011.4,0.7,11,68.22,89.11,-14.235,-51.9253
+Brazil,,4/9/2020,Light rain in the afternoon and evening.,rain,0.58,0.0139,0.0481,0.84,rain,87.81,71.13,73.65,0.86,1011.0,0.64,8,71.32,87.81,-14.235,-51.9253
+Brazil,,4/10/2020,Possible drizzle in the morning and overnight.,rain,0.61,0.0027,0.0129,0.56,rain,87.56,70.35,73.12,0.85,1011.3,0.71,7,71.13,87.56,-14.235,-51.9253
+Brazil,,4/11/2020,Possible light rain until evening.,rain,0.65,0.0065,0.0285,0.75,rain,86.55,68.22,72.2,0.85,1011.8,0.74,6,70.35,86.55,-14.235,-51.9253
+Brazil,,4/12/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0002,0.0019,0.18,rain,89.8,69.8,72.06,0.81,1012.7,0.68,6,68.22,89.8,-14.235,-51.9253
+Brazil,,4/13/2020,Humid throughout the day.,rain,0.72,0.0019,0.0098,0.36,rain,88.52,68.13,73.31,0.84,1011.4,0.16,11,69.8,88.52,-14.235,-51.9253
+Brazil,,4/14/2020,Light rain and humid throughout the day.,rain,0.75,0.0244,0.055999999999999994,0.9,rain,85.2,66.3,72.75,0.92,1010.5,0.55,9,68.13,85.2,-14.235,-51.9253
+Brazil,,4/15/2020,Light rain starting in the afternoon.,rain,0.78,0.0043,0.0199,0.83,rain,81.42,69.03,70.86,0.93,1012.6,0.85,7,66.3,81.42,-14.235,-51.9253
+Brazil,,4/16/2020,Light rain and humid throughout the day.,rain,0.82,0.0128,0.0328,0.96,rain,78.03,68.97,71.85,0.96,1014.9,0.99,6,69.03,78.03,-14.235,-51.9253
+Brazil,,4/17/2020,Light rain starting in the afternoon.,rain,0.85,0.0073,0.0328,0.81,rain,84.27,68.87,73.1,0.91,1015.5,0.7,8,68.97,84.27,-14.235,-51.9253
+Brazil,,4/18/2020,Light rain in the morning and afternoon.,rain,0.88,0.0068,0.016,0.94,rain,79.17,65.53,71.15,0.93,1015.5,0.97,5,68.87,79.17,-14.235,-51.9253
+Brazil,,4/19/2020,Possible light rain overnight.,rain,0.91,0.0013,0.0105,0.46,rain,86.0,69.95,71.28,0.86,1014.9,0.52,9,65.53,86.0,-14.235,-51.9253
+Brazil,,4/20/2020,Light rain until evening.,rain,0.94,0.0112,0.035,0.95,rain,79.77,66.87,73.09,0.97,1014.2,0.55,9,69.95,79.77,-14.235,-51.9253

@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Moldova,,12/31/2019,Mostly cloudy throughout the day.,rain,0.21,0.0008,0.0028,0.36,rain,38.17,21.69,29.41,0.8,1023.7,0.77,1,28.83,38.93,47.4116,28.3699
+Moldova,,1/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.22,snow,35.63,26.46,23.8,0.81,1028.9,0.69,1,21.69,35.63,47.4116,28.3699
+Moldova,,1/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0,0.0003,0.01,,40.37,20.94,23.77,0.73,1023.1,0.38,1,26.45,40.37,47.4116,28.3699
+Moldova,,1/3/2020,Clear throughout the day.,partly-cloudy-day,0.3,0.0002,0.0007,0.13,rain,39.56,30.58,23.65,0.75,1016.8,0.33,1,20.94,39.56,47.4116,28.3699
+Moldova,,1/4/2020,Possible flurries (< 1 in.) in the morning.,snow,0.33,0.0016,0.0057,0.56,snow,39.38,29.1,29.35,0.85,1016.8,0.94,1,29.1,39.38,47.4116,28.3699
+Moldova,,1/5/2020,Overcast throughout the day.,snow,0.36,0.0007,0.0029,0.41,snow,37.1,17.65,26.06,0.79,1029.3,0.75,1,22.84,37.1,47.4116,28.3699
+Moldova,,1/6/2020,Clear throughout the day.,clear-day,0.39,0.0001,0.0002,0.12,snow,33.33,17.13,17.74,0.75,1029.9,0.0,1,17.65,33.33,47.4116,28.3699
+Moldova,,1/7/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0003,0.02,,33.7,18.59,16.15,0.71,1031.9,0.06,1,17.13,33.7,47.4116,28.3699
+Moldova,,1/8/2020,Overcast throughout the day.,partly-cloudy-day,0.46,0.0005,0.0025,0.18,snow,33.83,24.15,18.03,0.7,1027.1,0.77,1,18.59,33.83,47.4116,28.3699
+Moldova,,1/9/2020,Overcast throughout the day.,partly-cloudy-day,0.5,0.0001,0.0004,0.08,snow,40.25,27.7,25.44,0.77,1022.1,0.81,1,25.17,40.25,47.4116,28.3699
+Moldova,,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0001,0.0003,0.08,rain,47.84,33.24,30.68,0.79,1022.6,0.66,1,27.2,47.84,47.4116,28.3699
+Moldova,,1/11/2020,Clear throughout the day.,partly-cloudy-day,0.57,0.0003,0.0013,0.2,rain,42.02,24.19,30.41,0.8,1028.8,0.38,1,28.13,42.02,47.4116,28.3699
+Moldova,,1/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0,0.0002,0.02,,44.31,26.01,25.77,0.78,1026.1,0.36,1,24.19,44.31,47.4116,28.3699
+Moldova,,1/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.65,0.0,0.0,0.0,,42.99,23.82,26.04,0.78,1026.5,0.55,1,26.01,42.99,47.4116,28.3699
+Moldova,,1/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0001,0.0003,0.02,snow,37.66,30.56,24.87,0.8,1030.8,0.7,1,23.82,37.66,47.4116,28.3699
+Moldova,,1/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0002,0.0006,0.1,rain,44.23,24.1,30.19,0.81,1031.3,0.58,1,29.61,44.23,47.4116,28.3699
+Moldova,,1/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.76,0.0001,0.0003,0.06,snow,38.68,24.48,25.68,0.82,1033.7,0.48,1,24.1,38.68,47.4116,28.3699
+Moldova,,1/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.79,0.0,0.0002,0.04,,39.12,22.94,22.28,0.74,1030.9,0.52,1,24.48,39.12,47.4116,28.3699
+Moldova,,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0,0.0,,36.92,21.31,20.11,0.7,1031.1,0.53,1,22.94,36.92,47.4116,28.3699
+Moldova,,1/19/2020,Overcast throughout the day.,partly-cloudy-day,0.86,0.0001,0.0004,0.05,snow,32.41,28.55,19.35,0.7,1040.5,0.86,1,21.31,32.41,47.4116,28.3699
+Moldova,,1/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0002,0.1,snow,42.3,30.91,25.43,0.69,1036.9,0.74,1,28.55,42.3,47.4116,28.3699
+Moldova,,1/21/2020,Clear throughout the day.,partly-cloudy-day,0.93,0.0001,0.0009,0.04,rain,48.67,33.85,24.06,0.55,1023.2,0.46,1,30.91,48.67,47.4116,28.3699
+Moldova,,1/22/2020,Mostly cloudy throughout the day.,rain,0.96,0.0003,0.0009,0.3,rain,40.71,24.78,26.31,0.68,1026.4,0.7,1,29.99,40.71,47.4116,28.3699
+Moldova,,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0,0.0002,0.02,,43.92,22.64,20.39,0.63,1027.5,0.09,1,24.78,43.92,47.4116,28.3699
+Moldova,,1/24/2020,Clear throughout the day.,clear-day,0.03,0.0001,0.0003,0.01,snow,43.51,23.88,17.61,0.58,1021.8,0.17,1,22.64,43.51,47.4116,28.3699
+Moldova,,1/25/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0003,0.05,snow,43.85,25.04,22.77,0.68,1023.9,0.13,1,23.88,43.85,47.4116,28.3699
+Moldova,,1/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.09,0.0001,0.0004,0.09,snow,48.84,29.62,25.94,0.71,1018.9,0.48,1,25.04,48.84,47.4116,28.3699
+Moldova,,1/27/2020,Clear throughout the day.,partly-cloudy-day,0.12,0.0,0.0003,0.03,,47.43,30.7,30.18,0.8,1011.6,0.51,1,29.62,47.43,47.4116,28.3699
+Moldova,,1/28/2020,Overcast throughout the day.,rain,0.15,0.0007,0.0036,0.34,rain,45.45,27.77,31.5,0.83,1003.9,0.73,1,30.7,45.45,47.4116,28.3699
+Moldova,,1/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.18,0.0002,0.0005,0.17,snow,45.9,28.4,26.76,0.69,1011.5,0.51,1,27.77,45.9,47.4116,28.3699
+Moldova,,1/30/2020,Light rain in the afternoon and evening.,rain,0.21,0.0048,0.0304,0.68,rain,48.85,40.27,29.05,0.72,1009.0,0.87,1,28.4,48.85,47.4116,28.3699
+Moldova,,1/31/2020,Overcast throughout the day.,rain,0.24,0.0005,0.0031,0.36,rain,51.15,41.95,39.75,0.81,1010.4,0.92,1,41.54,51.15,47.4116,28.3699
+Moldova,,2/1/2020,Possible light rain in the afternoon and evening.,rain,0.27,0.0055,0.0425,0.62,rain,59.67,39.29,41.38,0.78,1008.0,0.59,2,41.97,59.67,47.4116,28.3699
+Moldova,,2/2/2020,Possible drizzle in the morning.,rain,0.3,0.0018,0.0146,0.53,rain,51.1,32.38,37.44,0.76,1004.5,0.81,1,39.29,51.1,47.4116,28.3699
+Moldova,,2/3/2020,Light rain in the evening and overnight.,rain,0.34,0.0055,0.0511,0.8,rain,51.26,41.71,35.6,0.79,1003.3,0.59,1,32.38,51.26,47.4116,28.3699
+Moldova,,2/4/2020,Light rain until evening.,rain,0.37,0.0203,0.0541,0.98,rain,43.0,26.11,35.69,0.88,998.7,1.0,1,31.33,43.97,47.4116,28.3699
+Moldova,,2/5/2020,Possible drizzle overnight.,wind,0.41,0.0006,0.009000000000000001,0.16,snow,37.57,29.72,19.58,0.61,1016.1,0.8,1,26.11,37.57,47.4116,28.3699
+Moldova,,2/6/2020,Foggy in the morning.,rain,0.44,0.0025,0.0101,0.47,rain,32.72,18.77,20.72,0.67,1018.7,0.56,1,25.44,37.05,47.4116,28.3699
+Moldova,,2/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.0,0.0003,0.03,,33.35,17.73,14.02,0.61,1029.3,0.41,1,18.77,33.35,47.4116,28.3699
+Moldova,,2/8/2020,Clear throughout the day.,clear-day,0.52,0.0001,0.0003,0.02,snow,39.5,25.78,14.68,0.58,1029.9,0.28,2,17.73,39.5,47.4116,28.3699
+Moldova,,2/9/2020,Light rain in the evening and overnight.,rain,0.56,0.0071,0.0443,0.76,rain,45.41,34.86,25.17,0.65,1015.5,0.39,2,25.78,45.41,47.4116,28.3699
+Moldova,,2/10/2020,Windy in the evening.,rain,0.6,0.0008,0.0104,0.54,rain,51.63,33.85,34.62,0.76,1001.4,0.72,2,34.86,51.63,47.4116,28.3699
+Moldova,,2/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.63,0.0007,0.006,0.19,rain,46.1,31.59,27.31,0.64,1009.4,0.61,1,32.1,46.1,47.4116,28.3699
+Moldova,,2/12/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0009,0.11,snow,46.85,25.7,24.9,0.63,1019.5,0.28,1,29.23,46.85,47.4116,28.3699
+Moldova,,2/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0003,0.06,snow,49.8,34.01,25.11,0.62,1019.8,0.66,1,25.7,49.8,47.4116,28.3699
+Moldova,,2/14/2020,Overcast throughout the day.,rain,0.74,0.0004,0.0012,0.25,rain,44.82,25.93,32.59,0.8,1026.6,0.93,1,34.01,44.82,47.4116,28.3699
+Moldova,,2/15/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.05,rain,48.17,35.8,28.46,0.72,1032.3,0.21,2,25.93,48.17,47.4116,28.3699
+Moldova,,2/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0003,0.05,rain,54.34,33.37,31.36,0.64,1024.4,0.35,2,35.8,54.34,47.4116,28.3699
+Moldova,,2/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.85,0.0002,0.0004,0.08,rain,56.74,33.58,35.23,0.72,1019.3,0.66,2,33.37,56.74,47.4116,28.3699
+Moldova,,2/18/2020,Clear throughout the day.,partly-cloudy-day,0.88,0.0,0.0002,0.06,,53.32,35.51,32.98,0.7,1020.8,0.49,2,33.58,53.32,47.4116,28.3699
+Moldova,,2/19/2020,Overcast throughout the day.,cloudy,0.91,0.0006,0.002,0.17,rain,52.53,32.0,30.8,0.64,1019.2,0.97,1,35.51,52.53,47.4116,28.3699
+Moldova,,2/20/2020,Mostly cloudy throughout the day.,rain,0.94,0.0009,0.0025,0.34,rain,50.08,31.73,32.78,0.77,1021.9,0.85,2,32.0,50.08,47.4116,28.3699
+Moldova,,2/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.97,0.0002,0.0006,0.14,rain,47.87,31.28,31.12,0.75,1026.8,0.57,2,31.73,47.87,47.4116,28.3699
+Moldova,,2/22/2020,Overcast throughout the day.,cloudy,0.0,0.0002,0.0014,0.11,rain,58.3,46.43,31.03,0.64,1016.7,0.9,2,31.28,58.3,47.4116,28.3699
+Moldova,,2/23/2020,Possible drizzle in the morning.,rain,0.03,0.0021,0.011000000000000001,0.63,rain,48.22,32.23,35.04,0.68,1006.0,0.88,2,39.92,48.49,47.4116,28.3699
+Moldova,,2/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0002,0.0008,0.08,rain,56.0,39.09,28.48,0.59,1011.5,0.52,2,32.23,56.0,47.4116,28.3699
+Moldova,,2/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0003,0.06,rain,66.37,40.68,33.89,0.53,998.4,0.6,2,39.09,66.37,47.4116,28.3699
+Moldova,,2/26/2020,Light rain in the morning and afternoon.,rain,0.13,0.0036,0.0301,0.8,rain,44.91,28.91,36.0,0.8,999.6,0.85,2,36.66,47.82,47.4116,28.3699
+Moldova,,2/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0001,0.0003,0.12,rain,50.03,32.49,27.69,0.64,1008.8,0.64,2,28.91,50.03,47.4116,28.3699
+Moldova,,2/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0007,0.0024,0.22,rain,49.81,36.71,29.66,0.67,1016.7,0.53,2,32.49,49.81,47.4116,28.3699
+Moldova,,2/29/2020,Overcast throughout the day.,partly-cloudy-day,0.22,0.0001,0.0003,0.03,rain,55.85,39.79,31.07,0.6,1014.4,0.78,2,36.71,55.85,47.4116,28.3699
+Moldova,,3/1/2020,Overcast throughout the day.,cloudy,0.25,0.0001,0.0008,0.1,rain,56.2,41.76,37.89,0.7,1007.8,0.91,2,39.79,56.2,47.4116,28.3699
+Moldova,,3/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.28,0.0001,0.0002,0.05,rain,68.11,42.62,40.59,0.63,1007.8,0.71,2,41.76,68.11,47.4116,28.3699
+Moldova,,3/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.32,0.0,0.0002,0.02,,66.81,45.66,43.47,0.66,1006.2,0.65,3,42.62,66.81,47.4116,28.3699
+Moldova,,3/4/2020,Possible drizzle overnight.,rain,0.35,0.0009,0.0038,0.33,rain,56.95,41.26,42.92,0.78,1008.2,0.82,2,43.95,56.95,47.4116,28.3699
+Moldova,,3/5/2020,Mostly cloudy throughout the day.,rain,0.39,0.0017,0.0087,0.59,rain,59.11,44.1,41.56,0.78,1006.9,0.78,2,41.26,59.11,47.4116,28.3699
+Moldova,,3/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0,0.0003,0.02,,65.25,44.83,40.28,0.65,1008.2,0.59,3,44.1,65.25,47.4116,28.3699
+Moldova,,3/7/2020,Possible drizzle in the morning and overnight.,rain,0.46,0.0032,0.0126,0.62,rain,55.29,44.76,43.09,0.8,1016.6,0.98,2,44.83,55.29,47.4116,28.3699
+Moldova,,3/8/2020,Drizzle in the morning.,rain,0.5,0.0036,0.0155,0.78,rain,55.59,44.74,45.99,0.89,1014.6,0.99,2,44.76,55.59,47.4116,28.3699
+Moldova,,3/9/2020,Overcast throughout the day.,cloudy,0.54,0.0001,0.0003,0.06,rain,57.32,39.4,43.27,0.78,1010.5,0.96,2,44.74,57.32,47.4116,28.3699
+Moldova,,3/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0007,0.0048,0.12,rain,59.07,39.95,37.93,0.68,1011.6,0.7,2,39.4,59.07,47.4116,28.3699
+Moldova,,3/11/2020,Clear throughout the day.,clear-day,0.62,0.0002,0.0004,0.06,rain,68.98,46.89,40.57,0.64,1016.6,0.25,4,39.95,68.98,47.4116,28.3699
+Moldova,,3/12/2020,Rain in the evening and overnight.,rain,0.66,0.0168,0.1189,0.89,rain,67.83,39.3,44.54,0.69,1011.4,0.38,4,46.89,67.83,47.4116,28.3699
+Moldova,,3/13/2020,Clear throughout the day.,rain,0.69,0.0011,0.0262,0.49,rain,54.71,31.9,34.32,0.64,1017.0,0.4,3,39.3,54.71,47.4116,28.3699
+Moldova,,3/14/2020,Clear throughout the day.,clear-day,0.73,0.0001,0.0004,0.06,rain,43.09,24.05,17.92,0.5,1028.3,0.19,3,29.14,43.09,47.4116,28.3699
+Moldova,,3/15/2020,Clear throughout the day.,clear-day,0.76,0.0,0.0,0.0,,52.64,32.98,12.43,0.41,1033.0,0.02,3,24.05,52.64,47.4116,28.3699
+Moldova,,3/16/2020,Overcast throughout the day.,partly-cloudy-day,0.8,0.0009,0.0085,0.1,rain,58.31,33.62,20.31,0.41,1027.1,0.87,2,32.98,58.31,47.4116,28.3699
+Moldova,,3/17/2020,Clear throughout the day.,clear-day,0.83,0.0001,0.0016,0.05,rain,58.53,33.88,30.1,0.61,1030.3,0.14,3,33.62,58.53,47.4116,28.3699
+Moldova,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0003,0.02,rain,66.98,45.85,32.43,0.56,1024.6,0.21,3,33.88,66.98,47.4116,28.3699
+Moldova,,3/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0,0.0003,0.03,,66.28,46.0,41.3,0.63,1021.3,0.7,3,45.85,66.28,47.4116,28.3699
+Moldova,,3/20/2020,Light rain in the evening and overnight.,rain,0.92,0.0051,0.0194,0.88,rain,62.67,36.9,42.49,0.72,1016.1,0.87,3,40.33,62.67,47.4116,28.3699
+Moldova,,3/21/2020,Possible drizzle in the morning.,rain,0.95,0.0049,0.026000000000000002,0.91,rain,46.0,33.66,33.23,0.78,1019.9,0.97,3,36.22,46.0,47.4116,28.3699
+Moldova,,3/22/2020,Overcast throughout the day.,cloudy,0.98,0.0004,0.0024,0.16,rain,43.76,26.68,23.63,0.59,1029.2,0.96,2,32.92,43.76,47.4116,28.3699
+Moldova,,3/23/2020,Clear throughout the day.,partly-cloudy-day,0.01,0.0001,0.0003,0.02,snow,43.14,28.72,13.1,0.42,1033.6,0.41,4,26.68,43.14,47.4116,28.3699
+Moldova,,3/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0002,0.0004,0.08,snow,50.4,31.63,13.66,0.37,1034.2,0.59,3,28.72,50.4,47.4116,28.3699
+Moldova,,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0004,0.02,rain,61.88,36.0,22.48,0.42,1031.2,0.16,4,31.63,61.88,47.4116,28.3699
+Moldova,,3/26/2020,Clear throughout the day.,partly-cloudy-day,0.1,0.0001,0.0004,0.02,rain,65.85,44.92,26.35,0.42,1023.9,0.32,4,36.0,65.85,47.4116,28.3699
+Moldova,,3/27/2020,Overcast throughout the day.,cloudy,0.13,0.0001,0.0004,0.04,rain,66.37,39.15,29.96,0.42,1014.2,0.91,3,44.92,66.37,47.4116,28.3699
+Moldova,,3/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0,0.0,0.0,,68.06,42.38,30.65,0.46,1006.9,0.48,4,39.15,68.06,47.4116,28.3699
+Moldova,,3/29/2020,Clear throughout the day.,partly-cloudy-day,0.19,0.0002,0.0004,0.07,rain,60.79,31.55,33.41,0.55,1010.3,0.36,3,39.07,60.79,47.4116,28.3699
+Moldova,,3/30/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.06,rain,43.33,22.61,19.01,0.5,1021.6,0.68,3,31.55,43.33,47.4116,28.3699
+Moldova,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.01,snow,50.64,25.48,8.82,0.39,1022.7,0.1,4,22.61,50.64,47.4116,28.3699
+Moldova,,4/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0001,0.0003,0.01,snow,57.93,32.57,9.31,0.29,1016.9,0.38,4,25.48,57.93,47.4116,28.3699
+Moldova,,4/2/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.01,rain,63.85,36.72,21.9,0.4,1013.4,0.05,5,32.57,63.85,47.4116,28.3699
+Moldova,,4/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0002,0.01,rain,64.05,35.29,27.99,0.44,1021.1,0.55,3,36.72,64.05,47.4116,28.3699
+Moldova,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0002,0.01,,59.67,32.8,18.66,0.34,1030.4,0.02,5,35.29,59.67,47.4116,28.3699
+Moldova,,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0,0.0002,0.01,,64.06,33.45,12.61,0.28,1036.5,0.0,6,32.8,64.06,47.4116,28.3699
+Moldova,,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0002,0.01,,67.62,36.87,11.11,0.24,1035.6,0.0,6,33.45,67.62,47.4116,28.3699
+Moldova,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0,0.0003,0.01,,71.87,41.68,16.67,0.27,1029.3,0.0,6,36.87,71.87,47.4116,28.3699
+Moldova,,4/8/2020,Clear throughout the day.,clear-day,0.56,0.0001,0.0004,0.01,rain,74.76,45.0,25.61,0.33,1021.1,0.0,5,41.68,74.76,47.4116,28.3699
+Moldova,,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0007,0.04,rain,68.52,36.14,30.91,0.39,1016.9,0.19,4,45.0,68.52,47.4116,28.3699
+Moldova,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.01,rain,63.71,36.77,20.54,0.34,1023.3,0.18,5,36.14,63.71,47.4116,28.3699
+Moldova,,4/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.68,0.0,0.0003,0.02,,66.47,42.52,22.35,0.35,1025.6,0.46,3,36.77,66.47,47.4116,28.3699
+Moldova,,4/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.001,0.06,rain,72.41,48.75,31.62,0.38,1014.6,0.49,4,42.52,72.41,47.4116,28.3699
+Moldova,,4/13/2020,Mostly cloudy throughout the day.,rain,0.74,0.0018,0.0053,0.54,rain,60.36,33.8,38.73,0.68,1009.3,0.87,3,38.66,60.36,47.4116,28.3699
+Moldova,,4/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.02,rain,53.62,41.76,27.06,0.53,1018.9,0.59,5,33.8,53.62,47.4116,28.3699
+Moldova,,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0004,0.01,rain,73.8,45.25,33.02,0.45,1017.0,0.62,6,41.76,73.8,47.4116,28.3699
+Moldova,,4/16/2020,Overcast throughout the day.,cloudy,0.84,0.0007,0.0034,0.11,rain,72.39,47.21,37.66,0.46,1012.9,0.89,3,45.25,72.39,47.4116,28.3699
+Moldova,,4/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0007,0.0029,0.07,rain,66.45,41.78,29.91,0.4,1016.4,0.75,4,47.21,66.45,47.4116,28.3699
+Moldova,,4/18/2020,Overcast throughout the day.,cloudy,0.9,0.0008,0.009000000000000001,0.14,rain,66.74,40.47,23.68,0.31,1015.8,0.89,4,41.78,66.74,47.4116,28.3699
+Moldova,,4/19/2020,Clear throughout the day.,partly-cloudy-day,0.93,0.0001,0.0004,0.02,rain,59.21,33.94,23.38,0.36,1019.0,0.36,6,40.47,59.21,47.4116,28.3699
+Moldova,,4/20/2020,Clear throughout the day.,partly-cloudy-day,0.96,0.0001,0.0003,0.01,rain,59.26,33.58,24.27,0.43,1023.3,0.32,5,33.94,59.26,47.4116,28.3699

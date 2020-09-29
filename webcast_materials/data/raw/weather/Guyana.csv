@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Guyana,,12/31/2019,Possible light rain in the morning.,rain,0.19,0.0044,0.0275,0.66,rain,84.3,68.7,72.17,0.89,1011.9,0.91,6,69.44,84.3,5.0,-58.75
+Guyana,,1/1/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.22,0.0003,0.0011,0.11,rain,86.38,65.85,68.98,0.8,1012.5,0.68,8,68.7,86.38,5.0,-58.75
+Guyana,,1/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0002,0.0009,0.12,rain,84.92,68.46,67.58,0.79,1013.0,0.54,9,65.85,84.92,5.0,-58.75
+Guyana,,1/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0001,0.0006,0.07,rain,87.17,69.13,68.64,0.79,1014.3,0.48,11,68.46,87.17,5.0,-58.75
+Guyana,,1/4/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.31,0.0003,0.0007,0.17,rain,85.54,68.41,69.47,0.82,1014.6,0.67,7,69.13,85.54,5.0,-58.75
+Guyana,,1/5/2020,Clear throughout the day.,clear-day,0.34,0.0002,0.0013,0.1,rain,86.57,64.02,65.73,0.74,1013.3,0.25,11,68.41,86.57,5.0,-58.75
+Guyana,,1/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0,0.0002,0.02,,85.73,65.94,64.97,0.75,1012.8,0.7,6,64.02,85.73,5.0,-58.75
+Guyana,,1/7/2020,Humid and mostly cloudy throughout the day.,rain,0.4,0.0009,0.0042,0.26,rain,84.56,70.25,70.8,0.91,1013.4,0.61,8,65.94,84.56,5.0,-58.75
+Guyana,,1/8/2020,Possible light rain starting in the afternoon.,rain,0.44,0.0127,0.0738,0.8,rain,83.33,70.2,73.02,0.94,1013.9,0.7,7,70.25,83.33,5.0,-58.75
+Guyana,,1/9/2020,Humid throughout the day.,rain,0.47,0.0057,0.0489,0.61,rain,85.66,68.64,71.09,0.87,1013.9,0.74,7,70.2,85.66,5.0,-58.75
+Guyana,,1/10/2020,Possible drizzle in the morning.,rain,0.51,0.0041,0.0197,0.55,rain,86.43,68.05,69.7,0.85,1013.6,0.59,8,68.64,86.43,5.0,-58.75
+Guyana,,1/11/2020,Possible light rain in the afternoon.,rain,0.55,0.0071,0.0599,0.54,rain,82.59,67.16,70.64,0.9,1013.7,0.46,6,68.05,82.59,5.0,-58.75
+Guyana,,1/12/2020,Mostly cloudy throughout the day.,rain,0.58,0.0009,0.0032,0.33,rain,85.61,68.15,69.27,0.84,1014.2,0.52,8,67.16,85.61,5.0,-58.75
+Guyana,,1/13/2020,Possible light rain overnight.,rain,0.62,0.0026,0.0197,0.49,rain,84.86,69.91,69.44,0.83,1013.4,0.61,8,68.15,84.86,5.0,-58.75
+Guyana,,1/14/2020,Light rain and humid throughout the day.,rain,0.66,0.0137,0.045,0.92,rain,80.71,69.73,72.46,0.96,1012.4,0.73,7,69.91,80.71,5.0,-58.75
+Guyana,,1/15/2020,Light rain and humid throughout the day.,rain,0.69,0.0078,0.0175,0.96,rain,86.16,70.93,73.76,0.95,1011.9,0.71,8,69.73,86.16,5.0,-58.75
+Guyana,,1/16/2020,Humid and mostly cloudy throughout the day.,rain,0.73,0.0016,0.0088,0.52,rain,84.83,70.42,73.41,0.91,1013.6,0.8,9,70.93,84.83,5.0,-58.75
+Guyana,,1/17/2020,Possible drizzle in the morning and afternoon.,rain,0.77,0.0042,0.0141,0.69,rain,83.38,70.94,74.35,0.94,1013.8,0.65,7,70.42,83.38,5.0,-58.75
+Guyana,,1/18/2020,Possible drizzle in the morning.,rain,0.8,0.0028,0.0124,0.53,rain,84.91,69.98,72.52,0.86,1013.8,0.61,9,70.94,84.91,5.0,-58.75
+Guyana,,1/19/2020,Humid throughout the day.,rain,0.84,0.0013,0.0073,0.32,rain,86.77,70.36,72.02,0.86,1013.2,0.67,8,69.98,86.77,5.0,-58.75
+Guyana,,1/20/2020,Humid and mostly cloudy throughout the day.,rain,0.87,0.0031,0.0146,0.41,rain,87.3,69.72,71.69,0.85,1012.6,0.74,8,70.36,87.3,5.0,-58.75
+Guyana,,1/21/2020,Possible light rain in the morning.,rain,0.91,0.0077,0.0291,0.55,rain,85.01,68.05,72.05,0.89,1012.2,0.68,8,69.72,85.01,5.0,-58.75
+Guyana,,1/22/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0004,0.0021,0.13,rain,84.68,68.27,70.68,0.86,1011.9,0.58,8,68.05,84.68,5.0,-58.75
+Guyana,,1/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.97,0.0,0.0001,0.03,,87.4,67.66,68.97,0.79,1011.4,0.72,8,68.27,87.4,5.0,-58.75
+Guyana,,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.0,0.0001,0.0002,0.09,rain,88.98,68.06,68.23,0.78,1011.9,0.52,8,67.66,88.98,5.0,-58.75
+Guyana,,1/25/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.04,0.0001,0.0005,0.12,rain,86.14,71.69,71.16,0.87,1013.0,0.86,6,68.06,86.14,5.0,-58.75
+Guyana,,1/26/2020,Humid and overcast throughout the day.,rain,0.07,0.0016,0.0069,0.42,rain,87.64,70.74,72.63,0.85,1012.9,0.85,6,71.69,87.64,5.0,-58.75
+Guyana,,1/27/2020,Possible light rain in the afternoon and evening.,rain,0.1,0.0068,0.0278,0.74,rain,83.31,69.48,74.42,0.94,1013.3,0.83,6,70.74,83.31,5.0,-58.75
+Guyana,,1/28/2020,Humid and mostly cloudy throughout the day.,rain,0.13,0.0006,0.0018,0.31,rain,87.31,70.33,72.82,0.87,1012.3,0.74,8,69.48,87.31,5.0,-58.75
+Guyana,,1/29/2020,Possible light rain in the evening.,rain,0.16,0.0058,0.023,0.57,rain,85.68,70.07,74.06,0.92,1012.1,0.84,6,70.33,85.68,5.0,-58.75
+Guyana,,1/30/2020,Humid throughout the day.,rain,0.19,0.003,0.0116,0.47,rain,85.7,70.82,73.17,0.88,1012.6,0.89,6,70.07,85.7,5.0,-58.75
+Guyana,,1/31/2020,Possible light rain until evening.,rain,0.22,0.0163,0.0707,0.77,rain,80.87,69.94,74.91,0.98,1013.6,0.89,6,70.82,80.87,5.0,-58.75
+Guyana,,2/1/2020,Possible light rain in the morning.,rain,0.25,0.0059,0.0364,0.47,rain,87.1,68.44,71.14,0.84,1013.9,0.71,8,69.94,87.1,5.0,-58.75
+Guyana,,2/2/2020,Humid throughout the day.,partly-cloudy-day,0.28,0.0,0.0002,0.05,,88.93,69.75,68.37,0.77,1014.1,0.58,9,68.44,88.93,5.0,-58.75
+Guyana,,2/3/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.31,0.0001,0.0003,0.07,rain,87.81,68.65,68.83,0.76,1014.9,0.67,7,69.75,87.81,5.0,-58.75
+Guyana,,2/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.0005,0.0028,0.17,rain,86.55,68.79,69.16,0.8,1014.7,0.51,9,68.65,86.55,5.0,-58.75
+Guyana,,2/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.0002,0.0009,0.16,rain,86.89,69.52,68.95,0.77,1014.3,0.51,12,68.79,86.89,5.0,-58.75
+Guyana,,2/6/2020,Humid and partly cloudy throughout the day.,rain,0.42,0.0026,0.0173,0.31,rain,85.96,68.12,68.63,0.78,1013.9,0.55,7,69.52,85.96,5.0,-58.75
+Guyana,,2/7/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0005,0.002,0.14,rain,86.93,67.47,67.76,0.77,1013.9,0.56,10,68.12,86.93,5.0,-58.75
+Guyana,,2/8/2020,Clear throughout the day.,clear-day,0.49,0.0001,0.0003,0.06,rain,89.18,65.99,65.55,0.71,1013.9,0.14,13,67.47,89.18,5.0,-58.75
+Guyana,,2/9/2020,Humid and partly cloudy throughout the day.,rain,0.53,0.0052,0.0242,0.33,rain,84.32,66.56,69.48,0.88,1015.2,0.44,9,65.99,84.32,5.0,-58.75
+Guyana,,2/10/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0006,0.11,rain,87.98,68.15,68.04,0.77,1014.9,0.23,12,66.56,87.98,5.0,-58.75
+Guyana,,2/11/2020,Rain starting in the afternoon.,rain,0.61,0.0218,0.124,0.89,rain,86.99,69.88,71.54,0.89,1013.7,0.25,12,68.15,86.99,5.0,-58.75
+Guyana,,2/12/2020,Possible drizzle in the morning.,rain,0.64,0.0013,0.0108,0.71,rain,85.68,68.72,71.42,0.88,1013.3,0.81,7,69.88,85.68,5.0,-58.75
+Guyana,,2/13/2020,Humid and mostly cloudy throughout the day.,rain,0.68,0.0018,0.0062,0.4,rain,81.86,67.92,70.58,0.86,1012.6,0.52,8,68.72,81.86,5.0,-58.75
+Guyana,,2/14/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.72,0.0005,0.0016,0.24,rain,87.13,67.06,68.09,0.78,1013.3,0.85,6,67.92,87.13,5.0,-58.75
+Guyana,,2/15/2020,Foggy overnight.,partly-cloudy-day,0.75,0.0001,0.0003,0.06,rain,88.23,68.88,68.26,0.77,1013.3,0.43,9,67.06,88.23,5.0,-58.75
+Guyana,,2/16/2020,Humid and mostly cloudy throughout the day.,rain,0.79,0.0073,0.0628,0.36,rain,89.39,71.45,69.88,0.79,1012.0,0.63,9,68.88,89.39,5.0,-58.75
+Guyana,,2/17/2020,Humid and partly cloudy throughout the day.,rain,0.82,0.0016,0.0106,0.33,rain,90.47,71.72,71.83,0.8,1011.5,0.47,10,71.45,90.47,5.0,-58.75
+Guyana,,2/18/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.85,0.0007,0.0026,0.16,rain,88.37,69.91,70.06,0.78,1012.5,0.76,8,71.72,88.37,5.0,-58.75
+Guyana,,2/19/2020,Mostly cloudy throughout the day.,rain,0.89,0.003,0.0222,0.25,rain,87.28,69.78,68.72,0.77,1012.4,0.73,11,69.91,87.28,5.0,-58.75
+Guyana,,2/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.92,0.0003,0.0013,0.08,rain,87.64,69.13,67.61,0.74,1012.1,0.87,8,69.78,87.64,5.0,-58.75
+Guyana,,2/21/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.95,0.0001,0.0003,0.07,rain,89.02,69.84,70.02,0.78,1012.4,0.8,9,69.13,89.02,5.0,-58.75
+Guyana,,2/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.98,0.0002,0.0005,0.07,rain,94.14,72.36,67.51,0.68,1012.5,0.74,6,69.84,94.14,5.0,-58.75
+Guyana,,2/23/2020,Possible light rain in the evening and overnight.,rain,0.01,0.006,0.0264,0.53,rain,88.1,72.56,73.02,0.83,1012.1,0.64,6,72.36,88.1,5.0,-58.75
+Guyana,,2/24/2020,Humid and overcast throughout the day.,rain,0.04,0.0017,0.0052,0.52,rain,87.07,70.2,73.04,0.85,1012.0,0.76,7,72.56,87.07,5.0,-58.75
+Guyana,,2/25/2020,Humid and overcast throughout the day.,rain,0.07,0.0027,0.0184,0.26,rain,85.94,68.12,71.6,0.84,1012.4,0.8,6,70.2,85.94,5.0,-58.75
+Guyana,,2/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0005,0.03,rain,90.79,67.95,67.88,0.74,1012.7,0.58,6,68.12,90.79,5.0,-58.75
+Guyana,,2/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0,0.0004,0.02,,89.35,67.95,67.71,0.73,1013.1,0.65,10,67.95,89.35,5.0,-58.75
+Guyana,,2/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.16,0.0001,0.0005,0.08,rain,86.85,67.83,69.01,0.78,1014.1,0.73,7,67.95,86.85,5.0,-58.75
+Guyana,,2/29/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.19,0.0002,0.0012,0.11,rain,89.32,68.69,69.83,0.78,1014.4,0.72,10,67.83,89.32,5.0,-58.75
+Guyana,,3/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.22,0.0,0.0004,0.04,,90.19,68.27,67.87,0.71,1013.9,0.72,8,68.69,90.19,5.0,-58.75
+Guyana,,3/2/2020,Partly cloudy throughout the day.,clear-day,0.26,0.0001,0.0003,0.07,rain,90.41,68.0,68.04,0.73,1013.0,0.29,11,68.27,90.41,5.0,-58.75
+Guyana,,3/3/2020,Clear throughout the day.,clear-day,0.29,0.0,0.0002,0.03,,91.18,67.34,64.98,0.66,1013.1,0.16,13,68.0,91.18,5.0,-58.75
+Guyana,,3/4/2020,Humid throughout the day.,clear-day,0.32,0.0001,0.0019,0.05,rain,94.72,70.06,65.93,0.67,1013.9,0.11,14,67.34,94.72,5.0,-58.75
+Guyana,,3/5/2020,Humid and mostly cloudy throughout the day.,rain,0.36,0.001,0.0034,0.25,rain,87.44,70.94,71.44,0.81,1014.4,0.62,10,70.06,87.44,5.0,-58.75
+Guyana,,3/6/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.4,0.0002,0.0007,0.16,rain,89.27,67.02,69.76,0.76,1014.0,0.77,9,70.94,89.27,5.0,-58.75
+Guyana,,3/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0003,0.001,0.12,rain,88.95,68.18,67.98,0.75,1012.6,0.59,6,67.02,88.95,5.0,-58.75
+Guyana,,3/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.0008,0.0051,0.1,rain,85.95,67.13,69.53,0.8,1013.6,0.75,10,68.18,85.95,5.0,-58.75
+Guyana,,3/9/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.51,0.0011,0.0089,0.18,rain,88.4,67.63,68.17,0.76,1014.7,0.71,7,67.13,88.4,5.0,-58.75
+Guyana,,3/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.55,0.0,0.0004,0.03,,89.24,69.22,67.97,0.74,1013.7,0.7,8,67.63,89.24,5.0,-58.75
+Guyana,,3/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.59,0.0001,0.0002,0.09,rain,88.5,68.88,68.96,0.74,1011.5,0.5,7,69.22,88.5,5.0,-58.75
+Guyana,,3/12/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.63,0.0001,0.0004,0.11,rain,91.83,70.09,68.84,0.71,1010.2,0.45,13,68.88,91.83,5.0,-58.75
+Guyana,,3/13/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.67,0.0007,0.0055,0.08,rain,88.63,69.9,70.79,0.78,1011.7,0.81,6,70.09,88.63,5.0,-58.75
+Guyana,,3/14/2020,Humid and mostly cloudy throughout the day.,rain,0.7,0.0018,0.0152,0.3,rain,90.36,72.2,72.77,0.83,1011.8,0.81,7,69.9,90.36,5.0,-58.75
+Guyana,,3/15/2020,Possible light rain in the evening and overnight.,rain,0.74,0.0036,0.0375,0.44,rain,86.65,72.44,72.41,0.84,1012.3,0.99,6,72.2,86.65,5.0,-58.75
+Guyana,,3/16/2020,Possible drizzle in the morning.,rain,0.77,0.0078,0.0375,0.72,rain,88.79,72.06,72.75,0.82,1011.8,0.73,7,72.44,88.79,5.0,-58.75
+Guyana,,3/17/2020,Humid and mostly cloudy throughout the day.,rain,0.8,0.0044,0.0343,0.48,rain,89.2,71.56,72.37,0.82,1012.4,0.59,7,72.06,89.2,5.0,-58.75
+Guyana,,3/18/2020,Light rain starting in the afternoon.,rain,0.84,0.0095,0.0295,0.71,rain,86.88,70.4,73.67,0.92,1012.7,0.53,10,71.56,86.88,5.0,-58.75
+Guyana,,3/19/2020,Possible light rain in the afternoon.,rain,0.87,0.013999999999999999,0.0886,0.63,rain,86.97,69.37,72.64,0.89,1013.4,0.73,8,70.4,86.97,5.0,-58.75
+Guyana,,3/20/2020,Light rain in the afternoon and evening.,rain,0.9,0.0099,0.049,0.83,rain,83.51,69.9,73.37,0.96,1013.2,0.55,11,69.37,83.51,5.0,-58.75
+Guyana,,3/21/2020,Possible light rain until evening.,rain,0.93,0.0071,0.0208,0.68,rain,87.14,67.88,72.78,0.94,1012.4,0.58,8,69.9,87.14,5.0,-58.75
+Guyana,,3/22/2020,Humid throughout the day.,partly-cloudy-day,0.96,0.0005,0.002,0.13,rain,89.46,70.76,70.66,0.83,1013.4,0.54,9,67.88,89.46,5.0,-58.75
+Guyana,,3/23/2020,Humid and partly cloudy throughout the day.,rain,0.99,0.0028,0.0191,0.35,rain,90.11,71.4,71.96,0.82,1014.2,0.34,12,70.76,90.11,5.0,-58.75
+Guyana,,3/24/2020,Humid throughout the day.,rain,0.02,0.003,0.0198,0.43,rain,89.83,70.69,72.76,0.85,1013.3,0.48,11,71.4,89.83,5.0,-58.75
+Guyana,,3/25/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.05,0.0014,0.0099,0.18,rain,88.68,69.28,72.25,0.84,1011.8,0.64,13,70.69,88.68,5.0,-58.75
+Guyana,,3/26/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.08,0.0004,0.0017,0.13,rain,88.38,70.87,70.44,0.8,1010.7,0.49,6,69.28,88.38,5.0,-58.75
+Guyana,,3/27/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.11,0.0004,0.0017,0.19,rain,90.03,70.82,71.0,0.78,1009.8,0.61,7,70.87,90.03,5.0,-58.75
+Guyana,,3/28/2020,Rain starting in the afternoon.,rain,0.14,0.0287,0.15,0.84,rain,83.05,72.29,74.38,0.96,1010.5,0.77,6,70.82,83.05,5.0,-58.75
+Guyana,,3/29/2020,Light rain and humid throughout the day.,rain,0.17,0.0189,0.0421,0.99,rain,81.55,73.08,75.56,0.99,1011.6,0.94,6,72.52,81.55,5.0,-58.75
+Guyana,,3/30/2020,Light rain and humid throughout the day.,rain,0.2,0.015,0.0489,0.96,rain,84.34,70.75,74.85,0.96,1011.0,0.97,6,72.6,84.34,5.0,-58.75
+Guyana,,3/31/2020,Humid and overcast throughout the day.,rain,0.24,0.0015,0.0066,0.6,rain,85.16,69.56,73.6,0.92,1010.9,0.92,6,70.75,85.16,5.0,-58.75
+Guyana,,4/1/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.27,0.0001,0.0007,0.09,rain,87.01,70.8,71.3,0.83,1011.3,0.81,6,69.56,87.01,5.0,-58.75
+Guyana,,4/2/2020,Rain in the evening and overnight.,rain,0.31,0.0137,0.109,0.74,rain,87.31,72.83,73.5,0.87,1012.9,0.83,6,70.8,87.31,5.0,-58.75
+Guyana,,4/3/2020,Possible light rain in the evening and overnight.,rain,0.34,0.0064,0.0288,0.68,rain,87.6,73.69,74.18,0.88,1012.0,0.86,6,72.83,87.6,5.0,-58.75
+Guyana,,4/4/2020,Possible light rain overnight.,rain,0.38,0.0012,0.0043,0.34,rain,89.49,75.25,73.4,0.83,1011.0,0.86,8,73.69,89.49,5.0,-58.75
+Guyana,,4/5/2020,Possible drizzle in the morning.,rain,0.42,0.0067,0.0199,0.68,rain,89.95,74.59,75.35,0.85,1011.3,0.86,6,75.25,89.95,5.0,-58.75
+Guyana,,4/6/2020,Light rain in the evening and overnight.,rain,0.46,0.0033,0.013999999999999999,0.53,rain,88.73,74.05,76.27,0.92,1012.1,0.87,7,74.59,88.73,5.0,-58.75
+Guyana,,4/7/2020,Possible light rain and humid throughout the day.,rain,0.5,0.0179,0.0813,0.9,rain,88.91,73.09,76.66,0.94,1012.2,0.95,7,74.05,88.91,5.0,-58.75
+Guyana,,4/8/2020,Possible drizzle in the morning.,rain,0.54,0.0052,0.0113,0.72,rain,87.17,73.0,75.26,0.93,1011.4,0.94,6,73.09,87.17,5.0,-58.75
+Guyana,,4/9/2020,Humid and overcast throughout the day.,rain,0.58,0.0029,0.0095,0.41,rain,90.67,73.08,73.95,0.84,1011.6,0.97,6,73.0,90.67,5.0,-58.75
+Guyana,,4/10/2020,Light rain and humid throughout the day.,rain,0.61,0.0088,0.0327,0.82,rain,89.09,72.28,75.83,0.93,1011.9,1.0,6,73.08,89.09,5.0,-58.75
+Guyana,,4/11/2020,Humid and overcast throughout the day.,rain,0.65,0.0018,0.0122,0.44,rain,90.79,72.72,71.83,0.82,1013.1,0.98,6,72.28,90.79,5.0,-58.75
+Guyana,,4/12/2020,Humid and overcast throughout the day.,cloudy,0.69,0.0025,0.0205,0.18,rain,88.08,71.0,70.72,0.77,1014.0,0.94,6,72.72,88.08,5.0,-58.75
+Guyana,,4/13/2020,Humid and overcast throughout the day.,cloudy,0.72,0.0002,0.0008,0.1,rain,90.21,70.22,68.21,0.72,1014.2,0.94,6,71.0,90.21,5.0,-58.75
+Guyana,,4/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.0,0.0001,0.02,,91.48,69.53,67.02,0.69,1012.6,0.66,7,70.22,91.48,5.0,-58.75
+Guyana,,4/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.0005,0.0038,0.11,rain,86.45,70.06,69.49,0.76,1012.3,0.8,6,69.53,86.45,5.0,-58.75
+Guyana,,4/16/2020,Humid and mostly cloudy throughout the day.,rain,0.82,0.0006,0.0027,0.3,rain,89.63,70.51,70.31,0.77,1014.1,0.58,8,70.06,89.63,5.0,-58.75
+Guyana,,4/17/2020,Possible drizzle in the evening.,rain,0.85,0.0011,0.0116,0.55,rain,87.9,71.63,71.46,0.82,1014.8,0.77,6,70.51,87.9,5.0,-58.75
+Guyana,,4/18/2020,Possible drizzle overnight.,rain,0.88,0.0015,0.0065,0.56,rain,89.95,71.5,72.58,0.81,1014.0,0.62,10,71.63,89.95,5.0,-58.75
+Guyana,,4/19/2020,"Rain until afternoon, starting again overnight.",rain,0.91,0.0294,0.2622,0.9,rain,84.39,70.17,73.54,0.92,1013.8,0.53,11,71.5,84.39,5.0,-58.75
+Guyana,,4/20/2020,Rain and humid throughout the day.,rain,0.94,0.046,0.149,1.0,rain,75.01,70.93,72.27,1.0,1014.0,0.98,6,70.17,75.01,5.0,-58.75

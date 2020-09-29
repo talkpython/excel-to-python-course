@@ -1,0 +1,337 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Netherlands,Aruba,12/31/2019,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.19,0.0001,0.0004,0.1,rain,85.95,78.33,73.46,0.75,1012.4,0.56,6,79.05,85.95,12.5186,-70.0358
+Netherlands,Aruba,1/1/2020,Humid throughout the day.,clear-day,0.22,0.0002,0.0004,0.12,rain,86.18,78.02,72.53,0.74,1013.0,0.27,8,78.31,86.18,12.5186,-70.0358
+Netherlands,Aruba,1/2/2020,Humid and partly cloudy throughout the day.,clear-day,0.25,0.0001,0.0004,0.11,rain,85.45,78.07,72.46,0.74,1013.8,0.31,8,78.02,85.45,12.5186,-70.0358
+Netherlands,Aruba,1/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0003,0.0011,0.17,rain,85.2,78.16,73.11,0.76,1015.0,0.37,7,78.07,85.2,12.5186,-70.0358
+Netherlands,Aruba,1/4/2020,Humid throughout the day.,clear-day,0.31,0.0002,0.0004,0.15,rain,85.95,77.39,72.43,0.74,1015.3,0.11,9,78.16,85.95,12.5186,-70.0358
+Netherlands,Aruba,1/5/2020,Humid throughout the day.,rain,0.34,0.0015,0.0042,0.31,rain,85.16,76.02,73.23,0.77,1014.7,0.24,8,77.39,85.16,12.5186,-70.0358
+Netherlands,Aruba,1/6/2020,Humid and partly cloudy throughout the day.,rain,0.37,0.0039,0.0091,0.42,rain,83.79,77.23,73.25,0.81,1013.1,0.3,8,76.02,83.79,12.5186,-70.0358
+Netherlands,Aruba,1/7/2020,Humid throughout the day.,rain,0.4,0.0024,0.0209,0.3,rain,85.09,78.16,73.98,0.79,1013.0,0.2,8,77.23,85.09,12.5186,-70.0358
+Netherlands,Aruba,1/8/2020,Humid throughout the day.,rain,0.44,0.0031,0.0085,0.32,rain,85.84,77.18,73.51,0.77,1014.6,0.25,8,78.16,85.84,12.5186,-70.0358
+Netherlands,Aruba,1/9/2020,Humid and partly cloudy throughout the day.,clear-day,0.47,0.0005,0.0018,0.17,rain,85.14,78.16,72.01,0.74,1015.2,0.31,8,77.18,85.14,12.5186,-70.0358
+Netherlands,Aruba,1/10/2020,Windy and humid throughout the day.,rain,0.51,0.0097,0.0332,0.48,rain,84.83,78.03,72.55,0.76,1013.6,0.41,7,78.18,84.83,12.5186,-70.0358
+Netherlands,Aruba,1/11/2020,Windy in the morning and afternoon.,wind,0.55,0.0013,0.0092,0.24,rain,85.18,78.21,71.7,0.73,1014.2,0.18,8,78.03,85.18,12.5186,-70.0358
+Netherlands,Aruba,1/12/2020,Windy in the afternoon.,clear-day,0.58,0.001,0.0074,0.2,rain,85.4,76.79,72.53,0.75,1014.8,0.26,8,78.21,85.4,12.5186,-70.0358
+Netherlands,Aruba,1/13/2020,Possible drizzle in the morning.,rain,0.62,0.0057,0.0148,0.47,rain,84.04,76.32,72.19,0.77,1014.0,0.4,8,76.79,84.04,12.5186,-70.0358
+Netherlands,Aruba,1/14/2020,Possible drizzle in the morning.,rain,0.66,0.0053,0.012,0.53,rain,83.9,76.27,71.45,0.76,1012.9,0.33,8,76.32,83.9,12.5186,-70.0358
+Netherlands,Aruba,1/15/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0008,0.0031,0.22,rain,84.43,77.87,73.29,0.79,1011.8,0.36,7,76.27,84.43,12.5186,-70.0358
+Netherlands,Aruba,1/16/2020,Possible light rain in the morning.,rain,0.73,0.005,0.0161,0.48,rain,84.89,77.43,74.3,0.79,1013.1,0.25,8,77.87,84.89,12.5186,-70.0358
+Netherlands,Aruba,1/17/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.77,0.0004,0.0013,0.16,rain,84.59,77.37,73.38,0.78,1013.8,0.38,8,77.43,84.59,12.5186,-70.0358
+Netherlands,Aruba,1/18/2020,Windy in the afternoon.,partly-cloudy-day,0.8,0.0008,0.0031,0.22,rain,84.79,77.26,72.71,0.77,1013.8,0.37,8,77.37,84.79,12.5186,-70.0358
+Netherlands,Aruba,1/19/2020,Windy in the evening.,partly-cloudy-day,0.84,0.0001,0.0005,0.11,rain,85.19,77.69,72.63,0.76,1013.1,0.38,8,77.26,85.19,12.5186,-70.0358
+Netherlands,Aruba,1/20/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0003,0.001,0.14,rain,84.68,77.96,73.86,0.79,1012.3,0.37,8,77.69,84.68,12.5186,-70.0358
+Netherlands,Aruba,1/21/2020,Humid and partly cloudy throughout the day.,rain,0.91,0.0022,0.0107,0.32,rain,84.98,77.75,74.04,0.8,1011.7,0.52,8,77.96,84.98,12.5186,-70.0358
+Netherlands,Aruba,1/22/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0002,0.0003,0.14,rain,83.96,76.24,73.56,0.79,1011.6,0.58,6,77.75,83.96,12.5186,-70.0358
+Netherlands,Aruba,1/23/2020,Humid throughout the day.,clear-day,0.97,0.0004,0.0017,0.19,rain,84.52,76.2,72.62,0.79,1011.8,0.27,9,76.24,84.52,12.5186,-70.0358
+Netherlands,Aruba,1/24/2020,Humid throughout the day.,clear-day,0.0,0.0002,0.0004,0.11,rain,84.85,76.53,71.87,0.76,1013.2,0.24,8,76.2,84.85,12.5186,-70.0358
+Netherlands,Aruba,1/25/2020,Humid throughout the day.,clear-day,0.04,0.0001,0.0004,0.11,rain,84.94,77.0,72.08,0.76,1014.3,0.24,10,76.53,84.94,12.5186,-70.0358
+Netherlands,Aruba,1/26/2020,Humid and partly cloudy throughout the day.,rain,0.07,0.0007,0.002,0.27,rain,83.72,77.1,74.25,0.82,1014.3,0.38,8,77.0,83.72,12.5186,-70.0358
+Netherlands,Aruba,1/27/2020,Humid throughout the day.,clear-day,0.1,0.0002,0.0007,0.16,rain,84.63,77.15,73.73,0.79,1013.9,0.21,10,77.1,84.63,12.5186,-70.0358
+Netherlands,Aruba,1/28/2020,Humid throughout the day.,clear-day,0.13,0.0003,0.0009,0.17,rain,84.95,77.83,73.42,0.78,1013.5,0.24,9,77.15,84.95,12.5186,-70.0358
+Netherlands,Aruba,1/29/2020,Humid throughout the day.,clear-day,0.16,0.0002,0.0004,0.14,rain,85.25,77.23,72.74,0.76,1013.9,0.22,9,77.83,85.25,12.5186,-70.0358
+Netherlands,Aruba,1/30/2020,Humid throughout the day.,clear-day,0.19,0.0002,0.0004,0.12,rain,85.62,78.41,73.02,0.77,1013.8,0.17,9,77.23,85.62,12.5186,-70.0358
+Netherlands,Aruba,1/31/2020,Humid throughout the day.,clear-day,0.22,0.0002,0.0006,0.12,rain,85.79,79.35,75.0,0.8,1014.0,0.24,10,78.41,85.79,12.5186,-70.0358
+Netherlands,Aruba,2/1/2020,Humid and partly cloudy throughout the day.,clear-day,0.25,0.0002,0.0005,0.14,rain,85.48,78.76,74.88,0.79,1013.8,0.31,8,79.35,85.48,12.5186,-70.0358
+Netherlands,Aruba,2/2/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0002,0.0005,0.13,rain,85.25,78.02,74.31,0.79,1013.7,0.41,8,78.76,85.25,12.5186,-70.0358
+Netherlands,Aruba,2/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0003,0.0011,0.19,rain,85.47,77.83,73.54,0.77,1014.5,0.49,8,78.02,85.47,12.5186,-70.0358
+Netherlands,Aruba,2/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.35,0.0003,0.0013,0.14,rain,84.79,76.78,72.47,0.76,1014.9,0.32,9,77.83,84.79,12.5186,-70.0358
+Netherlands,Aruba,2/5/2020,Humid and partly cloudy throughout the day.,clear-day,0.38,0.0003,0.0014,0.17,rain,85.35,77.4,71.66,0.75,1014.2,0.3,10,76.78,85.35,12.5186,-70.0358
+Netherlands,Aruba,2/6/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0003,0.0009,0.11,rain,85.18,78.26,72.5,0.75,1012.8,0.34,9,77.4,85.18,12.5186,-70.0358
+Netherlands,Aruba,2/7/2020,Humid and partly cloudy throughout the day.,clear-day,0.45,0.0002,0.0005,0.11,rain,85.1,77.62,73.02,0.76,1014.0,0.25,10,78.26,85.1,12.5186,-70.0358
+Netherlands,Aruba,2/8/2020,Humid throughout the day.,clear-day,0.49,0.0001,0.0004,0.12,rain,84.81,75.91,71.76,0.74,1015.1,0.08,10,77.62,84.81,12.5186,-70.0358
+Netherlands,Aruba,2/9/2020,Humid throughout the day.,rain,0.53,0.0028,0.0124,0.42,rain,84.47,77.22,72.81,0.79,1015.3,0.2,9,75.91,84.47,12.5186,-70.0358
+Netherlands,Aruba,2/10/2020,Humid throughout the day.,clear-day,0.57,0.0002,0.0004,0.1,rain,85.37,77.04,73.01,0.77,1014.8,0.14,9,77.22,85.37,12.5186,-70.0358
+Netherlands,Aruba,2/11/2020,Humid throughout the day.,clear-day,0.61,0.0001,0.0004,0.09,rain,84.76,77.08,72.31,0.76,1014.4,0.11,10,77.04,84.76,12.5186,-70.0358
+Netherlands,Aruba,2/12/2020,Humid throughout the day.,clear-day,0.64,0.0003,0.0009,0.12,rain,84.15,76.97,73.3,0.8,1013.5,0.19,10,77.08,84.15,12.5186,-70.0358
+Netherlands,Aruba,2/13/2020,Humid throughout the day.,rain,0.68,0.0015,0.0084,0.26,rain,83.93,76.83,73.42,0.8,1012.7,0.22,9,76.97,83.93,12.5186,-70.0358
+Netherlands,Aruba,2/14/2020,Humid throughout the day.,rain,0.72,0.0054,0.0181,0.49,rain,84.43,76.92,73.42,0.8,1013.1,0.09,10,76.83,84.43,12.5186,-70.0358
+Netherlands,Aruba,2/15/2020,Humid throughout the day.,clear-day,0.75,0.0002,0.0004,0.15,rain,84.61,76.05,73.12,0.78,1013.3,0.09,10,76.92,84.61,12.5186,-70.0358
+Netherlands,Aruba,2/16/2020,Humid throughout the day.,clear-day,0.79,0.0003,0.0013,0.16,rain,84.48,77.74,73.32,0.79,1011.9,0.17,10,76.05,84.48,12.5186,-70.0358
+Netherlands,Aruba,2/17/2020,Humid throughout the day.,partly-cloudy-day,0.82,0.0001,0.0002,0.09,rain,84.73,77.26,73.58,0.79,1011.4,0.37,10,77.74,84.73,12.5186,-70.0358
+Netherlands,Aruba,2/18/2020,Humid throughout the day.,rain,0.85,0.0024,0.009000000000000001,0.29,rain,83.67,77.1,74.58,0.83,1012.0,0.34,10,77.26,83.67,12.5186,-70.0358
+Netherlands,Aruba,2/19/2020,Humid throughout the day.,rain,0.89,0.0026,0.0082,0.25,rain,83.7,77.3,74.39,0.82,1012.5,0.21,11,77.1,83.7,12.5186,-70.0358
+Netherlands,Aruba,2/20/2020,Humid throughout the day.,rain,0.92,0.0043,0.0146,0.32,rain,84.79,76.58,73.36,0.8,1011.8,0.31,11,77.3,84.79,12.5186,-70.0358
+Netherlands,Aruba,2/21/2020,Humid throughout the day.,clear-day,0.95,0.0002,0.0008,0.12,rain,84.37,76.68,72.35,0.77,1013.1,0.22,10,76.58,84.37,12.5186,-70.0358
+Netherlands,Aruba,2/22/2020,Humid and partly cloudy throughout the day.,clear-day,0.98,0.0003,0.0006,0.14,rain,83.99,75.58,72.17,0.77,1014.0,0.29,10,76.68,83.99,12.5186,-70.0358
+Netherlands,Aruba,2/23/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0002,0.0011,0.15,rain,84.94,76.6,70.92,0.75,1013.8,0.35,9,75.58,84.94,12.5186,-70.0358
+Netherlands,Aruba,2/24/2020,Humid throughout the day.,clear-day,0.04,0.0001,0.0004,0.11,rain,84.15,77.12,71.57,0.75,1013.4,0.25,10,76.6,84.15,12.5186,-70.0358
+Netherlands,Aruba,2/25/2020,Humid throughout the day.,clear-day,0.07,0.0004,0.0018,0.16,rain,84.99,77.64,74.57,0.81,1013.1,0.24,10,77.12,84.99,12.5186,-70.0358
+Netherlands,Aruba,2/26/2020,Humid throughout the day.,clear-day,0.1,0.0002,0.0007,0.13,rain,85.16,77.73,73.97,0.79,1013.5,0.2,10,77.64,85.16,12.5186,-70.0358
+Netherlands,Aruba,2/27/2020,Humid and partly cloudy throughout the day.,clear-day,0.13,0.0002,0.0004,0.08,rain,85.59,77.12,73.14,0.77,1014.5,0.26,10,77.73,85.59,12.5186,-70.0358
+Netherlands,Aruba,2/28/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0018,0.008,0.23,rain,85.4,76.66,72.62,0.76,1014.6,0.37,8,77.12,85.4,12.5186,-70.0358
+Netherlands,Aruba,2/29/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0002,0.0005,0.07,rain,85.2,77.0,70.89,0.72,1015.4,0.38,9,76.66,85.2,12.5186,-70.0358
+Netherlands,Aruba,3/1/2020,Humid throughout the day.,clear-day,0.22,0.0003,0.0012,0.09,rain,85.79,77.13,71.62,0.73,1014.8,0.26,11,77.0,85.79,12.5186,-70.0358
+Netherlands,Aruba,3/2/2020,Humid throughout the day.,clear-day,0.26,0.0002,0.0007,0.09,rain,85.37,77.8,71.34,0.73,1014.1,0.18,11,77.13,85.37,12.5186,-70.0358
+Netherlands,Aruba,3/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.29,0.0002,0.0007,0.06,rain,85.91,77.31,70.95,0.71,1013.8,0.35,10,77.8,85.91,12.5186,-70.0358
+Netherlands,Aruba,3/4/2020,Humid throughout the day.,clear-day,0.32,0.0004,0.0019,0.13,rain,86.35,77.53,72.41,0.75,1014.1,0.3,10,77.31,86.35,12.5186,-70.0358
+Netherlands,Aruba,3/5/2020,Windy in the afternoon.,clear-day,0.36,0.0002,0.0004,0.12,rain,85.08,77.3,72.47,0.74,1013.9,0.29,11,77.53,85.08,12.5186,-70.0358
+Netherlands,Aruba,3/6/2020,Humid throughout the day.,clear-day,0.4,0.0002,0.0005,0.09,rain,85.08,77.44,71.93,0.74,1013.9,0.29,11,77.3,85.08,12.5186,-70.0358
+Netherlands,Aruba,3/7/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0002,0.0003,0.1,rain,85.11,77.71,71.5,0.73,1013.0,0.38,9,77.44,85.11,12.5186,-70.0358
+Netherlands,Aruba,3/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0001,0.0003,0.09,rain,85.6,76.71,72.09,0.75,1014.0,0.35,9,77.71,85.6,12.5186,-70.0358
+Netherlands,Aruba,3/9/2020,Humid throughout the day.,clear-day,0.51,0.0003,0.0005,0.19,rain,85.67,76.8,71.5,0.73,1014.9,0.22,10,76.71,85.67,12.5186,-70.0358
+Netherlands,Aruba,3/10/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.55,0.0002,0.0007,0.1,rain,85.11,76.97,71.56,0.74,1014.0,0.5,8,76.8,85.11,12.5186,-70.0358
+Netherlands,Aruba,3/11/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.59,0.0012,0.004,0.2,rain,85.1,77.05,72.14,0.75,1011.9,0.47,10,76.97,85.1,12.5186,-70.0358
+Netherlands,Aruba,3/12/2020,Humid throughout the day.,partly-cloudy-day,0.63,0.0005,0.0015,0.15,rain,84.93,77.38,71.84,0.75,1010.7,0.35,11,77.05,84.93,12.5186,-70.0358
+Netherlands,Aruba,3/13/2020,Humid throughout the day.,clear-day,0.67,0.0002,0.0004,0.09,rain,85.27,77.68,71.73,0.73,1012.8,0.23,11,77.38,85.27,12.5186,-70.0358
+Netherlands,Aruba,3/14/2020,Humid throughout the day.,clear-day,0.7,0.0005,0.0029,0.15,rain,84.88,76.77,72.15,0.75,1014.1,0.22,10,77.68,84.88,12.5186,-70.0358
+Netherlands,Aruba,3/15/2020,Humid throughout the day.,clear-day,0.74,0.0009,0.0042,0.21,rain,85.42,76.55,72.17,0.75,1014.2,0.19,12,76.77,85.42,12.5186,-70.0358
+Netherlands,Aruba,3/16/2020,Humid and partly cloudy throughout the day.,rain,0.77,0.0038,0.0121,0.41,rain,83.9,76.14,72.18,0.77,1013.8,0.45,10,76.55,83.9,12.5186,-70.0358
+Netherlands,Aruba,3/17/2020,Humid throughout the day.,clear-day,0.8,0.0002,0.0004,0.1,rain,84.84,76.26,70.08,0.71,1014.6,0.27,11,76.14,84.84,12.5186,-70.0358
+Netherlands,Aruba,3/18/2020,Humid throughout the day.,rain,0.84,0.0029,0.0122,0.27,rain,85.42,76.8,71.63,0.74,1014.7,0.2,12,76.26,85.42,12.5186,-70.0358
+Netherlands,Aruba,3/19/2020,Humid throughout the day.,clear-day,0.87,0.0012,0.0092,0.2,rain,85.45,77.37,72.11,0.74,1015.2,0.26,11,76.8,85.45,12.5186,-70.0358
+Netherlands,Aruba,3/20/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0009,0.0047,0.18,rain,84.92,76.62,72.11,0.75,1015.5,0.34,11,77.37,84.92,12.5186,-70.0358
+Netherlands,Aruba,3/21/2020,Possible light rain in the morning.,rain,0.93,0.0054,0.0235,0.57,rain,82.89,76.34,71.42,0.75,1014.8,0.31,11,76.62,82.89,12.5186,-70.0358
+Netherlands,Aruba,3/22/2020,Possible drizzle in the morning.,rain,0.96,0.0027,0.008,0.49,rain,84.64,77.18,71.84,0.75,1014.3,0.23,11,76.34,84.64,12.5186,-70.0358
+Netherlands,Aruba,3/23/2020,Humid and partly cloudy throughout the day.,clear-day,0.99,0.0007,0.0023,0.23,rain,86.23,78.17,73.39,0.77,1015.3,0.31,10,77.18,86.23,12.5186,-70.0358
+Netherlands,Aruba,3/24/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.02,0.0002,0.0005,0.11,rain,85.88,77.97,72.77,0.75,1014.6,0.41,10,78.17,85.88,12.5186,-70.0358
+Netherlands,Aruba,3/25/2020,Humid throughout the day.,partly-cloudy-day,0.05,0.0003,0.0013,0.13,rain,85.58,77.89,72.43,0.74,1012.7,0.37,10,77.97,85.58,12.5186,-70.0358
+Netherlands,Aruba,3/26/2020,Humid and partly cloudy throughout the day.,clear-day,0.08,0.0001,0.0002,0.12,rain,85.94,78.18,72.47,0.74,1011.7,0.28,10,77.89,85.94,12.5186,-70.0358
+Netherlands,Aruba,3/27/2020,Humid throughout the day.,clear-day,0.11,0.0001,0.0005,0.09,rain,85.46,76.95,71.78,0.73,1011.2,0.18,12,78.18,85.46,12.5186,-70.0358
+Netherlands,Aruba,3/28/2020,Humid throughout the day.,clear-day,0.14,0.0003,0.0024,0.14,rain,85.34,77.8,71.89,0.74,1012.0,0.25,11,76.95,85.34,12.5186,-70.0358
+Netherlands,Aruba,3/29/2020,Humid throughout the day.,clear-day,0.17,0.0003,0.0014,0.12,rain,86.31,77.84,72.85,0.75,1013.1,0.29,11,77.8,86.31,12.5186,-70.0358
+Netherlands,Aruba,3/30/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0007,0.0028,0.19,rain,85.51,76.81,73.11,0.77,1012.9,0.43,8,77.84,85.51,12.5186,-70.0358
+Netherlands,Aruba,3/31/2020,Humid throughout the day.,clear-day,0.24,0.0002,0.0006,0.12,rain,85.08,78.22,70.81,0.71,1011.2,0.28,11,76.81,85.08,12.5186,-70.0358
+Netherlands,Aruba,4/1/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0001,0.0003,0.07,rain,85.8,78.09,72.66,0.74,1010.5,0.37,11,78.22,85.8,12.5186,-70.0358
+Netherlands,Aruba,4/2/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0001,0.0002,0.07,rain,85.15,78.52,72.97,0.76,1011.9,0.34,10,78.09,85.15,12.5186,-70.0358
+Netherlands,Aruba,4/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0027,0.09,rain,86.17,78.72,74.98,0.79,1011.0,0.32,10,78.52,86.17,12.5186,-70.0358
+Netherlands,Aruba,4/4/2020,Humid and partly cloudy throughout the day.,rain,0.38,0.0047,0.039,0.34,rain,87.15,79.62,77.17,0.84,1010.2,0.46,11,78.72,87.15,12.5186,-70.0358
+Netherlands,Aruba,4/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0006,0.0048,0.15,rain,86.84,79.62,76.94,0.83,1010.7,0.47,9,79.62,86.84,12.5186,-70.0358
+Netherlands,Aruba,4/6/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.46,0.0002,0.0006,0.09,rain,86.58,79.65,77.02,0.83,1012.0,0.63,8,79.62,86.58,12.5186,-70.0358
+Netherlands,Aruba,4/7/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.5,0.0002,0.0004,0.08,rain,86.85,79.93,77.1,0.82,1012.4,0.47,10,79.65,86.85,12.5186,-70.0358
+Netherlands,Aruba,4/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.54,0.0003,0.001,0.09,rain,86.43,79.62,76.33,0.81,1011.3,0.53,9,79.93,86.43,12.5186,-70.0358
+Netherlands,Aruba,4/9/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0002,0.0005,0.08,rain,86.92,79.58,75.84,0.8,1010.6,0.54,9,79.62,86.92,12.5186,-70.0358
+Netherlands,Aruba,4/10/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0002,0.0003,0.1,rain,86.76,79.64,76.7,0.82,1011.1,0.69,8,79.58,86.76,12.5186,-70.0358
+Netherlands,Aruba,4/11/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0003,0.0017,0.1,rain,86.93,79.9,76.41,0.81,1012.2,0.52,10,79.64,86.93,12.5186,-70.0358
+Netherlands,Aruba,4/12/2020,Windy in the afternoon.,clear-day,0.69,0.0004,0.0036,0.11,rain,86.77,79.7,74.49,0.77,1014.2,0.28,11,79.9,86.77,12.5186,-70.0358
+Netherlands,Aruba,4/13/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0002,0.0004,0.1,rain,86.48,79.17,73.89,0.75,1015.1,0.35,11,79.7,86.48,12.5186,-70.0358
+Netherlands,Aruba,4/14/2020,Humid throughout the day.,clear-day,0.75,0.0002,0.0008,0.07,rain,86.74,78.58,74.05,0.76,1014.0,0.21,11,79.17,86.74,12.5186,-70.0358
+Netherlands,Aruba,4/15/2020,Humid and partly cloudy throughout the day.,clear-day,0.78,0.0004,0.0011,0.13,rain,86.68,78.27,73.52,0.75,1013.3,0.28,11,78.58,86.68,12.5186,-70.0358
+Netherlands,Aruba,4/16/2020,Humid throughout the day.,clear-day,0.82,0.0002,0.0006,0.09,rain,86.9,78.23,73.58,0.75,1014.3,0.31,10,78.27,86.9,12.5186,-70.0358
+Netherlands,Aruba,4/17/2020,Humid throughout the day.,clear-day,0.85,0.0002,0.0003,0.08,rain,87.06,78.78,73.93,0.76,1014.9,0.27,11,78.23,87.06,12.5186,-70.0358
+Netherlands,Aruba,4/18/2020,Humid and partly cloudy throughout the day.,clear-day,0.88,0.0002,0.0005,0.12,rain,86.61,79.23,73.87,0.75,1014.2,0.29,10,78.78,86.61,12.5186,-70.0358
+Netherlands,Aruba,4/19/2020,Humid throughout the day.,partly-cloudy-day,0.91,0.0002,0.0007,0.19,rain,86.31,79.1,74.05,0.76,1013.5,0.33,11,79.23,86.31,12.5186,-70.0358
+Netherlands,Aruba,4/20/2020,Humid and partly cloudy throughout the day.,clear-day,0.94,0.0001,0.0002,0.08,rain,86.07,79.15,73.97,0.76,1012.8,0.28,10,79.1,86.07,12.5186,-70.0358
+Netherlands,Curacao,12/31/2019,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.19,0.0001,0.0004,0.1,rain,85.63,77.91,72.99,0.76,1012.6,0.58,6,78.25,85.63,12.1696,-68.99
+Netherlands,Curacao,1/1/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.22,0.0001,0.0005,0.12,rain,84.89,77.41,71.87,0.74,1013.2,0.52,7,77.91,84.89,12.1696,-68.99
+Netherlands,Curacao,1/2/2020,Humid throughout the day.,clear-day,0.25,0.0001,0.0004,0.1,rain,85.33,77.72,71.86,0.74,1013.9,0.27,8,77.41,85.33,12.1696,-68.99
+Netherlands,Curacao,1/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0013,0.0034,0.24,rain,85.78,77.79,72.54,0.76,1015.0,0.43,6,77.72,85.78,12.1696,-68.99
+Netherlands,Curacao,1/4/2020,Humid throughout the day.,clear-day,0.31,0.0002,0.0004,0.15,rain,84.17,76.05,72.39,0.76,1015.3,0.11,9,77.79,84.17,12.1696,-68.99
+Netherlands,Curacao,1/5/2020,Possible light rain in the morning and afternoon.,rain,0.34,0.0078,0.0288,0.58,rain,82.09,75.9,72.64,0.81,1014.4,0.28,8,76.05,82.09,12.1696,-68.99
+Netherlands,Curacao,1/6/2020,Humid and partly cloudy throughout the day.,rain,0.37,0.0051,0.0173,0.43,rain,82.33,76.06,72.53,0.81,1013.0,0.34,7,75.48,82.33,12.1696,-68.99
+Netherlands,Curacao,1/7/2020,Possible light rain in the morning.,rain,0.4,0.0072,0.0385,0.44,rain,84.21,77.58,73.53,0.8,1012.9,0.26,7,76.06,84.21,12.1696,-68.99
+Netherlands,Curacao,1/8/2020,Humid and partly cloudy throughout the day.,rain,0.44,0.0025,0.0082,0.31,rain,84.48,77.53,72.77,0.76,1014.8,0.29,7,77.58,84.48,12.1696,-68.99
+Netherlands,Curacao,1/9/2020,Humid and partly cloudy throughout the day.,rain,0.47,0.002,0.0051,0.31,rain,84.54,77.87,71.97,0.76,1015.1,0.33,8,77.53,84.54,12.1696,-68.99
+Netherlands,Curacao,1/10/2020,Possible light rain in the morning.,rain,0.51,0.0077,0.0184,0.54,rain,83.8,78.35,72.23,0.76,1013.7,0.49,6,77.46,83.8,12.1696,-68.99
+Netherlands,Curacao,1/11/2020,Humid and partly cloudy throughout the day.,rain,0.55,0.0017,0.0099,0.29,rain,84.43,77.88,71.62,0.74,1014.4,0.25,8,78.34,84.43,12.1696,-68.99
+Netherlands,Curacao,1/12/2020,Humid and partly cloudy throughout the day.,rain,0.58,0.0023,0.0126,0.26,rain,84.16,77.09,72.31,0.76,1015.0,0.34,8,77.88,84.16,12.1696,-68.99
+Netherlands,Curacao,1/13/2020,Humid and partly cloudy throughout the day.,rain,0.62,0.0078,0.0141,0.55,rain,83.12,75.55,71.97,0.77,1014.2,0.47,7,77.09,83.12,12.1696,-68.99
+Netherlands,Curacao,1/14/2020,Possible light rain in the morning.,rain,0.66,0.0125,0.0294,0.7,rain,82.79,76.19,71.21,0.77,1012.8,0.43,8,75.55,82.79,12.1696,-68.99
+Netherlands,Curacao,1/15/2020,Possible light rain in the morning.,rain,0.69,0.0077,0.0194,0.56,rain,83.97,77.63,72.85,0.79,1011.8,0.27,8,76.19,83.97,12.1696,-68.99
+Netherlands,Curacao,1/16/2020,Possible drizzle in the morning.,rain,0.73,0.01,0.0255,0.71,rain,84.63,76.87,73.89,0.79,1013.3,0.23,8,77.63,84.63,12.1696,-68.99
+Netherlands,Curacao,1/17/2020,Humid and partly cloudy throughout the day.,rain,0.77,0.0039,0.0145,0.4,rain,84.26,77.47,73.24,0.78,1014.0,0.35,8,76.87,84.26,12.1696,-68.99
+Netherlands,Curacao,1/18/2020,Humid and mostly cloudy throughout the day.,rain,0.8,0.0018,0.0059,0.33,rain,84.19,77.29,72.38,0.77,1014.2,0.48,6,77.47,84.19,12.1696,-68.99
+Netherlands,Curacao,1/19/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0005,0.0014,0.18,rain,84.92,77.48,72.07,0.75,1013.6,0.39,9,77.29,84.92,12.1696,-68.99
+Netherlands,Curacao,1/20/2020,Humid and partly cloudy throughout the day.,rain,0.87,0.0016,0.0097,0.25,rain,84.87,77.47,73.45,0.78,1012.7,0.35,8,77.48,84.87,12.1696,-68.99
+Netherlands,Curacao,1/21/2020,Humid and partly cloudy throughout the day.,rain,0.91,0.0032,0.0097,0.4,rain,84.53,76.99,73.09,0.78,1012.0,0.55,8,77.47,84.53,12.1696,-68.99
+Netherlands,Curacao,1/22/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0003,0.0012,0.15,rain,84.24,76.1,72.66,0.78,1011.6,0.58,7,76.99,84.24,12.1696,-68.99
+Netherlands,Curacao,1/23/2020,Humid throughout the day.,clear-day,0.97,0.0003,0.0011,0.18,rain,83.92,75.28,71.78,0.77,1011.9,0.27,9,76.1,83.92,12.1696,-68.99
+Netherlands,Curacao,1/24/2020,Humid throughout the day.,clear-day,0.0,0.0002,0.0004,0.11,rain,84.42,75.71,71.19,0.76,1013.2,0.26,9,75.28,84.42,12.1696,-68.99
+Netherlands,Curacao,1/25/2020,Humid throughout the day.,clear-day,0.04,0.0002,0.0007,0.12,rain,83.71,76.72,72.05,0.77,1014.4,0.22,8,75.71,83.71,12.1696,-68.99
+Netherlands,Curacao,1/26/2020,Humid throughout the day.,rain,0.07,0.0007,0.0022,0.28,rain,84.47,76.66,73.29,0.79,1014.2,0.27,8,76.72,84.47,12.1696,-68.99
+Netherlands,Curacao,1/27/2020,Humid throughout the day.,clear-day,0.1,0.0004,0.0022,0.19,rain,84.9,76.41,73.41,0.79,1014.0,0.31,9,76.66,84.9,12.1696,-68.99
+Netherlands,Curacao,1/28/2020,Humid throughout the day.,clear-day,0.13,0.0002,0.0005,0.15,rain,84.63,77.05,72.71,0.77,1013.7,0.19,9,76.41,84.63,12.1696,-68.99
+Netherlands,Curacao,1/29/2020,Humid throughout the day.,clear-day,0.16,0.0002,0.0004,0.12,rain,84.95,76.81,72.17,0.76,1014.1,0.16,10,77.05,84.95,12.1696,-68.99
+Netherlands,Curacao,1/30/2020,Humid throughout the day.,clear-day,0.19,0.0002,0.0009,0.14,rain,84.6,77.38,72.93,0.78,1014.0,0.12,10,76.81,84.6,12.1696,-68.99
+Netherlands,Curacao,1/31/2020,Humid throughout the day.,clear-day,0.22,0.0002,0.0006,0.15,rain,85.77,78.84,74.56,0.8,1014.1,0.25,10,77.38,85.77,12.1696,-68.99
+Netherlands,Curacao,2/1/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0004,0.0013,0.17,rain,85.02,77.99,74.35,0.79,1014.2,0.37,8,78.84,85.02,12.1696,-68.99
+Netherlands,Curacao,2/2/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0002,0.0008,0.13,rain,84.63,77.19,73.84,0.79,1013.9,0.34,10,77.99,84.63,12.1696,-68.99
+Netherlands,Curacao,2/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0002,0.0004,0.14,rain,84.73,76.76,72.61,0.76,1014.8,0.47,8,77.19,84.73,12.1696,-68.99
+Netherlands,Curacao,2/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.35,0.0002,0.0005,0.14,rain,83.9,76.84,71.32,0.75,1015.1,0.4,8,76.76,83.9,12.1696,-68.99
+Netherlands,Curacao,2/5/2020,Clear throughout the day.,clear-day,0.38,0.0003,0.0006,0.12,rain,83.94,77.4,70.86,0.73,1014.5,0.24,10,76.84,83.94,12.1696,-68.99
+Netherlands,Curacao,2/6/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0003,0.001,0.11,rain,85.4,77.76,72.14,0.75,1013.2,0.37,10,77.4,85.4,12.1696,-68.99
+Netherlands,Curacao,2/7/2020,Humid throughout the day.,clear-day,0.45,0.0002,0.0006,0.1,rain,84.78,76.83,72.1,0.74,1014.4,0.21,10,77.76,84.78,12.1696,-68.99
+Netherlands,Curacao,2/8/2020,Humid throughout the day.,clear-day,0.49,0.0002,0.0008,0.14,rain,84.63,75.83,71.06,0.74,1015.3,0.14,9,76.83,84.63,12.1696,-68.99
+Netherlands,Curacao,2/9/2020,Humid throughout the day.,rain,0.53,0.0008,0.0027,0.32,rain,83.7,76.65,72.12,0.78,1015.5,0.15,10,75.83,83.7,12.1696,-68.99
+Netherlands,Curacao,2/10/2020,Humid throughout the day.,clear-day,0.57,0.0008,0.0062,0.17,rain,84.23,77.21,72.13,0.76,1015.1,0.21,9,76.65,84.23,12.1696,-68.99
+Netherlands,Curacao,2/11/2020,Humid throughout the day.,clear-day,0.61,0.0002,0.0005,0.11,rain,83.81,76.72,71.86,0.76,1014.7,0.11,10,77.21,83.81,12.1696,-68.99
+Netherlands,Curacao,2/12/2020,Humid throughout the day.,clear-day,0.64,0.0007,0.0016,0.2,rain,83.65,76.81,72.73,0.78,1013.8,0.23,9,76.72,83.65,12.1696,-68.99
+Netherlands,Curacao,2/13/2020,Humid and partly cloudy throughout the day.,rain,0.68,0.0042,0.0129,0.46,rain,83.91,76.82,72.7,0.79,1012.8,0.26,10,76.81,83.91,12.1696,-68.99
+Netherlands,Curacao,2/14/2020,Humid throughout the day.,rain,0.72,0.0056,0.016,0.5,rain,83.76,76.89,72.71,0.78,1013.3,0.08,10,76.82,83.76,12.1696,-68.99
+Netherlands,Curacao,2/15/2020,Humid throughout the day.,clear-day,0.75,0.0011,0.0066,0.22,rain,84.96,76.81,72.57,0.77,1013.5,0.06,11,76.89,84.96,12.1696,-68.99
+Netherlands,Curacao,2/16/2020,Humid throughout the day.,clear-day,0.79,0.0001,0.0004,0.12,rain,84.0,77.08,72.35,0.77,1012.3,0.12,11,76.81,84.0,12.1696,-68.99
+Netherlands,Curacao,2/17/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.82,0.0004,0.0014,0.12,rain,83.98,77.25,73.09,0.78,1011.8,0.44,9,77.08,83.98,12.1696,-68.99
+Netherlands,Curacao,2/18/2020,Humid throughout the day.,rain,0.85,0.0067,0.0249,0.42,rain,82.73,77.08,74.26,0.83,1012.2,0.3,10,77.25,82.73,12.1696,-68.99
+Netherlands,Curacao,2/19/2020,Humid throughout the day.,rain,0.89,0.0035,0.0113,0.32,rain,84.19,76.84,74.02,0.81,1012.6,0.19,11,77.08,84.19,12.1696,-68.99
+Netherlands,Curacao,2/20/2020,Possible light rain in the morning.,rain,0.92,0.0069,0.0239,0.44,rain,83.94,76.46,72.77,0.79,1012.0,0.34,10,76.84,83.94,12.1696,-68.99
+Netherlands,Curacao,2/21/2020,Humid throughout the day.,clear-day,0.95,0.0002,0.0005,0.12,rain,84.62,75.81,71.4,0.75,1013.3,0.24,10,76.46,84.62,12.1696,-68.99
+Netherlands,Curacao,2/22/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.98,0.0003,0.0007,0.14,rain,84.28,75.56,70.89,0.74,1013.9,0.4,10,75.81,84.28,12.1696,-68.99
+Netherlands,Curacao,2/23/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0002,0.0006,0.13,rain,84.02,76.23,70.19,0.73,1013.8,0.39,10,75.56,84.02,12.1696,-68.99
+Netherlands,Curacao,2/24/2020,Humid throughout the day.,clear-day,0.04,0.0005,0.0051,0.13,rain,84.95,77.31,72.17,0.76,1013.4,0.29,10,76.23,84.95,12.1696,-68.99
+Netherlands,Curacao,2/25/2020,Humid throughout the day.,clear-day,0.07,0.001,0.0082,0.2,rain,85.05,77.44,73.92,0.79,1013.2,0.29,11,77.31,85.05,12.1696,-68.99
+Netherlands,Curacao,2/26/2020,Humid and partly cloudy throughout the day.,clear-day,0.1,0.0002,0.0003,0.11,rain,85.27,77.08,72.8,0.76,1013.8,0.25,9,77.44,85.27,12.1696,-68.99
+Netherlands,Curacao,2/27/2020,Humid and partly cloudy throughout the day.,clear-day,0.13,0.0002,0.0005,0.08,rain,85.16,76.68,72.18,0.75,1014.5,0.29,10,77.08,85.16,12.1696,-68.99
+Netherlands,Curacao,2/28/2020,Humid and partly cloudy throughout the day.,rain,0.16,0.0029,0.0134,0.29,rain,85.23,76.3,71.73,0.75,1014.8,0.38,9,76.68,85.23,12.1696,-68.99
+Netherlands,Curacao,2/29/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0006,0.0035,0.16,rain,83.67,76.71,70.43,0.72,1015.5,0.37,9,76.3,83.67,12.1696,-68.99
+Netherlands,Curacao,3/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.22,0.0002,0.0005,0.07,rain,85.0,77.05,70.48,0.72,1015.0,0.32,10,76.71,85.0,12.1696,-68.99
+Netherlands,Curacao,3/2/2020,Clear throughout the day.,clear-day,0.26,0.0003,0.0008,0.09,rain,84.37,76.85,70.21,0.71,1014.3,0.23,10,77.05,84.37,12.1696,-68.99
+Netherlands,Curacao,3/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.29,0.0001,0.0004,0.06,rain,85.28,76.57,70.18,0.71,1014.2,0.4,9,76.85,85.28,12.1696,-68.99
+Netherlands,Curacao,3/4/2020,Humid throughout the day.,clear-day,0.32,0.0004,0.0016,0.14,rain,85.07,77.2,71.77,0.74,1014.4,0.27,12,76.57,85.07,12.1696,-68.99
+Netherlands,Curacao,3/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.36,0.0001,0.0004,0.12,rain,85.35,77.21,71.77,0.74,1014.3,0.32,10,77.2,85.35,12.1696,-68.99
+Netherlands,Curacao,3/6/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0002,0.0005,0.12,rain,84.87,76.59,70.93,0.72,1014.4,0.34,10,77.21,84.87,12.1696,-68.99
+Netherlands,Curacao,3/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0002,0.0006,0.1,rain,84.4,77.14,70.56,0.72,1013.2,0.33,8,76.59,84.4,12.1696,-68.99
+Netherlands,Curacao,3/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0002,0.0004,0.11,rain,84.96,76.51,71.97,0.75,1014.1,0.41,9,77.14,84.96,12.1696,-68.99
+Netherlands,Curacao,3/9/2020,Humid and partly cloudy throughout the day.,clear-day,0.51,0.0002,0.0004,0.18,rain,84.47,76.55,70.25,0.72,1015.3,0.25,10,76.51,84.47,12.1696,-68.99
+Netherlands,Curacao,3/10/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.55,0.0004,0.0013,0.12,rain,84.2,76.29,71.36,0.74,1014.1,0.52,10,76.55,84.2,12.1696,-68.99
+Netherlands,Curacao,3/11/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.59,0.0005,0.0018,0.18,rain,84.41,76.45,71.23,0.74,1012.0,0.41,10,76.29,84.41,12.1696,-68.99
+Netherlands,Curacao,3/12/2020,Humid throughout the day.,clear-day,0.63,0.0003,0.0005,0.15,rain,84.68,76.84,70.89,0.73,1010.9,0.31,11,76.45,84.68,12.1696,-68.99
+Netherlands,Curacao,3/13/2020,Humid throughout the day.,clear-day,0.67,0.0002,0.0007,0.11,rain,85.15,76.23,71.46,0.74,1012.9,0.23,11,76.84,85.15,12.1696,-68.99
+Netherlands,Curacao,3/14/2020,Humid throughout the day.,clear-day,0.7,0.0005,0.0016,0.15,rain,84.51,76.78,71.73,0.76,1014.2,0.2,10,76.23,84.51,12.1696,-68.99
+Netherlands,Curacao,3/15/2020,Humid throughout the day.,clear-day,0.74,0.0003,0.0018,0.17,rain,84.54,76.62,71.55,0.75,1014.3,0.21,12,76.78,84.54,12.1696,-68.99
+Netherlands,Curacao,3/16/2020,Possible light rain in the morning.,rain,0.77,0.0068,0.0332,0.48,rain,82.19,76.16,71.88,0.78,1013.9,0.54,9,76.62,82.19,12.1696,-68.99
+Netherlands,Curacao,3/17/2020,Clear throughout the day.,clear-day,0.8,0.0001,0.0004,0.11,rain,84.39,76.1,69.83,0.71,1014.6,0.2,12,76.16,84.39,12.1696,-68.99
+Netherlands,Curacao,3/18/2020,Humid throughout the day.,clear-day,0.84,0.0003,0.0015,0.11,rain,84.44,77.08,70.51,0.73,1014.9,0.17,12,76.1,84.44,12.1696,-68.99
+Netherlands,Curacao,3/19/2020,Humid and partly cloudy throughout the day.,clear-day,0.87,0.0013,0.0068,0.2,rain,85.07,77.4,71.51,0.74,1015.4,0.27,10,77.08,85.07,12.1696,-68.99
+Netherlands,Curacao,3/20/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0006,0.0027,0.16,rain,83.68,76.65,71.72,0.75,1015.5,0.34,11,77.4,83.68,12.1696,-68.99
+Netherlands,Curacao,3/21/2020,Humid throughout the day.,rain,0.93,0.0024,0.0087,0.42,rain,83.11,76.33,70.95,0.75,1014.8,0.32,11,76.65,83.11,12.1696,-68.99
+Netherlands,Curacao,3/22/2020,Humid throughout the day.,rain,0.96,0.003,0.0149,0.46,rain,84.24,76.77,71.86,0.77,1014.3,0.18,11,76.33,84.24,12.1696,-68.99
+Netherlands,Curacao,3/23/2020,Humid and partly cloudy throughout the day.,rain,0.99,0.0016,0.006999999999999999,0.27,rain,84.94,77.54,72.79,0.77,1015.4,0.38,10,76.77,84.94,12.1696,-68.99
+Netherlands,Curacao,3/24/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.02,0.0003,0.0013,0.12,rain,85.01,77.05,72.25,0.75,1014.8,0.33,10,77.54,85.01,12.1696,-68.99
+Netherlands,Curacao,3/25/2020,Humid throughout the day.,clear-day,0.05,0.0003,0.0008,0.13,rain,84.77,77.34,71.68,0.74,1012.9,0.21,12,77.05,84.77,12.1696,-68.99
+Netherlands,Curacao,3/26/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.08,0.0002,0.0004,0.13,rain,84.71,77.12,71.55,0.74,1011.9,0.34,11,77.34,84.71,12.1696,-68.99
+Netherlands,Curacao,3/27/2020,Humid throughout the day.,clear-day,0.11,0.0001,0.0005,0.09,rain,84.92,76.21,71.15,0.73,1011.4,0.22,11,77.12,84.92,12.1696,-68.99
+Netherlands,Curacao,3/28/2020,Humid and partly cloudy throughout the day.,clear-day,0.14,0.0003,0.001,0.17,rain,84.77,77.07,71.58,0.75,1012.1,0.3,10,76.21,84.77,12.1696,-68.99
+Netherlands,Curacao,3/29/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.17,0.0003,0.0009,0.12,rain,85.96,77.91,72.29,0.74,1013.4,0.37,11,77.07,85.96,12.1696,-68.99
+Netherlands,Curacao,3/30/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0005,0.0012,0.17,rain,84.55,76.32,72.93,0.78,1013.0,0.47,7,77.91,84.55,12.1696,-68.99
+Netherlands,Curacao,3/31/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0001,0.0005,0.11,rain,84.55,77.33,70.52,0.72,1011.5,0.4,11,76.32,84.55,12.1696,-68.99
+Netherlands,Curacao,4/1/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0002,0.0007,0.07,rain,84.7,77.69,71.89,0.74,1010.7,0.47,10,77.33,84.7,12.1696,-68.99
+Netherlands,Curacao,4/2/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0005,0.0025,0.11,rain,85.1,77.96,72.51,0.75,1012.0,0.38,10,77.69,85.1,12.1696,-68.99
+Netherlands,Curacao,4/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0002,0.0019,0.11,rain,86.22,78.31,75.05,0.8,1011.2,0.36,10,77.96,86.22,12.1696,-68.99
+Netherlands,Curacao,4/4/2020,Humid and partly cloudy throughout the day.,rain,0.38,0.0016,0.0091,0.37,rain,86.19,78.75,76.64,0.83,1010.3,0.63,9,78.31,86.19,12.1696,-68.99
+Netherlands,Curacao,4/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0008,0.0032,0.16,rain,86.16,79.01,76.42,0.82,1010.9,0.58,8,78.75,86.16,12.1696,-68.99
+Netherlands,Curacao,4/6/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.46,0.0007,0.0018,0.13,rain,86.53,79.19,76.29,0.82,1012.1,0.63,8,79.01,86.53,12.1696,-68.99
+Netherlands,Curacao,4/7/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.5,0.0006,0.0019,0.12,rain,86.2,79.32,76.57,0.82,1012.5,0.62,8,79.19,86.2,12.1696,-68.99
+Netherlands,Curacao,4/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.54,0.0004,0.001,0.1,rain,86.12,78.92,75.57,0.8,1011.4,0.6,8,79.32,86.12,12.1696,-68.99
+Netherlands,Curacao,4/9/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0002,0.0006,0.08,rain,85.27,79.21,75.29,0.8,1010.9,0.64,9,78.92,85.27,12.1696,-68.99
+Netherlands,Curacao,4/10/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0006,0.0037,0.12,rain,85.97,79.56,76.35,0.82,1011.2,0.63,9,79.21,85.97,12.1696,-68.99
+Netherlands,Curacao,4/11/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0007,0.0071,0.15,rain,85.83,78.98,75.59,0.8,1012.5,0.6,9,79.56,85.83,12.1696,-68.99
+Netherlands,Curacao,4/12/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0011,0.0067,0.13,rain,85.69,78.83,73.88,0.77,1014.5,0.36,11,78.98,85.69,12.1696,-68.99
+Netherlands,Curacao,4/13/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0003,0.0008,0.1,rain,85.86,78.38,73.38,0.75,1015.4,0.48,10,78.83,85.86,12.1696,-68.99
+Netherlands,Curacao,4/14/2020,Humid throughout the day.,clear-day,0.75,0.0002,0.0012,0.08,rain,85.64,77.66,73.25,0.76,1014.1,0.19,11,78.38,85.64,12.1696,-68.99
+Netherlands,Curacao,4/15/2020,Humid throughout the day.,clear-day,0.78,0.0003,0.0008,0.12,rain,85.96,77.57,72.66,0.75,1013.4,0.26,11,77.66,85.96,12.1696,-68.99
+Netherlands,Curacao,4/16/2020,Humid and partly cloudy throughout the day.,clear-day,0.82,0.0002,0.0009,0.1,rain,86.33,78.04,72.84,0.74,1014.5,0.28,10,77.57,86.33,12.1696,-68.99
+Netherlands,Curacao,4/17/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.85,0.0003,0.0025,0.1,rain,86.13,77.97,73.16,0.75,1015.0,0.32,10,78.04,86.13,12.1696,-68.99
+Netherlands,Curacao,4/18/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.88,0.0003,0.0005,0.15,rain,85.96,78.05,73.24,0.75,1014.4,0.34,9,77.97,85.96,12.1696,-68.99
+Netherlands,Curacao,4/19/2020,Humid and partly cloudy throughout the day.,rain,0.91,0.0008,0.0047,0.28,rain,86.0,78.23,73.25,0.75,1013.9,0.4,10,78.05,86.0,12.1696,-68.99
+Netherlands,Curacao,4/20/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.94,0.0001,0.0002,0.1,rain,85.73,78.57,73.27,0.76,1013.3,0.39,9,78.23,85.73,12.1696,-68.99
+Netherlands,Netherlands,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.18,rain,38.84,29.67,28.92,0.87,1032.1,0.03,1,27.37,38.84,52.1326,5.2913
+Netherlands,Netherlands,1/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0008,0.0014,0.24,rain,40.74,39.75,33.21,0.88,1024.4,0.54,0,29.79,43.66,52.1326,5.2913
+Netherlands,Netherlands,1/2/2020,Light rain until evening.,rain,0.27,0.0124,0.0584,0.95,rain,49.24,38.95,41.96,0.89,1017.6,0.9,0,39.36,49.24,52.1326,5.2913
+Netherlands,Netherlands,1/3/2020,Possible drizzle in the afternoon.,rain,0.3,0.0011,0.0061,0.62,rain,46.31,40.68,39.23,0.87,1029.0,0.8,0,38.95,46.31,52.1326,5.2913
+Netherlands,Netherlands,1/4/2020,Clear throughout the day.,rain,0.33,0.0005,0.0018,0.32,rain,47.84,41.14,39.7,0.87,1033.3,0.71,1,40.28,47.84,52.1326,5.2913
+Netherlands,Netherlands,1/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.36,0.0003,0.0069,0.16,rain,44.08,38.25,36.47,0.83,1024.8,0.67,1,38.25,44.08,52.1326,5.2913
+Netherlands,Netherlands,1/6/2020,Mostly cloudy throughout the day.,rain,0.4,0.0006,0.0076,0.45,rain,48.17,43.73,39.88,0.88,1023.4,0.71,1,39.58,48.17,52.1326,5.2913
+Netherlands,Netherlands,1/7/2020,Light rain overnight.,rain,0.43,0.0027,0.0067,0.66,rain,52.75,46.68,47.76,0.93,1021.2,0.98,1,45.52,52.75,52.1326,5.2913
+Netherlands,Netherlands,1/8/2020,Light rain throughout the day.,rain,0.47,0.0167,0.0324,1.0,rain,55.55,44.29,49.43,0.94,1011.9,0.94,1,46.85,55.55,52.1326,5.2913
+Netherlands,Netherlands,1/9/2020,Possible drizzle in the morning.,rain,0.5,0.0052,0.0309,0.91,rain,46.82,36.27,41.09,0.87,1018.1,0.76,0,39.16,49.84,52.1326,5.2913
+Netherlands,Netherlands,1/10/2020,Overcast throughout the day.,partly-cloudy-day,0.54,0.0001,0.0003,0.08,rain,47.54,39.16,35.91,0.83,1027.9,0.73,1,36.45,47.54,52.1326,5.2913
+Netherlands,Netherlands,1/11/2020,Possible drizzle overnight.,rain,0.57,0.0014,0.0044,0.42,rain,50.53,39.87,39.24,0.84,1019.0,0.97,1,38.84,50.53,52.1326,5.2913
+Netherlands,Netherlands,1/12/2020,Light rain and windy overnight.,rain,0.61,0.0004,0.0024,0.33,rain,47.79,44.84,39.74,0.85,1014.9,0.71,0,39.87,48.58,52.1326,5.2913
+Netherlands,Netherlands,1/13/2020,Light rain and dangerously windy throughout the day.,rain,0.65,0.0135,0.0395,0.99,rain,51.27,50.22,44.69,0.85,1002.3,0.99,1,46.52,52.24,52.1326,5.2913
+Netherlands,Netherlands,1/14/2020,Light rain in the afternoon and evening.,rain,0.69,0.0061,0.037000000000000005,0.86,rain,53.22,38.62,43.59,0.8,1007.7,0.81,1,42.81,53.22,52.1326,5.2913
+Netherlands,Netherlands,1/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0,0.0002,0.09,,50.78,44.75,39.69,0.84,1021.4,0.45,1,38.42,50.78,52.1326,5.2913
+Netherlands,Netherlands,1/16/2020,Possible drizzle in the morning and afternoon.,rain,0.76,0.0021,0.0097,0.56,rain,50.52,38.23,41.49,0.82,1014.3,0.84,0,41.96,50.52,52.1326,5.2913
+Netherlands,Netherlands,1/17/2020,Partly cloudy throughout the day.,rain,0.8,0.0009,0.0043,0.48,rain,46.74,37.14,35.26,0.79,1023.4,0.54,0,38.23,46.74,52.1326,5.2913
+Netherlands,Netherlands,1/18/2020,Clear throughout the day.,clear-day,0.83,0.0002,0.0006,0.2,rain,48.59,33.84,34.61,0.78,1038.3,0.31,1,37.11,48.59,52.1326,5.2913
+Netherlands,Netherlands,1/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0,0.0002,0.06,,46.95,32.9,33.62,0.82,1046.9,0.57,1,33.51,46.95,52.1326,5.2913
+Netherlands,Netherlands,1/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0006,0.13,rain,43.72,33.02,31.99,0.83,1041.9,0.5,1,32.76,43.72,52.1326,5.2913
+Netherlands,Netherlands,1/21/2020,Overcast throughout the day.,rain,0.93,0.0005,0.0012,0.27,rain,44.94,38.94,36.98,0.92,1036.8,0.9,1,33.04,44.94,52.1326,5.2913
+Netherlands,Netherlands,1/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.97,0.0002,0.0007,0.17,rain,47.15,30.7,36.67,0.86,1032.3,0.77,1,34.23,47.15,52.1326,5.2913
+Netherlands,Netherlands,1/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,1.0,0.0001,0.0003,0.13,rain,42.07,30.14,30.04,0.81,1024.0,0.44,1,30.7,42.07,52.1326,5.2913
+Netherlands,Netherlands,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0002,0.0006,0.09,rain,40.18,31.95,28.35,0.8,1020.9,0.67,1,30.14,40.18,52.1326,5.2913
+Netherlands,Netherlands,1/25/2020,Light rain overnight.,rain,0.06,0.0001,0.0036,0.31,rain,48.84,41.0,35.34,0.87,1014.6,0.31,1,31.99,48.84,52.1326,5.2913
+Netherlands,Netherlands,1/26/2020,"Light rain until morning, starting again in the evening.",rain,0.09,0.0098,0.0416,0.93,rain,49.3,41.16,42.45,0.89,1003.8,1.0,1,42.07,49.3,52.1326,5.2913
+Netherlands,Netherlands,1/27/2020,Light rain until evening.,rain,0.12,0.016,0.0513,0.93,rain,42.52,38.43,37.12,0.86,992.8,0.96,1,38.43,45.44,52.1326,5.2913
+Netherlands,Netherlands,1/28/2020,Possible drizzle in the afternoon.,rain,0.15,0.0015,0.0046,0.58,rain,44.07,40.52,35.83,0.83,1005.2,0.83,1,38.53,44.07,52.1326,5.2913
+Netherlands,Netherlands,1/29/2020,Overcast throughout the day.,rain,0.18,0.001,0.0033,0.33,rain,50.64,46.25,41.64,0.84,1005.9,0.98,1,41.49,52.37,52.1326,5.2913
+Netherlands,Netherlands,1/30/2020,Overcast throughout the day.,rain,0.21,0.0004,0.0019,0.27,rain,53.0,51.0,45.86,0.85,1006.2,1.0,1,45.78,53.28,52.1326,5.2913
+Netherlands,Netherlands,1/31/2020,Possible drizzle in the morning.,rain,0.24,0.0024,0.0101,0.66,rain,52.18,43.55,45.33,0.83,1002.9,0.99,1,46.92,53.31,52.1326,5.2913
+Netherlands,Netherlands,2/1/2020,"Light rain until afternoon, starting again overnight.",rain,0.27,0.0058,0.0296,0.83,rain,51.79,46.79,42.54,0.85,1007.2,0.94,1,43.11,51.79,52.1326,5.2913
+Netherlands,Netherlands,2/2/2020,"Light rain until morning, starting again in the evening.",rain,0.31,0.0072,0.0425,0.9,rain,51.18,40.11,43.06,0.83,1010.3,0.96,1,43.34,51.18,52.1326,5.2913
+Netherlands,Netherlands,2/3/2020,Light rain in the morning and afternoon.,rain,0.34,0.0052,0.022000000000000002,0.83,rain,44.91,33.16,36.37,0.83,1014.1,0.68,1,37.31,44.91,52.1326,5.2913
+Netherlands,Netherlands,2/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.12,rain,48.85,36.53,33.71,0.82,1034.6,0.17,1,33.16,48.85,52.1326,5.2913
+Netherlands,Netherlands,2/5/2020,Clear throughout the day.,partly-cloudy-day,0.41,0.0001,0.0006,0.08,rain,50.71,31.69,36.43,0.85,1031.9,0.41,1,36.52,50.71,52.1326,5.2913
+Netherlands,Netherlands,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.07,rain,48.87,37.03,32.45,0.78,1025.4,0.02,1,31.69,48.87,52.1326,5.2913
+Netherlands,Netherlands,2/7/2020,Possible drizzle in the afternoon.,rain,0.48,0.0022,0.0126,0.61,rain,52.46,42.8,38.56,0.83,1018.0,0.88,1,37.03,52.46,52.1326,5.2913
+Netherlands,Netherlands,2/8/2020,Light rain and dangerously windy throughout the day.,rain,0.52,0.0219,0.063,0.92,rain,53.92,43.04,42.97,0.82,1000.6,0.88,1,43.29,53.92,52.1326,5.2913
+Netherlands,Netherlands,2/9/2020,Light rain and windy throughout the day.,rain,0.56,0.0117,0.034,0.94,rain,48.53,37.53,38.79,0.8,992.5,0.94,1,40.48,49.15,52.1326,5.2913
+Netherlands,Netherlands,2/10/2020,Windy in the morning and afternoon.,rain,0.6,0.0033,0.008,0.7,rain,43.47,38.36,32.62,0.74,1001.5,0.79,1,37.53,43.47,52.1326,5.2913
+Netherlands,Netherlands,2/11/2020,Overcast throughout the day.,rain,0.64,0.0014,0.0112,0.37,rain,45.63,36.26,31.48,0.69,1011.4,0.74,1,38.36,45.63,52.1326,5.2913
+Netherlands,Netherlands,2/12/2020,Light rain throughout the day.,rain,0.67,0.0193,0.0584,0.97,rain,46.66,38.51,37.74,0.87,1002.2,0.85,1,36.26,46.66,52.1326,5.2913
+Netherlands,Netherlands,2/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0013,0.21,rain,49.11,41.91,38.69,0.85,1016.8,0.55,1,38.51,49.11,52.1326,5.2913
+Netherlands,Netherlands,2/14/2020,Dangerously windy in the evening and overnight.,wind,0.75,0.0002,0.0011,0.21,rain,53.96,52.51,43.2,0.8,1014.2,0.99,1,44.01,55.41,52.1326,5.2913
+Netherlands,Netherlands,2/15/2020,Light rain and dangerously windy throughout the day.,rain,0.78,0.0158,0.0655,0.95,rain,60.16,41.4,47.8,0.81,999.7,1.0,1,45.44,60.16,52.1326,5.2913
+Netherlands,Netherlands,2/16/2020,Light rain throughout the day.,rain,0.81,0.008,0.0414,0.84,rain,50.34,39.62,39.01,0.8,1009.3,0.49,1,41.4,50.34,52.1326,5.2913
+Netherlands,Netherlands,2/17/2020,Light rain throughout the day.,rain,0.85,0.0052,0.0384,0.84,rain,50.25,38.54,37.94,0.78,1017.6,0.65,1,39.62,50.25,52.1326,5.2913
+Netherlands,Netherlands,2/18/2020,Drizzle in the morning and overnight.,rain,0.88,0.0062,0.0397,0.93,rain,46.01,38.95,36.02,0.81,1017.0,0.85,1,38.54,46.01,52.1326,5.2913
+Netherlands,Netherlands,2/19/2020,Rain starting in the afternoon.,rain,0.91,0.0165,0.1101,0.95,rain,51.36,36.75,41.69,0.85,1011.6,1.0,1,40.28,51.36,52.1326,5.2913
+Netherlands,Netherlands,2/20/2020,Windy overnight.,rain,0.94,0.0003,0.0027,0.35,rain,50.79,44.74,36.8,0.77,1021.8,0.66,1,36.75,50.79,52.1326,5.2913
+Netherlands,Netherlands,2/21/2020,Possible light rain overnight.,rain,0.97,0.0011,0.0051,0.37,rain,54.21,44.02,41.27,0.74,1016.9,1.0,1,44.74,54.21,52.1326,5.2913
+Netherlands,Netherlands,2/22/2020,Rain and dangerously windy until evening.,rain,0.01,0.0305,0.1158,0.97,rain,54.01,36.74,42.35,0.84,1013.8,0.94,1,40.42,54.01,52.1326,5.2913
+Netherlands,Netherlands,2/23/2020,Light rain throughout the day.,rain,0.04,0.0174,0.0854,0.92,rain,50.02,39.85,39.5,0.87,1012.7,0.95,1,36.74,51.18,52.1326,5.2913
+Netherlands,Netherlands,2/24/2020,Light rain starting in the afternoon.,rain,0.07,0.0025,0.0067,0.74,rain,47.09,34.71,37.56,0.81,998.5,0.59,1,38.26,49.46,52.1326,5.2913
+Netherlands,Netherlands,2/25/2020,Light rain until evening.,rain,0.1,0.011000000000000001,0.0478,0.94,rain,43.38,33.88,34.87,0.86,998.0,0.88,1,34.71,43.38,52.1326,5.2913
+Netherlands,Netherlands,2/26/2020,Light rain until evening.,rain,0.13,0.0083,0.0309,0.95,rain,39.19,33.51,33.54,0.89,1001.4,0.77,1,33.88,39.19,52.1326,5.2913
+Netherlands,Netherlands,2/27/2020,Rain in the evening and overnight.,rain,0.16,0.0161,0.1098,0.79,rain,45.76,36.27,34.13,0.84,1010.9,0.64,1,33.51,45.76,52.1326,5.2913
+Netherlands,Netherlands,2/28/2020,Drizzle until evening.,rain,0.19,0.0041,0.0116,0.87,rain,52.04,39.51,42.13,0.85,991.0,0.94,1,40.07,52.04,52.1326,5.2913
+Netherlands,Netherlands,2/29/2020,Possible drizzle in the morning and afternoon.,rain,0.22,0.0018,0.0081,0.62,rain,48.7,36.69,35.98,0.77,991.0,0.9,1,39.51,48.7,52.1326,5.2913
+Netherlands,Netherlands,3/1/2020,Light rain until evening.,rain,0.25,0.0067,0.0296,0.91,rain,45.89,33.04,38.52,0.9,990.0,0.8,1,36.69,45.89,52.1326,5.2913
+Netherlands,Netherlands,3/2/2020,Clear throughout the day.,rain,0.28,0.0006,0.003,0.5,rain,48.43,35.48,34.63,0.82,1001.4,0.26,1,33.04,48.43,52.1326,5.2913
+Netherlands,Netherlands,3/3/2020,Drizzle in the evening and overnight.,rain,0.32,0.0024,0.0144,0.56,rain,50.84,37.92,35.83,0.81,1009.1,0.58,1,35.48,50.84,52.1326,5.2913
+Netherlands,Netherlands,3/4/2020,Light rain throughout the day.,rain,0.35,0.0138,0.057,0.95,rain,45.42,38.66,37.86,0.88,996.5,1.0,2,37.92,45.42,52.1326,5.2913
+Netherlands,Netherlands,3/5/2020,Light rain in the morning and afternoon.,rain,0.39,0.0092,0.0531,0.97,rain,46.58,33.1,37.89,0.87,997.4,0.93,1,37.97,46.58,52.1326,5.2913
+Netherlands,Netherlands,3/6/2020,Clear throughout the day.,partly-cloudy-day,0.43,0.0001,0.0009,0.09,rain,52.0,44.73,35.78,0.78,1015.5,0.35,2,33.1,52.0,52.1326,5.2913
+Netherlands,Netherlands,3/7/2020,Light rain starting in the afternoon.,rain,0.47,0.0032,0.0168,0.83,rain,48.46,40.81,42.43,0.85,1009.9,0.98,2,45.05,48.46,52.1326,5.2913
+Netherlands,Netherlands,3/8/2020,Light rain in the morning and overnight.,rain,0.5,0.0017,0.0061,0.58,rain,49.9,42.29,39.83,0.83,1010.7,0.5,2,40.81,49.9,52.1326,5.2913
+Netherlands,Netherlands,3/9/2020,Light rain throughout the day.,rain,0.54,0.0203,0.0508,1.0,rain,53.15,46.02,46.83,0.91,1003.5,0.99,2,42.29,53.81,52.1326,5.2913
+Netherlands,Netherlands,3/10/2020,"Light rain until morning, starting again in the evening.",rain,0.58,0.0084,0.0282,0.95,rain,56.07,43.22,46.93,0.88,1009.0,0.85,2,46.02,56.07,52.1326,5.2913
+Netherlands,Netherlands,3/11/2020,Possible drizzle and windy in the morning.,rain,0.62,0.0048,0.027000000000000003,0.8,rain,50.5,41.13,38.18,0.71,1007.8,0.56,2,43.03,53.78,52.1326,5.2913
+Netherlands,Netherlands,3/12/2020,Drizzle in the morning and afternoon.,rain,0.66,0.0038,0.0151,0.78,rain,47.46,34.66,37.09,0.78,1015.2,0.66,2,37.66,47.46,52.1326,5.2913
+Netherlands,Netherlands,3/13/2020,Mostly cloudy throughout the day.,rain,0.69,0.0003,0.001,0.25,rain,53.23,42.82,37.84,0.81,1019.2,0.81,2,34.66,53.23,52.1326,5.2913
+Netherlands,Netherlands,3/14/2020,Overcast throughout the day.,cloudy,0.73,0.0002,0.001,0.16,rain,53.02,40.09,42.48,0.8,1012.6,0.99,2,42.82,53.02,52.1326,5.2913
+Netherlands,Netherlands,3/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.0,0.0001,0.01,,57.17,36.43,40.15,0.77,1019.0,0.7,2,40.09,57.17,52.1326,5.2913
+Netherlands,Netherlands,3/16/2020,Overcast throughout the day.,partly-cloudy-day,0.8,0.0001,0.0005,0.04,rain,57.46,41.8,36.65,0.72,1028.0,0.66,2,36.43,57.46,52.1326,5.2913
+Netherlands,Netherlands,3/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0001,0.0003,0.02,rain,58.75,44.1,39.89,0.68,1025.5,0.8,3,41.8,58.75,52.1326,5.2913
+Netherlands,Netherlands,3/18/2020,Overcast throughout the day.,partly-cloudy-day,0.86,0.0002,0.0004,0.1,rain,51.71,42.53,42.19,0.84,1026.2,0.81,2,44.1,51.71,52.1326,5.2913
+Netherlands,Netherlands,3/19/2020,Overcast throughout the day.,cloudy,0.89,0.0001,0.0008,0.12,rain,50.32,32.9,35.82,0.69,1027.8,0.9,2,40.54,50.32,52.1326,5.2913
+Netherlands,Netherlands,3/20/2020,Clear throughout the day.,clear-day,0.92,0.0002,0.0004,0.1,rain,50.67,31.37,29.05,0.63,1029.3,0.03,3,32.9,50.67,52.1326,5.2913
+Netherlands,Netherlands,3/21/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.02,rain,51.54,30.13,24.57,0.55,1031.3,0.0,3,31.37,51.54,52.1326,5.2913
+Netherlands,Netherlands,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0004,0.01,rain,51.43,30.15,19.92,0.46,1032.5,0.0,3,30.13,51.43,52.1326,5.2913
+Netherlands,Netherlands,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0,0.0,0.0,,54.42,28.37,18.97,0.42,1030.7,0.28,3,30.15,54.42,52.1326,5.2913
+Netherlands,Netherlands,3/24/2020,Clear throughout the day.,partly-cloudy-day,0.04,0.0002,0.0004,0.01,rain,56.3,32.72,18.3,0.41,1027.4,0.34,4,28.37,56.3,52.1326,5.2913
+Netherlands,Netherlands,3/25/2020,Clear throughout the day.,partly-cloudy-day,0.07,0.0001,0.0004,0.01,rain,55.05,35.51,23.73,0.47,1023.9,0.32,4,32.72,55.05,52.1326,5.2913
+Netherlands,Netherlands,3/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0004,0.01,rain,60.53,38.99,32.33,0.58,1021.7,0.0,4,35.51,60.53,52.1326,5.2913
+Netherlands,Netherlands,3/27/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0004,0.02,rain,53.76,39.36,35.14,0.66,1024.7,0.08,4,38.99,53.76,52.1326,5.2913
+Netherlands,Netherlands,3/28/2020,Clear throughout the day.,partly-cloudy-day,0.17,0.0002,0.0009,0.06,rain,43.31,29.04,24.83,0.54,1031.0,0.41,3,34.98,43.31,52.1326,5.2913
+Netherlands,Netherlands,3/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.2,0.0015,0.0069,0.23,rain,49.98,30.42,30.63,0.71,1031.5,0.45,3,29.04,49.98,52.1326,5.2913
+Netherlands,Netherlands,3/30/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0003,0.05,rain,50.3,27.35,26.74,0.63,1030.7,0.0,4,30.42,50.3,52.1326,5.2913
+Netherlands,Netherlands,3/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.26,0.0002,0.0015,0.04,snow,49.67,31.77,29.19,0.68,1023.2,0.46,3,27.35,49.67,52.1326,5.2913
+Netherlands,Netherlands,4/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0003,0.0031,0.11,rain,52.77,40.77,35.33,0.75,1014.0,0.56,4,31.77,52.77,52.1326,5.2913
+Netherlands,Netherlands,4/2/2020,Mostly cloudy throughout the day.,rain,0.33,0.0015,0.0046,0.33,rain,51.04,32.62,37.37,0.76,1015.3,0.68,3,37.63,51.04,52.1326,5.2913
+Netherlands,Netherlands,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.01,rain,59.75,38.67,31.08,0.61,1023.4,0.18,5,32.62,59.75,52.1326,5.2913
+Netherlands,Netherlands,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0,0.0,,68.69,46.59,35.64,0.55,1020.9,0.01,5,38.67,68.69,52.1326,5.2913
+Netherlands,Netherlands,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0013,0.0145,0.19,rain,72.38,43.11,41.79,0.56,1018.4,0.16,5,46.59,72.38,52.1326,5.2913
+Netherlands,Netherlands,4/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0001,0.0013,0.04,rain,68.01,48.77,42.94,0.67,1030.4,0.41,4,43.11,68.01,52.1326,5.2913
+Netherlands,Netherlands,4/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0,0.0003,0.01,,75.78,46.35,47.01,0.64,1025.6,0.58,4,48.77,75.78,52.1326,5.2913
+Netherlands,Netherlands,4/8/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.04,rain,69.63,40.83,42.52,0.6,1025.9,0.21,5,46.35,69.63,52.1326,5.2913
+Netherlands,Netherlands,4/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.0001,0.0004,0.01,rain,66.49,41.13,37.12,0.58,1027.5,0.73,3,40.83,66.49,52.1326,5.2913
+Netherlands,Netherlands,4/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.0001,0.0004,0.04,rain,72.14,43.38,34.01,0.5,1024.4,0.72,4,41.13,72.14,52.1326,5.2913
+Netherlands,Netherlands,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0003,0.02,,74.84,43.44,39.51,0.53,1015.8,0.31,5,43.38,74.84,52.1326,5.2913
+Netherlands,Netherlands,4/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0003,0.0018,0.12,rain,51.4,39.11,33.27,0.6,1022.2,0.53,3,42.57,52.0,52.1326,5.2913
+Netherlands,Netherlands,4/13/2020,Overcast throughout the day.,partly-cloudy-day,0.74,0.0002,0.0009,0.05,rain,50.21,33.68,32.66,0.63,1027.5,0.87,3,39.01,50.21,52.1326,5.2913
+Netherlands,Netherlands,4/14/2020,Clear throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.02,rain,64.49,40.42,34.93,0.65,1024.6,0.34,5,33.68,64.49,52.1326,5.2913
+Netherlands,Netherlands,4/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0003,0.02,rain,72.05,41.17,40.32,0.62,1017.5,0.6,4,40.42,72.05,52.1326,5.2913
+Netherlands,Netherlands,4/16/2020,Clear throughout the day.,clear-day,0.84,0.0001,0.0003,0.05,rain,64.46,42.4,38.79,0.62,1018.4,0.2,5,41.17,64.46,52.1326,5.2913
+Netherlands,Netherlands,4/17/2020,Overcast throughout the day.,rain,0.87,0.0017,0.0092,0.41,rain,61.67,45.53,40.81,0.65,1017.0,0.77,3,42.4,61.67,52.1326,5.2913
+Netherlands,Netherlands,4/18/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0003,0.01,rain,65.23,43.9,34.49,0.47,1019.3,0.29,5,45.53,65.23,52.1326,5.2913
+Netherlands,Netherlands,4/19/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0004,0.01,rain,66.4,47.01,29.57,0.39,1020.1,0.0,5,43.9,66.4,52.1326,5.2913
+Netherlands,Netherlands,4/20/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0003,0.01,rain,68.19,49.43,33.35,0.41,1019.3,0.0,5,47.01,68.19,52.1326,5.2913

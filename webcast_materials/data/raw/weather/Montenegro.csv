@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Montenegro,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.1,rain,45.49,28.76,24.44,0.61,1029.0,0.11,1,31.44,45.49,42.5,19.3
+Montenegro,,1/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.09,rain,46.5,33.14,17.75,0.48,1031.5,0.01,1,28.76,46.5,42.5,19.3
+Montenegro,,1/2/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0003,0.01,rain,51.16,35.4,18.98,0.43,1026.9,0.09,1,33.14,51.16,42.5,19.3
+Montenegro,,1/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0002,0.0003,0.14,rain,50.96,35.87,22.28,0.49,1022.4,0.54,1,35.4,50.96,42.5,19.3
+Montenegro,,1/4/2020,Windy in the evening.,wind,0.33,0.0003,0.0006,0.1,rain,41.3,26.89,24.18,0.61,1021.9,0.39,1,30.15,41.3,42.5,19.3
+Montenegro,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,40.81,27.25,14.4,0.48,1026.2,0.01,1,26.53,40.81,42.5,19.3
+Montenegro,,1/6/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0002,0.1,snow,43.93,31.1,11.98,0.4,1026.3,0.0,1,27.24,43.93,42.5,19.3
+Montenegro,,1/7/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0002,0.04,,47.05,32.85,14.06,0.39,1029.0,0.0,1,31.06,47.05,42.5,19.3
+Montenegro,,1/8/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0001,0.01,,49.1,32.36,22.69,0.52,1028.2,0.05,1,32.85,49.1,42.5,19.3
+Montenegro,,1/9/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0004,0.06,rain,49.48,35.85,23.79,0.53,1024.9,0.01,2,32.54,49.48,42.5,19.3
+Montenegro,,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0001,0.0003,0.05,rain,50.24,34.02,30.37,0.64,1025.4,0.82,1,35.85,50.24,42.5,19.3
+Montenegro,,1/11/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0003,0.12,rain,48.82,38.13,31.96,0.71,1026.9,0.19,1,34.02,48.82,42.5,19.3
+Montenegro,,1/12/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0003,0.08,rain,53.02,36.34,35.5,0.77,1027.1,0.07,2,36.55,53.02,42.5,19.3
+Montenegro,,1/13/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0001,0.01,,51.68,36.78,36.22,0.8,1026.4,0.13,2,36.34,51.68,42.5,19.3
+Montenegro,,1/14/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.02,,53.21,37.8,31.58,0.63,1027.3,0.0,2,36.78,53.21,42.5,19.3
+Montenegro,,1/15/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.06,,56.72,35.2,25.93,0.49,1026.1,0.03,2,37.8,56.72,42.5,19.3
+Montenegro,,1/16/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0004,0.05,rain,52.21,37.04,30.26,0.62,1025.6,0.02,2,35.2,52.21,42.5,19.3
+Montenegro,,1/17/2020,Possible light rain overnight.,partly-cloudy-day,0.8,0.0001,0.0011,0.15,rain,50.26,37.89,31.53,0.67,1023.1,0.59,1,37.04,50.26,42.5,19.3
+Montenegro,,1/18/2020,Possible drizzle in the morning.,rain,0.83,0.0037,0.0181,0.7,rain,48.87,30.87,36.07,0.83,1024.0,0.72,1,34.52,48.87,42.5,19.3
+Montenegro,,1/19/2020,Clear throughout the day.,clear-day,0.87,0.0,0.0002,0.02,,45.58,31.84,26.25,0.66,1037.2,0.14,2,30.87,45.58,42.5,19.3
+Montenegro,,1/20/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0002,0.06,rain,49.31,35.17,23.53,0.54,1039.7,0.04,2,31.84,49.31,42.5,19.3
+Montenegro,,1/21/2020,Partly cloudy throughout the day.,clear-day,0.93,0.0,0.0001,0.03,,49.52,35.82,22.94,0.5,1032.6,0.28,2,35.17,49.52,42.5,19.3
+Montenegro,,1/22/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0002,0.03,rain,51.39,35.54,22.2,0.46,1029.9,0.01,2,35.82,51.39,42.5,19.3
+Montenegro,,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0,0.0002,0.04,,51.01,40.23,25.56,0.54,1030.6,0.22,2,35.54,51.01,42.5,19.3
+Montenegro,,1/24/2020,Possible light rain starting in the afternoon.,rain,0.03,0.0037,0.0115,0.58,rain,49.99,42.44,41.78,0.92,1027.2,0.93,2,40.23,49.99,42.5,19.3
+Montenegro,,1/25/2020,Rain throughout the day.,rain,0.06,0.0343,0.0814,0.99,rain,49.97,40.37,43.71,0.96,1022.6,1.0,2,42.44,49.97,42.5,19.3
+Montenegro,,1/26/2020,Rain until evening.,rain,0.09,0.0268,0.1423,0.96,rain,50.26,38.95,41.87,0.92,1017.7,0.77,2,40.37,50.26,42.5,19.3
+Montenegro,,1/27/2020,Light rain throughout the day.,rain,0.12,0.0134,0.0341,0.9,rain,45.28,43.48,41.54,0.96,1016.4,0.81,2,38.95,46.36,42.5,19.3
+Montenegro,,1/28/2020,Light rain until evening.,rain,0.15,0.0241,0.0798,0.89,rain,51.94,35.46,43.78,0.92,1011.7,0.91,1,40.32,51.94,42.5,19.3
+Montenegro,,1/29/2020,Clear throughout the day.,rain,0.18,0.0013,0.0092,0.28,rain,49.56,32.99,31.74,0.7,1019.7,0.11,2,35.46,49.56,42.5,19.3
+Montenegro,,1/30/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.14,rain,49.63,36.97,31.08,0.69,1022.0,0.29,2,32.99,49.63,42.5,19.3
+Montenegro,,1/31/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.16,rain,53.94,39.94,39.6,0.85,1021.1,0.05,3,36.97,53.94,42.5,19.3
+Montenegro,,2/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0001,0.0006,0.16,rain,56.41,41.19,42.87,0.87,1020.5,0.41,2,39.94,56.41,42.5,19.3
+Montenegro,,2/2/2020,Overcast throughout the day.,rain,0.31,0.0003,0.0011,0.27,rain,54.19,43.91,44.21,0.91,1018.9,0.89,2,41.19,54.19,42.5,19.3
+Montenegro,,2/3/2020,Light rain throughout the day.,rain,0.34,0.0317,0.0918,0.89,rain,49.3,34.18,44.27,0.96,1007.5,0.96,2,38.29,49.3,42.5,19.3
+Montenegro,,2/4/2020,Windy overnight.,rain,0.37,0.0032,0.0481,0.42,rain,43.98,27.58,28.82,0.7,1001.5,0.9,1,32.25,43.98,42.5,19.3
+Montenegro,,2/5/2020,Mostly cloudy throughout the day.,wind,0.41,0.0001,0.0004,0.02,rain,38.98,27.69,14.53,0.49,1019.5,0.74,2,27.58,38.98,42.5,19.3
+Montenegro,,2/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.44,0.0001,0.0003,0.06,snow,44.51,29.3,23.76,0.63,1025.1,0.43,2,27.69,44.51,42.5,19.3
+Montenegro,,2/7/2020,Clear throughout the day.,clear-day,0.48,0.0,0.0003,0.06,,47.21,31.38,27.97,0.68,1029.1,0.01,2,29.3,47.21,42.5,19.3
+Montenegro,,2/8/2020,Clear throughout the day.,clear-day,0.52,0.0001,0.0003,0.08,rain,49.64,33.36,29.98,0.7,1032.1,0.02,3,31.38,49.64,42.5,19.3
+Montenegro,,2/9/2020,Possible light rain starting in the afternoon.,rain,0.56,0.008,0.0229,0.71,rain,44.48,42.14,37.15,0.9,1024.5,0.67,2,33.36,44.48,42.5,19.3
+Montenegro,,2/10/2020,Possible light rain until evening.,rain,0.6,0.0121,0.0227,0.87,rain,52.83,42.22,46.02,0.98,1013.4,0.93,3,43.21,52.83,42.5,19.3
+Montenegro,,2/11/2020,Possible light rain in the morning.,rain,0.64,0.0058,0.0235,0.54,rain,53.36,35.7,43.39,0.9,1017.3,0.45,3,40.57,53.36,42.5,19.3
+Montenegro,,2/12/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.11,rain,53.73,38.75,34.88,0.72,1024.0,0.21,3,35.7,53.73,42.5,19.3
+Montenegro,,2/13/2020,Light rain until evening.,rain,0.71,0.019,0.0937,0.93,rain,49.77,37.16,39.48,0.89,1017.4,0.79,2,38.75,49.77,42.5,19.3
+Montenegro,,2/14/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0004,0.08,rain,50.86,35.28,34.13,0.71,1024.9,0.03,3,37.16,50.86,42.5,19.3
+Montenegro,,2/15/2020,Partly cloudy throughout the day.,clear-day,0.78,0.0001,0.0003,0.09,rain,53.88,37.63,31.74,0.63,1029.7,0.31,3,35.28,53.88,42.5,19.3
+Montenegro,,2/16/2020,Partly cloudy throughout the day.,clear-day,0.81,0.0001,0.0003,0.08,rain,55.71,38.82,32.47,0.6,1026.6,0.22,3,37.63,55.71,42.5,19.3
+Montenegro,,2/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.85,0.0002,0.0004,0.09,rain,57.24,37.94,36.2,0.67,1022.4,0.32,3,38.82,57.24,42.5,19.3
+Montenegro,,2/18/2020,Possible drizzle overnight.,rain,0.88,0.0012,0.0077,0.36,rain,53.87,39.81,38.44,0.76,1018.9,0.44,3,37.94,53.87,42.5,19.3
+Montenegro,,2/19/2020,Possible drizzle in the morning.,rain,0.91,0.0018,0.0124,0.5,rain,47.47,31.06,31.12,0.66,1018.9,0.6,2,35.57,47.47,42.5,19.3
+Montenegro,,2/20/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.08,rain,52.32,31.5,26.87,0.58,1023.8,0.08,3,31.06,52.32,42.5,19.3
+Montenegro,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0002,0.0004,0.07,rain,51.26,35.25,25.01,0.55,1029.4,0.06,3,31.5,51.26,42.5,19.3
+Montenegro,,2/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0001,0.0003,0.04,rain,53.06,37.26,28.69,0.57,1026.7,0.56,3,35.25,53.06,42.5,19.3
+Montenegro,,2/23/2020,Clear throughout the day.,clear-day,0.04,0.0001,0.0003,0.03,rain,57.71,42.34,37.26,0.71,1021.0,0.1,4,37.26,57.71,42.5,19.3
+Montenegro,,2/24/2020,Possible light rain overnight.,rain,0.07,0.0026,0.0289,0.27,rain,57.74,45.41,40.95,0.73,1015.0,0.48,3,42.34,57.74,42.5,19.3
+Montenegro,,2/25/2020,Rain throughout the day.,rain,0.1,0.0617,0.1796,0.97,rain,48.46,38.76,46.55,0.99,1004.8,0.94,2,44.1,49.14,42.5,19.3
+Montenegro,,2/26/2020,Rain in the morning.,rain,0.13,0.0306,0.1022,0.93,rain,47.73,33.62,36.13,0.86,1007.4,0.67,2,35.26,47.73,42.5,19.3
+Montenegro,,2/27/2020,Rain in the morning and afternoon.,rain,0.16,0.0527,0.2524,0.92,rain,44.46,27.42,33.93,0.89,1012.9,0.61,2,31.47,44.46,42.5,19.3
+Montenegro,,2/28/2020,Clear throughout the day.,partly-cloudy-day,0.19,0.0001,0.0003,0.04,rain,48.09,33.59,28.02,0.71,1021.1,0.4,4,27.42,48.09,42.5,19.3
+Montenegro,,2/29/2020,Rain in the evening and overnight.,rain,0.22,0.0169,0.1159,0.67,rain,47.4,43.19,34.08,0.79,1016.9,0.82,3,33.59,47.4,42.5,19.3
+Montenegro,,3/1/2020,Rain throughout the day.,rain,0.25,0.0581,0.2588,0.95,rain,52.56,46.36,47.36,0.97,1010.0,0.8,3,44.17,52.56,42.5,19.3
+Montenegro,,3/2/2020,Rain throughout the day.,rain,0.28,0.1921,0.3089,0.99,rain,48.79,40.14,46.91,0.99,1005.4,0.97,2,42.69,49.47,42.5,19.3
+Montenegro,,3/3/2020,Light rain in the morning and afternoon.,rain,0.32,0.0139,0.1129,0.94,rain,48.13,34.91,42.17,0.94,1007.8,0.93,3,40.14,48.13,42.5,19.3
+Montenegro,,3/4/2020,Clear throughout the day.,partly-cloudy-day,0.35,0.0001,0.0004,0.09,rain,51.33,38.62,37.08,0.8,1010.9,0.38,4,34.91,51.33,42.5,19.3
+Montenegro,,3/5/2020,Rain throughout the day.,rain,0.39,0.0988,0.3772,0.96,rain,47.54,41.74,40.79,0.92,1007.0,0.92,3,38.62,49.54,42.5,19.3
+Montenegro,,3/6/2020,Light rain throughout the day.,rain,0.43,0.0148,0.0465,0.97,rain,49.06,38.23,43.43,0.94,1009.2,0.7,3,41.74,49.06,42.5,19.3
+Montenegro,,3/7/2020,Light rain in the morning and afternoon.,rain,0.47,0.0205,0.0602,0.98,rain,45.37,36.48,38.84,0.91,1015.1,1.0,3,38.23,45.37,42.5,19.3
+Montenegro,,3/8/2020,Partly cloudy throughout the day.,rain,0.5,0.001,0.0031,0.53,rain,52.24,36.24,38.93,0.85,1013.0,0.54,3,36.48,52.24,42.5,19.3
+Montenegro,,3/9/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0002,0.03,rain,53.1,36.72,35.54,0.73,1014.3,0.29,4,36.24,53.1,42.5,19.3
+Montenegro,,3/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0002,0.0004,0.14,rain,54.76,43.27,37.86,0.75,1019.8,0.62,3,36.72,54.76,42.5,19.3
+Montenegro,,3/11/2020,Clear throughout the day.,clear-day,0.62,0.0002,0.0004,0.08,rain,62.53,46.45,44.33,0.76,1020.9,0.12,5,43.27,62.53,42.5,19.3
+Montenegro,,3/12/2020,Clear throughout the day.,clear-day,0.66,0.0001,0.0004,0.02,rain,62.73,44.94,46.04,0.76,1014.8,0.25,5,46.45,62.73,42.5,19.3
+Montenegro,,3/13/2020,Overcast throughout the day.,rain,0.69,0.0013,0.0093,0.31,rain,57.72,40.91,44.49,0.79,1015.4,0.78,3,44.94,57.72,42.5,19.3
+Montenegro,,3/14/2020,Possible light rain in the morning.,rain,0.73,0.0043,0.027000000000000003,0.57,rain,53.31,36.09,37.28,0.73,1019.2,0.82,3,40.37,53.31,42.5,19.3
+Montenegro,,3/15/2020,Clear throughout the day.,clear-day,0.76,0.0,0.0,0.0,,55.75,39.14,36.82,0.73,1026.6,0.01,5,36.09,55.75,42.5,19.3
+Montenegro,,3/16/2020,Clear throughout the day.,clear-day,0.8,0.0001,0.0005,0.05,rain,57.27,40.92,39.22,0.75,1029.0,0.02,5,39.14,57.27,42.5,19.3
+Montenegro,,3/17/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0003,0.02,,61.08,38.01,36.93,0.63,1026.0,0.23,5,40.92,61.08,42.5,19.3
+Montenegro,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0003,0.03,rain,59.2,42.04,35.02,0.61,1025.8,0.1,5,38.01,59.2,42.5,19.3
+Montenegro,,3/19/2020,Clear throughout the day.,clear-day,0.89,0.0,0.0002,0.01,,60.21,42.07,38.01,0.64,1022.4,0.09,5,42.04,60.21,42.5,19.3
+Montenegro,,3/20/2020,Clear throughout the day.,clear-day,0.92,0.0001,0.0004,0.03,rain,60.87,43.51,37.74,0.63,1017.1,0.27,5,42.07,60.87,42.5,19.3
+Montenegro,,3/21/2020,Overcast throughout the day.,cloudy,0.95,0.0005,0.002,0.16,rain,57.33,34.22,37.39,0.65,1015.6,0.96,3,42.09,57.33,42.5,19.3
+Montenegro,,3/22/2020,Mostly cloudy throughout the day.,rain,0.98,0.0017,0.0054,0.29,rain,43.03,28.54,25.51,0.62,1018.3,0.82,4,30.89,43.03,42.5,19.3
+Montenegro,,3/23/2020,Drizzle in the morning and afternoon.,rain,0.01,0.0083,0.0169,0.87,rain,41.94,27.44,26.5,0.74,1017.8,0.78,2,28.54,41.94,42.5,19.3
+Montenegro,,3/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.04,0.0003,0.0017,0.18,rain,50.37,37.48,30.87,0.74,1017.7,0.61,3,27.44,50.37,42.5,19.3
+Montenegro,,3/25/2020,Mostly cloudy throughout the day.,rain,0.07,0.0013,0.0088,0.39,rain,55.97,42.58,38.34,0.76,1011.6,0.83,3,37.48,55.97,42.5,19.3
+Montenegro,,3/26/2020,Possible drizzle in the morning.,rain,0.1,0.0024,0.0102,0.56,rain,52.09,41.03,42.02,0.86,1013.6,1.0,3,42.58,52.09,42.5,19.3
+Montenegro,,3/27/2020,Overcast throughout the day.,rain,0.13,0.0011,0.0071,0.41,rain,54.29,40.68,41.8,0.83,1013.5,0.99,3,41.03,54.29,42.5,19.3
+Montenegro,,3/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.17,0.0007,0.0052,0.08,rain,58.74,40.71,40.09,0.73,1012.5,0.38,4,40.68,58.74,42.5,19.3
+Montenegro,,3/29/2020,Clear throughout the day.,clear-day,0.2,0.0003,0.001,0.09,rain,59.5,38.9,38.6,0.67,1013.3,0.2,5,40.71,59.5,42.5,19.3
+Montenegro,,3/30/2020,Light rain in the evening and overnight.,rain,0.23,0.0048,0.0396,0.69,rain,52.13,30.83,37.11,0.76,1015.9,0.93,3,37.28,52.13,42.5,19.3
+Montenegro,,3/31/2020,Light rain in the morning and afternoon.,rain,0.26,0.0189,0.0611,0.94,rain,44.97,28.44,31.11,0.84,1014.1,0.96,3,30.75,44.97,42.5,19.3
+Montenegro,,4/1/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0003,0.06,rain,52.47,34.53,31.7,0.73,1014.6,0.11,5,28.44,52.47,42.5,19.3
+Montenegro,,4/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.33,0.0001,0.0002,0.04,rain,55.68,43.96,36.68,0.74,1013.7,0.53,3,34.53,55.68,42.5,19.3
+Montenegro,,4/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0004,0.06,rain,55.68,47.82,38.35,0.66,1013.2,0.85,3,43.96,55.68,42.5,19.3
+Montenegro,,4/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0001,0.0003,0.04,rain,56.96,44.48,38.15,0.61,1017.0,0.85,4,47.82,56.96,42.5,19.3
+Montenegro,,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0,0.0002,0.02,,62.59,40.64,32.14,0.49,1024.4,0.19,6,44.48,62.59,42.5,19.3
+Montenegro,,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0,0.0,,65.17,38.69,28.35,0.43,1027.5,0.01,7,40.64,65.17,42.5,19.3
+Montenegro,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0,0.0003,0.01,,62.51,40.08,29.71,0.47,1025.7,0.02,7,38.69,62.51,42.5,19.3
+Montenegro,,4/8/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.02,rain,64.87,43.52,34.45,0.52,1021.6,0.02,7,40.08,64.87,42.5,19.3
+Montenegro,,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0004,0.01,rain,68.29,46.05,36.7,0.52,1020.3,0.0,7,43.52,68.29,42.5,19.3
+Montenegro,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.05,rain,69.52,45.74,40.94,0.57,1021.2,0.16,7,46.05,69.52,42.5,19.3
+Montenegro,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0003,0.02,,68.06,46.13,41.57,0.6,1021.2,0.01,8,45.74,68.06,42.5,19.3
+Montenegro,,4/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0004,0.04,rain,65.05,45.77,41.63,0.62,1019.1,0.56,4,46.13,65.05,42.5,19.3
+Montenegro,,4/13/2020,Rain starting in the afternoon.,rain,0.74,0.0604,0.2058,0.95,rain,55.93,36.89,39.79,0.77,1014.8,0.96,4,40.25,55.93,42.5,19.3
+Montenegro,,4/14/2020,Clear throughout the day.,rain,0.78,0.0008,0.016,0.25,rain,57.77,37.72,31.97,0.64,1020.3,0.39,7,36.89,57.77,42.5,19.3
+Montenegro,,4/15/2020,Clear throughout the day.,clear-day,0.81,0.0001,0.0002,0.01,rain,64.08,43.56,33.69,0.54,1022.9,0.11,7,37.72,64.08,42.5,19.3
+Montenegro,,4/16/2020,Clear throughout the day.,clear-day,0.84,0.0001,0.0002,0.02,rain,64.11,46.81,40.08,0.62,1019.0,0.31,7,43.56,64.11,42.5,19.3
+Montenegro,,4/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0001,0.0002,0.02,rain,68.23,49.77,45.82,0.68,1017.6,0.32,6,46.81,68.23,42.5,19.3
+Montenegro,,4/18/2020,Overcast throughout the day.,cloudy,0.9,0.0004,0.0026,0.06,rain,67.74,51.51,47.79,0.73,1015.3,0.89,4,49.77,67.74,42.5,19.3
+Montenegro,,4/19/2020,Possible drizzle overnight.,rain,0.93,0.0014,0.0083,0.36,rain,62.37,49.43,49.3,0.77,1012.5,0.99,4,51.51,62.37,42.5,19.3
+Montenegro,,4/20/2020,Light rain throughout the day.,rain,0.96,0.0132,0.0304,0.91,rain,58.24,46.22,49.42,0.88,1012.0,1.0,4,49.38,58.24,42.5,19.3

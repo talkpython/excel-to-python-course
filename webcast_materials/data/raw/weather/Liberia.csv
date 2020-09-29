@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Liberia,,1/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0003,0.07,rain,94.81,67.03,59.41,0.59,1011.1,0.36,9,66.56,94.81,6.4281,-9.4295
+Liberia,,1/2/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0004,0.06,rain,94.58,65.3,59.26,0.59,1011.8,0.15,11,67.03,94.58,6.4281,-9.4295
+Liberia,,1/3/2020,Clear throughout the day.,partly-cloudy-day,0.27,0.0001,0.0005,0.03,rain,94.1,61.8,45.96,0.38,1012.3,0.32,10,65.3,94.1,6.4281,-9.4295
+Liberia,,1/4/2020,Clear throughout the day.,clear-day,0.3,0.0002,0.0004,0.07,rain,94.5,60.46,41.11,0.31,1012.5,0.08,10,61.8,94.5,6.4281,-9.4295
+Liberia,,1/5/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.05,rain,95.49,60.39,48.51,0.45,1011.7,0.01,11,60.46,95.49,6.4281,-9.4295
+Liberia,,1/6/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,95.89,64.18,55.95,0.56,1011.1,0.18,10,60.39,95.89,6.4281,-9.4295
+Liberia,,1/7/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0002,0.07,rain,93.86,67.11,63.19,0.66,1011.2,0.12,10,64.18,93.86,6.4281,-9.4295
+Liberia,,1/8/2020,Partly cloudy throughout the day.,clear-day,0.43,0.0,0.0002,0.05,,96.69,69.66,66.26,0.67,1011.8,0.27,10,67.11,96.69,6.4281,-9.4295
+Liberia,,1/9/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0,0.0001,0.01,,97.67,69.97,67.11,0.67,1011.8,0.52,9,69.66,97.67,6.4281,-9.4295
+Liberia,,1/10/2020,Humid throughout the day.,partly-cloudy-day,0.5,0.0013,0.0128,0.14,rain,98.3,72.88,69.56,0.72,1012.1,0.34,10,69.97,98.3,6.4281,-9.4295
+Liberia,,1/11/2020,Humid and partly cloudy throughout the day.,rain,0.54,0.0015,0.0065,0.29,rain,91.28,71.39,73.32,0.82,1012.9,0.51,8,72.88,91.28,6.4281,-9.4295
+Liberia,,1/12/2020,Humid and partly cloudy throughout the day.,rain,0.58,0.0019,0.0115,0.25,rain,97.17,69.67,69.61,0.71,1011.8,0.55,9,71.39,97.17,6.4281,-9.4295
+Liberia,,1/13/2020,Humid throughout the day.,partly-cloudy-day,0.61,0.0,0.0003,0.05,,98.38,69.72,64.34,0.63,1010.5,0.41,9,69.67,98.38,6.4281,-9.4295
+Liberia,,1/14/2020,Foggy in the morning.,partly-cloudy-day,0.65,0.0003,0.0024,0.04,rain,97.51,66.6,58.75,0.54,1009.9,0.5,10,69.72,97.51,6.4281,-9.4295
+Liberia,,1/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0,0.0002,0.05,,96.5,69.29,59.83,0.55,1010.9,0.43,10,66.6,96.5,6.4281,-9.4295
+Liberia,,1/16/2020,Humid and partly cloudy throughout the day.,clear-day,0.72,0.0,0.0002,0.05,,100.43,69.24,63.74,0.62,1011.9,0.29,10,69.29,100.43,6.4281,-9.4295
+Liberia,,1/17/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.76,0.0001,0.0004,0.07,rain,98.32,70.37,68.5,0.7,1012.6,0.37,11,69.24,98.32,6.4281,-9.4295
+Liberia,,1/18/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0,0.0002,0.03,,98.53,71.3,67.55,0.66,1012.2,0.39,9,70.37,98.53,6.4281,-9.4295
+Liberia,,1/19/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0006,0.0082,0.05,rain,96.76,70.13,67.47,0.67,1011.2,0.53,8,71.3,96.76,6.4281,-9.4295
+Liberia,,1/20/2020,Humid and mostly cloudy throughout the day.,rain,0.87,0.0013,0.0048,0.27,rain,95.43,72.0,71.15,0.76,1010.4,0.76,7,70.13,95.43,6.4281,-9.4295
+Liberia,,1/21/2020,Possible light rain in the evening.,rain,0.9,0.0074,0.035,0.64,rain,92.62,71.03,72.94,0.81,1011.2,0.89,6,72.0,92.62,6.4281,-9.4295
+Liberia,,1/22/2020,Possible light rain until evening.,rain,0.93,0.0118,0.0546,0.73,rain,89.27,69.96,73.54,0.86,1011.9,0.94,6,71.03,89.27,6.4281,-9.4295
+Liberia,,1/23/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.97,0.0001,0.0002,0.08,rain,93.66,69.86,70.43,0.74,1011.3,0.85,8,69.96,93.66,6.4281,-9.4295
+Liberia,,1/24/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,1.0,0.0001,0.0002,0.06,rain,96.59,66.58,62.28,0.59,1011.0,0.65,9,69.86,96.59,6.4281,-9.4295
+Liberia,,1/25/2020,Humid throughout the day.,clear-day,0.03,0.0001,0.0003,0.03,rain,96.98,71.0,62.64,0.61,1011.7,0.2,10,66.58,96.98,6.4281,-9.4295
+Liberia,,1/26/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.06,0.0002,0.0007,0.1,rain,97.33,72.2,66.97,0.68,1012.0,0.56,6,71.0,97.33,6.4281,-9.4295
+Liberia,,1/27/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.09,0.0003,0.0008,0.1,rain,96.75,72.35,70.98,0.74,1011.3,0.45,10,72.2,96.75,6.4281,-9.4295
+Liberia,,1/28/2020,Humid and overcast throughout the day.,rain,0.12,0.0043,0.0185,0.52,rain,93.58,70.04,72.2,0.78,1011.9,0.73,6,72.35,93.58,6.4281,-9.4295
+Liberia,,1/29/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.15,0.0005,0.0045,0.2,rain,98.63,72.08,69.42,0.7,1011.9,0.36,10,70.04,98.63,6.4281,-9.4295
+Liberia,,1/30/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.18,0.0004,0.0071,0.17,rain,98.1,69.56,69.72,0.7,1012.8,0.83,7,72.08,98.1,6.4281,-9.4295
+Liberia,,1/31/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0003,0.08,rain,98.85,70.28,67.4,0.67,1012.7,0.64,8,69.56,98.85,6.4281,-9.4295
+Liberia,,2/1/2020,Humid throughout the day.,clear-day,0.24,0.0005,0.0016,0.18,rain,98.12,71.93,70.26,0.72,1012.3,0.16,10,70.28,98.12,6.4281,-9.4295
+Liberia,,2/2/2020,Humid and partly cloudy throughout the day.,rain,0.28,0.0019,0.0093,0.27,rain,94.87,69.58,70.92,0.74,1012.9,0.41,9,71.93,94.87,6.4281,-9.4295
+Liberia,,2/3/2020,Humid throughout the day.,clear-day,0.31,0.0001,0.0003,0.06,rain,97.83,71.58,64.61,0.65,1012.9,0.13,11,69.58,97.83,6.4281,-9.4295
+Liberia,,2/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0003,0.08,rain,97.81,69.86,63.73,0.63,1012.7,0.34,10,71.58,97.81,6.4281,-9.4295
+Liberia,,2/5/2020,Humid and partly cloudy throughout the day.,clear-day,0.37,0.0002,0.0006,0.13,rain,97.58,68.4,63.61,0.64,1011.7,0.29,10,69.86,97.58,6.4281,-9.4295
+Liberia,,2/6/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0007,0.003,0.14,rain,97.5,69.27,68.1,0.71,1011.4,0.55,7,68.4,97.5,6.4281,-9.4295
+Liberia,,2/7/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0012,0.0099,0.22,rain,98.67,68.82,65.8,0.65,1011.7,0.52,10,69.27,98.67,6.4281,-9.4295
+Liberia,,2/8/2020,Humid throughout the day.,partly-cloudy-day,0.48,0.0002,0.0007,0.1,rain,98.68,71.79,65.5,0.65,1011.7,0.47,10,68.82,98.68,6.4281,-9.4295
+Liberia,,2/9/2020,Humid and partly cloudy throughout the day.,clear-day,0.52,0.0003,0.0015,0.08,rain,99.16,70.79,69.85,0.7,1012.0,0.3,10,71.79,99.16,6.4281,-9.4295
+Liberia,,2/10/2020,Possible light rain overnight.,rain,0.56,0.0016,0.0083,0.39,rain,97.8,71.98,71.02,0.76,1012.7,0.45,10,70.79,97.8,6.4281,-9.4295
+Liberia,,2/11/2020,Light rain in the morning.,rain,0.6,0.0078,0.0409,0.74,rain,91.32,70.91,72.24,0.81,1013.1,0.9,6,71.98,91.32,6.4281,-9.4295
+Liberia,,2/12/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.0001,0.0004,0.05,rain,97.46,65.47,56.42,0.54,1011.3,0.84,9,70.91,97.46,6.4281,-9.4295
+Liberia,,2/13/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.04,rain,98.55,63.77,50.31,0.42,1010.9,0.18,12,65.47,98.55,6.4281,-9.4295
+Liberia,,2/14/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.04,rain,98.36,65.61,60.58,0.6,1010.1,0.09,12,63.77,98.36,6.4281,-9.4295
+Liberia,,2/15/2020,Humid throughout the day.,clear-day,0.75,0.0001,0.0003,0.05,rain,99.8,69.71,63.33,0.65,1010.3,0.05,12,65.61,99.8,6.4281,-9.4295
+Liberia,,2/16/2020,Humid throughout the day.,clear-day,0.78,0.0002,0.0005,0.09,rain,100.52,71.9,64.55,0.64,1010.4,0.19,11,69.71,100.52,6.4281,-9.4295
+Liberia,,2/17/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.82,0.0004,0.0034,0.06,rain,98.52,69.27,69.4,0.69,1011.2,0.32,9,71.9,98.52,6.4281,-9.4295
+Liberia,,2/18/2020,Humid throughout the day.,clear-day,0.85,0.0014,0.0068,0.16,rain,98.85,71.75,70.81,0.74,1011.3,0.09,11,69.27,98.85,6.4281,-9.4295
+Liberia,,2/19/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.88,0.0004,0.0027,0.11,rain,97.26,73.52,72.72,0.77,1010.1,0.41,8,71.75,97.26,6.4281,-9.4295
+Liberia,,2/20/2020,Possible light rain in the morning.,rain,0.91,0.0159,0.0367,0.7,rain,94.64,72.7,75.51,0.85,1008.9,0.56,10,73.52,94.64,6.4281,-9.4295
+Liberia,,2/21/2020,Rain in the evening and overnight.,rain,0.94,0.0106,0.0434,0.66,rain,91.54,71.54,75.31,0.87,1009.5,0.67,10,72.7,91.54,6.4281,-9.4295
+Liberia,,2/22/2020,Rain in the morning.,rain,0.98,0.0279,0.1929,0.75,rain,94.79,72.28,73.04,0.79,1011.0,0.88,6,71.54,94.79,6.4281,-9.4295
+Liberia,,2/23/2020,Humid and partly cloudy throughout the day.,rain,0.01,0.006999999999999999,0.064,0.42,rain,95.53,73.17,73.16,0.77,1011.4,0.51,9,72.28,95.53,6.4281,-9.4295
+Liberia,,2/24/2020,Humid and overcast throughout the day.,rain,0.04,0.002,0.0146,0.31,rain,91.94,71.83,75.03,0.84,1011.4,0.91,6,73.17,91.94,6.4281,-9.4295
+Liberia,,2/25/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0004,0.0017,0.06,rain,98.24,72.63,70.83,0.7,1009.9,0.62,11,71.83,98.24,6.4281,-9.4295
+Liberia,,2/26/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0004,0.0015,0.08,rain,99.28,73.82,70.98,0.71,1009.5,0.58,9,72.63,99.28,6.4281,-9.4295
+Liberia,,2/27/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.13,0.003,0.0118,0.19,rain,95.43,75.19,74.12,0.78,1010.2,0.36,8,73.82,95.43,6.4281,-9.4295
+Liberia,,2/28/2020,Humid and mostly cloudy throughout the day.,rain,0.16,0.006999999999999999,0.0287,0.45,rain,93.6,72.05,76.34,0.85,1011.3,0.59,9,75.19,93.6,6.4281,-9.4295
+Liberia,,2/29/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0003,0.0008,0.11,rain,97.23,70.44,72.96,0.74,1010.7,0.52,10,72.05,97.23,6.4281,-9.4295
+Liberia,,3/1/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.22,0.0012,0.0104,0.13,rain,98.42,73.13,72.13,0.73,1010.2,0.39,12,70.44,98.42,6.4281,-9.4295
+Liberia,,3/2/2020,Humid and partly cloudy throughout the day.,rain,0.25,0.0048,0.0332,0.31,rain,98.57,73.86,74.09,0.77,1011.2,0.58,10,73.13,98.57,6.4281,-9.4295
+Liberia,,3/3/2020,Light rain and humid throughout the day.,rain,0.28,0.0238,0.0589,0.88,rain,93.0,73.58,75.99,0.85,1012.0,0.64,8,73.86,93.0,6.4281,-9.4295
+Liberia,,3/4/2020,Humid and mostly cloudy throughout the day.,rain,0.32,0.0105,0.0789,0.52,rain,96.19,75.16,75.02,0.81,1011.8,0.71,9,73.58,96.19,6.4281,-9.4295
+Liberia,,3/5/2020,Possible light rain overnight.,rain,0.35,0.0043,0.0179,0.54,rain,92.67,72.88,76.63,0.86,1011.3,0.65,9,75.16,92.67,6.4281,-9.4295
+Liberia,,3/6/2020,Possible light rain in the morning and afternoon.,rain,0.39,0.023,0.0935,0.72,rain,91.01,72.49,75.42,0.86,1010.8,0.45,8,72.88,91.01,6.4281,-9.4295
+Liberia,,3/7/2020,Possible light rain in the afternoon and evening.,rain,0.43,0.01,0.0404,0.51,rain,92.89,70.51,74.48,0.85,1010.4,0.71,6,72.49,92.89,6.4281,-9.4295
+Liberia,,3/8/2020,Possible light rain until evening.,rain,0.47,0.0101,0.0274,0.72,rain,91.79,71.33,73.77,0.83,1010.6,0.64,9,70.51,91.79,6.4281,-9.4295
+Liberia,,3/9/2020,Possible light rain in the evening and overnight.,rain,0.51,0.025,0.0898,0.78,rain,91.91,72.01,75.21,0.86,1010.8,0.75,9,71.33,91.91,6.4281,-9.4295
+Liberia,,3/10/2020,Possible light rain in the afternoon.,rain,0.55,0.0069,0.0387,0.71,rain,85.98,71.27,75.49,0.94,1010.8,0.95,6,72.01,85.98,6.4281,-9.4295
+Liberia,,3/11/2020,Humid and mostly cloudy throughout the day.,rain,0.58,0.0114,0.0606,0.48,rain,92.12,72.56,74.86,0.84,1009.8,0.82,8,71.27,92.12,6.4281,-9.4295
+Liberia,,3/12/2020,Humid and mostly cloudy throughout the day.,rain,0.62,0.0009,0.0061,0.26,rain,93.93,75.08,75.04,0.83,1009.7,0.83,7,72.56,93.93,6.4281,-9.4295
+Liberia,,3/13/2020,Humid and mostly cloudy throughout the day.,rain,0.66,0.0046,0.0417,0.25,rain,96.43,74.27,75.33,0.83,1010.0,0.49,8,75.08,96.43,6.4281,-9.4295
+Liberia,,3/14/2020,Humid and mostly cloudy throughout the day.,rain,0.7,0.0052,0.0187,0.49,rain,90.36,75.24,76.99,0.9,1010.5,0.62,9,74.27,90.36,6.4281,-9.4295
+Liberia,,3/15/2020,Possible light rain until evening.,rain,0.73,0.0104,0.0351,0.69,rain,86.79,70.3,76.71,0.93,1010.8,0.9,6,72.79,86.79,6.4281,-9.4295
+Liberia,,3/16/2020,Humid and overcast throughout the day.,cloudy,0.77,0.0042,0.032,0.22,rain,90.44,72.62,74.54,0.88,1010.0,0.91,6,70.3,90.44,6.4281,-9.4295
+Liberia,,3/17/2020,Possible light rain in the afternoon and evening.,rain,0.8,0.0139,0.0619,0.6,rain,90.95,73.36,76.46,0.9,1010.2,0.86,7,72.62,90.95,6.4281,-9.4295
+Liberia,,3/18/2020,Possible light rain in the evening.,rain,0.83,0.0169,0.0973,0.6,rain,90.75,72.48,76.24,0.9,1011.3,0.95,6,73.36,90.75,6.4281,-9.4295
+Liberia,,3/19/2020,Humid and overcast throughout the day.,rain,0.86,0.0038,0.023,0.36,rain,91.01,70.23,75.29,0.86,1011.3,0.94,7,72.48,91.01,6.4281,-9.4295
+Liberia,,3/20/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0064,0.0484,0.24,rain,92.17,73.78,74.93,0.85,1010.3,0.73,10,70.23,92.17,6.4281,-9.4295
+Liberia,,3/21/2020,Possible light rain in the afternoon and evening.,rain,0.92,0.0168,0.0792,0.65,rain,90.88,70.78,76.93,0.91,1010.1,0.87,8,73.78,90.88,6.4281,-9.4295
+Liberia,,3/22/2020,Rain starting in the afternoon.,rain,0.95,0.0105,0.0643,0.64,rain,92.74,69.15,75.55,0.87,1010.5,0.9,8,70.78,92.74,6.4281,-9.4295
+Liberia,,3/23/2020,Rain until evening.,rain,0.98,0.0834,0.3876,0.99,rain,85.8,70.88,72.94,0.93,1012.7,0.99,5,69.15,85.8,6.4281,-9.4295
+Liberia,,3/24/2020,Rain starting in the afternoon.,rain,0.01,0.0238,0.1017,0.92,rain,86.48,70.11,73.69,0.92,1012.3,0.95,6,70.88,86.48,6.4281,-9.4295
+Liberia,,3/25/2020,Possible drizzle in the morning.,rain,0.04,0.0034,0.013999999999999999,0.78,rain,90.5,71.03,73.15,0.86,1011.5,0.67,10,70.11,90.5,6.4281,-9.4295
+Liberia,,3/26/2020,Possible light rain in the evening and overnight.,rain,0.07,0.0159,0.0785,0.61,rain,89.68,72.85,74.66,0.86,1009.7,0.68,7,71.03,89.68,6.4281,-9.4295
+Liberia,,3/27/2020,Light rain in the morning and afternoon.,rain,0.11,0.0167,0.0745,0.87,rain,85.81,70.15,74.94,0.92,1010.3,0.99,6,72.85,85.81,6.4281,-9.4295
+Liberia,,3/28/2020,Rain in the evening.,rain,0.14,0.0148,0.1202,0.41,rain,92.48,70.85,74.13,0.85,1010.9,0.93,6,70.15,92.48,6.4281,-9.4295
+Liberia,,3/29/2020,Rain starting in the afternoon.,rain,0.17,0.025,0.1249,0.79,rain,92.2,72.41,75.5,0.87,1010.9,0.66,11,70.85,92.2,6.4281,-9.4295
+Liberia,,3/30/2020,Humid and mostly cloudy throughout the day.,rain,0.2,0.0052,0.0234,0.49,rain,93.37,72.88,74.66,0.83,1009.4,0.88,6,72.41,93.37,6.4281,-9.4295
+Liberia,,3/31/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.23,0.0025,0.0203,0.15,rain,94.32,73.22,75.43,0.83,1009.5,0.82,5,72.88,94.32,6.4281,-9.4295
+Liberia,,4/1/2020,Rain in the evening and overnight.,rain,0.27,0.0115,0.0627,0.55,rain,92.57,70.92,76.82,0.89,1010.7,0.78,7,73.22,92.57,6.4281,-9.4295
+Liberia,,4/2/2020,Humid and overcast throughout the day.,rain,0.3,0.0393,0.2427,0.67,rain,90.81,71.11,75.01,0.85,1011.3,0.96,6,70.92,90.81,6.4281,-9.4295
+Liberia,,4/3/2020,Humid and mostly cloudy throughout the day.,rain,0.34,0.004,0.0241,0.32,rain,90.28,74.58,74.32,0.83,1010.4,0.73,7,71.11,90.28,6.4281,-9.4295
+Liberia,,4/4/2020,Humid and mostly cloudy throughout the day.,rain,0.37,0.0102,0.0924,0.34,rain,92.36,73.73,76.82,0.86,1010.8,0.83,8,74.58,92.36,6.4281,-9.4295
+Liberia,,4/5/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0022,0.0098,0.15,rain,90.52,75.06,77.23,0.87,1011.4,0.85,7,73.73,90.52,6.4281,-9.4295
+Liberia,,4/6/2020,Light rain starting in the afternoon.,rain,0.45,0.0203,0.0891,0.84,rain,90.47,73.27,78.38,0.93,1011.6,0.73,8,75.06,90.47,6.4281,-9.4295
+Liberia,,4/7/2020,Possible light rain in the evening.,rain,0.49,0.0099,0.0614,0.62,rain,91.24,72.25,76.35,0.87,1011.4,0.82,7,73.27,91.24,6.4281,-9.4295
+Liberia,,4/8/2020,Light rain starting in the afternoon.,rain,0.53,0.0194,0.0808,0.76,rain,91.72,73.41,76.85,0.9,1010.3,0.64,9,72.25,91.72,6.4281,-9.4295
+Liberia,,4/9/2020,Rain in the morning.,rain,0.57,0.0494,0.2534,0.95,rain,83.06,67.72,73.89,0.92,1010.3,0.75,6,72.85,83.06,6.4281,-9.4295
+Liberia,,4/10/2020,Rain in the evening and overnight.,rain,0.61,0.0168,0.1174,0.63,rain,92.65,69.27,74.0,0.87,1011.2,0.5,10,67.72,92.65,6.4281,-9.4295
+Liberia,,4/11/2020,Possible drizzle in the afternoon.,rain,0.64,0.0106,0.0471,0.8,rain,87.23,70.89,73.98,0.9,1012.0,0.61,8,69.27,87.23,6.4281,-9.4295
+Liberia,,4/12/2020,Rain in the afternoon and evening.,rain,0.68,0.0371,0.3062,0.84,rain,92.67,70.49,73.94,0.89,1012.1,0.63,8,70.89,92.67,6.4281,-9.4295
+Liberia,,4/13/2020,Possible light rain in the evening.,rain,0.71,0.0067,0.0347,0.54,rain,87.87,72.37,75.2,0.93,1011.1,0.95,5,70.49,87.87,6.4281,-9.4295
+Liberia,,4/14/2020,Light rain starting in the afternoon.,rain,0.75,0.0116,0.0468,0.82,rain,89.29,73.15,76.85,0.93,1010.7,0.8,9,72.37,89.29,6.4281,-9.4295
+Liberia,,4/15/2020,Rain starting in the afternoon.,rain,0.78,0.0266,0.12300000000000001,0.96,rain,86.51,72.84,76.87,0.97,1010.9,0.88,6,73.15,86.51,6.4281,-9.4295
+Liberia,,4/16/2020,Light rain in the morning and afternoon.,rain,0.81,0.0271,0.0947,0.96,rain,91.36,74.1,76.18,0.88,1011.0,0.53,12,72.84,91.36,6.4281,-9.4295
+Liberia,,4/17/2020,Rain starting in the afternoon.,rain,0.84,0.0248,0.1805,0.93,rain,91.8,72.54,77.76,0.9,1010.1,0.77,8,74.1,91.8,6.4281,-9.4295
+Liberia,,4/18/2020,Possible light rain in the evening and overnight.,rain,0.87,0.0219,0.1948,0.84,rain,86.27,72.24,76.34,0.93,1011.5,0.98,6,72.54,86.27,6.4281,-9.4295
+Liberia,,4/19/2020,Possible light rain in the evening.,rain,0.9,0.0052,0.0342,0.62,rain,90.36,72.28,76.27,0.9,1012.6,0.95,6,72.24,90.36,6.4281,-9.4295
+Liberia,,4/20/2020,Rain starting in the afternoon.,rain,0.93,0.0427,0.1337,0.88,rain,90.42,70.08,75.66,0.91,1012.9,0.96,6,72.28,90.42,6.4281,-9.4295
+Liberia,,4/21/2020,Possible light rain in the evening.,rain,0.96,0.0052,0.0232,0.58,rain,90.73,73.27,75.54,0.9,1011.6,0.96,6,70.08,90.73,6.4281,-9.4295

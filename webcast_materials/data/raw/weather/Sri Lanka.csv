@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Sri Lanka,,12/31/2019,Overcast throughout the day.,cloudy,0.2,0.0006,0.0036,0.21,rain,81.49,64.64,67.95,0.91,1012.6,0.91,6,63.94,81.49,7.0,81.0
+Sri Lanka,,1/1/2020,Possible light rain overnight and in the evening.,rain,0.23,0.0161,0.0737,0.61,rain,81.06,66.25,69.21,0.95,1013.3,0.49,9,64.64,81.06,7.0,81.0
+Sri Lanka,,1/2/2020,Foggy overnight and in the evening.,rain,0.26,0.003,0.0181,0.49,rain,82.05,63.97,69.17,0.91,1012.5,0.78,6,66.34,82.05,7.0,81.0
+Sri Lanka,,1/3/2020,Foggy overnight and in the evening.,clear-day,0.29,0.0012,0.0054,0.19,rain,82.14,62.26,67.8,0.89,1011.3,0.24,11,63.64,82.14,7.0,81.0
+Sri Lanka,,1/4/2020,Foggy overnight.,partly-cloudy-day,0.33,0.0001,0.0006,0.08,rain,82.56,62.87,65.29,0.85,1011.1,0.34,10,61.32,82.56,7.0,81.0
+Sri Lanka,,1/5/2020,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.36,0.0019,0.0068,0.22,rain,80.96,64.11,66.87,0.9,1012.3,0.47,10,62.87,80.96,7.0,81.0
+Sri Lanka,,1/6/2020,"Foggy until morning, starting again in the evening.",rain,0.39,0.0027,0.0106,0.3,rain,81.02,65.1,66.95,0.9,1013.1,0.82,6,64.11,81.02,7.0,81.0
+Sri Lanka,,1/7/2020,"Foggy until morning, starting again in the evening.",rain,0.42,0.0046,0.0135,0.39,rain,77.11,57.34,67.65,0.95,1012.8,0.84,7,63.25,77.11,7.0,81.0
+Sri Lanka,,1/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.46,0.0001,0.0005,0.11,rain,80.23,56.31,62.03,0.83,1013.0,0.8,6,57.34,80.23,7.0,81.0
+Sri Lanka,,1/9/2020,Foggy in the morning.,cloudy,0.49,0.0002,0.0014,0.05,rain,80.81,59.22,59.47,0.76,1012.1,0.93,7,56.3,80.81,7.0,81.0
+Sri Lanka,,1/10/2020,Possible light rain overnight.,rain,0.53,0.0038,0.0234,0.31,rain,79.32,65.76,65.21,0.9,1011.7,0.77,9,59.05,79.32,7.0,81.0
+Sri Lanka,,1/11/2020,Foggy overnight and in the morning.,rain,0.57,0.0054,0.0231,0.58,rain,76.21,59.86,66.75,0.95,1011.1,0.87,6,63.01,76.21,7.0,81.0
+Sri Lanka,,1/12/2020,Foggy in the morning.,partly-cloudy-day,0.61,0.0019,0.0074,0.18,rain,76.5,57.22,63.95,0.9,1011.3,0.6,8,59.86,76.5,7.0,81.0
+Sri Lanka,,1/13/2020,Foggy overnight and in the morning.,partly-cloudy-day,0.64,0.0,0.0001,0.01,,78.58,55.94,60.67,0.84,1012.2,0.68,8,57.22,78.58,7.0,81.0
+Sri Lanka,,1/14/2020,Foggy overnight and in the morning.,partly-cloudy-day,0.68,0.0,0.0001,0.02,,78.67,54.85,58.75,0.79,1012.4,0.8,8,55.94,78.67,7.0,81.0
+Sri Lanka,,1/15/2020,Foggy in the evening.,rain,0.72,0.003,0.0153,0.28,rain,82.04,60.77,63.53,0.87,1012.5,0.37,11,54.85,82.04,7.0,81.0
+Sri Lanka,,1/16/2020,Foggy overnight and in the evening.,rain,0.75,0.0051,0.0211,0.49,rain,79.49,62.37,67.05,0.92,1011.3,0.6,9,60.77,79.49,7.0,81.0
+Sri Lanka,,1/17/2020,Foggy overnight and in the evening.,rain,0.79,0.002,0.0075,0.25,rain,80.44,60.9,67.9,0.92,1011.9,0.66,9,62.37,80.44,7.0,81.0
+Sri Lanka,,1/18/2020,Possible light rain overnight and in the evening.,rain,0.82,0.0064,0.0366,0.45,rain,82.48,66.4,67.34,0.91,1012.1,0.75,8,60.9,82.48,7.0,81.0
+Sri Lanka,,1/19/2020,"Possible light rain until morning, starting again in the evening.",rain,0.86,0.0068,0.0204,0.69,rain,79.95,65.62,69.56,0.95,1013.1,0.85,7,66.4,79.95,7.0,81.0
+Sri Lanka,,1/20/2020,Possible drizzle overnight.,rain,0.89,0.005,0.0177,0.49,rain,76.29,66.56,68.96,0.96,1013.8,0.78,7,65.62,76.29,7.0,81.0
+Sri Lanka,,1/21/2020,Light rain and humid throughout the day.,rain,0.93,0.0232,0.0916,0.74,rain,72.93,66.86,69.14,1.0,1014.0,0.95,6,66.56,72.93,7.0,81.0
+Sri Lanka,,1/22/2020,Humid throughout the day.,rain,0.96,0.0037,0.0092,0.47,rain,76.71,66.04,69.82,0.98,1012.9,0.94,6,66.86,76.71,7.0,81.0
+Sri Lanka,,1/23/2020,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.99,0.0016,0.0036,0.2,rain,77.06,61.89,68.57,0.96,1012.6,0.84,7,66.04,77.06,7.0,81.0
+Sri Lanka,,1/24/2020,"Foggy until morning, starting again in the evening.",rain,0.02,0.0016,0.0045,0.31,rain,77.23,61.65,66.48,0.93,1012.7,0.81,7,61.89,77.23,7.0,81.0
+Sri Lanka,,1/25/2020,Foggy overnight.,cloudy,0.05,0.0007,0.0022,0.2,rain,79.44,59.08,64.56,0.88,1011.9,0.93,6,61.65,79.44,7.0,81.0
+Sri Lanka,,1/26/2020,Overcast throughout the day.,cloudy,0.09,0.0002,0.0013,0.09,rain,80.69,57.23,60.26,0.78,1012.1,0.94,6,59.08,80.69,7.0,81.0
+Sri Lanka,,1/27/2020,Foggy overnight.,partly-cloudy-day,0.12,0.0,0.0003,0.04,,82.39,56.93,57.26,0.7,1012.6,0.64,7,57.23,82.39,7.0,81.0
+Sri Lanka,,1/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.15,0.0002,0.0003,0.09,rain,82.8,57.94,58.71,0.73,1012.8,0.57,8,56.93,82.8,7.0,81.0
+Sri Lanka,,1/29/2020,Clear throughout the day.,clear-day,0.18,0.0001,0.0003,0.05,rain,82.17,57.63,56.41,0.67,1012.2,0.05,12,57.94,82.17,7.0,81.0
+Sri Lanka,,1/30/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.05,rain,81.45,56.51,55.83,0.66,1011.2,0.06,12,57.63,81.45,7.0,81.0
+Sri Lanka,,1/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0002,0.0007,0.07,rain,80.82,59.46,59.56,0.76,1011.6,0.37,12,56.51,80.82,7.0,81.0
+Sri Lanka,,2/1/2020,Foggy overnight and in the evening.,partly-cloudy-day,0.27,0.0013,0.0088,0.19,rain,81.07,60.96,62.93,0.83,1012.9,0.48,12,59.46,81.07,7.0,81.0
+Sri Lanka,,2/2/2020,Foggy overnight and in the evening.,rain,0.3,0.0067,0.02,0.37,rain,78.81,60.93,65.86,0.92,1013.1,0.8,6,60.96,78.81,7.0,81.0
+Sri Lanka,,2/3/2020,Foggy overnight and in the evening.,rain,0.33,0.0035,0.0127,0.28,rain,79.61,64.74,66.4,0.91,1011.7,0.78,9,60.93,79.61,7.0,81.0
+Sri Lanka,,2/4/2020,"Foggy until morning, starting again in the evening.",rain,0.37,0.0121,0.0213,0.59,rain,77.57,62.94,67.93,0.96,1011.9,0.97,6,64.74,77.57,7.0,81.0
+Sri Lanka,,2/5/2020,Foggy overnight and in the evening.,rain,0.4,0.0032,0.0099,0.34,rain,79.96,61.78,66.53,0.89,1012.5,0.96,6,62.94,79.96,7.0,81.0
+Sri Lanka,,2/6/2020,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.44,0.0009,0.0054,0.18,rain,78.86,57.73,64.4,0.85,1012.9,0.83,7,61.78,78.86,7.0,81.0
+Sri Lanka,,2/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.0001,0.0003,0.04,rain,82.63,57.11,61.25,0.78,1013.2,0.44,9,57.73,82.63,7.0,81.0
+Sri Lanka,,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.51,0.0001,0.0003,0.08,rain,82.39,56.09,59.82,0.77,1012.9,0.5,11,57.11,82.39,7.0,81.0
+Sri Lanka,,2/9/2020,Foggy overnight.,partly-cloudy-day,0.55,0.001,0.0131,0.15,rain,78.83,62.15,60.51,0.81,1012.5,0.39,11,56.09,78.83,7.0,81.0
+Sri Lanka,,2/10/2020,Possible light rain overnight.,rain,0.59,0.0042,0.0152,0.38,rain,78.94,66.27,66.05,0.9,1012.1,0.88,7,62.15,78.94,7.0,81.0
+Sri Lanka,,2/11/2020,Possible light rain and humid throughout the day.,rain,0.63,0.0204,0.0364,0.75,rain,75.16,66.2,69.11,1.0,1012.8,0.95,6,66.27,75.16,7.0,81.0
+Sri Lanka,,2/12/2020,Possible drizzle overnight and in the morning.,rain,0.67,0.0075,0.0132,0.71,rain,74.66,65.28,68.94,1.0,1012.8,0.89,7,66.2,74.66,7.0,81.0
+Sri Lanka,,2/13/2020,Possible light rain starting in the morning.,rain,0.7,0.0171,0.0875,0.68,rain,77.04,63.56,69.03,0.98,1011.9,0.8,9,65.28,77.04,7.0,81.0
+Sri Lanka,,2/14/2020,Humid throughout the day.,rain,0.74,0.01,0.053,0.3,rain,82.63,61.86,68.82,0.91,1011.7,0.46,12,63.56,82.63,7.0,81.0
+Sri Lanka,,2/15/2020,Foggy overnight and in the evening.,clear-day,0.77,0.0017,0.0105,0.14,rain,81.14,63.49,67.03,0.88,1012.6,0.31,13,61.86,81.14,7.0,81.0
+Sri Lanka,,2/16/2020,Foggy in the evening.,partly-cloudy-day,0.81,0.0005,0.0027,0.15,rain,81.08,54.87,65.76,0.87,1012.9,0.62,11,63.28,81.08,7.0,81.0
+Sri Lanka,,2/17/2020,Foggy overnight.,partly-cloudy-day,0.84,0.0002,0.0004,0.09,rain,81.03,55.78,57.31,0.72,1013.1,0.32,12,54.87,81.03,7.0,81.0
+Sri Lanka,,2/18/2020,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.87,0.0001,0.0004,0.06,rain,81.93,61.3,60.03,0.77,1012.6,0.37,12,55.78,81.93,7.0,81.0
+Sri Lanka,,2/19/2020,Possible light rain overnight.,rain,0.91,0.0011,0.0053,0.26,rain,80.29,67.41,65.82,0.89,1011.8,0.37,11,61.3,80.29,7.0,81.0
+Sri Lanka,,2/20/2020,"Light rain until morning, starting again in the evening.",rain,0.94,0.0232,0.075,0.86,rain,76.91,66.82,70.34,0.99,1012.2,0.8,9,67.41,76.91,7.0,81.0
+Sri Lanka,,2/21/2020,Possible light rain overnight and in the morning.,rain,0.97,0.0187,0.0738,0.82,rain,77.99,63.19,69.34,0.97,1013.3,0.91,8,66.82,77.99,7.0,81.0
+Sri Lanka,,2/22/2020,Possible light rain in the afternoon.,rain,1.0,0.0182,0.0321,0.65,rain,73.99,64.75,68.56,1.0,1012.9,0.93,6,63.19,73.99,7.0,81.0
+Sri Lanka,,2/23/2020,"Foggy until morning, starting again in the evening.",rain,0.03,0.0023,0.0055,0.31,rain,80.2,65.38,68.37,0.94,1011.2,0.98,6,64.75,80.2,7.0,81.0
+Sri Lanka,,2/24/2020,Humid throughout the day.,rain,0.06,0.0077,0.0239,0.34,rain,81.93,62.0,68.86,0.93,1010.2,0.72,9,65.38,81.93,7.0,81.0
+Sri Lanka,,2/25/2020,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.09,0.0004,0.0016,0.09,rain,82.73,58.95,66.5,0.87,1010.6,0.56,11,62.0,82.73,7.0,81.0
+Sri Lanka,,2/26/2020,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.12,0.0002,0.001,0.07,rain,82.59,59.85,63.69,0.82,1010.8,0.74,7,58.95,82.59,7.0,81.0
+Sri Lanka,,2/27/2020,Overcast throughout the day.,cloudy,0.15,0.0006,0.0039,0.08,rain,83.15,59.94,63.67,0.82,1009.9,0.88,8,59.85,83.15,7.0,81.0
+Sri Lanka,,2/28/2020,Foggy overnight and in the evening.,cloudy,0.18,0.0063,0.0315,0.24,rain,82.39,62.76,64.51,0.85,1010.4,0.96,6,59.94,82.39,7.0,81.0
+Sri Lanka,,2/29/2020,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.21,0.0004,0.0027,0.13,rain,83.65,63.13,65.56,0.84,1010.6,0.5,11,62.76,83.65,7.0,81.0
+Sri Lanka,,3/1/2020,Foggy overnight.,cloudy,0.24,0.003,0.0124,0.22,rain,84.58,62.3,66.83,0.84,1011.2,0.88,7,63.13,84.58,7.0,81.0
+Sri Lanka,,3/2/2020,Clear throughout the day.,partly-cloudy-day,0.28,0.0001,0.0013,0.1,rain,86.48,62.06,61.75,0.71,1011.2,0.41,13,62.3,86.48,7.0,81.0
+Sri Lanka,,3/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0,0.0002,0.02,,87.72,61.94,57.58,0.61,1010.6,0.61,10,62.06,87.72,7.0,81.0
+Sri Lanka,,3/4/2020,Overcast throughout the day.,cloudy,0.35,0.0027,0.0105,0.15,rain,86.67,62.48,60.93,0.69,1010.7,0.89,6,61.94,86.67,7.0,81.0
+Sri Lanka,,3/5/2020,Humid and overcast throughout the day.,rain,0.38,0.0153,0.0433,0.43,rain,80.61,65.23,67.52,0.88,1011.1,0.84,8,62.48,80.61,7.0,81.0
+Sri Lanka,,3/6/2020,Possible light rain in the afternoon and evening.,rain,0.42,0.0115,0.0577,0.47,rain,81.42,61.12,68.57,0.92,1012.4,0.77,8,65.23,81.42,7.0,81.0
+Sri Lanka,,3/7/2020,Clear throughout the day.,clear-day,0.46,0.0021,0.0135,0.19,rain,83.51,62.07,66.72,0.87,1011.2,0.31,13,61.12,83.51,7.0,81.0
+Sri Lanka,,3/8/2020,Clear throughout the day.,partly-cloudy-day,0.5,0.0003,0.002,0.06,rain,85.61,60.55,65.23,0.81,1010.2,0.34,13,62.07,85.61,7.0,81.0
+Sri Lanka,,3/9/2020,Foggy overnight and in the evening.,clear-day,0.54,0.0012,0.0093,0.12,rain,86.24,58.94,65.09,0.81,1010.5,0.31,12,60.55,86.24,7.0,81.0
+Sri Lanka,,3/10/2020,Clear throughout the day.,clear-day,0.58,0.0001,0.0003,0.04,rain,88.06,60.69,60.6,0.69,1011.1,0.13,14,58.94,88.06,7.0,81.0
+Sri Lanka,,3/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0002,0.0005,0.08,rain,87.01,59.15,63.08,0.76,1012.0,0.62,8,60.69,87.01,7.0,81.0
+Sri Lanka,,3/12/2020,Partly cloudy throughout the day.,clear-day,0.65,0.0001,0.0004,0.04,rain,86.44,60.79,61.17,0.72,1011.5,0.3,10,59.15,86.44,7.0,81.0
+Sri Lanka,,3/13/2020,Foggy overnight and in the evening.,clear-day,0.69,0.0001,0.0004,0.07,rain,87.5,60.55,60.85,0.68,1010.4,0.22,14,60.79,87.5,7.0,81.0
+Sri Lanka,,3/14/2020,Clear throughout the day.,partly-cloudy-day,0.72,0.0002,0.0008,0.1,rain,85.8,63.45,64.75,0.78,1010.1,0.32,14,60.55,85.8,7.0,81.0
+Sri Lanka,,3/15/2020,Foggy overnight and in the evening.,rain,0.76,0.0057,0.0291,0.52,rain,83.8,65.16,68.37,0.87,1011.0,0.77,8,63.45,83.8,7.0,81.0
+Sri Lanka,,3/16/2020,Possible light rain in the evening.,rain,0.79,0.0093,0.0289,0.53,rain,80.38,67.02,69.47,0.94,1012.4,0.92,7,65.16,80.38,7.0,81.0
+Sri Lanka,,3/17/2020,Possible light rain in the evening.,rain,0.82,0.0074,0.0258,0.51,rain,83.26,64.99,69.61,0.9,1011.8,0.89,8,67.02,83.26,7.0,81.0
+Sri Lanka,,3/18/2020,Partly cloudy throughout the day.,rain,0.85,0.0034,0.0146,0.33,rain,84.98,61.33,68.16,0.85,1011.4,0.72,11,64.99,84.98,7.0,81.0
+Sri Lanka,,3/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0,0.0002,0.02,,87.15,62.0,62.6,0.72,1011.6,0.57,10,61.33,87.15,7.0,81.0
+Sri Lanka,,3/20/2020,Overcast throughout the day.,partly-cloudy-day,0.92,0.0004,0.0024,0.05,rain,88.29,59.79,60.8,0.68,1011.6,0.81,6,62.0,88.29,7.0,81.0
+Sri Lanka,,3/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.95,0.0001,0.0004,0.02,rain,88.51,60.72,59.42,0.65,1011.3,0.39,11,59.79,88.51,7.0,81.0
+Sri Lanka,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0003,0.04,rain,88.28,60.16,60.68,0.68,1010.9,0.08,13,60.72,88.28,7.0,81.0
+Sri Lanka,,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.03,rain,87.71,59.87,60.23,0.67,1009.3,0.0,14,60.16,87.71,7.0,81.0
+Sri Lanka,,3/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0062,0.0268,0.22,rain,87.3,58.84,62.24,0.75,1009.3,0.49,12,59.87,87.3,7.0,81.0
+Sri Lanka,,3/25/2020,Overcast throughout the day.,cloudy,0.07,0.0002,0.0004,0.07,rain,85.87,57.38,60.91,0.73,1009.8,1.0,6,58.84,85.87,7.0,81.0
+Sri Lanka,,3/26/2020,Foggy overnight.,partly-cloudy-day,0.1,0.0001,0.0014,0.05,rain,87.58,60.45,61.37,0.73,1011.3,0.66,10,57.38,87.58,7.0,81.0
+Sri Lanka,,3/27/2020,Clear throughout the day.,clear-day,0.13,0.004,0.0206,0.09,rain,88.34,63.32,63.28,0.74,1010.3,0.23,14,60.45,88.34,7.0,81.0
+Sri Lanka,,3/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0037,0.0154,0.15,rain,87.48,64.95,66.35,0.8,1009.8,0.43,12,63.32,87.48,7.0,81.0
+Sri Lanka,,3/29/2020,Humid throughout the day.,rain,0.19,0.0114,0.0237,0.38,rain,81.26,60.09,69.18,0.88,1010.0,0.54,14,64.95,81.26,7.0,81.0
+Sri Lanka,,3/30/2020,Clear throughout the day.,partly-cloudy-day,0.22,0.0017,0.0077,0.09,rain,83.71,62.44,62.94,0.74,1010.6,0.35,13,60.09,83.71,7.0,81.0
+Sri Lanka,,3/31/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.26,0.0005,0.0045,0.11,rain,87.82,59.55,59.82,0.67,1010.3,0.36,8,62.44,87.82,7.0,81.0
+Sri Lanka,,4/1/2020,Clear throughout the day.,clear-day,0.29,0.0001,0.0003,0.01,rain,89.57,58.57,53.53,0.52,1009.6,0.0,14,59.55,89.57,7.0,81.0
+Sri Lanka,,4/2/2020,Clear throughout the day.,clear-day,0.33,0.0008,0.0061,0.09,rain,89.63,62.16,61.04,0.69,1010.6,0.18,14,58.57,89.63,7.0,81.0
+Sri Lanka,,4/3/2020,Rain in the afternoon and evening.,rain,0.37,0.026000000000000002,0.1214,0.75,rain,83.59,65.42,68.63,0.88,1011.8,0.61,8,62.16,83.59,7.0,81.0
+Sri Lanka,,4/4/2020,Mostly cloudy throughout the day.,rain,0.4,0.009000000000000001,0.0505,0.52,rain,87.62,63.27,68.14,0.82,1012.7,0.66,9,65.42,87.62,7.0,81.0
+Sri Lanka,,4/5/2020,Humid throughout the day.,rain,0.44,0.0073,0.0532,0.29,rain,87.93,62.8,68.23,0.83,1012.5,0.31,11,63.27,87.93,7.0,81.0
+Sri Lanka,,4/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.48,0.0015,0.0078,0.15,rain,88.18,63.45,63.92,0.73,1011.6,0.61,9,62.8,88.18,7.0,81.0
+Sri Lanka,,4/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.52,0.0007,0.0037,0.1,rain,89.4,64.43,62.99,0.7,1011.5,0.53,8,63.45,89.4,7.0,81.0
+Sri Lanka,,4/8/2020,Clear throughout the day.,clear-day,0.56,0.0013,0.0058,0.21,rain,89.95,62.84,64.21,0.72,1011.1,0.16,14,64.43,89.95,7.0,81.0
+Sri Lanka,,4/9/2020,Possible light rain in the evening.,rain,0.6,0.0051,0.0332,0.41,rain,88.49,63.01,65.03,0.77,1011.0,0.23,14,62.84,88.49,7.0,81.0
+Sri Lanka,,4/10/2020,Clear throughout the day.,rain,0.64,0.0016,0.0086,0.27,rain,86.78,64.2,67.28,0.82,1011.6,0.35,13,63.01,86.78,7.0,81.0
+Sri Lanka,,4/11/2020,Possible drizzle in the evening.,rain,0.67,0.0058,0.028999999999999998,0.46,rain,85.7,65.62,68.69,0.86,1011.2,0.18,13,64.2,85.7,7.0,81.0
+Sri Lanka,,4/12/2020,Mostly cloudy throughout the day.,rain,0.71,0.0068,0.0278,0.48,rain,85.94,65.57,68.91,0.84,1010.0,0.57,8,65.62,85.94,7.0,81.0
+Sri Lanka,,4/13/2020,Possible light rain in the evening.,rain,0.74,0.0088,0.0363,0.56,rain,86.86,64.93,68.66,0.84,1010.2,0.35,13,65.57,86.86,7.0,81.0
+Sri Lanka,,4/14/2020,Rain in the afternoon and evening.,rain,0.77,0.0269,0.1304,0.78,rain,82.34,63.99,69.84,0.91,1011.4,0.45,12,64.93,82.34,7.0,81.0
+Sri Lanka,,4/15/2020,Rain in the afternoon and evening.,rain,0.8,0.045,0.1798,0.79,rain,83.91,65.33,68.94,0.88,1010.8,0.69,11,63.99,83.91,7.0,81.0
+Sri Lanka,,4/16/2020,Rain in the afternoon and evening.,rain,0.83,0.0265,0.1434,0.66,rain,84.69,64.06,70.05,0.9,1011.2,0.56,8,65.33,84.69,7.0,81.0
+Sri Lanka,,4/17/2020,Humid and mostly cloudy throughout the day.,rain,0.86,0.0098,0.0423,0.4,rain,84.93,65.85,69.63,0.88,1011.5,0.58,8,64.06,84.93,7.0,81.0
+Sri Lanka,,4/18/2020,Humid throughout the day.,rain,0.89,0.0066,0.0255,0.42,rain,83.08,63.77,70.2,0.9,1010.6,0.51,12,65.85,83.08,7.0,81.0
+Sri Lanka,,4/19/2020,Humid throughout the day.,rain,0.92,0.0142,0.0765,0.37,rain,83.88,63.92,69.32,0.89,1009.4,0.41,14,63.77,83.88,7.0,81.0
+Sri Lanka,,4/20/2020,Possible light rain in the evening.,rain,0.96,0.0148,0.0671,0.49,rain,86.09,66.49,69.25,0.86,1009.4,0.73,7,63.92,86.09,7.0,81.0

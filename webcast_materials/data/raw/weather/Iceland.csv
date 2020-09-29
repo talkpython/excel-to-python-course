@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Iceland,,1/1/2020,Windy until evening.,snow,0.21,0.0149,0.0275,0.52,snow,29.51,12.44,22.91,0.83,979.6,0.84,0,19.47,33.13,64.9631,-19.0208
+Iceland,,1/2/2020,Foggy throughout the day.,snow,0.24,0.0059,0.0127,0.36,snow,14.5,2.4,6.07,0.84,977.2,0.68,0,2.09,19.63,64.9631,-19.0208
+Iceland,,1/3/2020,Foggy until evening.,snow,0.27,0.0032,0.008,0.29,snow,4.51,0.86,-1.61,0.85,1006.7,0.79,0,-3.11,7.31,64.9631,-19.0208
+Iceland,,1/4/2020,Possible light snow (3–6 in.) in the evening.,snow,0.3,0.0189,0.0611,0.4,snow,34.79,27.75,15.57,0.76,1001.3,0.84,0,5.55,34.79,64.9631,-19.0208
+Iceland,,1/5/2020,Dangerously windy until evening.,snow,0.33,0.0127,0.033,0.44,snow,29.06,24.03,22.75,0.83,984.6,0.68,0,24.03,30.49,64.9631,-19.0208
+Iceland,,1/6/2020,Windy in the afternoon and evening.,snow,0.36,0.0246,0.0637,0.49,snow,31.34,17.46,23.22,0.85,968.4,0.98,0,22.53,31.34,64.9631,-19.0208
+Iceland,,1/7/2020,Dangerously windy starting in the afternoon.,snow,0.4,0.013000000000000001,0.033,0.43,snow,27.5,14.49,16.57,0.81,956.1,0.91,0,16.16,27.5,64.9631,-19.0208
+Iceland,,1/8/2020,Dangerously windy throughout the day.,snow,0.43,0.0104,0.0361,0.35,snow,20.76,17.07,12.31,0.8,973.1,0.91,0,14.49,21.36,64.9631,-19.0208
+Iceland,,1/9/2020,Dangerously windy throughout the day.,snow,0.47,0.01,0.0193,0.34,snow,18.48,14.78,12.24,0.8,982.4,0.79,0,14.78,22.43,64.9631,-19.0208
+Iceland,,1/10/2020,Dangerously windy throughout the day.,snow,0.5,0.0206,0.066,0.39,snow,35.26,26.14,20.63,0.81,973.6,0.85,0,16.42,35.28,64.9631,-19.0208
+Iceland,,1/11/2020,Windy in the morning and afternoon.,snow,0.54,0.0098,0.0244,0.37,snow,28.33,-0.05,15.98,0.79,966.4,0.72,0,9.87,32.09,64.9631,-19.0208
+Iceland,,1/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0015,0.0046,0.2,snow,12.77,8.86,-1.81,0.68,977.6,0.52,0,-0.05,12.77,64.9631,-19.0208
+Iceland,,1/13/2020,Dangerously windy starting in the afternoon.,snow,0.61,0.001,0.0029,0.26,snow,20.91,19.73,10.64,0.82,976.5,0.68,0,7.94,21.87,64.9631,-19.0208
+Iceland,,1/14/2020,Dangerously windy and foggy throughout the day.,snow,0.65,0.0039,0.0095,0.44,snow,27.91,22.93,18.97,0.81,965.4,0.95,0,21.34,27.91,64.9631,-19.0208
+Iceland,,1/15/2020,Foggy until evening.,snow,0.69,0.0027,0.0059,0.33,snow,24.96,19.18,20.78,0.9,974.5,0.9,0,20.36,25.66,64.9631,-19.0208
+Iceland,,1/16/2020,Mostly cloudy throughout the day.,snow,0.72,0.0024,0.0064,0.32,snow,27.55,14.74,18.67,0.8,987.3,0.76,0,19.72,27.55,64.9631,-19.0208
+Iceland,,1/17/2020,Foggy throughout the day.,snow,0.76,0.0019,0.0049,0.36,snow,20.79,15.05,14.69,0.88,1000.0,0.82,0,14.74,23.81,64.9631,-19.0208
+Iceland,,1/18/2020,Dangerously windy and foggy overnight.,partly-cloudy-day,0.8,0.001,0.0044,0.24,snow,17.85,16.62,12.75,0.82,1013.9,0.66,0,14.22,26.53,64.9631,-19.0208
+Iceland,,1/19/2020,Snow (2–5 in.) and dangerously windy throughout the day.,snow,0.83,0.0297,0.0748,0.73,snow,37.09,23.89,28.32,0.84,995.8,0.96,0,27.2,37.09,64.9631,-19.0208
+Iceland,,1/20/2020,Snow (3–6 in.) in the morning.,snow,0.87,0.0179,0.0563,0.7,snow,26.74,21.55,19.16,0.81,1005.2,0.91,0,21.05,29.96,64.9631,-19.0208
+Iceland,,1/21/2020,Possible light rain (with a chance of 1–2 in. of snow) overnight.,snow,0.9,0.0045,0.0111,0.39,snow,27.81,26.82,19.85,0.81,1020.0,0.88,0,21.74,32.28,64.9631,-19.0208
+Iceland,,1/22/2020,Light rain (with a chance of 2–4 in. of snow) until evening.,rain,0.93,0.0278,0.0756,0.79,rain,37.68,17.02,27.95,0.84,1003.9,0.91,0,20.71,37.68,64.9631,-19.0208
+Iceland,,1/23/2020,Dangerously windy and foggy throughout the day.,snow,0.97,0.0149,0.0277,0.52,snow,19.28,16.78,13.5,0.82,993.1,0.91,0,16.78,20.29,64.9631,-19.0208
+Iceland,,1/24/2020,Dangerously windy in the morning and overnight.,snow,1.0,0.0052,0.0157,0.35,snow,18.75,16.99,12.68,0.8,998.3,0.95,0,14.78,21.76,64.9631,-19.0208
+Iceland,,1/25/2020,Dangerously windy in the morning and afternoon.,snow,0.03,0.0172,0.0352,0.34,snow,25.48,15.62,15.39,0.81,980.8,0.96,0,16.18,25.48,64.9631,-19.0208
+Iceland,,1/26/2020,Mostly cloudy throughout the day.,snow,0.06,0.0062,0.0267,0.33,snow,26.58,10.97,15.7,0.83,971.3,0.84,0,15.62,26.62,64.9631,-19.0208
+Iceland,,1/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.09,0.0014,0.0047,0.23,snow,27.28,11.17,12.3,0.8,972.8,0.61,0,10.97,27.28,64.9631,-19.0208
+Iceland,,1/28/2020,Clear throughout the day.,partly-cloudy-day,0.12,0.0002,0.0007,0.14,snow,17.31,9.16,8.24,0.77,985.5,0.45,0,10.11,19.2,64.9631,-19.0208
+Iceland,,1/29/2020,Foggy overnight.,partly-cloudy-day,0.15,0.001,0.0026,0.16,snow,18.72,13.89,11.4,0.92,989.2,0.79,0,8.74,19.53,64.9631,-19.0208
+Iceland,,1/30/2020,Foggy throughout the day.,snow,0.18,0.0055,0.0158,0.29,snow,26.14,18.63,16.48,0.93,985.7,0.94,0,11.9,26.53,64.9631,-19.0208
+Iceland,,1/31/2020,Foggy throughout the day.,snow,0.21,0.0047,0.011000000000000001,0.29,snow,25.09,10.07,17.24,0.93,987.3,0.96,0,13.17,25.09,64.9631,-19.0208
+Iceland,,2/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0005,0.0026,0.14,snow,14.54,6.22,8.17,0.84,994.6,0.62,0,9.53,19.79,64.9631,-19.0208
+Iceland,,2/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.28,0.0001,0.0003,0.1,snow,17.0,7.88,4.92,0.8,996.8,0.49,0,6.07,17.0,64.9631,-19.0208
+Iceland,,2/3/2020,Overcast throughout the day.,partly-cloudy-day,0.31,0.0003,0.0023,0.13,snow,22.77,15.63,8.72,0.78,998.7,0.8,0,7.88,22.77,64.9631,-19.0208
+Iceland,,2/4/2020,Possible light rain (with a chance of 1–2 in. of snow) overnight.,snow,0.34,0.0074,0.0212,0.44,snow,33.45,32.46,21.45,0.84,1008.7,0.89,0,16.62,36.04,64.9631,-19.0208
+Iceland,,2/5/2020,Light rain and dangerously windy throughout the day.,rain,0.37,0.0196,0.0411,0.85,rain,37.15,36.16,32.98,0.89,1000.8,0.99,0,34.46,37.71,64.9631,-19.0208
+Iceland,,2/6/2020,Possible light rain (with a chance of 1–2 in. of snow) in the morning and overnight.,rain,0.41,0.0115,0.0257,0.63,rain,37.91,30.04,30.11,0.85,998.3,0.74,0,30.04,38.38,64.9631,-19.0208
+Iceland,,2/7/2020,Possible light rain until evening.,rain,0.45,0.0146,0.040999999999999995,0.75,rain,36.82,22.71,30.91,0.84,982.2,0.9,0,32.34,37.14,64.9631,-19.0208
+Iceland,,2/8/2020,Partly cloudy throughout the day.,snow,0.48,0.0033,0.013999999999999999,0.39,snow,25.99,8.14,17.43,0.81,968.8,0.58,0,14.81,31.62,64.9631,-19.0208
+Iceland,,2/9/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.52,0.0007,0.0107,0.23,snow,19.9,10.29,8.5,0.86,960.2,0.61,0,8.14,19.9,64.9631,-19.0208
+Iceland,,2/10/2020,Snow (5–8 in.) and windy in the afternoon.,snow,0.56,0.0222,0.0381,0.54,snow,29.31,15.74,19.74,0.87,959.6,0.99,0,15.69,29.31,64.9631,-19.0208
+Iceland,,2/11/2020,Foggy in the morning and afternoon.,snow,0.6,0.0025,0.0095,0.41,snow,18.31,2.64,10.36,0.88,984.5,0.85,0,4.56,24.52,64.9631,-19.0208
+Iceland,,2/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.0007,0.0026,0.22,snow,13.0,-2.11,2.48,0.82,997.9,0.76,0,2.64,13.0,64.9631,-19.0208
+Iceland,,2/13/2020,Dangerously windy overnight.,partly-cloudy-day,0.67,0.0003,0.0011,0.11,snow,9.55,8.56,-1.86,0.76,1004.2,0.58,0,-2.38,11.87,64.9631,-19.0208
+Iceland,,2/14/2020,Snow (2–4 in.) in the evening and overnight.,snow,0.71,0.0103,0.0468,0.48,snow,32.57,12.83,17.0,0.79,969.1,0.92,0,10.82,33.66,64.9631,-19.0208
+Iceland,,2/15/2020,Dangerously windy in the afternoon and evening.,snow,0.75,0.0041,0.0108,0.37,snow,25.91,20.28,15.98,0.82,959.2,0.72,0,10.56,29.73,64.9631,-19.0208
+Iceland,,2/16/2020,Possible light snow (1–3 in.) in the evening and overnight.,snow,0.78,0.0048,0.0182,0.39,snow,26.38,23.49,19.56,0.86,951.3,0.83,0,17.1,27.51,64.9631,-19.0208
+Iceland,,2/17/2020,Possible light snow (< 1 in.) and windy in the morning.,snow,0.82,0.0058,0.0214,0.51,snow,26.35,18.89,20.0,0.85,974.2,0.89,0,18.89,28.35,64.9631,-19.0208
+Iceland,,2/18/2020,Overcast throughout the day.,snow,0.85,0.0022,0.0061,0.29,snow,27.35,10.14,17.81,0.83,992.0,0.93,0,18.65,27.35,64.9631,-19.0208
+Iceland,,2/19/2020,Dangerously windy in the evening and overnight.,snow,0.88,0.0044,0.0131,0.31,snow,25.68,20.13,14.78,0.84,982.5,0.86,0,9.55,30.08,64.9631,-19.0208
+Iceland,,2/20/2020,Possible light snow (< 1 in.) in the morning.,snow,0.91,0.0036,0.0088,0.49,snow,29.1,14.5,19.05,0.87,966.0,0.86,0,15.02,29.1,64.9631,-19.0208
+Iceland,,2/21/2020,Foggy throughout the day.,snow,0.94,0.0027,0.0083,0.43,snow,26.53,17.3,16.76,0.84,964.8,0.9,0,14.5,26.53,64.9631,-19.0208
+Iceland,,2/22/2020,Foggy in the morning.,snow,0.98,0.0019,0.0086,0.37,snow,19.52,8.35,11.42,0.83,979.4,0.84,0,8.35,24.26,64.9631,-19.0208
+Iceland,,2/23/2020,Foggy throughout the day.,snow,0.01,0.0067,0.0197,0.45,snow,22.07,21.08,12.51,0.82,996.7,0.84,0,10.29,23.96,64.9631,-19.0208
+Iceland,,2/24/2020,Foggy in the evening and overnight.,snow,0.04,0.0113,0.0219,0.47,snow,27.65,7.5,18.24,0.83,992.7,0.97,0,18.08,27.65,64.9631,-19.0208
+Iceland,,2/25/2020,Foggy in the evening.,snow,0.07,0.0014,0.0042,0.36,snow,20.73,12.36,10.83,0.86,989.5,0.89,0,7.49,20.73,64.9631,-19.0208
+Iceland,,2/26/2020,Overcast throughout the day.,snow,0.1,0.0007,0.0022,0.29,snow,17.22,9.55,8.1,0.77,997.4,0.92,0,10.84,17.37,64.9631,-19.0208
+Iceland,,2/27/2020,Dangerously windy overnight.,snow,0.13,0.0011,0.0062,0.27,snow,13.73,11.12,5.02,0.75,998.8,0.89,0,9.1,13.73,64.9631,-19.0208
+Iceland,,2/28/2020,Dangerously windy in the morning and afternoon.,snow,0.16,0.0037,0.0202,0.37,snow,25.67,13.56,12.32,0.77,987.2,0.84,0,12.69,25.67,64.9631,-19.0208
+Iceland,,2/29/2020,Dangerously windy overnight.,wind,0.19,0.0031,0.0154,0.24,snow,28.65,20.75,15.51,0.81,982.3,0.73,0,13.56,28.65,64.9631,-19.0208
+Iceland,,3/1/2020,Dangerously windy and overcast throughout the day.,snow,0.22,0.0008,0.002,0.28,snow,28.5,17.93,18.03,0.78,982.7,0.97,1,21.47,28.5,64.9631,-19.0208
+Iceland,,3/2/2020,Dangerously windy and mostly cloudy throughout the day.,wind,0.25,0.0001,0.0003,0.12,snow,26.94,17.12,14.11,0.75,992.8,0.62,1,17.93,26.94,64.9631,-19.0208
+Iceland,,3/3/2020,Foggy until evening.,snow,0.28,0.009000000000000001,0.0278,0.31,snow,25.59,13.09,15.75,0.83,988.2,0.77,1,17.12,25.59,64.9631,-19.0208
+Iceland,,3/4/2020,Partly cloudy throughout the day.,snow,0.32,0.0016,0.0038,0.27,snow,23.31,2.35,10.34,0.81,985.2,0.53,0,8.5,23.31,64.9631,-19.0208
+Iceland,,3/5/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.35,0.0038,0.0189,0.16,snow,15.55,7.78,3.76,0.77,991.5,0.34,0,2.17,20.51,64.9631,-19.0208
+Iceland,,3/6/2020,Foggy in the morning.,partly-cloudy-day,0.39,0.0015,0.0071,0.15,snow,16.89,2.83,5.52,0.8,1005.0,0.51,1,5.1,18.39,64.9631,-19.0208
+Iceland,,3/7/2020,Windy in the evening and overnight.,wind,0.43,0.0003,0.0012,0.16,snow,15.94,12.67,3.45,0.7,993.7,0.71,1,2.83,18.26,64.9631,-19.0208
+Iceland,,3/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0005,0.0014,0.19,snow,18.59,3.42,7.73,0.79,993.9,0.54,1,5.11,18.59,64.9631,-19.0208
+Iceland,,3/9/2020,Dangerously windy in the evening and overnight.,wind,0.51,0.0004,0.0012,0.11,snow,15.83,10.54,3.26,0.75,998.6,0.59,1,3.42,15.83,64.9631,-19.0208
+Iceland,,3/10/2020,Dangerously windy throughout the day.,wind,0.55,0.0015,0.0025,0.24,snow,25.76,19.41,16.17,0.8,983.2,0.84,1,12.41,25.76,64.9631,-19.0208
+Iceland,,3/11/2020,Windy throughout the day.,snow,0.58,0.0026,0.0067,0.36,snow,27.38,8.88,16.94,0.81,984.9,0.95,1,17.92,27.38,64.9631,-19.0208
+Iceland,,3/12/2020,Windy overnight.,partly-cloudy-day,0.62,0.0028,0.0155,0.21,snow,14.6,13.61,7.64,0.81,1005.5,0.52,1,8.05,17.97,64.9631,-19.0208
+Iceland,,3/13/2020,Windy in the morning.,snow,0.66,0.0096,0.049,0.3,snow,22.65,4.88,13.29,0.84,1003.8,0.85,1,8.27,23.18,64.9631,-19.0208
+Iceland,,3/14/2020,Foggy in the morning.,partly-cloudy-day,0.7,0.0005,0.0016,0.17,snow,15.34,-1.61,4.57,0.83,1003.8,0.46,1,2.64,15.34,64.9631,-19.0208
+Iceland,,3/15/2020,"Dangerously windy until afternoon, starting again overnight.",wind,0.73,0.0011,0.0075,0.13,snow,21.28,20.29,3.34,0.68,1001.8,0.5,1,-1.61,24.41,64.9631,-19.0208
+Iceland,,3/16/2020,Possible light snow (1–4 in.) and dangerously windy in the morning.,snow,0.77,0.0082,0.0201,0.48,snow,29.61,18.16,20.95,0.81,972.9,0.79,1,20.5,29.61,64.9631,-19.0208
+Iceland,,3/17/2020,Possible light snow (1–2 in.) in the morning.,snow,0.8,0.0057,0.0191,0.49,snow,26.28,17.7,18.51,0.86,981.8,0.93,1,15.78,28.27,64.9631,-19.0208
+Iceland,,3/18/2020,Foggy throughout the day.,snow,0.83,0.0055,0.0153,0.31,snow,24.87,1.29,14.68,0.82,1009.9,0.96,1,11.88,24.87,64.9631,-19.0208
+Iceland,,3/19/2020,Windy overnight.,partly-cloudy-day,0.86,0.0008,0.003,0.18,snow,19.82,12.15,4.85,0.77,1031.3,0.55,1,1.29,19.82,64.9631,-19.0208
+Iceland,,3/20/2020,Snow (2–5 in.) overnight.,snow,0.89,0.0132,0.0358,0.46,snow,32.17,25.12,21.84,0.8,1019.1,0.89,1,16.03,32.93,64.9631,-19.0208
+Iceland,,3/21/2020,Snow (4–7 in.) in the morning.,snow,0.92,0.0259,0.073,0.74,snow,27.57,18.04,20.64,0.84,1005.2,0.86,1,18.44,34.46,64.9631,-19.0208
+Iceland,,3/22/2020,Snow (3–6 in.) in the evening and overnight.,snow,0.95,0.0233,0.0906,0.61,snow,33.79,26.09,20.76,0.81,992.2,0.78,1,18.04,35.61,64.9631,-19.0208
+Iceland,,3/23/2020,Dangerously windy throughout the day.,snow,0.98,0.0221,0.0328,0.54,snow,28.41,20.33,22.3,0.83,972.6,0.66,1,23.68,29.29,64.9631,-19.0208
+Iceland,,3/24/2020,Windy in the morning.,snow,0.01,0.0038,0.0085,0.29,snow,25.12,16.55,17.8,0.81,989.4,0.53,1,20.33,25.45,64.9631,-19.0208
+Iceland,,3/25/2020,Windy and foggy overnight.,snow,0.04,0.0036,0.0113,0.35,snow,29.52,20.48,18.08,0.83,1002.8,0.69,1,16.55,29.52,64.9631,-19.0208
+Iceland,,3/26/2020,"Windy until afternoon, starting again overnight.",snow,0.07,0.009000000000000001,0.0329,0.53,snow,25.59,13.21,18.33,0.83,1009.4,0.76,1,19.59,25.59,64.9631,-19.0208
+Iceland,,3/27/2020,Foggy until evening.,snow,0.11,0.0073,0.0189,0.37,snow,22.27,4.56,13.15,0.84,1027.9,0.88,1,12.01,22.27,64.9631,-19.0208
+Iceland,,3/28/2020,Foggy overnight.,partly-cloudy-day,0.14,0.0005,0.0054,0.1,snow,26.4,21.27,11.08,0.8,1047.5,0.55,2,4.56,26.4,64.9631,-19.0208
+Iceland,,3/29/2020,Foggy overnight.,cloudy,0.17,0.0017,0.0039,0.21,snow,33.51,27.81,27.79,0.89,1043.9,0.96,2,25.99,33.51,64.9631,-19.0208
+Iceland,,3/30/2020,Windy starting in the afternoon.,wind,0.2,0.0025,0.0076,0.21,snow,33.09,30.26,26.99,0.86,1033.4,0.93,2,27.81,33.09,64.9631,-19.0208
+Iceland,,3/31/2020,Possible light snow (1–3 in.) in the morning and afternoon.,snow,0.23,0.015,0.0322,0.6,snow,36.25,18.35,29.1,0.89,1017.6,1.0,2,25.01,36.25,64.9631,-19.0208
+Iceland,,4/1/2020,"Dangerously windy until afternoon, starting again overnight.",snow,0.27,0.0076,0.0229,0.45,snow,23.17,11.32,12.89,0.83,1006.5,0.95,1,11.31,24.63,64.9631,-19.0208
+Iceland,,4/2/2020,Foggy in the afternoon.,snow,0.3,0.0063,0.0318,0.43,snow,18.93,0.7,10.63,0.81,1015.4,0.82,2,4.13,22.81,64.9631,-19.0208
+Iceland,,4/3/2020,Foggy in the morning and afternoon.,snow,0.34,0.0005,0.0011,0.33,snow,17.4,4.93,3.4,0.76,1016.6,0.74,2,0.7,17.4,64.9631,-19.0208
+Iceland,,4/4/2020,Dangerously windy throughout the day.,snow,0.37,0.0061,0.0311,0.35,snow,13.51,8.94,2.18,0.72,1014.5,0.95,2,4.93,13.51,64.9631,-19.0208
+Iceland,,4/5/2020,Heavy snow (11–17 in.) throughout the day.,snow,0.41,0.0403,0.0727,0.66,snow,22.86,21.87,10.76,0.8,994.1,1.0,3,8.94,28.64,64.9631,-19.0208
+Iceland,,4/6/2020,Possible light snow (1–2 in.) in the morning and afternoon.,snow,0.45,0.0083,0.0218,0.74,snow,35.76,17.38,25.97,0.87,972.6,0.85,2,19.96,35.76,64.9631,-19.0208
+Iceland,,4/7/2020,Possible light snow (2–4 in.) and windy in the morning.,snow,0.49,0.009000000000000001,0.0145,0.6,snow,25.83,6.35,17.29,0.85,996.7,0.82,2,12.98,25.83,64.9631,-19.0208
+Iceland,,4/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.53,0.0003,0.0018,0.18,snow,25.36,13.92,10.37,0.81,1019.1,0.41,3,6.35,25.36,64.9631,-19.0208
+Iceland,,4/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0005,0.0018,0.19,snow,30.07,12.4,16.06,0.85,1024.6,0.56,3,13.92,30.07,64.9631,-19.0208
+Iceland,,4/10/2020,Snow (1–3 in.) in the afternoon and evening.,snow,0.61,0.0101,0.0432,0.59,snow,32.62,28.49,20.06,0.82,1018.5,0.94,2,12.4,32.95,64.9631,-19.0208
+Iceland,,4/11/2020,Overcast throughout the day.,snow,0.64,0.0015,0.005,0.39,snow,35.63,10.52,27.71,0.89,1010.3,0.9,2,23.24,36.89,64.9631,-19.0208
+Iceland,,4/12/2020,Dangerously windy in the evening and overnight.,snow,0.68,0.0017,0.0068,0.25,snow,31.68,29.83,18.24,0.82,1029.8,0.53,2,10.52,32.47,64.9631,-19.0208
+Iceland,,4/13/2020,Possible light rain in the morning.,rain,0.71,0.0078,0.0187,0.59,rain,38.12,26.04,29.91,0.87,1014.6,0.89,2,27.99,38.12,64.9631,-19.0208
+Iceland,,4/14/2020,Dangerously windy in the morning and afternoon.,snow,0.75,0.0039,0.006999999999999999,0.4,snow,31.59,24.05,23.38,0.83,1002.8,0.8,2,26.04,31.59,64.9631,-19.0208
+Iceland,,4/15/2020,Possible light snow (1–2 in.) in the morning.,snow,0.78,0.0055,0.0133,0.53,snow,31.52,15.87,22.7,0.87,1006.1,0.93,2,20.9,31.52,64.9631,-19.0208
+Iceland,,4/16/2020,Overcast throughout the day.,partly-cloudy-day,0.81,0.001,0.0101,0.23,snow,34.01,29.15,21.13,0.82,1018.2,0.81,3,15.87,34.01,64.9631,-19.0208
+Iceland,,4/17/2020,Windy overnight.,rain,0.84,0.0039,0.0127,0.33,rain,39.97,31.85,32.46,0.88,1016.4,0.69,3,31.76,39.97,64.9631,-19.0208
+Iceland,,4/18/2020,Possible light rain in the afternoon and evening.,rain,0.87,0.0069,0.0183,0.56,rain,36.53,33.74,31.34,0.88,1011.4,0.82,2,31.85,36.62,64.9631,-19.0208
+Iceland,,4/19/2020,Possible drizzle in the morning and afternoon.,rain,0.9,0.0081,0.0154,0.65,rain,37.77,35.07,33.89,0.92,1014.3,0.87,2,33.74,37.81,64.9631,-19.0208
+Iceland,,4/20/2020,Foggy until evening.,rain,0.93,0.0024,0.005,0.42,rain,37.77,34.11,34.62,0.94,1021.6,0.76,2,34.88,38.39,64.9631,-19.0208
+Iceland,,4/21/2020,Foggy overnight.,partly-cloudy-day,0.96,0.0005,0.0034,0.24,rain,39.39,28.89,31.92,0.84,1026.4,0.61,3,33.19,39.39,64.9631,-19.0208

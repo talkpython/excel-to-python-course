@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Indonesia,,12/31/2019,"Rain until morning, starting again in the evening.",rain,0.2,0.0222,0.1542,0.92,rain,89.31,71.76,74.9,0.88,1011.6,0.97,6,71.85,89.31,-0.7893,113.9213
+Indonesia,,1/1/2020,Rain in the morning and overnight.,rain,0.23,0.0327,0.191,0.93,rain,87.56,72.42,75.46,0.92,1012.7,0.97,7,71.76,87.56,-0.7893,113.9213
+Indonesia,,1/2/2020,Rain until evening.,rain,0.26,0.0462,0.2011,0.97,rain,82.56,71.77,76.19,0.99,1011.2,0.92,8,72.42,82.56,-0.7893,113.9213
+Indonesia,,1/3/2020,Humid and mostly cloudy throughout the day.,rain,0.29,0.0025,0.0145,0.5,rain,90.38,72.33,74.3,0.86,1008.8,0.88,7,71.77,90.38,-0.7893,113.9213
+Indonesia,,1/4/2020,Possible drizzle in the morning.,rain,0.32,0.0022,0.0065,0.66,rain,84.51,73.11,75.33,0.94,1009.5,0.92,6,72.33,84.51,-0.7893,113.9213
+Indonesia,,1/5/2020,Possible light rain overnight.,rain,0.35,0.0011,0.0048,0.47,rain,89.3,71.68,75.31,0.88,1009.9,0.86,7,72.92,89.3,-0.7893,113.9213
+Indonesia,,1/6/2020,Light rain in the morning and overnight.,rain,0.39,0.0104,0.0336,0.83,rain,91.12,72.7,74.06,0.84,1009.4,0.91,6,71.72,91.12,-0.7893,113.9213
+Indonesia,,1/7/2020,Humid and overcast throughout the day.,rain,0.42,0.0041,0.0269,0.64,rain,89.93,73.61,73.83,0.82,1009.0,1.0,6,72.7,89.93,-0.7893,113.9213
+Indonesia,,1/8/2020,"Light rain until morning, starting again in the evening.",rain,0.46,0.0057,0.0221,0.81,rain,88.92,73.01,75.16,0.87,1008.4,0.9,7,73.61,88.92,-0.7893,113.9213
+Indonesia,,1/9/2020,"Light rain until morning, starting again in the evening.",rain,0.49,0.0189,0.0928,0.93,rain,87.51,71.82,74.83,0.89,1008.5,0.99,6,72.46,87.51,-0.7893,113.9213
+Indonesia,,1/10/2020,"Rain until morning, starting again in the evening.",rain,0.53,0.0119,0.0862,0.96,rain,83.36,71.22,74.07,0.94,1009.6,1.0,6,71.82,83.36,-0.7893,113.9213
+Indonesia,,1/11/2020,Rain in the morning and overnight.,rain,0.57,0.0374,0.2274,0.97,rain,87.25,71.03,73.26,0.88,1009.4,0.97,6,71.25,87.25,-0.7893,113.9213
+Indonesia,,1/12/2020,Humid and partly cloudy throughout the day.,rain,0.6,0.0004,0.004,0.47,rain,94.31,72.56,71.93,0.76,1008.0,0.61,13,71.03,94.31,-0.7893,113.9213
+Indonesia,,1/13/2020,"Light rain until morning, starting again in the evening.",rain,0.64,0.0065,0.0242,0.81,rain,91.43,72.38,75.52,0.86,1009.2,0.87,6,72.56,91.43,-0.7893,113.9213
+Indonesia,,1/14/2020,"Light rain until morning, starting again in the evening.",rain,0.68,0.0179,0.0618,0.97,rain,85.46,72.03,75.34,0.93,1010.4,0.95,7,72.04,85.46,-0.7893,113.9213
+Indonesia,,1/15/2020,Light rain and humid throughout the day.,rain,0.71,0.0104,0.0249,0.95,rain,86.16,72.65,76.27,0.94,1010.7,0.86,8,72.03,86.16,-0.7893,113.9213
+Indonesia,,1/16/2020,Possible light rain in the afternoon.,rain,0.75,0.0059,0.0365,0.89,rain,89.4,72.17,76.35,0.89,1010.7,0.63,9,72.65,89.4,-0.7893,113.9213
+Indonesia,,1/17/2020,Light rain starting in the afternoon.,rain,0.79,0.0223,0.0702,0.95,rain,90.08,72.65,76.3,0.89,1010.6,0.84,8,72.17,90.08,-0.7893,113.9213
+Indonesia,,1/18/2020,Light rain and humid throughout the day.,rain,0.82,0.0177,0.0502,0.97,rain,85.68,72.05,76.6,0.96,1010.8,0.91,7,72.65,85.68,-0.7893,113.9213
+Indonesia,,1/19/2020,Light rain in the morning and overnight.,rain,0.86,0.0129,0.0375,0.9,rain,86.78,71.84,75.39,0.93,1011.5,0.89,7,72.05,86.78,-0.7893,113.9213
+Indonesia,,1/20/2020,Possible light rain in the morning.,rain,0.89,0.0075,0.0355,0.79,rain,91.39,72.7,74.49,0.83,1012.5,0.75,8,71.84,91.39,-0.7893,113.9213
+Indonesia,,1/21/2020,Humid and partly cloudy throughout the day.,rain,0.92,0.0015,0.0099,0.27,rain,94.34,73.66,73.33,0.76,1011.4,0.45,10,72.7,94.34,-0.7893,113.9213
+Indonesia,,1/22/2020,Possible light rain in the evening.,rain,0.96,0.004,0.0207,0.6,rain,92.7,73.96,74.81,0.81,1010.1,0.35,10,73.66,92.7,-0.7893,113.9213
+Indonesia,,1/23/2020,Possible light rain in the morning and overnight.,rain,0.99,0.0069,0.0341,0.74,rain,87.57,72.86,75.46,0.87,1010.4,0.75,8,73.96,87.57,-0.7893,113.9213
+Indonesia,,1/24/2020,"Light rain until morning, starting again in the evening.",rain,0.02,0.0093,0.0539,0.83,rain,87.33,72.74,75.08,0.9,1010.4,0.72,7,72.86,87.33,-0.7893,113.9213
+Indonesia,,1/25/2020,"Possible light rain until morning, starting again in the evening.",rain,0.05,0.0123,0.0847,0.9,rain,89.61,73.34,76.47,0.91,1010.0,0.83,7,72.74,89.61,-0.7893,113.9213
+Indonesia,,1/26/2020,Light rain in the morning and overnight.,rain,0.08,0.0081,0.0296,0.82,rain,94.77,74.1,75.92,0.85,1009.4,0.64,9,73.34,94.77,-0.7893,113.9213
+Indonesia,,1/27/2020,Light rain in the morning and overnight.,rain,0.11,0.0135,0.043,0.9,rain,85.9,72.58,76.94,0.93,1009.9,0.86,6,74.1,85.9,-0.7893,113.9213
+Indonesia,,1/28/2020,Rain starting in the afternoon.,rain,0.14,0.0285,0.11699999999999999,0.92,rain,93.44,72.0,75.8,0.86,1010.1,0.62,9,72.58,93.44,-0.7893,113.9213
+Indonesia,,1/29/2020,Rain and humid throughout the day.,rain,0.17,0.0664,0.1632,1.0,rain,78.88,71.86,75.22,1.0,1010.8,1.0,6,72.0,78.88,-0.7893,113.9213
+Indonesia,,1/30/2020,Possible drizzle in the morning.,rain,0.2,0.0035,0.0487,0.9,rain,87.63,70.1,74.0,0.91,1011.4,0.94,6,71.86,87.63,-0.7893,113.9213
+Indonesia,,1/31/2020,Possible drizzle in the evening and overnight.,rain,0.23,0.0027,0.0147,0.55,rain,91.38,73.3,73.47,0.81,1011.0,0.81,7,70.1,91.38,-0.7893,113.9213
+Indonesia,,2/1/2020,"Light rain until morning, starting again in the evening.",rain,0.27,0.006999999999999999,0.0254,0.81,rain,90.31,73.06,75.33,0.87,1011.1,0.97,7,73.3,90.31,-0.7893,113.9213
+Indonesia,,2/2/2020,Possible light rain and humid throughout the day.,rain,0.3,0.0187,0.0946,0.9,rain,84.97,72.42,76.49,0.97,1011.2,1.0,6,73.06,84.97,-0.7893,113.9213
+Indonesia,,2/3/2020,Possible light rain in the morning and overnight.,rain,0.33,0.0087,0.0344,0.83,rain,88.86,72.42,75.3,0.89,1010.3,0.8,6,72.42,88.86,-0.7893,113.9213
+Indonesia,,2/4/2020,Light rain and humid throughout the day.,rain,0.36,0.0186,0.0366,0.93,rain,83.7,71.65,76.56,0.97,1009.7,0.84,7,72.42,83.7,-0.7893,113.9213
+Indonesia,,2/5/2020,Light rain in the evening and overnight.,rain,0.4,0.0064,0.0366,0.76,rain,88.19,71.24,75.14,0.92,1010.3,0.9,6,71.65,88.19,-0.7893,113.9213
+Indonesia,,2/6/2020,Light rain in the morning.,rain,0.44,0.0128,0.0541,0.83,rain,84.67,70.8,74.64,0.94,1011.1,0.96,6,71.24,84.67,-0.7893,113.9213
+Indonesia,,2/7/2020,Light rain starting in the afternoon.,rain,0.47,0.0085,0.062,0.74,rain,89.35,71.98,75.0,0.92,1011.0,0.99,6,70.8,89.35,-0.7893,113.9213
+Indonesia,,2/8/2020,Rain and humid throughout the day.,rain,0.51,0.0476,0.1545,0.98,rain,80.91,71.86,74.95,0.98,1011.4,0.99,6,71.98,80.91,-0.7893,113.9213
+Indonesia,,2/9/2020,Rain in the morning and overnight.,rain,0.55,0.0066,0.0462,0.94,rain,84.35,70.62,74.39,0.95,1012.4,0.96,6,71.86,84.35,-0.7893,113.9213
+Indonesia,,2/10/2020,Light rain in the morning.,rain,0.59,0.0264,0.1047,0.85,rain,94.03,72.26,72.13,0.79,1012.2,0.89,6,70.62,94.03,-0.7893,113.9213
+Indonesia,,2/11/2020,Humid and overcast throughout the day.,rain,0.63,0.0019,0.0238,0.25,rain,96.11,73.06,72.71,0.75,1011.9,0.89,7,72.26,96.11,-0.7893,113.9213
+Indonesia,,2/12/2020,Possible light rain overnight.,rain,0.66,0.0035,0.0279,0.45,rain,92.48,73.65,75.42,0.83,1010.9,0.97,6,73.06,92.48,-0.7893,113.9213
+Indonesia,,2/13/2020,Rain overnight.,rain,0.7,0.005,0.0237,0.74,rain,91.36,73.89,76.12,0.86,1010.0,0.46,11,73.65,91.36,-0.7893,113.9213
+Indonesia,,2/14/2020,"Rain until morning, starting again in the evening.",rain,0.74,0.0307,0.1398,0.89,rain,88.95,71.09,76.45,0.91,1011.1,0.91,8,73.89,88.95,-0.7893,113.9213
+Indonesia,,2/15/2020,Rain and humid throughout the day.,rain,0.77,0.0376,0.1511,0.97,rain,87.84,73.23,75.59,0.92,1011.7,0.76,7,71.09,87.84,-0.7893,113.9213
+Indonesia,,2/16/2020,Light rain and humid throughout the day.,rain,0.81,0.0265,0.0669,0.98,rain,84.05,70.93,75.64,0.98,1012.6,0.98,6,72.29,84.05,-0.7893,113.9213
+Indonesia,,2/17/2020,Possible drizzle in the morning.,rain,0.84,0.0019,0.0086,0.69,rain,82.19,70.96,74.02,0.94,1012.2,0.95,6,70.93,82.19,-0.7893,113.9213
+Indonesia,,2/18/2020,Possible light rain in the evening and overnight.,rain,0.87,0.0024,0.0194,0.54,rain,91.97,70.9,73.71,0.84,1011.1,0.7,10,70.96,91.97,-0.7893,113.9213
+Indonesia,,2/19/2020,"Rain until morning, starting again in the evening.",rain,0.9,0.0066,0.0258,0.85,rain,89.76,72.12,75.05,0.88,1010.9,0.73,8,70.9,89.76,-0.7893,113.9213
+Indonesia,,2/20/2020,Light rain in the morning and overnight.,rain,0.94,0.023,0.099,0.89,rain,90.46,72.25,74.17,0.85,1011.5,0.68,8,72.12,90.46,-0.7893,113.9213
+Indonesia,,2/21/2020,Humid and partly cloudy throughout the day.,rain,0.97,0.003,0.0172,0.61,rain,94.1,73.73,71.46,0.75,1011.7,0.51,8,72.25,94.1,-0.7893,113.9213
+Indonesia,,2/22/2020,Light rain in the evening and overnight.,rain,1.0,0.0076,0.053,0.64,rain,97.06,73.96,73.23,0.74,1010.1,0.44,14,73.73,97.06,-0.7893,113.9213
+Indonesia,,2/23/2020,Light rain and humid throughout the day.,rain,0.03,0.026000000000000002,0.053,0.95,rain,89.39,73.11,77.69,0.92,1009.5,0.63,13,73.96,89.39,-0.7893,113.9213
+Indonesia,,2/24/2020,"Light rain until morning, starting again in the evening.",rain,0.06,0.02,0.0889,0.9,rain,90.34,72.74,76.58,0.88,1009.5,0.94,6,73.11,90.34,-0.7893,113.9213
+Indonesia,,2/25/2020,Rain and humid throughout the day.,rain,0.09,0.0406,0.2765,0.96,rain,86.52,71.35,76.03,0.93,1010.3,0.9,6,72.74,86.52,-0.7893,113.9213
+Indonesia,,2/26/2020,"Light rain until morning, starting again in the evening.",rain,0.12,0.0092,0.0357,0.85,rain,90.5,72.99,75.66,0.89,1009.5,0.9,6,71.35,90.5,-0.7893,113.9213
+Indonesia,,2/27/2020,Rain until evening.,rain,0.15,0.066,0.3484,0.97,rain,81.84,72.44,76.27,0.99,1009.2,1.0,6,72.99,81.84,-0.7893,113.9213
+Indonesia,,2/28/2020,"Light rain until morning, starting again in the evening.",rain,0.18,0.0048,0.0171,0.73,rain,88.29,72.58,76.27,0.92,1008.5,0.98,6,72.44,88.29,-0.7893,113.9213
+Indonesia,,2/29/2020,"Drizzle until afternoon, starting again overnight.",rain,0.21,0.0056,0.0152,0.86,rain,87.2,72.05,76.31,0.94,1009.2,1.0,6,72.58,87.2,-0.7893,113.9213
+Indonesia,,3/1/2020,"Light rain until morning, starting again in the evening.",rain,0.24,0.0025,0.0139,0.75,rain,89.4,73.32,76.26,0.89,1009.2,0.95,7,72.05,89.4,-0.7893,113.9213
+Indonesia,,3/2/2020,"Rain until afternoon, starting again overnight.",rain,0.27,0.0212,0.1242,0.95,rain,83.08,71.47,75.11,0.96,1010.3,1.0,6,73.32,83.08,-0.7893,113.9213
+Indonesia,,3/3/2020,"Rain until morning, starting again in the evening.",rain,0.31,0.0065,0.0215,0.87,rain,87.91,72.52,74.52,0.9,1010.2,0.88,6,71.47,87.91,-0.7893,113.9213
+Indonesia,,3/4/2020,"Rain until morning, starting again in the evening.",rain,0.34,0.0401,0.2137,0.99,rain,83.85,70.13,74.63,0.93,1011.4,0.95,6,72.52,83.85,-0.7893,113.9213
+Indonesia,,3/5/2020,Possible light rain in the evening.,rain,0.38,0.0053,0.0306,0.79,rain,85.08,71.69,74.11,0.93,1012.0,1.0,6,70.13,85.08,-0.7893,113.9213
+Indonesia,,3/6/2020,Light rain in the evening and overnight.,rain,0.42,0.0186,0.0829,0.82,rain,91.42,71.77,74.64,0.88,1011.6,0.93,6,71.69,91.42,-0.7893,113.9213
+Indonesia,,3/7/2020,Possible drizzle in the morning.,rain,0.46,0.0065,0.0533,0.81,rain,87.03,73.54,75.34,0.92,1011.0,0.96,6,71.77,87.03,-0.7893,113.9213
+Indonesia,,3/8/2020,"Rain until morning, starting again in the evening.",rain,0.49,0.02,0.1162,0.88,rain,90.41,72.7,76.55,0.91,1009.6,0.78,6,73.54,90.41,-0.7893,113.9213
+Indonesia,,3/9/2020,Humid and overcast throughout the day.,rain,0.53,0.0046,0.0665,0.74,rain,93.96,73.5,75.21,0.83,1009.8,0.95,7,72.7,93.96,-0.7893,113.9213
+Indonesia,,3/10/2020,Possible light rain overnight.,partly-cloudy-day,0.57,0.0029,0.0183,0.12,rain,98.29,72.66,73.96,0.75,1009.4,0.72,7,73.5,98.29,-0.7893,113.9213
+Indonesia,,3/11/2020,"Light rain until afternoon, starting again overnight.",rain,0.61,0.027000000000000003,0.0806,0.92,rain,88.53,72.98,75.97,0.9,1011.4,0.53,11,72.66,88.53,-0.7893,113.9213
+Indonesia,,3/12/2020,Light rain in the morning and overnight.,rain,0.65,0.0125,0.0599,0.94,rain,90.35,73.04,76.92,0.91,1011.8,0.74,6,72.98,90.35,-0.7893,113.9213
+Indonesia,,3/13/2020,Possible light rain in the morning.,rain,0.69,0.0146,0.0957,0.86,rain,87.69,72.27,74.85,0.88,1011.6,0.98,6,73.04,87.69,-0.7893,113.9213
+Indonesia,,3/14/2020,Possible light rain overnight.,rain,0.72,0.004,0.0198,0.37,rain,97.24,73.56,72.23,0.73,1009.7,0.41,13,72.27,97.24,-0.7893,113.9213
+Indonesia,,3/15/2020,Light rain and humid throughout the day.,rain,0.76,0.0163,0.0762,0.92,rain,91.53,72.86,76.05,0.88,1010.5,0.55,9,73.56,91.53,-0.7893,113.9213
+Indonesia,,3/16/2020,Possible light rain in the morning and afternoon.,rain,0.79,0.0109,0.0304,0.82,rain,87.44,72.28,75.97,0.91,1011.1,0.6,10,72.86,87.44,-0.7893,113.9213
+Indonesia,,3/17/2020,Possible light rain in the morning.,rain,0.82,0.004,0.0269,0.58,rain,91.6,72.31,73.65,0.83,1010.5,0.51,12,72.28,91.6,-0.7893,113.9213
+Indonesia,,3/18/2020,Possible light rain in the morning and overnight.,rain,0.85,0.0046,0.0202,0.71,rain,89.34,72.29,74.31,0.87,1010.8,0.8,9,72.31,89.34,-0.7893,113.9213
+Indonesia,,3/19/2020,Light rain and humid throughout the day.,rain,0.88,0.0241,0.0527,0.98,rain,84.04,70.32,76.01,0.97,1011.8,0.95,6,72.29,84.04,-0.7893,113.9213
+Indonesia,,3/20/2020,Possible light rain until evening.,rain,0.91,0.0046,0.0192,0.87,rain,88.4,70.91,74.17,0.91,1012.4,0.81,9,70.32,88.4,-0.7893,113.9213
+Indonesia,,3/21/2020,Possible light rain starting in the afternoon.,rain,0.94,0.0068,0.0296,0.76,rain,93.36,72.42,74.47,0.86,1010.6,0.92,7,70.91,93.36,-0.7893,113.9213
+Indonesia,,3/22/2020,Light rain and humid throughout the day.,rain,0.98,0.0207,0.0951,0.95,rain,92.2,71.45,75.2,0.89,1010.5,0.79,7,72.42,92.2,-0.7893,113.9213
+Indonesia,,3/23/2020,Humid and overcast throughout the day.,rain,0.01,0.0003,0.0094,0.49,rain,89.74,70.98,73.91,0.86,1010.2,0.94,6,71.45,89.74,-0.7893,113.9213
+Indonesia,,3/24/2020,Rain overnight.,rain,0.04,0.0093,0.0964,0.39,rain,95.34,70.92,73.44,0.77,1008.5,0.5,14,70.98,95.34,-0.7893,113.9213
+Indonesia,,3/25/2020,"Rain until morning, starting again in the evening.",rain,0.07,0.0495,0.2845,0.92,rain,92.2,72.67,75.6,0.86,1009.2,0.55,10,70.92,92.2,-0.7893,113.9213
+Indonesia,,3/26/2020,Light rain and humid throughout the day.,rain,0.1,0.0158,0.0816,0.95,rain,89.98,73.16,76.2,0.89,1009.6,0.89,8,72.67,89.98,-0.7893,113.9213
+Indonesia,,3/27/2020,Rain in the morning.,rain,0.13,0.0319,0.1346,0.99,rain,78.61,70.78,74.75,0.97,1010.6,1.0,6,72.65,78.61,-0.7893,113.9213
+Indonesia,,3/28/2020,Light rain in the evening and overnight.,rain,0.16,0.0067,0.0295,0.59,rain,93.97,71.46,73.04,0.79,1008.9,0.56,7,70.78,93.97,-0.7893,113.9213
+Indonesia,,3/29/2020,Light rain in the morning and overnight.,rain,0.19,0.0134,0.0657,0.94,rain,84.92,70.7,74.81,0.94,1009.8,0.82,6,71.46,84.92,-0.7893,113.9213
+Indonesia,,3/30/2020,Possible drizzle in the morning.,rain,0.22,0.0057,0.0179,0.88,rain,91.64,71.72,74.67,0.86,1010.3,0.83,6,70.7,91.64,-0.7893,113.9213
+Indonesia,,3/31/2020,Humid and mostly cloudy throughout the day.,rain,0.26,0.0024,0.0161,0.25,rain,93.7,73.77,74.57,0.81,1010.0,0.76,6,71.72,93.7,-0.7893,113.9213
+Indonesia,,4/1/2020,Light rain in the evening and overnight.,rain,0.29,0.0081,0.0468,0.64,rain,94.53,74.99,75.35,0.82,1009.7,0.66,11,73.77,94.53,-0.7893,113.9213
+Indonesia,,4/2/2020,Light rain and humid throughout the day.,rain,0.33,0.0151,0.0396,0.92,rain,89.66,72.83,77.71,0.91,1010.3,0.59,11,74.99,89.66,-0.7893,113.9213
+Indonesia,,4/3/2020,Possible light rain in the morning and overnight.,rain,0.36,0.0133,0.0434,0.8,rain,89.0,72.16,75.36,0.88,1010.7,0.9,6,72.83,89.0,-0.7893,113.9213
+Indonesia,,4/4/2020,Light rain in the morning and overnight.,rain,0.4,0.0056,0.0237,0.75,rain,87.17,72.63,74.98,0.88,1010.7,0.81,8,72.16,87.17,-0.7893,113.9213
+Indonesia,,4/5/2020,Light rain until evening.,rain,0.44,0.0149,0.0521,0.99,rain,85.52,71.92,75.92,0.93,1010.7,0.98,6,72.63,85.52,-0.7893,113.9213
+Indonesia,,4/6/2020,Light rain and humid throughout the day.,rain,0.48,0.0117,0.0512,0.96,rain,90.4,73.17,74.21,0.85,1010.5,0.96,6,71.92,90.4,-0.7893,113.9213
+Indonesia,,4/7/2020,Light rain starting in the afternoon.,rain,0.52,0.0111,0.0412,0.94,rain,91.34,72.06,74.8,0.86,1011.2,0.78,8,73.17,91.34,-0.7893,113.9213
+Indonesia,,4/8/2020,Possible drizzle in the morning.,rain,0.56,0.0019,0.0203,0.78,rain,92.07,72.46,74.39,0.84,1011.9,0.73,6,72.06,92.07,-0.7893,113.9213
+Indonesia,,4/9/2020,Light rain starting in the afternoon.,rain,0.6,0.0089,0.0355,0.84,rain,92.58,72.07,76.07,0.87,1010.9,0.64,7,72.46,92.58,-0.7893,113.9213
+Indonesia,,4/10/2020,Rain and humid throughout the day.,rain,0.63,0.0451,0.1162,1.0,rain,76.65,70.72,74.55,1.0,1012.0,1.0,6,72.07,76.65,-0.7893,113.9213
+Indonesia,,4/11/2020,Possible light rain starting in the afternoon.,rain,0.67,0.0028,0.0082,0.69,rain,88.55,73.1,76.35,0.92,1010.2,0.77,9,70.72,88.55,-0.7893,113.9213
+Indonesia,,4/12/2020,Possible light rain in the morning and overnight.,rain,0.7,0.0118,0.052000000000000005,0.75,rain,89.99,73.3,76.7,0.9,1009.9,0.71,10,73.1,89.99,-0.7893,113.9213
+Indonesia,,4/13/2020,Humid and partly cloudy throughout the day.,rain,0.74,0.0032,0.0236,0.49,rain,92.04,73.97,75.58,0.84,1011.0,0.6,9,73.3,92.04,-0.7893,113.9213
+Indonesia,,4/14/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.77,0.0005,0.004,0.11,rain,94.99,74.84,74.12,0.78,1011.1,0.66,8,73.97,94.99,-0.7893,113.9213
+Indonesia,,4/15/2020,Possible light rain overnight.,rain,0.8,0.0014,0.0122,0.43,rain,89.48,72.15,75.96,0.87,1010.3,0.62,12,74.84,89.48,-0.7893,113.9213
+Indonesia,,4/16/2020,"Light rain until morning, starting again in the evening.",rain,0.83,0.0111,0.0734,0.94,rain,90.81,73.38,75.79,0.86,1010.5,0.83,7,72.15,90.81,-0.7893,113.9213
+Indonesia,,4/17/2020,"Rain until morning, starting again in the evening.",rain,0.86,0.0206,0.107,0.97,rain,91.87,72.45,75.8,0.86,1011.1,0.85,8,73.38,91.87,-0.7893,113.9213
+Indonesia,,4/18/2020,Light rain in the morning.,rain,0.89,0.0161,0.1129,0.97,rain,84.22,72.0,74.84,0.93,1011.9,0.93,6,72.45,84.22,-0.7893,113.9213
+Indonesia,,4/19/2020,Humid and mostly cloudy throughout the day.,rain,0.92,0.0001,0.0004,0.31,rain,94.53,73.23,73.82,0.79,1010.6,0.9,7,72.0,94.53,-0.7893,113.9213
+Indonesia,,4/20/2020,Humid and partly cloudy throughout the day.,rain,0.95,0.0009,0.0047,0.37,rain,92.97,73.7,75.37,0.82,1009.5,0.47,12,73.23,92.97,-0.7893,113.9213

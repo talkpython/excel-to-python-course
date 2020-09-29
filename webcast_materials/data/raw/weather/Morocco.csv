@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Morocco,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.04,rain,69.8,44.6,27.08,0.35,1030.4,0.0,4,45.81,69.8,31.7917,-7.0926
+Morocco,,1/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.04,rain,68.82,44.28,30.02,0.42,1030.2,0.02,4,44.6,68.82,31.7917,-7.0926
+Morocco,,1/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.27,0.0001,0.0003,0.02,rain,67.87,43.89,32.95,0.47,1031.0,0.56,3,44.28,67.87,31.7917,-7.0926
+Morocco,,1/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0001,0.0003,0.07,rain,66.85,42.06,33.63,0.51,1029.0,0.47,3,43.89,66.85,31.7917,-7.0926
+Morocco,,1/4/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0003,0.05,rain,64.92,40.87,34.23,0.53,1026.0,0.14,3,42.06,64.92,31.7917,-7.0926
+Morocco,,1/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.0,0.0,0.0,,63.74,39.38,33.79,0.54,1025.3,0.55,3,41.71,63.74,31.7917,-7.0926
+Morocco,,1/6/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0002,0.06,rain,65.38,39.64,21.1,0.37,1027.2,0.11,3,39.38,65.38,31.7917,-7.0926
+Morocco,,1/7/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0002,0.03,,65.24,39.52,19.89,0.33,1027.2,0.0,3,39.64,65.24,31.7917,-7.0926
+Morocco,,1/8/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0001,0.02,,65.98,39.17,27.12,0.43,1027.0,0.15,3,39.52,65.98,31.7917,-7.0926
+Morocco,,1/9/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0003,0.03,rain,67.75,39.63,28.06,0.47,1026.3,0.05,3,39.17,67.75,31.7917,-7.0926
+Morocco,,1/10/2020,Partly cloudy throughout the day.,clear-day,0.54,0.0001,0.0003,0.02,rain,59.42,37.95,34.28,0.62,1024.2,0.31,3,39.63,59.42,31.7917,-7.0926
+Morocco,,1/11/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0003,0.02,rain,66.37,37.68,24.69,0.42,1026.7,0.0,4,37.95,66.37,31.7917,-7.0926
+Morocco,,1/12/2020,Clear throughout the day.,clear-day,0.61,0.0,0.0002,0.03,,66.7,39.41,20.75,0.34,1026.7,0.13,4,37.68,66.7,31.7917,-7.0926
+Morocco,,1/13/2020,Overcast throughout the day.,partly-cloudy-day,0.65,0.0,0.0,0.0,,63.94,37.59,22.95,0.36,1025.0,0.86,3,39.41,63.94,31.7917,-7.0926
+Morocco,,1/14/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.02,,66.22,38.93,16.47,0.28,1025.9,0.14,3,37.59,66.22,31.7917,-7.0926
+Morocco,,1/15/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.03,,67.6,41.27,12.33,0.23,1028.0,0.03,4,38.93,67.6,31.7917,-7.0926
+Morocco,,1/16/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0004,0.03,rain,69.86,43.75,12.01,0.21,1030.9,0.04,4,41.27,69.86,31.7917,-7.0926
+Morocco,,1/17/2020,Clear throughout the day.,clear-day,0.8,0.0,0.0002,0.02,,73.07,44.55,6.93,0.15,1031.2,0.0,4,43.75,73.07,31.7917,-7.0926
+Morocco,,1/18/2020,Light rain in the evening and overnight.,rain,0.83,0.0055,0.0235,0.48,rain,62.74,42.48,28.22,0.45,1023.9,0.47,3,44.55,62.74,31.7917,-7.0926
+Morocco,,1/19/2020,Light rain in the morning and afternoon.,rain,0.87,0.027000000000000003,0.0582,0.95,rain,51.29,35.35,39.56,0.82,1012.6,0.83,2,40.7,51.29,31.7917,-7.0926
+Morocco,,1/20/2020,Clear throughout the day.,clear-day,0.9,0.003,0.013000000000000001,0.17,rain,57.93,38.11,33.15,0.63,1013.2,0.2,3,35.35,57.93,31.7917,-7.0926
+Morocco,,1/21/2020,Clear throughout the day.,clear-day,0.93,0.0004,0.0036,0.14,rain,58.57,39.34,35.99,0.66,1016.6,0.21,4,38.11,58.57,31.7917,-7.0926
+Morocco,,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0002,0.0007,0.06,rain,63.1,39.04,33.96,0.58,1018.3,0.53,3,39.34,63.1,31.7917,-7.0926
+Morocco,,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0006,0.0059,0.04,rain,65.45,41.72,33.07,0.54,1020.4,0.19,4,39.04,65.45,31.7917,-7.0926
+Morocco,,1/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.03,0.0027,0.0083,0.21,rain,62.68,38.89,37.3,0.61,1021.5,0.45,4,41.72,62.68,31.7917,-7.0926
+Morocco,,1/25/2020,Clear throughout the day.,clear-day,0.06,0.0003,0.0029,0.13,rain,62.94,39.73,37.47,0.66,1025.1,0.07,4,38.89,62.94,31.7917,-7.0926
+Morocco,,1/26/2020,Clear throughout the day.,clear-day,0.09,0.0001,0.0004,0.04,rain,67.87,40.74,30.87,0.49,1025.4,0.06,4,39.73,67.87,31.7917,-7.0926
+Morocco,,1/27/2020,Clear throughout the day.,clear-day,0.12,0.0,0.0002,0.01,,70.71,43.16,21.41,0.33,1025.6,0.08,4,40.74,70.71,31.7917,-7.0926
+Morocco,,1/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.01,rain,73.92,46.1,23.54,0.31,1026.0,0.35,4,43.16,73.92,31.7917,-7.0926
+Morocco,,1/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.18,0.0001,0.0003,0.02,rain,75.05,46.99,25.85,0.31,1026.7,0.56,4,46.1,75.05,31.7917,-7.0926
+Morocco,,1/30/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.01,rain,74.45,46.23,26.78,0.31,1026.2,0.19,4,46.99,74.45,31.7917,-7.0926
+Morocco,,1/31/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.03,rain,74.62,48.13,23.3,0.27,1025.3,0.25,5,46.23,74.62,31.7917,-7.0926
+Morocco,,2/1/2020,Clear throughout the day.,clear-day,0.27,0.0,0.0002,0.02,,80.04,51.21,14.21,0.17,1026.1,0.05,5,48.13,80.04,31.7917,-7.0926
+Morocco,,2/2/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0003,0.04,rain,80.21,53.51,15.61,0.16,1027.7,0.0,5,51.21,80.21,31.7917,-7.0926
+Morocco,,2/3/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.05,rain,80.07,53.29,15.87,0.16,1026.7,0.0,5,53.51,80.07,31.7917,-7.0926
+Morocco,,2/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.02,rain,81.41,51.86,16.86,0.16,1022.5,0.09,5,53.29,81.41,31.7917,-7.0926
+Morocco,,2/5/2020,Partly cloudy throughout the day.,clear-day,0.41,0.0,0.0,0.0,,80.0,46.54,23.09,0.23,1020.9,0.28,4,51.86,80.0,31.7917,-7.0926
+Morocco,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.03,rain,71.0,45.16,35.5,0.44,1024.5,0.21,5,46.54,71.0,31.7917,-7.0926
+Morocco,,2/7/2020,Partly cloudy throughout the day.,clear-day,0.48,0.0,0.0003,0.02,,70.19,44.7,36.45,0.53,1025.9,0.22,5,45.16,70.19,31.7917,-7.0926
+Morocco,,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.52,0.0001,0.0003,0.04,rain,72.04,47.11,28.47,0.37,1026.9,0.38,4,44.7,72.04,31.7917,-7.0926
+Morocco,,2/9/2020,Clear throughout the day.,clear-day,0.56,0.0001,0.0004,0.02,rain,75.99,48.33,24.2,0.28,1029.2,0.08,5,47.11,75.99,31.7917,-7.0926
+Morocco,,2/10/2020,Clear throughout the day.,clear-day,0.6,0.0,0.0,0.0,,77.13,49.69,16.86,0.2,1028.4,0.06,5,48.33,77.13,31.7917,-7.0926
+Morocco,,2/11/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.03,rain,75.17,47.31,27.71,0.3,1025.1,0.24,5,49.69,75.17,31.7917,-7.0926
+Morocco,,2/12/2020,Overcast throughout the day.,partly-cloudy-day,0.67,0.0001,0.0004,0.02,rain,72.4,47.47,30.9,0.38,1024.6,0.8,4,47.31,72.4,31.7917,-7.0926
+Morocco,,2/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0003,0.01,rain,77.74,48.97,23.14,0.27,1023.1,0.62,5,47.47,77.74,31.7917,-7.0926
+Morocco,,2/14/2020,Overcast throughout the day.,cloudy,0.75,0.0001,0.0003,0.01,rain,76.44,50.11,23.14,0.25,1024.3,0.89,4,48.97,76.44,31.7917,-7.0926
+Morocco,,2/15/2020,Clear throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.01,rain,79.79,50.66,22.75,0.23,1026.3,0.39,6,50.11,79.79,31.7917,-7.0926
+Morocco,,2/16/2020,Clear throughout the day.,clear-day,0.81,0.0001,0.0003,0.05,rain,79.13,49.24,23.11,0.24,1026.5,0.0,6,50.66,79.13,31.7917,-7.0926
+Morocco,,2/17/2020,Clear throughout the day.,clear-day,0.85,0.0002,0.0004,0.06,rain,75.74,47.65,29.01,0.31,1025.5,0.15,6,49.24,75.74,31.7917,-7.0926
+Morocco,,2/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.88,0.0022,0.0083,0.14,rain,69.59,51.55,42.28,0.58,1022.2,0.47,4,47.65,69.59,31.7917,-7.0926
+Morocco,,2/19/2020,Clear throughout the day.,partly-cloudy-day,0.91,0.0055,0.0245,0.17,rain,72.3,48.18,36.65,0.45,1019.5,0.32,5,51.55,72.3,31.7917,-7.0926
+Morocco,,2/20/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.02,rain,77.01,49.49,26.6,0.32,1021.0,0.05,6,48.18,77.01,31.7917,-7.0926
+Morocco,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0004,0.01,rain,78.36,52.27,16.83,0.19,1023.8,0.0,6,49.49,78.36,31.7917,-7.0926
+Morocco,,2/22/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.02,rain,80.49,52.07,8.22,0.12,1026.6,0.0,6,52.27,80.49,31.7917,-7.0926
+Morocco,,2/23/2020,Overcast throughout the day.,partly-cloudy-day,0.04,0.0001,0.0003,0.03,rain,80.9,48.13,10.08,0.12,1027.7,0.74,4,52.07,80.9,31.7917,-7.0926
+Morocco,,2/24/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0003,0.01,rain,76.12,44.95,17.54,0.21,1025.4,0.18,7,48.13,76.12,31.7917,-7.0926
+Morocco,,2/25/2020,Clear throughout the day.,clear-day,0.1,0.0,0.0,0.0,,75.38,48.15,16.48,0.21,1022.5,0.01,7,44.95,75.38,31.7917,-7.0926
+Morocco,,2/26/2020,Clear throughout the day.,clear-day,0.13,0.0,0.0,0.0,,80.01,51.77,21.12,0.22,1021.3,0.0,7,48.15,80.01,31.7917,-7.0926
+Morocco,,2/27/2020,Clear throughout the day.,clear-day,0.16,0.0,0.0,0.0,,84.18,53.02,21.21,0.21,1020.9,0.16,7,51.77,84.18,31.7917,-7.0926
+Morocco,,2/28/2020,Clear throughout the day.,partly-cloudy-day,0.19,0.0001,0.0003,0.01,rain,72.54,48.09,34.48,0.36,1021.3,0.49,6,52.49,72.54,31.7917,-7.0926
+Morocco,,2/29/2020,Clear throughout the day.,partly-cloudy-day,0.22,0.0001,0.0003,0.01,rain,74.88,48.89,39.8,0.5,1021.2,0.32,6,48.09,74.88,31.7917,-7.0926
+Morocco,,3/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0001,0.0002,0.02,rain,75.75,48.77,44.43,0.55,1022.0,0.42,6,48.89,75.75,31.7917,-7.0926
+Morocco,,3/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0001,0.0002,0.02,rain,81.22,52.24,39.3,0.47,1023.4,0.34,6,48.77,81.22,31.7917,-7.0926
+Morocco,,3/3/2020,Clear throughout the day.,clear-day,0.32,0.0,0.0002,0.01,,86.53,55.3,26.69,0.25,1022.1,0.0,8,52.24,86.53,31.7917,-7.0926
+Morocco,,3/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.0001,0.0003,0.01,rain,75.41,49.6,36.35,0.37,1020.6,0.39,7,54.36,75.41,31.7917,-7.0926
+Morocco,,3/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.39,0.0011,0.0045,0.17,rain,71.66,42.73,42.98,0.67,1021.6,0.51,5,49.6,71.66,31.7917,-7.0926
+Morocco,,3/6/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0003,0.01,,76.0,46.8,25.06,0.37,1020.5,0.0,7,42.73,76.0,31.7917,-7.0926
+Morocco,,3/7/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0,0.0,,80.19,47.87,11.39,0.15,1022.1,0.08,7,46.8,80.19,31.7917,-7.0926
+Morocco,,3/8/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0004,0.01,rain,79.68,47.88,14.96,0.17,1024.2,0.0,7,47.87,79.68,31.7917,-7.0926
+Morocco,,3/9/2020,Clear throughout the day.,clear-day,0.54,0.0,0.0,0.0,,82.8,54.12,14.53,0.16,1021.3,0.0,8,47.88,82.8,31.7917,-7.0926
+Morocco,,3/10/2020,Clear throughout the day.,clear-day,0.58,0.0002,0.0004,0.01,rain,85.33,54.92,12.67,0.12,1020.6,0.0,8,54.12,85.33,31.7917,-7.0926
+Morocco,,3/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0004,0.0018,0.08,rain,79.97,54.85,22.78,0.19,1019.6,0.46,7,54.92,79.97,31.7917,-7.0926
+Morocco,,3/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.66,0.0002,0.001,0.03,rain,79.0,50.4,34.31,0.33,1017.7,0.71,5,54.85,79.0,31.7917,-7.0926
+Morocco,,3/13/2020,Overcast throughout the day.,partly-cloudy-day,0.69,0.0019,0.0083,0.19,rain,76.01,53.42,45.53,0.57,1016.9,0.75,5,50.4,76.01,31.7917,-7.0926
+Morocco,,3/14/2020,Overcast throughout the day.,rain,0.73,0.0099,0.0306,0.52,rain,68.12,50.64,47.42,0.62,1015.1,0.97,4,53.42,68.12,31.7917,-7.0926
+Morocco,,3/15/2020,Overcast throughout the day.,rain,0.76,0.0031,0.0073,0.26,rain,63.43,41.91,47.8,0.76,1016.1,0.95,4,49.6,63.43,31.7917,-7.0926
+Morocco,,3/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0005,0.0018,0.08,rain,61.75,38.5,39.32,0.7,1015.1,0.57,5,41.91,61.75,31.7917,-7.0926
+Morocco,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0028,0.0192,0.09,rain,64.61,41.98,39.93,0.69,1012.1,0.36,6,38.5,64.61,31.7917,-7.0926
+Morocco,,3/18/2020,Light rain starting in the afternoon.,rain,0.86,0.0275,0.0976,0.84,rain,62.3,49.07,44.38,0.77,1010.3,0.48,6,41.98,62.3,31.7917,-7.0926
+Morocco,,3/19/2020,Light rain starting in the afternoon.,rain,0.89,0.0274,0.0762,0.91,rain,62.33,47.43,48.86,0.82,1013.6,0.82,5,49.07,62.33,31.7917,-7.0926
+Morocco,,3/20/2020,Possible light rain in the morning.,rain,0.92,0.0088,0.0397,0.75,rain,57.74,41.27,46.26,0.85,1016.5,0.91,4,46.52,57.74,31.7917,-7.0926
+Morocco,,3/21/2020,Clear throughout the day.,clear-day,0.95,0.0006,0.0029,0.13,rain,62.46,40.99,40.24,0.67,1012.5,0.14,7,41.27,62.46,31.7917,-7.0926
+Morocco,,3/22/2020,Rain in the evening and overnight.,rain,0.98,0.0195,0.1312,0.87,rain,64.38,46.21,40.41,0.68,1007.0,0.51,5,40.99,64.38,31.7917,-7.0926
+Morocco,,3/23/2020,Light rain until evening.,rain,0.01,0.0487,0.1013,1.0,rain,56.02,44.43,45.93,0.87,1008.1,0.98,3,46.21,56.02,31.7917,-7.0926
+Morocco,,3/24/2020,Clear throughout the day.,rain,0.04,0.0025,0.0109,0.27,rain,62.73,43.59,45.82,0.77,1013.8,0.14,8,44.43,62.73,31.7917,-7.0926
+Morocco,,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0012,0.0095,0.1,rain,68.71,46.91,45.14,0.67,1012.1,0.14,8,43.59,68.71,31.7917,-7.0926
+Morocco,,3/26/2020,Light rain starting in the afternoon.,rain,0.1,0.0143,0.053,0.74,rain,63.29,48.19,48.13,0.78,1010.0,0.48,7,46.91,63.29,31.7917,-7.0926
+Morocco,,3/27/2020,Possible light rain until evening.,rain,0.13,0.009000000000000001,0.0304,0.85,rain,58.8,43.84,49.2,0.86,1013.6,0.89,4,48.19,58.8,31.7917,-7.0926
+Morocco,,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.17,0.0006,0.0059,0.12,rain,62.24,42.81,47.1,0.79,1016.9,0.56,5,43.84,62.24,31.7917,-7.0926
+Morocco,,3/29/2020,Clear throughout the day.,clear-day,0.2,0.0002,0.0004,0.06,rain,72.75,47.02,42.66,0.63,1012.7,0.16,7,42.81,72.75,31.7917,-7.0926
+Morocco,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0003,0.0024,0.07,rain,71.63,46.9,43.38,0.59,1010.7,0.38,8,47.02,71.63,31.7917,-7.0926
+Morocco,,3/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.26,0.0004,0.0026,0.08,rain,70.24,43.59,43.94,0.62,1015.0,0.54,7,46.9,70.24,31.7917,-7.0926
+Morocco,,4/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0001,0.0004,0.04,rain,67.42,43.08,40.39,0.61,1015.1,0.54,7,43.59,67.42,31.7917,-7.0926
+Morocco,,4/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0002,0.02,rain,75.71,56.19,27.13,0.35,1011.6,0.75,5,43.08,75.71,31.7917,-7.0926
+Morocco,,4/3/2020,Overcast throughout the day.,cloudy,0.37,0.0001,0.0002,0.02,rain,76.81,49.21,31.29,0.28,1012.1,0.9,4,56.19,76.81,31.7917,-7.0926
+Morocco,,4/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0,0.0002,0.02,,76.86,54.17,46.83,0.56,1017.3,0.57,8,49.21,76.86,31.7917,-7.0926
+Morocco,,4/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.45,0.0,0.0002,0.02,,77.79,54.35,51.88,0.64,1020.3,0.63,7,54.17,77.79,31.7917,-7.0926
+Morocco,,4/6/2020,Clear throughout the day.,partly-cloudy-day,0.49,0.0,0.0,0.0,,85.0,59.19,49.06,0.52,1019.8,0.36,9,54.35,85.0,31.7917,-7.0926
+Morocco,,4/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0002,0.0017,0.04,rain,86.35,60.61,48.69,0.46,1018.0,0.72,6,59.19,86.35,31.7917,-7.0926
+Morocco,,4/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0002,0.001,0.03,rain,81.58,52.57,48.61,0.48,1017.2,0.65,7,60.61,81.58,31.7917,-7.0926
+Morocco,,4/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0001,0.0003,0.04,rain,78.24,51.9,49.42,0.59,1017.2,0.44,6,52.57,78.24,31.7917,-7.0926
+Morocco,,4/10/2020,Overcast throughout the day.,partly-cloudy-day,0.64,0.0003,0.0009,0.05,rain,75.79,51.45,51.98,0.66,1015.1,0.73,5,51.9,75.79,31.7917,-7.0926
+Morocco,,4/11/2020,Possible light rain overnight.,rain,0.68,0.002,0.0131,0.32,rain,62.78,51.84,52.22,0.84,1012.7,0.95,5,51.45,62.78,31.7917,-7.0926
+Morocco,,4/12/2020,Possible light rain in the morning.,rain,0.71,0.0054,0.0177,0.49,rain,69.02,49.13,49.74,0.74,1010.8,0.95,5,51.84,69.02,31.7917,-7.0926
+Morocco,,4/13/2020,Clear throughout the day.,partly-cloudy-day,0.75,0.001,0.0054,0.14,rain,73.34,46.66,44.41,0.59,1010.3,0.46,8,49.13,73.34,31.7917,-7.0926
+Morocco,,4/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0,0.0003,0.02,,75.09,45.96,41.72,0.5,1013.3,0.49,9,46.66,75.09,31.7917,-7.0926
+Morocco,,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0002,0.01,rain,78.19,51.15,43.57,0.52,1015.7,0.49,8,45.96,78.19,31.7917,-7.0926
+Morocco,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0004,0.0013,0.03,rain,77.43,51.59,48.44,0.62,1014.6,0.61,9,51.15,77.43,31.7917,-7.0926
+Morocco,,4/17/2020,Light rain in the evening and overnight.,rain,0.87,0.0152,0.077,0.74,rain,76.11,52.44,49.6,0.65,1012.1,0.59,7,51.59,76.11,31.7917,-7.0926
+Morocco,,4/18/2020,Light rain in the morning and afternoon.,rain,0.9,0.031,0.0787,0.97,rain,62.06,46.77,51.7,0.84,1015.2,0.86,6,52.44,62.06,31.7917,-7.0926
+Morocco,,4/20/2020,Clear throughout the day.,clear-day,0.93,0.0002,0.0018,0.05,rain,71.16,50.2,46.16,0.66,1017.8,0.24,9,46.77,71.16,31.7917,-7.0926
+Morocco,,4/21/2020,Mostly cloudy throughout the day.,rain,0.96,0.0075,0.0284,0.4,rain,63.95,42.37,45.24,0.73,1017.5,0.74,5,48.02,63.95,31.7917,-7.0926

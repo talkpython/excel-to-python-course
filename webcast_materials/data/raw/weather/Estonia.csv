@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Estonia,,12/31/2019,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0006,0.14,snow,39.13,34.8,30.36,0.82,1012.8,0.45,0,30.64,39.13,58.5953,25.0136
+Estonia,,1/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.18,rain,41.86,36.05,34.78,0.86,1008.7,0.72,0,34.84,41.86,58.5953,25.0136
+Estonia,,1/2/2020,Light rain in the afternoon and evening.,rain,0.27,0.0055,0.0301,0.78,rain,41.43,34.77,35.63,0.86,1001.6,0.62,0,36.05,42.47,58.5953,25.0136
+Estonia,,1/3/2020,Mostly cloudy throughout the day.,rain,0.3,0.0013,0.0057,0.46,rain,37.7,29.93,30.8,0.81,993.6,0.62,0,33.77,38.95,58.5953,25.0136
+Estonia,,1/4/2020,Possible light snow (< 1 in.) overnight.,partly-cloudy-day,0.33,0.0001,0.0004,0.19,snow,32.22,24.65,23.1,0.76,1016.3,0.38,0,24.65,34.18,58.5953,25.0136
+Estonia,,1/5/2020,Possible light rain in the morning.,snow,0.36,0.0083,0.0457,0.64,snow,38.04,35.42,33.48,0.92,1016.7,0.96,0,28.86,38.04,58.5953,25.0136
+Estonia,,1/6/2020,Overcast throughout the day.,rain,0.39,0.0017,0.008,0.3,rain,41.93,36.57,36.5,0.9,1017.0,0.99,0,36.84,41.93,58.5953,25.0136
+Estonia,,1/7/2020,Possible light rain in the morning and afternoon.,rain,0.43,0.0053,0.0317,0.66,rain,43.94,35.71,36.45,0.88,1008.3,0.95,0,36.57,44.59,58.5953,25.0136
+Estonia,,1/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.46,0.0,0.0002,0.05,,41.08,34.78,33.31,0.85,1009.6,0.48,0,34.78,41.44,58.5953,25.0136
+Estonia,,1/9/2020,Overcast throughout the day.,cloudy,0.5,0.0002,0.0025,0.23,rain,39.03,24.78,33.98,0.91,1011.9,0.98,0,33.13,39.03,58.5953,25.0136
+Estonia,,1/10/2020,Dangerously windy overnight.,partly-cloudy-day,0.54,0.0002,0.0013,0.15,snow,34.01,33.02,25.2,0.81,1018.5,0.46,0,24.78,36.44,58.5953,25.0136
+Estonia,,1/11/2020,Light rain in the morning and afternoon.,rain,0.57,0.0167,0.0419,0.92,rain,44.74,32.49,37.65,0.86,1003.9,0.98,0,36.35,44.74,58.5953,25.0136
+Estonia,,1/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0003,0.0014,0.2,rain,38.86,35.2,33.09,0.88,1008.3,0.58,0,32.14,40.66,58.5953,25.0136
+Estonia,,1/13/2020,Light rain in the evening and overnight.,rain,0.65,0.0074,0.0583,0.82,rain,39.54,37.04,33.33,0.86,1010.6,0.84,0,35.2,40.04,58.5953,25.0136
+Estonia,,1/14/2020,Light rain throughout the day.,rain,0.69,0.0123,0.03,0.98,rain,45.91,41.5,39.92,0.88,1004.0,0.99,0,40.56,46.31,58.5953,25.0136
+Estonia,,1/15/2020,Light rain in the morning.,rain,0.72,0.0089,0.0361,0.92,rain,43.11,36.84,38.7,0.86,1010.9,0.91,0,40.57,46.06,58.5953,25.0136
+Estonia,,1/16/2020,Overcast throughout the day.,partly-cloudy-day,0.76,0.0001,0.0004,0.12,rain,42.88,31.1,34.74,0.85,1022.0,0.67,0,35.4,42.88,58.5953,25.0136
+Estonia,,1/17/2020,Overcast throughout the day.,rain,0.79,0.001,0.0031,0.29,rain,40.46,38.2,31.56,0.85,1014.9,0.84,0,31.1,40.97,58.5953,25.0136
+Estonia,,1/18/2020,Overcast throughout the day.,rain,0.83,0.001,0.0024,0.42,rain,42.54,33.96,35.6,0.87,1020.3,0.73,0,35.29,42.54,58.5953,25.0136
+Estonia,,1/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.86,0.0,0.0002,0.08,,40.73,38.29,32.33,0.84,1027.4,0.65,0,33.96,40.73,58.5953,25.0136
+Estonia,,1/20/2020,Possible light rain in the morning and afternoon.,rain,0.9,0.0024,0.0189,0.45,rain,45.35,35.25,36.21,0.83,1013.0,0.76,0,36.22,45.35,58.5953,25.0136
+Estonia,,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0001,0.0015,0.2,rain,38.19,27.52,28.79,0.76,1009.0,0.48,0,32.03,38.19,58.5953,25.0136
+Estonia,,1/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.96,0.0002,0.0011,0.17,snow,36.55,34.99,27.78,0.81,1016.2,0.58,0,27.52,37.91,58.5953,25.0136
+Estonia,,1/23/2020,Possible drizzle in the afternoon.,rain,1.0,0.0018,0.0105,0.47,rain,42.44,34.11,36.6,0.91,1003.7,0.93,0,37.15,42.44,58.5953,25.0136
+Estonia,,1/24/2020,Partly cloudy throughout the day.,rain,0.03,0.0001,0.0009,0.28,rain,39.14,29.47,30.02,0.81,1005.2,0.46,0,30.22,39.14,58.5953,25.0136
+Estonia,,1/25/2020,Possible drizzle in the morning.,rain,0.06,0.0016,0.0066,0.5,rain,42.64,38.24,34.82,0.88,1007.4,0.88,0,29.47,42.64,58.5953,25.0136
+Estonia,,1/26/2020,Possible drizzle starting in the afternoon.,rain,0.09,0.0024,0.009000000000000001,0.63,rain,42.64,36.22,37.24,0.92,1008.6,1.0,0,38.24,42.64,58.5953,25.0136
+Estonia,,1/27/2020,Possible drizzle in the morning.,rain,0.12,0.0007,0.0041,0.7,rain,37.72,31.69,32.78,0.86,1002.9,1.0,0,32.4,39.39,58.5953,25.0136
+Estonia,,1/28/2020,Possible drizzle in the evening and overnight.,rain,0.15,0.003,0.0133,0.56,rain,38.32,34.37,32.25,0.89,996.9,1.0,0,31.69,38.32,58.5953,25.0136
+Estonia,,1/29/2020,Possible drizzle until evening.,rain,0.18,0.0026,0.0101,0.75,rain,37.78,33.88,33.13,0.91,999.3,1.0,0,34.08,37.78,58.5953,25.0136
+Estonia,,1/30/2020,Possible drizzle in the morning.,rain,0.21,0.0011,0.006,0.62,rain,37.32,33.88,32.29,0.89,997.5,0.98,0,33.88,37.32,58.5953,25.0136
+Estonia,,1/31/2020,Light rain throughout the day.,rain,0.24,0.0086,0.0329,0.84,rain,39.53,38.54,34.86,0.9,993.2,1.0,0,34.09,42.83,58.5953,25.0136
+Estonia,,2/1/2020,Light rain until evening.,rain,0.27,0.0107,0.0356,0.92,rain,42.39,34.06,37.13,0.89,982.7,0.91,0,35.75,42.91,58.5953,25.0136
+Estonia,,2/2/2020,Possible drizzle in the morning.,rain,0.3,0.0009,0.0037,0.54,rain,36.88,24.39,29.44,0.83,991.5,0.51,0,29.07,37.48,58.5953,25.0136
+Estonia,,2/3/2020,Clear throughout the day.,clear-day,0.34,0.0002,0.0009,0.1,snow,31.56,19.56,20.1,0.74,1001.5,0.08,0,22.92,31.56,58.5953,25.0136
+Estonia,,2/4/2020,Possible drizzle overnight.,snow,0.37,0.0003,0.0024,0.27,snow,35.2,26.87,22.48,0.79,1011.5,0.85,0,19.56,35.29,58.5953,25.0136
+Estonia,,2/5/2020,Clear throughout the day.,rain,0.41,0.0019,0.0134,0.5,rain,30.68,21.5,20.34,0.68,1010.8,0.35,0,26.28,35.76,58.5953,25.0136
+Estonia,,2/6/2020,Foggy in the evening and overnight.,snow,0.44,0.0041,0.0303,0.31,snow,31.81,29.05,18.34,0.68,1023.9,0.32,1,21.5,33.96,58.5953,25.0136
+Estonia,,2/7/2020,Overcast throughout the day.,rain,0.48,0.0005,0.0038,0.33,rain,37.34,34.28,31.97,0.9,1018.8,0.96,1,32.03,37.34,58.5953,25.0136
+Estonia,,2/8/2020,Dangerously windy in the evening and overnight.,rain,0.52,0.0009,0.0021,0.36,rain,38.2,36.16,32.98,0.86,1008.7,1.0,0,34.6,39.33,58.5953,25.0136
+Estonia,,2/9/2020,Light rain throughout the day.,rain,0.56,0.0225,0.0586,0.93,rain,42.39,36.98,35.79,0.87,975.6,1.0,1,36.16,42.39,58.5953,25.0136
+Estonia,,2/10/2020,Possible drizzle in the morning and afternoon.,rain,0.6,0.0048,0.0109,0.84,rain,40.27,33.88,34.09,0.86,977.5,0.93,0,34.97,40.42,58.5953,25.0136
+Estonia,,2/11/2020,Possible drizzle overnight.,rain,0.63,0.0016,0.0092,0.64,rain,41.91,35.12,33.42,0.88,986.4,0.92,0,33.88,41.91,58.5953,25.0136
+Estonia,,2/12/2020,Possible drizzle in the morning.,rain,0.67,0.0013,0.0065,0.77,rain,40.94,30.78,33.08,0.86,996.8,0.8,1,34.0,40.94,58.5953,25.0136
+Estonia,,2/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0004,0.17,snow,39.74,28.62,29.52,0.84,1012.9,0.41,1,30.54,39.74,58.5953,25.0136
+Estonia,,2/14/2020,Possible light rain starting in the afternoon.,rain,0.74,0.0052,0.0201,0.67,rain,37.94,34.21,30.09,0.87,1018.3,0.75,1,28.62,37.94,58.5953,25.0136
+Estonia,,2/15/2020,Light rain throughout the day.,rain,0.78,0.0157,0.0727,0.87,rain,41.46,40.47,34.48,0.87,1004.8,1.0,1,34.42,44.26,58.5953,25.0136
+Estonia,,2/16/2020,Light rain in the morning and afternoon.,rain,0.81,0.0149,0.0477,0.93,rain,44.4,39.29,38.33,0.86,992.7,0.98,0,39.29,45.83,58.5953,25.0136
+Estonia,,2/17/2020,Possible drizzle in the morning.,rain,0.85,0.0027,0.0066,0.52,rain,43.41,36.47,36.17,0.84,998.1,0.98,1,38.16,43.41,58.5953,25.0136
+Estonia,,2/18/2020,Light rain throughout the day.,rain,0.88,0.0115,0.0579,0.89,rain,41.41,33.69,34.79,0.87,1001.7,0.96,1,36.18,41.41,58.5953,25.0136
+Estonia,,2/19/2020,Possible drizzle in the morning.,rain,0.91,0.002,0.0278,0.75,rain,40.02,31.92,32.39,0.87,1011.6,0.47,1,31.92,40.02,58.5953,25.0136
+Estonia,,2/20/2020,Light rain until evening.,rain,0.94,0.0056,0.0226,0.84,rain,37.73,36.45,31.61,0.85,1008.0,0.89,1,33.28,37.94,58.5953,25.0136
+Estonia,,2/21/2020,Rain and windy throughout the day.,rain,0.97,0.0408,0.1382,0.92,rain,39.97,35.77,34.6,0.87,997.8,0.82,1,35.76,41.05,58.5953,25.0136
+Estonia,,2/22/2020,Light rain in the morning and afternoon.,rain,0.0,0.006999999999999999,0.0213,0.9,rain,41.63,31.56,34.16,0.86,985.8,0.94,1,35.47,41.63,58.5953,25.0136
+Estonia,,2/23/2020,Clear throughout the day.,clear-day,0.03,0.0001,0.0003,0.16,rain,39.78,25.29,28.66,0.79,996.6,0.07,1,30.61,39.78,58.5953,25.0136
+Estonia,,2/24/2020,Possible light snow (< 1 in.) overnight.,snow,0.07,0.0009,0.0091,0.46,snow,37.79,31.41,27.14,0.84,998.3,0.63,1,25.29,37.79,58.5953,25.0136
+Estonia,,2/25/2020,Snow (3–6 in.) throughout the day.,snow,0.1,0.0316,0.0556,0.93,snow,35.06,28.77,30.55,0.91,988.3,1.0,1,30.82,35.06,58.5953,25.0136
+Estonia,,2/26/2020,Possible light snow (1–2 in.) in the afternoon.,snow,0.13,0.0066,0.013000000000000001,0.63,snow,30.13,24.54,25.1,0.85,993.8,1.0,1,26.63,31.57,58.5953,25.0136
+Estonia,,2/27/2020,Foggy in the morning and afternoon.,snow,0.16,0.0046,0.0118,0.44,snow,31.45,13.76,22.31,0.85,998.9,0.92,1,18.0,31.45,58.5953,25.0136
+Estonia,,2/28/2020,Mostly cloudy throughout the day.,snow,0.19,0.0006,0.0037,0.42,snow,36.58,30.67,22.97,0.84,1002.4,0.59,1,13.76,36.58,58.5953,25.0136
+Estonia,,2/29/2020,Possible light rain in the morning and afternoon.,rain,0.22,0.0087,0.0253,0.73,rain,37.79,33.28,31.51,0.88,993.1,0.86,1,30.67,37.79,58.5953,25.0136
+Estonia,,3/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0001,0.0002,0.23,rain,41.22,31.55,32.21,0.88,999.0,0.59,1,31.55,41.22,58.5953,25.0136
+Estonia,,3/2/2020,Overcast throughout the day.,cloudy,0.28,0.0001,0.0006,0.24,snow,38.06,34.34,32.91,0.91,1005.5,0.95,1,32.36,38.06,58.5953,25.0136
+Estonia,,3/3/2020,Light rain in the morning and afternoon.,rain,0.32,0.013000000000000001,0.0548,0.92,rain,40.94,34.9,33.98,0.89,1006.6,1.0,1,34.34,40.94,58.5953,25.0136
+Estonia,,3/4/2020,Possible drizzle in the morning and afternoon.,rain,0.35,0.0018,0.0047,0.65,rain,39.47,33.27,34.62,0.91,1004.0,0.9,1,34.9,39.47,58.5953,25.0136
+Estonia,,3/5/2020,Mostly cloudy throughout the day.,rain,0.39,0.0004,0.0013,0.39,rain,42.64,30.21,31.68,0.85,1007.1,0.72,1,30.34,42.64,58.5953,25.0136
+Estonia,,3/6/2020,Overcast throughout the day.,snow,0.42,0.0002,0.0005,0.35,snow,40.24,27.87,30.93,0.85,1011.0,0.92,1,30.23,40.24,58.5953,25.0136
+Estonia,,3/7/2020,Clear throughout the day.,clear-day,0.46,0.0002,0.0009,0.19,snow,42.27,31.02,29.33,0.85,1014.8,0.14,1,27.87,42.27,58.5953,25.0136
+Estonia,,3/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.5,0.0001,0.0004,0.16,snow,44.66,34.27,31.35,0.81,1013.0,0.74,1,31.02,44.66,58.5953,25.0136
+Estonia,,3/9/2020,Drizzle in the morning and afternoon.,rain,0.54,0.0025,0.0126,0.75,rain,40.36,36.56,33.99,0.88,1005.6,0.93,1,34.27,40.36,58.5953,25.0136
+Estonia,,3/10/2020,Light rain throughout the day.,rain,0.58,0.0153,0.0357,0.98,rain,40.86,36.65,36.45,0.91,988.5,0.99,1,36.56,40.86,58.5953,25.0136
+Estonia,,3/11/2020,Light rain throughout the day.,rain,0.62,0.0101,0.0424,0.9,rain,43.85,34.87,36.02,0.87,985.2,0.94,1,36.65,43.85,58.5953,25.0136
+Estonia,,3/12/2020,Possible drizzle in the morning and afternoon.,rain,0.66,0.0046,0.04,0.92,rain,40.53,25.85,30.93,0.82,990.7,0.99,1,29.77,40.53,58.5953,25.0136
+Estonia,,3/13/2020,Mostly cloudy throughout the day.,snow,0.69,0.0008,0.0059,0.25,snow,32.69,21.85,19.23,0.67,1010.4,0.87,1,25.85,32.69,58.5953,25.0136
+Estonia,,3/14/2020,Possible light rain overnight.,clear-day,0.73,0.0001,0.0004,0.1,snow,39.76,34.55,22.81,0.7,1019.9,0.16,1,21.85,39.76,58.5953,25.0136
+Estonia,,3/15/2020,Light rain until evening.,rain,0.76,0.02,0.0621,0.99,rain,38.33,24.06,31.6,0.84,1011.7,0.91,1,30.86,38.33,58.5953,25.0136
+Estonia,,3/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.0001,0.0003,0.05,snow,41.64,37.2,28.65,0.82,1019.5,0.59,2,24.06,41.64,58.5953,25.0136
+Estonia,,3/17/2020,Light rain throughout the day.,rain,0.83,0.0117,0.0552,0.91,rain,44.45,34.5,38.0,0.89,1011.1,0.96,2,37.25,44.75,58.5953,25.0136
+Estonia,,3/18/2020,Clear throughout the day.,rain,0.86,0.0003,0.0062,0.41,rain,45.58,30.74,32.77,0.77,1012.4,0.1,2,34.5,45.58,58.5953,25.0136
+Estonia,,3/19/2020,Clear throughout the day.,snow,0.89,0.0007,0.0042,0.27,snow,45.67,23.14,29.35,0.75,1019.7,0.28,2,29.36,45.67,58.5953,25.0136
+Estonia,,3/20/2020,Partly cloudy throughout the day.,clear-day,0.92,0.0004,0.0018,0.13,snow,37.24,22.76,17.17,0.59,1028.7,0.31,2,23.14,37.24,58.5953,25.0136
+Estonia,,3/21/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.06,snow,37.73,21.03,16.82,0.61,1039.7,0.01,2,22.76,37.73,58.5953,25.0136
+Estonia,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0004,0.04,snow,38.88,27.11,19.68,0.66,1040.9,0.22,2,21.03,38.88,58.5953,25.0136
+Estonia,,3/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.01,0.0001,0.0003,0.02,snow,41.59,34.52,26.9,0.72,1035.0,0.6,2,27.11,41.59,58.5953,25.0136
+Estonia,,3/24/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0004,0.02,rain,47.32,35.55,28.88,0.66,1031.0,0.31,2,34.61,47.32,58.5953,25.0136
+Estonia,,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0004,0.02,rain,49.42,28.74,28.19,0.63,1033.0,0.21,3,33.11,49.42,58.5953,25.0136
+Estonia,,3/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0004,0.05,snow,56.21,31.72,26.36,0.6,1031.5,0.6,2,28.74,56.21,58.5953,25.0136
+Estonia,,3/27/2020,Clear throughout the day.,partly-cloudy-day,0.13,0.0001,0.0004,0.02,rain,55.93,33.25,29.39,0.62,1019.2,0.33,2,31.72,55.93,58.5953,25.0136
+Estonia,,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.16,0.0005,0.0051,0.11,rain,37.69,23.52,17.6,0.51,1019.8,0.71,2,27.52,40.47,58.5953,25.0136
+Estonia,,3/29/2020,Mostly cloudy throughout the day.,snow,0.19,0.0018,0.0117,0.32,snow,37.55,19.72,17.29,0.59,1020.5,0.56,2,23.52,37.55,58.5953,25.0136
+Estonia,,3/30/2020,Foggy overnight.,partly-cloudy-day,0.23,0.0004,0.003,0.11,snow,37.64,32.62,14.21,0.53,1021.7,0.35,3,19.72,37.64,58.5953,25.0136
+Estonia,,3/31/2020,Possible light rain in the morning.,rain,0.26,0.0029,0.0188,0.55,rain,43.7,32.78,30.31,0.73,1002.2,0.63,3,34.03,43.7,58.5953,25.0136
+Estonia,,4/1/2020,"Possible light rain until afternoon, starting again overnight.",rain,0.3,0.0036,0.0162,0.63,rain,42.83,35.61,34.96,0.86,993.1,0.94,2,32.78,42.83,58.5953,25.0136
+Estonia,,4/2/2020,Light rain until evening.,rain,0.33,0.0113,0.03,0.95,rain,39.16,30.22,32.91,0.86,987.3,0.89,2,32.93,40.7,58.5953,25.0136
+Estonia,,4/3/2020,Partly cloudy throughout the day.,clear-day,0.37,0.0003,0.0027,0.16,snow,45.02,29.09,26.94,0.68,1012.5,0.24,3,30.22,45.02,58.5953,25.0136
+Estonia,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0002,0.02,,49.35,33.27,24.44,0.6,1028.3,0.04,3,29.09,49.35,58.5953,25.0136
+Estonia,,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0003,0.0035,0.21,rain,56.07,38.44,35.33,0.74,1031.0,0.61,3,33.27,56.07,58.5953,25.0136
+Estonia,,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0001,0.0009,0.04,rain,58.69,38.59,36.26,0.66,1024.4,0.22,4,38.44,58.69,58.5953,25.0136
+Estonia,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0001,0.001,0.05,rain,54.54,39.4,34.3,0.64,1024.2,0.28,3,38.59,54.54,58.5953,25.0136
+Estonia,,4/8/2020,Mostly cloudy throughout the day.,rain,0.56,0.0012,0.0093,0.31,rain,49.16,31.37,33.61,0.68,1011.2,0.58,2,38.52,49.16,58.5953,25.0136
+Estonia,,4/9/2020,Partly cloudy throughout the day.,clear-day,0.6,0.0006,0.0047,0.14,snow,47.94,29.86,27.82,0.63,1018.0,0.29,3,31.37,47.94,58.5953,25.0136
+Estonia,,4/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.64,0.0003,0.0013,0.13,rain,47.54,32.73,27.04,0.63,1023.1,0.44,3,29.86,47.54,58.5953,25.0136
+Estonia,,4/11/2020,Light rain in the morning and afternoon.,rain,0.68,0.0109,0.0487,0.92,rain,44.34,40.79,34.32,0.83,1011.9,0.99,3,32.73,46.42,58.5953,25.0136
+Estonia,,4/12/2020,Light rain in the morning and afternoon.,rain,0.71,0.0057,0.0329,0.89,rain,42.16,32.1,34.98,0.81,995.8,0.82,3,33.01,46.36,58.5953,25.0136
+Estonia,,4/13/2020,Light snow (1–2 in.) until evening.,snow,0.74,0.0101,0.0288,0.95,snow,39.3,31.72,31.88,0.89,999.0,0.9,3,31.67,39.3,58.5953,25.0136
+Estonia,,4/14/2020,"Light rain until afternoon, starting again overnight.",rain,0.78,0.0068,0.0327,0.94,rain,45.18,34.9,33.11,0.85,1000.1,0.77,3,31.73,45.18,58.5953,25.0136
+Estonia,,4/15/2020,Light rain in the morning and afternoon.,rain,0.81,0.0172,0.0676,0.93,rain,42.19,33.11,36.03,0.89,994.5,0.87,2,34.9,42.55,58.5953,25.0136
+Estonia,,4/16/2020,Possible drizzle in the afternoon.,rain,0.84,0.002,0.0075,0.63,rain,43.74,34.9,31.34,0.76,1005.3,0.43,3,33.11,43.74,58.5953,25.0136
+Estonia,,4/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0001,0.0002,0.07,rain,46.5,33.29,29.95,0.66,1012.8,0.58,3,34.9,46.5,58.5953,25.0136
+Estonia,,4/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0006,0.004,0.17,rain,45.43,31.92,29.84,0.67,1018.4,0.76,3,33.29,45.43,58.5953,25.0136
+Estonia,,4/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.93,0.0003,0.0014,0.1,snow,54.25,36.46,33.8,0.71,1024.6,0.61,3,31.92,54.25,58.5953,25.0136
+Estonia,,4/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.96,0.0003,0.0013,0.1,rain,55.86,34.67,36.68,0.71,1028.4,0.41,4,36.46,55.86,58.5953,25.0136

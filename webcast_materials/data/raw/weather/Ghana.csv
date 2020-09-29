@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Ghana,,1/1/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.04,rain,97.64,65.39,23.72,0.14,1011.0,0.13,10,65.21,97.64,7.9465,-1.0232
+Ghana,,1/2/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0004,0.05,rain,95.5,65.57,18.58,0.11,1012.3,0.1,9,65.39,95.5,7.9465,-1.0232
+Ghana,,1/3/2020,Partly cloudy throughout the day.,clear-day,0.27,0.0001,0.0005,0.03,rain,92.4,61.54,14.42,0.1,1013.3,0.27,9,65.57,92.4,7.9465,-1.0232
+Ghana,,1/4/2020,Clear throughout the day.,clear-day,0.3,0.0002,0.0004,0.06,rain,93.8,62.97,19.22,0.12,1013.1,0.17,10,61.54,93.8,7.9465,-1.0232
+Ghana,,1/5/2020,Partly cloudy throughout the day.,clear-day,0.33,0.0001,0.0002,0.03,rain,97.55,62.79,31.35,0.18,1011.4,0.19,10,62.97,97.55,7.9465,-1.0232
+Ghana,,1/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.0,0.0,0.0,,97.55,65.64,39.87,0.26,1010.0,0.41,9,62.79,97.55,7.9465,-1.0232
+Ghana,,1/7/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0002,0.05,rain,97.83,70.48,45.96,0.3,1009.9,0.08,10,65.64,97.83,7.9465,-1.0232
+Ghana,,1/8/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0002,0.04,,99.54,70.81,49.84,0.31,1011.0,0.24,10,70.48,99.54,7.9465,-1.0232
+Ghana,,1/9/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0001,0.01,,101.89,69.56,48.73,0.31,1010.5,0.1,10,70.81,101.89,7.9465,-1.0232
+Ghana,,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.5,0.0001,0.0004,0.04,rain,102.36,73.47,54.9,0.38,1011.5,0.7,7,69.62,102.36,7.9465,-1.0232
+Ghana,,1/11/2020,Humid and mostly cloudy throughout the day.,rain,0.54,0.0016,0.0077,0.37,rain,97.59,72.55,68.89,0.62,1012.1,0.5,8,73.47,97.59,7.9465,-1.0232
+Ghana,,1/12/2020,Partly cloudy throughout the day.,rain,0.58,0.001,0.0126,0.28,rain,101.2,77.24,66.57,0.57,1011.3,0.41,9,72.55,101.2,7.9465,-1.0232
+Ghana,,1/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0001,0.0006,0.09,rain,100.91,75.6,60.21,0.42,1009.4,0.47,9,77.66,100.91,7.9465,-1.0232
+Ghana,,1/14/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,97.53,68.81,38.46,0.19,1009.3,0.29,10,75.6,97.53,7.9465,-1.0232
+Ghana,,1/15/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.01,,100.08,68.79,30.43,0.16,1009.7,0.08,11,68.81,100.08,7.9465,-1.0232
+Ghana,,1/16/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.05,,102.1,69.93,36.4,0.18,1011.0,0.0,11,68.79,102.1,7.9465,-1.0232
+Ghana,,1/17/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0004,0.07,rain,100.97,68.25,42.57,0.24,1011.6,0.08,12,69.93,100.97,7.9465,-1.0232
+Ghana,,1/18/2020,Clear throughout the day.,clear-day,0.8,0.0,0.0002,0.03,,99.96,68.47,49.0,0.3,1011.9,0.04,11,68.25,99.96,7.9465,-1.0232
+Ghana,,1/19/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0002,0.01,,97.92,68.68,41.82,0.24,1010.8,0.14,9,68.47,97.92,7.9465,-1.0232
+Ghana,,1/20/2020,Clear throughout the day.,clear-day,0.87,0.0002,0.0014,0.04,rain,99.66,73.88,52.63,0.33,1009.8,0.31,10,68.68,99.66,7.9465,-1.0232
+Ghana,,1/21/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0002,0.07,rain,99.95,74.13,64.08,0.5,1010.6,0.64,9,73.88,99.95,7.9465,-1.0232
+Ghana,,1/22/2020,Clear throughout the day.,partly-cloudy-day,0.93,0.0,0.0001,0.03,,100.02,73.76,61.64,0.43,1010.4,0.42,11,74.13,100.02,7.9465,-1.0232
+Ghana,,1/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0001,0.0002,0.05,rain,100.62,69.6,50.82,0.33,1010.3,0.4,11,73.76,100.62,7.9465,-1.0232
+Ghana,,1/24/2020,Clear throughout the day.,partly-cloudy-day,1.0,0.0001,0.0002,0.05,rain,98.86,65.44,29.87,0.16,1011.0,0.32,10,69.6,98.86,7.9465,-1.0232
+Ghana,,1/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0003,0.03,rain,98.56,63.94,18.35,0.12,1011.5,0.37,9,65.44,98.56,7.9465,-1.0232
+Ghana,,1/26/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0004,0.03,rain,99.16,62.75,22.46,0.12,1011.7,0.21,11,63.94,99.16,7.9465,-1.0232
+Ghana,,1/27/2020,Clear throughout the day.,partly-cloudy-day,0.09,0.0001,0.0004,0.05,rain,100.0,67.99,27.42,0.14,1011.1,0.32,10,62.75,100.0,7.9465,-1.0232
+Ghana,,1/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.12,0.0001,0.0002,0.03,rain,99.89,67.69,47.35,0.3,1011.5,0.48,9,67.99,99.89,7.9465,-1.0232
+Ghana,,1/29/2020,Clear throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.06,rain,101.46,65.29,32.68,0.21,1010.9,0.39,9,67.69,101.46,7.9465,-1.0232
+Ghana,,1/30/2020,Clear throughout the day.,clear-day,0.18,0.0001,0.0003,0.04,rain,102.92,63.1,12.73,0.08,1011.9,0.16,10,65.29,102.92,7.9465,-1.0232
+Ghana,,1/31/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0003,0.04,rain,101.57,65.11,42.82,0.26,1012.2,0.57,6,63.1,101.57,7.9465,-1.0232
+Ghana,,2/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.04,rain,100.17,65.19,33.57,0.24,1011.7,0.12,11,65.11,100.17,7.9465,-1.0232
+Ghana,,2/2/2020,Clear throughout the day.,clear-day,0.28,0.0,0.0002,0.03,,99.36,64.78,19.3,0.11,1012.0,0.24,11,65.19,99.36,7.9465,-1.0232
+Ghana,,2/3/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0003,0.04,rain,99.72,60.44,7.88,0.07,1012.2,0.17,10,64.78,99.72,7.9465,-1.0232
+Ghana,,2/4/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.05,rain,99.83,62.69,10.39,0.08,1012.2,0.04,12,60.44,99.83,7.9465,-1.0232
+Ghana,,2/5/2020,Partly cloudy throughout the day.,clear-day,0.37,0.0001,0.0003,0.06,rain,99.95,68.81,27.15,0.14,1011.3,0.3,8,62.69,99.95,7.9465,-1.0232
+Ghana,,2/6/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.04,,98.96,67.99,34.15,0.17,1010.8,0.27,11,68.81,98.96,7.9465,-1.0232
+Ghana,,2/7/2020,Clear throughout the day.,clear-day,0.45,0.0001,0.0003,0.05,rain,100.52,67.63,22.28,0.11,1011.2,0.03,12,67.99,100.52,7.9465,-1.0232
+Ghana,,2/8/2020,Partly cloudy throughout the day.,clear-day,0.48,0.0001,0.0003,0.03,rain,102.72,68.35,19.59,0.1,1010.5,0.24,9,67.63,102.72,7.9465,-1.0232
+Ghana,,2/9/2020,Clear throughout the day.,clear-day,0.52,0.0001,0.0003,0.06,rain,102.51,74.78,39.61,0.2,1010.8,0.27,10,68.35,102.51,7.9465,-1.0232
+Ghana,,2/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.56,0.0001,0.0004,0.08,rain,104.65,75.47,61.28,0.44,1011.9,0.42,9,74.78,104.65,7.9465,-1.0232
+Ghana,,2/11/2020,Clear throughout the day.,partly-cloudy-day,0.6,0.0,0.0002,0.04,,101.99,72.01,42.43,0.27,1011.6,0.38,11,75.47,101.99,7.9465,-1.0232
+Ghana,,2/12/2020,Clear throughout the day.,partly-cloudy-day,0.64,0.0001,0.0004,0.05,rain,99.17,65.21,17.65,0.09,1011.0,0.44,10,72.01,99.17,7.9465,-1.0232
+Ghana,,2/13/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.04,rain,99.68,67.29,20.88,0.1,1010.9,0.17,12,65.21,99.68,7.9465,-1.0232
+Ghana,,2/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0003,0.02,rain,100.39,67.02,24.93,0.12,1009.4,0.55,7,67.29,100.39,7.9465,-1.0232
+Ghana,,2/15/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.04,rain,101.34,66.16,19.14,0.09,1009.1,0.03,12,67.02,101.34,7.9465,-1.0232
+Ghana,,2/16/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.05,rain,102.32,66.14,19.15,0.09,1009.4,0.22,12,66.16,102.32,7.9465,-1.0232
+Ghana,,2/17/2020,Humid throughout the day.,clear-day,0.82,0.0001,0.0003,0.07,rain,105.47,74.64,50.24,0.34,1009.7,0.28,11,66.14,105.47,7.9465,-1.0232
+Ghana,,2/18/2020,Humid throughout the day.,clear-day,0.85,0.0002,0.0007,0.1,rain,105.43,76.05,65.4,0.52,1010.1,0.13,12,74.64,105.43,7.9465,-1.0232
+Ghana,,2/19/2020,Humid throughout the day.,clear-day,0.88,0.0,0.0001,0.03,,104.92,72.81,64.77,0.48,1008.9,0.01,12,76.05,104.92,7.9465,-1.0232
+Ghana,,2/20/2020,Humid throughout the day.,clear-day,0.91,0.0004,0.003,0.07,rain,103.03,74.76,65.72,0.52,1007.7,0.26,12,72.81,103.03,7.9465,-1.0232
+Ghana,,2/21/2020,Humid throughout the day.,clear-day,0.94,0.0001,0.0003,0.08,rain,102.38,75.88,62.43,0.46,1008.1,0.25,12,74.76,102.38,7.9465,-1.0232
+Ghana,,2/22/2020,Clear throughout the day.,clear-day,0.98,0.0002,0.0005,0.08,rain,105.57,76.3,59.94,0.42,1008.7,0.05,12,75.88,105.57,7.9465,-1.0232
+Ghana,,2/23/2020,Humid throughout the day.,clear-day,0.01,0.0001,0.0004,0.05,rain,104.27,72.38,62.1,0.45,1009.5,0.16,12,76.3,104.27,7.9465,-1.0232
+Ghana,,2/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.04,0.0001,0.0004,0.04,rain,104.28,68.31,48.22,0.33,1009.4,0.48,7,72.38,104.28,7.9465,-1.0232
+Ghana,,2/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0003,0.05,rain,102.15,68.28,26.59,0.13,1009.5,0.17,12,68.31,102.15,7.9465,-1.0232
+Ghana,,2/26/2020,Partly cloudy throughout the day.,clear-day,0.1,0.0001,0.0003,0.03,rain,104.15,71.25,35.48,0.17,1008.6,0.28,8,68.28,104.15,7.9465,-1.0232
+Ghana,,2/27/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0001,0.0004,0.04,rain,105.16,74.72,61.37,0.46,1009.0,0.65,6,71.25,105.16,7.9465,-1.0232
+Ghana,,2/28/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0001,0.0004,0.07,rain,104.98,72.73,57.01,0.43,1009.5,0.41,9,74.72,104.98,7.9465,-1.0232
+Ghana,,2/29/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0001,0.0004,0.04,rain,106.72,69.76,47.98,0.34,1008.3,0.39,9,72.73,106.72,7.9465,-1.0232
+Ghana,,3/1/2020,Humid throughout the day.,clear-day,0.22,0.0001,0.0004,0.04,rain,107.73,77.26,48.92,0.34,1008.2,0.08,13,69.76,107.73,7.9465,-1.0232
+Ghana,,3/2/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0005,0.0026,0.13,rain,104.74,75.54,70.36,0.57,1010.3,0.35,11,77.26,104.74,7.9465,-1.0232
+Ghana,,3/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0004,0.002,0.17,rain,103.38,74.28,71.75,0.61,1011.5,0.51,9,75.54,103.38,7.9465,-1.0232
+Ghana,,3/4/2020,Humid and overcast throughout the day.,rain,0.32,0.0047,0.0172,0.34,rain,101.15,76.0,72.24,0.65,1011.1,0.87,6,74.28,101.15,7.9465,-1.0232
+Ghana,,3/5/2020,Humid throughout the day.,clear-day,0.35,0.0002,0.0039,0.12,rain,102.96,77.14,69.85,0.58,1009.8,0.23,11,76.0,102.96,7.9465,-1.0232
+Ghana,,3/6/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.39,0.0,0.0003,0.07,,102.06,77.03,69.52,0.56,1008.9,0.44,10,77.14,102.06,7.9465,-1.0232
+Ghana,,3/7/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0036,0.0298,0.23,rain,102.81,76.25,70.91,0.58,1008.7,0.51,9,77.03,102.81,7.9465,-1.0232
+Ghana,,3/8/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.0001,0.0003,0.11,rain,102.42,79.86,69.15,0.55,1009.6,0.6,8,76.25,102.42,7.9465,-1.0232
+Ghana,,3/9/2020,Possible drizzle overnight.,rain,0.51,0.0046,0.0232,0.44,rain,100.11,77.06,73.46,0.62,1008.8,0.45,8,79.86,100.11,7.9465,-1.0232
+Ghana,,3/10/2020,Possible light rain in the evening and overnight.,rain,0.55,0.0093,0.0355,0.57,rain,101.84,79.29,72.62,0.63,1008.1,0.85,8,77.06,101.84,7.9465,-1.0232
+Ghana,,3/11/2020,Humid and overcast throughout the day.,rain,0.58,0.0076,0.0359,0.51,rain,101.53,78.63,71.68,0.59,1008.3,0.9,6,79.29,101.53,7.9465,-1.0232
+Ghana,,3/12/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.0004,0.0039,0.2,rain,104.35,79.89,67.54,0.51,1007.5,0.7,7,78.63,104.35,7.9465,-1.0232
+Ghana,,3/13/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.66,0.0012,0.0099,0.09,rain,100.71,77.94,72.72,0.58,1008.3,0.34,12,79.89,100.71,7.9465,-1.0232
+Ghana,,3/14/2020,Humid and mostly cloudy throughout the day.,rain,0.7,0.0016,0.0107,0.3,rain,96.65,76.88,73.14,0.64,1010.0,0.83,10,77.94,96.65,7.9465,-1.0232
+Ghana,,3/15/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.0012,0.0077,0.2,rain,103.39,78.01,69.98,0.57,1008.7,0.78,8,76.88,103.39,7.9465,-1.0232
+Ghana,,3/16/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.77,0.0001,0.0011,0.01,rain,102.9,80.97,69.42,0.53,1007.9,0.76,6,78.01,102.9,7.9465,-1.0232
+Ghana,,3/17/2020,Humid and overcast throughout the day.,cloudy,0.8,0.0008,0.0039,0.1,rain,103.09,79.43,71.27,0.54,1008.0,0.97,6,80.97,103.09,7.9465,-1.0232
+Ghana,,3/18/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0003,0.0022,0.06,rain,102.0,80.35,72.39,0.57,1008.7,0.69,9,79.43,102.0,7.9465,-1.0232
+Ghana,,3/19/2020,Humid and mostly cloudy throughout the day.,rain,0.86,0.0086,0.0516,0.28,rain,104.2,75.92,72.93,0.61,1008.8,0.83,7,80.35,104.2,7.9465,-1.0232
+Ghana,,3/20/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0045,0.0469,0.2,rain,96.96,78.82,74.68,0.69,1009.2,0.71,7,75.92,96.96,7.9465,-1.0232
+Ghana,,3/21/2020,Humid and overcast throughout the day.,cloudy,0.92,0.0007,0.0052,0.1,rain,96.05,77.03,73.89,0.65,1009.0,0.88,6,78.82,96.05,7.9465,-1.0232
+Ghana,,3/22/2020,Possible light rain in the evening and overnight.,rain,0.95,0.0073,0.0385,0.57,rain,101.23,76.03,73.31,0.64,1008.7,0.89,8,77.03,101.23,7.9465,-1.0232
+Ghana,,3/23/2020,Possible light rain overnight.,rain,0.98,0.005,0.0544,0.43,rain,93.15,75.4,73.63,0.7,1010.0,0.85,8,76.03,93.15,7.9465,-1.0232
+Ghana,,3/24/2020,"Rain until morning, starting again in the evening.",rain,0.01,0.031,0.1137,0.95,rain,91.87,71.92,73.33,0.8,1011.7,0.99,5,72.63,91.87,7.9465,-1.0232
+Ghana,,3/25/2020,Humid and mostly cloudy throughout the day.,rain,0.04,0.0009,0.0047,0.35,rain,92.13,74.74,72.32,0.76,1010.8,0.91,8,71.92,92.13,7.9465,-1.0232
+Ghana,,3/26/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0032,0.0204,0.19,rain,98.54,75.53,71.79,0.64,1008.8,0.71,9,74.74,98.54,7.9465,-1.0232
+Ghana,,3/27/2020,Humid and partly cloudy throughout the day.,rain,0.11,0.0043,0.0182,0.27,rain,97.09,76.64,73.35,0.65,1009.2,0.24,10,75.53,97.09,7.9465,-1.0232
+Ghana,,3/28/2020,Humid throughout the day.,clear-day,0.14,0.003,0.0233,0.07,rain,98.93,78.13,74.16,0.65,1009.3,0.16,13,76.64,98.93,7.9465,-1.0232
+Ghana,,3/29/2020,Rain in the evening and overnight.,rain,0.17,0.0185,0.1461,0.61,rain,99.27,73.98,74.74,0.66,1008.8,0.69,10,78.13,99.27,7.9465,-1.0232
+Ghana,,3/30/2020,Humid and overcast throughout the day.,cloudy,0.2,0.0003,0.0043,0.13,rain,97.85,78.78,74.65,0.71,1008.0,1.0,5,73.98,97.85,7.9465,-1.0232
+Ghana,,3/31/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.23,0.0002,0.0011,0.1,rain,98.63,77.92,74.96,0.65,1008.0,0.78,5,78.78,98.63,7.9465,-1.0232
+Ghana,,4/1/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.27,0.0008,0.0083,0.12,rain,100.64,76.98,74.88,0.65,1009.2,0.76,10,77.92,100.64,7.9465,-1.0232
+Ghana,,4/2/2020,Humid and overcast throughout the day.,cloudy,0.3,0.0009,0.0066,0.09,rain,98.38,78.75,73.08,0.65,1009.4,0.95,5,76.98,98.38,7.9465,-1.0232
+Ghana,,4/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0004,0.05,rain,101.17,76.85,73.59,0.61,1008.2,0.44,8,78.75,101.17,7.9465,-1.0232
+Ghana,,4/4/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0007,0.0041,0.07,rain,98.37,75.9,74.25,0.66,1009.9,0.79,8,76.85,98.37,7.9465,-1.0232
+Ghana,,4/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0005,0.0038,0.05,rain,101.6,78.34,72.6,0.61,1010.0,0.71,9,75.9,101.6,7.9465,-1.0232
+Ghana,,4/6/2020,Humid throughout the day.,partly-cloudy-day,0.45,0.0022,0.0124,0.17,rain,101.27,77.37,72.6,0.59,1009.6,0.45,11,78.34,101.27,7.9465,-1.0232
+Ghana,,4/7/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0035,0.0268,0.23,rain,100.78,78.62,74.01,0.64,1009.5,0.72,8,77.37,100.78,7.9465,-1.0232
+Ghana,,4/8/2020,Rain in the evening and overnight.,rain,0.53,0.0097,0.0747,0.63,rain,98.68,76.24,75.34,0.67,1008.5,0.8,10,78.62,98.68,7.9465,-1.0232
+Ghana,,4/9/2020,Rain in the evening and overnight.,rain,0.57,0.0471,0.1855,0.85,rain,99.89,73.6,74.59,0.71,1008.8,0.81,6,76.24,99.89,7.9465,-1.0232
+Ghana,,4/10/2020,Rain in the morning.,rain,0.61,0.0304,0.1619,0.9,rain,88.66,74.09,74.18,0.81,1011.0,0.74,7,73.6,88.66,7.9465,-1.0232
+Ghana,,4/11/2020,Possible light rain in the evening and overnight.,rain,0.64,0.0058,0.0238,0.6,rain,95.35,74.05,73.83,0.75,1010.7,0.89,6,74.09,95.35,7.9465,-1.0232
+Ghana,,4/12/2020,Humid and partly cloudy throughout the day.,rain,0.68,0.0021,0.02,0.3,rain,95.95,76.76,73.87,0.71,1011.0,0.58,12,74.05,95.95,7.9465,-1.0232
+Ghana,,4/13/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0003,0.09,rain,97.79,77.39,73.48,0.64,1009.7,0.41,13,76.76,97.79,7.9465,-1.0232
+Ghana,,4/14/2020,Humid throughout the day.,partly-cloudy-day,0.75,0.0016,0.0122,0.17,rain,98.62,78.11,73.4,0.62,1009.0,0.37,11,77.39,98.62,7.9465,-1.0232
+Ghana,,4/15/2020,Possible light rain in the evening and overnight.,rain,0.78,0.0089,0.0367,0.61,rain,101.32,78.05,74.11,0.64,1009.1,0.22,13,78.11,101.32,7.9465,-1.0232
+Ghana,,4/16/2020,Humid throughout the day.,rain,0.81,0.0018,0.0264,0.4,rain,100.88,75.54,74.19,0.64,1008.7,0.42,13,78.05,100.88,7.9465,-1.0232
+Ghana,,4/17/2020,Humid and partly cloudy throughout the day.,rain,0.84,0.004,0.0338,0.41,rain,99.39,78.68,76.1,0.72,1008.2,0.57,10,75.54,99.39,7.9465,-1.0232
+Ghana,,4/18/2020,Humid and mostly cloudy throughout the day.,rain,0.87,0.0072,0.0561,0.3,rain,97.23,75.37,75.65,0.72,1009.8,0.8,8,77.8,97.23,7.9465,-1.0232
+Ghana,,4/19/2020,Humid and partly cloudy throughout the day.,rain,0.9,0.0038,0.0207,0.52,rain,96.62,75.38,74.98,0.73,1011.6,0.77,11,75.37,96.62,7.9465,-1.0232
+Ghana,,4/20/2020,Light rain overnight.,rain,0.93,0.0005,0.0075,0.31,rain,97.05,75.45,72.3,0.64,1011.5,0.5,11,75.38,97.05,7.9465,-1.0232
+Ghana,,4/21/2020,Possible light rain in the morning.,rain,0.96,0.0138,0.0527,0.88,rain,95.99,74.78,75.04,0.73,1010.6,0.6,7,75.45,95.99,7.9465,-1.0232

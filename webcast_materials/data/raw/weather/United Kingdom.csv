@@ -1,0 +1,561 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+United Kingdom,Cayman Islands,12/31/2019,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0001,0.001,0.06,rain,84.35,78.15,71.83,0.74,1015.4,0.52,5,77.49,84.35,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/1/2020,Humid throughout the day.,partly-cloudy-day,0.22,0.0016,0.015,0.17,rain,85.1,78.25,73.37,0.77,1015.0,0.38,6,78.15,85.1,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/2/2020,Humid and mostly cloudy throughout the day.,rain,0.25,0.0088,0.0257,0.55,rain,85.08,79.21,74.47,0.79,1014.5,0.6,5,78.28,85.08,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0015,0.005,0.24,rain,84.99,79.49,74.34,0.78,1015.8,0.37,6,79.21,84.99,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/4/2020,Possible light rain overnight.,rain,0.31,0.0055,0.025,0.31,rain,84.91,78.65,74.09,0.77,1018.2,0.36,7,78.65,84.91,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/5/2020,Humid and partly cloudy throughout the day.,rain,0.34,0.005,0.0183,0.5,rain,83.72,75.31,73.42,0.78,1019.5,0.39,6,77.78,83.72,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0006,0.003,0.16,rain,80.37,76.45,67.95,0.71,1018.2,0.58,6,75.31,80.37,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0002,0.0004,0.1,rain,82.19,75.8,68.09,0.69,1018.1,0.41,6,76.45,82.19,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/8/2020,Windy overnight.,partly-cloudy-day,0.44,0.001,0.0067,0.21,rain,81.76,75.88,69.22,0.73,1019.9,0.46,7,75.8,81.76,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/9/2020,Windy in the morning and afternoon.,rain,0.47,0.0021,0.0096,0.45,rain,84.1,78.08,72.75,0.77,1018.7,0.47,6,75.88,84.1,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/10/2020,Windy in the morning.,rain,0.51,0.0023,0.0056,0.38,rain,84.04,78.82,73.76,0.78,1016.9,0.17,7,78.08,84.04,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/11/2020,Humid throughout the day.,clear-day,0.55,0.001,0.0062,0.18,rain,83.96,78.41,73.3,0.77,1017.1,0.09,7,78.82,83.96,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/12/2020,Humid throughout the day.,clear-day,0.58,0.0004,0.0022,0.16,rain,84.72,77.76,72.93,0.75,1018.5,0.02,7,78.4,84.72,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/13/2020,Humid throughout the day.,rain,0.62,0.0041,0.0117,0.41,rain,83.77,77.91,73.79,0.79,1018.5,0.2,7,77.76,83.77,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/14/2020,Humid throughout the day.,rain,0.66,0.0014,0.0057,0.31,rain,83.58,76.9,72.52,0.76,1018.1,0.23,7,77.91,83.58,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/15/2020,Windy in the morning.,rain,0.7,0.0013,0.0095,0.26,rain,83.26,77.24,70.12,0.71,1017.3,0.17,7,76.9,83.26,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/16/2020,Humid and partly cloudy throughout the day.,rain,0.73,0.002,0.0066,0.35,rain,84.21,77.62,73.3,0.78,1017.9,0.39,6,77.24,84.21,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/17/2020,Possible drizzle in the morning.,rain,0.77,0.0032,0.0151,0.45,rain,82.78,75.62,72.4,0.78,1018.0,0.43,6,77.62,82.78,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/18/2020,Windy in the morning.,clear-day,0.8,0.0004,0.0021,0.14,rain,83.03,76.83,69.09,0.71,1017.9,0.27,7,75.62,83.03,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/19/2020,Possible light rain in the evening and overnight.,rain,0.84,0.0098,0.0301,0.72,rain,83.27,76.3,71.98,0.77,1016.3,0.26,7,76.83,83.27,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/20/2020,Humid throughout the day.,rain,0.87,0.0069,0.0151,0.6,rain,83.82,76.48,71.75,0.76,1016.4,0.23,7,76.3,83.82,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/21/2020,Possible light rain in the afternoon.,rain,0.91,0.0099,0.0304,0.63,rain,80.85,69.98,70.26,0.77,1015.6,0.41,6,73.48,80.85,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0007,0.0024,0.15,rain,72.7,68.52,60.07,0.68,1016.6,0.6,5,68.78,73.39,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/23/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0004,0.07,rain,76.49,72.54,59.03,0.62,1015.0,0.31,7,68.52,76.49,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/24/2020,Partly cloudy throughout the day.,clear-day,0.01,0.0005,0.003,0.09,rain,79.73,74.14,63.98,0.65,1015.3,0.3,7,72.54,79.73,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/25/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0009,0.11,rain,80.53,75.59,64.79,0.65,1016.2,0.19,8,74.14,80.53,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/26/2020,Clear throughout the day.,clear-day,0.07,0.0007,0.0025,0.21,rain,80.76,74.35,67.21,0.69,1016.3,0.15,8,75.59,80.76,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/27/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0003,0.14,rain,81.36,74.84,66.05,0.67,1015.3,0.11,8,74.35,81.36,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/28/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0003,0.1,rain,81.64,75.71,67.07,0.68,1014.0,0.04,8,74.84,81.64,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/29/2020,Clear throughout the day.,clear-day,0.16,0.0001,0.0003,0.13,rain,83.13,76.83,68.21,0.69,1014.2,0.1,8,75.71,83.13,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/30/2020,Clear throughout the day.,clear-day,0.19,0.0002,0.0004,0.12,rain,82.91,77.04,69.46,0.71,1014.0,0.18,7,76.83,82.91,19.3133,-81.2546
+United Kingdom,Cayman Islands,1/31/2020,Humid throughout the day.,clear-day,0.22,0.0002,0.0003,0.08,rain,83.29,77.74,70.7,0.73,1015.2,0.18,8,77.04,83.29,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/1/2020,Humid throughout the day.,rain,0.25,0.0026,0.0076,0.35,rain,84.11,77.57,72.26,0.76,1016.4,0.11,9,77.74,84.11,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/2/2020,Humid and partly cloudy throughout the day.,rain,0.28,0.0021,0.0093,0.29,rain,81.59,74.29,69.69,0.74,1017.9,0.29,6,75.53,81.59,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/3/2020,Clear throughout the day.,clear-day,0.31,0.0003,0.0026,0.14,rain,80.37,76.31,68.28,0.73,1018.2,0.22,9,74.29,80.37,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/4/2020,Possible light rain in the morning.,rain,0.35,0.0107,0.0218,0.64,rain,83.22,77.22,72.95,0.8,1016.5,0.4,7,76.31,83.22,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/5/2020,Humid throughout the day.,rain,0.38,0.0013,0.0077,0.25,rain,84.09,77.8,73.22,0.79,1014.6,0.12,9,77.22,84.09,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/6/2020,Humid throughout the day.,clear-day,0.42,0.0005,0.009000000000000001,0.19,rain,84.07,78.75,72.31,0.75,1012.3,0.07,8,77.8,84.07,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/7/2020,Humid throughout the day.,clear-day,0.45,0.0007,0.0023,0.16,rain,83.95,78.09,73.21,0.77,1014.6,0.2,8,78.75,83.95,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/8/2020,Humid throughout the day.,clear-day,0.49,0.001,0.0032,0.22,rain,84.68,77.9,72.89,0.77,1018.5,0.09,9,78.09,84.68,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/9/2020,Humid throughout the day.,clear-day,0.53,0.0003,0.0008,0.16,rain,83.67,77.64,72.16,0.76,1019.3,0.04,9,77.9,83.67,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/10/2020,Humid and partly cloudy throughout the day.,clear-day,0.57,0.0006,0.0027,0.13,rain,84.16,77.95,72.7,0.77,1017.7,0.21,7,77.64,84.16,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/11/2020,Humid throughout the day.,clear-day,0.61,0.0012,0.0049,0.19,rain,84.17,77.58,73.49,0.78,1016.7,0.14,8,77.95,84.17,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/12/2020,Humid throughout the day.,clear-day,0.64,0.0012,0.0058,0.24,rain,84.08,77.57,73.11,0.78,1015.8,0.12,9,77.58,84.08,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/13/2020,Humid throughout the day.,clear-day,0.68,0.0005,0.003,0.14,rain,84.67,77.61,72.56,0.77,1015.7,0.08,9,77.57,84.67,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/14/2020,Humid throughout the day.,clear-day,0.72,0.0004,0.0012,0.17,rain,84.42,77.49,72.88,0.77,1017.6,0.03,9,77.61,84.42,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/15/2020,Humid throughout the day.,clear-day,0.75,0.0005,0.0032,0.2,rain,83.56,77.46,71.73,0.75,1017.7,0.09,9,77.49,83.56,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/16/2020,Humid throughout the day.,clear-day,0.79,0.0005,0.0029,0.16,rain,83.44,76.66,71.33,0.75,1016.0,0.05,9,77.46,83.44,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/17/2020,Humid throughout the day.,clear-day,0.82,0.0001,0.0003,0.1,rain,84.22,77.75,71.97,0.75,1015.3,0.05,10,76.66,84.22,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/18/2020,Humid throughout the day.,clear-day,0.86,0.0003,0.0012,0.09,rain,85.23,78.68,73.8,0.78,1015.9,0.14,9,77.75,85.23,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/19/2020,Humid throughout the day.,clear-day,0.89,0.0006,0.0033,0.13,rain,84.49,77.2,74.02,0.79,1017.2,0.07,9,78.31,84.49,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/20/2020,Humid throughout the day.,clear-day,0.92,0.0031,0.0126,0.19,rain,84.03,76.79,72.91,0.78,1016.0,0.15,10,77.2,84.03,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/21/2020,Humid throughout the day.,rain,0.95,0.0019,0.0113,0.28,rain,84.06,75.91,72.25,0.76,1017.1,0.13,10,76.79,84.06,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.98,0.0019,0.0101,0.24,rain,80.5,74.27,69.2,0.74,1017.3,0.42,7,75.53,80.5,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/23/2020,Partly cloudy throughout the day.,rain,0.01,0.0061,0.0418,0.36,rain,81.17,75.53,69.51,0.75,1015.9,0.39,7,74.27,81.17,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/24/2020,Humid throughout the day.,clear-day,0.04,0.002,0.0035,0.24,rain,82.78,77.12,71.45,0.77,1014.5,0.24,10,75.53,82.78,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/25/2020,Humid throughout the day.,clear-day,0.07,0.0004,0.0026,0.14,rain,83.96,76.85,72.53,0.77,1013.7,0.02,10,77.12,83.96,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/26/2020,Humid throughout the day.,rain,0.1,0.0027,0.0082,0.37,rain,84.03,77.37,72.25,0.76,1014.4,0.1,10,76.85,84.03,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/27/2020,Clear throughout the day.,clear-day,0.13,0.0002,0.0012,0.12,rain,83.97,75.45,70.21,0.72,1017.2,0.11,10,77.37,83.97,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/28/2020,Humid and partly cloudy throughout the day.,rain,0.16,0.0024,0.0109,0.34,rain,79.9,72.59,70.29,0.79,1019.3,0.45,8,75.36,79.9,19.3133,-81.2546
+United Kingdom,Cayman Islands,2/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0004,0.0012,0.14,rain,78.36,71.62,64.3,0.68,1021.3,0.53,7,72.59,78.36,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0003,0.0017,0.12,rain,79.08,74.32,65.25,0.69,1019.9,0.32,8,71.62,79.08,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/2/2020,Humid throughout the day.,rain,0.26,0.0019,0.0075,0.27,rain,82.15,76.9,71.34,0.79,1016.7,0.2,9,74.32,82.15,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/3/2020,Humid throughout the day.,clear-day,0.29,0.0007,0.0025,0.15,rain,83.33,77.24,73.19,0.8,1015.4,0.08,10,76.9,83.33,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/4/2020,Humid throughout the day.,clear-day,0.33,0.0006,0.002,0.14,rain,84.74,78.19,74.3,0.8,1015.5,0.16,10,77.24,84.74,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/5/2020,Humid throughout the day.,clear-day,0.36,0.0001,0.0004,0.06,rain,84.63,77.63,73.09,0.76,1016.8,0.03,11,78.19,84.63,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/6/2020,Humid throughout the day.,rain,0.4,0.0009,0.0041,0.26,rain,83.81,77.53,73.07,0.78,1017.7,0.16,10,77.63,83.81,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/7/2020,Windy in the evening and overnight.,rain,0.44,0.0033,0.0147,0.4,rain,82.31,73.2,72.5,0.79,1017.0,0.21,10,76.49,82.31,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/8/2020,Windy and mostly cloudy throughout the day.,wind,0.47,0.0005,0.0009,0.19,rain,78.96,73.91,66.44,0.71,1019.6,0.61,7,73.2,78.96,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/9/2020,Windy in the morning and afternoon.,rain,0.51,0.0018,0.0056,0.25,rain,80.67,75.22,68.51,0.74,1020.3,0.32,9,73.91,80.67,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/10/2020,Humid throughout the day.,rain,0.55,0.0018,0.0067,0.28,rain,81.5,74.54,70.21,0.76,1019.5,0.17,10,75.22,81.5,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/11/2020,Clear throughout the day.,clear-day,0.59,0.0005,0.0021,0.15,rain,81.61,74.75,68.29,0.72,1016.9,0.23,10,74.54,81.61,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/12/2020,Clear throughout the day.,clear-day,0.63,0.0004,0.0009,0.16,rain,82.02,76.26,68.93,0.73,1014.4,0.17,10,74.75,82.02,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/13/2020,Humid throughout the day.,clear-day,0.67,0.0005,0.0022,0.14,rain,82.75,76.74,71.25,0.76,1016.5,0.11,11,76.26,82.75,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/14/2020,Humid throughout the day.,clear-day,0.7,0.0002,0.0009,0.13,rain,83.79,76.83,72.79,0.79,1018.6,0.19,10,76.74,83.79,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/15/2020,Humid throughout the day.,clear-day,0.74,0.0011,0.0095,0.19,rain,83.05,76.07,71.33,0.76,1018.9,0.15,10,76.83,83.05,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/16/2020,Clear throughout the day.,clear-day,0.77,0.0005,0.003,0.11,rain,83.0,76.49,70.28,0.74,1018.1,0.15,11,76.07,83.0,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/17/2020,Humid throughout the day.,clear-day,0.81,0.0005,0.0013,0.11,rain,83.11,76.84,70.54,0.74,1018.3,0.13,11,76.49,83.11,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/18/2020,Humid throughout the day.,clear-day,0.84,0.0008,0.0026,0.14,rain,82.97,76.87,71.43,0.76,1018.9,0.19,10,76.84,82.97,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/19/2020,Humid throughout the day.,clear-day,0.87,0.0008,0.0033,0.14,rain,82.93,76.61,71.27,0.75,1019.3,0.18,10,76.87,82.93,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/20/2020,Humid throughout the day.,clear-day,0.9,0.001,0.0045,0.18,rain,83.24,76.26,72.04,0.77,1019.7,0.06,11,76.61,83.24,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/21/2020,Humid throughout the day.,clear-day,0.93,0.0004,0.0023,0.14,rain,82.83,76.77,71.57,0.76,1019.1,0.17,10,76.26,82.83,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/22/2020,Humid throughout the day.,clear-day,0.96,0.0007,0.0052,0.22,rain,82.85,76.56,71.34,0.76,1018.5,0.08,10,76.77,82.85,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/23/2020,Humid throughout the day.,clear-day,0.99,0.0002,0.0004,0.12,rain,83.05,75.67,70.88,0.75,1019.7,0.21,11,76.56,83.05,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/24/2020,Clear throughout the day.,clear-day,0.02,0.0001,0.0005,0.08,rain,83.59,76.44,69.17,0.7,1018.5,0.25,11,75.67,83.59,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/25/2020,Clear throughout the day.,clear-day,0.05,0.0002,0.0004,0.09,rain,83.99,76.04,69.67,0.71,1016.3,0.16,11,76.44,83.99,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/26/2020,Clear throughout the day.,clear-day,0.08,0.0001,0.0002,0.09,rain,83.82,76.29,68.55,0.69,1015.6,0.1,12,76.04,83.82,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/27/2020,Humid throughout the day.,clear-day,0.11,0.0001,0.0003,0.07,rain,83.31,77.3,70.34,0.72,1014.5,0.01,12,76.29,83.31,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/28/2020,Humid throughout the day.,clear-day,0.14,0.0002,0.0007,0.13,rain,82.99,77.11,71.96,0.76,1014.7,0.13,11,77.3,82.99,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/29/2020,Humid throughout the day.,clear-day,0.17,0.0003,0.0009,0.11,rain,84.37,77.63,72.77,0.76,1016.4,0.14,12,77.11,84.37,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/30/2020,Humid throughout the day.,clear-day,0.21,0.0006,0.0032,0.19,rain,84.31,77.19,73.52,0.78,1016.6,0.17,11,77.63,84.31,19.3133,-81.2546
+United Kingdom,Cayman Islands,3/31/2020,Humid throughout the day.,clear-day,0.24,0.0002,0.0004,0.11,rain,84.67,77.15,72.11,0.75,1014.1,0.14,11,77.19,84.67,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/1/2020,Humid throughout the day.,clear-day,0.27,0.0002,0.0003,0.08,rain,83.62,76.98,70.96,0.73,1013.1,0.16,12,77.15,83.62,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/2/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0003,0.07,rain,84.88,76.65,69.42,0.69,1014.1,0.09,12,76.98,84.88,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/3/2020,Humid and partly cloudy throughout the day.,clear-day,0.34,0.0004,0.0018,0.07,rain,84.59,77.04,70.73,0.72,1013.4,0.21,10,76.65,84.59,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/4/2020,Humid and partly cloudy throughout the day.,clear-day,0.38,0.0003,0.0011,0.08,rain,85.26,77.89,71.9,0.74,1012.9,0.3,11,77.04,85.26,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/5/2020,Humid throughout the day.,clear-day,0.42,0.0004,0.0011,0.09,rain,86.08,79.22,73.77,0.76,1013.9,0.19,11,77.89,86.08,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/6/2020,Humid and partly cloudy throughout the day.,clear-day,0.46,0.0003,0.0012,0.09,rain,86.29,78.91,73.45,0.75,1015.9,0.24,10,79.22,86.29,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/7/2020,Humid throughout the day.,clear-day,0.5,0.0001,0.0003,0.06,rain,85.85,79.63,73.41,0.74,1016.7,0.11,12,78.91,85.85,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/8/2020,Humid throughout the day.,clear-day,0.54,0.0002,0.0005,0.06,rain,85.46,79.4,73.63,0.75,1015.0,0.1,12,79.63,85.46,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/9/2020,Humid throughout the day.,clear-day,0.58,0.0001,0.0004,0.07,rain,85.81,78.95,73.91,0.76,1013.8,0.12,12,79.4,85.81,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/10/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0002,0.0004,0.09,rain,85.01,79.6,73.37,0.75,1013.6,0.54,10,78.95,85.01,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/11/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0002,0.0004,0.08,rain,85.92,80.34,74.56,0.76,1015.0,0.39,11,79.6,85.92,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/12/2020,Humid throughout the day.,clear-day,0.69,0.0001,0.0004,0.06,rain,87.04,80.86,76.46,0.79,1015.7,0.16,12,80.34,87.04,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/13/2020,Humid throughout the day.,clear-day,0.72,0.0002,0.0004,0.09,rain,86.91,79.91,75.86,0.77,1017.0,0.13,13,80.86,86.91,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/14/2020,Humid throughout the day.,clear-day,0.75,0.0017,0.005,0.2,rain,86.84,79.67,75.73,0.79,1015.9,0.15,12,79.91,86.84,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/15/2020,Humid throughout the day.,clear-day,0.79,0.0004,0.001,0.1,rain,86.01,79.62,74.81,0.77,1015.2,0.06,12,79.67,86.01,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/16/2020,Humid throughout the day.,clear-day,0.82,0.0003,0.0015,0.08,rain,86.76,79.77,74.68,0.76,1016.8,0.18,12,79.62,86.76,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/17/2020,Humid throughout the day.,clear-day,0.85,0.0008,0.0052,0.11,rain,87.38,79.65,75.43,0.77,1017.4,0.18,12,79.77,87.38,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/18/2020,Humid throughout the day.,clear-day,0.88,0.0005,0.0013,0.1,rain,87.46,79.4,74.34,0.75,1016.7,0.16,12,79.65,87.46,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/19/2020,Humid throughout the day.,clear-day,0.91,0.0003,0.0032,0.06,rain,86.97,80.1,74.19,0.74,1015.2,0.2,13,79.4,86.97,19.3133,-81.2546
+United Kingdom,Cayman Islands,4/20/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.94,0.0001,0.0003,0.08,rain,86.68,79.66,74.77,0.75,1013.8,0.43,10,80.1,86.68,19.3133,-81.2546
+United Kingdom,Channel Islands,1/1/2020,Overcast throughout the day.,rain,0.21,0.0008,0.0045,0.35,rain,50.6,49.24,43.72,0.82,1027.9,0.86,1,47.48,50.6,49.3723,-2.3644
+United Kingdom,Channel Islands,1/2/2020,Windy overnight.,partly-cloudy-day,0.24,0.0009,0.0036,0.18,rain,53.24,50.78,44.97,0.78,1022.1,0.85,1,49.3,53.38,49.3723,-2.3644
+United Kingdom,Channel Islands,1/3/2020,Possible drizzle and windy in the morning.,rain,0.27,0.0022,0.0083,0.44,rain,53.18,47.37,43.08,0.75,1025.0,0.69,1,48.1,53.46,49.3723,-2.3644
+United Kingdom,Channel Islands,1/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0004,0.0011,0.13,rain,51.92,48.64,39.56,0.68,1037.2,0.65,1,47.37,51.92,49.3723,-2.3644
+United Kingdom,Channel Islands,1/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.33,0.0002,0.0007,0.09,rain,49.84,44.57,38.39,0.67,1035.0,0.79,1,46.55,50.21,49.3723,-2.3644
+United Kingdom,Channel Islands,1/6/2020,Possible light rain in the afternoon.,rain,0.36,0.0016,0.0163,0.45,rain,53.64,49.95,41.66,0.77,1024.0,0.58,1,44.25,53.64,49.3723,-2.3644
+United Kingdom,Channel Islands,1/7/2020,Overcast throughout the day.,rain,0.4,0.0007,0.0033,0.25,rain,55.68,52.8,47.67,0.83,1025.0,0.94,1,49.93,55.68,49.3723,-2.3644
+United Kingdom,Channel Islands,1/8/2020,Drizzle starting in the afternoon.,rain,0.43,0.004,0.0153,0.89,rain,54.49,52.88,49.59,0.86,1022.9,0.99,1,52.76,54.54,49.3723,-2.3644
+United Kingdom,Channel Islands,1/9/2020,Light rain throughout the day.,rain,0.47,0.0083,0.0269,0.89,rain,54.11,46.59,47.52,0.83,1011.7,0.75,1,47.73,54.7,49.3723,-2.3644
+United Kingdom,Channel Islands,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.5,0.0003,0.0042,0.21,rain,50.46,48.53,38.08,0.67,1025.7,0.66,1,46.59,50.46,49.3723,-2.3644
+United Kingdom,Channel Islands,1/11/2020,Windy and overcast throughout the day.,wind,0.54,0.0003,0.0008,0.09,rain,52.93,50.56,41.87,0.72,1027.5,0.99,1,48.53,52.93,49.3723,-2.3644
+United Kingdom,Channel Islands,1/12/2020,Windy in the morning.,rain,0.58,0.0008,0.0042,0.31,rain,53.19,47.51,43.8,0.75,1022.7,0.56,1,48.96,53.19,49.3723,-2.3644
+United Kingdom,Channel Islands,1/13/2020,Light rain starting in the afternoon.,rain,0.61,0.0163,0.0877,0.97,rain,53.6,48.97,44.32,0.79,1009.8,0.85,1,47.51,53.6,49.3723,-2.3644
+United Kingdom,Channel Islands,1/14/2020,Light rain and dangerously windy throughout the day.,rain,0.65,0.0123,0.0523,0.99,rain,56.15,47.1,47.75,0.83,999.8,0.97,1,48.97,56.15,49.3723,-2.3644
+United Kingdom,Channel Islands,1/15/2020,Light rain and windy in the morning.,rain,0.69,0.0209,0.0923,0.97,rain,51.33,47.9,42.52,0.74,1008.8,0.66,1,46.65,54.27,49.3723,-2.3644
+United Kingdom,Channel Islands,1/16/2020,Light rain starting in the afternoon.,rain,0.72,0.0136,0.0738,0.88,rain,55.34,47.79,44.71,0.78,1012.6,0.88,1,47.9,55.34,49.3723,-2.3644
+United Kingdom,Channel Islands,1/17/2020,Possible light rain in the afternoon and evening.,rain,0.76,0.0073,0.0284,0.74,rain,49.41,45.82,39.63,0.72,1016.7,0.71,1,45.82,51.79,49.3723,-2.3644
+United Kingdom,Channel Islands,1/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.0002,0.0015,0.19,rain,49.06,44.24,36.41,0.65,1028.4,0.61,1,45.49,49.06,49.3723,-2.3644
+United Kingdom,Channel Islands,1/19/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0002,0.01,,48.12,45.08,34.82,0.64,1043.1,0.31,1,44.24,48.12,49.3723,-2.3644
+United Kingdom,Channel Islands,1/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0,0.0002,0.02,,49.26,44.7,35.32,0.63,1046.8,0.32,1,45.08,49.26,49.3723,-2.3644
+United Kingdom,Channel Islands,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0002,0.08,rain,47.61,43.15,34.64,0.64,1041.3,0.47,1,43.8,47.61,49.3723,-2.3644
+United Kingdom,Channel Islands,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0,0.0001,0.02,,47.86,43.28,37.57,0.73,1035.6,0.42,1,43.15,47.86,49.3723,-2.3644
+United Kingdom,Channel Islands,1/23/2020,Clear throughout the day.,partly-cloudy-day,0.97,0.0001,0.0002,0.05,rain,48.19,43.38,37.08,0.73,1028.4,0.33,1,43.28,48.19,49.3723,-2.3644
+United Kingdom,Channel Islands,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,1.0,0.0001,0.0003,0.09,rain,46.15,43.87,37.08,0.75,1022.4,0.58,1,43.38,46.15,49.3723,-2.3644
+United Kingdom,Channel Islands,1/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0004,0.14,rain,50.54,47.01,41.5,0.81,1017.1,0.53,1,44.01,50.54,49.3723,-2.3644
+United Kingdom,Channel Islands,1/26/2020,Light rain until evening.,rain,0.06,0.0097,0.0399,0.94,rain,52.17,48.33,44.48,0.82,1011.4,0.69,1,47.01,52.17,49.3723,-2.3644
+United Kingdom,Channel Islands,1/27/2020,Light rain throughout the day.,rain,0.09,0.0202,0.0547,0.94,rain,50.36,44.42,42.59,0.78,1002.4,0.8,1,45.83,50.37,49.3723,-2.3644
+United Kingdom,Channel Islands,1/28/2020,Possible drizzle in the morning and afternoon.,rain,0.12,0.0085,0.0361,0.86,rain,48.58,46.58,34.86,0.63,1003.1,0.85,1,44.42,48.61,49.3723,-2.3644
+United Kingdom,Channel Islands,1/29/2020,Mostly cloudy throughout the day.,rain,0.15,0.001,0.0079,0.39,rain,51.53,48.54,40.65,0.72,1013.2,0.76,1,46.58,51.53,49.3723,-2.3644
+United Kingdom,Channel Islands,1/30/2020,Light rain in the morning and afternoon.,rain,0.18,0.0077,0.0269,0.81,rain,54.47,50.17,48.15,0.87,1007.1,0.94,1,48.54,54.47,49.3723,-2.3644
+United Kingdom,Channel Islands,1/31/2020,Light rain in the evening and overnight.,rain,0.21,0.0109,0.0802,0.83,rain,54.18,50.57,48.04,0.86,1010.4,0.89,1,50.17,54.18,49.3723,-2.3644
+United Kingdom,Channel Islands,2/1/2020,Light rain in the morning and overnight.,rain,0.24,0.0069,0.0743,0.89,rain,52.72,50.67,46.96,0.84,1010.0,0.96,1,50.57,52.72,49.3723,-2.3644
+United Kingdom,Channel Islands,2/2/2020,Light rain until evening.,rain,0.28,0.0136,0.055,0.97,rain,54.44,50.9,48.79,0.86,1012.2,0.99,1,50.88,54.44,49.3723,-2.3644
+United Kingdom,Channel Islands,2/3/2020,Light rain until evening.,rain,0.31,0.0213,0.0856,0.93,rain,52.17,47.1,44.84,0.82,1017.2,0.98,1,47.25,52.29,49.3723,-2.3644
+United Kingdom,Channel Islands,2/4/2020,Windy in the morning and afternoon.,wind,0.34,0.0011,0.0034,0.24,rain,50.45,46.84,37.66,0.66,1028.3,0.28,1,47.1,50.45,49.3723,-2.3644
+United Kingdom,Channel Islands,2/5/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.1,rain,49.69,43.45,38.75,0.7,1036.5,0.16,1,45.98,49.69,49.3723,-2.3644
+United Kingdom,Channel Islands,2/6/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.03,,49.28,43.17,35.66,0.67,1028.7,0.0,1,43.45,49.28,49.3723,-2.3644
+United Kingdom,Channel Islands,2/7/2020,Light rain overnight.,partly-cloudy-day,0.45,0.0003,0.0044,0.23,rain,53.02,48.37,40.44,0.75,1017.6,0.62,1,43.17,53.02,49.3723,-2.3644
+United Kingdom,Channel Islands,2/8/2020,Light rain in the morning.,rain,0.48,0.0062,0.0427,0.79,rain,51.33,48.81,42.31,0.75,1017.3,0.67,1,48.37,51.62,49.3723,-2.3644
+United Kingdom,Channel Islands,2/9/2020,Light rain and dangerously windy throughout the day.,rain,0.52,0.0122,0.0482,0.82,rain,56.35,48.19,46.57,0.79,1003.2,0.97,2,48.81,56.35,49.3723,-2.3644
+United Kingdom,Channel Islands,2/10/2020,Light rain starting in the afternoon.,rain,0.56,0.0101,0.0289,0.87,rain,52.14,44.84,39.85,0.7,1007.6,0.7,2,45.45,52.14,49.3723,-2.3644
+United Kingdom,Channel Islands,2/11/2020,"Possible drizzle until afternoon, starting again overnight.",rain,0.6,0.0061,0.0155,0.8,rain,47.75,44.22,35.81,0.67,1016.2,0.78,2,44.48,47.75,49.3723,-2.3644
+United Kingdom,Channel Islands,2/12/2020,Light rain throughout the day.,rain,0.64,0.0058,0.0238,0.83,rain,49.65,46.42,38.39,0.71,1018.0,0.78,1,44.22,49.65,49.3723,-2.3644
+United Kingdom,Channel Islands,2/13/2020,Light rain in the morning and afternoon.,rain,0.67,0.0117,0.0331,0.94,rain,52.26,48.86,42.51,0.76,1003.2,0.61,1,46.67,52.26,49.3723,-2.3644
+United Kingdom,Channel Islands,2/14/2020,Windy overnight.,cloudy,0.71,0.0002,0.0005,0.09,rain,53.37,51.41,44.24,0.77,1019.0,0.88,2,48.83,53.37,49.3723,-2.3644
+United Kingdom,Channel Islands,2/15/2020,Light rain and dangerously windy throughout the day.,rain,0.75,0.0151,0.039,0.93,rain,54.99,53.83,47.65,0.81,1010.4,0.96,2,51.41,55.26,49.3723,-2.3644
+United Kingdom,Channel Islands,2/16/2020,Rain in the morning and afternoon.,rain,0.78,0.0377,0.1157,0.99,rain,56.25,46.15,46.22,0.78,1002.2,0.91,1,49.21,56.25,49.3723,-2.3644
+United Kingdom,Channel Islands,2/17/2020,Possible light rain in the morning and afternoon.,rain,0.82,0.0071,0.017,0.8,rain,50.53,46.61,38.56,0.69,1016.2,0.48,1,46.15,50.53,49.3723,-2.3644
+United Kingdom,Channel Islands,2/18/2020,Possible light rain starting in the afternoon.,rain,0.85,0.0055,0.0268,0.74,rain,51.02,46.13,40.09,0.72,1024.5,0.82,1,46.61,51.02,49.3723,-2.3644
+United Kingdom,Channel Islands,2/19/2020,Possible drizzle in the morning and afternoon.,rain,0.88,0.0044,0.0387,0.79,rain,52.26,48.54,41.7,0.76,1023.3,0.94,2,46.13,52.26,49.3723,-2.3644
+United Kingdom,Channel Islands,2/20/2020,Light rain in the morning and afternoon.,rain,0.91,0.0073,0.0421,0.82,rain,51.85,46.35,40.43,0.73,1017.2,0.79,2,45.92,51.85,49.3723,-2.3644
+United Kingdom,Channel Islands,2/21/2020,Windy in the evening and overnight.,wind,0.94,0.0001,0.0003,0.1,rain,51.79,48.97,39.84,0.7,1027.5,0.72,2,46.35,51.79,49.3723,-2.3644
+United Kingdom,Channel Islands,2/22/2020,"Dangerously windy until afternoon, starting again overnight.",rain,0.98,0.0009,0.0024,0.27,rain,53.34,51.15,45.96,0.82,1025.2,0.8,2,48.97,53.34,49.3723,-2.3644
+United Kingdom,Channel Islands,2/23/2020,Dangerously windy in the morning and afternoon.,rain,0.01,0.0026,0.0066,0.53,rain,53.9,51.17,48.76,0.86,1023.7,1.0,2,51.2,53.9,49.3723,-2.3644
+United Kingdom,Channel Islands,2/24/2020,Light rain in the afternoon and evening.,rain,0.04,0.0081,0.0357,0.84,rain,52.63,46.14,47.03,0.84,1016.3,1.0,2,48.5,52.63,49.3723,-2.3644
+United Kingdom,Channel Islands,2/25/2020,Possible light rain and windy throughout the day.,rain,0.07,0.0086,0.0278,0.76,rain,49.07,42.03,37.67,0.71,1006.8,0.85,2,43.39,49.07,49.3723,-2.3644
+United Kingdom,Channel Islands,2/26/2020,Light rain in the morning and overnight.,rain,0.1,0.0044,0.0142,0.64,rain,47.43,43.25,33.89,0.65,1009.9,0.78,2,42.03,47.45,49.3723,-2.3644
+United Kingdom,Channel Islands,2/27/2020,Light rain and dangerously windy in the morning.,rain,0.13,0.011000000000000001,0.0639,0.86,rain,51.35,44.19,38.75,0.73,1004.9,0.78,2,43.25,52.15,49.3723,-2.3644
+United Kingdom,Channel Islands,2/28/2020,"Light rain until afternoon, starting again overnight.",rain,0.16,0.0092,0.039,0.93,rain,53.82,45.4,43.73,0.8,1007.9,0.97,2,44.19,53.82,49.3723,-2.3644
+United Kingdom,Channel Islands,2/29/2020,Light rain and dangerously windy throughout the day.,rain,0.19,0.0157,0.067,0.93,rain,47.17,44.89,38.4,0.72,992.3,0.92,1,44.37,52.36,49.3723,-2.3644
+United Kingdom,Channel Islands,3/1/2020,Rain throughout the day.,rain,0.22,0.0172,0.1096,0.84,rain,48.86,43.99,38.07,0.72,993.2,0.73,2,44.89,48.86,49.3723,-2.3644
+United Kingdom,Channel Islands,3/2/2020,Light rain in the morning and overnight.,rain,0.25,0.009000000000000001,0.0347,0.87,rain,47.72,44.3,37.37,0.72,993.2,0.67,2,43.99,48.11,49.3723,-2.3644
+United Kingdom,Channel Islands,3/3/2020,Possible drizzle in the morning.,rain,0.28,0.0023,0.0097,0.65,rain,48.94,44.23,36.2,0.67,1006.1,0.7,2,44.3,48.94,49.3723,-2.3644
+United Kingdom,Channel Islands,3/4/2020,Light rain throughout the day.,rain,0.32,0.0103,0.0322,0.95,rain,52.19,48.02,43.01,0.81,1006.8,0.99,2,44.23,52.19,49.3723,-2.3644
+United Kingdom,Channel Islands,3/5/2020,Rain in the morning and afternoon.,rain,0.35,0.0409,0.1096,0.99,rain,51.2,43.49,42.6,0.83,994.1,0.99,2,45.1,51.2,49.3723,-2.3644
+United Kingdom,Channel Islands,3/6/2020,Light rain in the morning.,rain,0.39,0.0049,0.0282,0.7,rain,48.55,46.77,37.49,0.71,1007.3,0.52,2,43.49,48.55,49.3723,-2.3644
+United Kingdom,Channel Islands,3/7/2020,Drizzle overnight.,wind,0.43,0.0002,0.0014,0.15,rain,52.8,49.2,43.03,0.77,1018.6,0.86,2,46.77,52.8,49.3723,-2.3644
+United Kingdom,Channel Islands,3/8/2020,Drizzle in the morning.,rain,0.47,0.005,0.0127,0.85,rain,51.36,46.09,43.08,0.77,1011.3,0.67,2,47.79,51.36,49.3723,-2.3644
+United Kingdom,Channel Islands,3/9/2020,Light rain starting in the afternoon.,rain,0.51,0.013999999999999999,0.0817,0.92,rain,50.82,49.83,41.56,0.76,1016.9,0.74,2,46.09,52.21,49.3723,-2.3644
+United Kingdom,Channel Islands,3/10/2020,Possible drizzle in the morning.,rain,0.55,0.0027,0.0077,0.58,rain,53.96,51.12,49.1,0.87,1013.0,0.98,2,51.33,53.96,49.3723,-2.3644
+United Kingdom,Channel Islands,3/11/2020,Possible light rain and windy throughout the day.,rain,0.58,0.0088,0.0166,0.71,rain,53.82,46.11,48.66,0.87,1013.9,0.89,3,50.36,53.82,49.3723,-2.3644
+United Kingdom,Channel Islands,3/12/2020,Windy and partly cloudy throughout the day.,rain,0.62,0.0008,0.0025,0.36,rain,49.49,45.48,37.17,0.66,1016.8,0.48,3,46.11,50.53,49.3723,-2.3644
+United Kingdom,Channel Islands,3/13/2020,Light rain in the evening and overnight.,rain,0.66,0.0056,0.0275,0.85,rain,50.24,46.98,38.91,0.72,1021.2,0.62,2,45.48,50.24,49.3723,-2.3644
+United Kingdom,Channel Islands,3/14/2020,Possible drizzle in the morning.,rain,0.7,0.0042,0.0311,0.74,rain,51.37,49.07,44.44,0.82,1015.9,0.73,3,47.32,51.5,49.3723,-2.3644
+United Kingdom,Channel Islands,3/15/2020,Possible light rain in the afternoon and evening.,rain,0.73,0.0035,0.0176,0.72,rain,52.41,46.18,43.25,0.8,1010.3,0.97,2,47.07,52.41,49.3723,-2.3644
+United Kingdom,Channel Islands,3/16/2020,Clear throughout the day.,clear-day,0.77,0.0001,0.0015,0.08,rain,50.37,47.24,38.07,0.68,1022.3,0.11,3,46.18,50.37,49.3723,-2.3644
+United Kingdom,Channel Islands,3/17/2020,Clear throughout the day.,partly-cloudy-day,0.8,0.0001,0.0005,0.04,rain,51.69,48.32,39.59,0.69,1029.8,0.32,4,47.24,51.69,49.3723,-2.3644
+United Kingdom,Channel Islands,3/18/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0003,0.03,,52.19,47.28,43.38,0.78,1027.0,0.23,4,48.32,52.19,49.3723,-2.3644
+United Kingdom,Channel Islands,3/19/2020,Windy overnight.,clear-day,0.86,0.0002,0.0007,0.12,rain,53.82,48.69,44.52,0.81,1023.1,0.26,4,47.28,53.82,49.3723,-2.3644
+United Kingdom,Channel Islands,3/20/2020,Possible drizzle in the morning.,rain,0.89,0.0019,0.0067,0.61,rain,50.33,45.94,44.13,0.83,1022.6,0.93,3,47.33,50.33,49.3723,-2.3644
+United Kingdom,Channel Islands,3/21/2020,Windy until evening.,wind,0.92,0.0003,0.0017,0.23,rain,49.67,44.79,40.91,0.77,1020.0,0.99,2,45.94,49.67,49.3723,-2.3644
+United Kingdom,Channel Islands,3/22/2020,Windy in the afternoon.,partly-cloudy-day,0.95,0.0006,0.0047,0.18,rain,49.58,45.04,38.25,0.71,1021.3,0.8,2,44.79,49.78,49.3723,-2.3644
+United Kingdom,Channel Islands,3/23/2020,Clear throughout the day.,clear-day,0.98,0.0002,0.001,0.08,rain,52.19,47.42,39.1,0.69,1022.6,0.14,4,45.01,52.2,49.3723,-2.3644
+United Kingdom,Channel Islands,3/24/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.04,rain,53.06,44.85,40.28,0.69,1023.7,0.0,4,47.39,53.06,49.3723,-2.3644
+United Kingdom,Channel Islands,3/25/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0004,0.03,rain,51.88,46.63,35.23,0.6,1022.0,0.0,4,44.83,51.88,49.3723,-2.3644
+United Kingdom,Channel Islands,3/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0004,0.03,rain,51.04,45.77,35.85,0.62,1020.2,0.6,3,46.63,51.04,49.3723,-2.3644
+United Kingdom,Channel Islands,3/27/2020,Clear throughout the day.,clear-day,0.11,0.0001,0.0004,0.05,rain,51.0,46.25,39.19,0.7,1021.4,0.03,4,45.77,51.0,49.3723,-2.3644
+United Kingdom,Channel Islands,3/28/2020,Windy starting in the afternoon.,wind,0.14,0.0001,0.0004,0.05,rain,52.03,41.6,40.04,0.72,1024.5,0.53,3,46.25,52.03,49.3723,-2.3644
+United Kingdom,Channel Islands,3/29/2020,Windy and overcast throughout the day.,wind,0.17,0.0007,0.0022,0.16,rain,45.98,41.0,32.44,0.64,1034.1,0.83,2,41.08,47.08,49.3723,-2.3644
+United Kingdom,Channel Islands,3/29/2020,Windy and overcast throughout the day.,wind,0.2,0.0005,0.0012,0.12,rain,47.64,43.66,32.88,0.64,1032.6,0.79,2,41.0,47.64,49.3723,-2.3644
+United Kingdom,Channel Islands,3/30/2020,Windy until evening.,wind,0.23,0.0011,0.0035,0.19,rain,49.04,44.66,36.79,0.69,1027.7,0.41,3,43.66,49.04,49.3723,-2.3644
+United Kingdom,Channel Islands,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.02,rain,49.22,44.93,35.84,0.66,1022.7,0.0,4,44.66,49.22,49.3723,-2.3644
+United Kingdom,Channel Islands,4/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0001,0.0003,0.04,rain,51.02,47.62,38.34,0.69,1019.1,0.49,4,44.93,51.04,49.3723,-2.3644
+United Kingdom,Channel Islands,4/2/2020,Partly cloudy throughout the day.,clear-day,0.34,0.0002,0.0008,0.12,rain,52.08,46.8,43.97,0.81,1019.5,0.24,4,47.62,52.08,49.3723,-2.3644
+United Kingdom,Channel Islands,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.04,rain,56.41,51.42,44.13,0.77,1018.7,0.26,5,46.8,56.41,49.3723,-2.3644
+United Kingdom,Channel Islands,4/4/2020,Windy in the evening.,wind,0.41,0.0,0.0002,0.02,,59.54,51.09,45.41,0.71,1011.0,0.47,4,51.42,59.54,49.3723,-2.3644
+United Kingdom,Channel Islands,4/5/2020,Partly cloudy throughout the day.,rain,0.45,0.0019,0.0141,0.4,rain,53.61,49.08,47.98,0.84,1018.4,0.53,4,51.02,55.51,49.3723,-2.3644
+United Kingdom,Channel Islands,4/6/2020,Partly cloudy throughout the day.,rain,0.49,0.0011,0.0063,0.3,rain,55.43,52.26,45.83,0.79,1028.3,0.34,4,49.08,55.43,49.3723,-2.3644
+United Kingdom,Channel Islands,4/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.53,0.0001,0.0005,0.07,rain,58.58,52.83,49.0,0.8,1023.9,0.48,5,52.26,58.58,49.3723,-2.3644
+United Kingdom,Channel Islands,4/8/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.05,rain,60.32,54.48,48.74,0.76,1022.5,0.0,6,52.83,60.32,49.3723,-2.3644
+United Kingdom,Channel Islands,4/9/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0004,0.04,rain,61.25,54.04,48.68,0.71,1021.5,0.02,6,54.48,61.25,49.3723,-2.3644
+United Kingdom,Channel Islands,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.08,rain,60.99,53.64,48.18,0.72,1021.5,0.0,5,54.04,60.99,49.3723,-2.3644
+United Kingdom,Channel Islands,4/11/2020,Partly cloudy throughout the day.,rain,0.68,0.002,0.0166,0.34,rain,59.56,50.29,47.6,0.73,1014.4,0.33,5,53.64,59.56,49.3723,-2.3644
+United Kingdom,Channel Islands,4/12/2020,Dangerously windy throughout the day.,wind,0.71,0.0003,0.0045,0.23,rain,51.64,44.7,43.7,0.76,1018.8,0.23,4,47.12,56.56,49.3723,-2.3644
+United Kingdom,Channel Islands,4/13/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.03,rain,50.49,47.16,38.19,0.7,1025.2,0.01,6,44.7,50.49,49.3723,-2.3644
+United Kingdom,Channel Islands,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.01,rain,55.89,53.6,41.78,0.69,1018.8,0.0,5,47.16,55.89,49.3723,-2.3644
+United Kingdom,Channel Islands,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0006,0.0027,0.16,rain,60.31,52.68,48.81,0.75,1013.7,0.59,4,53.6,60.31,49.3723,-2.3644
+United Kingdom,Channel Islands,4/16/2020,"Light rain until morning, starting again in the evening.",rain,0.84,0.0156,0.0825,0.95,rain,58.04,51.77,50.98,0.85,1012.1,0.86,4,52.68,58.04,49.3723,-2.3644
+United Kingdom,Channel Islands,4/17/2020,Partly cloudy throughout the day.,rain,0.87,0.0032,0.0236,0.65,rain,56.25,49.9,49.95,0.87,1015.6,0.61,4,51.77,56.25,49.3723,-2.3644
+United Kingdom,Channel Islands,4/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0003,0.07,rain,54.27,51.33,47.03,0.82,1017.0,0.67,4,49.9,54.27,49.3723,-2.3644
+United Kingdom,Channel Islands,4/19/2020,Windy in the afternoon.,partly-cloudy-day,0.93,0.0001,0.0007,0.21,rain,56.13,53.05,46.34,0.76,1012.1,0.86,5,51.33,56.81,49.3723,-2.3644
+United Kingdom,Channel Islands,4/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.96,0.0001,0.0011,0.13,rain,55.83,53.14,46.48,0.74,1012.2,0.67,5,53.05,56.18,49.3723,-2.3644
+United Kingdom,Gibraltar,12/31/2019,Mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0002,0.11,rain,61.02,51.73,50.06,0.74,1031.3,0.58,2,53.26,61.02,36.1408,-5.3536
+United Kingdom,Gibraltar,1/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.1,rain,59.49,52.34,50.37,0.79,1031.4,0.62,2,51.73,59.49,36.1408,-5.3536
+United Kingdom,Gibraltar,1/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.27,0.0001,0.0003,0.02,rain,62.62,50.81,49.27,0.76,1031.8,0.64,2,52.34,62.62,36.1408,-5.3536
+United Kingdom,Gibraltar,1/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0005,0.0028,0.14,rain,60.45,57.33,47.54,0.75,1030.6,0.49,2,50.81,60.45,36.1408,-5.3536
+United Kingdom,Gibraltar,1/4/2020,Overcast throughout the day.,partly-cloudy-day,0.33,0.0004,0.0016,0.15,rain,60.08,55.96,50.17,0.75,1028.0,0.78,2,56.36,60.08,36.1408,-5.3536
+United Kingdom,Gibraltar,1/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.36,0.0,0.0002,0.04,,60.75,53.03,49.87,0.75,1028.3,0.62,2,55.98,60.75,36.1408,-5.3536
+United Kingdom,Gibraltar,1/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0001,0.0002,0.14,rain,60.59,50.01,50.16,0.78,1030.0,0.49,2,53.03,60.59,36.1408,-5.3536
+United Kingdom,Gibraltar,1/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0,0.0002,0.05,,59.65,55.79,49.66,0.83,1028.8,0.41,2,48.88,59.65,36.1408,-5.3536
+United Kingdom,Gibraltar,1/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0,0.0002,0.04,,60.66,52.29,49.08,0.73,1028.2,0.47,2,54.28,60.66,36.1408,-5.3536
+United Kingdom,Gibraltar,1/9/2020,Partly cloudy throughout the day.,clear-day,0.5,0.0001,0.0003,0.08,rain,59.26,52.22,47.89,0.76,1026.1,0.31,2,52.12,59.26,36.1408,-5.3536
+United Kingdom,Gibraltar,1/10/2020,Clear throughout the day.,clear-day,0.54,0.0002,0.0005,0.12,rain,61.25,55.15,47.92,0.71,1028.3,0.31,3,52.22,61.25,36.1408,-5.3536
+United Kingdom,Gibraltar,1/11/2020,Clear throughout the day.,clear-day,0.57,0.0002,0.0005,0.11,rain,59.04,52.5,48.86,0.74,1029.8,0.18,3,55.15,59.04,36.1408,-5.3536
+United Kingdom,Gibraltar,1/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0001,0.0003,0.05,rain,59.54,49.5,48.57,0.77,1027.2,0.66,2,52.5,59.54,36.1408,-5.3536
+United Kingdom,Gibraltar,1/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.65,0.0,0.0,0.0,,62.19,49.61,47.02,0.77,1024.4,0.81,2,49.44,62.19,36.1408,-5.3536
+United Kingdom,Gibraltar,1/14/2020,Clear throughout the day.,partly-cloudy-day,0.69,0.0,0.0001,0.03,,62.39,49.89,47.29,0.75,1026.0,0.44,3,49.44,62.39,36.1408,-5.3536
+United Kingdom,Gibraltar,1/15/2020,Clear throughout the day.,partly-cloudy-day,0.72,0.0,0.0002,0.06,,61.2,49.97,49.04,0.79,1028.0,0.33,3,49.89,61.2,36.1408,-5.3536
+United Kingdom,Gibraltar,1/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.0001,0.0004,0.08,rain,65.77,52.82,49.78,0.77,1031.7,0.57,2,49.97,65.77,36.1408,-5.3536
+United Kingdom,Gibraltar,1/17/2020,Possible light rain in the evening and overnight.,rain,0.8,0.0028,0.0138,0.66,rain,63.97,53.62,53.37,0.85,1030.3,0.75,2,52.82,63.97,36.1408,-5.3536
+United Kingdom,Gibraltar,1/18/2020,Possible light rain overnight.,rain,0.83,0.0018,0.0164,0.5,rain,61.29,46.0,46.94,0.72,1020.0,0.36,2,50.4,61.93,36.1408,-5.3536
+United Kingdom,Gibraltar,1/19/2020,"Light rain until morning, starting again in the evening.",rain,0.87,0.0111,0.0346,0.94,rain,53.53,47.37,42.18,0.75,1013.6,0.75,2,46.0,53.53,36.1408,-5.3536
+United Kingdom,Gibraltar,1/20/2020,Possible light rain in the morning and overnight.,rain,0.9,0.0041,0.0201,0.69,rain,58.36,49.18,44.8,0.76,1013.3,0.72,2,47.37,58.36,36.1408,-5.3536
+United Kingdom,Gibraltar,1/21/2020,Light rain throughout the day.,rain,0.93,0.0228,0.0353,0.97,rain,55.14,52.21,48.01,0.85,1015.5,0.82,2,49.18,55.14,36.1408,-5.3536
+United Kingdom,Gibraltar,1/22/2020,Light rain throughout the day.,rain,0.97,0.0446,0.0839,1.0,rain,58.62,52.22,49.92,0.83,1017.2,0.88,2,52.28,58.62,36.1408,-5.3536
+United Kingdom,Gibraltar,1/23/2020,Light rain throughout the day.,rain,1.0,0.0449,0.0823,1.0,rain,58.42,54.89,52.05,0.88,1019.1,0.85,2,52.22,58.42,36.1408,-5.3536
+United Kingdom,Gibraltar,1/24/2020,Light rain until evening.,rain,0.03,0.0332,0.0666,1.0,rain,58.59,51.99,50.02,0.8,1017.7,0.82,2,53.8,58.59,36.1408,-5.3536
+United Kingdom,Gibraltar,1/25/2020,Clear throughout the day.,clear-day,0.06,0.0004,0.0026,0.21,rain,61.35,48.91,48.75,0.79,1024.8,0.18,3,51.99,61.35,36.1408,-5.3536
+United Kingdom,Gibraltar,1/26/2020,Clear throughout the day.,clear-day,0.09,0.0001,0.0004,0.07,rain,62.24,54.0,46.49,0.73,1026.6,0.14,3,48.91,62.24,36.1408,-5.3536
+United Kingdom,Gibraltar,1/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.12,0.0,0.0002,0.03,,64.31,52.62,51.36,0.79,1026.3,0.36,3,54.0,64.31,36.1408,-5.3536
+United Kingdom,Gibraltar,1/28/2020,Overcast throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.09,rain,67.14,55.69,51.15,0.78,1025.4,0.75,3,52.62,67.14,36.1408,-5.3536
+United Kingdom,Gibraltar,1/29/2020,Clear throughout the day.,partly-cloudy-day,0.18,0.0001,0.0003,0.06,rain,67.56,54.52,49.86,0.7,1026.0,0.4,3,55.69,67.56,36.1408,-5.3536
+United Kingdom,Gibraltar,1/30/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0003,0.07,rain,67.4,56.07,48.21,0.64,1026.0,0.64,3,54.32,67.4,36.1408,-5.3536
+United Kingdom,Gibraltar,1/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.08,rain,69.11,54.01,54.81,0.78,1026.1,0.36,3,56.07,69.11,36.1408,-5.3536
+United Kingdom,Gibraltar,2/1/2020,Partly cloudy throughout the day.,clear-day,0.27,0.0,0.0002,0.04,,62.99,53.93,54.74,0.88,1027.9,0.19,3,53.75,62.99,36.1408,-5.3536
+United Kingdom,Gibraltar,2/2/2020,Partly cloudy throughout the day.,clear-day,0.31,0.0001,0.0003,0.05,rain,66.06,53.79,53.82,0.82,1028.8,0.31,3,53.64,66.06,36.1408,-5.3536
+United Kingdom,Gibraltar,2/3/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.05,rain,65.38,53.89,52.95,0.82,1027.1,0.18,4,53.79,65.38,36.1408,-5.3536
+United Kingdom,Gibraltar,2/4/2020,Windy overnight.,partly-cloudy-day,0.37,0.0003,0.0012,0.1,rain,61.09,57.83,54.02,0.87,1024.5,0.77,3,53.89,61.09,36.1408,-5.3536
+United Kingdom,Gibraltar,2/5/2020,Overcast throughout the day.,partly-cloudy-day,0.41,0.0005,0.0013,0.11,rain,60.78,57.59,51.23,0.76,1023.3,0.84,3,57.83,60.78,36.1408,-5.3536
+United Kingdom,Gibraltar,2/6/2020,Mostly cloudy throughout the day.,rain,0.44,0.0018,0.0099,0.34,rain,60.45,54.35,52.3,0.8,1024.4,0.79,3,55.98,60.45,36.1408,-5.3536
+United Kingdom,Gibraltar,2/7/2020,Mostly cloudy throughout the day.,rain,0.48,0.0019,0.0084,0.36,rain,63.85,54.02,54.76,0.86,1026.3,0.65,3,54.35,63.85,36.1408,-5.3536
+United Kingdom,Gibraltar,2/8/2020,Clear throughout the day.,partly-cloudy-day,0.52,0.0001,0.0003,0.09,rain,65.46,55.81,53.42,0.83,1029.6,0.33,4,54.02,65.46,36.1408,-5.3536
+United Kingdom,Gibraltar,2/9/2020,Clear throughout the day.,partly-cloudy-day,0.56,0.0001,0.0004,0.08,rain,62.91,51.57,53.88,0.84,1031.6,0.34,4,54.84,62.91,36.1408,-5.3536
+United Kingdom,Gibraltar,2/10/2020,Partly cloudy throughout the day.,clear-day,0.6,0.0,0.0002,0.04,,70.42,57.63,51.66,0.77,1027.4,0.29,4,51.57,70.42,36.1408,-5.3536
+United Kingdom,Gibraltar,2/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.64,0.0002,0.0007,0.09,rain,66.11,57.28,54.26,0.79,1024.3,0.51,4,57.63,66.11,36.1408,-5.3536
+United Kingdom,Gibraltar,2/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.67,0.0009,0.0035,0.2,rain,65.5,52.51,54.0,0.8,1024.8,0.63,4,57.28,65.5,36.1408,-5.3536
+United Kingdom,Gibraltar,2/13/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.06,rain,62.95,56.21,52.4,0.83,1024.7,0.27,4,52.51,62.95,36.1408,-5.3536
+United Kingdom,Gibraltar,2/14/2020,Clear throughout the day.,partly-cloudy-day,0.75,0.0001,0.0003,0.07,rain,62.92,57.5,54.62,0.85,1026.0,0.42,4,56.21,62.92,36.1408,-5.3536
+United Kingdom,Gibraltar,2/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.08,rain,61.68,54.39,52.9,0.8,1027.6,0.44,4,56.4,61.68,36.1408,-5.3536
+United Kingdom,Gibraltar,2/16/2020,Clear throughout the day.,clear-day,0.81,0.0001,0.0003,0.07,rain,69.1,57.57,53.84,0.78,1027.4,0.03,5,54.39,69.1,36.1408,-5.3536
+United Kingdom,Gibraltar,2/17/2020,Overcast throughout the day.,partly-cloudy-day,0.85,0.001,0.0045,0.21,rain,62.48,56.9,56.0,0.86,1027.6,0.83,3,57.57,62.48,36.1408,-5.3536
+United Kingdom,Gibraltar,2/18/2020,Windy in the evening and overnight.,rain,0.88,0.0023,0.0061,0.33,rain,62.05,57.6,54.48,0.83,1027.3,0.69,3,56.9,62.05,36.1408,-5.3536
+United Kingdom,Gibraltar,2/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.91,0.0002,0.0004,0.11,rain,61.01,57.95,53.11,0.8,1023.3,0.72,3,57.6,61.01,36.1408,-5.3536
+United Kingdom,Gibraltar,2/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0001,0.0003,0.17,rain,62.04,57.73,52.58,0.79,1026.4,0.57,4,57.93,62.04,36.1408,-5.3536
+United Kingdom,Gibraltar,2/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0002,0.0004,0.11,rain,61.15,57.93,52.23,0.78,1029.5,0.48,4,57.73,61.15,36.1408,-5.3536
+United Kingdom,Gibraltar,2/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0001,0.0003,0.07,rain,62.79,56.4,52.61,0.78,1030.3,0.41,4,57.93,62.79,36.1408,-5.3536
+United Kingdom,Gibraltar,2/23/2020,Clear throughout the day.,partly-cloudy-day,0.04,0.0001,0.0003,0.04,rain,64.26,57.25,51.98,0.76,1027.5,0.32,5,56.4,64.26,36.1408,-5.3536
+United Kingdom,Gibraltar,2/24/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0003,0.08,rain,66.29,55.83,51.94,0.73,1024.2,0.25,5,57.25,66.29,36.1408,-5.3536
+United Kingdom,Gibraltar,2/25/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0003,0.04,rain,64.41,54.21,50.74,0.73,1023.0,0.18,5,55.83,64.41,36.1408,-5.3536
+United Kingdom,Gibraltar,2/26/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0003,0.02,rain,66.81,51.9,50.13,0.68,1022.6,0.0,5,54.21,66.81,36.1408,-5.3536
+United Kingdom,Gibraltar,2/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0,0.0003,0.03,,63.3,53.05,51.34,0.78,1020.8,0.44,5,51.9,63.3,36.1408,-5.3536
+United Kingdom,Gibraltar,2/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0001,0.0007,0.05,rain,64.6,57.57,52.02,0.77,1019.9,0.47,5,53.05,64.6,36.1408,-5.3536
+United Kingdom,Gibraltar,2/29/2020,Mostly cloudy throughout the day.,rain,0.22,0.0018,0.0061,0.28,rain,66.09,59.34,54.19,0.79,1020.1,0.76,4,57.57,66.09,36.1408,-5.3536
+United Kingdom,Gibraltar,3/1/2020,Mostly cloudy throughout the day.,rain,0.25,0.0019,0.0073,0.33,rain,67.17,55.67,55.29,0.77,1019.0,0.78,4,59.13,67.17,36.1408,-5.3536
+United Kingdom,Gibraltar,3/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.28,0.0001,0.0002,0.03,rain,64.42,57.98,50.22,0.71,1024.3,0.71,4,55.67,64.42,36.1408,-5.3536
+United Kingdom,Gibraltar,3/3/2020,Clear throughout the day.,clear-day,0.32,0.0,0.0002,0.02,,70.42,57.85,54.46,0.76,1023.2,0.18,6,57.98,70.42,36.1408,-5.3536
+United Kingdom,Gibraltar,3/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.0002,0.001,0.05,rain,64.22,52.27,53.72,0.8,1019.6,0.36,5,57.85,64.22,36.1408,-5.3536
+United Kingdom,Gibraltar,3/5/2020,Clear throughout the day.,clear-day,0.39,0.0,0.0002,0.02,,62.74,52.63,47.11,0.68,1022.9,0.11,5,52.27,62.74,36.1408,-5.3536
+United Kingdom,Gibraltar,3/6/2020,Partly cloudy throughout the day.,clear-day,0.43,0.0,0.0003,0.01,,65.69,51.61,43.6,0.58,1024.3,0.26,5,52.55,65.69,36.1408,-5.3536
+United Kingdom,Gibraltar,3/7/2020,Clear throughout the day.,clear-day,0.47,0.0001,0.0005,0.04,rain,65.78,56.1,49.41,0.72,1025.2,0.19,6,51.61,65.78,36.1408,-5.3536
+United Kingdom,Gibraltar,3/8/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0004,0.04,rain,73.96,55.36,46.9,0.55,1024.7,0.12,6,56.1,73.96,36.1408,-5.3536
+United Kingdom,Gibraltar,3/9/2020,Clear throughout the day.,clear-day,0.54,0.0,0.0001,0.02,,65.7,58.35,50.92,0.69,1024.5,0.08,6,55.36,65.7,36.1408,-5.3536
+United Kingdom,Gibraltar,3/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0002,0.0004,0.06,rain,70.14,57.08,50.92,0.65,1021.9,0.57,4,58.35,70.14,36.1408,-5.3536
+United Kingdom,Gibraltar,3/11/2020,Overcast throughout the day.,partly-cloudy-day,0.62,0.0002,0.0004,0.06,rain,74.04,57.91,51.28,0.63,1019.2,0.78,4,57.08,74.04,36.1408,-5.3536
+United Kingdom,Gibraltar,3/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.66,0.0,0.0004,0.02,,68.21,58.01,54.16,0.74,1017.5,0.8,4,57.91,68.21,36.1408,-5.3536
+United Kingdom,Gibraltar,3/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0001,0.0004,0.06,rain,64.35,59.55,56.23,0.85,1018.8,0.66,5,58.01,64.35,36.1408,-5.3536
+United Kingdom,Gibraltar,3/14/2020,Mostly cloudy throughout the day.,rain,0.73,0.0017,0.0069,0.3,rain,62.52,54.05,56.71,0.87,1016.3,0.86,4,57.92,62.52,36.1408,-5.3536
+United Kingdom,Gibraltar,3/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.76,0.0003,0.002,0.1,rain,60.25,48.81,44.16,0.63,1015.0,0.57,5,52.8,60.25,36.1408,-5.3536
+United Kingdom,Gibraltar,3/16/2020,"Rain until morning, starting again in the evening.",rain,0.8,0.027999999999999997,0.222,0.93,rain,59.9,57.9,47.29,0.73,1017.6,0.74,3,48.81,60.13,36.1408,-5.3536
+United Kingdom,Gibraltar,3/17/2020,Dangerously windy and overcast throughout the day.,rain,0.83,0.0123,0.1526,0.78,rain,62.4,59.03,56.13,0.87,1017.6,0.9,3,57.9,62.4,36.1408,-5.3536
+United Kingdom,Gibraltar,3/18/2020,"Windy until afternoon, starting again overnight.",wind,0.86,0.0007,0.0026,0.19,rain,62.34,57.6,54.96,0.83,1016.6,0.9,3,59.03,62.34,36.1408,-5.3536
+United Kingdom,Gibraltar,3/19/2020,Rain in the evening and overnight.,rain,0.89,0.0078,0.0756,0.92,rain,60.37,53.58,54.88,0.85,1013.9,0.91,3,57.59,60.37,36.1408,-5.3536
+United Kingdom,Gibraltar,3/20/2020,Rain throughout the day.,rain,0.92,0.0352,0.2082,0.99,rain,61.44,50.33,50.36,0.81,1013.4,0.62,5,53.53,61.44,36.1408,-5.3536
+United Kingdom,Gibraltar,3/21/2020,Light rain until evening.,rain,0.95,0.0303,0.1368,0.99,rain,59.81,50.23,50.66,0.87,1011.2,0.58,5,50.33,59.81,36.1408,-5.3536
+United Kingdom,Gibraltar,3/22/2020,Possible light rain throughout the day.,rain,0.98,0.0064,0.0179,0.74,rain,58.81,54.08,50.92,0.87,1011.3,0.66,4,50.23,58.81,36.1408,-5.3536
+United Kingdom,Gibraltar,3/23/2020,Light rain in the morning and afternoon.,rain,0.01,0.0098,0.0312,0.95,rain,59.83,56.97,52.07,0.84,1009.1,0.84,3,52.91,59.83,36.1408,-5.3536
+United Kingdom,Gibraltar,3/24/2020,Possible drizzle in the morning.,rain,0.04,0.0018,0.0065,0.66,rain,60.05,50.63,50.4,0.75,1015.9,0.71,4,55.55,60.05,36.1408,-5.3536
+United Kingdom,Gibraltar,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0003,0.07,rain,66.9,52.71,51.3,0.78,1012.8,0.19,6,50.63,66.9,36.1408,-5.3536
+United Kingdom,Gibraltar,3/26/2020,Clear throughout the day.,clear-day,0.1,0.0002,0.0008,0.09,rain,65.43,50.91,50.48,0.74,1010.5,0.22,6,52.71,65.43,36.1408,-5.3536
+United Kingdom,Gibraltar,3/27/2020,Partly cloudy throughout the day.,rain,0.13,0.0051,0.0225,0.34,rain,61.68,57.06,50.7,0.81,1015.6,0.48,6,50.91,61.68,36.1408,-5.3536
+United Kingdom,Gibraltar,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.17,0.0001,0.0002,0.04,rain,62.46,53.84,51.37,0.76,1018.4,0.65,4,56.18,62.46,36.1408,-5.3536
+United Kingdom,Gibraltar,3/29/2020,Rain overnight.,partly-cloudy-day,0.2,0.0002,0.0007,0.2,rain,66.98,54.3,51.55,0.76,1012.7,0.71,4,53.84,66.98,36.1408,-5.3536
+United Kingdom,Gibraltar,3/30/2020,Rain throughout the day.,rain,0.23,0.0548,0.1984,1.0,rain,63.49,53.92,54.92,0.86,1006.9,0.62,6,54.3,63.49,36.1408,-5.3536
+United Kingdom,Gibraltar,3/31/2020,Possible drizzle in the morning.,rain,0.26,0.0045,0.0128,0.8,rain,64.4,50.89,51.09,0.79,1013.2,0.51,5,53.85,64.4,36.1408,-5.3536
+United Kingdom,Gibraltar,4/1/2020,Light rain in the morning and afternoon.,rain,0.3,0.0121,0.0608,0.85,rain,59.72,53.68,49.26,0.79,1013.0,0.53,5,50.55,59.72,36.1408,-5.3536
+United Kingdom,Gibraltar,4/2/2020,Windy overnight.,clear-day,0.33,0.0001,0.0002,0.05,rain,63.94,58.97,51.02,0.76,1015.6,0.04,7,53.68,63.94,36.1408,-5.3536
+United Kingdom,Gibraltar,4/3/2020,Possible drizzle in the afternoon.,rain,0.37,0.0023,0.0108,0.44,rain,62.38,59.51,53.96,0.8,1014.5,0.78,4,58.97,62.38,36.1408,-5.3536
+United Kingdom,Gibraltar,4/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0015,0.0117,0.16,rain,62.73,59.35,55.51,0.83,1018.2,0.85,4,59.51,62.73,36.1408,-5.3536
+United Kingdom,Gibraltar,4/5/2020,Overcast throughout the day.,partly-cloudy-day,0.45,0.0009,0.0041,0.18,rain,64.26,58.43,55.74,0.83,1021.5,0.84,5,59.35,64.26,36.1408,-5.3536
+United Kingdom,Gibraltar,4/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0004,0.0017,0.05,rain,65.7,59.59,55.77,0.81,1023.6,0.56,6,58.43,65.7,36.1408,-5.3536
+United Kingdom,Gibraltar,4/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0001,0.0006,0.03,rain,64.17,59.69,55.53,0.81,1022.0,0.78,5,59.59,64.17,36.1408,-5.3536
+United Kingdom,Gibraltar,4/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0004,0.0022,0.18,rain,63.75,56.47,56.9,0.86,1020.0,0.79,4,59.68,63.75,36.1408,-5.3536
+United Kingdom,Gibraltar,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0003,0.05,rain,65.71,59.44,54.93,0.8,1020.9,0.24,8,56.47,65.71,36.1408,-5.3536
+United Kingdom,Gibraltar,4/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.64,0.0003,0.0011,0.06,rain,64.04,59.44,55.31,0.8,1019.0,0.59,7,59.44,64.04,36.1408,-5.3536
+United Kingdom,Gibraltar,4/11/2020,Possible drizzle starting in the afternoon.,rain,0.68,0.0037,0.0088,0.65,rain,61.98,57.56,55.86,0.86,1015.0,0.8,4,57.89,61.98,36.1408,-5.3536
+United Kingdom,Gibraltar,4/12/2020,Possible light rain in the morning and afternoon.,rain,0.71,0.0079,0.0162,0.81,rain,65.67,55.73,56.19,0.86,1009.7,0.67,5,57.56,65.67,36.1408,-5.3536
+United Kingdom,Gibraltar,4/13/2020,Light rain overnight.,rain,0.74,0.0027,0.0091,0.4,rain,64.0,57.61,55.73,0.84,1010.9,0.4,7,55.73,64.0,36.1408,-5.3536
+United Kingdom,Gibraltar,4/14/2020,Light rain in the morning and afternoon.,rain,0.78,0.0169,0.0533,0.94,rain,67.24,60.92,57.74,0.86,1013.7,0.68,5,57.61,67.24,36.1408,-5.3536
+United Kingdom,Gibraltar,4/15/2020,Mostly cloudy throughout the day.,rain,0.81,0.002,0.0047,0.38,rain,65.45,59.26,59.36,0.89,1016.7,0.75,5,60.92,65.45,36.1408,-5.3536
+United Kingdom,Gibraltar,4/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.0006,0.0022,0.14,rain,64.56,59.61,58.65,0.88,1016.3,0.78,5,59.26,65.47,36.1408,-5.3536
+United Kingdom,Gibraltar,4/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0007,0.0026,0.16,rain,66.07,59.31,58.95,0.86,1014.0,0.61,5,59.61,66.07,36.1408,-5.3536
+United Kingdom,Gibraltar,4/18/2020,Clear throughout the day.,rain,0.9,0.0008,0.0068,0.38,rain,70.47,57.33,56.19,0.76,1011.7,0.42,6,59.31,70.47,36.1408,-5.3536
+United Kingdom,Gibraltar,4/19/2020,Possible light rain overnight.,rain,0.93,0.0028,0.0348,0.38,rain,65.74,55.06,52.45,0.73,1014.5,0.58,6,55.06,65.74,36.1408,-5.3536
+United Kingdom,Gibraltar,4/20/2020,Light rain until evening.,rain,0.96,0.019,0.084,0.89,rain,62.22,57.58,52.88,0.81,1012.0,0.65,4,55.22,62.28,36.1408,-5.3536
+United Kingdom,Montserrat,12/31/2019,Partly cloudy throughout the day.,rain,0.19,0.0034,0.0132,0.53,rain,77.92,73.92,68.88,0.79,1013.9,0.22,7,74.02,77.92,16.7425,-62.1874
+United Kingdom,Montserrat,1/1/2020,Clear throughout the day.,rain,0.22,0.0006,0.0026,0.32,rain,77.96,73.43,68.09,0.77,1014.4,0.14,7,73.92,77.96,16.7425,-62.1874
+United Kingdom,Montserrat,1/2/2020,Clear throughout the day.,rain,0.25,0.0028,0.0092,0.43,rain,77.8,74.16,68.93,0.8,1015.3,0.09,7,73.43,77.8,16.7425,-62.1874
+United Kingdom,Montserrat,1/3/2020,Clear throughout the day.,clear-day,0.28,0.0002,0.001,0.14,rain,77.3,73.99,67.97,0.77,1016.8,0.13,7,74.16,77.3,16.7425,-62.1874
+United Kingdom,Montserrat,1/4/2020,Clear throughout the day.,clear-day,0.31,0.0006,0.0034,0.24,rain,77.18,73.29,68.28,0.79,1016.6,0.27,7,73.99,77.18,16.7425,-62.1874
+United Kingdom,Montserrat,1/5/2020,Clear throughout the day.,rain,0.34,0.0015,0.0036,0.37,rain,76.52,73.69,67.99,0.79,1015.3,0.17,6,73.29,76.52,16.7425,-62.1874
+United Kingdom,Montserrat,1/6/2020,Clear throughout the day.,rain,0.37,0.0006,0.0028,0.25,rain,76.49,73.52,67.2,0.77,1014.8,0.17,7,73.69,76.49,16.7425,-62.1874
+United Kingdom,Montserrat,1/7/2020,Partly cloudy throughout the day.,rain,0.4,0.0016,0.0079,0.3,rain,77.51,73.99,67.57,0.77,1016.2,0.31,7,73.52,77.51,16.7425,-62.1874
+United Kingdom,Montserrat,1/8/2020,Possible light rain overnight.,rain,0.44,0.0048,0.0233,0.48,rain,77.21,73.18,69.13,0.81,1018.0,0.36,7,73.99,77.21,16.7425,-62.1874
+United Kingdom,Montserrat,1/9/2020,Windy overnight.,rain,0.47,0.0056,0.0266,0.5,rain,77.86,74.34,68.61,0.79,1018.7,0.32,7,73.18,77.86,16.7425,-62.1874
+United Kingdom,Montserrat,1/10/2020,Windy throughout the day.,rain,0.51,0.0016,0.0047,0.32,rain,77.44,73.15,67.38,0.75,1018.7,0.22,8,74.34,77.44,16.7425,-62.1874
+United Kingdom,Montserrat,1/11/2020,Possible light rain in the morning and overnight.,rain,0.55,0.0075,0.0251,0.54,rain,76.25,73.48,68.02,0.79,1018.4,0.33,7,73.07,76.25,16.7425,-62.1874
+United Kingdom,Montserrat,1/12/2020,Possible light rain in the morning.,rain,0.58,0.0127,0.0224,0.76,rain,76.3,72.13,67.48,0.78,1019.1,0.41,6,73.48,76.3,16.7425,-62.1874
+United Kingdom,Montserrat,1/13/2020,"Possible light rain and windy until morning, starting again in the evening.",rain,0.62,0.0089,0.0244,0.73,rain,75.76,72.03,66.32,0.77,1018.4,0.44,5,72.13,75.76,16.7425,-62.1874
+United Kingdom,Montserrat,1/14/2020,Light rain throughout the day.,rain,0.66,0.0194,0.0336,0.97,rain,75.3,72.81,67.33,0.8,1016.5,0.45,6,72.22,75.3,16.7425,-62.1874
+United Kingdom,Montserrat,1/15/2020,Possible light rain in the morning.,rain,0.69,0.0108,0.027000000000000003,0.77,rain,75.8,72.96,66.83,0.78,1016.0,0.4,7,72.81,75.8,16.7425,-62.1874
+United Kingdom,Montserrat,1/16/2020,Clear throughout the day.,rain,0.73,0.0007,0.0029,0.25,rain,76.07,72.24,67.24,0.78,1017.1,0.23,7,72.96,76.07,16.7425,-62.1874
+United Kingdom,Montserrat,1/17/2020,Clear throughout the day.,rain,0.77,0.001,0.0024,0.28,rain,76.31,71.84,67.62,0.79,1017.6,0.25,8,72.24,76.31,16.7425,-62.1874
+United Kingdom,Montserrat,1/18/2020,Possible drizzle in the morning and afternoon.,rain,0.8,0.0052,0.0149,0.6,rain,74.71,71.81,67.82,0.83,1017.8,0.43,7,71.84,74.78,16.7425,-62.1874
+United Kingdom,Montserrat,1/19/2020,Possible drizzle in the morning.,rain,0.84,0.005,0.0108,0.61,rain,74.77,72.25,67.52,0.82,1017.3,0.51,6,71.81,74.77,16.7425,-62.1874
+United Kingdom,Montserrat,1/20/2020,Possible drizzle in the morning.,rain,0.87,0.0026,0.0079,0.47,rain,76.47,71.95,66.39,0.76,1016.4,0.31,8,72.25,76.47,16.7425,-62.1874
+United Kingdom,Montserrat,1/21/2020,Possible drizzle in the morning.,rain,0.91,0.0062,0.0145,0.7,rain,75.04,72.64,67.88,0.83,1015.0,0.49,7,71.95,75.04,16.7425,-62.1874
+United Kingdom,Montserrat,1/22/2020,Partly cloudy throughout the day.,rain,0.94,0.0018,0.0054,0.35,rain,75.95,72.53,67.54,0.8,1013.5,0.43,6,72.64,75.95,16.7425,-62.1874
+United Kingdom,Montserrat,1/23/2020,Clear throughout the day.,rain,0.97,0.0004,0.0017,0.27,rain,77.5,72.77,68.25,0.8,1012.6,0.21,8,72.53,77.5,16.7425,-62.1874
+United Kingdom,Montserrat,1/24/2020,Possible drizzle in the morning.,rain,0.0,0.0037,0.0105,0.58,rain,76.15,72.52,69.16,0.83,1013.5,0.16,8,72.77,76.15,16.7425,-62.1874
+United Kingdom,Montserrat,1/25/2020,Possible drizzle in the morning.,rain,0.04,0.0028,0.0102,0.51,rain,76.52,71.66,68.06,0.81,1014.6,0.25,8,72.52,76.52,16.7425,-62.1874
+United Kingdom,Montserrat,1/26/2020,Light rain throughout the day.,rain,0.07,0.0099,0.0201,0.8,rain,75.62,71.6,67.68,0.81,1014.9,0.19,8,71.65,75.62,16.7425,-62.1874
+United Kingdom,Montserrat,1/27/2020,Possible light rain in the morning.,rain,0.1,0.004,0.0188,0.62,rain,76.79,73.16,66.41,0.76,1015.2,0.18,9,71.6,76.79,16.7425,-62.1874
+United Kingdom,Montserrat,1/28/2020,Clear throughout the day.,clear-day,0.13,0.0003,0.0025,0.16,rain,76.6,72.74,66.71,0.76,1014.6,0.17,9,73.16,76.6,16.7425,-62.1874
+United Kingdom,Montserrat,1/29/2020,Clear throughout the day.,clear-day,0.16,0.0002,0.0007,0.15,rain,76.68,73.33,66.21,0.75,1015.0,0.11,8,72.74,76.68,16.7425,-62.1874
+United Kingdom,Montserrat,1/30/2020,Clear throughout the day.,clear-day,0.19,0.0029,0.0481,0.21,rain,77.56,73.57,68.05,0.79,1015.7,0.15,8,73.33,77.56,16.7425,-62.1874
+United Kingdom,Montserrat,1/31/2020,Clear throughout the day.,clear-day,0.22,0.0002,0.0003,0.11,rain,78.22,72.81,67.3,0.76,1017.4,0.05,9,73.57,78.22,16.7425,-62.1874
+United Kingdom,Montserrat,2/1/2020,Clear throughout the day.,clear-day,0.25,0.0004,0.0017,0.15,rain,76.77,72.92,68.1,0.8,1017.4,0.13,8,72.81,76.77,16.7425,-62.1874
+United Kingdom,Montserrat,2/2/2020,Clear throughout the day.,clear-day,0.28,0.0015,0.0113,0.22,rain,77.05,72.91,67.44,0.78,1016.4,0.14,9,72.92,77.05,16.7425,-62.1874
+United Kingdom,Montserrat,2/3/2020,Partly cloudy throughout the day.,clear-day,0.31,0.0002,0.0008,0.17,rain,77.58,72.66,66.86,0.77,1017.6,0.2,8,72.91,77.58,16.7425,-62.1874
+United Kingdom,Montserrat,2/4/2020,Clear throughout the day.,clear-day,0.35,0.0003,0.0007,0.16,rain,76.47,73.1,66.7,0.77,1017.6,0.11,9,72.66,76.47,16.7425,-62.1874
+United Kingdom,Montserrat,2/5/2020,Partly cloudy throughout the day.,rain,0.38,0.0022,0.0232,0.3,rain,76.31,73.7,68.34,0.81,1017.7,0.34,8,73.1,76.31,16.7425,-62.1874
+United Kingdom,Montserrat,2/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0004,0.0008,0.18,rain,77.43,73.93,68.26,0.79,1017.2,0.34,7,73.7,77.43,16.7425,-62.1874
+United Kingdom,Montserrat,2/7/2020,Partly cloudy throughout the day.,rain,0.45,0.0044,0.0208,0.42,rain,77.21,73.3,67.96,0.78,1018.4,0.4,8,73.93,77.21,16.7425,-62.1874
+United Kingdom,Montserrat,2/8/2020,Clear throughout the day.,rain,0.49,0.0025,0.0111,0.37,rain,76.67,73.63,67.11,0.77,1017.8,0.22,9,73.3,76.67,16.7425,-62.1874
+United Kingdom,Montserrat,2/9/2020,Partly cloudy throughout the day.,rain,0.53,0.006,0.0292,0.5,rain,75.8,72.44,67.97,0.8,1018.6,0.34,7,73.63,75.8,16.7425,-62.1874
+United Kingdom,Montserrat,2/10/2020,Clear throughout the day.,rain,0.57,0.0034,0.013999999999999999,0.46,rain,76.56,73.16,67.24,0.78,1018.9,0.14,9,72.44,76.56,16.7425,-62.1874
+United Kingdom,Montserrat,2/11/2020,Clear throughout the day.,rain,0.61,0.0052,0.0141,0.49,rain,75.9,73.1,67.19,0.78,1018.3,0.33,9,73.16,75.9,16.7425,-62.1874
+United Kingdom,Montserrat,2/12/2020,Possible light rain overnight.,rain,0.64,0.008,0.0279,0.52,rain,75.56,72.09,67.41,0.8,1017.4,0.17,8,72.97,75.56,16.7425,-62.1874
+United Kingdom,Montserrat,2/13/2020,Clear throughout the day.,rain,0.68,0.0035,0.0205,0.44,rain,75.88,72.21,66.67,0.78,1016.7,0.11,9,72.09,75.88,16.7425,-62.1874
+United Kingdom,Montserrat,2/14/2020,Possible light rain in the morning and overnight.,rain,0.72,0.0137,0.0643,0.68,rain,75.68,71.85,68.05,0.82,1017.2,0.35,8,72.0,75.68,16.7425,-62.1874
+United Kingdom,Montserrat,2/15/2020,Possible light rain in the morning.,rain,0.75,0.013999999999999999,0.0469,0.75,rain,75.41,72.32,68.48,0.83,1016.4,0.4,9,71.85,75.41,16.7425,-62.1874
+United Kingdom,Montserrat,2/16/2020,Partly cloudy throughout the day.,rain,0.79,0.0061,0.015,0.49,rain,75.41,72.36,68.48,0.83,1015.2,0.23,8,72.32,75.41,16.7425,-62.1874
+United Kingdom,Montserrat,2/17/2020,Clear throughout the day.,rain,0.82,0.0038,0.0115,0.46,rain,75.62,72.59,67.97,0.82,1015.7,0.21,8,72.07,75.62,16.7425,-62.1874
+United Kingdom,Montserrat,2/18/2020,Clear throughout the day.,rain,0.85,0.0018,0.0093,0.28,rain,75.82,72.09,67.04,0.79,1016.8,0.17,10,72.59,75.82,16.7425,-62.1874
+United Kingdom,Montserrat,2/19/2020,Clear throughout the day.,rain,0.89,0.0029,0.0079,0.38,rain,75.53,71.71,66.79,0.79,1016.5,0.3,9,72.09,75.53,16.7425,-62.1874
+United Kingdom,Montserrat,2/20/2020,Clear throughout the day.,clear-day,0.92,0.0009,0.0031,0.2,rain,74.98,71.27,65.72,0.76,1015.8,0.26,10,71.71,74.98,16.7425,-62.1874
+United Kingdom,Montserrat,2/21/2020,Clear throughout the day.,rain,0.95,0.0014,0.0064,0.26,rain,75.56,70.41,65.43,0.76,1015.6,0.17,10,71.27,75.56,16.7425,-62.1874
+United Kingdom,Montserrat,2/22/2020,Clear throughout the day.,rain,0.98,0.0034,0.0136,0.33,rain,76.26,72.3,65.89,0.78,1015.1,0.1,10,70.41,76.26,16.7425,-62.1874
+United Kingdom,Montserrat,2/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0007,0.17,rain,76.32,72.07,63.73,0.7,1015.0,0.02,10,72.3,76.32,16.7425,-62.1874
+United Kingdom,Montserrat,2/24/2020,Clear throughout the day.,clear-day,0.04,0.0005,0.0019,0.2,rain,76.77,72.46,67.55,0.8,1015.4,0.09,9,72.07,76.77,16.7425,-62.1874
+United Kingdom,Montserrat,2/25/2020,Clear throughout the day.,rain,0.07,0.0008,0.0033,0.26,rain,76.37,72.32,68.4,0.82,1015.5,0.08,10,72.46,76.37,16.7425,-62.1874
+United Kingdom,Montserrat,2/26/2020,Partly cloudy throughout the day.,rain,0.1,0.0054,0.0189,0.44,rain,74.47,71.19,67.9,0.83,1015.7,0.34,10,72.32,74.47,16.7425,-62.1874
+United Kingdom,Montserrat,2/27/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0004,0.07,rain,76.37,71.26,65.27,0.75,1016.1,0.08,10,71.19,76.37,16.7425,-62.1874
+United Kingdom,Montserrat,2/28/2020,Clear throughout the day.,clear-day,0.16,0.0005,0.002,0.11,rain,76.22,72.11,66.53,0.78,1016.9,0.11,10,71.26,76.22,16.7425,-62.1874
+United Kingdom,Montserrat,2/29/2020,Clear throughout the day.,clear-day,0.19,0.0006,0.0037,0.13,rain,76.57,72.19,67.2,0.79,1017.4,0.23,10,72.11,76.57,16.7425,-62.1874
+United Kingdom,Montserrat,3/1/2020,Clear throughout the day.,clear-day,0.22,0.0004,0.0016,0.13,rain,76.05,71.94,66.58,0.78,1017.2,0.08,10,72.19,76.05,16.7425,-62.1874
+United Kingdom,Montserrat,3/2/2020,Clear throughout the day.,clear-day,0.26,0.0002,0.0006,0.1,rain,76.27,71.94,65.14,0.74,1016.7,0.07,11,71.94,76.27,16.7425,-62.1874
+United Kingdom,Montserrat,3/3/2020,Clear throughout the day.,clear-day,0.29,0.0007,0.0039,0.24,rain,76.34,72.27,66.92,0.79,1016.7,0.16,10,71.94,76.34,16.7425,-62.1874
+United Kingdom,Montserrat,3/4/2020,Clear throughout the day.,rain,0.32,0.0011,0.0033,0.25,rain,76.52,72.48,67.57,0.8,1017.9,0.14,11,72.27,76.52,16.7425,-62.1874
+United Kingdom,Montserrat,3/5/2020,Clear throughout the day.,clear-day,0.36,0.0002,0.0011,0.11,rain,76.68,72.4,65.75,0.75,1018.5,0.2,10,72.48,76.68,16.7425,-62.1874
+United Kingdom,Montserrat,3/6/2020,Clear throughout the day.,clear-day,0.4,0.0007,0.0073,0.23,rain,76.16,71.98,66.11,0.76,1017.4,0.05,11,72.36,76.16,16.7425,-62.1874
+United Kingdom,Montserrat,3/7/2020,Clear throughout the day.,rain,0.43,0.0039,0.0119,0.46,rain,76.06,71.87,67.98,0.82,1015.2,0.2,10,71.98,76.06,16.7425,-62.1874
+United Kingdom,Montserrat,3/8/2020,Clear throughout the day.,clear-day,0.47,0.0001,0.0003,0.12,rain,76.39,71.88,64.72,0.73,1016.5,0.05,12,71.87,76.39,16.7425,-62.1874
+United Kingdom,Montserrat,3/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.51,0.0002,0.001,0.16,rain,76.01,72.48,64.1,0.72,1018.4,0.34,9,71.88,76.01,16.7425,-62.1874
+United Kingdom,Montserrat,3/10/2020,Partly cloudy throughout the day.,rain,0.55,0.0018,0.005,0.34,rain,75.47,72.09,66.86,0.78,1017.2,0.42,10,72.48,75.47,16.7425,-62.1874
+United Kingdom,Montserrat,3/11/2020,Partly cloudy throughout the day.,rain,0.59,0.0006,0.0041,0.28,rain,76.13,72.29,66.6,0.77,1014.6,0.4,9,72.09,76.13,16.7425,-62.1874
+United Kingdom,Montserrat,3/12/2020,Clear throughout the day.,rain,0.63,0.0072,0.0593,0.34,rain,75.99,72.55,67.18,0.79,1013.2,0.25,11,72.29,75.99,16.7425,-62.1874
+United Kingdom,Montserrat,3/13/2020,Clear throughout the day.,rain,0.67,0.0015,0.0053,0.34,rain,76.84,72.34,67.39,0.78,1014.7,0.09,12,72.55,76.84,16.7425,-62.1874
+United Kingdom,Montserrat,3/14/2020,Clear throughout the day.,rain,0.7,0.003,0.0239,0.38,rain,76.39,71.79,66.93,0.78,1014.9,0.05,12,72.34,76.39,16.7425,-62.1874
+United Kingdom,Montserrat,3/15/2020,Clear throughout the day.,rain,0.74,0.0031,0.0102,0.43,rain,74.14,70.65,66.39,0.8,1014.7,0.16,10,71.79,74.14,16.7425,-62.1874
+United Kingdom,Montserrat,3/16/2020,Clear throughout the day.,clear-day,0.77,0.0001,0.0003,0.09,rain,75.15,72.07,63.13,0.71,1014.4,0.04,11,70.65,75.15,16.7425,-62.1874
+United Kingdom,Montserrat,3/17/2020,Clear throughout the day.,clear-day,0.8,0.0002,0.0006,0.1,rain,76.65,72.55,64.66,0.72,1015.0,0.02,12,72.07,76.65,16.7425,-62.1874
+United Kingdom,Montserrat,3/18/2020,Clear throughout the day.,clear-day,0.84,0.0008,0.0023,0.24,rain,76.9,72.82,67.58,0.78,1016.5,0.11,11,72.55,76.9,16.7425,-62.1874
+United Kingdom,Montserrat,3/19/2020,Clear throughout the day.,rain,0.87,0.0006,0.0028,0.27,rain,76.6,71.19,67.26,0.78,1017.3,0.13,12,72.82,76.6,16.7425,-62.1874
+United Kingdom,Montserrat,3/20/2020,Possible light rain in the morning.,rain,0.9,0.0087,0.0285,0.61,rain,76.48,72.16,66.95,0.79,1017.3,0.38,8,71.19,76.48,16.7425,-62.1874
+United Kingdom,Montserrat,3/21/2020,Possible light rain in the morning and overnight.,rain,0.93,0.0088,0.0236,0.66,rain,75.62,71.67,67.57,0.81,1016.3,0.35,8,72.16,75.62,16.7425,-62.1874
+United Kingdom,Montserrat,3/22/2020,Light rain until evening.,rain,0.96,0.0333,0.0637,0.99,rain,74.6,72.35,68.43,0.86,1016.9,0.52,8,71.67,74.78,16.7425,-62.1874
+United Kingdom,Montserrat,3/23/2020,Possible light rain starting in the afternoon.,rain,0.99,0.0107,0.026000000000000002,0.78,rain,75.58,71.04,68.25,0.83,1018.3,0.44,8,72.28,75.58,16.7425,-62.1874
+United Kingdom,Montserrat,3/24/2020,Light rain in the morning and afternoon.,rain,0.02,0.0167,0.0415,0.93,rain,74.57,72.02,68.54,0.86,1017.2,0.53,8,71.04,74.57,16.7425,-62.1874
+United Kingdom,Montserrat,3/25/2020,Clear throughout the day.,clear-day,0.05,0.0005,0.0028,0.18,rain,75.72,72.22,66.47,0.78,1015.4,0.15,12,72.02,75.72,16.7425,-62.1874
+United Kingdom,Montserrat,3/26/2020,Clear throughout the day.,rain,0.08,0.0012,0.0075,0.27,rain,76.25,72.3,67.02,0.79,1013.9,0.09,11,72.22,76.25,16.7425,-62.1874
+United Kingdom,Montserrat,3/27/2020,Clear throughout the day.,rain,0.11,0.0044,0.0164,0.39,rain,76.21,73.02,67.43,0.79,1012.9,0.07,12,72.3,76.21,16.7425,-62.1874
+United Kingdom,Montserrat,3/28/2020,Clear throughout the day.,rain,0.14,0.0007,0.0082,0.3,rain,76.68,73.26,68.71,0.82,1014.5,0.13,11,73.02,76.68,16.7425,-62.1874
+United Kingdom,Montserrat,3/29/2020,Clear throughout the day.,clear-day,0.17,0.0004,0.0013,0.19,rain,76.45,72.15,67.18,0.78,1016.5,0.19,10,72.96,76.45,16.7425,-62.1874
+United Kingdom,Montserrat,3/30/2020,Clear throughout the day.,clear-day,0.2,0.0003,0.0007,0.13,rain,75.68,70.2,65.38,0.75,1015.5,0.24,11,72.1,75.68,16.7425,-62.1874
+United Kingdom,Montserrat,3/31/2020,Partly cloudy throughout the day.,clear-day,0.24,0.001,0.0033,0.21,rain,75.23,71.06,65.29,0.77,1013.7,0.24,9,70.2,75.23,16.7425,-62.1874
+United Kingdom,Montserrat,4/1/2020,Clear throughout the day.,clear-day,0.27,0.0003,0.0013,0.1,rain,76.56,72.09,64.64,0.73,1013.3,0.16,12,71.06,76.56,16.7425,-62.1874
+United Kingdom,Montserrat,4/2/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0004,0.06,rain,76.79,72.91,64.51,0.71,1014.4,0.13,12,72.09,76.79,16.7425,-62.1874
+United Kingdom,Montserrat,4/3/2020,Clear throughout the day.,clear-day,0.34,0.0004,0.0011,0.16,rain,77.44,73.28,67.69,0.78,1013.4,0.19,12,72.91,77.44,16.7425,-62.1874
+United Kingdom,Montserrat,4/4/2020,Clear throughout the day.,clear-day,0.38,0.0002,0.0013,0.07,rain,78.85,74.31,66.59,0.74,1012.7,0.2,10,73.28,78.85,16.7425,-62.1874
+United Kingdom,Montserrat,4/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0002,0.0012,0.08,rain,78.82,74.71,69.86,0.8,1013.7,0.4,10,74.31,78.82,16.7425,-62.1874
+United Kingdom,Montserrat,4/6/2020,Humid throughout the day.,clear-day,0.46,0.0002,0.0011,0.1,rain,79.78,74.47,70.95,0.81,1015.1,0.15,12,74.71,79.78,16.7425,-62.1874
+United Kingdom,Montserrat,4/7/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0003,0.06,rain,79.35,74.34,69.84,0.79,1015.4,0.18,12,74.47,79.35,16.7425,-62.1874
+United Kingdom,Montserrat,4/8/2020,Clear throughout the day.,clear-day,0.54,0.0002,0.0007,0.12,rain,78.33,74.25,69.13,0.79,1014.3,0.19,12,74.34,78.33,16.7425,-62.1874
+United Kingdom,Montserrat,4/9/2020,Clear throughout the day.,clear-day,0.58,0.0002,0.0004,0.1,rain,80.17,74.5,69.01,0.76,1013.8,0.12,12,74.25,80.17,16.7425,-62.1874
+United Kingdom,Montserrat,4/10/2020,Clear throughout the day.,clear-day,0.61,0.0002,0.0007,0.08,rain,80.83,74.43,69.47,0.77,1014.4,0.2,11,74.5,80.83,16.7425,-62.1874
+United Kingdom,Montserrat,4/11/2020,Clear throughout the day.,clear-day,0.65,0.0002,0.0004,0.07,rain,80.26,74.72,69.94,0.78,1016.0,0.16,11,74.43,80.26,16.7425,-62.1874
+United Kingdom,Montserrat,4/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0003,0.0011,0.08,rain,78.8,74.64,69.09,0.78,1017.4,0.37,9,74.72,78.8,16.7425,-62.1874
+United Kingdom,Montserrat,4/13/2020,Humid throughout the day.,clear-day,0.72,0.0018,0.0053,0.21,rain,77.93,74.0,69.91,0.81,1017.2,0.11,12,74.64,77.93,16.7425,-62.1874
+United Kingdom,Montserrat,4/14/2020,Humid throughout the day.,rain,0.75,0.0064,0.0133,0.59,rain,78.14,73.38,70.03,0.81,1015.6,0.16,12,74.0,78.14,16.7425,-62.1874
+United Kingdom,Montserrat,4/15/2020,Clear throughout the day.,rain,0.78,0.002,0.0084,0.43,rain,77.75,74.47,69.05,0.8,1015.2,0.18,11,73.38,77.75,16.7425,-62.1874
+United Kingdom,Montserrat,4/16/2020,Clear throughout the day.,rain,0.82,0.0015,0.0062,0.33,rain,77.55,73.9,68.8,0.79,1016.7,0.31,10,74.47,77.55,16.7425,-62.1874
+United Kingdom,Montserrat,4/17/2020,Clear throughout the day.,rain,0.85,0.0011,0.0031,0.26,rain,78.04,73.77,69.32,0.8,1017.8,0.2,11,73.9,78.04,16.7425,-62.1874
+United Kingdom,Montserrat,4/18/2020,Possible light rain in the morning.,rain,0.88,0.0055,0.0314,0.47,rain,78.04,73.4,70.45,0.83,1017.1,0.32,11,73.77,78.04,16.7425,-62.1874
+United Kingdom,Montserrat,4/19/2020,Humid throughout the day.,rain,0.91,0.001,0.0031,0.3,rain,77.74,74.18,70.36,0.83,1016.6,0.21,11,73.4,77.74,16.7425,-62.1874
+United Kingdom,Montserrat,4/20/2020,Clear throughout the day.,clear-day,0.94,0.0017,0.013999999999999999,0.19,rain,77.56,74.01,67.94,0.77,1016.6,0.14,13,74.18,77.56,16.7425,-62.1874
+United Kingdom,United Kingdom,1/1/2020,Windy overnight.,rain,0.21,0.0003,0.001,0.28,rain,43.05,39.32,36.43,0.92,1024.3,0.85,0,33.13,43.05,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/2/2020,Light rain throughout the day.,rain,0.24,0.0148,0.0679,0.94,rain,47.67,34.75,42.58,0.94,1007.6,1.0,0,40.59,47.67,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/3/2020,Possible light rain in the evening and overnight.,rain,0.27,0.0039,0.02,0.49,rain,39.93,36.87,33.62,0.84,1018.1,0.69,0,34.75,44.5,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/4/2020,Possible drizzle in the morning and afternoon.,rain,0.3,0.0025,0.0071,0.64,rain,44.58,39.17,38.67,0.91,1027.4,0.98,0,39.0,44.58,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/5/2020,Foggy in the evening.,rain,0.33,0.0028,0.0071,0.4,rain,45.55,40.59,41.03,0.93,1023.6,1.0,0,40.18,45.79,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/6/2020,Light rain in the morning and afternoon.,rain,0.36,0.0159,0.0803,0.91,rain,46.65,37.03,39.54,0.91,1010.3,0.87,0,37.48,46.65,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/7/2020,Rain and dangerously windy until evening.,rain,0.4,0.0344,0.1147,0.97,rain,51.67,36.51,42.73,0.94,1006.8,0.92,0,37.03,51.67,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/8/2020,Possible light rain overnight.,rain,0.43,0.0031,0.0158,0.5,rain,40.63,32.18,33.87,0.87,1014.8,0.82,0,33.57,43.73,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/9/2020,Light rain (with a chance of 1–2 in. of snow) in the morning and afternoon.,rain,0.47,0.0216,0.0768,0.81,rain,36.16,26.73,31.69,0.91,1004.8,0.94,0,31.54,36.16,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/10/2020,Light rain in the evening and overnight.,rain,0.5,0.005,0.0378,0.82,rain,38.98,37.99,30.85,0.9,1017.2,0.61,0,26.73,43.13,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/11/2020,Light rain throughout the day.,rain,0.54,0.0385,0.098,0.99,rain,50.09,34.37,43.13,0.95,1006.8,0.99,0,38.12,50.09,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/12/2020,Foggy in the morning.,rain,0.58,0.0011,0.0085,0.58,rain,40.89,33.97,33.56,0.89,1010.4,0.5,0,33.97,40.89,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/13/2020,Light rain and dangerously windy throughout the day.,rain,0.61,0.0162,0.079,0.79,rain,41.78,33.25,34.98,0.9,993.6,0.79,0,34.44,41.78,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/14/2020,Possible light rain until evening.,rain,0.65,0.0115,0.0332,0.87,rain,38.98,33.28,32.74,0.89,984.0,0.88,0,33.25,38.98,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/15/2020,Windy in the morning and afternoon.,rain,0.69,0.0013,0.0044,0.54,rain,42.18,35.81,32.32,0.85,993.2,0.71,0,33.28,42.18,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/16/2020,Rain throughout the day.,rain,0.72,0.0176,0.1144,0.84,rain,45.39,34.9,38.16,0.92,1002.1,0.91,0,35.88,45.39,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/17/2020,Overcast throughout the day.,rain,0.76,0.0008,0.0049,0.47,rain,39.98,32.54,32.9,0.87,1006.4,0.88,0,33.78,39.98,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0,0.0002,0.13,,40.98,29.25,30.06,0.82,1025.1,0.5,0,31.28,40.98,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0002,0.01,,39.52,33.06,28.57,0.82,1042.4,0.47,0,29.25,39.52,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/20/2020,Foggy in the morning and overnight.,partly-cloudy-day,0.87,0.0,0.0002,0.06,,41.05,37.43,33.42,0.88,1043.3,0.83,0,33.06,41.05,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/21/2020,"Foggy until afternoon, starting again overnight.",rain,0.9,0.0006,0.0012,0.3,rain,43.89,42.21,38.69,0.92,1039.2,0.98,0,37.52,44.1,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/22/2020,Overcast throughout the day.,cloudy,0.93,0.0004,0.0014,0.24,rain,49.46,39.07,42.91,0.95,1037.2,0.88,0,41.17,49.46,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.97,0.0005,0.0008,0.22,rain,45.29,39.36,39.36,0.94,1029.6,0.87,1,39.04,45.29,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/24/2020,Foggy starting in the afternoon.,rain,1.0,0.0004,0.0009,0.27,rain,46.05,38.61,39.67,0.95,1019.9,0.98,1,39.36,46.05,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/25/2020,Overcast throughout the day.,rain,0.03,0.0032,0.0066,0.41,rain,44.08,37.97,38.15,0.92,1011.1,0.98,1,37.97,44.08,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/26/2020,"Light rain until afternoon, starting again overnight.",rain,0.06,0.0128,0.055999999999999994,0.89,rain,41.65,32.13,35.95,0.92,1000.4,0.86,1,32.13,41.65,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/27/2020,Snow (1–3 in.) throughout the day.,rain,0.09,0.0133,0.0356,0.86,rain,39.31,29.46,31.16,0.88,991.4,0.58,0,31.6,39.31,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/28/2020,Possible drizzle until evening.,snow,0.12,0.0079,0.0522,0.75,snow,36.47,31.6,30.71,0.91,987.5,0.77,0,28.41,36.47,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/29/2020,Light rain starting in the afternoon.,rain,0.15,0.0121,0.0451,0.84,rain,42.81,39.47,34.48,0.92,997.9,0.91,1,31.6,44.25,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/30/2020,"Possible light rain until afternoon, starting again overnight.",rain,0.18,0.0046,0.0261,0.6,rain,48.64,39.06,39.83,0.92,994.1,0.98,1,39.06,48.64,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,1/31/2020,Light rain throughout the day.,rain,0.21,0.0095,0.0286,0.8,rain,49.93,39.79,43.24,0.95,992.9,1.0,1,39.26,49.93,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/1/2020,Light rain in the morning and afternoon.,rain,0.24,0.0098,0.0286,0.82,rain,44.29,32.98,37.97,0.92,992.7,0.85,1,34.0,44.29,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/2/2020,Light rain throughout the day.,rain,0.28,0.0126,0.0336,0.94,rain,43.22,35.95,36.63,0.95,999.5,0.95,1,32.98,43.22,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/3/2020,Possible drizzle until evening.,rain,0.31,0.0072,0.0173,0.89,rain,38.79,32.05,33.56,0.88,1003.5,0.89,0,33.32,42.4,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/4/2020,Windy in the morning.,snow,0.34,0.0012,0.0055,0.47,snow,47.82,31.58,34.27,0.86,1019.1,0.52,1,32.05,47.82,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/5/2020,Overcast throughout the day.,partly-cloudy-day,0.37,0.0001,0.0003,0.2,rain,42.92,31.2,32.51,0.89,1033.6,0.75,1,31.58,42.92,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/6/2020,Foggy in the morning.,partly-cloudy-day,0.41,0.0001,0.0003,0.06,rain,44.56,29.81,33.62,0.92,1028.9,0.5,1,31.22,44.56,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/7/2020,Light rain overnight.,rain,0.45,0.0016,0.0256,0.47,rain,45.69,35.35,29.12,0.78,1012.9,0.4,1,29.81,45.69,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/8/2020,Rain throughout the day.,rain,0.48,0.0506,0.1734,0.98,rain,44.19,39.99,36.67,0.9,999.8,0.74,1,34.93,44.19,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/9/2020,Rain and dangerously windy throughout the day.,rain,0.52,0.0517,0.1658,0.99,rain,48.04,32.5,40.27,0.93,972.2,0.91,1,35.21,48.04,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/10/2020,Snow (2–5 in.) and dangerously windy throughout the day.,snow,0.56,0.0227,0.0861,0.92,snow,36.62,31.78,30.51,0.88,982.3,0.96,1,31.44,36.62,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/11/2020,Light snow (2–4 in.) until evening.,snow,0.6,0.0211,0.055999999999999994,0.93,snow,35.27,30.38,29.41,0.88,992.3,0.97,1,30.54,35.27,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/12/2020,Possible light snow (< 1 in.) in the morning and afternoon.,snow,0.64,0.0037,0.008,0.63,snow,36.44,27.31,27.52,0.85,1004.3,0.56,1,27.31,36.44,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/13/2020,Light rain (with a chance of 1–2 in. of snow) in the morning and afternoon.,snow,0.67,0.012,0.0612,0.76,snow,37.53,30.77,31.02,0.92,997.3,0.93,1,27.65,37.53,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/14/2020,Rain in the morning and afternoon.,rain,0.71,0.0163,0.1046,0.9,rain,42.24,34.14,34.09,0.93,1006.0,0.99,1,30.77,42.24,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/15/2020,Rain and dangerously windy throughout the day.,rain,0.75,0.0429,0.1788,0.91,rain,46.98,34.93,38.66,0.95,988.8,0.78,1,34.14,46.98,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/16/2020,Light rain and dangerously windy throughout the day.,rain,0.78,0.0258,0.1029,0.91,rain,38.69,33.84,33.54,0.87,977.3,0.83,1,34.17,41.86,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/17/2020,Light rain throughout the day.,rain,0.82,0.0151,0.0456,0.94,rain,41.38,32.97,34.53,0.91,994.4,0.92,1,33.2,41.38,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/18/2020,Light rain until evening.,rain,0.85,0.006999999999999999,0.0192,0.86,rain,38.97,32.01,32.13,0.9,1006.2,0.86,1,32.17,38.97,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/19/2020,Light rain throughout the day.,rain,0.88,0.0152,0.0448,0.9,rain,42.89,36.85,34.85,0.93,1007.6,0.7,1,32.01,44.29,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/20/2020,Light rain until evening.,rain,0.91,0.0301,0.0906,0.97,rain,40.8,32.96,35.02,0.91,999.6,0.95,1,32.67,45.26,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/21/2020,Light rain and dangerously windy throughout the day.,rain,0.94,0.0351,0.0622,0.96,rain,44.83,34.46,39.17,0.94,1004.5,1.0,1,34.37,46.62,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/22/2020,Light snow (1–3 in.) throughout the day.,rain,0.98,0.0183,0.0465,0.95,rain,37.87,32.48,32.13,0.86,1003.4,0.96,1,32.48,45.85,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/23/2020,Light rain in the morning and overnight.,rain,0.01,0.0088,0.0247,0.79,rain,38.83,30.49,32.2,0.9,1010.4,0.85,1,31.79,38.83,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/24/2020,"Snow (2–5 in.) until afternoon, starting again overnight.",snow,0.04,0.0252,0.0929,0.8,snow,36.18,32.08,30.71,0.92,1001.1,0.99,1,30.27,36.18,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/25/2020,Light snow (< 1 in.) in the morning and afternoon.,snow,0.07,0.0056,0.0192,0.82,snow,37.49,29.42,31.18,0.92,993.1,0.94,1,30.21,37.49,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/26/2020,Possible light snow (< 1 in.) in the evening and overnight.,snow,0.1,0.0023,0.0115,0.49,snow,37.29,28.99,28.86,0.88,998.6,0.42,1,29.42,37.29,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/27/2020,Possible light snow (< 1 in.) in the morning.,snow,0.13,0.002,0.0125,0.6,snow,37.03,30.65,28.73,0.87,1000.4,0.34,1,28.99,37.03,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/28/2020,Rain throughout the day.,rain,0.16,0.013000000000000001,0.0387,0.86,rain,41.77,34.08,33.31,0.94,995.3,0.93,1,30.65,43.29,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,2/29/2020,Light rain (with a chance of 1–3 in. of snow) throughout the day.,rain,0.19,0.0404,0.10300000000000001,0.93,rain,36.42,33.29,34.6,0.93,970.2,0.91,1,32.12,44.78,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/1/2020,Light snow (1–2 in.) until evening.,rain,0.22,0.0195,0.0493,0.86,rain,39.18,30.19,32.45,0.91,973.6,0.95,1,32.05,39.18,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/2/2020,Possible flurries (< 1 in.) in the morning and afternoon.,snow,0.25,0.0016,0.0059,0.59,snow,37.43,30.75,30.45,0.9,984.6,0.47,1,30.19,37.43,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/3/2020,Possible drizzle in the afternoon.,snow,0.28,0.0016,0.0083,0.51,snow,42.2,28.31,32.28,0.89,996.2,0.53,1,30.75,42.2,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/4/2020,Overcast throughout the day.,snow,0.32,0.0012,0.0059,0.41,snow,41.21,26.52,29.85,0.88,1006.2,0.86,1,28.31,41.21,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/5/2020,Clear throughout the day.,clear-day,0.35,0.0002,0.0009,0.12,snow,43.77,27.37,28.96,0.84,1000.3,0.26,1,26.52,43.77,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/6/2020,Possible drizzle in the afternoon.,snow,0.39,0.0011,0.0057,0.45,snow,40.75,30.59,30.32,0.88,1003.9,0.64,1,27.37,40.75,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/7/2020,Light rain throughout the day.,rain,0.43,0.017,0.0515,0.93,rain,44.59,37.95,38.62,0.96,1002.4,0.9,1,30.59,45.52,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/8/2020,Drizzle until evening.,rain,0.47,0.0074,0.0324,0.93,rain,42.81,35.06,37.59,0.93,994.5,0.7,1,35.64,45.16,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/9/2020,Rain throughout the day.,rain,0.51,0.0214,0.1045,0.91,rain,41.99,40.28,37.39,0.93,1000.2,0.75,2,35.06,47.47,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/10/2020,Light rain until evening.,rain,0.55,0.0093,0.0287,0.78,rain,43.78,33.58,39.22,0.93,994.2,0.82,2,35.05,46.34,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/11/2020,Light rain throughout the day.,rain,0.58,0.0209,0.0547,0.96,rain,41.0,29.67,34.92,0.93,997.0,0.74,2,31.48,41.0,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/12/2020,Light rain throughout the day.,rain,0.62,0.0126,0.0394,0.94,rain,38.55,30.15,31.94,0.91,995.6,0.9,1,29.67,38.55,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/13/2020,Possible flurries in the morning.,rain,0.66,0.0013,0.003,0.55,rain,40.64,33.42,31.85,0.87,1014.0,0.66,1,30.15,40.64,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/14/2020,Light rain throughout the day.,rain,0.7,0.0142,0.043,0.94,rain,42.04,37.34,36.93,0.94,1005.0,1.0,1,33.42,45.11,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/15/2020,Possible drizzle in the morning and afternoon.,rain,0.73,0.0041,0.0124,0.8,rain,41.93,32.35,37.46,0.93,999.2,0.89,1,36.04,42.49,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/16/2020,Light rain in the evening and overnight.,rain,0.77,0.0069,0.0302,0.8,rain,43.23,37.71,34.02,0.86,1014.5,0.87,2,32.35,44.1,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/17/2020,Rain starting in the afternoon.,rain,0.8,0.0319,0.1329,0.99,rain,45.1,33.9,39.75,0.93,1015.2,0.74,3,37.71,45.1,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/18/2020,Overcast throughout the day.,rain,0.83,0.0007,0.0023,0.35,rain,41.14,28.85,32.4,0.86,1020.7,0.85,2,31.35,41.14,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.86,0.0004,0.002,0.24,snow,44.33,27.77,30.53,0.82,1028.2,0.33,2,28.85,44.33,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/20/2020,Clear throughout the day.,clear-day,0.89,0.0001,0.0004,0.15,snow,44.46,31.99,28.3,0.77,1034.4,0.19,2,27.77,44.46,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.92,0.0002,0.0005,0.1,snow,46.23,27.41,28.59,0.72,1030.6,0.59,2,31.01,46.23,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/22/2020,Clear throughout the day.,partly-cloudy-day,0.95,0.0001,0.0004,0.03,snow,47.36,29.36,27.9,0.72,1028.9,0.42,2,27.41,47.36,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/23/2020,Overcast throughout the day.,cloudy,0.98,0.0001,0.0004,0.03,rain,46.8,36.94,29.44,0.72,1023.5,0.96,2,29.36,46.8,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/24/2020,Overcast throughout the day.,partly-cloudy-day,0.01,0.0001,0.0003,0.04,rain,49.5,39.32,36.94,0.8,1018.3,0.86,2,36.94,49.5,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.04,0.0004,0.0011,0.13,rain,52.35,36.47,39.94,0.87,1021.6,0.69,2,38.53,52.35,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0008,0.003,0.15,rain,53.81,36.75,40.7,0.87,1025.8,0.73,2,36.47,53.81,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/27/2020,Overcast throughout the day.,cloudy,0.11,0.0002,0.0013,0.16,rain,50.1,33.17,37.99,0.85,1029.4,0.92,2,36.75,50.1,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.14,0.0003,0.0012,0.08,rain,42.95,29.74,28.87,0.73,1037.8,0.63,2,31.5,42.95,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.17,0.0001,0.0006,0.07,snow,41.26,31.8,22.82,0.62,1045.8,0.33,2,29.74,41.26,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.2,0.0004,0.0016,0.1,rain,49.41,30.82,32.21,0.75,1038.7,0.5,3,31.8,49.41,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/30/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.23,0.0003,0.0011,0.09,rain,47.24,33.1,32.9,0.81,1034.3,0.76,3,30.82,47.24,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,3/31/2020,Overcast throughout the day.,cloudy,0.26,0.0004,0.0013,0.11,rain,45.36,39.48,34.38,0.8,1022.3,0.89,3,33.1,45.36,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0014,0.0047,0.2,rain,42.44,29.44,34.11,0.81,1011.7,0.71,3,32.0,42.44,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/2/2020,Possible drizzle in the afternoon and evening.,rain,0.34,0.0041,0.0134,0.7,rain,42.55,36.02,32.43,0.85,1013.7,0.92,3,29.44,42.55,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/3/2020,Overcast throughout the day.,cloudy,0.37,0.0008,0.0044,0.23,rain,43.36,38.56,37.56,0.89,1014.7,0.98,3,36.02,45.39,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/4/2020,Light rain and windy overnight.,rain,0.41,0.0001,0.0069,0.29,rain,59.14,42.0,40.15,0.73,1008.0,0.65,4,38.56,59.14,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/5/2020,Light rain in the morning.,rain,0.45,0.0105,0.0459,0.85,rain,49.24,33.67,41.2,0.87,1010.4,0.69,3,38.22,52.35,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0,0.0003,0.04,,51.82,35.24,35.75,0.8,1026.6,0.71,3,33.67,51.82,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.53,0.0001,0.0005,0.03,rain,57.5,40.85,39.18,0.79,1024.4,0.57,4,35.24,57.5,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/8/2020,Overcast throughout the day.,cloudy,0.57,0.0005,0.0027,0.12,rain,53.55,39.55,41.79,0.86,1027.0,0.99,3,40.85,53.55,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/9/2020,Overcast throughout the day.,cloudy,0.61,0.0011,0.0086,0.12,rain,62.24,45.78,45.57,0.85,1023.7,1.0,3,39.55,62.24,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/10/2020,Mostly cloudy throughout the day.,cloudy,0.64,0.0005,0.0026,0.15,rain,57.77,42.61,44.83,0.83,1019.9,0.89,3,44.63,57.77,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/11/2020,Overcast throughout the day.,cloudy,0.68,0.0005,0.0025,0.13,rain,48.44,32.57,38.56,0.81,1017.3,1.0,3,37.7,48.44,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0004,0.04,rain,48.45,27.49,26.32,0.62,1030.7,0.42,4,32.57,48.45,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.0001,0.0003,0.04,rain,52.1,31.27,31.05,0.72,1027.5,0.67,4,27.49,52.1,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.01,rain,58.11,37.91,37.06,0.78,1022.1,0.5,4,31.27,58.11,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/15/2020,Overcast throughout the day.,partly-cloudy-day,0.81,0.0001,0.0003,0.03,rain,52.96,36.01,39.52,0.82,1019.3,0.76,3,37.91,52.96,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.0001,0.0003,0.04,rain,49.66,33.08,35.8,0.79,1021.4,0.73,3,35.93,49.66,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/17/2020,Clear throughout the day.,partly-cloudy-day,0.87,0.0001,0.0002,0.03,rain,53.19,33.87,33.57,0.74,1021.7,0.32,4,33.08,53.19,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/18/2020,Clear throughout the day.,clear-day,0.9,0.0003,0.0021,0.02,rain,57.22,32.58,33.38,0.68,1023.9,0.29,5,33.87,57.22,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/19/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0004,0.02,rain,55.86,37.16,30.66,0.64,1025.9,0.03,5,32.58,55.86,55.3781,-3.4360000000000004
+United Kingdom,United Kingdom,4/20/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0004,0.02,rain,57.84,37.29,35.27,0.67,1025.9,0.0,5,37.16,57.84,55.3781,-3.4360000000000004

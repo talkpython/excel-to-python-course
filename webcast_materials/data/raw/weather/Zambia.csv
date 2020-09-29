@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Zambia,,12/31/2019,Possible light rain in the morning and afternoon.,rain,0.21,0.0116,0.0353,0.78,rain,81.38,65.88,66.45,0.82,1009.1,0.9,6,65.16,81.38,-15.4167,28.2833
+Zambia,,1/1/2020,Possible light rain overnight.,rain,0.24,0.01,0.0308,0.57,rain,83.53,65.24,65.23,0.75,1009.2,0.98,6,66.1,83.53,-15.4167,28.2833
+Zambia,,1/2/2020,Possible light rain in the morning and afternoon.,rain,0.27,0.0166,0.0462,0.73,rain,79.53,64.17,67.11,0.88,1010.6,0.92,8,65.24,79.53,-15.4167,28.2833
+Zambia,,1/3/2020,Overcast throughout the day.,rain,0.3,0.0151,0.0442,0.62,rain,82.44,64.99,65.79,0.8,1010.4,0.93,9,64.17,82.44,-15.4167,28.2833
+Zambia,,1/4/2020,Possible light rain until evening.,rain,0.33,0.0116,0.0304,0.7,rain,79.94,64.45,66.33,0.86,1010.0,0.99,6,64.99,79.94,-15.4167,28.2833
+Zambia,,1/5/2020,Possible light rain in the afternoon.,rain,0.36,0.015,0.0489,0.7,rain,80.74,64.37,65.85,0.84,1009.0,0.96,7,64.45,80.74,-15.4167,28.2833
+Zambia,,1/6/2020,Light rain in the morning and afternoon.,rain,0.39,0.0132,0.0437,0.77,rain,78.54,65.03,65.58,0.87,1010.9,0.97,7,64.37,78.54,-15.4167,28.2833
+Zambia,,1/7/2020,Rain starting in the afternoon.,rain,0.43,0.0301,0.1414,0.65,rain,82.47,64.36,64.92,0.8,1011.3,0.96,7,65.03,82.47,-15.4167,28.2833
+Zambia,,1/8/2020,Possible light rain in the morning and afternoon.,rain,0.46,0.0132,0.0627,0.76,rain,76.56,63.18,67.93,0.94,1011.0,0.93,7,64.36,76.56,-15.4167,28.2833
+Zambia,,1/9/2020,Rain in the afternoon and evening.,rain,0.5,0.0303,0.1765,0.79,rain,79.15,63.16,67.97,0.93,1009.2,0.99,6,63.18,79.15,-15.4167,28.2833
+Zambia,,1/10/2020,"Light rain until afternoon, starting again overnight.",rain,0.54,0.0133,0.0939,0.83,rain,73.67,61.98,66.15,0.96,1011.5,0.99,6,63.16,73.67,-15.4167,28.2833
+Zambia,,1/11/2020,Possible drizzle in the morning and afternoon.,rain,0.57,0.0046,0.0124,0.79,rain,74.91,62.07,66.25,0.95,1011.9,0.94,6,61.98,74.91,-15.4167,28.2833
+Zambia,,1/12/2020,Possible light rain until evening.,rain,0.61,0.0156,0.069,0.81,rain,74.21,63.31,66.22,0.95,1009.8,0.98,6,62.07,74.21,-15.4167,28.2833
+Zambia,,1/13/2020,Possible light rain until evening.,rain,0.65,0.0143,0.0622,0.76,rain,76.32,62.86,66.59,0.94,1009.6,0.93,7,63.31,76.32,-15.4167,28.2833
+Zambia,,1/14/2020,Light rain throughout the day.,rain,0.69,0.0257,0.0776,0.89,rain,72.44,62.81,66.59,0.99,1011.2,0.94,6,62.86,72.44,-15.4167,28.2833
+Zambia,,1/15/2020,Light rain and humid throughout the day.,rain,0.72,0.0234,0.094,0.83,rain,72.6,64.57,67.26,0.99,1010.9,0.94,7,62.7,72.6,-15.4167,28.2833
+Zambia,,1/16/2020,Rain and humid throughout the day.,rain,0.76,0.0283,0.1032,0.83,rain,74.41,64.56,67.94,0.98,1008.5,0.99,7,64.57,74.41,-15.4167,28.2833
+Zambia,,1/17/2020,Possible light rain in the morning and afternoon.,rain,0.79,0.0181,0.0653,0.8,rain,74.01,65.51,68.63,0.99,1007.6,0.99,7,64.56,74.01,-15.4167,28.2833
+Zambia,,1/18/2020,Humid and mostly cloudy throughout the day.,rain,0.83,0.0112,0.0562,0.5,rain,78.33,65.28,67.97,0.9,1007.5,0.83,9,65.51,78.33,-15.4167,28.2833
+Zambia,,1/19/2020,Possible light rain in the evening and overnight.,rain,0.86,0.006,0.0181,0.54,rain,79.29,64.04,67.76,0.89,1008.8,0.83,8,65.28,79.29,-15.4167,28.2833
+Zambia,,1/20/2020,Possible light rain until evening.,rain,0.9,0.0204,0.07200000000000001,0.74,rain,72.0,63.63,67.37,0.99,1010.8,0.96,7,64.04,72.0,-15.4167,28.2833
+Zambia,,1/21/2020,Overcast throughout the day.,rain,0.93,0.0045,0.0125,0.5,rain,79.52,62.21,66.68,0.91,1010.4,0.89,7,63.63,79.52,-15.4167,28.2833
+Zambia,,1/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.96,0.0012,0.0059,0.14,rain,82.46,62.64,64.3,0.79,1010.1,0.55,10,62.21,82.46,-15.4167,28.2833
+Zambia,,1/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,1.0,0.0016,0.0111,0.14,rain,81.64,60.77,60.96,0.7,1012.5,0.57,8,62.64,81.64,-15.4167,28.2833
+Zambia,,1/24/2020,Clear throughout the day.,clear-day,0.03,0.0001,0.0004,0.07,rain,82.3,59.09,59.69,0.69,1013.3,0.28,13,60.77,82.3,-15.4167,28.2833
+Zambia,,1/25/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0004,0.08,rain,84.72,60.64,57.8,0.64,1011.8,0.04,14,59.09,84.72,-15.4167,28.2833
+Zambia,,1/26/2020,Clear throughout the day.,clear-day,0.09,0.0005,0.0038,0.1,rain,86.49,64.53,58.31,0.61,1010.9,0.04,15,60.64,86.49,-15.4167,28.2833
+Zambia,,1/27/2020,Possible light rain in the morning.,rain,0.12,0.0136,0.0421,0.63,rain,80.13,62.32,62.86,0.76,1011.3,0.31,14,64.53,80.13,-15.4167,28.2833
+Zambia,,1/28/2020,Overcast throughout the day.,rain,0.15,0.0017,0.013000000000000001,0.28,rain,80.18,62.96,60.06,0.69,1012.0,0.89,6,62.32,80.18,-15.4167,28.2833
+Zambia,,1/29/2020,Possible light rain until evening.,rain,0.18,0.0071,0.0168,0.77,rain,75.85,62.68,64.06,0.87,1013.4,0.75,7,62.96,75.85,-15.4167,28.2833
+Zambia,,1/30/2020,Light rain in the morning and afternoon.,rain,0.21,0.0116,0.0296,0.79,rain,69.57,60.61,64.14,0.97,1013.6,0.95,6,62.58,69.57,-15.4167,28.2833
+Zambia,,1/31/2020,Possible drizzle in the evening.,rain,0.24,0.0028,0.0141,0.42,rain,77.18,60.88,63.94,0.87,1012.8,0.62,7,60.61,77.18,-15.4167,28.2833
+Zambia,,2/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0003,0.001,0.2,rain,80.25,59.87,62.24,0.77,1013.4,0.45,11,60.88,80.25,-15.4167,28.2833
+Zambia,,2/2/2020,Partly cloudy throughout the day.,rain,0.3,0.0016,0.0064,0.33,rain,80.19,63.88,61.92,0.75,1013.0,0.56,13,59.87,80.19,-15.4167,28.2833
+Zambia,,2/3/2020,Possible light rain in the afternoon and evening.,rain,0.34,0.0069,0.0214,0.58,rain,80.59,64.04,64.21,0.78,1011.9,0.58,12,63.88,80.59,-15.4167,28.2833
+Zambia,,2/4/2020,Rain starting in the afternoon.,rain,0.37,0.0224,0.1311,0.77,rain,79.48,62.36,65.14,0.86,1011.4,0.84,8,64.04,79.48,-15.4167,28.2833
+Zambia,,2/5/2020,Light rain starting in the afternoon.,rain,0.41,0.0143,0.0604,0.81,rain,78.86,64.52,66.11,0.9,1011.0,0.98,7,62.36,78.86,-15.4167,28.2833
+Zambia,,2/6/2020,Light rain throughout the day.,rain,0.44,0.0339,0.0859,0.95,rain,76.39,64.1,66.71,0.94,1011.4,0.99,6,64.52,76.39,-15.4167,28.2833
+Zambia,,2/7/2020,Light rain throughout the day.,rain,0.48,0.0241,0.0746,0.93,rain,78.43,64.5,66.43,0.92,1011.3,1.0,6,64.1,78.43,-15.4167,28.2833
+Zambia,,2/8/2020,Rain and humid throughout the day.,rain,0.52,0.0255,0.2113,0.92,rain,75.76,64.18,66.75,0.94,1011.1,1.0,6,64.5,75.76,-15.4167,28.2833
+Zambia,,2/9/2020,Possible light rain throughout the day.,rain,0.56,0.0327,0.2226,0.92,rain,79.4,64.12,66.34,0.88,1010.2,0.83,9,64.18,79.4,-15.4167,28.2833
+Zambia,,2/10/2020,Possible light rain until evening.,rain,0.6,0.0107,0.0229,0.81,rain,79.95,63.2,66.69,0.89,1009.6,0.93,7,64.12,79.95,-15.4167,28.2833
+Zambia,,2/11/2020,Possible light rain in the afternoon and evening.,rain,0.63,0.0087,0.0325,0.72,rain,77.28,64.25,67.04,0.95,1008.9,0.99,6,63.2,77.28,-15.4167,28.2833
+Zambia,,2/12/2020,"Possible light rain until afternoon, starting again overnight.",rain,0.67,0.006999999999999999,0.0364,0.75,rain,75.33,63.71,66.24,0.94,1009.1,0.94,6,64.25,75.33,-15.4167,28.2833
+Zambia,,2/13/2020,Possible light rain throughout the day.,rain,0.71,0.009000000000000001,0.0247,0.78,rain,74.35,64.72,67.12,0.97,1008.5,0.88,6,63.71,74.35,-15.4167,28.2833
+Zambia,,2/14/2020,Possible light rain and humid throughout the day.,rain,0.74,0.0108,0.0628,0.77,rain,77.94,64.37,66.77,0.93,1010.2,0.99,6,64.72,77.94,-15.4167,28.2833
+Zambia,,2/15/2020,Possible light rain in the morning and afternoon.,rain,0.78,0.0185,0.0694,0.78,rain,79.55,65.34,66.32,0.85,1011.7,0.98,6,64.37,79.55,-15.4167,28.2833
+Zambia,,2/16/2020,Rain in the afternoon and evening.,rain,0.81,0.0233,0.0987,0.66,rain,77.13,63.46,67.42,0.92,1011.6,0.82,10,65.34,77.13,-15.4167,28.2833
+Zambia,,2/17/2020,Partly cloudy throughout the day.,rain,0.85,0.0065,0.0193,0.58,rain,80.66,63.89,67.1,0.88,1011.6,0.57,10,63.46,80.66,-15.4167,28.2833
+Zambia,,2/18/2020,Clear throughout the day.,rain,0.88,0.0046,0.0153,0.48,rain,79.34,62.82,66.36,0.87,1012.2,0.21,10,63.89,79.34,-15.4167,28.2833
+Zambia,,2/19/2020,Partly cloudy throughout the day.,rain,0.91,0.0085,0.0325,0.57,rain,79.04,63.2,65.68,0.86,1011.7,0.38,12,62.82,79.04,-15.4167,28.2833
+Zambia,,2/20/2020,Partly cloudy throughout the day.,rain,0.94,0.0085,0.0292,0.4,rain,80.74,64.42,66.05,0.82,1010.6,0.49,11,63.2,80.74,-15.4167,28.2833
+Zambia,,2/21/2020,Partly cloudy throughout the day.,rain,0.97,0.0058,0.0267,0.38,rain,82.85,66.43,66.62,0.79,1008.9,0.5,14,64.42,82.85,-15.4167,28.2833
+Zambia,,2/22/2020,Rain starting in the afternoon.,rain,0.0,0.0352,0.1167,0.75,rain,83.27,65.97,68.09,0.81,1007.9,0.94,7,66.43,83.27,-15.4167,28.2833
+Zambia,,2/23/2020,Light rain until evening.,rain,0.03,0.034,0.0835,0.91,rain,73.14,64.41,67.2,0.98,1011.7,1.0,6,65.04,73.14,-15.4167,28.2833
+Zambia,,2/24/2020,Possible light rain in the morning and afternoon.,rain,0.07,0.0053,0.0201,0.63,rain,72.09,61.94,66.09,0.96,1012.4,0.81,6,64.18,72.09,-15.4167,28.2833
+Zambia,,2/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0002,0.0006,0.13,rain,77.29,60.12,62.57,0.83,1012.1,0.69,10,61.94,77.29,-15.4167,28.2833
+Zambia,,2/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0004,0.0023,0.13,rain,80.93,60.89,62.7,0.79,1011.1,0.68,8,60.12,80.93,-15.4167,28.2833
+Zambia,,2/27/2020,Possible light rain starting in the afternoon.,rain,0.16,0.025,0.0924,0.66,rain,83.65,63.71,64.32,0.83,1011.4,0.67,10,60.89,83.65,-15.4167,28.2833
+Zambia,,2/28/2020,Possible light rain in the afternoon.,rain,0.19,0.0103,0.0224,0.65,rain,79.64,62.48,65.31,0.88,1012.1,0.72,6,63.71,79.64,-15.4167,28.2833
+Zambia,,2/29/2020,Overcast throughout the day.,rain,0.22,0.002,0.0115,0.27,rain,78.63,60.99,61.89,0.78,1012.9,0.81,6,62.48,78.63,-15.4167,28.2833
+Zambia,,3/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.25,0.0003,0.0007,0.14,rain,76.97,59.88,62.1,0.83,1012.7,0.7,8,60.99,76.97,-15.4167,28.2833
+Zambia,,3/2/2020,Light rain starting in the afternoon.,rain,0.28,0.0145,0.0676,0.65,rain,76.95,62.25,63.52,0.88,1013.1,0.59,9,59.88,76.95,-15.4167,28.2833
+Zambia,,3/3/2020,Possible light rain until evening.,rain,0.32,0.0137,0.0616,0.86,rain,70.52,60.7,63.74,0.95,1015.1,0.97,6,62.25,70.52,-15.4167,28.2833
+Zambia,,3/4/2020,Possible drizzle in the afternoon and evening.,rain,0.35,0.0031,0.0113,0.45,rain,71.78,57.02,63.04,0.93,1015.1,0.79,7,60.7,71.78,-15.4167,28.2833
+Zambia,,3/5/2020,Clear throughout the day.,clear-day,0.39,0.0004,0.002,0.19,rain,76.24,60.41,60.15,0.79,1014.1,0.21,15,57.02,76.24,-15.4167,28.2833
+Zambia,,3/6/2020,Partly cloudy throughout the day.,clear-day,0.42,0.0004,0.0016,0.14,rain,76.54,61.53,61.87,0.81,1013.4,0.31,9,60.41,76.54,-15.4167,28.2833
+Zambia,,3/7/2020,Clear throughout the day.,clear-day,0.46,0.0002,0.0008,0.15,rain,78.12,60.59,62.78,0.82,1013.0,0.23,13,61.53,78.12,-15.4167,28.2833
+Zambia,,3/8/2020,Partly cloudy throughout the day.,clear-day,0.5,0.0018,0.0068,0.24,rain,79.42,60.85,62.91,0.8,1011.2,0.27,8,60.59,79.42,-15.4167,28.2833
+Zambia,,3/9/2020,Mostly cloudy throughout the day.,rain,0.54,0.0047,0.0156,0.3,rain,80.32,61.79,62.52,0.78,1010.5,0.63,10,60.85,80.32,-15.4167,28.2833
+Zambia,,3/10/2020,Overcast throughout the day.,partly-cloudy-day,0.58,0.0004,0.0041,0.14,rain,80.75,62.15,62.64,0.77,1010.5,0.76,6,61.79,80.75,-15.4167,28.2833
+Zambia,,3/11/2020,Overcast throughout the day.,cloudy,0.62,0.0004,0.0018,0.13,rain,80.99,64.73,63.08,0.77,1010.8,0.93,7,62.15,80.99,-15.4167,28.2833
+Zambia,,3/12/2020,Possible light rain in the afternoon and evening.,rain,0.66,0.0067,0.0252,0.62,rain,78.48,61.94,65.18,0.82,1011.3,0.95,6,64.73,78.48,-15.4167,28.2833
+Zambia,,3/13/2020,Mostly cloudy throughout the day.,rain,0.69,0.0013,0.0046,0.27,rain,81.44,62.99,61.41,0.72,1011.9,0.7,8,61.94,81.44,-15.4167,28.2833
+Zambia,,3/14/2020,Possible light rain in the afternoon and evening.,rain,0.73,0.0145,0.0886,0.68,rain,79.2,63.4,66.08,0.84,1010.5,0.82,8,62.99,79.2,-15.4167,28.2833
+Zambia,,3/15/2020,Light rain in the morning and afternoon.,rain,0.76,0.0165,0.0538,0.85,rain,75.92,64.52,65.7,0.87,1010.1,0.93,6,63.4,75.92,-15.4167,28.2833
+Zambia,,3/16/2020,Possible light rain in the morning and afternoon.,rain,0.8,0.006999999999999999,0.0318,0.78,rain,76.22,62.81,63.55,0.84,1011.8,0.98,6,64.52,76.22,-15.4167,28.2833
+Zambia,,3/17/2020,Overcast throughout the day.,rain,0.83,0.0007,0.0063,0.26,rain,77.13,60.11,62.21,0.79,1012.9,0.91,6,62.81,77.13,-15.4167,28.2833
+Zambia,,3/18/2020,Mostly cloudy throughout the day.,rain,0.86,0.0022,0.0148,0.37,rain,78.32,59.91,61.52,0.8,1012.6,0.8,6,60.11,78.32,-15.4167,28.2833
+Zambia,,3/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0002,0.0007,0.1,rain,78.52,64.92,61.55,0.78,1012.7,0.79,7,59.91,78.52,-15.4167,28.2833
+Zambia,,3/20/2020,Mostly cloudy throughout the day.,rain,0.92,0.0025,0.0157,0.4,rain,76.45,64.24,59.95,0.74,1012.5,0.77,6,64.92,76.45,-15.4167,28.2833
+Zambia,,3/21/2020,Overcast throughout the day.,rain,0.95,0.0009,0.0051,0.44,rain,77.1,63.08,62.22,0.8,1013.5,0.89,7,64.05,77.1,-15.4167,28.2833
+Zambia,,3/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.98,0.0001,0.0004,0.1,rain,77.78,60.4,60.54,0.74,1015.1,0.61,6,63.08,77.78,-15.4167,28.2833
+Zambia,,3/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0002,0.001,0.06,rain,80.78,61.76,60.94,0.73,1013.3,0.44,10,60.4,80.78,-15.4167,28.2833
+Zambia,,3/24/2020,Clear throughout the day.,clear-day,0.04,0.0004,0.0015,0.1,rain,82.2,62.19,61.17,0.71,1010.3,0.27,11,61.76,82.2,-15.4167,28.2833
+Zambia,,3/25/2020,Mostly cloudy throughout the day.,rain,0.07,0.0032,0.0172,0.32,rain,83.14,63.57,60.7,0.68,1008.6,0.73,8,62.19,83.14,-15.4167,28.2833
+Zambia,,3/26/2020,Rain in the morning and afternoon.,rain,0.1,0.0185,0.1201,0.69,rain,76.78,61.6,62.87,0.84,1011.7,0.92,6,63.43,76.78,-15.4167,28.2833
+Zambia,,3/27/2020,Clear throughout the day.,rain,0.13,0.0016,0.0047,0.31,rain,77.44,61.55,62.67,0.81,1013.7,0.42,11,61.6,77.44,-15.4167,28.2833
+Zambia,,3/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0001,0.0006,0.04,rain,79.68,60.71,59.33,0.7,1013.3,0.35,9,61.55,79.68,-15.4167,28.2833
+Zambia,,3/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0008,0.0044,0.13,rain,80.51,61.28,59.14,0.68,1011.8,0.56,11,60.71,80.51,-15.4167,28.2833
+Zambia,,3/30/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.07,rain,81.94,60.68,58.38,0.65,1012.2,0.55,8,61.28,81.94,-15.4167,28.2833
+Zambia,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.05,rain,83.89,63.45,57.23,0.62,1012.6,0.02,13,60.68,83.89,-15.4167,28.2833
+Zambia,,4/1/2020,Partly cloudy throughout the day.,clear-day,0.3,0.0001,0.0004,0.04,rain,79.24,60.77,56.73,0.63,1013.3,0.31,8,63.45,79.24,-15.4167,28.2833
+Zambia,,4/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.33,0.0005,0.0024,0.07,rain,77.39,59.92,58.0,0.71,1014.7,0.51,7,60.77,77.39,-15.4167,28.2833
+Zambia,,4/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0002,0.0006,0.09,rain,79.34,58.28,56.79,0.68,1014.8,0.33,10,59.92,79.34,-15.4167,28.2833
+Zambia,,4/4/2020,Partly cloudy throughout the day.,clear-day,0.41,0.0,0.0002,0.02,,81.53,62.94,54.86,0.61,1014.1,0.24,9,58.28,81.53,-15.4167,28.2833
+Zambia,,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0001,0.0003,0.04,rain,83.12,63.82,55.27,0.55,1012.5,0.42,10,62.94,83.12,-15.4167,28.2833
+Zambia,,4/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0,0.0003,0.04,,84.95,62.94,56.61,0.55,1011.7,0.56,7,63.82,84.95,-15.4167,28.2833
+Zambia,,4/7/2020,Partly cloudy throughout the day.,clear-day,0.53,0.0008,0.0036,0.21,rain,83.89,63.55,59.88,0.66,1012.3,0.29,7,62.94,83.89,-15.4167,28.2833
+Zambia,,4/8/2020,Mostly cloudy throughout the day.,rain,0.57,0.0008,0.0051,0.31,rain,75.28,62.37,60.49,0.75,1015.6,0.48,6,63.55,75.28,-15.4167,28.2833
+Zambia,,4/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.0007,0.0024,0.18,rain,74.19,60.59,59.59,0.77,1016.3,0.57,6,62.37,74.19,-15.4167,28.2833
+Zambia,,4/10/2020,Overcast throughout the day.,cloudy,0.64,0.0002,0.0005,0.07,rain,76.25,57.86,58.57,0.76,1015.9,0.91,6,60.59,76.25,-15.4167,28.2833
+Zambia,,4/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0,0.0003,0.03,,81.88,59.4,56.89,0.67,1014.2,0.63,9,57.86,81.88,-15.4167,28.2833
+Zambia,,4/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0003,0.07,rain,83.9,65.2,56.5,0.61,1012.5,0.36,9,59.4,83.9,-15.4167,28.2833
+Zambia,,4/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.74,0.0017,0.0145,0.2,rain,85.22,62.64,57.02,0.56,1011.9,0.58,11,65.2,85.22,-15.4167,28.2833
+Zambia,,4/14/2020,Partly cloudy throughout the day.,rain,0.78,0.003,0.0139,0.26,rain,84.07,63.78,59.55,0.63,1011.9,0.45,10,62.64,84.07,-15.4167,28.2833
+Zambia,,4/15/2020,Clear throughout the day.,clear-day,0.81,0.0012,0.0082,0.17,rain,85.25,64.75,57.86,0.58,1012.0,0.22,11,63.78,85.25,-15.4167,28.2833
+Zambia,,4/16/2020,Clear throughout the day.,clear-day,0.84,0.0004,0.0016,0.08,rain,83.88,64.88,56.82,0.56,1012.1,0.15,9,64.75,83.88,-15.4167,28.2833
+Zambia,,4/17/2020,Partly cloudy throughout the day.,clear-day,0.87,0.0001,0.0004,0.06,rain,80.93,62.31,57.3,0.62,1015.5,0.25,8,64.88,80.93,-15.4167,28.2833
+Zambia,,4/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0004,0.002,0.08,rain,78.99,61.32,56.57,0.65,1017.1,0.47,7,62.31,78.99,-15.4167,28.2833
+Zambia,,4/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.93,0.0016,0.0049,0.21,rain,75.04,54.93,55.68,0.69,1015.7,0.65,6,60.16,75.04,-15.4167,28.2833
+Zambia,,4/20/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0003,0.04,rain,80.26,55.66,49.03,0.55,1015.2,0.22,11,54.93,80.26,-15.4167,28.2833

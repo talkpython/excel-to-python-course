@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Holy See,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.05,rain,57.35,33.51,28.26,0.6,1029.9,0.27,2,31.12,57.35,41.9029,12.4534
+Holy See,,1/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.06,rain,58.72,34.31,32.65,0.66,1030.9,0.01,1,33.51,58.72,41.9029,12.4534
+Holy See,,1/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.27,0.0001,0.0003,0.02,rain,57.46,38.31,34.23,0.7,1028.7,0.52,1,34.31,57.46,41.9029,12.4534
+Holy See,,1/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0001,0.0003,0.08,rain,59.26,38.26,40.25,0.79,1024.7,0.64,1,38.31,59.26,41.9029,12.4534
+Holy See,,1/4/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.04,rain,61.51,33.31,34.02,0.64,1026.1,0.05,1,38.26,61.51,41.9029,12.4534
+Holy See,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,55.28,30.9,26.58,0.55,1028.5,0.0,1,33.31,55.28,41.9029,12.4534
+Holy See,,1/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0001,0.0002,0.04,rain,53.55,35.55,23.77,0.52,1026.2,0.35,1,30.9,53.55,41.9029,12.4534
+Holy See,,1/7/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0002,0.04,,57.08,33.76,32.2,0.65,1028.4,0.22,1,35.55,57.08,41.9029,12.4534
+Holy See,,1/8/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0001,0.02,,57.92,35.12,33.57,0.71,1029.3,0.04,2,33.76,57.92,41.9029,12.4534
+Holy See,,1/9/2020,Partly cloudy throughout the day.,clear-day,0.5,0.0001,0.0004,0.05,rain,59.48,36.36,37.74,0.76,1026.0,0.29,1,35.12,59.48,41.9029,12.4534
+Holy See,,1/10/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0003,0.04,rain,59.02,36.47,37.08,0.74,1025.7,0.0,1,36.36,59.02,41.9029,12.4534
+Holy See,,1/11/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0003,0.07,rain,57.73,34.61,36.3,0.72,1026.3,0.01,2,36.47,57.73,41.9029,12.4534
+Holy See,,1/12/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0003,0.06,rain,58.96,41.12,36.94,0.74,1025.9,0.17,2,34.61,58.96,41.9029,12.4534
+Holy See,,1/13/2020,Clear throughout the day.,partly-cloudy-day,0.65,0.0,0.0002,0.01,,59.53,35.88,39.32,0.73,1026.3,0.41,2,41.12,59.53,41.9029,12.4534
+Holy See,,1/14/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.01,,59.26,36.11,36.26,0.72,1028.1,0.07,2,35.88,59.26,41.9029,12.4534
+Holy See,,1/15/2020,Overcast throughout the day.,partly-cloudy-day,0.72,0.0,0.0002,0.05,,57.8,35.44,36.47,0.74,1028.7,0.77,1,36.11,57.8,41.9029,12.4534
+Holy See,,1/16/2020,Possible drizzle overnight.,partly-cloudy-day,0.76,0.0001,0.0005,0.06,rain,58.49,44.22,37.65,0.75,1027.1,0.46,2,35.44,58.49,41.9029,12.4534
+Holy See,,1/17/2020,Light rain until evening.,rain,0.8,0.0132,0.0596,0.97,rain,57.37,39.84,44.63,0.84,1021.7,0.8,1,44.15,57.37,41.9029,12.4534
+Holy See,,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0007,0.0036,0.23,rain,57.09,41.96,41.38,0.8,1023.2,0.53,1,39.84,57.09,41.9029,12.4534
+Holy See,,1/19/2020,Overcast throughout the day.,partly-cloudy-day,0.87,0.0001,0.0027,0.11,rain,57.49,39.48,36.19,0.64,1033.0,0.84,1,41.96,57.49,41.9029,12.4534
+Holy See,,1/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0002,0.06,rain,59.58,37.87,35.81,0.65,1037.3,0.6,2,39.48,59.58,41.9029,12.4534
+Holy See,,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0,0.0001,0.03,,61.74,37.19,38.66,0.73,1033.7,0.5,2,37.87,61.74,41.9029,12.4534
+Holy See,,1/22/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0002,0.05,rain,61.54,37.81,39.09,0.75,1029.5,0.08,2,37.19,61.54,41.9029,12.4534
+Holy See,,1/23/2020,Possible light rain overnight.,partly-cloudy-day,1.0,0.0004,0.0045,0.2,rain,60.21,49.9,41.46,0.77,1026.9,0.38,2,37.81,60.21,41.9029,12.4534
+Holy See,,1/24/2020,Possible drizzle in the morning.,rain,0.03,0.006999999999999999,0.0253,0.82,rain,61.89,44.95,48.81,0.84,1022.7,0.6,2,48.81,61.89,41.9029,12.4534
+Holy See,,1/25/2020,Overcast throughout the day.,rain,0.06,0.0009,0.0029,0.35,rain,60.47,39.62,44.85,0.82,1020.3,0.65,2,44.61,60.47,41.9029,12.4534
+Holy See,,1/26/2020,Clear throughout the day.,clear-day,0.09,0.0002,0.001,0.16,rain,61.45,47.57,42.86,0.81,1020.8,0.2,2,39.62,61.45,41.9029,12.4534
+Holy See,,1/27/2020,Overcast throughout the day.,rain,0.12,0.0027,0.0061,0.57,rain,58.36,46.38,48.95,0.84,1015.7,0.94,2,49.11,58.36,41.9029,12.4534
+Holy See,,1/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.15,0.0009,0.0041,0.19,rain,63.42,39.83,45.76,0.78,1014.3,0.67,2,45.55,63.42,41.9029,12.4534
+Holy See,,1/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.18,0.0001,0.0003,0.08,rain,63.05,48.2,41.43,0.75,1020.8,0.34,2,39.83,63.05,41.9029,12.4534
+Holy See,,1/30/2020,Overcast throughout the day.,partly-cloudy-day,0.21,0.0001,0.0004,0.12,rain,60.68,47.91,46.73,0.78,1021.5,0.85,2,49.2,60.68,41.9029,12.4534
+Holy See,,1/31/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0003,0.0006,0.18,rain,60.21,50.07,48.89,0.86,1021.1,0.62,2,47.91,60.21,41.9029,12.4534
+Holy See,,2/1/2020,Overcast throughout the day.,rain,0.27,0.0008,0.0023,0.29,rain,64.34,47.01,50.93,0.85,1021.4,0.82,2,51.03,64.34,41.9029,12.4534
+Holy See,,2/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0001,0.0003,0.07,rain,67.81,47.07,49.96,0.83,1019.7,0.42,2,47.01,67.81,41.9029,12.4534
+Holy See,,2/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0007,0.0062,0.19,rain,66.4,41.63,45.5,0.74,1010.5,0.46,2,47.07,66.4,41.9029,12.4534
+Holy See,,2/4/2020,Windy in the evening and overnight.,wind,0.37,0.0007,0.0098,0.17,rain,56.48,40.69,24.23,0.4,1015.9,0.2,2,41.63,56.48,41.9029,12.4534
+Holy See,,2/5/2020,Clear throughout the day.,wind,0.41,0.0,0.0003,0.02,,57.59,32.02,15.83,0.3,1024.9,0.02,2,37.54,57.59,41.9029,12.4534
+Holy See,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.02,rain,60.12,32.41,19.85,0.41,1027.4,0.0,2,32.02,60.12,41.9029,12.4534
+Holy See,,2/7/2020,Clear throughout the day.,clear-day,0.48,0.0,0.0003,0.02,,61.89,38.0,27.38,0.52,1028.4,0.16,3,32.41,61.89,41.9029,12.4534
+Holy See,,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.52,0.0006,0.0048,0.12,rain,61.52,47.94,38.92,0.69,1031.0,0.67,3,38.0,61.52,41.9029,12.4534
+Holy See,,2/9/2020,Overcast throughout the day.,rain,0.56,0.0012,0.0032,0.33,rain,59.99,49.06,49.0,0.83,1024.3,0.97,3,47.94,59.99,41.9029,12.4534
+Holy See,,2/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.0,0.0002,0.06,,66.25,45.86,50.57,0.82,1015.9,0.62,3,49.06,66.25,41.9029,12.4534
+Holy See,,2/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.0001,0.0004,0.05,rain,66.37,41.88,43.56,0.71,1018.7,0.73,3,44.96,66.37,41.9029,12.4534
+Holy See,,2/12/2020,Possible drizzle overnight.,partly-cloudy-day,0.67,0.0004,0.0031,0.1,rain,61.95,49.06,42.87,0.75,1021.6,0.76,2,41.88,61.95,41.9029,12.4534
+Holy See,,2/13/2020,Light rain in the morning.,rain,0.71,0.0094,0.0581,0.74,rain,66.24,37.98,45.54,0.7,1018.3,0.35,2,45.77,66.24,41.9029,12.4534
+Holy See,,2/14/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.02,rain,66.4,37.34,35.86,0.6,1026.4,0.0,3,37.98,66.4,41.9029,12.4534
+Holy See,,2/15/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.05,rain,66.14,38.2,39.03,0.68,1029.2,0.02,3,37.34,66.14,41.9029,12.4534
+Holy See,,2/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0003,0.05,rain,64.18,40.75,40.44,0.72,1027.9,0.81,3,38.2,64.18,41.9029,12.4534
+Holy See,,2/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.85,0.0002,0.0004,0.07,rain,62.94,42.87,44.52,0.8,1024.6,0.44,3,40.75,62.94,41.9029,12.4534
+Holy See,,2/18/2020,Partly cloudy throughout the day.,rain,0.88,0.0033,0.0124,0.39,rain,60.97,39.77,45.6,0.83,1021.1,0.31,3,42.87,60.97,41.9029,12.4534
+Holy See,,2/19/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0004,0.08,rain,64.3,35.49,36.31,0.64,1023.1,0.01,3,39.77,64.3,41.9029,12.4534
+Holy See,,2/20/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.03,rain,64.45,39.27,36.85,0.66,1024.9,0.01,3,35.49,64.45,41.9029,12.4534
+Holy See,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0004,0.08,rain,64.87,40.07,40.12,0.7,1030.3,0.24,3,39.27,64.87,41.9029,12.4534
+Holy See,,2/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0001,0.0004,0.05,rain,64.76,49.62,44.37,0.79,1029.8,0.42,4,40.07,64.76,41.9029,12.4534
+Holy See,,2/23/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0005,0.05,rain,65.52,50.02,49.28,0.8,1022.4,0.3,4,50.22,65.52,41.9029,12.4534
+Holy See,,2/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0002,0.0005,0.08,rain,64.96,49.49,48.95,0.78,1014.7,0.59,3,50.02,64.96,41.9029,12.4534
+Holy See,,2/25/2020,Possible light rain in the evening.,rain,0.1,0.0066,0.0379,0.53,rain,61.94,36.66,44.36,0.71,1005.1,0.5,3,46.29,61.94,41.9029,12.4534
+Holy See,,2/26/2020,Light rain in the evening and overnight.,rain,0.13,0.0017,0.018000000000000002,0.47,rain,59.35,51.03,31.99,0.54,1012.7,0.38,3,36.66,59.35,41.9029,12.4534
+Holy See,,2/27/2020,Clear throughout the day.,rain,0.16,0.0023,0.0121,0.57,rain,64.61,38.4,35.89,0.53,1014.0,0.32,4,44.32,64.61,41.9029,12.4534
+Holy See,,2/28/2020,Overcast throughout the day.,partly-cloudy-day,0.19,0.0001,0.0007,0.03,rain,63.01,51.28,37.35,0.6,1018.1,0.64,3,38.4,63.01,41.9029,12.4534
+Holy See,,2/29/2020,Light rain in the afternoon and evening.,rain,0.22,0.0068,0.0327,0.82,rain,63.63,48.7,49.83,0.78,1010.0,0.87,3,51.28,63.63,41.9029,12.4534
+Holy See,,3/1/2020,Rain starting in the afternoon.,rain,0.25,0.0266,0.0999,0.97,rain,63.55,48.22,51.35,0.86,1005.0,0.55,3,48.7,63.55,41.9029,12.4534
+Holy See,,3/2/2020,Possible drizzle in the morning.,rain,0.28,0.0056,0.0137,0.79,rain,57.18,40.4,43.55,0.74,1002.5,0.74,2,45.41,57.18,41.9029,12.4534
+Holy See,,3/3/2020,Clear throughout the day.,clear-day,0.32,0.0003,0.0016,0.13,rain,61.63,36.52,40.81,0.73,1009.0,0.27,3,40.4,61.63,41.9029,12.4534
+Holy See,,3/4/2020,Light rain overnight.,rain,0.35,0.0005,0.016,0.25,rain,59.15,51.96,37.25,0.66,1011.1,0.4,4,36.52,59.15,41.9029,12.4534
+Holy See,,3/5/2020,Light rain in the morning.,rain,0.39,0.0172,0.0898,0.94,rain,59.51,40.74,48.14,0.81,1002.8,0.59,4,46.97,59.51,41.9029,12.4534
+Holy See,,3/6/2020,Possible drizzle in the morning and afternoon.,rain,0.43,0.0034,0.0098,0.69,rain,60.17,40.35,42.9,0.76,1008.6,0.35,3,40.74,60.17,41.9029,12.4534
+Holy See,,3/7/2020,Clear throughout the day.,clear-day,0.47,0.0001,0.0004,0.08,rain,63.36,36.12,36.15,0.59,1017.0,0.07,3,40.35,63.36,41.9029,12.4534
+Holy See,,3/8/2020,Overcast throughout the day.,rain,0.5,0.0018,0.0114,0.38,rain,60.12,37.28,36.6,0.65,1014.0,0.81,3,36.12,60.12,41.9029,12.4534
+Holy See,,3/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.54,0.0,0.0003,0.05,,64.48,39.82,37.91,0.64,1016.3,0.5,3,37.28,64.48,41.9029,12.4534
+Holy See,,3/10/2020,Clear throughout the day.,clear-day,0.58,0.0002,0.0004,0.04,rain,67.54,42.94,41.38,0.68,1021.4,0.12,5,39.82,67.54,41.9029,12.4534
+Holy See,,3/11/2020,Clear throughout the day.,clear-day,0.62,0.0002,0.0009,0.06,rain,66.87,47.04,46.26,0.77,1022.7,0.23,5,42.94,66.87,41.9029,12.4534
+Holy See,,3/12/2020,Overcast throughout the day.,cloudy,0.66,0.0003,0.0018,0.04,rain,64.86,49.4,49.16,0.82,1017.7,0.91,3,47.04,64.86,41.9029,12.4534
+Holy See,,3/13/2020,Overcast throughout the day.,rain,0.69,0.0006,0.0019,0.26,rain,62.51,45.5,50.58,0.85,1015.3,0.79,3,49.4,62.51,41.9029,12.4534
+Holy See,,3/14/2020,Clear throughout the day.,clear-day,0.73,0.0002,0.0006,0.06,rain,66.34,41.78,45.86,0.72,1018.7,0.22,5,45.5,66.34,41.9029,12.4534
+Holy See,,3/15/2020,Clear throughout the day.,clear-day,0.76,0.0,0.0,0.0,,65.61,42.04,40.62,0.64,1024.3,0.07,5,41.78,65.61,41.9029,12.4534
+Holy See,,3/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0001,0.0005,0.04,rain,67.02,42.02,42.86,0.69,1029.4,0.37,5,42.04,67.02,41.9029,12.4534
+Holy See,,3/17/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0003,0.02,,68.3,43.64,44.28,0.7,1026.2,0.18,5,42.02,68.3,41.9029,12.4534
+Holy See,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0003,0.01,rain,69.56,42.82,42.52,0.64,1024.5,0.01,5,43.64,69.56,41.9029,12.4534
+Holy See,,3/19/2020,Clear throughout the day.,clear-day,0.89,0.0,0.0002,0.02,,67.68,44.34,42.0,0.65,1022.6,0.04,5,42.82,67.68,41.9029,12.4534
+Holy See,,3/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.92,0.0001,0.0004,0.06,rain,67.08,46.83,43.01,0.66,1015.8,0.54,4,44.34,67.08,41.9029,12.4534
+Holy See,,3/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.95,0.0013,0.008,0.24,rain,68.02,46.0,46.54,0.7,1014.1,0.81,3,46.83,68.02,41.9029,12.4534
+Holy See,,3/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.98,0.0004,0.0041,0.08,rain,59.32,34.89,28.16,0.47,1019.6,0.42,4,39.55,59.32,41.9029,12.4534
+Holy See,,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.02,rain,53.51,31.09,19.02,0.38,1020.8,0.27,4,34.89,53.51,41.9029,12.4534
+Holy See,,3/24/2020,Light rain overnight.,rain,0.04,0.0008,0.0113,0.42,rain,58.35,40.72,24.93,0.5,1013.0,0.34,4,31.09,58.35,41.9029,12.4534
+Holy See,,3/25/2020,Light rain throughout the day.,rain,0.07,0.0154,0.0384,1.0,rain,54.18,46.01,41.84,0.82,1002.9,0.98,3,40.72,54.18,41.9029,12.4534
+Holy See,,3/26/2020,Possible drizzle in the morning.,rain,0.1,0.0024,0.0094,0.82,rain,60.65,45.57,45.75,0.77,1008.4,0.81,3,46.01,60.65,41.9029,12.4534
+Holy See,,3/27/2020,Possible drizzle in the afternoon.,rain,0.13,0.0031,0.0149,0.52,rain,61.85,44.67,46.75,0.79,1013.7,0.71,4,45.57,61.85,41.9029,12.4534
+Holy See,,3/28/2020,Clear throughout the day.,clear-day,0.17,0.0012,0.0053,0.18,rain,63.73,46.09,47.34,0.78,1013.7,0.21,5,44.67,63.73,41.9029,12.4534
+Holy See,,3/29/2020,Mostly cloudy throughout the day.,rain,0.2,0.0015,0.0096,0.33,rain,65.01,44.85,47.21,0.77,1012.7,0.46,4,46.09,65.01,41.9029,12.4534
+Holy See,,3/30/2020,Possible light rain in the afternoon.,rain,0.23,0.0025,0.017,0.54,rain,63.36,38.29,43.73,0.74,1015.4,0.65,5,44.85,63.36,41.9029,12.4534
+Holy See,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.01,rain,59.2,34.39,25.99,0.46,1016.8,0.07,5,38.29,59.2,41.9029,12.4534
+Holy See,,4/1/2020,Partly cloudy throughout the day.,clear-day,0.3,0.0001,0.0003,0.01,rain,59.05,38.24,32.07,0.57,1014.5,0.26,5,34.39,59.05,41.9029,12.4534
+Holy See,,4/2/2020,Clear throughout the day.,partly-cloudy-day,0.33,0.0001,0.0002,0.02,rain,65.44,40.25,37.44,0.63,1012.5,0.32,5,38.24,65.44,41.9029,12.4534
+Holy See,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0,0.0,0.0,,69.59,43.85,34.95,0.52,1015.8,0.0,5,40.25,69.59,41.9029,12.4534
+Holy See,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0002,0.01,,72.34,45.26,34.88,0.44,1018.6,0.13,5,43.85,72.34,41.9029,12.4534
+Holy See,,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0,0.0002,0.02,,71.01,45.7,38.89,0.52,1022.7,0.26,6,45.26,71.01,41.9029,12.4534
+Holy See,,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0,0.0,,70.25,46.22,42.21,0.58,1026.2,0.08,7,45.7,70.25,41.9029,12.4534
+Holy See,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0,0.0003,0.01,,71.53,45.71,43.06,0.6,1024.9,0.03,7,46.22,71.53,41.9029,12.4534
+Holy See,,4/8/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.04,rain,70.42,46.65,44.6,0.65,1022.5,0.02,6,45.71,70.42,41.9029,12.4534
+Holy See,,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0004,0.01,rain,72.77,48.12,44.39,0.62,1022.4,0.0,7,46.65,72.77,41.9029,12.4534
+Holy See,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.04,rain,74.15,49.47,45.34,0.6,1022.1,0.0,8,48.12,74.15,41.9029,12.4534
+Holy See,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0003,0.01,,74.03,51.41,47.93,0.63,1021.1,0.12,7,49.47,74.03,41.9029,12.4534
+Holy See,,4/12/2020,Overcast throughout the day.,cloudy,0.71,0.0001,0.0004,0.05,rain,70.83,54.27,47.33,0.63,1017.6,0.97,4,51.41,70.83,41.9029,12.4534
+Holy See,,4/13/2020,Possible light rain in the morning and afternoon.,rain,0.74,0.0065,0.0165,0.76,rain,59.75,44.57,49.85,0.79,1012.5,0.88,4,52.53,59.75,41.9029,12.4534
+Holy See,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0,0.0003,0.01,,66.97,42.56,40.29,0.6,1020.6,0.06,6,44.57,66.97,41.9029,12.4534
+Holy See,,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0002,0.01,rain,67.18,44.76,43.88,0.68,1023.3,0.35,6,42.56,67.18,41.9029,12.4534
+Holy See,,4/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.0001,0.0002,0.02,rain,69.03,51.65,48.52,0.75,1020.8,0.44,5,44.76,69.03,41.9029,12.4534
+Holy See,,4/17/2020,Possible drizzle overnight.,rain,0.87,0.0016,0.0138,0.29,rain,68.81,56.37,53.53,0.82,1018.8,0.77,5,51.65,68.81,41.9029,12.4534
+Holy See,,4/18/2020,Light rain overnight.,rain,0.9,0.0021,0.0154,0.37,rain,71.47,57.47,54.88,0.76,1014.8,0.94,5,56.37,71.47,41.9029,12.4534
+Holy See,,4/19/2020,Light rain throughout the day.,rain,0.93,0.0271,0.0712,1.0,rain,65.12,58.06,59.31,0.94,1008.3,0.98,4,57.47,65.12,41.9029,12.4534
+Holy See,,4/20/2020,Light rain throughout the day.,rain,0.96,0.0088,0.0395,0.99,rain,68.41,55.48,57.9,0.86,1005.9,0.93,4,58.06,68.41,41.9029,12.4534

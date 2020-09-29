@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Senegal,,1/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0002,0.03,rain,92.51,65.42,4.58,0.06,1013.3,0.66,6,69.62,92.51,14.4974,-14.4524
+Senegal,,1/2/2020,Overcast throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.02,rain,93.43,67.96,0.23,0.05,1013.8,0.66,5,65.42,93.43,14.4974,-14.4524
+Senegal,,1/3/2020,Overcast throughout the day.,partly-cloudy-day,0.27,0.0001,0.0004,0.02,rain,91.13,64.74,1.29,0.05,1014.3,0.85,5,67.96,91.13,14.4974,-14.4524
+Senegal,,1/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0002,0.0004,0.03,rain,90.61,61.58,0.76,0.06,1015.2,0.47,7,64.74,90.61,14.4974,-14.4524
+Senegal,,1/5/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.01,rain,90.99,58.33,2.7,0.07,1013.8,0.13,8,61.58,90.99,14.4974,-14.4524
+Senegal,,1/6/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,89.18,58.58,5.44,0.08,1013.4,0.21,8,58.33,89.18,14.4974,-14.4524
+Senegal,,1/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.4,0.0,0.0,0.0,,87.69,57.86,4.33,0.08,1013.1,0.73,7,58.58,87.69,14.4974,-14.4524
+Senegal,,1/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0,0.0002,0.01,,89.46,61.81,5.96,0.08,1013.6,0.57,7,57.86,89.46,14.4974,-14.4524
+Senegal,,1/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.0,0.0,0.0,,91.36,60.43,1.89,0.06,1014.7,0.68,8,61.81,91.36,14.4974,-14.4524
+Senegal,,1/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.0001,0.0004,0.04,rain,93.24,63.22,1.66,0.06,1015.1,0.47,7,60.43,93.24,14.4974,-14.4524
+Senegal,,1/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0001,0.0003,0.04,rain,94.87,65.94,7.91,0.07,1014.5,0.69,6,63.22,94.87,14.4974,-14.4524
+Senegal,,1/12/2020,Clear throughout the day.,partly-cloudy-day,0.58,0.0001,0.0003,0.08,rain,95.75,64.92,1.59,0.05,1014.0,0.44,8,65.94,95.75,14.4974,-14.4524
+Senegal,,1/13/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0004,0.03,rain,93.56,62.43,2.21,0.05,1013.1,0.02,9,64.92,93.56,14.4974,-14.4524
+Senegal,,1/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0,0.0,0.0,,92.83,61.89,11.53,0.09,1012.0,0.5,8,62.43,92.83,14.4974,-14.4524
+Senegal,,1/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0,0.0001,0.03,,92.6,64.92,-0.04,0.06,1013.4,0.72,6,61.89,92.6,14.4974,-14.4524
+Senegal,,1/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0001,0.0002,0.05,rain,95.97,64.5,-6.65,0.04,1014.0,0.6,7,63.95,95.97,14.4974,-14.4524
+Senegal,,1/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.0001,0.0004,0.05,rain,94.97,66.21,-3.13,0.04,1014.6,0.59,7,64.5,94.97,14.4974,-14.4524
+Senegal,,1/18/2020,Clear throughout the day.,clear-day,0.8,0.0,0.0002,0.02,,96.64,67.88,5.09,0.06,1013.6,0.26,9,66.21,96.64,14.4974,-14.4524
+Senegal,,1/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0002,0.01,,98.07,65.03,9.93,0.07,1012.1,0.41,9,67.88,98.07,14.4974,-14.4524
+Senegal,,1/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0,0.0002,0.02,,99.36,66.56,13.79,0.09,1009.6,0.43,8,65.03,99.36,14.4974,-14.4524
+Senegal,,1/21/2020,Overcast throughout the day.,cloudy,0.9,0.0001,0.0002,0.05,rain,99.0,70.69,18.44,0.1,1010.5,0.97,5,66.56,99.0,14.4974,-14.4524
+Senegal,,1/22/2020,Overcast throughout the day.,cloudy,0.93,0.0,0.0001,0.03,,97.3,75.52,19.29,0.1,1011.8,0.96,5,70.69,97.3,14.4974,-14.4524
+Senegal,,1/23/2020,Overcast throughout the day.,cloudy,0.97,0.0002,0.0033,0.08,rain,97.72,75.58,27.2,0.12,1012.4,0.99,5,75.52,97.72,14.4974,-14.4524
+Senegal,,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,1.0,0.0001,0.0006,0.07,rain,101.71,74.72,43.13,0.22,1012.0,0.8,7,75.58,101.71,14.4974,-14.4524
+Senegal,,1/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0003,0.05,rain,102.44,70.14,26.16,0.15,1012.2,0.76,7,74.72,102.44,14.4974,-14.4524
+Senegal,,1/26/2020,Overcast throughout the day.,cloudy,0.06,0.0001,0.0004,0.03,rain,100.88,74.38,17.13,0.09,1012.9,0.93,5,70.14,100.88,14.4974,-14.4524
+Senegal,,1/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.09,0.0001,0.0004,0.05,rain,103.93,69.29,13.44,0.07,1011.3,0.69,6,74.38,103.93,14.4974,-14.4524
+Senegal,,1/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.12,0.0001,0.0002,0.04,rain,103.67,69.65,7.79,0.05,1010.8,0.58,6,69.29,103.67,14.4974,-14.4524
+Senegal,,1/29/2020,Clear throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.07,rain,102.92,73.64,4.56,0.05,1012.1,0.47,8,69.65,102.92,14.4974,-14.4524
+Senegal,,1/30/2020,Windy in the morning.,wind,0.18,0.0001,0.0003,0.08,rain,103.54,72.98,10.45,0.06,1013.4,0.14,9,73.64,103.54,14.4974,-14.4524
+Senegal,,1/31/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.06,rain,103.33,69.8,8.92,0.06,1013.3,0.0,10,72.98,103.33,14.4974,-14.4524
+Senegal,,2/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.04,rain,105.74,65.47,7.51,0.05,1011.6,0.0,10,69.8,105.74,14.4974,-14.4524
+Senegal,,2/2/2020,Partly cloudy throughout the day.,clear-day,0.28,0.0,0.0002,0.02,,103.42,70.69,35.9,0.19,1011.7,0.31,7,65.47,103.42,14.4974,-14.4524
+Senegal,,2/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0001,0.0003,0.04,rain,102.39,71.15,31.06,0.26,1013.3,0.5,8,70.69,102.39,14.4974,-14.4524
+Senegal,,2/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0003,0.05,rain,101.37,66.95,3.42,0.05,1013.1,0.44,8,71.15,101.37,14.4974,-14.4524
+Senegal,,2/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0003,0.06,rain,102.12,65.31,-6.58,0.03,1012.2,0.48,9,66.95,102.12,14.4974,-14.4524
+Senegal,,2/6/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.03,,101.84,67.52,-3.09,0.04,1011.8,0.01,10,65.31,101.84,14.4974,-14.4524
+Senegal,,2/7/2020,Clear throughout the day.,clear-day,0.45,0.0001,0.0003,0.05,rain,100.92,67.28,-0.72,0.04,1013.1,0.04,10,67.52,100.92,14.4974,-14.4524
+Senegal,,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.0001,0.0003,0.03,rain,99.21,66.81,-0.04,0.04,1013.3,0.41,7,67.28,99.21,14.4974,-14.4524
+Senegal,,2/9/2020,Clear throughout the day.,partly-cloudy-day,0.52,0.0001,0.0003,0.02,rain,99.28,64.46,6.74,0.06,1013.1,0.37,9,66.81,99.28,14.4974,-14.4524
+Senegal,,2/10/2020,Clear throughout the day.,clear-day,0.56,0.0001,0.0004,0.04,rain,100.58,66.75,7.51,0.06,1013.0,0.01,9,64.46,100.58,14.4974,-14.4524
+Senegal,,2/11/2020,Clear throughout the day.,clear-day,0.6,0.0,0.0002,0.01,,102.62,68.79,6.35,0.05,1012.6,0.0,10,66.75,102.62,14.4974,-14.4524
+Senegal,,2/12/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.05,rain,103.69,76.52,24.87,0.12,1012.1,0.0,10,68.79,103.69,14.4974,-14.4524
+Senegal,,2/13/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.05,rain,103.79,73.21,23.87,0.11,1011.7,0.03,10,76.52,103.79,14.4974,-14.4524
+Senegal,,2/14/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.06,rain,104.12,74.8,11.74,0.06,1010.9,0.29,10,73.21,104.12,14.4974,-14.4524
+Senegal,,2/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.0001,0.0003,0.04,rain,104.01,74.99,17.0,0.07,1010.5,0.86,6,74.8,104.01,14.4974,-14.4524
+Senegal,,2/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.05,rain,105.61,78.42,12.29,0.06,1010.5,0.83,7,74.99,105.61,14.4974,-14.4524
+Senegal,,2/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.82,0.0001,0.0003,0.05,rain,104.75,73.93,12.12,0.06,1010.7,0.62,9,78.42,104.75,14.4974,-14.4524
+Senegal,,2/18/2020,Clear throughout the day.,clear-day,0.85,0.0002,0.0004,0.06,rain,105.88,71.3,6.7,0.05,1010.9,0.17,11,73.93,105.88,14.4974,-14.4524
+Senegal,,2/19/2020,Clear throughout the day.,clear-day,0.88,0.0,0.0001,0.02,,106.12,70.46,11.35,0.06,1008.8,0.22,10,71.3,106.12,14.4974,-14.4524
+Senegal,,2/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.91,0.0001,0.0004,0.04,rain,103.94,72.99,12.61,0.06,1007.8,0.52,8,70.46,103.94,14.4974,-14.4524
+Senegal,,2/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0001,0.0003,0.05,rain,105.63,69.73,15.66,0.07,1008.0,0.82,6,72.99,105.63,14.4974,-14.4524
+Senegal,,2/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.98,0.0002,0.0004,0.07,rain,105.56,74.91,22.4,0.12,1009.4,0.76,8,69.73,105.56,14.4974,-14.4524
+Senegal,,2/23/2020,Mostly cloudy throughout the day.,cloudy,0.01,0.0019,0.0102,0.1,rain,102.25,81.2,40.26,0.2,1010.6,0.88,6,74.91,102.25,14.4974,-14.4524
+Senegal,,2/24/2020,Mostly cloudy throughout the day.,cloudy,0.04,0.0001,0.0004,0.04,rain,106.52,86.19,28.03,0.14,1010.3,0.91,7,81.2,106.52,14.4974,-14.4524
+Senegal,,2/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.06,rain,106.44,79.88,10.95,0.05,1009.3,0.45,10,86.19,106.44,14.4974,-14.4524
+Senegal,,2/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0003,0.04,rain,106.2,74.85,13.69,0.06,1009.6,0.01,11,79.88,106.2,14.4974,-14.4524
+Senegal,,2/27/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0004,0.04,rain,105.73,68.87,10.17,0.05,1010.0,0.0,11,74.85,105.73,14.4974,-14.4524
+Senegal,,2/28/2020,Clear throughout the day.,clear-day,0.16,0.0001,0.0004,0.03,rain,104.9,70.44,0.66,0.04,1010.9,0.04,11,68.87,104.9,14.4974,-14.4524
+Senegal,,2/29/2020,Clear throughout the day.,clear-day,0.19,0.0001,0.0004,0.03,rain,104.73,70.62,-6.49,0.03,1010.7,0.18,11,70.44,104.73,14.4974,-14.4524
+Senegal,,3/1/2020,Clear throughout the day.,clear-day,0.22,0.0001,0.0004,0.03,rain,105.2,69.19,-9.78,0.02,1010.0,0.06,11,70.62,105.2,14.4974,-14.4524
+Senegal,,3/2/2020,Clear throughout the day.,clear-day,0.25,0.0001,0.0003,0.03,rain,105.69,69.94,-5.67,0.03,1011.0,0.01,11,69.19,105.69,14.4974,-14.4524
+Senegal,,3/3/2020,Clear throughout the day.,clear-day,0.28,0.0001,0.0002,0.02,rain,106.81,69.71,-2.79,0.03,1011.4,0.0,12,69.94,106.81,14.4974,-14.4524
+Senegal,,3/4/2020,Clear throughout the day.,clear-day,0.32,0.0,0.0002,0.01,,108.43,70.73,-3.11,0.03,1011.0,0.0,12,69.71,108.43,14.4974,-14.4524
+Senegal,,3/5/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0003,0.02,rain,108.72,69.04,-3.5,0.03,1010.2,0.0,12,70.73,108.72,14.4974,-14.4524
+Senegal,,3/6/2020,Clear throughout the day.,clear-day,0.39,0.0,0.0002,0.01,,108.51,67.31,1.31,0.04,1008.7,0.0,12,69.04,108.51,14.4974,-14.4524
+Senegal,,3/7/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0003,0.02,,107.46,67.59,3.14,0.04,1008.1,0.02,12,67.31,107.46,14.4974,-14.4524
+Senegal,,3/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0001,0.0004,0.03,rain,107.27,70.97,15.2,0.08,1008.7,0.54,8,67.59,107.27,14.4974,-14.4524
+Senegal,,3/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.51,0.0001,0.0004,0.06,rain,107.47,69.48,5.48,0.05,1009.2,0.85,6,70.97,107.47,14.4974,-14.4524
+Senegal,,3/10/2020,Clear throughout the day.,clear-day,0.55,0.0,0.0001,0.02,,106.25,68.84,8.51,0.06,1009.1,0.24,11,69.48,106.25,14.4974,-14.4524
+Senegal,,3/11/2020,Clear throughout the day.,clear-day,0.58,0.0002,0.0004,0.06,rain,105.91,73.29,9.77,0.06,1009.4,0.0,12,68.84,105.91,14.4974,-14.4524
+Senegal,,3/12/2020,Clear throughout the day.,clear-day,0.62,0.0002,0.0004,0.04,rain,105.88,73.52,8.33,0.05,1009.3,0.0,12,73.29,105.88,14.4974,-14.4524
+Senegal,,3/13/2020,Clear throughout the day.,clear-day,0.66,0.0,0.0003,0.01,,105.63,72.77,9.8,0.05,1009.6,0.01,12,73.52,105.63,14.4974,-14.4524
+Senegal,,3/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.7,0.0001,0.0003,0.02,rain,103.95,68.52,12.55,0.07,1010.5,0.4,11,72.77,103.95,14.4974,-14.4524
+Senegal,,3/15/2020,Clear throughout the day.,clear-day,0.73,0.0001,0.0003,0.01,rain,103.66,65.55,27.83,0.17,1010.1,0.3,10,68.52,103.66,14.4974,-14.4524
+Senegal,,3/16/2020,Partly cloudy throughout the day.,clear-day,0.77,0.0,0.0,0.0,,103.19,66.49,19.41,0.13,1008.9,0.19,10,65.55,103.19,14.4974,-14.4524
+Senegal,,3/17/2020,Clear throughout the day.,clear-day,0.8,0.0001,0.0004,0.02,rain,104.03,67.72,16.17,0.08,1008.6,0.08,12,66.49,104.03,14.4974,-14.4524
+Senegal,,3/18/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0,0.0,,103.54,67.2,29.86,0.17,1009.4,0.0,13,67.72,103.54,14.4974,-14.4524
+Senegal,,3/19/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0003,0.01,rain,103.33,71.26,33.59,0.2,1009.8,0.17,11,67.2,103.33,14.4974,-14.4524
+Senegal,,3/20/2020,Clear throughout the day.,clear-day,0.89,0.0,0.0002,0.02,,104.6,75.13,29.1,0.13,1009.2,0.07,13,71.26,104.6,14.4974,-14.4524
+Senegal,,3/21/2020,Partly cloudy throughout the day.,clear-day,0.92,0.0001,0.0004,0.02,rain,106.36,74.77,29.66,0.12,1009.2,0.27,11,75.13,106.36,14.4974,-14.4524
+Senegal,,3/22/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.03,rain,105.07,70.51,28.11,0.11,1009.5,0.03,12,74.77,105.07,14.4974,-14.4524
+Senegal,,3/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.98,0.0001,0.0004,0.04,rain,99.19,65.07,35.23,0.2,1010.8,0.65,9,70.51,99.19,14.4974,-14.4524
+Senegal,,3/24/2020,Overcast throughout the day.,partly-cloudy-day,0.01,0.0001,0.0003,0.04,rain,95.89,65.06,38.81,0.29,1012.2,0.86,5,65.07,95.89,14.4974,-14.4524
+Senegal,,3/25/2020,Partly cloudy throughout the day.,clear-day,0.04,0.0002,0.0004,0.06,rain,100.66,68.56,22.21,0.11,1010.8,0.26,11,65.06,100.66,14.4974,-14.4524
+Senegal,,3/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.05,rain,103.02,67.72,20.03,0.09,1008.9,0.65,9,68.56,103.02,14.4974,-14.4524
+Senegal,,3/27/2020,Clear throughout the day.,clear-day,0.11,0.0001,0.0004,0.06,rain,100.3,72.01,44.89,0.28,1009.8,0.23,12,67.72,100.3,14.4974,-14.4524
+Senegal,,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.14,0.0001,0.0004,0.05,rain,101.65,76.72,42.91,0.23,1010.3,0.82,6,72.01,101.65,14.4974,-14.4524
+Senegal,,3/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.17,0.0,0.0002,0.04,,104.55,77.86,37.4,0.16,1010.3,0.6,7,76.72,104.55,14.4974,-14.4524
+Senegal,,3/30/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.2,0.0002,0.0004,0.1,rain,108.56,78.26,38.45,0.16,1008.3,0.43,8,77.86,108.56,14.4974,-14.4524
+Senegal,,3/31/2020,Clear throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.06,rain,109.89,78.62,35.28,0.14,1007.8,0.38,11,78.26,109.89,14.4974,-14.4524
+Senegal,,4/1/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0004,0.05,rain,111.35,79.53,36.76,0.14,1008.6,0.16,12,78.62,111.35,14.4974,-14.4524
+Senegal,,4/2/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0003,0.06,rain,111.61,81.99,38.66,0.15,1009.1,0.03,13,79.53,111.61,14.4974,-14.4524
+Senegal,,4/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0002,0.07,rain,108.9,75.2,37.79,0.14,1008.2,0.75,7,81.99,108.9,14.4974,-14.4524
+Senegal,,4/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.06,rain,108.05,75.83,35.27,0.14,1009.0,0.13,13,75.2,108.05,14.4974,-14.4524
+Senegal,,4/5/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0002,0.02,,108.16,77.77,36.44,0.16,1010.1,0.0,13,75.83,108.16,14.4974,-14.4524
+Senegal,,4/6/2020,Clear throughout the day.,clear-day,0.45,0.0001,0.0002,0.03,rain,111.13,78.92,29.51,0.11,1009.3,0.0,13,77.77,111.13,14.4974,-14.4524
+Senegal,,4/7/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0,0.0,,111.09,72.6,24.59,0.08,1008.4,0.0,13,78.92,111.09,14.4974,-14.4524
+Senegal,,4/8/2020,Clear throughout the day.,clear-day,0.53,0.0,0.0003,0.01,,110.4,72.19,31.61,0.14,1008.3,0.0,13,72.6,110.4,14.4974,-14.4524
+Senegal,,4/9/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.03,rain,109.76,71.42,20.18,0.08,1007.6,0.0,13,72.19,109.76,14.4974,-14.4524
+Senegal,,4/10/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0003,0.02,rain,109.6,69.68,25.67,0.11,1008.2,0.0,13,71.42,109.6,14.4974,-14.4524
+Senegal,,4/11/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.06,rain,108.93,71.92,42.42,0.25,1008.8,0.07,11,69.68,108.93,14.4974,-14.4524
+Senegal,,4/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0,0.0003,0.02,,107.52,73.02,50.85,0.34,1009.4,0.44,9,71.92,107.52,14.4974,-14.4524
+Senegal,,4/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0003,0.0024,0.12,rain,103.45,72.53,51.82,0.32,1008.7,0.61,7,73.02,103.45,14.4974,-14.4524
+Senegal,,4/14/2020,Overcast throughout the day.,cloudy,0.75,0.0001,0.0003,0.06,rain,104.08,73.92,46.34,0.26,1009.3,0.94,5,72.53,104.08,14.4974,-14.4524
+Senegal,,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0,0.0003,0.03,,104.88,75.97,39.18,0.18,1009.8,0.45,10,73.92,104.88,14.4974,-14.4524
+Senegal,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0016,0.016,0.18,rain,106.11,74.65,40.36,0.17,1010.7,0.45,9,75.97,106.11,14.4974,-14.4524
+Senegal,,4/17/2020,Clear throughout the day.,partly-cloudy-day,0.84,0.0002,0.0013,0.15,rain,105.55,71.03,44.14,0.23,1010.1,0.34,11,74.65,105.55,14.4974,-14.4524
+Senegal,,4/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0001,0.0006,0.13,rain,98.07,70.56,42.42,0.24,1010.8,0.43,11,71.03,98.07,14.4974,-14.4524
+Senegal,,4/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0003,0.07,rain,101.99,74.59,42.91,0.29,1011.3,0.53,10,70.56,101.99,14.4974,-14.4524
+Senegal,,4/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.93,0.0001,0.0003,0.06,rain,105.85,76.09,36.38,0.16,1011.1,0.59,10,74.59,105.85,14.4974,-14.4524
+Senegal,,4/21/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0003,0.08,rain,107.49,71.62,27.62,0.1,1009.6,0.05,13,76.09,107.49,14.4974,-14.4524

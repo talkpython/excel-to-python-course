@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Namibia,,12/31/2019,Overcast throughout the day.,rain,0.21,0.0065,0.0181,0.47,rain,91.85,67.59,57.88,0.5,1009.5,0.97,6,70.45,91.85,-22.9576,18.4904
+Namibia,,1/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.003,0.0152,0.19,rain,92.45,69.22,60.0,0.55,1010.4,0.69,10,67.59,92.45,-22.9576,18.4904
+Namibia,,1/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.27,0.0016,0.0177,0.15,rain,96.26,70.52,55.84,0.45,1010.4,0.68,12,69.22,96.26,-22.9576,18.4904
+Namibia,,1/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0044,0.0204,0.24,rain,94.75,69.93,58.3,0.51,1009.9,0.6,9,70.52,94.75,-22.9576,18.4904
+Namibia,,1/4/2020,Overcast throughout the day.,cloudy,0.33,0.0015,0.005,0.16,rain,90.55,68.21,53.74,0.43,1009.4,0.93,6,69.93,90.55,-22.9576,18.4904
+Namibia,,1/5/2020,Overcast throughout the day.,rain,0.36,0.0097,0.0541,0.37,rain,83.47,64.21,57.64,0.55,1008.9,0.96,6,68.21,83.47,-22.9576,18.4904
+Namibia,,1/6/2020,Mostly cloudy throughout the day.,rain,0.39,0.0089,0.0317,0.41,rain,85.07,67.53,61.42,0.66,1007.2,0.88,7,64.21,85.07,-22.9576,18.4904
+Namibia,,1/7/2020,Clear throughout the day.,partly-cloudy-day,0.43,0.0008,0.0287,0.14,rain,91.11,64.9,49.22,0.4,1008.5,0.49,15,67.53,91.11,-22.9576,18.4904
+Namibia,,1/8/2020,Clear throughout the day.,clear-day,0.46,0.0,0.0001,0.02,,90.34,66.25,38.54,0.26,1012.2,0.1,15,64.9,90.34,-22.9576,18.4904
+Namibia,,1/9/2020,Clear throughout the day.,clear-day,0.5,0.0003,0.0011,0.06,rain,94.74,69.42,38.58,0.23,1010.9,0.18,13,66.25,94.74,-22.9576,18.4904
+Namibia,,1/10/2020,Overcast throughout the day.,partly-cloudy-day,0.54,0.001,0.0053,0.1,rain,91.24,67.89,56.69,0.46,1010.9,0.87,6,69.42,91.24,-22.9576,18.4904
+Namibia,,1/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0004,0.006,0.17,rain,87.39,67.55,59.64,0.56,1012.3,0.61,7,67.89,87.39,-22.9576,18.4904
+Namibia,,1/12/2020,Clear throughout the day.,clear-day,0.61,0.0014,0.0133,0.16,rain,94.06,67.89,55.89,0.47,1011.2,0.3,12,67.55,94.06,-22.9576,18.4904
+Namibia,,1/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0011,0.0076,0.09,rain,95.73,69.69,51.26,0.39,1010.3,0.32,12,67.89,95.73,-22.9576,18.4904
+Namibia,,1/14/2020,Clear throughout the day.,clear-day,0.69,0.0024,0.0192,0.07,rain,94.21,71.82,52.68,0.37,1011.3,0.25,13,69.69,94.21,-22.9576,18.4904
+Namibia,,1/15/2020,Clear throughout the day.,clear-day,0.72,0.0001,0.0002,0.05,rain,94.74,71.23,47.77,0.32,1011.9,0.22,12,71.82,94.74,-22.9576,18.4904
+Namibia,,1/16/2020,Clear throughout the day.,clear-day,0.76,0.0025,0.0202,0.13,rain,92.24,64.36,50.72,0.37,1009.4,0.14,15,71.23,92.24,-22.9576,18.4904
+Namibia,,1/17/2020,Clear throughout the day.,clear-day,0.79,0.0001,0.0009,0.11,rain,94.09,66.83,49.29,0.41,1008.0,0.3,15,64.36,94.09,-22.9576,18.4904
+Namibia,,1/18/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0005,0.01,,97.07,63.11,35.93,0.24,1007.7,0.14,16,66.83,97.07,-22.9576,18.4904
+Namibia,,1/19/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0002,0.04,rain,96.16,64.27,24.99,0.14,1009.8,0.2,15,63.11,96.16,-22.9576,18.4904
+Namibia,,1/20/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0002,0.01,rain,94.86,65.65,24.65,0.14,1011.7,0.04,15,64.27,94.86,-22.9576,18.4904
+Namibia,,1/21/2020,Clear throughout the day.,clear-day,0.93,0.0,0.0002,0.01,,96.15,68.4,28.02,0.14,1010.0,0.24,14,65.65,96.15,-22.9576,18.4904
+Namibia,,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.96,0.0001,0.0005,0.05,rain,95.43,70.43,38.04,0.22,1007.8,0.47,12,68.4,95.43,-22.9576,18.4904
+Namibia,,1/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,1.0,0.0007,0.0023,0.09,rain,93.8,64.72,39.22,0.24,1009.6,0.57,13,70.43,93.8,-22.9576,18.4904
+Namibia,,1/24/2020,Clear throughout the day.,clear-day,0.03,0.0001,0.0003,0.04,rain,96.79,63.97,35.01,0.23,1011.0,0.23,14,64.72,96.79,-22.9576,18.4904
+Namibia,,1/25/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0004,0.04,rain,95.31,63.68,23.04,0.13,1011.6,0.06,15,63.97,95.31,-22.9576,18.4904
+Namibia,,1/26/2020,Partly cloudy throughout the day.,clear-day,0.09,0.0001,0.0004,0.06,rain,94.54,63.96,21.54,0.12,1013.8,0.27,13,63.68,94.54,-22.9576,18.4904
+Namibia,,1/27/2020,Clear throughout the day.,clear-day,0.12,0.0,0.0002,0.02,,95.68,61.53,18.37,0.11,1013.2,0.0,15,63.96,95.68,-22.9576,18.4904
+Namibia,,1/28/2020,Clear throughout the day.,clear-day,0.15,0.0001,0.0003,0.05,rain,97.87,67.54,11.69,0.08,1012.1,0.0,15,61.53,97.87,-22.9576,18.4904
+Namibia,,1/29/2020,Partly cloudy throughout the day.,clear-day,0.18,0.0001,0.0003,0.06,rain,95.0,70.55,43.11,0.3,1012.5,0.24,15,67.54,95.0,-22.9576,18.4904
+Namibia,,1/30/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.05,rain,96.25,72.01,43.89,0.27,1012.3,0.15,15,70.55,96.25,-22.9576,18.4904
+Namibia,,1/31/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.07,rain,96.61,71.44,40.94,0.25,1011.9,0.14,13,72.01,96.61,-22.9576,18.4904
+Namibia,,2/1/2020,Clear throughout the day.,clear-day,0.27,0.0,0.0002,0.03,,97.95,71.48,37.42,0.22,1012.5,0.06,15,71.44,97.95,-22.9576,18.4904
+Namibia,,2/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0,0.0002,0.04,,95.15,70.84,40.91,0.23,1012.4,0.49,14,71.48,95.15,-22.9576,18.4904
+Namibia,,2/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0025,0.0161,0.09,rain,92.16,67.16,47.91,0.33,1011.1,0.53,13,70.84,92.16,-22.9576,18.4904
+Namibia,,2/4/2020,Mostly cloudy throughout the day.,rain,0.37,0.0066,0.0204,0.36,rain,88.53,64.6,54.15,0.46,1009.7,0.72,9,67.16,88.53,-22.9576,18.4904
+Namibia,,2/5/2020,Clear throughout the day.,rain,0.41,0.0061,0.0263,0.3,rain,91.94,70.89,57.1,0.54,1009.4,0.28,15,64.6,91.94,-22.9576,18.4904
+Namibia,,2/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.0024,0.0156,0.13,rain,94.62,67.9,53.81,0.43,1008.7,0.61,15,70.89,94.62,-22.9576,18.4904
+Namibia,,2/7/2020,Clear throughout the day.,clear-day,0.48,0.0001,0.0017,0.03,rain,96.01,62.06,33.1,0.21,1009.8,0.11,15,67.9,96.01,-22.9576,18.4904
+Namibia,,2/8/2020,Clear throughout the day.,clear-day,0.52,0.0001,0.0003,0.01,rain,94.42,66.56,33.87,0.23,1010.6,0.12,15,62.06,94.42,-22.9576,18.4904
+Namibia,,2/9/2020,Clear throughout the day.,clear-day,0.56,0.0002,0.001,0.04,rain,96.62,67.74,39.09,0.24,1009.3,0.14,14,66.56,96.62,-22.9576,18.4904
+Namibia,,2/10/2020,Clear throughout the day.,clear-day,0.6,0.0017,0.0101,0.1,rain,93.23,65.96,54.33,0.48,1010.9,0.29,14,67.74,93.23,-22.9576,18.4904
+Namibia,,2/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.63,0.0036,0.0199,0.2,rain,87.79,65.47,55.65,0.51,1012.0,0.58,13,65.96,87.79,-22.9576,18.4904
+Namibia,,2/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.67,0.001,0.0068,0.16,rain,93.41,67.22,55.9,0.52,1011.5,0.62,13,65.47,93.41,-22.9576,18.4904
+Namibia,,2/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.002,0.0149,0.11,rain,92.54,70.4,54.56,0.45,1010.0,0.67,14,67.22,92.54,-22.9576,18.4904
+Namibia,,2/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.0013,0.0075,0.15,rain,89.9,70.24,57.59,0.48,1009.9,0.75,10,70.4,89.9,-22.9576,18.4904
+Namibia,,2/15/2020,Overcast throughout the day.,rain,0.78,0.0099,0.0411,0.41,rain,92.19,68.02,58.77,0.51,1010.3,0.93,6,70.24,92.19,-22.9576,18.4904
+Namibia,,2/16/2020,Possible light rain in the evening and overnight.,rain,0.81,0.0173,0.0599,0.7,rain,89.28,66.25,60.13,0.59,1010.8,0.84,8,68.02,89.28,-22.9576,18.4904
+Namibia,,2/17/2020,Possible drizzle in the morning.,rain,0.85,0.0098,0.0451,0.72,rain,82.36,64.65,65.41,0.77,1011.1,0.99,6,66.25,82.36,-22.9576,18.4904
+Namibia,,2/18/2020,Possible drizzle overnight.,rain,0.88,0.0038,0.017,0.54,rain,83.26,66.3,63.56,0.71,1010.8,0.89,9,64.65,83.26,-22.9576,18.4904
+Namibia,,2/19/2020,Possible light rain in the morning and overnight.,rain,0.91,0.0151,0.069,0.76,rain,80.57,65.57,63.16,0.71,1010.9,0.93,8,66.3,80.57,-22.9576,18.4904
+Namibia,,2/20/2020,Rain in the evening and overnight.,rain,0.94,0.0188,0.0835,0.76,rain,87.44,66.43,63.3,0.7,1010.9,0.92,6,65.57,87.44,-22.9576,18.4904
+Namibia,,2/21/2020,Light rain in the evening and overnight.,rain,0.97,0.0209,0.1011,0.76,rain,83.9,63.53,62.77,0.7,1011.1,0.99,6,66.43,83.9,-22.9576,18.4904
+Namibia,,2/22/2020,Light rain until evening.,rain,0.0,0.0295,0.0934,0.89,rain,75.84,60.45,65.62,0.92,1011.8,0.97,6,63.53,75.84,-22.9576,18.4904
+Namibia,,2/23/2020,Mostly cloudy throughout the day.,rain,0.03,0.0036,0.0239,0.4,rain,76.26,61.76,62.29,0.84,1013.4,0.63,9,60.45,76.26,-22.9576,18.4904
+Namibia,,2/24/2020,Mostly cloudy throughout the day.,rain,0.07,0.0016,0.0079,0.26,rain,76.47,62.18,61.61,0.8,1013.1,0.65,9,61.76,76.47,-22.9576,18.4904
+Namibia,,2/25/2020,Mostly cloudy throughout the day.,rain,0.1,0.002,0.0122,0.32,rain,78.56,62.46,62.29,0.79,1011.9,0.58,7,62.18,78.56,-22.9576,18.4904
+Namibia,,2/26/2020,Mostly cloudy throughout the day.,rain,0.13,0.0022,0.0092,0.3,rain,81.25,64.61,62.9,0.76,1011.5,0.72,11,62.46,81.25,-22.9576,18.4904
+Namibia,,2/27/2020,Possible light rain in the evening and overnight.,rain,0.16,0.0187,0.0584,0.64,rain,83.59,63.76,63.05,0.76,1011.8,0.91,7,64.61,83.59,-22.9576,18.4904
+Namibia,,2/28/2020,Overcast throughout the day.,rain,0.19,0.0111,0.0557,0.66,rain,76.95,65.12,61.53,0.78,1012.9,1.0,6,63.76,76.95,-22.9576,18.4904
+Namibia,,2/29/2020,Possible light rain throughout the day.,rain,0.22,0.0083,0.0295,0.65,rain,67.32,60.4,62.42,0.9,1013.2,0.99,6,63.41,67.32,-22.9576,18.4904
+Namibia,,3/1/2020,Possible drizzle in the morning.,rain,0.25,0.0043,0.0116,0.59,rain,73.4,55.87,61.71,0.87,1014.0,0.77,7,60.4,73.4,-22.9576,18.4904
+Namibia,,3/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.28,0.0002,0.0013,0.1,rain,80.13,59.94,56.51,0.7,1015.6,0.43,9,55.87,80.13,-22.9576,18.4904
+Namibia,,3/3/2020,Clear throughout the day.,clear-day,0.32,0.0001,0.0006,0.11,rain,82.48,60.93,54.59,0.6,1016.3,0.23,12,59.94,82.48,-22.9576,18.4904
+Namibia,,3/4/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0004,0.06,rain,83.07,59.58,52.16,0.53,1016.7,0.31,12,60.93,83.07,-22.9576,18.4904
+Namibia,,3/5/2020,Clear throughout the day.,clear-day,0.39,0.0,0.0002,0.03,,87.09,59.3,46.26,0.42,1015.8,0.13,13,59.58,87.09,-22.9576,18.4904
+Namibia,,3/6/2020,Clear throughout the day.,clear-day,0.42,0.0,0.0003,0.04,,86.81,57.71,47.7,0.44,1015.4,0.22,13,59.3,86.81,-22.9576,18.4904
+Namibia,,3/7/2020,Clear throughout the day.,clear-day,0.46,0.0001,0.0005,0.05,rain,88.6,57.34,41.77,0.37,1015.5,0.0,13,57.71,88.6,-22.9576,18.4904
+Namibia,,3/8/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0003,0.06,rain,88.81,60.15,42.73,0.36,1013.2,0.0,13,57.34,88.81,-22.9576,18.4904
+Namibia,,3/9/2020,Clear throughout the day.,clear-day,0.54,0.0,0.0002,0.03,,91.7,63.59,44.29,0.36,1010.4,0.01,13,60.15,91.7,-22.9576,18.4904
+Namibia,,3/10/2020,Clear throughout the day.,clear-day,0.58,0.0002,0.0004,0.06,rain,90.98,68.63,40.5,0.28,1009.8,0.11,13,63.59,90.98,-22.9576,18.4904
+Namibia,,3/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0003,0.0033,0.07,rain,90.63,65.51,41.43,0.26,1010.6,0.5,10,68.63,90.63,-22.9576,18.4904
+Namibia,,3/12/2020,Clear throughout the day.,partly-cloudy-day,0.66,0.0001,0.0019,0.04,rain,92.72,61.1,40.82,0.27,1011.5,0.35,10,65.51,92.72,-22.9576,18.4904
+Namibia,,3/13/2020,Clear throughout the day.,clear-day,0.69,0.0001,0.0003,0.05,rain,93.17,63.18,34.38,0.23,1012.1,0.08,13,61.1,93.17,-22.9576,18.4904
+Namibia,,3/14/2020,Clear throughout the day.,clear-day,0.73,0.0012,0.0053,0.08,rain,92.29,67.23,42.85,0.31,1011.4,0.05,13,63.18,92.29,-22.9576,18.4904
+Namibia,,3/15/2020,Clear throughout the day.,clear-day,0.76,0.0016,0.0099,0.09,rain,89.57,64.97,55.44,0.49,1010.9,0.31,12,67.23,89.57,-22.9576,18.4904
+Namibia,,3/16/2020,Rain in the evening and overnight.,rain,0.8,0.0166,0.1333,0.41,rain,86.07,64.95,57.0,0.58,1011.9,0.56,10,64.97,86.07,-22.9576,18.4904
+Namibia,,3/17/2020,Mostly cloudy throughout the day.,rain,0.83,0.0034,0.0796,0.36,rain,83.8,62.38,58.86,0.62,1012.8,0.69,9,65.0,83.8,-22.9576,18.4904
+Namibia,,3/18/2020,Clear throughout the day.,partly-cloudy-day,0.86,0.0005,0.0034,0.08,rain,86.14,63.46,55.59,0.54,1012.4,0.4,12,62.38,86.14,-22.9576,18.4904
+Namibia,,3/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0033,0.0213,0.18,rain,87.16,63.1,55.36,0.55,1013.1,0.66,9,63.46,87.16,-22.9576,18.4904
+Namibia,,3/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.92,0.0016,0.0086,0.11,rain,86.13,59.81,54.74,0.54,1013.1,0.7,9,63.1,86.13,-22.9576,18.4904
+Namibia,,3/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.95,0.0001,0.0004,0.05,rain,88.66,61.35,52.87,0.53,1013.7,0.33,12,59.81,88.66,-22.9576,18.4904
+Namibia,,3/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.98,0.0001,0.0004,0.05,rain,89.05,61.45,53.43,0.51,1014.4,0.38,11,61.35,89.05,-22.9576,18.4904
+Namibia,,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0011,0.05,rain,87.67,60.65,54.94,0.54,1014.3,0.24,11,61.45,87.67,-22.9576,18.4904
+Namibia,,3/24/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0005,0.09,rain,91.15,62.59,49.87,0.47,1011.6,0.01,12,60.65,91.15,-22.9576,18.4904
+Namibia,,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0004,0.06,rain,90.57,60.54,41.44,0.32,1009.9,0.01,12,62.59,90.57,-22.9576,18.4904
+Namibia,,3/26/2020,Clear throughout the day.,clear-day,0.1,0.0006,0.0026,0.07,rain,92.99,66.8,42.06,0.3,1011.4,0.18,12,60.54,92.99,-22.9576,18.4904
+Namibia,,3/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0027,0.0219,0.09,rain,90.55,65.15,51.41,0.42,1012.6,0.58,11,66.8,90.55,-22.9576,18.4904
+Namibia,,3/28/2020,Possible light rain in the evening.,rain,0.16,0.0084,0.0517,0.48,rain,85.76,62.15,57.43,0.62,1012.9,0.48,11,65.15,85.76,-22.9576,18.4904
+Namibia,,3/29/2020,Light rain throughout the day.,rain,0.2,0.0335,0.0894,0.96,rain,72.42,62.88,59.76,0.79,1012.6,0.73,6,62.15,72.42,-22.9576,18.4904
+Namibia,,3/30/2020,Light rain in the morning and afternoon.,rain,0.23,0.0083,0.0324,0.9,rain,78.82,55.42,62.24,0.83,1012.1,0.93,5,62.88,78.82,-22.9576,18.4904
+Namibia,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.05,rain,84.42,64.02,51.41,0.53,1014.7,0.17,11,55.42,84.42,-22.9576,18.4904
+Namibia,,4/1/2020,Clear throughout the day.,rain,0.3,0.003,0.0226,0.28,rain,83.42,56.5,57.16,0.63,1014.4,0.23,10,63.48,83.42,-22.9576,18.4904
+Namibia,,4/2/2020,Clear throughout the day.,clear-day,0.33,0.0016,0.0161,0.24,rain,83.81,59.17,54.12,0.63,1014.7,0.11,10,56.5,83.81,-22.9576,18.4904
+Namibia,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.05,rain,86.01,62.19,51.64,0.56,1015.0,0.16,11,59.17,86.01,-22.9576,18.4904
+Namibia,,4/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0002,0.001,0.03,rain,86.88,62.67,53.84,0.52,1013.7,0.4,10,62.19,86.88,-22.9576,18.4904
+Namibia,,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0006,0.0047,0.05,rain,87.48,54.38,50.59,0.46,1012.7,0.37,9,62.67,87.48,-22.9576,18.4904
+Namibia,,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0,0.0,,84.98,52.22,29.04,0.24,1014.3,0.0,10,54.38,84.98,-22.9576,18.4904
+Namibia,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0046,0.0447,0.07,rain,91.07,60.16,42.87,0.39,1013.7,0.1,10,52.22,91.07,-22.9576,18.4904
+Namibia,,4/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0012,0.0071,0.13,rain,84.14,60.63,52.61,0.53,1015.1,0.42,10,60.16,84.14,-22.9576,18.4904
+Namibia,,4/9/2020,Possible light rain in the morning.,rain,0.6,0.0031,0.0295,0.57,rain,83.94,57.6,56.21,0.64,1016.9,0.54,10,60.63,83.94,-22.9576,18.4904
+Namibia,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0005,0.09,rain,86.88,63.64,52.93,0.56,1015.8,0.05,10,57.6,86.88,-22.9576,18.4904
+Namibia,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0003,0.02,,88.65,65.64,47.94,0.43,1014.6,0.21,10,63.64,88.65,-22.9576,18.4904
+Namibia,,4/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0025,0.0191,0.07,rain,89.15,57.76,45.98,0.34,1012.5,0.62,7,65.64,89.15,-22.9576,18.4904
+Namibia,,4/13/2020,Clear throughout the day.,clear-day,0.74,0.0,0.0003,0.03,,84.73,51.59,38.97,0.34,1013.6,0.1,10,57.76,84.73,-22.9576,18.4904
+Namibia,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0,0.0003,0.02,,88.21,50.42,23.53,0.2,1015.1,0.0,10,51.59,88.21,-22.9576,18.4904
+Namibia,,4/15/2020,Clear throughout the day.,clear-day,0.81,0.0,0.0,0.0,,88.35,52.15,20.06,0.19,1014.2,0.0,10,50.42,88.35,-22.9576,18.4904
+Namibia,,4/16/2020,Clear throughout the day.,clear-day,0.84,0.0003,0.0032,0.04,rain,91.79,60.03,29.25,0.22,1012.3,0.19,9,52.15,91.79,-22.9576,18.4904
+Namibia,,4/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0037,0.0389,0.1,rain,84.65,61.27,48.86,0.45,1016.0,0.43,7,60.03,84.65,-22.9576,18.4904
+Namibia,,4/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0003,0.001,0.03,rain,88.61,63.68,52.86,0.51,1018.8,0.53,9,61.27,88.61,-22.9576,18.4904
+Namibia,,4/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0001,0.0004,0.06,rain,86.69,59.49,47.29,0.4,1017.6,0.59,9,63.68,86.69,-22.9576,18.4904
+Namibia,,4/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.96,0.0001,0.0003,0.06,rain,85.49,55.6,40.0,0.32,1017.1,0.45,8,59.49,85.49,-22.9576,18.4904

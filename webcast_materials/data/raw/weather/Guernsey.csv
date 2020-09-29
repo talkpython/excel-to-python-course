@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Guernsey,,1/1/2020,Overcast throughout the day.,rain,0.21,0.0005,0.0025,0.31,rain,50.14,47.76,44.22,0.86,1027.8,0.79,1,46.56,50.14,49.45,-2.58
+Guernsey,,1/2/2020,Windy overnight.,wind,0.24,0.0013,0.0046,0.19,rain,52.01,49.65,44.63,0.8,1021.7,0.8,1,48.33,52.58,49.45,-2.58
+Guernsey,,1/3/2020,Mostly cloudy throughout the day.,rain,0.27,0.0014,0.0071,0.42,rain,51.84,44.81,42.4,0.77,1024.9,0.61,1,45.69,52.18,49.45,-2.58
+Guernsey,,1/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0004,0.001,0.13,rain,51.18,46.49,38.91,0.71,1037.1,0.62,1,44.81,51.18,49.45,-2.58
+Guernsey,,1/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.33,0.0002,0.0007,0.09,rain,48.45,43.54,37.61,0.69,1034.9,0.8,1,45.26,48.6,49.45,-2.58
+Guernsey,,1/6/2020,Possible light rain and windy in the afternoon.,rain,0.36,0.002,0.0174,0.5,rain,52.51,48.89,41.24,0.78,1023.7,0.53,1,43.25,52.51,49.45,-2.58
+Guernsey,,1/7/2020,Mostly cloudy throughout the day.,rain,0.4,0.0009,0.0043,0.27,rain,55.05,51.86,48.05,0.87,1024.6,0.83,1,48.89,55.05,49.45,-2.58
+Guernsey,,1/8/2020,Light rain starting in the afternoon.,rain,0.43,0.005,0.0158,0.9,rain,53.58,51.74,49.94,0.9,1022.6,0.93,1,51.74,54.05,49.45,-2.58
+Guernsey,,1/9/2020,Light rain throughout the day.,rain,0.47,0.009000000000000001,0.0316,0.89,rain,54.52,45.33,47.22,0.85,1011.3,0.73,1,46.25,54.52,49.45,-2.58
+Guernsey,,1/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.0002,0.0039,0.19,rain,49.68,45.89,36.86,0.67,1025.8,0.58,1,45.25,49.68,49.45,-2.58
+Guernsey,,1/11/2020,Windy in the evening and overnight.,partly-cloudy-day,0.54,0.0004,0.001,0.12,rain,52.11,48.84,41.43,0.73,1027.1,0.86,1,47.81,52.11,49.45,-2.58
+Guernsey,,1/12/2020,Windy in the morning.,rain,0.58,0.001,0.0051,0.44,rain,52.71,46.42,43.41,0.77,1022.3,0.57,1,48.04,52.71,49.45,-2.58
+Guernsey,,1/13/2020,Light rain starting in the afternoon.,rain,0.61,0.0173,0.0937,0.97,rain,53.21,46.83,43.59,0.8,1009.2,0.7,1,46.45,53.21,49.45,-2.58
+Guernsey,,1/14/2020,Light rain and dangerously windy throughout the day.,rain,0.65,0.011000000000000001,0.0502,0.99,rain,56.42,45.16,47.31,0.83,999.2,0.83,1,46.85,56.42,49.45,-2.58
+Guernsey,,1/15/2020,Light rain and dangerously windy in the morning.,rain,0.69,0.0219,0.0962,0.97,rain,51.06,47.37,41.97,0.76,1008.5,0.58,1,45.12,53.08,49.45,-2.58
+Guernsey,,1/16/2020,Light rain in the afternoon and evening.,rain,0.72,0.0103,0.0535,0.85,rain,55.19,46.52,44.57,0.8,1012.1,0.71,1,47.33,55.19,49.45,-2.58
+Guernsey,,1/17/2020,Possible light rain until evening.,rain,0.76,0.008,0.0308,0.8,rain,48.85,43.25,38.72,0.72,1016.5,0.54,1,44.25,50.69,49.45,-2.58
+Guernsey,,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0002,0.0021,0.18,rain,48.19,42.14,34.95,0.66,1028.3,0.46,1,42.73,48.19,49.45,-2.58
+Guernsey,,1/19/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0002,0.01,,47.48,42.51,33.34,0.64,1043.2,0.26,1,42.14,47.48,49.45,-2.58
+Guernsey,,1/20/2020,Clear throughout the day.,clear-day,0.87,0.0,0.0002,0.02,,49.08,43.8,33.66,0.62,1046.9,0.31,1,42.51,49.08,49.45,-2.58
+Guernsey,,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0002,0.07,rain,47.67,40.73,35.15,0.68,1041.3,0.39,1,41.2,47.67,49.45,-2.58
+Guernsey,,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0,0.0001,0.02,,47.4,41.86,36.9,0.75,1035.6,0.45,1,40.73,47.4,49.45,-2.58
+Guernsey,,1/23/2020,Clear throughout the day.,partly-cloudy-day,0.97,0.0001,0.0002,0.05,rain,47.48,43.15,37.31,0.76,1028.5,0.38,1,41.86,47.48,49.45,-2.58
+Guernsey,,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,1.0,0.0002,0.0005,0.1,rain,46.15,41.4,37.65,0.79,1022.3,0.64,1,41.43,46.15,49.45,-2.58
+Guernsey,,1/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0004,0.21,rain,49.17,46.19,41.26,0.85,1016.9,0.62,1,41.4,49.17,49.45,-2.58
+Guernsey,,1/26/2020,Light rain until evening.,rain,0.06,0.0103,0.0344,0.95,rain,51.57,46.65,44.67,0.85,1011.0,0.7,1,46.19,51.57,49.45,-2.58
+Guernsey,,1/27/2020,Light rain throughout the day.,rain,0.09,0.0214,0.0604,0.95,rain,48.93,42.09,41.96,0.8,1002.1,0.73,1,45.66,49.27,49.45,-2.58
+Guernsey,,1/28/2020,Possible drizzle in the morning and afternoon.,rain,0.12,0.0077,0.0238,0.83,rain,47.59,45.4,33.93,0.65,1002.9,0.66,1,42.09,47.59,49.45,-2.58
+Guernsey,,1/29/2020,Partly cloudy throughout the day.,rain,0.15,0.0008,0.0065,0.39,rain,51.96,46.98,39.69,0.72,1013.0,0.61,1,45.4,51.96,49.45,-2.58
+Guernsey,,1/30/2020,Light rain in the morning.,rain,0.18,0.0062,0.0208,0.76,rain,53.53,48.75,48.31,0.9,1006.9,0.91,1,46.98,53.53,49.45,-2.58
+Guernsey,,1/31/2020,Light rain in the evening and overnight.,rain,0.21,0.011000000000000001,0.0761,0.84,rain,53.53,49.65,48.19,0.89,1010.0,0.89,1,48.75,53.53,49.45,-2.58
+Guernsey,,2/1/2020,Light rain and windy overnight.,rain,0.24,0.0042,0.036000000000000004,0.83,rain,52.87,48.98,46.92,0.86,1009.8,0.79,1,48.98,52.87,49.45,-2.58
+Guernsey,,2/2/2020,Light rain in the morning and afternoon.,rain,0.28,0.0128,0.062,0.96,rain,53.75,49.57,49.01,0.89,1011.8,0.88,1,50.05,53.97,49.45,-2.58
+Guernsey,,2/3/2020,Light rain until evening.,rain,0.31,0.0199,0.0785,0.94,rain,51.65,44.56,44.89,0.85,1017.1,0.88,1,45.47,51.65,49.45,-2.58
+Guernsey,,2/4/2020,Windy in the morning.,wind,0.34,0.0012,0.0063,0.24,rain,49.68,45.95,35.88,0.64,1028.4,0.32,1,44.56,49.68,49.45,-2.58
+Guernsey,,2/5/2020,Partly cloudy throughout the day.,clear-day,0.37,0.0001,0.0003,0.1,rain,51.19,40.86,38.34,0.72,1036.5,0.3,1,43.28,51.19,49.45,-2.58
+Guernsey,,2/6/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.03,,48.12,42.06,35.29,0.7,1028.7,0.03,1,40.86,48.12,49.45,-2.58
+Guernsey,,2/7/2020,Light rain overnight.,wind,0.45,0.0004,0.0039,0.24,rain,52.13,46.77,39.95,0.77,1017.4,0.52,1,42.06,52.21,49.45,-2.58
+Guernsey,,2/8/2020,Possible light rain in the morning.,rain,0.48,0.0039,0.0292,0.7,rain,51.91,47.91,40.8,0.73,1017.0,0.55,1,46.77,51.91,49.45,-2.58
+Guernsey,,2/9/2020,Light rain and dangerously windy throughout the day.,rain,0.52,0.0111,0.0442,0.82,rain,55.47,46.53,46.55,0.81,1002.7,0.87,2,47.99,55.47,49.45,-2.58
+Guernsey,,2/10/2020,Light rain and dangerously windy throughout the day.,rain,0.56,0.0105,0.0318,0.89,rain,51.47,43.22,38.76,0.7,1007.3,0.6,2,44.32,51.47,49.45,-2.58
+Guernsey,,2/11/2020,"Possible drizzle until afternoon, starting again overnight.",rain,0.6,0.0058,0.0157,0.8,rain,47.17,43.06,34.13,0.66,1016.0,0.58,2,42.64,47.17,49.45,-2.58
+Guernsey,,2/12/2020,Light rain throughout the day.,rain,0.64,0.0071,0.0338,0.87,rain,49.14,45.44,37.42,0.71,1017.7,0.59,1,43.06,49.14,49.45,-2.58
+Guernsey,,2/13/2020,Light rain in the morning and afternoon.,rain,0.67,0.013000000000000001,0.0399,0.93,rain,51.52,47.41,42.09,0.78,1002.9,0.57,1,45.44,51.52,49.45,-2.58
+Guernsey,,2/14/2020,Windy overnight.,partly-cloudy-day,0.71,0.0002,0.0006,0.11,rain,53.03,50.17,44.08,0.79,1018.7,0.75,2,47.41,53.03,49.45,-2.58
+Guernsey,,2/15/2020,Light rain and dangerously windy throughout the day.,rain,0.75,0.0141,0.0375,0.93,rain,54.78,52.95,48.2,0.85,1009.8,0.82,2,50.17,54.82,49.45,-2.58
+Guernsey,,2/16/2020,Rain in the morning and afternoon.,rain,0.78,0.0494,0.1829,0.99,rain,56.16,43.85,45.88,0.81,1001.7,0.8,1,47.63,56.16,49.45,-2.58
+Guernsey,,2/17/2020,Possible light rain in the morning and afternoon.,rain,0.82,0.0081,0.0158,0.8,rain,49.42,44.75,37.59,0.7,1015.9,0.43,1,43.85,49.42,49.45,-2.58
+Guernsey,,2/18/2020,Possible light rain and windy starting in the afternoon.,rain,0.85,0.0067,0.0312,0.74,rain,50.69,44.92,39.51,0.73,1024.2,0.63,2,44.75,50.69,49.45,-2.58
+Guernsey,,2/19/2020,Possible drizzle in the morning and afternoon.,rain,0.88,0.0033,0.0193,0.74,rain,51.96,47.64,41.11,0.76,1023.0,0.78,2,44.92,51.96,49.45,-2.58
+Guernsey,,2/20/2020,Light rain in the morning and afternoon.,rain,0.91,0.0089,0.0543,0.87,rain,51.49,44.24,39.66,0.74,1016.9,0.67,2,45.04,51.49,49.45,-2.58
+Guernsey,,2/21/2020,Windy in the evening and overnight.,wind,0.94,0.0001,0.0004,0.08,rain,51.15,47.57,38.91,0.71,1027.2,0.61,2,44.24,51.15,49.45,-2.58
+Guernsey,,2/22/2020,Possible drizzle overnight.,rain,0.98,0.0014,0.0045,0.3,rain,52.27,49.81,46.06,0.85,1024.9,0.74,2,47.79,52.27,49.45,-2.58
+Guernsey,,2/23/2020,"Dangerously windy until afternoon, starting again overnight.",rain,0.01,0.0036,0.0088,0.62,rain,53.41,49.93,48.77,0.9,1023.4,0.92,2,49.87,53.41,49.45,-2.58
+Guernsey,,2/24/2020,Light rain starting in the afternoon.,rain,0.04,0.0075,0.0329,0.84,rain,51.89,44.71,47.11,0.88,1015.9,0.9,2,46.41,51.89,49.45,-2.58
+Guernsey,,2/25/2020,Possible drizzle and dangerously windy throughout the day.,rain,0.07,0.0066,0.0107,0.77,rain,49.38,40.64,36.2,0.7,1006.7,0.67,2,42.06,49.38,49.45,-2.58
+Guernsey,,2/26/2020,Light rain in the morning and overnight.,rain,0.1,0.0037,0.0149,0.59,rain,47.25,42.15,32.23,0.63,1009.8,0.63,2,40.64,47.25,49.45,-2.58
+Guernsey,,2/27/2020,Light rain and dangerously windy in the morning.,rain,0.13,0.013000000000000001,0.0806,0.87,rain,50.27,42.26,37.5,0.73,1004.9,0.66,2,42.15,50.74,49.45,-2.58
+Guernsey,,2/28/2020,"Light rain until afternoon, starting again overnight.",rain,0.16,0.0092,0.0428,0.92,rain,53.33,43.05,43.55,0.82,1007.4,0.84,2,42.26,53.33,49.45,-2.58
+Guernsey,,2/29/2020,Light rain and dangerously windy throughout the day.,rain,0.19,0.0134,0.0398,0.92,rain,47.41,43.43,37.11,0.71,992.0,0.73,1,43.05,51.68,49.45,-2.58
+Guernsey,,3/1/2020,Rain throughout the day.,rain,0.22,0.019,0.1188,0.85,rain,49.52,42.84,36.6,0.7,992.9,0.59,2,43.43,49.52,49.45,-2.58
+Guernsey,,3/2/2020,Light rain in the morning and overnight.,rain,0.25,0.0077,0.0233,0.85,rain,48.03,42.53,35.98,0.71,993.2,0.57,2,42.81,48.03,49.45,-2.58
+Guernsey,,3/3/2020,Possible drizzle in the morning.,rain,0.28,0.002,0.01,0.62,rain,48.79,43.56,34.79,0.66,1006.0,0.49,2,42.53,48.79,49.45,-2.58
+Guernsey,,3/4/2020,Light rain throughout the day.,rain,0.32,0.0097,0.0322,0.94,rain,52.71,47.17,43.14,0.84,1006.5,0.86,2,43.56,52.71,49.45,-2.58
+Guernsey,,3/5/2020,Rain in the morning and afternoon.,rain,0.35,0.0428,0.1269,0.99,rain,50.69,41.32,41.54,0.83,994.3,0.87,2,43.33,50.69,49.45,-2.58
+Guernsey,,3/6/2020,Light rain in the morning.,rain,0.39,0.0059,0.0271,0.73,rain,48.66,44.97,36.66,0.73,1007.4,0.49,2,41.32,48.66,49.45,-2.58
+Guernsey,,3/7/2020,Drizzle overnight.,wind,0.43,0.0002,0.001,0.15,rain,52.65,48.01,43.14,0.8,1018.4,0.69,2,45.01,52.65,49.45,-2.58
+Guernsey,,3/8/2020,Drizzle in the morning.,rain,0.47,0.0047,0.0157,0.86,rain,51.76,45.44,42.55,0.78,1010.9,0.57,2,46.31,51.76,49.45,-2.58
+Guernsey,,3/9/2020,Light rain throughout the day.,rain,0.51,0.013000000000000001,0.0771,0.93,rain,50.65,49.3,41.08,0.77,1016.7,0.6,2,45.44,51.32,49.45,-2.58
+Guernsey,,3/10/2020,Possible drizzle in the morning.,rain,0.55,0.0024,0.0081,0.53,rain,53.3,50.13,49.14,0.9,1012.6,0.83,2,50.17,53.3,49.45,-2.58
+Guernsey,,3/11/2020,Light rain and windy throughout the day.,rain,0.58,0.0094,0.0267,0.79,rain,53.27,44.78,48.85,0.9,1013.6,0.86,3,49.24,53.27,49.45,-2.58
+Guernsey,,3/12/2020,Windy and partly cloudy throughout the day.,rain,0.62,0.001,0.0041,0.33,rain,49.38,44.57,35.86,0.65,1016.5,0.38,2,44.78,49.76,49.45,-2.58
+Guernsey,,3/13/2020,Light rain starting in the afternoon.,rain,0.66,0.0063,0.034,0.88,rain,49.63,45.74,38.23,0.72,1020.9,0.54,2,44.57,49.63,49.45,-2.58
+Guernsey,,3/14/2020,Possible drizzle in the morning.,rain,0.7,0.0052,0.0493,0.78,rain,51.09,47.4,43.98,0.83,1015.5,0.72,2,46.03,51.09,49.45,-2.58
+Guernsey,,3/15/2020,Possible light rain in the afternoon and evening.,rain,0.73,0.003,0.0175,0.72,rain,51.58,44.5,43.18,0.82,1010.1,0.84,2,45.96,51.58,49.45,-2.58
+Guernsey,,3/16/2020,Clear throughout the day.,clear-day,0.77,0.0,0.0001,0.01,,50.52,43.13,37.24,0.69,1022.5,0.15,3,44.27,50.52,49.45,-2.58
+Guernsey,,3/17/2020,Clear throughout the day.,partly-cloudy-day,0.8,0.0001,0.0005,0.05,rain,51.83,46.46,40.83,0.76,1029.7,0.32,4,43.13,51.83,49.45,-2.58
+Guernsey,,3/18/2020,Clear throughout the day.,partly-cloudy-day,0.83,0.0,0.0003,0.03,,52.34,44.39,43.86,0.82,1027.0,0.34,4,46.46,52.34,49.45,-2.58
+Guernsey,,3/19/2020,Clear throughout the day.,partly-cloudy-day,0.86,0.0002,0.0017,0.14,rain,54.22,46.92,44.0,0.84,1023.2,0.34,4,44.39,54.22,49.45,-2.58
+Guernsey,,3/20/2020,Possible drizzle in the morning.,rain,0.89,0.0016,0.0095,0.57,rain,48.68,45.01,42.87,0.84,1022.8,0.88,3,45.57,48.9,49.45,-2.58
+Guernsey,,3/21/2020,Windy in the morning.,wind,0.92,0.0002,0.0007,0.2,rain,48.24,43.57,39.78,0.78,1020.2,0.88,3,45.01,48.24,49.45,-2.58
+Guernsey,,3/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.95,0.0008,0.0055,0.22,rain,47.36,44.28,36.77,0.71,1021.5,0.78,2,43.57,48.12,49.45,-2.58
+Guernsey,,3/23/2020,Clear throughout the day.,clear-day,0.98,0.0003,0.0025,0.11,rain,50.45,46.46,37.17,0.68,1022.7,0.15,4,44.28,50.45,49.45,-2.58
+Guernsey,,3/24/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.04,rain,54.35,43.13,39.26,0.68,1023.7,0.0,4,46.46,54.35,49.45,-2.58
+Guernsey,,3/25/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0004,0.03,rain,51.64,44.43,34.51,0.61,1022.0,0.0,4,43.13,51.64,49.45,-2.58
+Guernsey,,3/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0004,0.03,rain,49.79,43.88,34.47,0.62,1020.5,0.55,4,44.64,49.79,49.45,-2.58
+Guernsey,,3/27/2020,Clear throughout the day.,clear-day,0.11,0.0001,0.0004,0.06,rain,50.39,43.98,38.05,0.71,1021.6,0.08,4,43.88,50.39,49.45,-2.58
+Guernsey,,3/28/2020,Windy in the evening and overnight.,wind,0.14,0.0001,0.0004,0.04,rain,52.05,40.69,37.92,0.69,1024.9,0.47,3,43.98,52.05,49.45,-2.58
+Guernsey,,3/29/2020,Windy and mostly cloudy throughout the day.,wind,0.17,0.0006,0.0022,0.15,rain,46.24,39.5,29.43,0.58,1034.4,0.73,3,40.52,46.24,49.45,-2.58
+Guernsey,,3/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.2,0.0005,0.0011,0.12,rain,46.47,42.7,30.12,0.6,1032.9,0.7,3,39.5,46.47,49.45,-2.58
+Guernsey,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0011,0.0034,0.18,rain,48.95,42.39,35.1,0.67,1028.0,0.45,3,42.7,48.95,49.45,-2.58
+Guernsey,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.02,rain,48.71,43.18,34.53,0.67,1023.0,0.07,4,42.39,48.71,49.45,-2.58
+Guernsey,,4/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0001,0.0003,0.04,rain,51.46,45.39,36.94,0.68,1019.2,0.56,4,43.23,51.46,49.45,-2.58
+Guernsey,,4/2/2020,Partly cloudy throughout the day.,clear-day,0.34,0.0002,0.0009,0.12,rain,51.8,45.1,43.09,0.81,1019.5,0.25,4,45.39,51.8,49.45,-2.58
+Guernsey,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.04,rain,56.68,50.39,42.63,0.75,1018.5,0.29,5,45.1,56.68,49.45,-2.58
+Guernsey,,4/4/2020,Possible light rain overnight.,wind,0.41,0.0,0.0002,0.02,,59.08,49.75,43.79,0.68,1010.8,0.48,4,50.39,59.08,49.45,-2.58
+Guernsey,,4/5/2020,Partly cloudy throughout the day.,rain,0.45,0.0023,0.0188,0.44,rain,54.9,45.89,47.72,0.85,1018.3,0.45,4,48.44,54.9,49.45,-2.58
+Guernsey,,4/6/2020,Partly cloudy throughout the day.,rain,0.49,0.0012,0.0071,0.29,rain,56.41,50.6,44.16,0.76,1028.4,0.31,4,45.89,56.41,49.45,-2.58
+Guernsey,,4/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.53,0.0,0.0003,0.06,,60.71,50.99,48.16,0.75,1024.1,0.42,5,50.6,60.71,49.45,-2.58
+Guernsey,,4/8/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.05,rain,63.55,55.09,47.24,0.7,1022.6,0.0,6,50.99,63.55,49.45,-2.58
+Guernsey,,4/9/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0004,0.04,rain,65.22,54.88,45.91,0.6,1021.5,0.03,6,55.09,65.22,49.45,-2.58
+Guernsey,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.09,rain,66.46,52.21,45.96,0.6,1021.6,0.0,5,54.59,66.46,49.45,-2.58
+Guernsey,,4/11/2020,Clear throughout the day.,rain,0.68,0.0016,0.008,0.34,rain,61.47,48.79,45.83,0.68,1014.4,0.29,5,52.21,61.47,49.45,-2.58
+Guernsey,,4/12/2020,Dangerously windy and partly cloudy throughout the day.,rain,0.71,0.0004,0.0061,0.27,rain,50.56,43.7,41.77,0.73,1019.1,0.35,4,45.66,57.93,49.45,-2.58
+Guernsey,,4/13/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.03,rain,49.96,46.01,36.82,0.69,1025.5,0.08,5,43.7,49.96,49.45,-2.58
+Guernsey,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.01,rain,56.18,51.57,40.39,0.68,1019.0,0.0,5,46.01,56.18,49.45,-2.58
+Guernsey,,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0004,0.0024,0.15,rain,62.75,51.82,47.43,0.71,1013.6,0.55,4,51.63,62.75,49.45,-2.58
+Guernsey,,4/16/2020,"Light rain until morning, starting again in the evening.",rain,0.84,0.0157,0.0844,0.95,rain,59.34,50.37,50.6,0.85,1012.1,0.71,4,51.82,59.34,49.45,-2.58
+Guernsey,,4/17/2020,Possible light rain in the morning.,rain,0.87,0.0031,0.0158,0.68,rain,57.81,48.69,49.52,0.85,1015.6,0.55,4,50.37,57.81,49.45,-2.58
+Guernsey,,4/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0003,0.07,rain,54.26,49.17,46.04,0.82,1017.2,0.63,4,48.69,54.26,49.45,-2.58
+Guernsey,,4/19/2020,Windy in the afternoon and evening.,wind,0.93,0.0001,0.0005,0.19,rain,53.84,50.99,44.47,0.76,1012.3,0.76,5,49.17,54.1,49.45,-2.58
+Guernsey,,4/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.96,0.0001,0.0011,0.13,rain,54.57,51.29,44.89,0.75,1012.5,0.64,5,50.99,54.57,49.45,-2.58

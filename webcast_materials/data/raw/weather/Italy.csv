@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Italy,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.06,rain,53.93,30.45,27.79,0.65,1030.9,0.17,1,29.29,53.93,43.0,12.0
+Italy,,1/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.08,rain,54.34,30.46,28.52,0.67,1031.8,0.11,1,30.45,54.34,43.0,12.0
+Italy,,1/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.27,0.0,0.0001,0.01,,53.6,39.39,33.84,0.78,1029.3,0.86,1,30.46,53.6,43.0,12.0
+Italy,,1/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.001,0.0025,0.2,rain,56.66,36.69,40.44,0.85,1024.2,0.65,1,39.01,56.66,43.0,12.0
+Italy,,1/4/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0003,0.06,rain,53.48,31.18,33.43,0.7,1027.4,0.17,1,36.69,53.48,43.0,12.0
+Italy,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,50.65,29.1,27.08,0.64,1030.6,0.0,1,29.88,50.65,43.0,12.0
+Italy,,1/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0001,0.0002,0.05,rain,50.29,32.22,27.93,0.68,1027.0,0.35,1,29.1,50.29,43.0,12.0
+Italy,,1/7/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0002,0.04,,52.87,30.74,31.45,0.71,1029.8,0.14,1,32.22,52.87,43.0,12.0
+Italy,,1/8/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0001,0.02,,54.2,29.44,28.48,0.67,1029.6,0.0,1,30.74,54.2,43.0,12.0
+Italy,,1/9/2020,Mostly cloudy throughout the day.,clear-day,0.5,0.0002,0.0008,0.08,rain,53.3,31.72,33.4,0.81,1026.2,0.27,1,29.43,53.3,43.0,12.0
+Italy,,1/10/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0003,0.04,rain,56.45,36.83,34.83,0.78,1026.8,0.0,1,31.72,56.45,43.0,12.0
+Italy,,1/11/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0003,0.09,rain,53.18,28.59,34.84,0.75,1027.5,0.0,1,33.75,53.18,43.0,12.0
+Italy,,1/12/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0003,0.02,rain,52.93,34.63,30.84,0.75,1026.6,0.27,2,28.59,52.93,43.0,12.0
+Italy,,1/13/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,54.65,32.8,35.02,0.77,1026.8,0.3,2,34.63,54.65,43.0,12.0
+Italy,,1/14/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.01,,54.97,32.5,34.24,0.77,1028.7,0.1,2,32.8,54.97,43.0,12.0
+Italy,,1/15/2020,Overcast throughout the day.,partly-cloudy-day,0.72,0.0,0.0002,0.05,,55.01,32.65,35.04,0.79,1029.5,0.77,1,32.5,55.01,43.0,12.0
+Italy,,1/16/2020,Possible light rain overnight.,partly-cloudy-day,0.76,0.0001,0.0004,0.06,rain,53.16,40.75,35.64,0.8,1027.1,0.74,1,32.65,53.16,43.0,12.0
+Italy,,1/17/2020,Light rain until evening.,rain,0.8,0.0087,0.0401,0.96,rain,51.42,37.05,41.12,0.87,1021.3,0.89,1,40.75,51.42,43.0,12.0
+Italy,,1/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0001,0.02,,49.11,39.3,36.67,0.79,1024.9,0.72,1,37.05,49.11,43.0,12.0
+Italy,,1/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0,0.0002,0.02,,49.29,36.06,33.49,0.69,1035.8,0.75,1,39.3,49.29,43.0,12.0
+Italy,,1/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0002,0.09,rain,52.27,32.33,34.24,0.75,1039.5,0.55,1,36.06,52.27,43.0,12.0
+Italy,,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0,0.0001,0.02,,56.52,34.15,34.11,0.75,1034.6,0.58,1,32.33,56.52,43.0,12.0
+Italy,,1/22/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0002,0.05,rain,56.18,32.41,35.15,0.76,1030.2,0.01,2,34.15,56.18,43.0,12.0
+Italy,,1/23/2020,Drizzle overnight.,rain,1.0,0.001,0.0103,0.46,rain,56.11,43.83,36.52,0.77,1027.3,0.44,2,32.41,56.11,43.0,12.0
+Italy,,1/24/2020,Possible drizzle in the morning.,rain,0.03,0.0023,0.0075,0.78,rain,58.36,41.71,44.41,0.86,1022.5,0.69,2,43.83,58.36,43.0,12.0
+Italy,,1/25/2020,Overcast throughout the day.,rain,0.06,0.0004,0.0024,0.33,rain,56.0,36.59,42.54,0.86,1020.8,0.82,1,40.45,56.0,43.0,12.0
+Italy,,1/26/2020,Partly cloudy throughout the day.,rain,0.09,0.0009,0.005,0.3,rain,57.6,41.29,39.91,0.82,1020.2,0.48,2,36.59,57.6,43.0,12.0
+Italy,,1/27/2020,Mostly cloudy throughout the day.,rain,0.12,0.0006,0.0017,0.29,rain,61.22,46.05,44.69,0.78,1012.7,0.85,1,41.29,61.22,43.0,12.0
+Italy,,1/28/2020,Overcast throughout the day.,partly-cloudy-day,0.15,0.0004,0.0011,0.19,rain,59.68,36.85,40.5,0.71,1012.8,0.81,1,40.77,59.68,43.0,12.0
+Italy,,1/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.18,0.0001,0.0003,0.1,rain,61.31,43.05,38.55,0.76,1020.3,0.38,2,36.85,61.31,43.0,12.0
+Italy,,1/30/2020,Overcast throughout the day.,cloudy,0.21,0.0006,0.0025,0.21,rain,57.33,47.39,45.96,0.86,1020.5,0.95,2,43.44,57.33,43.0,12.0
+Italy,,1/31/2020,Overcast throughout the day.,rain,0.24,0.0006,0.0024,0.27,rain,61.85,48.63,47.79,0.85,1020.0,0.89,2,47.39,61.85,43.0,12.0
+Italy,,2/1/2020,Overcast throughout the day.,cloudy,0.27,0.0001,0.0016,0.06,rain,63.58,47.06,48.65,0.84,1020.5,0.96,2,48.63,63.58,43.0,12.0
+Italy,,2/2/2020,Overcast throughout the day.,cloudy,0.31,0.0001,0.0004,0.11,rain,66.43,43.02,48.06,0.81,1019.0,0.91,2,47.02,66.43,43.0,12.0
+Italy,,2/3/2020,Windy in the morning and afternoon.,rain,0.34,0.0047,0.0407,0.38,rain,63.41,35.96,41.71,0.74,1009.5,0.45,2,41.74,63.41,43.0,12.0
+Italy,,2/4/2020,Windy in the evening.,wind,0.37,0.0001,0.0003,0.07,rain,55.28,35.54,20.04,0.4,1017.3,0.1,2,35.96,55.28,43.0,12.0
+Italy,,2/5/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.03,,52.79,27.03,15.8,0.36,1027.8,0.0,2,32.61,52.79,43.0,12.0
+Italy,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.02,snow,58.6,27.38,18.94,0.45,1027.7,0.0,2,27.03,58.6,43.0,12.0
+Italy,,2/7/2020,Clear throughout the day.,clear-day,0.48,0.0,0.0003,0.04,,59.03,31.05,28.93,0.67,1028.9,0.2,3,27.38,59.03,43.0,12.0
+Italy,,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.52,0.0001,0.0011,0.07,rain,58.83,44.64,35.24,0.73,1030.7,0.68,2,31.05,58.83,43.0,12.0
+Italy,,2/9/2020,Overcast throughout the day.,rain,0.56,0.0006,0.0053,0.32,rain,62.53,49.3,46.19,0.77,1021.3,0.89,2,46.12,62.53,43.0,12.0
+Italy,,2/10/2020,Clear throughout the day.,clear-day,0.6,0.0,0.0002,0.03,,64.97,40.64,44.13,0.66,1013.1,0.28,3,48.32,64.97,43.0,12.0
+Italy,,2/11/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.06,rain,64.64,34.71,39.37,0.67,1017.8,0.29,3,40.64,64.64,43.0,12.0
+Italy,,2/12/2020,Clear throughout the day.,clear-day,0.67,0.0003,0.0008,0.08,rain,63.06,43.69,38.14,0.73,1020.6,0.28,3,34.71,63.06,43.0,12.0
+Italy,,2/13/2020,Clear throughout the day.,rain,0.71,0.0003,0.0037,0.29,rain,64.21,33.29,42.03,0.69,1017.9,0.29,3,41.34,64.21,43.0,12.0
+Italy,,2/14/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.02,rain,64.46,31.96,31.0,0.58,1027.1,0.0,3,33.29,64.46,43.0,12.0
+Italy,,2/15/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.03,rain,65.4,32.77,31.9,0.61,1029.3,0.1,3,31.96,65.4,43.0,12.0
+Italy,,2/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0003,0.05,rain,64.8,36.33,35.88,0.69,1027.3,0.66,3,32.77,64.8,43.0,12.0
+Italy,,2/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.85,0.0002,0.0004,0.11,rain,61.15,36.44,40.77,0.78,1024.3,0.6,2,36.33,61.15,43.0,12.0
+Italy,,2/18/2020,Partly cloudy throughout the day.,rain,0.88,0.0008,0.0048,0.27,rain,60.21,35.51,40.22,0.78,1020.8,0.3,3,36.44,60.21,43.0,12.0
+Italy,,2/19/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0004,0.06,rain,59.63,29.89,29.9,0.59,1024.1,0.07,3,35.51,59.63,43.0,12.0
+Italy,,2/20/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.02,rain,62.41,33.51,30.54,0.6,1025.0,0.06,3,29.89,62.41,43.0,12.0
+Italy,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0004,0.07,rain,64.34,33.67,32.0,0.61,1030.7,0.21,3,33.51,64.34,43.0,12.0
+Italy,,2/22/2020,Clear throughout the day.,partly-cloudy-day,0.01,0.0001,0.0003,0.03,rain,67.41,38.1,37.44,0.69,1029.2,0.34,3,33.67,67.41,43.0,12.0
+Italy,,2/23/2020,Clear throughout the day.,clear-day,0.04,0.0001,0.0003,0.03,rain,65.43,43.44,41.91,0.78,1022.0,0.07,4,38.1,65.43,43.0,12.0
+Italy,,2/24/2020,Overcast throughout the day.,partly-cloudy-day,0.07,0.0002,0.001,0.09,rain,62.26,46.02,45.33,0.77,1013.1,0.78,2,43.44,62.26,43.0,12.0
+Italy,,2/25/2020,Windy in the afternoon.,rain,0.1,0.0019,0.0075,0.41,rain,57.55,29.26,39.09,0.68,1002.6,0.62,2,41.99,57.55,43.0,12.0
+Italy,,2/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0,0.0007,0.07,,58.03,44.54,24.58,0.47,1010.9,0.47,3,29.26,58.03,43.0,12.0
+Italy,,2/27/2020,Clear throughout the day.,rain,0.16,0.0011,0.0068,0.36,rain,60.4,30.12,28.02,0.49,1014.3,0.32,4,37.53,60.4,43.0,12.0
+Italy,,2/28/2020,Overcast throughout the day.,partly-cloudy-day,0.19,0.0001,0.0003,0.03,rain,61.65,46.57,30.02,0.55,1017.2,0.7,3,30.12,61.65,43.0,12.0
+Italy,,2/29/2020,Light rain until evening.,rain,0.22,0.0097,0.0286,0.84,rain,59.08,42.29,46.89,0.83,1008.1,0.95,2,46.19,59.08,43.0,12.0
+Italy,,3/1/2020,Light rain starting in the afternoon.,rain,0.25,0.0189,0.0903,0.91,rain,60.29,41.74,45.87,0.84,1001.7,0.75,2,42.29,60.29,43.0,12.0
+Italy,,3/2/2020,Possible light rain until evening.,rain,0.28,0.0052,0.0251,0.84,rain,53.37,33.69,41.29,0.81,1000.2,0.56,3,38.39,53.37,43.0,12.0
+Italy,,3/3/2020,Clear throughout the day.,rain,0.32,0.0015,0.0123,0.31,rain,52.74,31.07,36.82,0.81,1009.8,0.27,3,33.69,52.74,43.0,12.0
+Italy,,3/4/2020,Light rain overnight.,rain,0.35,0.0006,0.0159,0.39,rain,56.64,46.29,33.32,0.69,1010.5,0.56,4,31.07,56.64,43.0,12.0
+Italy,,3/5/2020,Possible light rain in the morning.,rain,0.39,0.0209,0.0913,0.86,rain,60.94,38.66,44.01,0.79,1000.7,0.42,4,40.11,60.94,43.0,12.0
+Italy,,3/6/2020,Possible light rain in the afternoon.,rain,0.43,0.0048,0.0229,0.56,rain,56.49,39.45,39.17,0.79,1009.4,0.64,3,38.66,56.49,43.0,12.0
+Italy,,3/7/2020,Clear throughout the day.,clear-day,0.47,0.0001,0.0005,0.06,rain,57.21,31.91,33.57,0.64,1018.9,0.05,3,36.02,57.21,43.0,12.0
+Italy,,3/8/2020,Overcast throughout the day.,cloudy,0.5,0.0001,0.0004,0.05,rain,59.13,34.74,31.48,0.61,1014.0,0.92,2,31.91,59.13,43.0,12.0
+Italy,,3/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0,0.0001,0.02,,62.41,35.53,34.25,0.61,1017.2,0.5,3,34.74,62.41,43.0,12.0
+Italy,,3/10/2020,Clear throughout the day.,clear-day,0.58,0.0002,0.0004,0.01,rain,70.0,39.85,36.2,0.61,1020.9,0.12,5,35.53,70.0,43.0,12.0
+Italy,,3/11/2020,Partly cloudy throughout the day.,clear-day,0.62,0.0002,0.0005,0.07,rain,67.29,40.54,44.82,0.79,1021.9,0.3,5,39.85,67.29,43.0,12.0
+Italy,,3/12/2020,Overcast throughout the day.,cloudy,0.66,0.0001,0.0008,0.03,rain,68.49,43.71,46.32,0.8,1017.1,0.89,3,40.54,68.49,43.0,12.0
+Italy,,3/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0015,0.0065,0.24,rain,65.48,41.8,46.28,0.79,1015.5,0.86,3,43.71,65.48,43.0,12.0
+Italy,,3/14/2020,Clear throughout the day.,clear-day,0.73,0.0001,0.0019,0.04,rain,59.77,32.31,35.7,0.63,1020.8,0.12,5,39.95,59.77,43.0,12.0
+Italy,,3/15/2020,Clear throughout the day.,clear-day,0.76,0.0,0.0,0.0,,66.43,34.21,31.34,0.56,1024.9,0.0,5,32.31,66.43,43.0,12.0
+Italy,,3/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0001,0.0005,0.02,rain,68.11,36.6,36.55,0.64,1029.8,0.48,4,34.21,68.11,43.0,12.0
+Italy,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0,0.0,,67.47,38.64,36.78,0.62,1027.0,0.36,4,36.6,67.47,43.0,12.0
+Italy,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0,0.0,0.0,,72.78,39.13,35.66,0.55,1024.6,0.0,5,38.64,72.78,43.0,12.0
+Italy,,3/19/2020,Clear throughout the day.,clear-day,0.89,0.0,0.0002,0.01,,71.14,40.05,37.33,0.59,1022.2,0.12,5,39.13,71.14,43.0,12.0
+Italy,,3/20/2020,Clear throughout the day.,clear-day,0.92,0.0001,0.0004,0.06,rain,70.38,43.51,40.14,0.64,1015.8,0.23,5,40.05,70.38,43.0,12.0
+Italy,,3/21/2020,Overcast throughout the day.,cloudy,0.95,0.0002,0.001,0.12,rain,62.9,35.93,42.29,0.72,1015.7,0.97,3,43.51,62.9,43.0,12.0
+Italy,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0004,0.02,rain,44.41,31.29,20.86,0.48,1024.0,0.09,5,33.88,44.41,43.0,12.0
+Italy,,3/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.01,0.001,0.0072,0.17,rain,46.65,31.4,22.37,0.54,1023.2,0.34,3,31.29,46.65,43.0,12.0
+Italy,,3/24/2020,Light rain in the evening and overnight.,rain,0.04,0.0011,0.0116,0.56,rain,47.09,37.54,28.78,0.68,1015.6,0.47,3,31.4,47.09,43.0,12.0
+Italy,,3/25/2020,"Light rain until afternoon, starting again overnight.",rain,0.07,0.0104,0.0265,0.99,rain,47.97,44.11,37.05,0.82,1007.4,1.0,3,37.54,47.97,43.0,12.0
+Italy,,3/26/2020,Possible drizzle in the morning.,rain,0.1,0.0009,0.0032,0.68,rain,57.53,43.78,42.38,0.76,1010.5,0.95,3,44.11,57.53,43.0,12.0
+Italy,,3/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0004,0.0023,0.08,rain,63.71,36.02,40.8,0.69,1014.0,0.67,4,42.28,63.71,43.0,12.0
+Italy,,3/28/2020,Clear throughout the day.,clear-day,0.17,0.0,0.0002,0.02,,68.4,40.98,37.94,0.65,1013.4,0.01,5,36.02,68.4,43.0,12.0
+Italy,,3/29/2020,Light rain starting in the afternoon.,rain,0.2,0.011000000000000001,0.0236,0.86,rain,64.55,41.11,44.31,0.79,1012.6,0.37,5,40.98,64.55,43.0,12.0
+Italy,,3/30/2020,Foggy in the morning.,rain,0.23,0.0022,0.018000000000000002,0.61,rain,50.77,35.22,35.58,0.72,1017.7,0.82,3,37.84,50.77,43.0,12.0
+Italy,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.02,rain,53.0,27.68,22.53,0.48,1019.3,0.0,5,33.11,53.0,43.0,12.0
+Italy,,4/1/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0003,0.01,snow,61.24,30.73,24.19,0.53,1014.8,0.0,5,27.68,61.24,43.0,12.0
+Italy,,4/2/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.01,rain,63.86,38.01,29.79,0.6,1013.4,0.0,5,30.73,63.86,43.0,12.0
+Italy,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0,0.0,0.0,,65.03,42.47,30.7,0.49,1018.2,0.0,5,38.01,65.03,43.0,12.0
+Italy,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0,0.0,,65.81,42.71,34.15,0.51,1021.2,0.0,5,42.47,65.81,43.0,12.0
+Italy,,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0,0.0002,0.01,,70.34,40.68,36.57,0.52,1023.8,0.01,6,42.71,70.34,43.0,12.0
+Italy,,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0,0.0,,72.11,38.86,33.47,0.48,1026.7,0.0,7,40.68,72.11,43.0,12.0
+Italy,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0,0.0003,0.01,,73.5,36.48,29.61,0.44,1025.2,0.0,7,38.86,73.5,43.0,12.0
+Italy,,4/8/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.01,rain,74.05,39.62,25.12,0.4,1022.5,0.0,6,36.48,74.05,43.0,12.0
+Italy,,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0004,0.01,rain,77.07,42.71,28.24,0.42,1022.3,0.0,7,39.62,77.07,43.0,12.0
+Italy,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.02,rain,78.39,43.25,33.48,0.45,1022.1,0.0,8,42.71,78.39,43.0,12.0
+Italy,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0,0.0,,77.54,44.93,31.6,0.38,1020.8,0.12,7,43.25,77.54,43.0,12.0
+Italy,,4/12/2020,Overcast throughout the day.,cloudy,0.71,0.0008,0.0076,0.1,rain,71.88,50.5,37.28,0.48,1016.6,0.96,4,44.93,71.88,43.0,12.0
+Italy,,4/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.0004,0.0023,0.17,rain,65.74,40.7,45.09,0.7,1012.9,0.76,3,47.15,65.74,43.0,12.0
+Italy,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0,0.0,0.0,,65.92,33.77,30.52,0.5,1022.4,0.0,7,40.7,65.92,43.0,12.0
+Italy,,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0,0.0,0.0,,72.34,38.62,32.28,0.51,1023.0,0.37,6,33.77,72.34,43.0,12.0
+Italy,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0001,0.0002,0.01,rain,75.97,45.94,43.17,0.64,1020.4,0.32,6,38.62,75.97,43.0,12.0
+Italy,,4/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0026,0.0208,0.14,rain,76.71,51.11,51.55,0.76,1018.3,0.74,5,45.94,76.71,43.0,12.0
+Italy,,4/18/2020,Light rain overnight.,cloudy,0.9,0.0015,0.0167,0.22,rain,76.55,55.64,51.8,0.71,1014.5,0.98,4,51.11,76.55,43.0,12.0
+Italy,,4/19/2020,Light rain throughout the day.,rain,0.93,0.0369,0.0789,1.0,rain,61.99,51.27,56.16,0.96,1009.2,1.0,4,54.74,61.99,43.0,12.0
+Italy,,4/20/2020,Drizzle in the morning and afternoon.,rain,0.96,0.006999999999999999,0.0493,0.97,rain,56.7,50.33,51.03,0.91,1008.7,1.0,4,51.2,56.7,43.0,12.0

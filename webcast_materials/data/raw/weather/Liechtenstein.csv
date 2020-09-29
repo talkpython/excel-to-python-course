@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Liechtenstein,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.14,snow,37.7,25.24,21.33,0.69,1032.8,0.01,1,26.32,37.7,47.14,9.55
+Liechtenstein,,1/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.16,snow,37.54,27.01,21.09,0.7,1031.2,0.04,1,25.24,37.54,47.14,9.55
+Liechtenstein,,1/2/2020,Possible light snow (< 1 in.) overnight.,snow,0.27,0.0013,0.013000000000000001,0.3,snow,39.24,26.19,24.44,0.77,1028.1,0.73,1,26.81,39.24,47.14,9.55
+Liechtenstein,,1/3/2020,Light snow (1–3 in.) until evening.,snow,0.3,0.0112,0.0208,0.83,snow,33.38,18.35,28.09,1.0,1031.8,0.99,1,23.74,33.38,47.14,9.55
+Liechtenstein,,1/4/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0006,0.17,snow,30.38,23.79,20.79,0.87,1034.9,0.17,1,18.35,30.38,47.14,9.55
+Liechtenstein,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,39.41,24.88,16.04,0.55,1029.8,0.02,1,23.79,39.41,47.14,9.55
+Liechtenstein,,1/6/2020,Foggy in the morning and afternoon.,snow,0.4,0.001,0.0062,0.31,snow,34.32,25.59,21.77,0.77,1030.4,0.45,1,25.69,34.32,47.14,9.55
+Liechtenstein,,1/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0017,0.0065,0.13,snow,40.21,33.15,11.62,0.43,1031.5,0.67,1,25.59,40.21,47.14,9.55
+Liechtenstein,,1/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.0,0.0001,0.02,,47.71,26.22,23.19,0.56,1023.7,0.79,1,33.15,47.71,47.14,9.55
+Liechtenstein,,1/9/2020,Foggy in the evening and overnight.,snow,0.5,0.0008,0.0059,0.28,snow,37.9,25.91,22.77,0.76,1024.2,0.35,1,24.45,37.9,47.14,9.55
+Liechtenstein,,1/10/2020,Foggy in the morning.,snow,0.54,0.0011,0.0066,0.35,snow,35.32,23.7,26.39,0.93,1032.2,0.61,1,25.17,35.32,47.14,9.55
+Liechtenstein,,1/11/2020,Clear throughout the day.,partly-cloudy-day,0.57,0.0001,0.0003,0.09,snow,38.73,25.38,9.85,0.42,1028.9,0.37,1,23.7,38.73,47.14,9.55
+Liechtenstein,,1/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0001,0.0003,0.03,snow,38.92,26.09,11.77,0.47,1023.9,0.59,1,25.68,38.92,47.14,9.55
+Liechtenstein,,1/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0,0.0,0.0,,42.29,30.03,16.6,0.53,1020.0,0.49,1,26.09,42.29,47.14,9.55
+Liechtenstein,,1/14/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.02,,42.09,28.5,23.1,0.64,1022.0,0.27,1,30.03,42.09,47.14,9.55
+Liechtenstein,,1/15/2020,Clear throughout the day.,partly-cloudy-day,0.72,0.0,0.0002,0.06,,41.09,24.85,25.58,0.75,1027.7,0.32,1,28.5,41.09,47.14,9.55
+Liechtenstein,,1/16/2020,Snow (1–3 in.) overnight.,partly-cloudy-day,0.76,0.0004,0.0052,0.15,snow,39.86,25.4,23.79,0.75,1023.9,0.44,1,24.85,39.86,47.14,9.55
+Liechtenstein,,1/17/2020,Snow (1–3 in.) in the morning and afternoon.,snow,0.8,0.0142,0.0527,0.87,snow,29.29,17.18,25.21,0.99,1028.5,0.86,1,20.44,29.82,47.14,9.55
+Liechtenstein,,1/18/2020,Possible light snow (1–2 in.) in the morning and afternoon.,snow,0.83,0.0047,0.0127,0.62,snow,26.11,15.09,19.12,0.96,1034.8,0.89,1,16.66,26.11,47.14,9.55
+Liechtenstein,,1/19/2020,Clear throughout the day.,partly-cloudy-day,0.87,0.0,0.0004,0.05,,29.72,21.79,7.05,0.56,1042.1,0.34,1,15.09,29.72,47.14,9.55
+Liechtenstein,,1/20/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0002,0.04,snow,38.44,27.28,13.57,0.54,1040.1,0.06,1,21.79,38.44,47.14,9.55
+Liechtenstein,,1/21/2020,Clear throughout the day.,clear-day,0.93,0.0,0.0001,0.01,,38.79,25.79,18.55,0.58,1033.7,0.2,1,27.28,38.79,47.14,9.55
+Liechtenstein,,1/22/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0002,0.03,snow,41.64,27.58,16.5,0.53,1029.3,0.03,1,25.79,41.64,47.14,9.55
+Liechtenstein,,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0001,0.0004,0.04,snow,42.65,27.56,18.83,0.56,1025.3,0.25,1,27.58,42.65,47.14,9.55
+Liechtenstein,,1/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0003,0.06,snow,37.62,26.11,25.33,0.8,1022.4,0.56,1,27.03,37.62,47.14,9.55
+Liechtenstein,,1/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.06,0.0005,0.0035,0.19,snow,38.93,25.09,27.42,0.9,1020.8,0.86,1,26.11,38.93,47.14,9.55
+Liechtenstein,,1/26/2020,Mostly cloudy throughout the day.,snow,0.09,0.0004,0.0025,0.33,snow,39.82,28.38,27.66,0.9,1016.7,0.9,1,25.09,39.82,47.14,9.55
+Liechtenstein,,1/27/2020,Snow (8–12 in.) throughout the day.,snow,0.12,0.0253,0.081,0.9,snow,32.18,22.2,26.74,0.97,1007.5,0.99,1,22.2,32.18,47.14,9.55
+Liechtenstein,,1/28/2020,Snow (9–13 in.) until evening.,snow,0.15,0.0442,0.0676,0.92,snow,27.77,22.14,24.6,1.0,1014.4,1.0,1,22.27,27.77,47.14,9.55
+Liechtenstein,,1/29/2020,Snow (1–3 in.) overnight.,snow,0.18,0.0068,0.0481,0.45,snow,38.5,29.66,25.61,0.88,1018.9,0.79,2,22.14,38.5,47.14,9.55
+Liechtenstein,,1/30/2020,Possible light snow (< 1 in.) in the morning.,snow,0.21,0.0082,0.0499,0.66,snow,41.64,29.98,33.98,0.99,1018.0,0.83,1,29.83,41.64,47.14,9.55
+Liechtenstein,,1/31/2020,Light snow (1–2 in.) in the evening and overnight.,snow,0.24,0.0061,0.027999999999999997,0.68,snow,39.48,30.06,33.71,0.98,1015.8,0.55,2,29.98,39.48,47.14,9.55
+Liechtenstein,,2/1/2020,Snow (3–7 in.) throughout the day.,snow,0.27,0.0368,0.1057,0.96,snow,35.9,34.91,33.48,1.0,1018.9,0.96,1,30.06,36.85,47.14,9.55
+Liechtenstein,,2/2/2020,Snow (2–5 in.) until evening.,snow,0.31,0.0408,0.1175,0.99,snow,38.87,25.29,36.55,1.0,1018.9,0.99,2,34.83,38.87,47.14,9.55
+Liechtenstein,,2/3/2020,Heavy snow (13–20 in.) throughout the day.,snow,0.34,0.0469,0.1066,0.94,snow,27.71,20.05,25.51,0.97,1015.5,0.99,1,20.05,40.04,47.14,9.55
+Liechtenstein,,2/4/2020,Snow (2–5 in.) in the morning and afternoon.,snow,0.37,0.0185,0.0444,0.77,snow,26.1,14.79,19.85,0.98,1031.8,0.8,1,15.19,26.1,47.14,9.55
+Liechtenstein,,2/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0,0.0003,0.01,,34.08,21.37,11.68,0.63,1032.0,0.32,1,14.79,34.08,47.14,9.55
+Liechtenstein,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.05,snow,39.03,23.55,17.42,0.64,1027.1,0.0,2,21.37,39.03,47.14,9.55
+Liechtenstein,,2/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.48,0.0,0.0003,0.05,,40.24,24.14,20.83,0.69,1026.3,0.51,2,23.55,40.24,47.14,9.55
+Liechtenstein,,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.52,0.0001,0.001,0.06,snow,41.47,31.75,23.51,0.72,1024.1,0.62,2,24.14,41.47,47.14,9.55
+Liechtenstein,,2/9/2020,Snow (3–6 in.) throughout the day.,snow,0.56,0.0155,0.0463,0.89,snow,37.78,26.44,31.12,0.9,1011.8,0.94,2,30.59,37.78,47.14,9.55
+Liechtenstein,,2/10/2020,Snow (6–9 in.) until evening.,snow,0.6,0.0335,0.0685,0.96,snow,29.47,20.1,27.52,0.98,1013.9,0.96,2,23.22,33.48,47.14,9.55
+Liechtenstein,,2/11/2020,Snow (2–5 in.) in the morning and afternoon.,snow,0.64,0.0123,0.0431,0.83,snow,30.36,19.56,22.98,0.98,1022.4,0.94,1,19.56,30.36,47.14,9.55
+Liechtenstein,,2/12/2020,Heavy snow (5–9 in.) in the evening and overnight.,snow,0.67,0.008,0.0875,0.56,snow,38.55,24.18,20.73,0.76,1016.5,0.86,2,19.71,38.55,47.14,9.55
+Liechtenstein,,2/13/2020,Snow (1–4 in.) in the morning and afternoon.,snow,0.71,0.0219,0.1202,0.87,snow,34.5,23.83,26.92,0.99,1022.9,0.88,2,24.18,34.5,47.14,9.55
+Liechtenstein,,2/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.0001,0.0003,0.06,snow,42.92,31.14,25.44,0.77,1026.0,0.63,2,23.83,42.92,47.14,9.55
+Liechtenstein,,2/15/2020,Overcast throughout the day.,cloudy,0.78,0.0001,0.0003,0.09,snow,45.66,32.81,28.22,0.7,1022.3,0.94,2,31.14,45.66,47.14,9.55
+Liechtenstein,,2/16/2020,Snow (2–4 in.) in the evening and overnight.,snow,0.81,0.0092,0.0524,0.75,snow,42.6,24.37,31.16,0.84,1021.3,0.89,2,28.82,42.6,47.14,9.55
+Liechtenstein,,2/17/2020,Possible light snow (< 1 in.) in the morning.,snow,0.85,0.0051,0.0194,0.72,snow,35.62,22.49,26.93,0.95,1028.6,0.78,2,24.37,35.62,47.14,9.55
+Liechtenstein,,2/18/2020,Snow (2–5 in.) in the afternoon.,snow,0.88,0.0123,0.0546,0.75,snow,29.29,20.53,23.62,0.97,1025.4,0.96,2,20.77,29.29,47.14,9.55
+Liechtenstein,,2/19/2020,Snow (< 1 in.) overnight.,partly-cloudy-day,0.91,0.0004,0.003,0.16,snow,38.47,25.84,24.76,0.86,1024.3,0.73,2,20.53,38.47,47.14,9.55
+Liechtenstein,,2/20/2020,Snow (1–2 in.) in the morning.,snow,0.94,0.0082,0.0314,0.68,snow,35.53,26.44,26.99,0.94,1029.2,0.78,2,25.59,35.53,47.14,9.55
+Liechtenstein,,2/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0001,0.0004,0.07,snow,45.27,32.7,26.37,0.72,1030.2,0.47,3,26.44,45.27,47.14,9.55
+Liechtenstein,,2/22/2020,Overcast throughout the day.,rain,0.01,0.0018,0.0121,0.38,rain,44.52,33.92,34.27,0.88,1026.3,0.87,2,32.7,44.52,47.14,9.55
+Liechtenstein,,2/23/2020,Possible light snow (< 1 in.) in the morning.,rain,0.04,0.0024,0.0107,0.52,rain,47.16,31.4,37.46,0.97,1021.3,0.68,2,33.92,47.16,47.14,9.55
+Liechtenstein,,2/24/2020,Snow (2–4 in.) in the evening and overnight.,snow,0.07,0.0034,0.0203,0.61,snow,41.73,19.75,32.21,0.9,1008.3,0.76,2,29.14,41.73,47.14,9.55
+Liechtenstein,,2/25/2020,Snow (4–7 in.) until evening.,snow,0.1,0.0202,0.0642,0.87,snow,24.69,14.95,22.0,0.98,1005.5,0.78,2,17.87,28.98,47.14,9.55
+Liechtenstein,,2/26/2020,Snow (7–10 in.) in the evening and overnight.,snow,0.13,0.0199,0.0606,0.62,snow,29.71,15.95,20.68,0.95,1007.8,0.86,2,14.95,29.71,47.14,9.55
+Liechtenstein,,2/27/2020,Snow (1–2 in.) in the morning.,snow,0.16,0.0101,0.0585,0.66,snow,31.93,23.41,20.0,0.88,1019.7,0.67,3,15.95,31.93,47.14,9.55
+Liechtenstein,,2/28/2020,Overcast throughout the day.,cloudy,0.19,0.0007,0.0041,0.17,snow,36.83,24.88,26.04,0.84,1009.1,0.97,2,24.29,36.83,47.14,9.55
+Liechtenstein,,2/29/2020,"Snow (1–4 in.) until morning, starting again in the evening.",snow,0.22,0.0077,0.0414,0.58,snow,39.22,22.92,29.54,0.98,1003.9,0.84,2,24.88,39.22,47.14,9.55
+Liechtenstein,,3/1/2020,Snow (4–8 in.) in the evening and overnight.,snow,0.25,0.0143,0.07400000000000001,0.73,snow,38.27,23.35,27.62,0.93,995.4,0.75,2,22.92,38.27,47.14,9.55
+Liechtenstein,,3/2/2020,Snow (2–5 in.) in the morning and afternoon.,snow,0.28,0.0208,0.0612,0.83,snow,28.62,16.36,23.47,0.98,1004.6,0.99,2,18.56,28.62,47.14,9.55
+Liechtenstein,,3/3/2020,Foggy in the morning.,snow,0.32,0.0018,0.0093,0.33,snow,33.39,21.62,21.47,0.93,1014.7,0.89,2,16.36,33.39,47.14,9.55
+Liechtenstein,,3/4/2020,Possible light snow (1–2 in.) in the afternoon.,snow,0.35,0.0058,0.0136,0.49,snow,35.53,23.82,26.97,0.96,1004.5,1.0,3,22.5,35.53,47.14,9.55
+Liechtenstein,,3/5/2020,Snow (2–5 in.) in the morning and overnight.,snow,0.39,0.0063,0.0171,0.67,snow,31.09,21.87,26.67,1.0,1001.6,0.99,2,23.82,31.09,47.14,9.55
+Liechtenstein,,3/6/2020,Snow (2–4 in.) in the morning.,snow,0.43,0.0132,0.0411,0.79,snow,31.35,16.28,23.01,0.98,1019.1,0.84,2,18.73,31.35,47.14,9.55
+Liechtenstein,,3/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.0001,0.0006,0.07,snow,37.63,23.47,22.76,0.87,1021.4,0.63,3,16.28,37.63,47.14,9.55
+Liechtenstein,,3/8/2020,Snow (2–5 in.) in the morning and afternoon.,snow,0.5,0.0129,0.0635,0.91,snow,32.72,20.12,25.93,0.97,1017.0,0.96,2,22.02,32.72,47.14,9.55
+Liechtenstein,,3/9/2020,Snow (8–12 in.) throughout the day.,snow,0.54,0.0448,0.1256,0.91,snow,31.72,30.73,26.43,1.0,1020.2,0.95,3,20.12,33.03,47.14,9.55
+Liechtenstein,,3/10/2020,Possible light snow (< 1 in.) in the morning.,snow,0.58,0.0042,0.0204,0.66,snow,42.27,30.47,35.36,1.0,1020.5,0.78,3,32.05,42.27,47.14,9.55
+Liechtenstein,,3/11/2020,Light snow (1–2 in.) in the evening and overnight.,rain,0.62,0.0023,0.0137,0.56,rain,45.19,29.27,35.9,0.96,1017.6,0.4,4,30.47,45.19,47.14,9.55
+Liechtenstein,,3/12/2020,Light snow (1–3 in.) in the morning and afternoon.,snow,0.66,0.0137,0.0443,0.9,snow,35.06,23.46,30.14,0.99,1020.5,0.91,3,25.77,35.06,47.14,9.55
+Liechtenstein,,3/13/2020,Possible light snow (< 1 in.) in the afternoon.,snow,0.69,0.0025,0.0122,0.51,snow,33.31,23.2,27.36,0.99,1021.3,0.92,2,23.46,33.31,47.14,9.55
+Liechtenstein,,3/14/2020,Partly cloudy throughout the day.,clear-day,0.73,0.0001,0.0004,0.06,snow,43.02,27.38,28.12,0.88,1020.7,0.31,3,23.2,43.02,47.14,9.55
+Liechtenstein,,3/15/2020,Clear throughout the day.,clear-day,0.76,0.0,0.0001,0.01,,47.16,30.75,29.84,0.81,1022.4,0.2,4,27.38,47.16,47.14,9.55
+Liechtenstein,,3/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0002,0.0005,0.07,snow,46.75,31.3,32.73,0.86,1029.8,0.39,3,30.75,46.75,47.14,9.55
+Liechtenstein,,3/17/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0003,0.04,,49.29,31.84,35.38,0.9,1028.1,0.11,4,31.3,49.29,47.14,9.55
+Liechtenstein,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0003,0.04,rain,50.28,32.07,35.03,0.86,1024.3,0.0,4,31.84,50.28,47.14,9.55
+Liechtenstein,,3/19/2020,Possible light snow (< 1 in.) in the evening and overnight.,rain,0.89,0.0053,0.0343,0.49,rain,49.98,29.4,33.36,0.83,1020.6,0.22,4,32.07,49.98,47.14,9.55
+Liechtenstein,,3/20/2020,Foggy in the evening and overnight.,snow,0.92,0.0022,0.0151,0.52,snow,40.36,27.32,33.94,0.99,1017.8,0.65,4,29.4,40.36,47.14,9.55
+Liechtenstein,,3/21/2020,Mostly cloudy throughout the day.,snow,0.95,0.0005,0.0031,0.25,snow,34.61,19.08,29.77,1.0,1021.6,0.79,3,23.34,34.61,47.14,9.55
+Liechtenstein,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0002,0.0004,0.06,snow,37.09,13.19,18.54,0.76,1027.9,0.02,4,16.98,37.09,47.14,9.55
+Liechtenstein,,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.05,snow,35.61,15.52,12.62,0.68,1026.5,0.0,4,13.19,35.61,47.14,9.55
+Liechtenstein,,3/24/2020,Clear throughout the day.,clear-day,0.04,0.0007,0.0036,0.13,snow,33.19,16.6,16.31,0.78,1020.3,0.17,4,15.52,33.19,47.14,9.55
+Liechtenstein,,3/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0004,0.07,snow,37.31,23.73,18.64,0.77,1015.6,0.36,4,16.6,37.31,47.14,9.55
+Liechtenstein,,3/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0004,0.06,snow,45.02,28.53,29.04,0.88,1014.9,0.57,3,23.73,45.02,47.14,9.55
+Liechtenstein,,3/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0011,0.0043,0.16,snow,46.1,28.92,33.48,0.94,1016.1,0.71,3,28.53,46.1,47.14,9.55
+Liechtenstein,,3/28/2020,Snow (3–6 in.) starting in the afternoon.,snow,0.17,0.0106,0.0376,0.7,snow,36.07,20.12,30.21,1.0,1017.1,0.76,3,24.88,36.07,47.14,9.55
+Liechtenstein,,3/29/2020,Snow (1–3 in.) in the morning and afternoon.,snow,0.2,0.0115,0.0337,0.77,snow,26.51,12.49,22.51,1.0,1021.6,0.99,3,17.12,26.51,47.14,9.55
+Liechtenstein,,3/30/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0007,0.12,snow,33.52,15.07,17.82,0.9,1024.3,0.16,4,12.49,33.52,47.14,9.55
+Liechtenstein,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.03,snow,37.84,21.33,18.87,0.8,1020.4,0.03,5,15.07,37.84,47.14,9.55
+Liechtenstein,,4/1/2020,Foggy overnight.,clear-day,0.3,0.0001,0.0003,0.05,snow,43.11,24.41,24.6,0.82,1014.1,0.07,5,21.33,43.11,47.14,9.55
+Liechtenstein,,4/2/2020,Foggy in the morning.,partly-cloudy-day,0.33,0.0009,0.0034,0.19,snow,42.1,25.47,29.24,0.92,1016.2,0.66,4,24.4,42.1,47.14,9.55
+Liechtenstein,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.03,snow,48.12,30.35,28.52,0.8,1021.7,0.08,5,25.47,48.12,47.14,9.55
+Liechtenstein,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0,0.0,,54.9,33.52,30.17,0.7,1022.4,0.0,6,30.35,54.9,47.14,9.55
+Liechtenstein,,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0,0.0002,0.02,,57.24,35.95,30.56,0.65,1023.9,0.0,7,33.52,57.24,47.14,9.55
+Liechtenstein,,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0,0.0,,56.83,35.12,32.53,0.65,1027.8,0.13,6,35.95,56.83,47.14,9.55
+Liechtenstein,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0001,0.0005,0.03,rain,58.68,36.57,32.43,0.65,1025.7,0.05,6,35.12,58.68,47.14,9.55
+Liechtenstein,,4/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0003,0.0011,0.09,rain,54.97,37.11,35.53,0.74,1023.3,0.39,5,36.57,54.97,47.14,9.55
+Liechtenstein,,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0004,0.04,rain,59.93,37.9,35.49,0.72,1022.8,0.01,7,37.11,59.93,47.14,9.55
+Liechtenstein,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.06,rain,57.29,37.82,35.25,0.69,1022.3,0.04,7,37.9,57.29,47.14,9.55
+Liechtenstein,,4/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0015,0.0059,0.08,rain,59.66,38.55,35.03,0.67,1018.2,0.41,6,37.82,59.66,47.14,9.55
+Liechtenstein,,4/12/2020,Light snow (< 2 in.) in the evening and overnight.,rain,0.71,0.0034,0.0385,0.51,rain,57.82,27.48,30.91,0.6,1014.1,0.84,4,37.31,57.82,47.14,9.55
+Liechtenstein,,4/13/2020,Foggy in the morning.,snow,0.74,0.0042,0.0384,0.69,snow,41.86,24.63,26.44,0.82,1020.2,0.63,5,27.14,41.86,47.14,9.55
+Liechtenstein,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.01,snow,56.21,34.58,23.53,0.56,1022.6,0.05,7,24.63,56.21,47.14,9.55
+Liechtenstein,,4/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0002,0.01,rain,58.62,41.49,31.01,0.58,1019.7,0.54,4,34.58,58.62,47.14,9.55
+Liechtenstein,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0004,0.0025,0.04,rain,62.6,43.93,34.15,0.56,1016.5,0.53,6,41.49,62.6,47.14,9.55
+Liechtenstein,,4/17/2020,Mostly cloudy throughout the day.,rain,0.87,0.0055,0.0164,0.28,rain,61.4,41.76,39.66,0.66,1015.6,0.86,4,43.93,61.4,47.14,9.55
+Liechtenstein,,4/18/2020,Mostly cloudy throughout the day.,rain,0.9,0.0043,0.0246,0.41,rain,58.2,39.69,43.62,0.85,1013.5,0.74,5,41.76,58.2,47.14,9.55
+Liechtenstein,,4/19/2020,Overcast throughout the day.,rain,0.93,0.002,0.0078,0.42,rain,55.33,39.8,44.01,0.92,1010.0,0.99,4,39.69,55.33,47.14,9.55
+Liechtenstein,,4/20/2020,Overcast throughout the day.,partly-cloudy-day,0.96,0.0001,0.0003,0.1,rain,58.17,40.65,42.65,0.83,1009.6,0.85,5,39.8,58.17,47.14,9.55

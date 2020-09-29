@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Benin,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.04,rain,94.54,62.21,19.66,0.12,1011.8,0.25,10,62.34,94.54,9.3077,2.3158
+Benin,,1/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0004,0.04,rain,89.3,57.13,19.6,0.13,1013.5,0.12,9,62.21,89.3,9.3077,2.3158
+Benin,,1/2/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0005,0.02,rain,88.19,57.43,15.85,0.12,1014.4,0.08,10,57.13,88.19,9.3077,2.3158
+Benin,,1/3/2020,Partly cloudy throughout the day.,clear-day,0.3,0.0002,0.0004,0.07,rain,92.26,57.91,27.01,0.18,1013.8,0.28,9,57.43,92.26,9.3077,2.3158
+Benin,,1/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.33,0.0001,0.0002,0.04,rain,96.07,60.59,36.39,0.24,1012.0,0.33,8,57.91,96.07,9.3077,2.3158
+Benin,,1/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.0,0.0,0.0,,95.79,63.39,44.26,0.32,1010.6,0.55,8,60.59,95.79,9.3077,2.3158
+Benin,,1/6/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0002,0.06,rain,96.83,66.06,44.21,0.31,1010.6,0.16,10,63.39,96.83,9.3077,2.3158
+Benin,,1/7/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0002,0.03,,98.44,68.46,45.04,0.29,1011.7,0.18,9,66.06,98.44,9.3077,2.3158
+Benin,,1/8/2020,Partly cloudy throughout the day.,clear-day,0.47,0.0,0.0001,0.01,,100.13,65.26,43.55,0.28,1011.5,0.31,9,68.46,100.13,9.3077,2.3158
+Benin,,1/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.0001,0.0004,0.03,rain,98.94,71.73,52.69,0.37,1011.9,0.58,8,65.26,98.94,9.3077,2.3158
+Benin,,1/10/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.54,0.0015,0.0156,0.15,rain,96.76,71.89,66.69,0.58,1012.1,0.5,10,71.73,96.76,9.3077,2.3158
+Benin,,1/11/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0002,0.002,0.17,rain,96.77,70.98,65.27,0.56,1011.7,0.7,6,71.89,96.77,9.3077,2.3158
+Benin,,1/12/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0004,0.06,rain,100.92,67.83,52.14,0.36,1009.8,0.22,10,70.98,100.92,9.3077,2.3158
+Benin,,1/13/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,97.2,66.59,30.17,0.16,1009.9,0.04,10,67.83,97.2,9.3077,2.3158
+Benin,,1/14/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.02,,99.97,67.19,31.82,0.17,1010.0,0.0,10,66.59,99.97,9.3077,2.3158
+Benin,,1/15/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.03,,98.47,65.81,35.63,0.2,1011.8,0.06,10,67.19,98.47,9.3077,2.3158
+Benin,,1/16/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0004,0.05,rain,97.42,63.04,32.87,0.19,1012.8,0.0,11,65.81,97.42,9.3077,2.3158
+Benin,,1/17/2020,Clear throughout the day.,clear-day,0.8,0.0,0.0002,0.02,,97.21,63.65,34.57,0.21,1013.0,0.03,11,63.04,97.21,9.3077,2.3158
+Benin,,1/18/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0001,0.01,,95.14,61.47,36.47,0.23,1012.0,0.1,10,63.65,95.14,9.3077,2.3158
+Benin,,1/19/2020,Clear throughout the day.,clear-day,0.87,0.0,0.0002,0.03,,96.54,65.74,43.86,0.3,1010.9,0.15,10,61.47,96.54,9.3077,2.3158
+Benin,,1/20/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0002,0.03,rain,98.62,66.68,48.0,0.33,1011.4,0.28,9,65.74,98.62,9.3077,2.3158
+Benin,,1/21/2020,Clear throughout the day.,clear-day,0.93,0.0,0.0001,0.02,,99.27,65.99,41.22,0.26,1011.4,0.28,10,66.68,99.27,9.3077,2.3158
+Benin,,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0001,0.0002,0.02,rain,96.33,63.76,29.36,0.16,1011.8,0.4,7,65.99,96.33,9.3077,2.3158
+Benin,,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0001,0.0002,0.03,rain,95.66,63.85,14.62,0.09,1012.5,0.13,11,63.76,95.66,9.3077,2.3158
+Benin,,1/24/2020,Clear throughout the day.,clear-day,0.03,0.0001,0.0003,0.03,rain,94.86,60.39,6.13,0.06,1012.7,0.12,11,63.85,94.86,9.3077,2.3158
+Benin,,1/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.06,0.0001,0.0004,0.03,rain,96.74,57.28,9.52,0.08,1012.6,0.53,6,60.39,96.74,9.3077,2.3158
+Benin,,1/26/2020,Clear throughout the day.,clear-day,0.09,0.0001,0.0004,0.05,rain,97.62,60.39,18.03,0.11,1012.0,0.23,11,57.28,97.62,9.3077,2.3158
+Benin,,1/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.12,0.0,0.0002,0.03,,97.88,60.42,23.59,0.14,1012.1,0.42,8,60.39,97.88,9.3077,2.3158
+Benin,,1/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.05,rain,99.52,60.56,16.73,0.12,1011.8,0.52,9,60.42,99.52,9.3077,2.3158
+Benin,,1/29/2020,Partly cloudy throughout the day.,clear-day,0.18,0.0001,0.0003,0.02,rain,99.5,59.92,-0.58,0.05,1013.0,0.22,11,60.56,99.5,9.3077,2.3158
+Benin,,1/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0003,0.03,rain,98.74,62.99,6.96,0.07,1013.2,0.33,7,59.92,98.74,9.3077,2.3158
+Benin,,1/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.06,rain,98.16,61.87,14.79,0.09,1012.7,0.34,9,62.99,98.16,9.3077,2.3158
+Benin,,2/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0,0.0002,0.03,,96.59,57.75,7.95,0.07,1012.8,0.35,11,61.87,96.59,9.3077,2.3158
+Benin,,2/2/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0003,0.04,rain,96.92,56.33,7.39,0.07,1012.9,0.02,11,57.75,96.92,9.3077,2.3158
+Benin,,2/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0003,0.05,rain,98.19,58.07,12.38,0.09,1013.2,0.37,10,56.33,98.19,9.3077,2.3158
+Benin,,2/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0003,0.04,rain,96.89,62.09,18.45,0.12,1012.4,0.47,9,58.07,96.89,9.3077,2.3158
+Benin,,2/5/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.02,,97.93,64.23,19.14,0.11,1011.7,0.05,12,62.09,97.93,9.3077,2.3158
+Benin,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.04,rain,98.61,64.98,22.33,0.12,1011.9,0.01,11,64.23,98.61,9.3077,2.3158
+Benin,,2/7/2020,Partly cloudy throughout the day.,clear-day,0.48,0.0,0.0003,0.03,,100.02,65.35,21.28,0.11,1011.3,0.26,10,64.98,100.02,9.3077,2.3158
+Benin,,2/8/2020,Clear throughout the day.,clear-day,0.52,0.0001,0.0003,0.06,rain,100.03,70.15,31.13,0.16,1011.5,0.22,10,65.35,100.03,9.3077,2.3158
+Benin,,2/9/2020,Clear throughout the day.,partly-cloudy-day,0.56,0.0001,0.0004,0.07,rain,99.2,66.48,39.71,0.22,1012.8,0.34,9,70.15,99.2,9.3077,2.3158
+Benin,,2/10/2020,Clear throughout the day.,clear-day,0.6,0.0,0.0002,0.03,,97.91,67.41,23.47,0.12,1012.6,0.15,12,66.48,97.91,9.3077,2.3158
+Benin,,2/11/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.03,rain,95.11,60.34,13.33,0.08,1012.3,0.26,10,67.41,95.11,9.3077,2.3158
+Benin,,2/12/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.01,rain,96.71,59.63,22.13,0.12,1011.9,0.07,11,60.34,96.71,9.3077,2.3158
+Benin,,2/13/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.01,rain,99.11,62.41,21.25,0.12,1010.2,0.25,11,59.63,99.11,9.3077,2.3158
+Benin,,2/14/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.04,rain,99.76,61.98,16.28,0.09,1009.6,0.12,12,62.41,99.76,9.3077,2.3158
+Benin,,2/15/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.02,rain,100.68,59.79,15.55,0.08,1010.2,0.15,11,61.98,100.68,9.3077,2.3158
+Benin,,2/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0003,0.05,rain,100.85,63.31,20.09,0.1,1010.3,0.65,8,59.79,100.85,9.3077,2.3158
+Benin,,2/17/2020,Clear throughout the day.,clear-day,0.85,0.0002,0.0004,0.06,rain,101.61,63.07,40.4,0.28,1011.0,0.2,12,63.31,101.61,9.3077,2.3158
+Benin,,2/18/2020,Partly cloudy throughout the day.,clear-day,0.88,0.0,0.0001,0.03,,100.95,64.99,29.47,0.15,1009.6,0.22,9,63.07,100.95,9.3077,2.3158
+Benin,,2/19/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0004,0.04,rain,100.76,66.41,38.81,0.23,1008.7,0.07,12,64.99,100.76,9.3077,2.3158
+Benin,,2/20/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.06,rain,101.74,67.63,32.44,0.16,1008.6,0.13,12,66.41,101.74,9.3077,2.3158
+Benin,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0004,0.06,rain,103.58,67.23,37.21,0.19,1009.2,0.09,12,67.63,103.58,9.3077,2.3158
+Benin,,2/22/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0005,0.05,rain,102.88,69.15,30.62,0.16,1010.6,0.06,11,67.23,102.88,9.3077,2.3158
+Benin,,2/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.04,0.0001,0.0004,0.04,rain,102.7,66.52,18.63,0.09,1010.4,0.34,7,69.15,102.7,9.3077,2.3158
+Benin,,2/24/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0003,0.04,rain,99.73,63.19,20.96,0.1,1010.2,0.02,12,66.52,99.73,9.3077,2.3158
+Benin,,2/25/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0003,0.01,rain,103.28,67.83,30.71,0.17,1009.4,0.22,12,63.19,103.28,9.3077,2.3158
+Benin,,2/26/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0003,0.05,rain,103.23,71.4,53.57,0.37,1009.4,0.16,11,67.83,103.23,9.3077,2.3158
+Benin,,2/27/2020,Clear throughout the day.,clear-day,0.16,0.0001,0.0004,0.04,rain,104.21,71.98,59.89,0.44,1010.0,0.21,12,71.4,104.21,9.3077,2.3158
+Benin,,2/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0011,0.006999999999999999,0.06,rain,105.74,70.9,52.14,0.33,1008.5,0.41,7,71.98,105.74,9.3077,2.3158
+Benin,,2/29/2020,Rain overnight.,partly-cloudy-day,0.22,0.0029,0.0689,0.19,rain,103.71,73.77,66.39,0.53,1008.7,0.57,8,70.9,103.71,9.3077,2.3158
+Benin,,3/1/2020,Humid and partly cloudy throughout the day.,rain,0.25,0.0225,0.1949,0.58,rain,99.18,73.33,70.82,0.65,1010.6,0.54,9,73.77,99.18,9.3077,2.3158
+Benin,,3/2/2020,Humid and mostly cloudy throughout the day.,rain,0.28,0.0059,0.0257,0.34,rain,101.09,72.87,70.69,0.66,1011.8,0.61,8,73.33,101.09,9.3077,2.3158
+Benin,,3/3/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.32,0.002,0.017,0.15,rain,102.37,74.25,66.33,0.55,1011.3,0.77,6,72.87,102.37,9.3077,2.3158
+Benin,,3/4/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0003,0.04,rain,103.85,73.49,49.24,0.32,1009.8,0.22,11,74.25,103.85,9.3077,2.3158
+Benin,,3/5/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.39,0.0013,0.0118,0.1,rain,102.2,72.46,61.3,0.49,1009.1,0.36,7,73.49,102.2,9.3077,2.3158
+Benin,,3/6/2020,Humid throughout the day.,clear-day,0.43,0.0004,0.0031,0.06,rain,103.25,74.49,63.19,0.5,1008.7,0.21,11,72.46,103.25,9.3077,2.3158
+Benin,,3/7/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0002,0.0021,0.1,rain,102.3,75.48,66.73,0.53,1009.8,0.4,11,74.49,102.3,9.3077,2.3158
+Benin,,3/8/2020,Humid throughout the day.,clear-day,0.5,0.0025,0.0166,0.23,rain,102.14,74.36,69.68,0.57,1008.8,0.23,12,75.48,102.14,9.3077,2.3158
+Benin,,3/9/2020,Humid and mostly cloudy throughout the day.,rain,0.54,0.0072,0.0227,0.27,rain,103.05,75.7,69.83,0.59,1007.9,0.62,7,74.36,103.05,9.3077,2.3158
+Benin,,3/10/2020,Humid and overcast throughout the day.,cloudy,0.58,0.0017,0.019,0.22,rain,102.83,72.53,61.91,0.5,1008.1,0.94,6,75.7,102.83,9.3077,2.3158
+Benin,,3/11/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.0002,0.0004,0.1,rain,106.34,76.67,60.72,0.48,1007.8,0.69,8,72.53,106.34,9.3077,2.3158
+Benin,,3/12/2020,Humid throughout the day.,clear-day,0.66,0.006999999999999999,0.0542,0.22,rain,101.77,74.45,70.4,0.58,1008.7,0.31,13,76.67,101.77,9.3077,2.3158
+Benin,,3/13/2020,Humid and overcast throughout the day.,cloudy,0.69,0.002,0.0116,0.17,rain,99.25,70.34,68.26,0.59,1010.0,0.94,6,74.45,99.25,9.3077,2.3158
+Benin,,3/14/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.73,0.0001,0.0003,0.03,rain,101.68,68.42,58.67,0.51,1009.3,0.78,6,70.34,101.68,9.3077,2.3158
+Benin,,3/15/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.0,0.0,0.0,,103.18,74.43,54.84,0.39,1008.3,0.8,9,68.42,103.18,9.3077,2.3158
+Benin,,3/16/2020,Humid and overcast throughout the day.,cloudy,0.8,0.0001,0.0003,0.05,rain,102.04,76.86,63.21,0.49,1008.0,0.89,5,74.43,102.04,9.3077,2.3158
+Benin,,3/17/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0015,0.0115,0.09,rain,104.16,77.92,67.56,0.51,1008.1,0.56,12,76.86,104.16,9.3077,2.3158
+Benin,,3/18/2020,Humid and mostly cloudy throughout the day.,rain,0.86,0.0201,0.0822,0.3,rain,103.68,75.39,70.21,0.58,1008.6,0.66,7,77.92,103.68,9.3077,2.3158
+Benin,,3/19/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.89,0.0015,0.0294,0.11,rain,101.82,76.8,71.08,0.62,1009.1,0.74,11,75.39,101.82,9.3077,2.3158
+Benin,,3/20/2020,Humid and overcast throughout the day.,cloudy,0.92,0.016,0.085,0.22,rain,99.63,76.31,72.44,0.66,1008.8,1.0,5,76.8,99.63,9.3077,2.3158
+Benin,,3/21/2020,Possible light rain overnight.,rain,0.95,0.0099,0.0504,0.47,rain,101.92,72.92,71.46,0.64,1008.3,0.91,7,76.31,101.92,9.3077,2.3158
+Benin,,3/22/2020,Possible light rain in the evening and overnight.,rain,0.98,0.0162,0.0662,0.65,rain,97.38,73.39,71.35,0.69,1009.4,0.87,6,72.92,97.38,9.3077,2.3158
+Benin,,3/23/2020,Humid and overcast throughout the day.,rain,0.01,0.002,0.0275,0.52,rain,85.37,72.45,71.69,0.79,1010.9,1.0,6,73.39,85.37,9.3077,2.3158
+Benin,,3/24/2020,Overcast throughout the day.,rain,0.04,0.0067,0.0412,0.4,rain,93.68,71.94,69.92,0.71,1010.5,0.95,7,72.45,93.68,9.3077,2.3158
+Benin,,3/25/2020,Humid and mostly cloudy throughout the day.,cloudy,0.07,0.0056,0.0485,0.17,rain,96.21,73.94,69.04,0.64,1009.4,0.89,9,71.94,96.21,9.3077,2.3158
+Benin,,3/26/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0004,0.07,rain,97.74,74.31,68.29,0.57,1009.3,0.55,12,73.94,97.74,9.3077,2.3158
+Benin,,3/27/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0002,0.0054,0.03,rain,100.1,76.08,70.45,0.6,1009.2,0.45,10,74.31,100.1,9.3077,2.3158
+Benin,,3/28/2020,Humid and partly cloudy throughout the day.,rain,0.17,0.018000000000000002,0.0791,0.25,rain,103.97,73.43,70.33,0.59,1008.4,0.4,9,76.08,103.97,9.3077,2.3158
+Benin,,3/29/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.2,0.0003,0.0086,0.09,rain,98.96,76.9,72.5,0.66,1007.7,0.74,6,73.43,98.96,9.3077,2.3158
+Benin,,3/30/2020,Humid and overcast throughout the day.,cloudy,0.23,0.0065,0.0563,0.15,rain,99.71,75.65,71.46,0.6,1007.8,0.92,5,76.9,99.71,9.3077,2.3158
+Benin,,3/31/2020,Humid and overcast throughout the day.,cloudy,0.26,0.0014,0.0071,0.11,rain,103.2,75.56,70.55,0.61,1008.8,0.9,6,75.65,103.2,9.3077,2.3158
+Benin,,4/1/2020,Humid and overcast throughout the day.,cloudy,0.3,0.0019,0.013999999999999999,0.07,rain,99.07,76.17,71.3,0.62,1008.7,0.88,7,75.56,99.07,9.3077,2.3158
+Benin,,4/2/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0002,0.0025,0.07,rain,102.24,75.18,70.55,0.57,1008.0,0.48,9,76.17,102.24,9.3077,2.3158
+Benin,,4/3/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0049,0.0359,0.17,rain,100.78,73.35,72.36,0.64,1009.5,0.82,7,75.18,100.78,9.3077,2.3158
+Benin,,4/4/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0012,0.0117,0.08,rain,101.78,75.9,71.06,0.62,1010.0,0.69,10,73.35,101.78,9.3077,2.3158
+Benin,,4/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0002,0.0023,0.05,rain,99.33,76.03,71.77,0.6,1009.5,0.43,11,75.9,99.33,9.3077,2.3158
+Benin,,4/6/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0032,0.0292,0.14,rain,101.68,76.42,71.32,0.61,1009.4,0.72,6,76.03,101.68,9.3077,2.3158
+Benin,,4/7/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0006,0.0034,0.14,rain,97.58,77.09,72.46,0.63,1008.6,0.67,8,76.42,97.58,9.3077,2.3158
+Benin,,4/8/2020,Possible light rain in the evening and overnight.,rain,0.57,0.0184,0.1523,0.57,rain,94.15,71.43,71.64,0.69,1009.3,0.66,8,77.09,94.15,9.3077,2.3158
+Benin,,4/9/2020,Possible light rain in the morning.,rain,0.61,0.0067,0.0462,0.63,rain,96.17,74.63,69.07,0.65,1011.1,0.88,7,71.43,96.17,9.3077,2.3158
+Benin,,4/10/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.0002,0.0012,0.13,rain,98.94,77.69,65.34,0.51,1010.3,0.63,8,74.63,98.94,9.3077,2.3158
+Benin,,4/11/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.68,0.0,0.0003,0.03,,99.6,74.7,68.06,0.56,1010.8,0.82,6,77.69,99.6,9.3077,2.3158
+Benin,,4/12/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0008,0.0071,0.08,rain,100.68,75.95,67.79,0.54,1009.5,0.32,11,74.7,100.68,9.3077,2.3158
+Benin,,4/13/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.0012,0.0081,0.21,rain,99.01,77.61,72.2,0.63,1009.1,0.53,9,75.95,99.01,9.3077,2.3158
+Benin,,4/14/2020,Humid throughout the day.,clear-day,0.78,0.0047,0.0443,0.24,rain,100.71,76.4,72.51,0.62,1008.8,0.19,13,77.61,100.71,9.3077,2.3158
+Benin,,4/15/2020,Humid throughout the day.,rain,0.81,0.0073,0.0368,0.28,rain,102.86,73.96,72.21,0.62,1008.3,0.25,14,76.4,102.86,9.3077,2.3158
+Benin,,4/16/2020,Humid and partly cloudy throughout the day.,rain,0.84,0.0105,0.0974,0.35,rain,99.69,75.96,73.22,0.7,1008.1,0.55,10,73.96,99.69,9.3077,2.3158
+Benin,,4/17/2020,Humid and overcast throughout the day.,cloudy,0.87,0.0012,0.0105,0.08,rain,96.7,75.05,74.33,0.73,1009.8,0.89,6,75.96,96.7,9.3077,2.3158
+Benin,,4/18/2020,Possible light rain in the evening.,rain,0.9,0.0172,0.1193,0.7,rain,95.85,72.29,73.02,0.73,1011.4,0.79,9,75.05,95.85,9.3077,2.3158
+Benin,,4/19/2020,Possible light rain in the evening and overnight.,rain,0.93,0.0068,0.0301,0.57,rain,96.46,72.07,72.1,0.72,1011.5,0.87,6,72.29,96.46,9.3077,2.3158
+Benin,,4/20/2020,Humid and overcast throughout the day.,rain,0.96,0.0006,0.0126,0.27,rain,97.53,74.75,70.59,0.66,1010.6,0.92,6,72.07,97.53,9.3077,2.3158

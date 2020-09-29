@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Thailand,,12/31/2019,Mostly cloudy throughout the day.,partly-cloudy-day,0.2,0.0001,0.0002,0.05,rain,92.61,72.47,67.82,0.63,1016.8,0.71,6,74.02,92.61,15.0,101.0
+Thailand,,1/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.06,rain,93.42,70.12,67.58,0.64,1017.3,0.4,9,72.47,93.42,15.0,101.0
+Thailand,,1/2/2020,Clear throughout the day.,clear-day,0.26,0.0,0.0,0.0,,96.5,69.39,65.02,0.6,1015.2,0.08,8,70.12,96.5,15.0,101.0
+Thailand,,1/3/2020,Clear throughout the day.,clear-day,0.29,0.0002,0.0004,0.09,rain,95.89,67.38,65.62,0.61,1013.2,0.23,9,69.39,95.89,15.0,101.0
+Thailand,,1/4/2020,Clear throughout the day.,clear-day,0.32,0.0001,0.0003,0.06,rain,95.98,66.96,63.86,0.59,1013.0,0.07,9,67.38,95.98,15.0,101.0
+Thailand,,1/5/2020,Clear throughout the day.,clear-day,0.35,0.0,0.0002,0.02,,97.04,68.08,63.29,0.58,1013.0,0.01,9,66.96,97.04,15.0,101.0
+Thailand,,1/6/2020,Clear throughout the day.,clear-day,0.39,0.0001,0.0002,0.05,rain,98.75,66.26,60.79,0.52,1012.2,0.18,9,68.12,98.75,15.0,101.0
+Thailand,,1/7/2020,Partly cloudy throughout the day.,clear-day,0.42,0.0,0.0002,0.02,,98.21,69.61,61.66,0.52,1012.0,0.28,6,66.26,98.21,15.0,101.0
+Thailand,,1/8/2020,Clear throughout the day.,clear-day,0.46,0.0,0.0001,0.03,,98.73,70.04,64.46,0.55,1011.3,0.14,9,69.37,98.73,15.0,101.0
+Thailand,,1/9/2020,Clear throughout the day.,clear-day,0.49,0.0001,0.0004,0.03,rain,100.14,74.61,63.63,0.54,1010.0,0.09,8,70.04,100.14,15.0,101.0
+Thailand,,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0002,0.001,0.1,rain,99.49,72.68,67.5,0.58,1009.9,0.78,6,74.61,99.49,15.0,101.0
+Thailand,,1/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0014,0.0081,0.13,rain,98.71,71.11,66.66,0.6,1009.9,0.72,7,72.7,98.71,15.0,101.0
+Thailand,,1/12/2020,Humid throughout the day.,partly-cloudy-day,0.6,0.0009,0.0045,0.1,rain,97.14,72.8,66.36,0.6,1010.1,0.39,7,71.11,97.14,15.0,101.0
+Thailand,,1/13/2020,Clear throughout the day.,partly-cloudy-day,0.64,0.0004,0.0021,0.09,rain,98.28,70.44,66.6,0.59,1011.2,0.33,9,72.8,98.28,15.0,101.0
+Thailand,,1/14/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0006,0.03,,98.46,71.73,65.37,0.57,1011.3,0.03,9,70.44,98.46,15.0,101.0
+Thailand,,1/15/2020,Humid throughout the day.,clear-day,0.71,0.0001,0.0002,0.06,rain,99.08,73.33,65.98,0.58,1011.9,0.09,9,71.73,99.08,15.0,101.0
+Thailand,,1/16/2020,Humid throughout the day.,clear-day,0.75,0.0001,0.0004,0.06,rain,98.72,70.87,66.95,0.58,1012.3,0.08,10,73.33,98.72,15.0,101.0
+Thailand,,1/17/2020,Clear throughout the day.,clear-day,0.79,0.0001,0.0002,0.06,rain,98.27,71.37,61.5,0.49,1012.0,0.17,10,70.87,98.27,15.0,101.0
+Thailand,,1/18/2020,Clear throughout the day.,clear-day,0.82,0.0001,0.001,0.03,rain,99.28,73.39,62.89,0.51,1012.1,0.08,9,71.37,99.28,15.0,101.0
+Thailand,,1/19/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0004,0.06,rain,96.25,70.68,64.02,0.52,1013.7,0.06,10,73.39,96.25,15.0,101.0
+Thailand,,1/20/2020,Clear throughout the day.,clear-day,0.89,0.0001,0.0002,0.05,rain,98.27,71.21,65.44,0.54,1014.5,0.13,8,70.68,98.27,15.0,101.0
+Thailand,,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.92,0.0002,0.0022,0.05,rain,99.98,72.81,66.89,0.56,1013.3,0.43,8,71.21,99.98,15.0,101.0
+Thailand,,1/22/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.96,0.0001,0.0006,0.07,rain,99.25,74.28,70.26,0.63,1011.6,0.5,7,72.81,99.25,15.0,101.0
+Thailand,,1/23/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.99,0.0001,0.0009,0.11,rain,99.87,73.35,68.95,0.62,1011.1,0.38,9,74.28,99.87,15.0,101.0
+Thailand,,1/24/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.02,0.0003,0.0017,0.13,rain,96.54,73.11,70.7,0.67,1009.9,0.7,7,73.35,96.54,15.0,101.0
+Thailand,,1/25/2020,Humid and overcast throughout the day.,cloudy,0.05,0.0002,0.0009,0.16,rain,97.35,69.48,64.97,0.59,1009.6,1.0,5,73.11,97.35,15.0,101.0
+Thailand,,1/26/2020,Overcast throughout the day.,cloudy,0.08,0.0001,0.0004,0.05,rain,97.18,69.89,61.1,0.57,1008.9,0.89,7,69.48,97.18,15.0,101.0
+Thailand,,1/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.11,0.0,0.0004,0.06,,96.23,66.59,60.85,0.58,1010.3,0.45,7,69.89,96.23,15.0,101.0
+Thailand,,1/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.14,0.0002,0.0003,0.09,rain,96.75,67.09,60.82,0.57,1012.8,0.58,7,66.59,96.75,15.0,101.0
+Thailand,,1/29/2020,Clear throughout the day.,partly-cloudy-day,0.17,0.0001,0.0003,0.05,rain,93.58,66.87,60.55,0.56,1013.1,0.34,9,67.09,93.58,15.0,101.0
+Thailand,,1/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0001,0.0002,0.07,rain,93.62,63.24,58.06,0.51,1013.5,0.51,7,66.87,93.62,15.0,101.0
+Thailand,,1/31/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0003,0.07,rain,95.34,67.37,59.06,0.54,1013.5,0.15,8,63.24,95.34,15.0,101.0
+Thailand,,2/1/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0003,0.05,rain,97.81,68.5,58.4,0.48,1014.1,0.0,10,67.37,97.81,15.0,101.0
+Thailand,,2/2/2020,Clear throughout the day.,clear-day,0.3,0.0,0.0002,0.03,,99.38,72.13,63.37,0.53,1012.8,0.2,10,68.5,99.38,15.0,101.0
+Thailand,,2/3/2020,Humid throughout the day.,clear-day,0.33,0.0004,0.001,0.15,rain,96.92,71.01,67.67,0.63,1012.0,0.26,10,72.13,96.92,15.0,101.0
+Thailand,,2/4/2020,Humid throughout the day.,clear-day,0.36,0.0001,0.0003,0.08,rain,97.87,71.6,66.85,0.61,1011.6,0.09,10,71.01,97.87,15.0,101.0
+Thailand,,2/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0007,0.006,0.12,rain,97.24,73.59,67.83,0.64,1012.3,0.4,10,71.6,97.24,15.0,101.0
+Thailand,,2/6/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.44,0.0014,0.0071,0.18,rain,99.99,70.95,67.52,0.61,1013.2,0.65,5,73.59,99.99,15.0,101.0
+Thailand,,2/7/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0003,0.03,,100.25,72.31,60.7,0.48,1013.6,0.09,10,70.95,100.25,15.0,101.0
+Thailand,,2/8/2020,Clear throughout the day.,partly-cloudy-day,0.51,0.0001,0.0003,0.05,rain,97.32,68.39,60.51,0.48,1014.8,0.45,10,72.31,97.32,15.0,101.0
+Thailand,,2/9/2020,Clear throughout the day.,partly-cloudy-day,0.55,0.0002,0.0004,0.09,rain,95.07,72.51,61.92,0.53,1014.7,0.51,11,68.39,95.07,15.0,101.0
+Thailand,,2/10/2020,Overcast throughout the day.,partly-cloudy-day,0.59,0.0001,0.0002,0.09,rain,99.38,74.48,63.68,0.51,1013.6,0.79,5,72.51,99.38,15.0,101.0
+Thailand,,2/11/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.63,0.0001,0.0004,0.05,rain,100.14,75.13,68.14,0.57,1012.5,0.45,9,74.48,100.14,15.0,101.0
+Thailand,,2/12/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.66,0.0007,0.0073,0.13,rain,99.82,75.82,71.4,0.65,1011.0,0.78,7,75.13,99.82,15.0,101.0
+Thailand,,2/13/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.7,0.0005,0.005,0.11,rain,99.65,72.98,69.98,0.62,1009.2,0.32,7,75.82,99.65,15.0,101.0
+Thailand,,2/14/2020,Humid throughout the day.,clear-day,0.74,0.0001,0.0003,0.05,rain,99.39,69.9,54.38,0.48,1010.5,0.03,10,72.98,99.39,15.0,101.0
+Thailand,,2/15/2020,Humid throughout the day.,clear-day,0.77,0.0001,0.0003,0.05,rain,102.45,68.6,62.07,0.55,1012.0,0.2,11,69.9,102.45,15.0,101.0
+Thailand,,2/16/2020,Clear throughout the day.,clear-day,0.81,0.0,0.0002,0.02,,96.57,68.02,61.69,0.5,1013.8,0.0,11,68.6,96.57,15.0,101.0
+Thailand,,2/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.0002,0.0004,0.07,rain,92.81,69.47,58.56,0.49,1015.9,0.59,5,68.02,92.81,15.0,101.0
+Thailand,,2/18/2020,Clear throughout the day.,clear-day,0.87,0.0001,0.0004,0.05,rain,94.78,68.05,60.37,0.51,1015.5,0.26,11,69.47,94.78,15.0,101.0
+Thailand,,2/19/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0004,0.03,rain,98.4,69.29,59.86,0.51,1015.1,0.14,11,68.05,98.4,15.0,101.0
+Thailand,,2/20/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.05,rain,97.21,68.97,58.2,0.48,1017.1,0.06,11,69.29,97.21,15.0,101.0
+Thailand,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0004,0.05,rain,97.01,69.3,58.36,0.47,1017.5,0.0,11,68.97,97.01,15.0,101.0
+Thailand,,2/22/2020,Clear throughout the day.,clear-day,1.0,0.0002,0.0004,0.06,rain,97.7,67.3,59.39,0.49,1016.2,0.0,11,69.3,97.7,15.0,101.0
+Thailand,,2/23/2020,Clear throughout the day.,clear-day,0.03,0.0,0.0004,0.02,,98.83,64.7,54.38,0.43,1013.2,0.21,11,67.3,98.83,15.0,101.0
+Thailand,,2/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.06,0.0001,0.0004,0.06,rain,100.95,68.1,49.07,0.38,1011.6,0.46,10,64.7,100.95,15.0,101.0
+Thailand,,2/25/2020,Clear throughout the day.,clear-day,0.09,0.0001,0.0003,0.04,rain,101.37,66.53,56.99,0.46,1012.1,0.3,10,68.1,101.37,15.0,101.0
+Thailand,,2/26/2020,Overcast throughout the day.,cloudy,0.12,0.0,0.0003,0.02,,99.65,73.64,54.9,0.41,1011.2,0.88,5,66.53,99.65,15.0,101.0
+Thailand,,2/27/2020,Humid and mostly cloudy throughout the day.,cloudy,0.15,0.0001,0.0004,0.04,rain,99.63,75.96,63.52,0.49,1010.3,0.9,6,73.64,99.63,15.0,101.0
+Thailand,,2/28/2020,Humid and overcast throughout the day.,cloudy,0.18,0.0015,0.0117,0.2,rain,95.19,75.47,71.26,0.66,1010.1,0.94,5,75.96,95.19,15.0,101.0
+Thailand,,2/29/2020,Humid throughout the day.,rain,0.21,0.0013,0.0042,0.26,rain,98.46,77.37,71.57,0.64,1010.3,0.36,11,75.47,98.46,15.0,101.0
+Thailand,,3/1/2020,Possible light rain in the evening and overnight.,rain,0.24,0.0121,0.0773,0.53,rain,96.55,74.24,72.94,0.67,1010.0,0.61,8,77.37,96.55,15.0,101.0
+Thailand,,3/2/2020,Possible light rain overnight.,rain,0.27,0.0013,0.0103,0.44,rain,98.06,77.14,71.74,0.66,1010.1,0.69,10,74.24,98.06,15.0,101.0
+Thailand,,3/3/2020,Possible light rain overnight.,rain,0.31,0.0098,0.0849,0.7,rain,99.9,73.69,71.28,0.62,1009.9,0.37,11,77.14,99.9,15.0,101.0
+Thailand,,3/4/2020,Rain in the morning and overnight.,rain,0.34,0.0076,0.0338,0.76,rain,92.76,73.8,72.79,0.72,1011.2,0.41,11,73.69,92.76,15.0,101.0
+Thailand,,3/5/2020,Light rain in the morning.,rain,0.38,0.0226,0.105,0.88,rain,94.39,74.69,72.94,0.72,1012.4,0.44,9,73.8,94.39,15.0,101.0
+Thailand,,3/6/2020,Humid and mostly cloudy throughout the day.,rain,0.42,0.0034,0.0272,0.32,rain,98.35,76.83,71.79,0.66,1011.9,0.53,7,74.69,98.35,15.0,101.0
+Thailand,,3/7/2020,Humid throughout the day.,clear-day,0.46,0.0001,0.0004,0.05,rain,102.57,76.3,67.28,0.54,1008.8,0.22,12,76.83,102.57,15.0,101.0
+Thailand,,3/8/2020,Humid throughout the day.,clear-day,0.49,0.0001,0.0003,0.06,rain,104.02,75.22,63.96,0.51,1006.9,0.0,12,76.3,104.02,15.0,101.0
+Thailand,,3/9/2020,Humid throughout the day.,clear-day,0.53,0.0,0.0004,0.03,,104.88,76.66,65.5,0.49,1007.3,0.01,12,75.22,104.88,15.0,101.0
+Thailand,,3/10/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0002,0.0004,0.07,rain,105.6,78.35,64.84,0.49,1009.0,0.33,10,76.66,105.6,15.0,101.0
+Thailand,,3/11/2020,Humid throughout the day.,clear-day,0.61,0.0001,0.0004,0.07,rain,104.71,78.08,68.76,0.52,1010.5,0.0,12,78.35,104.71,15.0,101.0
+Thailand,,3/12/2020,Humid throughout the day.,clear-day,0.65,0.0005,0.0054,0.09,rain,105.35,80.29,70.18,0.56,1011.1,0.01,12,78.08,105.35,15.0,101.0
+Thailand,,3/13/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0007,0.0075,0.16,rain,106.38,76.29,72.49,0.58,1009.7,0.38,11,80.29,106.38,15.0,101.0
+Thailand,,3/14/2020,Rain in the morning.,rain,0.72,0.0357,0.1607,0.78,rain,92.84,75.74,74.18,0.74,1011.9,0.84,6,76.29,92.84,15.0,101.0
+Thailand,,3/15/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.0017,0.0129,0.16,rain,96.94,78.41,73.73,0.7,1012.0,0.85,8,75.74,96.94,15.0,101.0
+Thailand,,3/16/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.79,0.0032,0.025,0.16,rain,101.49,76.58,73.21,0.65,1011.8,0.8,9,78.41,101.49,15.0,101.0
+Thailand,,3/17/2020,Humid throughout the day.,partly-cloudy-day,0.82,0.0069,0.064,0.22,rain,99.7,79.11,74.04,0.67,1010.2,0.38,12,76.58,99.7,15.0,101.0
+Thailand,,3/18/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.85,0.0001,0.0003,0.03,rain,100.27,78.98,73.17,0.62,1009.4,0.61,12,79.11,100.27,15.0,101.0
+Thailand,,3/19/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.88,0.0021,0.0147,0.17,rain,98.67,77.92,73.13,0.64,1010.1,0.7,7,78.98,98.67,15.0,101.0
+Thailand,,3/20/2020,Humid throughout the day.,clear-day,0.91,0.0004,0.0032,0.11,rain,92.95,77.45,73.03,0.67,1011.3,0.31,12,77.92,92.95,15.0,101.0
+Thailand,,3/21/2020,Humid throughout the day.,clear-day,0.94,0.0012,0.0102,0.09,rain,99.41,77.94,70.96,0.6,1010.1,0.2,13,77.45,99.41,15.0,101.0
+Thailand,,3/22/2020,Humid throughout the day.,clear-day,0.98,0.0004,0.0029,0.09,rain,100.82,77.52,70.49,0.59,1009.6,0.16,13,77.94,100.82,15.0,101.0
+Thailand,,3/23/2020,Humid throughout the day.,clear-day,0.01,0.002,0.0117,0.12,rain,103.24,76.25,69.87,0.59,1008.4,0.01,12,77.52,103.24,15.0,101.0
+Thailand,,3/24/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.04,0.0019,0.0234,0.11,rain,101.08,76.96,71.38,0.6,1008.0,0.46,8,76.25,101.08,15.0,101.0
+Thailand,,3/25/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0003,0.002,0.09,rain,102.67,78.21,69.51,0.57,1009.1,0.36,10,76.96,102.67,15.0,101.0
+Thailand,,3/26/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0004,0.06,rain,104.37,77.85,70.33,0.56,1009.1,0.54,9,78.21,104.37,15.0,101.0
+Thailand,,3/27/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0001,0.0003,0.03,rain,104.41,77.88,70.6,0.57,1008.1,0.32,10,77.85,104.41,15.0,101.0
+Thailand,,3/28/2020,Humid throughout the day.,clear-day,0.16,0.0001,0.0004,0.05,rain,104.56,78.35,70.02,0.54,1007.3,0.22,12,77.88,104.56,15.0,101.0
+Thailand,,3/29/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.19,0.0001,0.0004,0.05,rain,104.5,78.89,70.97,0.56,1008.0,0.51,5,78.35,104.5,15.0,101.0
+Thailand,,3/30/2020,Humid throughout the day.,clear-day,0.22,0.0045,0.0387,0.13,rain,105.56,80.25,71.71,0.57,1008.4,0.14,13,78.89,105.56,15.0,101.0
+Thailand,,3/31/2020,Humid throughout the day.,clear-day,0.26,0.0001,0.0004,0.04,rain,103.84,78.17,71.06,0.54,1008.0,0.3,13,80.25,103.84,15.0,101.0
+Thailand,,4/1/2020,Humid throughout the day.,clear-day,0.29,0.0048,0.0314,0.2,rain,102.19,78.86,74.14,0.64,1008.6,0.3,13,78.17,102.19,15.0,101.0
+Thailand,,4/2/2020,Humid throughout the day.,clear-day,0.33,0.0008,0.0103,0.08,rain,103.6,78.94,73.77,0.61,1009.9,0.14,13,78.86,103.6,15.0,101.0
+Thailand,,4/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.36,0.0069,0.032,0.22,rain,102.14,78.93,74.69,0.65,1010.2,0.46,11,78.94,102.14,15.0,101.0
+Thailand,,4/4/2020,Humid and partly cloudy throughout the day.,rain,0.4,0.0051,0.0254,0.27,rain,101.14,80.28,74.34,0.65,1010.6,0.37,10,78.93,101.14,15.0,101.0
+Thailand,,4/5/2020,Humid and partly cloudy throughout the day.,rain,0.44,0.008,0.0662,0.36,rain,100.98,80.1,74.41,0.65,1010.0,0.62,9,80.28,100.98,15.0,101.0
+Thailand,,4/6/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.48,0.0021,0.0168,0.2,rain,102.34,78.58,73.06,0.6,1008.6,0.85,6,80.1,102.34,15.0,101.0
+Thailand,,4/7/2020,Humid and partly cloudy throughout the day.,rain,0.52,0.0098,0.0692,0.33,rain,99.08,75.35,72.65,0.6,1009.2,0.52,10,78.58,99.08,15.0,101.0
+Thailand,,4/8/2020,Humid and partly cloudy throughout the day.,rain,0.56,0.0045,0.0246,0.28,rain,97.98,77.51,72.74,0.65,1010.9,0.38,9,75.35,97.98,15.0,101.0
+Thailand,,4/9/2020,Humid throughout the day.,rain,0.6,0.0069,0.0215,0.39,rain,92.47,76.9,74.7,0.72,1012.0,0.55,11,77.51,92.47,15.0,101.0
+Thailand,,4/10/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.63,0.0018,0.0156,0.16,rain,100.3,80.61,73.69,0.64,1011.3,0.48,13,76.9,100.3,15.0,101.0
+Thailand,,4/11/2020,Light rain in the evening and overnight.,rain,0.67,0.0189,0.0971,0.77,rain,100.4,73.97,75.59,0.65,1009.7,0.5,11,80.61,100.4,15.0,101.0
+Thailand,,4/12/2020,Rain in the morning.,rain,0.7,0.0394,0.2214,0.9,rain,89.72,75.58,72.79,0.76,1011.9,0.81,8,73.97,89.72,15.0,101.0
+Thailand,,4/13/2020,Humid and mostly cloudy throughout the day.,rain,0.74,0.003,0.0325,0.32,rain,94.96,78.77,70.92,0.64,1012.3,0.72,8,75.58,94.96,15.0,101.0
+Thailand,,4/14/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.77,0.0032,0.0192,0.24,rain,97.16,79.15,71.64,0.59,1010.9,0.58,11,78.77,97.16,15.0,101.0
+Thailand,,4/15/2020,Light rain starting in the afternoon.,rain,0.8,0.0167,0.0579,0.86,rain,99.21,77.62,74.76,0.66,1009.6,0.92,6,79.15,99.21,15.0,101.0
+Thailand,,4/16/2020,Possible drizzle in the evening and overnight.,rain,0.83,0.0017,0.0128,0.61,rain,97.08,77.87,75.8,0.71,1010.3,0.81,9,77.62,97.08,15.0,101.0
+Thailand,,4/17/2020,Humid and mostly cloudy throughout the day.,rain,0.86,0.0031,0.0542,0.34,rain,99.46,79.77,72.67,0.62,1010.8,0.77,7,77.87,99.46,15.0,101.0
+Thailand,,4/18/2020,Humid and mostly cloudy throughout the day.,rain,0.89,0.0052,0.0363,0.45,rain,99.34,78.69,75.77,0.69,1009.8,0.73,8,79.77,99.34,15.0,101.0
+Thailand,,4/19/2020,Humid throughout the day.,clear-day,0.92,0.0001,0.0006,0.08,rain,102.43,80.35,74.74,0.64,1009.6,0.19,13,78.69,102.43,15.0,101.0
+Thailand,,4/20/2020,Humid throughout the day.,clear-day,0.95,0.0001,0.0003,0.09,rain,105.08,80.47,74.35,0.59,1008.4,0.16,10,80.35,105.08,15.0,101.0

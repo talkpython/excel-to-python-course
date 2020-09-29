@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Cuba,,12/31/2019,Possible light rain in the evening.,rain,0.19,0.0114,0.0441,0.46,rain,77.16,64.18,66.75,0.92,1016.2,0.45,5,63.92,77.16,22.0,-80.0
+Cuba,,1/1/2020,Possible light rain in the evening.,rain,0.22,0.0128,0.0545,0.49,rain,77.77,63.71,67.12,0.93,1016.3,0.58,6,64.16,77.77,22.0,-80.0
+Cuba,,1/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0003,0.0013,0.15,rain,80.64,64.18,65.22,0.86,1016.8,0.45,6,63.71,80.64,22.0,-80.0
+Cuba,,1/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0001,0.0003,0.1,rain,79.78,61.83,64.6,0.85,1017.8,0.42,6,64.18,79.78,22.0,-80.0
+Cuba,,1/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0006,0.0031,0.17,rain,79.81,65.47,64.58,0.85,1019.7,0.43,6,61.83,79.81,22.0,-80.0
+Cuba,,1/5/2020,Mostly cloudy throughout the day.,rain,0.34,0.0021,0.0057,0.3,rain,69.94,57.17,63.02,0.91,1021.3,0.64,5,60.68,69.94,22.0,-80.0
+Cuba,,1/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0006,0.07,rain,70.65,56.82,57.11,0.83,1019.9,0.42,6,56.16,70.65,22.0,-80.0
+Cuba,,1/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0002,0.001,0.1,rain,73.79,58.24,58.22,0.83,1019.7,0.47,6,56.63,73.79,22.0,-80.0
+Cuba,,1/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.0002,0.0004,0.12,rain,71.72,62.17,58.37,0.82,1022.5,0.44,6,58.25,71.72,22.0,-80.0
+Cuba,,1/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.0019,0.0047,0.22,rain,75.45,65.25,64.19,0.9,1022.6,0.67,5,62.17,75.45,22.0,-80.0
+Cuba,,1/10/2020,Mostly cloudy throughout the day.,rain,0.51,0.0101,0.0365,0.43,rain,78.09,65.72,67.05,0.91,1020.5,0.75,4,65.52,78.09,22.0,-80.0
+Cuba,,1/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.55,0.0027,0.0186,0.2,rain,81.87,64.7,64.65,0.82,1020.0,0.39,6,65.57,81.87,22.0,-80.0
+Cuba,,1/12/2020,Partly cloudy throughout the day.,rain,0.58,0.0072,0.0418,0.3,rain,78.78,66.09,65.83,0.86,1021.2,0.45,6,64.7,78.78,22.0,-80.0
+Cuba,,1/13/2020,Mostly cloudy throughout the day.,rain,0.62,0.0034,0.0204,0.28,rain,79.02,65.34,66.29,0.88,1021.9,0.58,5,66.09,79.02,22.0,-80.0
+Cuba,,1/14/2020,Clear throughout the day.,partly-cloudy-day,0.66,0.0006,0.002,0.16,rain,80.35,60.66,62.98,0.81,1021.4,0.37,6,64.15,80.35,22.0,-80.0
+Cuba,,1/15/2020,Clear throughout the day.,clear-day,0.7,0.0001,0.0004,0.08,rain,78.04,63.36,61.17,0.82,1020.5,0.27,6,60.79,78.04,22.0,-80.0
+Cuba,,1/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.0011,0.0023,0.2,rain,77.43,60.8,64.82,0.89,1021.1,0.59,5,63.36,77.43,22.0,-80.0
+Cuba,,1/17/2020,Clear throughout the day.,partly-cloudy-day,0.77,0.0004,0.0011,0.12,rain,75.75,61.98,60.55,0.81,1021.9,0.34,6,60.8,75.75,22.0,-80.0
+Cuba,,1/18/2020,Overcast throughout the day.,rain,0.8,0.0026,0.0087,0.34,rain,75.35,61.67,63.06,0.9,1020.8,0.74,5,61.98,75.35,22.0,-80.0
+Cuba,,1/19/2020,Possible light rain in the evening.,rain,0.84,0.0066,0.038,0.47,rain,77.97,61.38,63.79,0.89,1018.8,0.63,6,61.67,77.97,22.0,-80.0
+Cuba,,1/20/2020,Possible light rain in the afternoon and evening.,rain,0.87,0.017,0.0969,0.72,rain,77.6,61.08,64.5,0.9,1017.6,0.54,6,61.38,77.6,22.0,-80.0
+Cuba,,1/21/2020,Possible light rain in the morning and afternoon.,rain,0.91,0.0069,0.0333,0.62,rain,68.72,47.83,61.43,0.97,1016.9,0.67,5,54.93,68.72,22.0,-80.0
+Cuba,,1/22/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.07,rain,61.51,49.96,44.35,0.72,1017.1,0.11,7,47.83,61.51,22.0,-80.0
+Cuba,,1/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0002,0.0005,0.1,rain,71.18,55.32,52.82,0.8,1015.1,0.33,6,50.17,71.18,22.0,-80.0
+Cuba,,1/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.01,0.002,0.0146,0.2,rain,74.43,55.89,57.46,0.84,1015.7,0.32,7,55.32,74.43,22.0,-80.0
+Cuba,,1/25/2020,Clear throughout the day.,clear-day,0.04,0.0014,0.0116,0.19,rain,75.15,57.44,58.45,0.83,1016.6,0.24,7,55.89,75.15,22.0,-80.0
+Cuba,,1/26/2020,Partly cloudy throughout the day.,clear-day,0.07,0.0025,0.0163,0.24,rain,74.95,57.74,59.34,0.84,1016.8,0.3,8,57.44,74.95,22.0,-80.0
+Cuba,,1/27/2020,Clear throughout the day.,clear-day,0.1,0.0024,0.0152,0.24,rain,74.16,60.27,61.65,0.9,1015.3,0.23,7,57.74,74.16,22.0,-80.0
+Cuba,,1/28/2020,Partly cloudy throughout the day.,rain,0.13,0.0083,0.0248,0.53,rain,76.83,61.24,63.88,0.91,1013.4,0.32,6,60.27,76.83,22.0,-80.0
+Cuba,,1/29/2020,Partly cloudy throughout the day.,rain,0.16,0.0055,0.0293,0.42,rain,77.35,63.27,64.66,0.91,1014.0,0.29,6,61.24,77.35,22.0,-80.0
+Cuba,,1/30/2020,Possible light rain overnight.,rain,0.19,0.0064,0.0268,0.39,rain,78.89,63.84,65.62,0.9,1013.9,0.41,6,63.27,78.89,22.0,-80.0
+Cuba,,1/31/2020,Mostly cloudy throughout the day.,rain,0.22,0.0038,0.0322,0.46,rain,79.32,62.72,65.71,0.88,1015.9,0.65,6,63.84,79.32,22.0,-80.0
+Cuba,,2/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0017,0.0042,0.24,rain,78.17,61.41,66.03,0.9,1016.9,0.47,7,62.72,78.17,22.0,-80.0
+Cuba,,2/2/2020,Partly cloudy throughout the day.,rain,0.28,0.0008,0.0062,0.26,rain,73.04,52.4,58.19,0.8,1019.0,0.37,7,55.11,73.04,22.0,-80.0
+Cuba,,2/3/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0003,0.1,rain,76.34,55.13,54.22,0.77,1020.2,0.04,8,52.4,76.34,22.0,-80.0
+Cuba,,2/4/2020,Clear throughout the day.,clear-day,0.35,0.0002,0.0004,0.13,rain,79.93,61.54,57.38,0.78,1019.3,0.04,8,55.13,79.93,22.0,-80.0
+Cuba,,2/5/2020,Partly cloudy throughout the day.,clear-day,0.38,0.0004,0.0022,0.14,rain,80.88,63.13,63.77,0.85,1016.5,0.29,7,61.54,80.88,22.0,-80.0
+Cuba,,2/6/2020,Partly cloudy throughout the day.,rain,0.42,0.0019,0.0064,0.28,rain,76.86,67.07,66.47,0.91,1013.4,0.34,8,63.13,76.86,22.0,-80.0
+Cuba,,2/7/2020,Partly cloudy throughout the day.,rain,0.45,0.0029,0.0066,0.33,rain,78.94,64.35,67.08,0.88,1015.5,0.56,6,65.25,78.94,22.0,-80.0
+Cuba,,2/8/2020,Rain in the evening and overnight.,rain,0.49,0.0179,0.1047,0.58,rain,80.69,63.92,65.68,0.88,1020.1,0.7,6,64.35,80.69,22.0,-80.0
+Cuba,,2/9/2020,Foggy overnight.,rain,0.53,0.0015,0.0057,0.43,rain,79.8,64.47,64.74,0.87,1021.5,0.43,7,63.92,79.8,22.0,-80.0
+Cuba,,2/10/2020,Clear throughout the day.,rain,0.57,0.0054,0.0331,0.34,rain,82.1,64.95,63.82,0.82,1020.0,0.43,8,64.47,82.1,22.0,-80.0
+Cuba,,2/11/2020,Partly cloudy throughout the day.,rain,0.61,0.0048,0.0189,0.34,rain,82.78,65.19,66.46,0.87,1018.5,0.49,7,64.95,82.78,22.0,-80.0
+Cuba,,2/12/2020,Clear throughout the day.,clear-day,0.64,0.002,0.0132,0.21,rain,82.47,63.45,65.52,0.83,1017.4,0.3,9,65.19,82.47,22.0,-80.0
+Cuba,,2/13/2020,Clear throughout the day.,clear-day,0.68,0.0015,0.0106,0.19,rain,82.79,63.39,64.69,0.84,1017.4,0.26,8,63.45,82.79,22.0,-80.0
+Cuba,,2/14/2020,Clear throughout the day.,clear-day,0.72,0.0023,0.0191,0.22,rain,83.17,62.67,64.29,0.82,1019.0,0.21,9,63.39,83.17,22.0,-80.0
+Cuba,,2/15/2020,Clear throughout the day.,clear-day,0.75,0.0002,0.001,0.11,rain,81.81,59.92,61.73,0.79,1019.5,0.24,9,62.67,81.81,22.0,-80.0
+Cuba,,2/16/2020,Clear throughout the day.,clear-day,0.79,0.0013,0.0049,0.17,rain,81.51,62.61,61.97,0.8,1017.5,0.27,8,59.92,81.51,22.0,-80.0
+Cuba,,2/17/2020,Clear throughout the day.,clear-day,0.82,0.001,0.0082,0.19,rain,82.82,64.97,63.18,0.81,1016.9,0.25,8,62.61,82.82,22.0,-80.0
+Cuba,,2/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.86,0.0026,0.0194,0.21,rain,84.55,65.83,65.3,0.8,1017.8,0.42,8,64.97,84.55,22.0,-80.0
+Cuba,,2/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.89,0.0024,0.0128,0.21,rain,83.76,65.77,65.61,0.81,1019.0,0.38,9,65.83,83.76,22.0,-80.0
+Cuba,,2/20/2020,Partly cloudy throughout the day.,rain,0.92,0.0045,0.0269,0.31,rain,83.0,62.36,65.65,0.83,1017.4,0.52,7,65.77,83.0,22.0,-80.0
+Cuba,,2/21/2020,Partly cloudy throughout the day.,rain,0.95,0.0131,0.0513,0.46,rain,79.95,61.14,64.79,0.84,1017.2,0.49,8,62.36,79.95,22.0,-80.0
+Cuba,,2/22/2020,Mostly cloudy throughout the day.,rain,0.98,0.0043,0.0123,0.42,rain,71.65,59.11,62.04,0.9,1017.9,0.68,6,61.14,71.65,22.0,-80.0
+Cuba,,2/23/2020,Mostly cloudy throughout the day.,rain,0.01,0.0038,0.0135,0.36,rain,68.39,57.92,60.47,0.91,1018.2,0.53,6,59.11,68.39,22.0,-80.0
+Cuba,,2/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0008,0.0027,0.16,rain,78.52,60.63,59.56,0.81,1016.6,0.39,8,57.92,78.52,22.0,-80.0
+Cuba,,2/25/2020,Clear throughout the day.,clear-day,0.07,0.0006,0.0031,0.13,rain,79.1,64.51,63.8,0.85,1015.2,0.09,10,60.63,79.1,22.0,-80.0
+Cuba,,2/26/2020,Possible light rain in the afternoon and evening.,rain,0.1,0.0111,0.0275,0.67,rain,74.45,64.26,67.54,0.95,1015.4,0.43,8,64.51,74.45,22.0,-80.0
+Cuba,,2/27/2020,Partly cloudy throughout the day.,rain,0.13,0.0046,0.015,0.39,rain,77.63,59.57,64.08,0.87,1017.6,0.58,9,61.71,77.63,22.0,-80.0
+Cuba,,2/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.16,0.0001,0.0002,0.06,rain,70.95,55.08,57.1,0.82,1021.3,0.64,7,58.23,70.95,22.0,-80.0
+Cuba,,2/29/2020,Clear throughout the day.,clear-day,0.2,0.0001,0.0003,0.04,rain,69.49,51.55,48.87,0.67,1023.1,0.17,10,55.04,69.49,22.0,-80.0
+Cuba,,3/1/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0002,0.07,rain,73.29,53.43,50.45,0.71,1022.1,0.07,10,51.55,73.29,22.0,-80.0
+Cuba,,3/2/2020,Clear throughout the day.,clear-day,0.26,0.0002,0.0008,0.07,rain,79.22,60.04,54.76,0.73,1019.1,0.06,10,53.43,79.22,22.0,-80.0
+Cuba,,3/3/2020,Clear throughout the day.,clear-day,0.29,0.0003,0.0007,0.09,rain,81.56,63.39,61.66,0.8,1017.0,0.15,10,60.04,81.56,22.0,-80.0
+Cuba,,3/4/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0004,0.06,rain,82.15,64.63,65.23,0.84,1017.0,0.11,10,63.39,82.15,22.0,-80.0
+Cuba,,3/5/2020,Clear throughout the day.,clear-day,0.36,0.0002,0.0007,0.08,rain,84.63,64.24,65.99,0.82,1018.0,0.24,11,64.63,84.63,22.0,-80.0
+Cuba,,3/6/2020,Rain in the evening and overnight.,rain,0.4,0.0199,0.1231,0.58,rain,83.27,62.6,65.1,0.81,1017.9,0.44,9,64.24,83.27,22.0,-80.0
+Cuba,,3/7/2020,Mostly cloudy throughout the day.,rain,0.44,0.0018,0.0315,0.47,rain,73.0,58.27,60.09,0.84,1019.4,0.59,8,60.23,73.0,22.0,-80.0
+Cuba,,3/8/2020,Overcast throughout the day.,partly-cloudy-day,0.47,0.0003,0.0009,0.11,rain,69.5,56.34,52.79,0.71,1023.0,0.83,6,58.27,69.5,22.0,-80.0
+Cuba,,3/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.51,0.001,0.0024,0.19,rain,73.96,58.29,56.3,0.77,1023.6,0.5,7,56.34,73.96,22.0,-80.0
+Cuba,,3/10/2020,Mostly cloudy throughout the day.,rain,0.55,0.0011,0.0038,0.27,rain,76.01,59.54,59.8,0.83,1022.2,0.49,7,58.29,76.01,22.0,-80.0
+Cuba,,3/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.59,0.0004,0.0009,0.16,rain,79.0,60.29,59.57,0.81,1018.6,0.6,7,59.54,79.0,22.0,-80.0
+Cuba,,3/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.63,0.0021,0.0117,0.23,rain,76.4,61.95,61.63,0.85,1015.7,0.49,6,60.29,76.4,22.0,-80.0
+Cuba,,3/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.67,0.0022,0.0121,0.16,rain,79.58,64.34,63.49,0.84,1017.8,0.56,8,61.95,79.58,22.0,-80.0
+Cuba,,3/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.7,0.0011,0.0022,0.17,rain,82.03,63.0,65.25,0.85,1020.3,0.66,7,64.34,82.03,22.0,-80.0
+Cuba,,3/15/2020,Clear throughout the day.,partly-cloudy-day,0.74,0.0003,0.0015,0.08,rain,82.09,60.74,61.34,0.77,1021.0,0.32,11,63.0,82.09,22.0,-80.0
+Cuba,,3/16/2020,Clear throughout the day.,clear-day,0.77,0.0003,0.0006,0.09,rain,82.23,61.39,60.93,0.78,1020.0,0.28,10,60.74,82.23,22.0,-80.0
+Cuba,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0002,0.0004,0.09,rain,82.64,62.41,61.09,0.77,1020.3,0.35,11,61.39,82.64,22.0,-80.0
+Cuba,,3/18/2020,Clear throughout the day.,clear-day,0.84,0.0002,0.0004,0.08,rain,83.51,63.19,61.61,0.77,1021.2,0.28,11,62.41,83.51,22.0,-80.0
+Cuba,,3/19/2020,Clear throughout the day.,clear-day,0.87,0.0005,0.0022,0.09,rain,83.88,63.7,61.54,0.76,1021.5,0.3,11,63.19,83.88,22.0,-80.0
+Cuba,,3/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.001,0.0039,0.1,rain,84.55,62.16,61.94,0.76,1021.9,0.38,11,63.7,84.55,22.0,-80.0
+Cuba,,3/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0005,0.0022,0.1,rain,83.29,61.82,61.84,0.78,1021.0,0.33,9,62.16,83.29,22.0,-80.0
+Cuba,,3/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.96,0.0009,0.0039,0.17,rain,81.54,60.8,61.53,0.79,1020.3,0.44,8,61.82,81.54,22.0,-80.0
+Cuba,,3/23/2020,Clear throughout the day.,clear-day,0.99,0.0012,0.0078,0.13,rain,82.02,60.7,61.13,0.78,1020.9,0.28,11,60.8,82.02,22.0,-80.0
+Cuba,,3/24/2020,Clear throughout the day.,clear-day,0.02,0.0001,0.0005,0.08,rain,83.2,62.3,61.68,0.78,1019.2,0.23,11,60.7,83.2,22.0,-80.0
+Cuba,,3/25/2020,Partly cloudy throughout the day.,clear-day,0.05,0.0002,0.0007,0.1,rain,82.78,62.11,60.82,0.74,1016.6,0.23,11,62.3,82.78,22.0,-80.0
+Cuba,,3/26/2020,Partly cloudy throughout the day.,clear-day,0.08,0.0001,0.0004,0.1,rain,81.47,60.61,61.9,0.76,1015.6,0.26,11,62.11,81.47,22.0,-80.0
+Cuba,,3/27/2020,Clear throughout the day.,clear-day,0.11,0.0001,0.0002,0.06,rain,82.85,59.92,61.49,0.76,1015.7,0.12,12,60.61,82.85,22.0,-80.0
+Cuba,,3/28/2020,Clear throughout the day.,clear-day,0.14,0.0001,0.0002,0.03,rain,85.59,64.75,59.52,0.72,1016.4,0.15,12,59.92,85.59,22.0,-80.0
+Cuba,,3/29/2020,Clear throughout the day.,clear-day,0.17,0.0004,0.0026,0.05,rain,86.35,65.58,63.69,0.76,1017.9,0.26,11,64.75,86.35,22.0,-80.0
+Cuba,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0029,0.0218,0.11,rain,86.29,63.02,64.79,0.79,1017.7,0.33,11,65.58,86.29,22.0,-80.0
+Cuba,,3/31/2020,Clear throughout the day.,clear-day,0.24,0.0002,0.0014,0.11,rain,81.71,64.87,65.34,0.84,1014.1,0.27,11,63.02,81.71,22.0,-80.0
+Cuba,,4/1/2020,Possible light rain overnight.,rain,0.27,0.0054,0.0762,0.4,rain,83.82,65.66,66.07,0.82,1011.9,0.39,9,64.87,83.82,22.0,-80.0
+Cuba,,4/2/2020,Possible drizzle in the morning.,rain,0.31,0.027000000000000003,0.1208,0.76,rain,78.46,62.26,66.94,0.89,1013.3,0.68,8,65.66,78.46,22.0,-80.0
+Cuba,,4/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0027,0.0158,0.13,rain,82.25,61.02,63.34,0.81,1013.8,0.49,9,62.26,82.25,22.0,-80.0
+Cuba,,4/4/2020,Clear throughout the day.,clear-day,0.38,0.0001,0.0004,0.05,rain,81.88,61.62,60.09,0.72,1013.9,0.23,11,61.02,81.88,22.0,-80.0
+Cuba,,4/5/2020,Clear throughout the day.,clear-day,0.42,0.0001,0.0003,0.03,rain,83.81,64.22,59.23,0.67,1014.8,0.05,12,61.62,83.81,22.0,-80.0
+Cuba,,4/6/2020,Clear throughout the day.,clear-day,0.46,0.0013,0.0093,0.07,rain,84.87,64.84,62.59,0.71,1016.5,0.19,11,64.22,84.87,22.0,-80.0
+Cuba,,4/7/2020,Clear throughout the day.,clear-day,0.5,0.0038,0.0218,0.13,rain,87.85,65.78,65.03,0.76,1017.2,0.23,11,64.84,87.85,22.0,-80.0
+Cuba,,4/8/2020,Clear throughout the day.,clear-day,0.54,0.0036,0.027000000000000003,0.09,rain,87.65,66.15,66.76,0.78,1015.1,0.2,11,65.78,87.65,22.0,-80.0
+Cuba,,4/9/2020,Clear throughout the day.,clear-day,0.58,0.0012,0.0048,0.08,rain,89.36,66.86,66.04,0.75,1013.4,0.1,13,66.15,89.36,22.0,-80.0
+Cuba,,4/10/2020,Clear throughout the day.,clear-day,0.61,0.0019,0.0136,0.09,rain,88.72,68.62,67.34,0.77,1013.1,0.18,12,66.86,88.72,22.0,-80.0
+Cuba,,4/11/2020,Clear throughout the day.,clear-day,0.65,0.0062,0.055999999999999994,0.24,rain,88.5,67.92,67.34,0.77,1015.0,0.23,12,68.62,88.5,22.0,-80.0
+Cuba,,4/12/2020,Clear throughout the day.,clear-day,0.69,0.0002,0.002,0.07,rain,87.99,68.23,64.35,0.7,1016.6,0.05,13,67.92,87.99,22.0,-80.0
+Cuba,,4/13/2020,Clear throughout the day.,clear-day,0.72,0.0008,0.0025,0.09,rain,88.34,67.86,68.88,0.81,1017.6,0.23,12,68.23,88.34,22.0,-80.0
+Cuba,,4/14/2020,Clear throughout the day.,partly-cloudy-day,0.75,0.0054,0.0571,0.17,rain,86.28,67.59,68.41,0.81,1016.9,0.32,13,67.86,86.28,22.0,-80.0
+Cuba,,4/15/2020,Partly cloudy throughout the day.,rain,0.78,0.0147,0.0464,0.47,rain,84.59,68.72,69.87,0.86,1015.4,0.44,11,67.59,84.59,22.0,-80.0
+Cuba,,4/16/2020,Rain in the evening and overnight.,rain,0.82,0.0315,0.3278,0.6,rain,83.36,67.43,70.54,0.88,1017.0,0.57,8,68.72,83.36,22.0,-80.0
+Cuba,,4/17/2020,Partly cloudy throughout the day.,rain,0.85,0.0097,0.2025,0.35,rain,88.6,65.7,67.58,0.78,1018.3,0.45,10,67.43,88.6,22.0,-80.0
+Cuba,,4/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.88,0.0035,0.0222,0.16,rain,85.36,67.43,67.62,0.81,1017.3,0.36,11,65.7,85.36,22.0,-80.0
+Cuba,,4/19/2020,Clear throughout the day.,clear-day,0.91,0.0004,0.0018,0.08,rain,85.49,68.53,68.29,0.82,1015.7,0.3,10,67.43,85.49,22.0,-80.0
+Cuba,,4/20/2020,Clear throughout the day.,clear-day,0.94,0.0002,0.0008,0.07,rain,83.95,69.09,69.14,0.84,1014.3,0.25,11,68.53,83.95,22.0,-80.0

@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Turkey,,12/31/2019,Possible light snow (< 1 in.) in the evening.,snow,0.21,0.0051,0.0155,0.79,snow,40.21,26.66,30.45,0.86,1018.8,0.95,1,29.79,40.21,38.9637,35.2433
+Turkey,,1/1/2020,Foggy in the morning.,snow,0.24,0.0006,0.0059,0.41,snow,39.84,22.52,26.14,0.79,1020.9,0.9,1,26.05,39.84,38.9637,35.2433
+Turkey,,1/2/2020,Clear throughout the day.,partly-cloudy-day,0.27,0.0001,0.0009,0.03,snow,43.59,27.03,23.84,0.76,1020.2,0.35,2,22.52,43.59,38.9637,35.2433
+Turkey,,1/3/2020,"Foggy until morning, starting again in the evening.",snow,0.3,0.0059,0.0174,0.53,snow,35.8,25.55,25.7,0.83,1016.2,0.99,1,27.03,35.8,38.9637,35.2433
+Turkey,,1/4/2020,Foggy in the morning.,snow,0.33,0.0016,0.0138,0.3,snow,36.35,20.29,23.39,0.8,1016.8,0.71,2,23.91,36.35,38.9637,35.2433
+Turkey,,1/5/2020,Windy overnight.,cloudy,0.36,0.0,0.0,0.0,,42.43,36.89,21.89,0.68,1014.6,0.95,1,20.29,42.43,38.9637,35.2433
+Turkey,,1/6/2020,Windy in the morning.,wind,0.39,0.0001,0.0002,0.11,rain,46.63,30.39,27.86,0.61,1012.0,0.95,1,36.47,46.63,38.9637,35.2433
+Turkey,,1/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0011,0.0063,0.24,rain,45.52,27.26,29.06,0.75,1013.9,0.79,1,30.33,45.52,38.9637,35.2433
+Turkey,,1/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.46,0.0012,0.0053,0.15,snow,36.31,18.92,22.89,0.73,1020.9,0.62,2,25.58,36.31,38.9637,35.2433
+Turkey,,1/9/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0003,0.04,snow,37.58,17.36,18.8,0.73,1025.2,0.21,2,18.92,37.58,38.9637,35.2433
+Turkey,,1/10/2020,Clear throughout the day.,clear-day,0.53,0.0001,0.0003,0.03,snow,41.32,24.39,17.21,0.68,1028.0,0.02,2,17.36,41.32,38.9637,35.2433
+Turkey,,1/11/2020,Foggy in the evening and overnight.,cloudy,0.57,0.0006,0.0056,0.16,snow,43.87,28.88,20.45,0.63,1024.6,0.93,2,24.36,43.87,38.9637,35.2433
+Turkey,,1/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0003,0.0043,0.1,snow,42.16,22.92,24.98,0.73,1027.7,0.57,2,27.61,42.16,38.9637,35.2433
+Turkey,,1/13/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,46.12,24.74,18.43,0.59,1028.0,0.04,2,22.92,46.12,38.9637,35.2433
+Turkey,,1/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0,0.0001,0.02,,46.18,24.67,21.08,0.61,1028.9,0.52,2,24.74,46.18,38.9637,35.2433
+Turkey,,1/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0011,0.0078,0.04,rain,48.23,22.09,18.55,0.57,1025.6,0.39,2,24.14,48.23,38.9637,35.2433
+Turkey,,1/16/2020,Overcast throughout the day.,partly-cloudy-day,0.76,0.0001,0.0004,0.06,snow,40.45,22.59,20.24,0.67,1022.2,0.83,2,22.09,40.45,38.9637,35.2433
+Turkey,,1/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.79,0.0001,0.0016,0.1,snow,38.16,21.16,19.11,0.67,1021.9,0.57,2,22.59,38.16,38.9637,35.2433
+Turkey,,1/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0003,0.04,,35.62,23.09,15.29,0.61,1020.8,0.8,2,21.16,35.62,38.9637,35.2433
+Turkey,,1/19/2020,Foggy in the evening.,snow,0.86,0.0028,0.0239,0.25,snow,33.9,24.35,18.54,0.7,1027.8,0.75,2,22.83,33.9,38.9637,35.2433
+Turkey,,1/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0006,0.0094,0.2,snow,32.53,16.99,19.26,0.74,1031.5,0.71,2,19.5,32.53,38.9637,35.2433
+Turkey,,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0,0.0001,0.04,,33.15,18.66,16.07,0.71,1030.7,0.42,2,16.99,33.15,38.9637,35.2433
+Turkey,,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.96,0.001,0.0084,0.09,snow,38.06,18.58,16.07,0.65,1022.8,0.56,2,18.66,38.06,38.9637,35.2433
+Turkey,,1/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,1.0,0.0005,0.0095,0.16,snow,29.59,11.9,13.42,0.67,1030.8,0.51,2,17.87,29.59,38.9637,35.2433
+Turkey,,1/24/2020,Clear throughout the day.,clear-day,0.03,0.0,0.0002,0.01,,41.3,17.11,8.62,0.55,1034.2,0.0,3,11.9,41.3,38.9637,35.2433
+Turkey,,1/25/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0003,0.03,snow,48.26,21.01,12.31,0.5,1029.8,0.09,3,17.11,48.26,38.9637,35.2433
+Turkey,,1/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.09,0.0001,0.0004,0.04,snow,49.16,30.18,15.95,0.51,1026.4,0.65,2,21.01,49.16,38.9637,35.2433
+Turkey,,1/27/2020,Possible flurries (< 1 in.) overnight.,rain,0.12,0.0021,0.0125,0.4,rain,46.58,32.23,26.3,0.67,1018.0,1.0,2,30.18,46.58,38.9637,35.2433
+Turkey,,1/28/2020,Foggy in the morning.,snow,0.15,0.0017,0.005,0.44,snow,47.14,28.87,30.5,0.8,1018.1,0.84,2,30.04,47.14,38.9637,35.2433
+Turkey,,1/29/2020,Light rain (with a chance of 1–2 in. of snow) starting in the afternoon.,rain,0.18,0.0199,0.0885,0.84,rain,45.32,26.26,31.19,0.82,1013.6,0.94,2,28.87,45.32,38.9637,35.2433
+Turkey,,1/30/2020,Snow (2–4 in.) in the morning.,snow,0.21,0.0171,0.0534,0.67,snow,31.71,16.17,22.1,0.81,1015.6,0.86,2,17.3,35.39,38.9637,35.2433
+Turkey,,1/31/2020,Possible light snow (1–2 in.) in the afternoon.,snow,0.24,0.0049,0.0172,0.51,snow,33.37,26.29,21.87,0.84,1020.9,0.85,2,16.17,33.37,38.9637,35.2433
+Turkey,,2/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0002,0.001,0.12,snow,38.49,22.01,26.44,0.86,1025.0,0.49,3,24.92,38.49,38.9637,35.2433
+Turkey,,2/2/2020,Partly cloudy throughout the day.,clear-day,0.3,0.0002,0.001,0.12,snow,41.85,32.61,26.3,0.81,1021.8,0.31,3,22.01,41.85,38.9637,35.2433
+Turkey,,2/3/2020,Light rain until evening.,rain,0.34,0.0137,0.0367,0.95,rain,40.39,32.45,33.9,0.9,1014.3,1.0,2,33.4,40.39,38.9637,35.2433
+Turkey,,2/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0003,0.2,rain,50.02,40.15,34.57,0.81,1008.1,0.66,3,32.45,50.02,38.9637,35.2433
+Turkey,,2/5/2020,Light rain in the afternoon and evening.,rain,0.41,0.0125,0.0839,0.82,rain,51.39,30.6,36.3,0.77,1006.7,0.71,3,35.84,51.39,38.9637,35.2433
+Turkey,,2/6/2020,Snow (3–6 in.) throughout the day.,snow,0.44,0.0178,0.0626,0.8,snow,39.95,22.03,29.96,0.88,1009.2,0.93,2,27.65,39.95,38.9637,35.2433
+Turkey,,2/7/2020,Overcast throughout the day.,snow,0.48,0.006,0.0445,0.5,snow,24.62,5.96,12.91,0.71,1018.2,0.93,2,12.81,27.51,38.9637,35.2433
+Turkey,,2/8/2020,Foggy overnight.,partly-cloudy-day,0.52,0.0006,0.0032,0.22,snow,22.3,13.01,6.35,0.72,1030.8,0.8,2,5.96,22.3,38.9637,35.2433
+Turkey,,2/9/2020,Foggy in the morning.,partly-cloudy-day,0.56,0.0015,0.0059,0.16,snow,21.54,-0.24,5.04,0.66,1031.3,0.46,3,3.63,21.54,38.9637,35.2433
+Turkey,,2/10/2020,Foggy in the afternoon and evening.,snow,0.59,0.0047,0.023,0.3,snow,28.4,20.75,4.11,0.63,1024.4,0.67,3,-0.24,28.4,38.9637,35.2433
+Turkey,,2/11/2020,Snow (2–5 in.) throughout the day.,snow,0.63,0.0171,0.0418,0.97,snow,36.67,30.02,27.46,0.9,1019.9,0.9,3,20.75,36.67,38.9637,35.2433
+Turkey,,2/12/2020,Snow (2–4 in.) in the morning and afternoon.,snow,0.67,0.0222,0.0534,0.92,snow,35.2,12.18,28.42,0.91,1025.0,0.87,3,22.98,35.2,38.9637,35.2433
+Turkey,,2/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0003,0.05,snow,35.0,21.77,16.15,0.75,1031.0,0.37,4,12.18,35.0,38.9637,35.2433
+Turkey,,2/14/2020,Overcast throughout the day.,cloudy,0.74,0.0001,0.0003,0.07,snow,39.12,19.9,20.02,0.72,1023.5,0.94,2,21.77,39.12,38.9637,35.2433
+Turkey,,2/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.13,snow,36.36,12.48,21.33,0.81,1024.8,0.74,2,19.9,36.36,38.9637,35.2433
+Turkey,,2/16/2020,Clear throughout the day.,clear-day,0.81,0.0001,0.0003,0.1,snow,32.94,11.47,15.78,0.79,1026.9,0.1,3,12.48,32.94,38.9637,35.2433
+Turkey,,2/17/2020,Clear throughout the day.,clear-day,0.84,0.0002,0.0004,0.1,snow,37.3,17.66,16.57,0.76,1025.4,0.0,3,11.47,37.3,38.9637,35.2433
+Turkey,,2/18/2020,Clear throughout the day.,clear-day,0.88,0.0,0.0004,0.07,,38.72,18.11,21.54,0.82,1021.0,0.01,4,17.66,38.72,38.9637,35.2433
+Turkey,,2/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.91,0.0001,0.0004,0.23,snow,39.93,25.59,22.62,0.8,1016.8,0.48,3,18.11,39.93,38.9637,35.2433
+Turkey,,2/20/2020,Possible light rain in the evening and overnight.,rain,0.94,0.0022,0.0234,0.6,rain,43.19,29.28,29.9,0.85,1012.5,0.78,3,25.59,43.19,38.9637,35.2433
+Turkey,,2/21/2020,Foggy in the afternoon and evening.,rain,0.97,0.0007,0.0033,0.41,rain,39.66,27.43,30.58,0.9,1015.9,0.95,3,29.28,39.66,38.9637,35.2433
+Turkey,,2/22/2020,Foggy in the afternoon.,partly-cloudy-day,0.0,0.0001,0.0003,0.1,snow,43.04,28.06,29.85,0.87,1021.7,0.77,4,27.43,43.04,38.9637,35.2433
+Turkey,,2/23/2020,Possible drizzle overnight.,clear-day,0.03,0.0002,0.0032,0.1,snow,49.28,31.98,30.4,0.78,1017.9,0.22,4,28.06,49.28,38.9637,35.2433
+Turkey,,2/24/2020,Clear throughout the day.,rain,0.06,0.0028,0.0147,0.5,rain,44.07,22.51,24.53,0.64,1019.0,0.38,4,27.62,44.07,38.9637,35.2433
+Turkey,,2/25/2020,Clear throughout the day.,clear-day,0.09,0.0001,0.0003,0.01,snow,53.88,27.44,18.06,0.5,1019.5,0.02,5,22.51,53.88,38.9637,35.2433
+Turkey,,2/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.12,0.0001,0.0005,0.01,rain,57.88,36.6,25.8,0.57,1017.6,0.66,3,27.44,57.88,38.9637,35.2433
+Turkey,,2/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.15,0.0005,0.0025,0.12,rain,55.02,34.34,33.24,0.65,1013.4,0.69,4,36.6,55.02,38.9637,35.2433
+Turkey,,2/28/2020,Possible light rain in the morning and afternoon.,rain,0.18,0.0082,0.038,0.59,rain,50.85,33.29,33.82,0.78,1007.9,0.72,4,34.34,50.85,38.9637,35.2433
+Turkey,,2/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.22,0.0003,0.0009,0.18,rain,43.52,24.48,28.73,0.72,1017.8,0.78,3,30.54,43.52,38.9637,35.2433
+Turkey,,3/1/2020,Clear throughout the day.,clear-day,0.25,0.0001,0.0002,0.02,snow,55.0,29.06,22.97,0.6,1021.3,0.08,5,24.48,55.0,38.9637,35.2433
+Turkey,,3/2/2020,Clear throughout the day.,clear-day,0.28,0.0001,0.0002,0.02,rain,61.16,31.64,25.47,0.51,1022.5,0.02,5,29.06,61.16,38.9637,35.2433
+Turkey,,3/3/2020,Clear throughout the day.,clear-day,0.31,0.0,0.0002,0.01,,65.23,34.73,25.44,0.48,1018.6,0.3,6,31.64,65.23,38.9637,35.2433
+Turkey,,3/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.35,0.0001,0.0003,0.01,rain,64.19,43.14,25.66,0.43,1012.4,0.8,3,34.73,64.19,38.9637,35.2433
+Turkey,,3/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.39,0.0009,0.0044,0.16,rain,57.44,35.64,34.43,0.56,1010.5,0.85,3,43.14,57.44,38.9637,35.2433
+Turkey,,3/6/2020,Clear throughout the day.,clear-day,0.42,0.0,0.0003,0.01,,62.98,34.37,30.79,0.58,1017.5,0.14,5,35.64,62.98,38.9637,35.2433
+Turkey,,3/7/2020,Clear throughout the day.,clear-day,0.46,0.0001,0.0005,0.01,rain,67.15,38.05,28.48,0.48,1022.2,0.27,6,34.37,67.15,38.9637,35.2433
+Turkey,,3/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.5,0.0,0.0,0.0,,71.11,49.8,30.02,0.45,1015.4,0.71,4,38.05,71.11,38.9637,35.2433
+Turkey,,3/9/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0006,0.03,rain,65.25,33.65,27.46,0.37,1010.4,0.09,5,42.79,65.25,38.9637,35.2433
+Turkey,,3/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0002,0.0004,0.01,rain,65.54,40.08,22.27,0.45,1016.5,0.37,4,33.65,65.54,38.9637,35.2433
+Turkey,,3/11/2020,Overcast throughout the day.,cloudy,0.62,0.0004,0.006999999999999999,0.12,rain,68.04,47.11,29.66,0.45,1016.1,0.97,3,40.08,68.04,38.9637,35.2433
+Turkey,,3/12/2020,Overcast throughout the day.,rain,0.66,0.0017,0.0099,0.45,rain,59.33,45.49,41.94,0.69,1010.3,0.98,3,47.11,59.33,38.9637,35.2433
+Turkey,,3/13/2020,Overcast throughout the day.,partly-cloudy-day,0.69,0.0002,0.0009,0.23,rain,60.25,41.23,40.64,0.68,1011.3,0.82,4,44.55,60.25,38.9637,35.2433
+Turkey,,3/14/2020,Light rain in the evening and overnight.,rain,0.73,0.0146,0.0805,0.72,rain,63.61,35.8,41.51,0.72,1012.7,0.76,4,41.23,63.61,38.9637,35.2433
+Turkey,,3/15/2020,Light rain (with a chance of 2–5 in. of snow) until evening.,rain,0.76,0.0233,0.057,0.97,rain,38.41,22.53,33.36,0.89,1018.3,0.97,4,25.53,47.59,38.9637,35.2433
+Turkey,,3/16/2020,"Foggy until afternoon, starting again overnight.",snow,0.79,0.0088,0.0353,0.58,snow,31.31,20.28,20.12,0.8,1022.8,1.0,3,22.05,31.31,38.9637,35.2433
+Turkey,,3/17/2020,Foggy until evening.,snow,0.83,0.0033,0.0072,0.39,snow,30.73,22.43,20.15,0.83,1019.0,1.0,3,20.28,30.73,38.9637,35.2433
+Turkey,,3/18/2020,Possible light snow (< 1 in.) overnight.,snow,0.86,0.0016,0.0038,0.37,snow,36.03,28.12,23.83,0.83,1015.6,0.96,3,22.43,36.03,38.9637,35.2433
+Turkey,,3/19/2020,Light snow (1–2 in.) in the morning.,snow,0.89,0.0079,0.0263,0.78,snow,38.09,21.7,27.48,0.85,1015.5,0.93,3,27.69,38.09,38.9637,35.2433
+Turkey,,3/20/2020,Clear throughout the day.,clear-day,0.92,0.0002,0.0004,0.13,snow,48.77,24.12,26.56,0.78,1018.6,0.21,5,21.7,48.77,38.9637,35.2433
+Turkey,,3/21/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.01,snow,55.42,29.37,28.45,0.71,1018.3,0.1,6,24.12,55.42,38.9637,35.2433
+Turkey,,3/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.98,0.0001,0.0004,0.02,rain,59.82,32.92,26.86,0.58,1014.3,0.57,5,29.37,59.82,38.9637,35.2433
+Turkey,,3/23/2020,Possible light rain overnight.,rain,0.01,0.004,0.0233,0.43,rain,57.31,35.88,32.71,0.64,1011.1,0.77,3,32.92,57.31,38.9637,35.2433
+Turkey,,3/24/2020,Partly cloudy throughout the day.,rain,0.04,0.0018,0.0136,0.51,rain,57.55,32.88,37.47,0.76,1015.2,0.51,4,35.88,57.55,38.9637,35.2433
+Turkey,,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0004,0.07,rain,61.87,40.02,35.78,0.71,1014.9,0.12,6,32.88,61.87,38.9637,35.2433
+Turkey,,3/26/2020,Possible light rain overnight.,cloudy,0.1,0.0001,0.0004,0.13,rain,60.17,41.87,36.65,0.62,1010.5,0.95,3,40.02,60.17,38.9637,35.2433
+Turkey,,3/27/2020,Light rain throughout the day.,rain,0.13,0.0138,0.0301,0.95,rain,56.68,40.06,39.48,0.73,1007.9,0.74,6,41.87,56.68,38.9637,35.2433
+Turkey,,3/28/2020,Light rain throughout the day.,rain,0.16,0.0125,0.0328,0.96,rain,48.64,34.39,37.63,0.83,1006.9,0.98,3,36.9,48.64,38.9637,35.2433
+Turkey,,3/29/2020,Possible drizzle in the morning.,rain,0.19,0.0019,0.0071,0.66,rain,49.03,29.01,32.8,0.77,1011.5,0.75,4,34.26,49.03,38.9637,35.2433
+Turkey,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.07,rain,58.73,38.58,30.58,0.63,1012.2,0.47,5,29.01,58.73,38.9637,35.2433
+Turkey,,3/31/2020,Possible drizzle in the morning.,rain,0.26,0.0019,0.0075,0.68,rain,52.36,30.66,36.64,0.77,1010.0,0.93,4,35.13,52.36,38.9637,35.2433
+Turkey,,4/1/2020,Light rain in the evening and overnight.,rain,0.3,0.0084,0.0714,0.54,rain,59.07,37.49,33.12,0.68,1011.2,0.51,6,30.66,59.07,38.9637,35.2433
+Turkey,,4/2/2020,Light rain in the morning and afternoon.,rain,0.33,0.0068,0.0163,0.91,rain,45.42,30.15,34.5,0.78,1013.1,0.73,3,35.58,45.42,38.9637,35.2433
+Turkey,,4/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0002,0.04,rain,61.05,46.03,29.65,0.6,1020.5,0.42,5,30.15,61.05,38.9637,35.2433
+Turkey,,4/4/2020,Overcast throughout the day.,cloudy,0.41,0.0005,0.0048,0.07,rain,65.63,42.71,34.02,0.47,1014.9,0.94,4,46.03,65.63,38.9637,35.2433
+Turkey,,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0016,0.0108,0.14,rain,62.69,34.15,37.55,0.6,1015.9,0.44,6,42.56,62.69,38.9637,35.2433
+Turkey,,4/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0,0.0002,0.02,,59.06,36.11,32.56,0.62,1018.4,0.79,5,34.15,59.06,38.9637,35.2433
+Turkey,,4/7/2020,Possible light rain in the afternoon and evening.,rain,0.53,0.0105,0.0634,0.64,rain,57.68,37.98,34.58,0.66,1015.8,0.79,5,36.11,57.68,38.9637,35.2433
+Turkey,,4/8/2020,Possible light rain in the afternoon and evening.,rain,0.56,0.0109,0.0471,0.7,rain,57.01,35.03,39.36,0.77,1012.0,0.69,5,37.98,57.01,38.9637,35.2433
+Turkey,,4/9/2020,Partly cloudy throughout the day.,rain,0.6,0.0023,0.0152,0.29,rain,54.82,26.83,32.4,0.66,1011.5,0.35,5,35.03,54.82,38.9637,35.2433
+Turkey,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.03,rain,58.18,30.9,22.82,0.5,1017.2,0.0,7,26.83,58.18,38.9637,35.2433
+Turkey,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0003,0.01,,57.68,24.98,23.88,0.5,1020.8,0.0,8,30.9,57.68,38.9637,35.2433
+Turkey,,4/12/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0004,0.02,snow,63.77,28.73,15.59,0.41,1020.9,0.0,8,24.98,63.77,38.9637,35.2433
+Turkey,,4/13/2020,Partly cloudy throughout the day.,clear-day,0.74,0.0,0.0,0.0,,69.14,37.76,20.36,0.34,1017.5,0.31,4,28.73,69.14,38.9637,35.2433
+Turkey,,4/14/2020,Overcast throughout the day.,cloudy,0.78,0.0001,0.0008,0.03,rain,64.17,40.96,33.03,0.53,1015.5,0.91,4,37.76,64.17,38.9637,35.2433
+Turkey,,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0005,0.0017,0.16,rain,57.53,31.96,37.91,0.69,1015.0,0.55,4,40.54,57.53,38.9637,35.2433
+Turkey,,4/16/2020,Clear throughout the day.,clear-day,0.84,0.0001,0.0002,0.02,rain,66.3,40.03,34.5,0.62,1017.4,0.08,7,31.96,66.3,38.9637,35.2433
+Turkey,,4/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0002,0.0011,0.03,rain,68.96,41.85,36.08,0.52,1015.0,0.52,4,40.03,68.96,38.9637,35.2433
+Turkey,,4/18/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0003,0.03,rain,73.36,44.81,31.94,0.43,1014.7,0.19,6,41.85,73.36,38.9637,35.2433
+Turkey,,4/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0006,0.0025,0.09,rain,72.85,47.52,35.33,0.43,1011.4,0.73,8,44.81,72.85,38.9637,35.2433
+Turkey,,4/20/2020,Light rain in the afternoon and evening.,rain,0.96,0.0119,0.0485,0.82,rain,56.35,45.06,47.03,0.85,1012.0,0.99,4,47.12,56.35,38.9637,35.2433

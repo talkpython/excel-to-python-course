@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Jordan,,12/31/2019,Overcast throughout the day.,partly-cloudy-day,0.21,0.0001,0.0002,0.04,rain,57.77,37.44,29.82,0.57,1018.1,0.86,3,32.89,57.77,31.24,36.51
+Jordan,,1/1/2020,Clear throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.05,rain,57.81,38.18,34.99,0.66,1016.2,0.53,4,37.44,57.81,31.24,36.51
+Jordan,,1/2/2020,Clear throughout the day.,partly-cloudy-day,0.27,0.0001,0.0004,0.1,rain,55.94,34.8,33.23,0.66,1018.5,0.47,4,37.03,55.94,31.24,36.51
+Jordan,,1/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0004,0.0015,0.22,rain,52.58,41.74,33.97,0.7,1017.0,0.33,3,34.8,52.58,31.24,36.51
+Jordan,,1/4/2020,Clear throughout the day.,rain,0.33,0.0015,0.0078,0.39,rain,56.24,33.47,30.98,0.59,1017.4,0.27,3,36.71,56.24,31.24,36.51
+Jordan,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,61.69,35.35,22.25,0.43,1017.6,0.0,3,33.47,61.69,31.24,36.51
+Jordan,,1/6/2020,Clear throughout the day.,clear-day,0.39,0.0001,0.0003,0.05,rain,59.4,35.65,31.24,0.58,1016.4,0.19,3,35.33,59.4,31.24,36.51
+Jordan,,1/7/2020,Windy in the evening and overnight.,wind,0.43,0.0001,0.0004,0.06,rain,51.83,41.7,32.83,0.66,1015.6,0.37,3,35.65,51.83,31.24,36.51
+Jordan,,1/8/2020,Overcast throughout the day.,rain,0.46,0.0019,0.006999999999999999,0.42,rain,49.57,36.51,35.84,0.73,1014.6,0.75,2,38.63,49.57,31.24,36.51
+Jordan,,1/9/2020,Possible light rain in the morning.,rain,0.5,0.006,0.0334,0.64,rain,48.13,35.86,35.29,0.79,1016.5,0.81,2,36.51,48.13,31.24,36.51
+Jordan,,1/10/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0003,0.04,rain,54.48,34.03,34.68,0.74,1023.6,0.16,3,35.86,54.48,31.24,36.51
+Jordan,,1/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0001,0.0003,0.03,rain,58.78,37.85,34.83,0.72,1024.6,0.62,4,34.03,58.78,31.24,36.51
+Jordan,,1/12/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0003,0.03,rain,58.58,38.87,38.61,0.76,1023.1,0.09,4,37.0,58.58,31.24,36.51
+Jordan,,1/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0,0.0,0.0,,58.68,40.27,38.2,0.73,1025.3,0.43,4,38.87,58.68,31.24,36.51
+Jordan,,1/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0,0.0001,0.02,,65.0,41.74,32.91,0.54,1022.9,0.43,3,40.27,65.0,31.24,36.51
+Jordan,,1/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.0001,0.0002,0.04,rain,64.08,42.08,12.87,0.22,1016.9,0.69,3,41.82,64.08,31.24,36.51
+Jordan,,1/16/2020,Clear throughout the day.,clear-day,0.76,0.0002,0.0013,0.11,rain,60.38,45.2,35.49,0.6,1013.7,0.21,4,42.08,60.38,31.24,36.51
+Jordan,,1/17/2020,Mostly cloudy throughout the day.,rain,0.79,0.0012,0.0042,0.44,rain,55.6,42.55,42.14,0.78,1016.1,0.73,3,44.85,55.6,31.24,36.51
+Jordan,,1/18/2020,Clear throughout the day.,rain,0.83,0.001,0.0091,0.28,rain,55.44,37.79,37.62,0.71,1019.5,0.28,4,40.97,55.44,31.24,36.51
+Jordan,,1/19/2020,Clear throughout the day.,clear-day,0.86,0.0005,0.004,0.11,rain,57.28,40.4,36.95,0.72,1023.5,0.15,4,37.79,57.28,31.24,36.51
+Jordan,,1/20/2020,Possible light rain in the morning.,rain,0.9,0.0064,0.0303,0.55,rain,46.47,36.11,35.85,0.79,1020.0,0.59,3,38.35,46.47,31.24,36.51
+Jordan,,1/21/2020,Clear throughout the day.,partly-cloudy-day,0.93,0.0001,0.001,0.09,rain,50.65,33.46,34.97,0.77,1021.0,0.37,3,36.11,50.65,31.24,36.51
+Jordan,,1/22/2020,Partly cloudy throughout the day.,clear-day,0.96,0.0001,0.0002,0.04,rain,52.0,38.79,34.12,0.75,1022.3,0.3,3,33.46,52.0,31.24,36.51
+Jordan,,1/23/2020,Possible light rain in the morning and afternoon.,rain,1.0,0.0061,0.0405,0.6,rain,45.52,30.49,34.25,0.75,1018.8,0.58,3,35.23,45.52,31.24,36.51
+Jordan,,1/24/2020,Clear throughout the day.,clear-day,0.03,0.0001,0.0003,0.02,rain,48.91,29.29,24.93,0.6,1028.8,0.09,4,30.49,48.91,31.24,36.51
+Jordan,,1/25/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0003,0.03,rain,55.82,32.53,25.06,0.56,1029.3,0.0,5,29.29,55.82,31.24,36.51
+Jordan,,1/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.09,0.0001,0.0004,0.03,rain,62.67,39.82,23.83,0.45,1024.8,0.62,4,32.53,62.67,31.24,36.51
+Jordan,,1/27/2020,Overcast throughout the day.,partly-cloudy-day,0.12,0.0,0.0003,0.03,,59.73,39.99,24.55,0.42,1018.6,0.86,3,39.82,59.73,31.24,36.51
+Jordan,,1/28/2020,Clear throughout the day.,clear-day,0.15,0.0001,0.0003,0.14,rain,57.89,35.6,39.41,0.77,1020.8,0.19,4,39.99,57.89,31.24,36.51
+Jordan,,1/29/2020,Clear throughout the day.,clear-day,0.18,0.0001,0.0003,0.05,rain,63.18,38.05,35.05,0.67,1021.7,0.0,4,35.6,63.18,31.24,36.51
+Jordan,,1/30/2020,Clear throughout the day.,clear-day,0.21,0.0002,0.0008,0.11,rain,54.96,37.57,36.07,0.7,1017.5,0.12,4,38.05,54.96,31.24,36.51
+Jordan,,1/31/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.07,rain,54.66,39.35,35.76,0.72,1020.3,0.14,4,37.57,54.66,31.24,36.51
+Jordan,,2/1/2020,Clear throughout the day.,partly-cloudy-day,0.27,0.0001,0.0002,0.03,rain,60.64,41.05,39.14,0.73,1022.9,0.33,5,39.35,60.64,31.24,36.51
+Jordan,,2/2/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0003,0.03,rain,65.78,41.32,32.31,0.54,1021.2,0.27,5,41.05,65.78,31.24,36.51
+Jordan,,2/3/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.05,rain,59.64,39.03,39.66,0.73,1018.5,0.02,5,41.32,59.64,31.24,36.51
+Jordan,,2/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.03,rain,66.75,40.37,35.02,0.6,1016.5,0.0,5,39.03,66.75,31.24,36.51
+Jordan,,2/5/2020,Clear throughout the day.,clear-day,0.41,0.0001,0.0003,0.02,rain,67.4,42.03,31.22,0.48,1016.7,0.0,5,40.37,67.4,31.24,36.51
+Jordan,,2/6/2020,Windy overnight.,rain,0.44,0.0016,0.0085,0.38,rain,60.46,41.3,37.04,0.64,1015.9,0.27,5,42.03,60.46,31.24,36.51
+Jordan,,2/7/2020,Windy and mostly cloudy throughout the day.,wind,0.48,0.0003,0.0013,0.22,rain,48.67,39.27,33.7,0.68,1018.2,0.47,3,39.33,48.67,31.24,36.51
+Jordan,,2/8/2020,Overcast throughout the day.,rain,0.52,0.0024,0.0059,0.5,rain,44.85,28.33,33.78,0.77,1023.2,0.74,3,33.36,44.85,31.24,36.51
+Jordan,,2/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.0007,0.0043,0.18,snow,44.22,33.82,28.47,0.75,1025.0,0.61,3,28.33,44.22,31.24,36.51
+Jordan,,2/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.0002,0.0025,0.16,rain,49.73,35.47,32.15,0.72,1024.3,0.55,4,34.04,49.73,31.24,36.51
+Jordan,,2/11/2020,Clear throughout the day.,clear-day,0.63,0.0001,0.0004,0.03,rain,63.12,39.0,35.14,0.65,1023.4,0.21,5,35.47,63.12,31.24,36.51
+Jordan,,2/12/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.04,rain,66.62,40.65,37.15,0.63,1022.8,0.01,5,39.0,66.62,31.24,36.51
+Jordan,,2/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0003,0.03,rain,63.52,42.75,38.76,0.63,1022.6,0.59,3,40.65,63.52,31.24,36.51
+Jordan,,2/14/2020,Clear throughout the day.,clear-day,0.74,0.0001,0.0003,0.01,rain,71.3,42.17,31.92,0.44,1016.0,0.15,5,42.75,71.3,31.24,36.51
+Jordan,,2/15/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.05,rain,62.45,38.4,37.75,0.59,1013.4,0.05,5,42.17,62.45,31.24,36.51
+Jordan,,2/16/2020,Clear throughout the day.,clear-day,0.81,0.0001,0.0003,0.07,rain,59.35,41.54,36.99,0.67,1017.6,0.0,6,38.4,59.35,31.24,36.51
+Jordan,,2/17/2020,Clear throughout the day.,partly-cloudy-day,0.85,0.0003,0.002,0.1,rain,64.74,44.05,39.4,0.65,1015.6,0.37,5,41.54,64.74,31.24,36.51
+Jordan,,2/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.88,0.0005,0.0028,0.21,rain,58.38,43.96,40.99,0.73,1013.6,0.47,5,44.05,58.38,31.24,36.51
+Jordan,,2/19/2020,Clear throughout the day.,partly-cloudy-day,0.91,0.0004,0.0019,0.16,rain,57.76,37.89,41.48,0.75,1018.1,0.32,6,43.24,57.76,31.24,36.51
+Jordan,,2/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.94,0.0001,0.0003,0.05,rain,65.73,42.23,34.68,0.6,1016.0,0.37,4,37.89,65.73,31.24,36.51
+Jordan,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0004,0.08,rain,59.55,38.99,37.35,0.66,1017.9,0.0,6,42.23,59.55,31.24,36.51
+Jordan,,2/22/2020,Clear throughout the day.,clear-day,0.0,0.0001,0.0003,0.05,rain,63.65,42.92,36.59,0.63,1017.3,0.12,6,38.99,63.65,31.24,36.51
+Jordan,,2/23/2020,Overcast throughout the day.,partly-cloudy-day,0.03,0.0001,0.0003,0.03,rain,61.99,43.08,40.0,0.68,1012.9,0.66,4,42.92,61.99,31.24,36.51
+Jordan,,2/24/2020,Light rain in the morning and afternoon.,rain,0.07,0.0061,0.0206,0.75,rain,54.04,43.58,42.53,0.81,1012.9,0.46,3,43.08,54.04,31.24,36.51
+Jordan,,2/25/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0003,0.06,rain,59.36,38.72,41.73,0.74,1020.2,0.02,7,43.53,59.36,31.24,36.51
+Jordan,,2/26/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0003,0.02,rain,69.64,46.41,37.63,0.6,1021.0,0.27,7,38.72,69.64,31.24,36.51
+Jordan,,2/27/2020,Clear throughout the day.,clear-day,0.16,0.0001,0.0003,0.01,rain,71.86,44.24,36.34,0.48,1015.9,0.28,7,46.41,71.86,31.24,36.51
+Jordan,,2/28/2020,Windy overnight.,clear-day,0.19,0.0,0.0003,0.03,,63.28,44.42,39.29,0.62,1013.5,0.03,7,44.24,63.28,31.24,36.51
+Jordan,,2/29/2020,Dangerously windy in the morning.,rain,0.22,0.0011,0.0083,0.4,rain,56.41,38.63,40.33,0.72,1016.4,0.25,5,43.74,56.41,31.24,36.51
+Jordan,,3/1/2020,Clear throughout the day.,clear-day,0.25,0.0001,0.0002,0.03,rain,61.79,38.48,37.61,0.69,1021.0,0.17,7,38.63,61.79,31.24,36.51
+Jordan,,3/2/2020,Clear throughout the day.,clear-day,0.28,0.0001,0.0002,0.02,rain,68.45,46.18,37.61,0.59,1021.1,0.0,7,38.48,68.45,31.24,36.51
+Jordan,,3/3/2020,Clear throughout the day.,clear-day,0.32,0.0,0.0002,0.01,,75.49,48.5,26.35,0.32,1016.4,0.0,8,46.18,75.49,31.24,36.51
+Jordan,,3/4/2020,Clear throughout the day.,clear-day,0.35,0.0,0.0,0.0,,78.27,49.23,18.79,0.2,1012.8,0.2,8,48.5,78.27,31.24,36.51
+Jordan,,3/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.39,0.0012,0.0075,0.17,rain,64.44,44.67,28.92,0.43,1009.6,0.41,4,47.86,64.44,31.24,36.51
+Jordan,,3/6/2020,Clear throughout the day.,clear-day,0.42,0.0001,0.0004,0.03,rain,61.12,42.48,43.08,0.72,1017.7,0.12,8,44.67,61.12,31.24,36.51
+Jordan,,3/7/2020,Clear throughout the day.,clear-day,0.46,0.0001,0.0004,0.03,rain,72.77,49.23,41.67,0.61,1020.9,0.0,8,42.48,72.77,31.24,36.51
+Jordan,,3/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.5,0.0001,0.0004,0.01,rain,77.66,49.05,33.75,0.37,1015.6,0.6,5,49.23,77.66,31.24,36.51
+Jordan,,3/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.54,0.0,0.0002,0.01,,76.03,51.79,37.28,0.4,1014.8,0.47,5,49.05,76.03,31.24,36.51
+Jordan,,3/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0002,0.0004,0.04,rain,77.93,61.8,40.79,0.45,1013.2,0.5,8,51.79,77.93,31.24,36.51
+Jordan,,3/11/2020,Rain overnight.,rain,0.62,0.0049,0.0261,0.48,rain,74.97,54.1,43.17,0.44,1007.9,1.0,4,61.73,74.97,31.24,36.51
+Jordan,,3/12/2020,Light rain throughout the day.,rain,0.66,0.0222,0.1051,0.93,rain,62.66,49.08,46.29,0.7,1002.5,0.71,6,50.86,62.66,31.24,36.51
+Jordan,,3/13/2020,Light rain in the morning.,rain,0.69,0.0045,0.0232,0.81,rain,58.64,48.65,48.49,0.84,1010.0,0.54,7,49.08,58.64,31.24,36.51
+Jordan,,3/14/2020,Clear throughout the day.,clear-day,0.73,0.0001,0.0003,0.05,rain,67.25,48.26,47.66,0.75,1016.8,0.15,7,48.65,67.25,31.24,36.51
+Jordan,,3/15/2020,Clear throughout the day.,clear-day,0.76,0.0,0.0001,0.01,,70.45,48.0,45.85,0.64,1015.0,0.22,8,48.26,70.45,31.24,36.51
+Jordan,,3/16/2020,Clear throughout the day.,clear-day,0.8,0.0006,0.0072,0.14,rain,64.79,43.48,44.26,0.69,1011.1,0.1,8,46.64,64.79,31.24,36.51
+Jordan,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0006,0.0062,0.19,rain,52.14,43.51,38.07,0.71,1013.1,0.52,6,43.48,52.14,31.24,36.51
+Jordan,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0002,0.002,0.03,rain,57.96,41.44,36.62,0.63,1015.0,0.31,8,43.51,57.96,31.24,36.51
+Jordan,,3/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0002,0.002,0.1,rain,52.91,38.78,33.97,0.62,1013.7,0.54,4,41.44,52.91,31.24,36.51
+Jordan,,3/20/2020,Clear throughout the day.,rain,0.92,0.0006,0.0053,0.43,rain,50.92,37.33,35.68,0.73,1012.9,0.28,5,38.78,50.92,31.24,36.51
+Jordan,,3/21/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.03,rain,58.69,37.59,36.88,0.7,1017.5,0.02,8,37.33,58.69,31.24,36.51
+Jordan,,3/22/2020,Partly cloudy throughout the day.,clear-day,0.98,0.0002,0.001,0.01,rain,75.35,53.62,30.79,0.46,1014.7,0.29,6,37.59,75.35,31.24,36.51
+Jordan,,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.01,rain,72.91,46.02,37.48,0.42,1010.0,0.3,7,53.6,72.91,31.24,36.51
+Jordan,,3/24/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0004,0.01,rain,66.89,44.63,39.59,0.57,1012.0,0.11,8,46.02,66.89,31.24,36.51
+Jordan,,3/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.02,rain,75.12,54.27,35.21,0.48,1010.6,0.59,4,44.63,75.12,31.24,36.51
+Jordan,,3/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.1,0.0014,0.0135,0.08,rain,75.06,53.97,42.61,0.47,1007.5,0.48,6,54.27,75.06,31.24,36.51
+Jordan,,3/27/2020,Clear throughout the day.,clear-day,0.13,0.001,0.006999999999999999,0.12,rain,65.16,43.29,44.75,0.6,1012.5,0.13,9,51.23,65.16,31.24,36.51
+Jordan,,3/28/2020,Clear throughout the day.,partly-cloudy-day,0.16,0.0,0.0003,0.01,,63.81,47.93,36.3,0.55,1014.7,0.32,9,43.29,63.81,31.24,36.51
+Jordan,,3/29/2020,Clear throughout the day.,clear-day,0.19,0.0002,0.0004,0.05,rain,73.22,53.15,30.51,0.33,1013.6,0.23,8,47.93,73.22,31.24,36.51
+Jordan,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.02,rain,80.86,50.92,31.1,0.29,1010.1,0.48,6,53.15,80.86,31.24,36.51
+Jordan,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.03,rain,63.77,43.51,43.14,0.59,1012.2,0.08,9,50.56,63.77,31.24,36.51
+Jordan,,4/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0001,0.0003,0.03,rain,67.16,45.71,41.41,0.62,1014.9,0.39,5,43.51,67.16,31.24,36.51
+Jordan,,4/2/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.02,rain,73.14,48.05,37.78,0.49,1017.0,0.11,9,45.71,73.14,31.24,36.51
+Jordan,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.01,rain,82.61,61.86,34.65,0.38,1017.3,0.06,9,48.05,82.61,31.24,36.51
+Jordan,,4/4/2020,Overcast throughout the day.,cloudy,0.41,0.0002,0.0014,0.02,rain,89.46,56.23,24.84,0.17,1013.2,0.9,5,61.86,89.46,31.24,36.51
+Jordan,,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0,0.0002,0.01,,77.43,52.49,42.89,0.46,1015.0,0.59,8,56.23,77.43,31.24,36.51
+Jordan,,4/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0,0.0002,0.02,,73.29,47.15,42.75,0.52,1014.6,0.71,7,52.49,73.29,31.24,36.51
+Jordan,,4/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0,0.0003,0.01,,67.02,44.02,38.82,0.55,1014.3,0.67,5,47.15,67.02,31.24,36.51
+Jordan,,4/8/2020,Clear throughout the day.,clear-day,0.56,0.0001,0.0004,0.03,rain,65.56,43.94,40.01,0.6,1013.1,0.21,8,44.02,65.56,31.24,36.51
+Jordan,,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0002,0.0016,0.08,rain,61.69,44.57,41.26,0.66,1012.8,0.04,9,43.94,61.69,31.24,36.51
+Jordan,,4/10/2020,Partly cloudy throughout the day.,clear-day,0.64,0.0005,0.0041,0.07,rain,62.21,42.89,42.96,0.7,1015.2,0.22,5,44.57,62.21,31.24,36.51
+Jordan,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0003,0.02,,67.98,43.83,36.64,0.56,1018.0,0.0,9,42.89,67.98,31.24,36.51
+Jordan,,4/12/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.03,rain,73.81,53.66,35.45,0.47,1016.7,0.05,10,43.83,73.81,31.24,36.51
+Jordan,,4/13/2020,Overcast throughout the day.,partly-cloudy-day,0.74,0.0001,0.0003,0.04,rain,71.65,49.23,36.92,0.4,1015.4,0.68,5,53.66,71.65,31.24,36.51
+Jordan,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0,0.0003,0.02,,77.82,54.25,39.99,0.45,1018.2,0.24,10,49.23,77.82,31.24,36.51
+Jordan,,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0014,0.0104,0.05,rain,78.56,51.12,40.34,0.4,1011.9,0.38,6,54.25,78.56,31.24,36.51
+Jordan,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0002,0.001,0.05,rain,68.14,51.62,44.32,0.6,1011.0,0.37,6,51.12,68.14,31.24,36.51
+Jordan,,4/17/2020,Clear throughout the day.,clear-day,0.87,0.0001,0.0002,0.02,rain,77.18,55.28,44.71,0.52,1013.2,0.05,10,51.62,77.18,31.24,36.51
+Jordan,,4/18/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0003,0.03,rain,80.53,58.01,41.18,0.41,1012.6,0.23,9,55.28,80.53,31.24,36.51
+Jordan,,4/19/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0004,0.04,rain,83.97,58.55,35.18,0.27,1010.7,0.12,9,58.01,83.97,31.24,36.51
+Jordan,,4/20/2020,Clear throughout the day.,clear-day,0.96,0.0006,0.0051,0.07,rain,87.18,59.07,40.9,0.31,1010.3,0.2,10,58.55,87.18,31.24,36.51

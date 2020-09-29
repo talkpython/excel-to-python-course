@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Bolivia,,12/31/2019,Light rain and humid throughout the day.,rain,0.19,0.0196,0.0573,0.93,rain,82.3,70.92,76.08,0.98,1008.4,0.98,7,72.15,82.3,-16.2902,-63.5887
+Bolivia,,1/1/2020,Light rain and humid throughout the day.,rain,0.22,0.0243,0.0574,0.96,rain,86.95,70.09,75.55,0.94,1009.1,0.97,7,70.92,86.95,-16.2902,-63.5887
+Bolivia,,1/2/2020,Light rain in the morning.,rain,0.25,0.0086,0.0336,0.84,rain,90.18,71.91,73.2,0.86,1010.2,0.97,6,70.09,90.18,-16.2902,-63.5887
+Bolivia,,1/3/2020,Possible drizzle in the morning.,rain,0.28,0.0064,0.0142,0.73,rain,91.62,73.7,74.19,0.82,1010.6,0.97,6,71.91,91.62,-16.2902,-63.5887
+Bolivia,,1/4/2020,Possible drizzle in the morning.,rain,0.31,0.008,0.0374,0.64,rain,92.82,73.36,73.61,0.77,1009.3,0.76,10,73.7,92.82,-16.2902,-63.5887
+Bolivia,,1/5/2020,Possible light rain in the morning.,rain,0.34,0.005,0.0172,0.61,rain,91.79,75.75,74.01,0.81,1006.5,0.92,6,73.36,91.79,-16.2902,-63.5887
+Bolivia,,1/6/2020,Light rain overnight.,rain,0.37,0.0021,0.0056,0.53,rain,86.21,73.19,74.46,0.83,1004.7,0.95,8,75.96,86.21,-16.2902,-63.5887
+Bolivia,,1/7/2020,Rain and humid throughout the day.,rain,0.4,0.0723,0.1439,0.98,rain,79.12,73.14,75.72,0.99,1007.8,0.99,6,73.19,79.12,-16.2902,-63.5887
+Bolivia,,1/8/2020,Possible light rain in the morning and afternoon.,rain,0.44,0.0084,0.0238,0.8,rain,88.16,74.61,74.74,0.87,1007.9,0.94,7,73.14,88.16,-16.2902,-63.5887
+Bolivia,,1/9/2020,Humid and mostly cloudy throughout the day.,rain,0.47,0.002,0.0105,0.43,rain,89.12,73.98,74.21,0.8,1008.3,0.71,8,74.61,89.12,-16.2902,-63.5887
+Bolivia,,1/10/2020,Humid and partly cloudy throughout the day.,rain,0.51,0.0028,0.0168,0.44,rain,92.31,75.12,74.11,0.77,1008.4,0.46,9,74.0,92.31,-16.2902,-63.5887
+Bolivia,,1/11/2020,Humid throughout the day.,rain,0.55,0.002,0.0213,0.45,rain,88.1,74.27,75.37,0.85,1009.1,0.85,6,75.12,88.1,-16.2902,-63.5887
+Bolivia,,1/12/2020,"Possible light rain until afternoon, starting again overnight.",rain,0.58,0.0069,0.0318,0.78,rain,91.39,73.16,75.32,0.83,1009.6,0.93,6,74.27,91.39,-16.2902,-63.5887
+Bolivia,,1/13/2020,"Light rain until afternoon, starting again overnight.",rain,0.62,0.0131,0.0364,0.92,rain,85.82,72.5,75.47,0.93,1010.1,0.85,6,72.81,85.82,-16.2902,-63.5887
+Bolivia,,1/14/2020,Possible light rain until evening.,rain,0.66,0.0226,0.0714,0.91,rain,87.2,72.9,76.66,0.95,1009.3,0.79,8,72.5,87.2,-16.2902,-63.5887
+Bolivia,,1/15/2020,Humid and partly cloudy throughout the day.,rain,0.69,0.0013,0.0087,0.48,rain,91.23,74.17,74.08,0.8,1009.0,0.54,9,72.9,91.23,-16.2902,-63.5887
+Bolivia,,1/16/2020,Possible drizzle overnight.,rain,0.73,0.0013,0.005,0.4,rain,98.52,72.84,73.4,0.7,1011.1,0.35,12,74.55,98.52,-16.2902,-63.5887
+Bolivia,,1/17/2020,Possible light rain in the morning.,rain,0.77,0.0041,0.0221,0.67,rain,91.48,74.66,72.83,0.77,1013.4,0.73,7,72.84,91.48,-16.2902,-63.5887
+Bolivia,,1/18/2020,Humid and mostly cloudy throughout the day.,rain,0.8,0.0041,0.0262,0.45,rain,93.13,74.95,74.65,0.77,1011.7,0.76,8,74.66,93.13,-16.2902,-63.5887
+Bolivia,,1/19/2020,Possible light rain until evening.,rain,0.84,0.0104,0.0584,0.78,rain,93.83,74.1,74.75,0.77,1010.2,0.8,9,74.95,93.83,-16.2902,-63.5887
+Bolivia,,1/20/2020,Possible drizzle in the morning.,rain,0.87,0.0026,0.0132,0.64,rain,95.36,75.17,74.07,0.74,1008.6,0.61,9,74.1,95.36,-16.2902,-63.5887
+Bolivia,,1/21/2020,Possible light rain in the morning and overnight.,rain,0.91,0.0029,0.0104,0.63,rain,94.31,72.86,74.59,0.74,1006.6,0.71,9,75.17,94.31,-16.2902,-63.5887
+Bolivia,,1/22/2020,Rain in the morning and afternoon.,rain,0.94,0.043,0.115,0.92,rain,83.71,72.73,75.43,0.91,1007.9,0.98,6,72.86,83.71,-16.2902,-63.5887
+Bolivia,,1/23/2020,Humid and overcast throughout the day.,rain,0.97,0.0018,0.0086,0.31,rain,94.03,74.55,71.59,0.72,1008.0,0.93,6,72.73,94.03,-16.2902,-63.5887
+Bolivia,,1/24/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.0,0.0001,0.001,0.11,rain,95.16,72.27,70.69,0.66,1008.2,0.53,8,74.55,95.16,-16.2902,-63.5887
+Bolivia,,1/25/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.04,0.0004,0.0019,0.18,rain,97.61,74.95,71.64,0.66,1008.8,0.58,6,72.27,97.61,-16.2902,-63.5887
+Bolivia,,1/26/2020,Humid and partly cloudy throughout the day.,rain,0.07,0.005,0.023,0.39,rain,99.91,76.5,74.43,0.71,1007.8,0.53,14,74.95,99.91,-16.2902,-63.5887
+Bolivia,,1/27/2020,Possible light rain in the evening.,rain,0.1,0.0064,0.0304,0.58,rain,97.05,72.85,75.34,0.77,1008.4,0.56,10,76.5,97.05,-16.2902,-63.5887
+Bolivia,,1/28/2020,Possible light rain in the morning and overnight.,rain,0.13,0.008,0.0566,0.76,rain,88.33,71.31,73.51,0.86,1008.9,0.85,6,72.85,88.33,-16.2902,-63.5887
+Bolivia,,1/29/2020,Rain and humid throughout the day.,rain,0.16,0.0486,0.1693,0.91,rain,83.44,72.33,75.59,0.97,1008.5,0.94,7,71.31,83.44,-16.2902,-63.5887
+Bolivia,,1/30/2020,Possible light rain and humid throughout the day.,rain,0.19,0.0072,0.0331,0.88,rain,86.26,68.36,73.4,0.9,1011.5,0.71,9,70.8,86.26,-16.2902,-63.5887
+Bolivia,,1/31/2020,Possible drizzle in the morning.,rain,0.22,0.0019,0.0125,0.7,rain,85.87,69.89,69.76,0.83,1013.4,0.77,7,68.36,85.87,-16.2902,-63.5887
+Bolivia,,2/1/2020,Possible drizzle in the afternoon.,rain,0.25,0.0031,0.0089,0.68,rain,85.84,73.72,73.12,0.85,1011.8,0.86,6,69.89,85.84,-16.2902,-63.5887
+Bolivia,,2/2/2020,Humid and overcast throughout the day.,cloudy,0.28,0.0002,0.0017,0.2,rain,91.21,76.3,74.13,0.81,1010.7,0.88,6,73.72,91.21,-16.2902,-63.5887
+Bolivia,,2/3/2020,Possible light rain in the afternoon.,rain,0.31,0.0032,0.0238,0.5,rain,87.91,74.1,74.11,0.81,1010.7,0.89,8,76.16,87.91,-16.2902,-63.5887
+Bolivia,,2/4/2020,Possible light rain in the afternoon.,rain,0.35,0.0039,0.0209,0.55,rain,87.49,75.02,75.02,0.84,1009.1,0.9,6,74.1,87.49,-16.2902,-63.5887
+Bolivia,,2/5/2020,Humid and overcast throughout the day.,rain,0.38,0.0009,0.0036,0.53,rain,89.38,76.0,72.87,0.77,1007.9,0.98,6,75.02,89.38,-16.2902,-63.5887
+Bolivia,,2/6/2020,Light rain until evening.,rain,0.42,0.0172,0.0865,0.78,rain,87.01,72.05,76.29,0.87,1009.2,0.82,11,75.55,87.01,-16.2902,-63.5887
+Bolivia,,2/7/2020,Humid and mostly cloudy throughout the day.,rain,0.45,0.001,0.0178,0.42,rain,90.88,76.1,73.8,0.82,1009.2,0.83,6,72.05,90.88,-16.2902,-63.5887
+Bolivia,,2/8/2020,Rain and humid throughout the day.,rain,0.49,0.0625,0.2467,0.95,rain,86.53,71.64,77.52,0.94,1008.2,0.75,7,73.22,86.53,-16.2902,-63.5887
+Bolivia,,2/9/2020,Rain and humid throughout the day.,rain,0.53,0.0452,0.1467,0.99,rain,82.67,71.7,75.64,0.99,1009.8,0.98,6,71.64,82.67,-16.2902,-63.5887
+Bolivia,,2/10/2020,Light rain and humid throughout the day.,rain,0.57,0.0486,0.1355,0.98,rain,81.68,70.01,75.32,1.0,1011.3,0.96,7,71.7,81.68,-16.2902,-63.5887
+Bolivia,,2/11/2020,"Rain until afternoon, starting again overnight.",rain,0.61,0.0176,0.0799,0.95,rain,81.25,70.86,73.46,0.95,1011.9,0.86,6,70.01,81.25,-16.2902,-63.5887
+Bolivia,,2/12/2020,Light rain and humid throughout the day.,rain,0.64,0.0279,0.1676,0.96,rain,86.77,72.27,73.48,0.9,1010.5,0.76,8,70.86,86.77,-16.2902,-63.5887
+Bolivia,,2/13/2020,Humid and mostly cloudy throughout the day.,rain,0.68,0.0021,0.0117,0.63,rain,88.94,72.57,74.46,0.88,1009.8,0.87,6,72.27,88.94,-16.2902,-63.5887
+Bolivia,,2/14/2020,Humid and mostly cloudy throughout the day.,rain,0.72,0.0004,0.0019,0.28,rain,91.29,74.16,74.38,0.82,1009.5,0.71,8,72.57,91.29,-16.2902,-63.5887
+Bolivia,,2/15/2020,Humid throughout the day.,rain,0.75,0.004,0.0341,0.31,rain,93.83,75.17,75.62,0.78,1008.6,0.03,14,74.16,93.83,-16.2902,-63.5887
+Bolivia,,2/16/2020,Humid and partly cloudy throughout the day.,rain,0.79,0.0082,0.0767,0.38,rain,89.61,77.3,75.3,0.81,1007.8,0.61,12,75.17,89.61,-16.2902,-63.5887
+Bolivia,,2/17/2020,Humid and partly cloudy throughout the day.,rain,0.82,0.0011,0.0092,0.32,rain,93.42,77.62,74.77,0.73,1007.1,0.42,7,77.3,93.42,-16.2902,-63.5887
+Bolivia,,2/18/2020,Humid and partly cloudy throughout the day.,rain,0.85,0.0002,0.0004,0.31,rain,95.01,74.0,74.75,0.72,1008.3,0.53,8,77.62,95.01,-16.2902,-63.5887
+Bolivia,,2/19/2020,Possible light rain in the morning and afternoon.,rain,0.89,0.0125,0.0694,0.75,rain,88.14,73.93,75.9,0.88,1008.3,0.99,6,74.0,88.14,-16.2902,-63.5887
+Bolivia,,2/20/2020,Light rain and humid throughout the day.,rain,0.92,0.0119,0.0406,0.83,rain,83.18,70.99,76.43,0.96,1009.0,0.98,6,73.93,83.18,-16.2902,-63.5887
+Bolivia,,2/21/2020,Rain in the morning and afternoon.,rain,0.95,0.0308,0.1015,0.95,rain,82.55,70.06,71.21,0.84,1011.8,0.98,6,70.99,82.55,-16.2902,-63.5887
+Bolivia,,2/22/2020,Overcast throughout the day.,rain,0.98,0.0004,0.0021,0.38,rain,77.7,69.98,57.14,0.56,1014.9,0.99,6,70.06,77.7,-16.2902,-63.5887
+Bolivia,,2/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.01,0.0001,0.0003,0.09,rain,79.66,62.22,56.66,0.55,1013.9,0.72,7,66.81,79.66,-16.2902,-63.5887
+Bolivia,,2/24/2020,Clear throughout the day.,clear-day,0.04,0.0001,0.0004,0.1,rain,88.61,72.35,64.55,0.68,1009.8,0.12,14,62.22,88.61,-16.2902,-63.5887
+Bolivia,,2/25/2020,Possible light rain in the afternoon and evening.,rain,0.07,0.0144,0.0601,0.69,rain,86.27,72.07,75.4,0.91,1008.2,0.43,9,72.35,86.27,-16.2902,-63.5887
+Bolivia,,2/26/2020,Light rain in the morning and afternoon.,rain,0.1,0.0118,0.0548,0.84,rain,78.66,70.49,72.73,0.94,1012.0,0.92,6,72.03,78.66,-16.2902,-63.5887
+Bolivia,,2/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0001,0.0009,0.11,rain,91.34,66.84,67.44,0.7,1012.3,0.67,8,70.49,91.34,-16.2902,-63.5887
+Bolivia,,2/28/2020,Clear throughout the day.,clear-day,0.16,0.0001,0.0003,0.03,rain,91.98,65.93,65.33,0.66,1012.4,0.31,10,66.84,91.98,-16.2902,-63.5887
+Bolivia,,2/29/2020,Clear throughout the day.,clear-day,0.19,0.0001,0.0003,0.08,rain,95.29,68.61,62.2,0.58,1013.4,0.03,14,65.93,95.29,-16.2902,-63.5887
+Bolivia,,3/1/2020,Clear throughout the day.,clear-day,0.22,0.0,0.0003,0.02,,96.6,68.07,62.58,0.55,1013.1,0.21,9,68.61,96.6,-16.2902,-63.5887
+Bolivia,,3/2/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0003,0.09,rain,97.8,70.56,63.85,0.57,1011.6,0.03,13,68.07,97.8,-16.2902,-63.5887
+Bolivia,,3/3/2020,Clear throughout the day.,clear-day,0.29,0.0003,0.0022,0.16,rain,95.24,73.32,67.5,0.61,1011.0,0.19,13,70.56,95.24,-16.2902,-63.5887
+Bolivia,,3/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.32,0.0,0.0002,0.06,,98.54,71.72,67.78,0.6,1011.6,0.49,13,73.32,98.54,-16.2902,-63.5887
+Bolivia,,3/5/2020,Humid throughout the day.,clear-day,0.36,0.0001,0.0003,0.09,rain,98.43,73.26,68.24,0.61,1012.0,0.18,14,71.72,98.43,-16.2902,-63.5887
+Bolivia,,3/6/2020,Humid throughout the day.,clear-day,0.4,0.001,0.0043,0.18,rain,95.88,73.24,70.58,0.65,1010.9,0.29,13,73.26,95.88,-16.2902,-63.5887
+Bolivia,,3/7/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0001,0.0005,0.12,rain,97.05,73.69,70.74,0.64,1008.6,0.45,13,73.24,97.05,-16.2902,-63.5887
+Bolivia,,3/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0,0.0002,0.02,,97.62,73.34,71.08,0.64,1008.7,0.41,13,73.69,97.62,-16.2902,-63.5887
+Bolivia,,3/9/2020,Humid and partly cloudy throughout the day.,rain,0.51,0.0019,0.0076,0.31,rain,96.74,73.75,72.44,0.69,1010.9,0.51,7,73.34,96.74,-16.2902,-63.5887
+Bolivia,,3/10/2020,Rain in the afternoon.,rain,0.55,0.0198,0.1456,0.45,rain,94.38,74.36,72.75,0.71,1010.2,0.43,12,73.75,94.38,-16.2902,-63.5887
+Bolivia,,3/11/2020,Humid throughout the day.,partly-cloudy-day,0.59,0.0002,0.0004,0.19,rain,97.95,75.42,70.72,0.63,1007.9,0.41,13,74.36,97.95,-16.2902,-63.5887
+Bolivia,,3/12/2020,Possible light rain in the afternoon.,rain,0.63,0.0121,0.0691,0.46,rain,88.26,72.64,70.87,0.69,1008.5,0.59,12,75.42,88.26,-16.2902,-63.5887
+Bolivia,,3/13/2020,Possible light rain overnight.,rain,0.67,0.0059,0.057999999999999996,0.42,rain,98.88,73.88,72.69,0.68,1009.4,0.36,13,72.64,98.88,-16.2902,-63.5887
+Bolivia,,3/14/2020,Possible light rain overnight.,rain,0.7,0.0091,0.0608,0.54,rain,96.79,74.12,73.13,0.7,1009.3,0.66,9,73.88,96.79,-16.2902,-63.5887
+Bolivia,,3/15/2020,Possible light rain in the morning and overnight.,rain,0.74,0.0113,0.0531,0.74,rain,93.55,74.31,75.8,0.81,1009.5,0.94,6,74.12,93.55,-16.2902,-63.5887
+Bolivia,,3/16/2020,Rain in the morning and afternoon.,rain,0.77,0.0247,0.1066,0.92,rain,81.76,71.35,75.45,0.94,1010.2,1.0,6,74.17,81.76,-16.2902,-63.5887
+Bolivia,,3/17/2020,Possible light rain in the morning and afternoon.,rain,0.8,0.013000000000000001,0.0484,0.76,rain,87.05,73.44,74.38,0.9,1009.7,0.93,7,71.35,87.05,-16.2902,-63.5887
+Bolivia,,3/18/2020,Possible light rain in the morning.,rain,0.84,0.0058,0.0374,0.49,rain,88.1,73.31,74.64,0.85,1009.9,1.0,6,73.44,88.1,-16.2902,-63.5887
+Bolivia,,3/19/2020,Rain in the evening.,rain,0.87,0.0133,0.1194,0.45,rain,90.61,72.16,73.61,0.79,1009.8,0.99,6,73.31,90.61,-16.2902,-63.5887
+Bolivia,,3/20/2020,Light rain until evening.,rain,0.9,0.0075,0.0173,0.83,rain,79.5,69.14,69.81,0.85,1010.5,0.95,6,71.2,79.5,-16.2902,-63.5887
+Bolivia,,3/21/2020,Possible drizzle in the morning.,rain,0.93,0.0006,0.0029,0.45,rain,83.55,69.29,68.49,0.82,1010.6,0.96,6,69.14,83.55,-16.2902,-63.5887
+Bolivia,,3/22/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.96,0.0005,0.0028,0.23,rain,90.96,71.92,71.61,0.79,1011.0,0.78,9,69.29,90.96,-16.2902,-63.5887
+Bolivia,,3/23/2020,Humid and partly cloudy throughout the day.,rain,0.99,0.0012,0.0081,0.4,rain,89.55,73.12,73.86,0.81,1011.8,0.59,11,71.92,89.55,-16.2902,-63.5887
+Bolivia,,3/24/2020,Possible light rain and humid throughout the day.,rain,0.02,0.0139,0.0705,0.77,rain,90.85,73.67,76.64,0.86,1009.5,0.75,8,73.12,90.85,-16.2902,-63.5887
+Bolivia,,3/25/2020,Possible light rain in the morning and overnight.,rain,0.05,0.0047,0.0292,0.63,rain,91.48,73.89,75.55,0.84,1007.1,0.49,8,73.67,91.48,-16.2902,-63.5887
+Bolivia,,3/26/2020,Light rain and humid throughout the day.,rain,0.08,0.0193,0.0901,0.82,rain,89.98,70.14,75.56,0.89,1007.4,0.72,7,73.89,89.98,-16.2902,-63.5887
+Bolivia,,3/27/2020,Possible drizzle in the morning.,rain,0.11,0.0028,0.0116,0.68,rain,85.39,70.41,71.08,0.86,1008.3,0.62,7,70.14,85.39,-16.2902,-63.5887
+Bolivia,,3/28/2020,Humid and mostly cloudy throughout the day.,rain,0.14,0.0022,0.0099,0.35,rain,90.97,72.01,73.16,0.8,1008.5,0.64,10,70.41,90.97,-16.2902,-63.5887
+Bolivia,,3/29/2020,Light rain starting in the afternoon.,rain,0.17,0.0105,0.0453,0.76,rain,92.06,72.67,75.01,0.85,1010.6,0.83,6,72.01,92.06,-16.2902,-63.5887
+Bolivia,,3/30/2020,"Light rain until afternoon, starting again overnight.",rain,0.2,0.0187,0.0587,0.93,rain,88.8,72.87,75.77,0.91,1011.1,0.93,6,72.67,88.8,-16.2902,-63.5887
+Bolivia,,3/31/2020,Possible drizzle in the morning.,rain,0.24,0.0072,0.0391,0.72,rain,92.66,74.3,75.03,0.83,1010.6,0.77,6,72.87,92.66,-16.2902,-63.5887
+Bolivia,,4/1/2020,Humid and partly cloudy throughout the day.,rain,0.27,0.0195,0.1571,0.31,rain,93.0,73.72,74.82,0.79,1010.0,0.56,10,74.3,93.0,-16.2902,-63.5887
+Bolivia,,4/2/2020,"Possible light rain until morning, starting again in the evening.",rain,0.31,0.018000000000000002,0.087,0.63,rain,94.62,68.09,74.31,0.78,1012.1,0.8,6,73.72,94.62,-16.2902,-63.5887
+Bolivia,,4/3/2020,Mostly cloudy throughout the day.,rain,0.34,0.0019,0.0554,0.5,rain,82.41,66.87,64.74,0.72,1014.2,0.71,6,68.09,82.41,-16.2902,-63.5887
+Bolivia,,4/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.38,0.0001,0.0009,0.07,rain,90.38,73.6,67.83,0.71,1010.3,0.59,8,66.87,90.38,-16.2902,-63.5887
+Bolivia,,4/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0007,0.0039,0.13,rain,93.6,76.93,72.56,0.72,1009.1,0.53,7,73.6,93.6,-16.2902,-63.5887
+Bolivia,,4/6/2020,Rain starting in the afternoon.,rain,0.46,0.0243,0.10099999999999999,0.92,rain,94.85,71.14,74.47,0.77,1011.3,0.63,9,74.38,94.85,-16.2902,-63.5887
+Bolivia,,4/7/2020,Light rain in the morning and afternoon.,rain,0.5,0.0117,0.0574,0.99,rain,77.71,69.16,67.89,0.82,1015.7,0.98,6,71.14,77.71,-16.2902,-63.5887
+Bolivia,,4/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0001,0.0004,0.1,rain,84.23,66.94,65.29,0.7,1015.1,0.61,7,69.16,84.23,-16.2902,-63.5887
+Bolivia,,4/9/2020,Clear throughout the day.,clear-day,0.58,0.0001,0.0003,0.12,rain,86.32,62.31,55.54,0.54,1014.7,0.0,11,66.81,86.32,-16.2902,-63.5887
+Bolivia,,4/10/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0003,0.11,rain,86.72,62.85,53.76,0.52,1014.6,0.03,11,62.31,86.72,-16.2902,-63.5887
+Bolivia,,4/11/2020,Clear throughout the day.,clear-day,0.65,0.0001,0.0004,0.08,rain,91.92,66.73,59.26,0.59,1012.7,0.08,11,62.85,91.92,-16.2902,-63.5887
+Bolivia,,4/12/2020,Clear throughout the day.,rain,0.69,0.0058,0.0525,0.34,rain,88.07,70.86,67.48,0.72,1012.0,0.09,11,66.73,88.07,-16.2902,-63.5887
+Bolivia,,4/13/2020,Rain overnight.,rain,0.72,0.0019,0.0368,0.39,rain,90.38,67.73,70.73,0.73,1009.3,0.37,11,70.86,90.38,-16.2902,-63.5887
+Bolivia,,4/14/2020,Light rain in the morning.,rain,0.75,0.025,0.1497,0.97,rain,76.23,69.9,65.55,0.8,1012.7,0.96,5,67.73,78.1,-16.2902,-63.5887
+Bolivia,,4/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.09,rain,79.81,65.11,53.28,0.49,1015.3,0.77,7,69.81,79.81,-16.2902,-63.5887
+Bolivia,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.82,0.0,0.0002,0.04,,86.6,62.84,51.03,0.46,1017.6,0.65,8,65.11,86.6,-16.2902,-63.5887
+Bolivia,,4/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.85,0.0001,0.0002,0.11,rain,87.74,63.3,52.01,0.48,1018.8,0.58,8,62.84,87.74,-16.2902,-63.5887
+Bolivia,,4/18/2020,Clear throughout the day.,partly-cloudy-day,0.88,0.0001,0.0002,0.01,rain,89.17,59.43,51.45,0.47,1017.5,0.34,10,63.3,89.17,-16.2902,-63.5887
+Bolivia,,4/19/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0003,0.04,rain,91.47,66.71,60.2,0.61,1015.0,0.09,11,59.43,91.47,-16.2902,-63.5887
+Bolivia,,4/20/2020,Clear throughout the day.,partly-cloudy-day,0.94,0.0001,0.0004,0.07,rain,93.66,71.11,67.8,0.68,1013.6,0.33,10,66.71,93.66,-16.2902,-63.5887

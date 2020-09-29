@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Cote d'Ivoire,,1/1/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.03,rain,95.4,65.08,35.96,0.24,1011.3,0.15,10,63.65,95.4,7.54,-5.5471
+Cote d'Ivoire,,1/2/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0004,0.05,rain,93.94,65.9,30.44,0.19,1012.4,0.11,10,65.08,93.94,7.54,-5.5471
+Cote d'Ivoire,,1/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0001,0.0005,0.03,rain,92.46,64.17,27.91,0.17,1013.2,0.43,8,65.9,92.46,7.54,-5.5471
+Cote d'Ivoire,,1/4/2020,Clear throughout the day.,clear-day,0.3,0.0002,0.0003,0.07,rain,92.06,61.96,24.95,0.15,1013.4,0.04,10,64.17,92.06,7.54,-5.5471
+Cote d'Ivoire,,1/5/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0003,0.03,rain,93.89,63.68,31.85,0.2,1011.9,0.01,11,61.96,93.89,7.54,-5.5471
+Cote d'Ivoire,,1/6/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,94.77,65.25,38.33,0.25,1010.6,0.17,10,63.68,94.77,7.54,-5.5471
+Cote d'Ivoire,,1/7/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0002,0.01,rain,95.49,68.04,41.48,0.27,1010.4,0.08,10,65.25,95.49,7.54,-5.5471
+Cote d'Ivoire,,1/8/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0002,0.04,,96.51,70.89,50.46,0.34,1011.4,0.21,10,68.04,96.51,7.54,-5.5471
+Cote d'Ivoire,,1/9/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0001,0.01,,98.6,68.87,54.29,0.38,1011.1,0.09,10,70.89,98.6,7.54,-5.5471
+Cote d'Ivoire,,1/10/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0004,0.04,rain,98.23,70.16,55.82,0.42,1011.9,0.14,9,68.87,98.23,7.54,-5.5471
+Cote d'Ivoire,,1/11/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0003,0.07,rain,92.18,70.71,65.53,0.61,1013.0,0.21,9,70.16,92.18,7.54,-5.5471
+Cote d'Ivoire,,1/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0002,0.0008,0.13,rain,96.46,71.31,63.23,0.56,1011.8,0.55,9,70.71,96.46,7.54,-5.5471
+Cote d'Ivoire,,1/13/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0004,0.05,rain,99.1,71.49,45.15,0.27,1010.1,0.25,11,71.31,99.1,7.54,-5.5471
+Cote d'Ivoire,,1/14/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,95.33,68.39,35.78,0.19,1009.8,0.18,10,71.49,95.33,7.54,-5.5471
+Cote d'Ivoire,,1/15/2020,Partly cloudy throughout the day.,clear-day,0.69,0.0,0.0001,0.03,,98.27,69.58,39.5,0.23,1010.4,0.29,7,68.39,98.27,7.54,-5.5471
+Cote d'Ivoire,,1/16/2020,Clear throughout the day.,clear-day,0.72,0.0001,0.0002,0.05,rain,100.76,67.18,41.98,0.24,1011.6,0.1,11,70.02,100.76,7.54,-5.5471
+Cote d'Ivoire,,1/17/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0004,0.07,rain,98.77,70.98,49.49,0.33,1012.1,0.19,11,67.18,98.77,7.54,-5.5471
+Cote d'Ivoire,,1/18/2020,Clear throughout the day.,clear-day,0.8,0.0,0.0002,0.03,,95.6,69.19,58.15,0.44,1012.1,0.15,10,70.98,95.6,7.54,-5.5471
+Cote d'Ivoire,,1/19/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0002,0.01,,97.79,68.05,40.55,0.24,1010.9,0.08,11,69.19,97.79,7.54,-5.5471
+Cote d'Ivoire,,1/20/2020,Partly cloudy throughout the day.,clear-day,0.87,0.0012,0.0159,0.14,rain,94.92,73.37,59.86,0.48,1010.0,0.31,10,68.05,94.92,7.54,-5.5471
+Cote d'Ivoire,,1/21/2020,Possible light rain in the morning.,rain,0.9,0.0178,0.1347,0.52,rain,93.25,72.52,72.11,0.72,1010.9,0.78,7,73.37,93.25,7.54,-5.5471
+Cote d'Ivoire,,1/22/2020,Humid and overcast throughout the day.,rain,0.93,0.0081,0.0264,0.52,rain,91.72,72.93,72.74,0.75,1011.3,0.91,7,72.52,91.72,7.54,-5.5471
+Cote d'Ivoire,,1/23/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0001,0.0002,0.05,rain,96.56,70.19,65.26,0.56,1010.8,0.63,8,72.93,96.56,7.54,-5.5471
+Cote d'Ivoire,,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,1.0,0.0001,0.0002,0.04,rain,97.14,66.41,44.16,0.26,1010.8,0.71,8,70.19,97.14,7.54,-5.5471
+Cote d'Ivoire,,1/25/2020,Clear throughout the day.,clear-day,0.03,0.0001,0.0003,0.02,rain,97.76,65.01,33.62,0.19,1011.4,0.05,11,66.41,97.76,7.54,-5.5471
+Cote d'Ivoire,,1/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.06,0.0001,0.0004,0.03,rain,95.13,67.84,47.52,0.33,1011.8,0.44,7,65.01,95.13,7.54,-5.5471
+Cote d'Ivoire,,1/27/2020,Clear throughout the day.,clear-day,0.09,0.0001,0.0004,0.07,rain,93.53,70.61,63.0,0.54,1011.3,0.3,11,67.84,93.53,7.54,-5.5471
+Cote d'Ivoire,,1/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.12,0.0001,0.0002,0.03,rain,95.56,69.13,64.86,0.56,1011.7,0.53,8,70.61,95.56,7.54,-5.5471
+Cote d'Ivoire,,1/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.05,rain,99.11,64.72,51.1,0.37,1011.7,0.36,10,69.13,99.11,7.54,-5.5471
+Cote d'Ivoire,,1/30/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.18,0.0001,0.0003,0.05,rain,99.72,63.51,39.1,0.24,1012.4,0.68,7,64.72,99.72,7.54,-5.5471
+Cote d'Ivoire,,1/31/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.05,rain,96.43,66.65,55.92,0.45,1012.6,0.16,10,63.51,96.43,7.54,-5.5471
+Cote d'Ivoire,,2/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.05,rain,96.32,64.25,62.41,0.56,1012.1,0.13,11,66.65,96.32,7.54,-5.5471
+Cote d'Ivoire,,2/2/2020,Clear throughout the day.,clear-day,0.28,0.0,0.0002,0.03,,98.79,63.96,48.17,0.39,1012.6,0.18,11,64.25,98.79,7.54,-5.5471
+Cote d'Ivoire,,2/3/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0003,0.04,rain,98.89,61.24,26.38,0.15,1012.6,0.14,11,63.96,98.89,7.54,-5.5471
+Cote d'Ivoire,,2/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0003,0.05,rain,96.72,60.47,25.37,0.15,1012.7,0.38,10,61.24,96.72,7.54,-5.5471
+Cote d'Ivoire,,2/5/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.03,rain,98.7,63.16,29.73,0.17,1011.7,0.1,11,60.47,98.7,7.54,-5.5471
+Cote d'Ivoire,,2/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0,0.0003,0.02,,97.21,63.28,40.35,0.26,1011.3,0.47,7,63.16,97.21,7.54,-5.5471
+Cote d'Ivoire,,2/7/2020,Clear throughout the day.,clear-day,0.45,0.0001,0.0003,0.04,rain,97.86,63.68,32.02,0.19,1011.8,0.09,12,63.28,97.86,7.54,-5.5471
+Cote d'Ivoire,,2/8/2020,Overcast throughout the day.,partly-cloudy-day,0.48,0.0001,0.0003,0.03,rain,100.0,64.0,24.88,0.14,1011.3,0.71,6,63.68,100.0,7.54,-5.5471
+Cote d'Ivoire,,2/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.52,0.0001,0.0003,0.06,rain,98.14,73.61,48.59,0.32,1011.4,0.53,8,64.0,98.14,7.54,-5.5471
+Cote d'Ivoire,,2/10/2020,Mostly cloudy throughout the day.,rain,0.56,0.0018,0.0131,0.3,rain,94.99,73.4,66.93,0.59,1012.4,0.55,8,73.61,94.99,7.54,-5.5471
+Cote d'Ivoire,,2/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.0001,0.0008,0.11,rain,99.22,72.65,55.3,0.45,1012.1,0.84,8,73.4,99.22,7.54,-5.5471
+Cote d'Ivoire,,2/12/2020,Overcast throughout the day.,cloudy,0.64,0.0001,0.0004,0.05,rain,98.03,65.72,24.42,0.11,1011.1,0.98,6,72.65,98.03,7.54,-5.5471
+Cote d'Ivoire,,2/13/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.04,rain,98.72,63.97,30.04,0.15,1010.8,0.17,12,65.72,98.72,7.54,-5.5471
+Cote d'Ivoire,,2/14/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.02,rain,98.54,62.55,26.98,0.14,1009.9,0.22,11,63.97,98.54,7.54,-5.5471
+Cote d'Ivoire,,2/15/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.01,rain,99.02,62.52,26.26,0.14,1009.7,0.03,12,62.55,99.02,7.54,-5.5471
+Cote d'Ivoire,,2/16/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.03,rain,100.48,63.79,28.01,0.16,1009.9,0.0,12,62.52,100.48,7.54,-5.5471
+Cote d'Ivoire,,2/17/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.82,0.0001,0.0003,0.09,rain,97.21,72.68,59.21,0.53,1010.7,0.58,7,63.79,97.21,7.54,-5.5471
+Cote d'Ivoire,,2/18/2020,Humid throughout the day.,clear-day,0.85,0.0002,0.0004,0.13,rain,99.68,74.88,66.61,0.57,1010.5,0.05,11,72.68,99.68,7.54,-5.5471
+Cote d'Ivoire,,2/19/2020,Humid throughout the day.,clear-day,0.88,0.0,0.0001,0.05,,100.09,74.12,71.88,0.65,1009.3,0.13,12,74.88,100.09,7.54,-5.5471
+Cote d'Ivoire,,2/20/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.91,0.003,0.0251,0.18,rain,96.8,75.04,72.5,0.68,1008.3,0.41,11,74.12,96.8,7.54,-5.5471
+Cote d'Ivoire,,2/21/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.94,0.0002,0.0007,0.16,rain,99.93,73.98,71.21,0.63,1008.5,0.33,10,75.04,99.93,7.54,-5.5471
+Cote d'Ivoire,,2/22/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.98,0.0006,0.0034,0.15,rain,99.97,74.18,70.52,0.63,1009.5,0.56,8,73.98,99.97,7.54,-5.5471
+Cote d'Ivoire,,2/23/2020,Humid throughout the day.,clear-day,0.01,0.0002,0.003,0.07,rain,100.82,75.05,70.69,0.61,1010.2,0.27,12,74.18,100.82,7.54,-5.5471
+Cote d'Ivoire,,2/24/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.04,0.0002,0.0008,0.07,rain,102.63,72.26,67.06,0.54,1009.7,0.85,9,75.05,102.63,7.54,-5.5471
+Cote d'Ivoire,,2/25/2020,Humid throughout the day.,partly-cloudy-day,0.07,0.0006,0.0043,0.06,rain,100.24,67.79,55.45,0.42,1009.6,0.42,11,72.26,100.24,7.54,-5.5471
+Cote d'Ivoire,,2/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0003,0.01,rain,101.58,68.29,42.09,0.24,1009.2,0.21,10,67.79,101.58,7.54,-5.5471
+Cote d'Ivoire,,2/27/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0001,0.0004,0.04,rain,97.72,72.46,65.26,0.58,1009.8,0.35,10,68.29,97.72,7.54,-5.5471
+Cote d'Ivoire,,2/28/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0001,0.0004,0.06,rain,99.28,72.21,69.13,0.62,1010.4,0.52,11,72.46,99.28,7.54,-5.5471
+Cote d'Ivoire,,2/29/2020,Humid throughout the day.,clear-day,0.19,0.0001,0.0004,0.05,rain,100.79,70.52,64.21,0.54,1009.5,0.1,13,72.21,100.79,7.54,-5.5471
+Cote d'Ivoire,,3/1/2020,Humid throughout the day.,clear-day,0.22,0.0003,0.0023,0.07,rain,101.39,75.98,66.12,0.55,1009.2,0.0,13,70.52,101.39,7.54,-5.5471
+Cote d'Ivoire,,3/2/2020,Humid throughout the day.,clear-day,0.25,0.001,0.0075,0.2,rain,98.95,75.58,73.1,0.66,1010.7,0.22,11,75.98,98.95,7.54,-5.5471
+Cote d'Ivoire,,3/3/2020,Humid and mostly cloudy throughout the day.,rain,0.28,0.001,0.0067,0.25,rain,98.8,73.91,73.34,0.69,1011.7,0.71,8,75.58,98.8,7.54,-5.5471
+Cote d'Ivoire,,3/4/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.32,0.0003,0.0015,0.14,rain,97.42,76.21,72.98,0.69,1011.6,0.73,10,73.91,97.42,7.54,-5.5471
+Cote d'Ivoire,,3/5/2020,Possible light rain in the evening.,rain,0.35,0.0052,0.0227,0.53,rain,96.28,73.18,73.91,0.72,1010.4,0.59,10,76.21,96.28,7.54,-5.5471
+Cote d'Ivoire,,3/6/2020,Humid throughout the day.,clear-day,0.39,0.0,0.0002,0.05,,96.17,74.07,71.55,0.68,1009.9,0.06,13,73.18,96.17,7.54,-5.5471
+Cote d'Ivoire,,3/7/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0007,0.0077,0.13,rain,93.37,74.46,72.57,0.71,1009.5,0.55,6,74.07,93.37,7.54,-5.5471
+Cote d'Ivoire,,3/8/2020,Possible light rain in the evening and overnight.,rain,0.47,0.0113,0.0871,0.55,rain,95.73,73.43,72.65,0.7,1010.1,0.71,6,74.46,95.73,7.54,-5.5471
+Cote d'Ivoire,,3/9/2020,"Possible light rain until morning, starting again in the evening.",rain,0.51,0.0148,0.0578,0.72,rain,91.75,73.03,73.96,0.79,1010.3,0.46,12,73.43,91.75,7.54,-5.5471
+Cote d'Ivoire,,3/10/2020,Humid and overcast throughout the day.,cloudy,0.55,0.0004,0.0183,0.2,rain,94.95,74.07,71.75,0.72,1009.6,0.98,6,73.03,94.95,7.54,-5.5471
+Cote d'Ivoire,,3/11/2020,Humid and mostly cloudy throughout the day.,cloudy,0.58,0.0002,0.0004,0.12,rain,97.23,75.61,70.8,0.65,1009.1,0.88,6,74.07,97.23,7.54,-5.5471
+Cote d'Ivoire,,3/12/2020,Humid throughout the day.,partly-cloudy-day,0.62,0.0002,0.0004,0.08,rain,98.75,76.47,70.08,0.62,1008.8,0.34,12,75.61,98.75,7.54,-5.5471
+Cote d'Ivoire,,3/13/2020,Humid and partly cloudy throughout the day.,clear-day,0.66,0.0,0.0002,0.02,,96.37,75.61,73.25,0.69,1009.1,0.25,10,76.47,96.37,7.54,-5.5471
+Cote d'Ivoire,,3/14/2020,Humid throughout the day.,clear-day,0.7,0.0008,0.0046,0.15,rain,99.4,75.87,72.28,0.66,1009.5,0.17,13,75.61,99.4,7.54,-5.5471
+Cote d'Ivoire,,3/15/2020,Humid and overcast throughout the day.,rain,0.73,0.0016,0.009000000000000001,0.35,rain,94.29,76.41,73.58,0.71,1009.7,0.93,7,75.87,94.29,7.54,-5.5471
+Cote d'Ivoire,,3/16/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.77,0.0,0.0,0.0,,96.62,77.64,73.63,0.68,1008.8,0.85,9,76.41,96.62,7.54,-5.5471
+Cote d'Ivoire,,3/17/2020,Humid and mostly cloudy throughout the day.,rain,0.8,0.0053,0.0517,0.32,rain,96.17,75.03,73.91,0.68,1008.9,0.83,7,77.64,96.17,7.54,-5.5471
+Cote d'Ivoire,,3/18/2020,Humid and mostly cloudy throughout the day.,rain,0.83,0.0031,0.0567,0.29,rain,96.91,75.93,73.91,0.72,1009.9,0.66,8,75.03,96.91,7.54,-5.5471
+Cote d'Ivoire,,3/19/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.86,0.0016,0.0074,0.17,rain,97.36,76.52,72.64,0.68,1010.0,0.7,7,75.93,97.36,7.54,-5.5471
+Cote d'Ivoire,,3/20/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0034,0.0218,0.16,rain,95.98,77.12,73.63,0.68,1009.3,0.67,6,76.52,95.98,7.54,-5.5471
+Cote d'Ivoire,,3/21/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.92,0.0045,0.0295,0.22,rain,96.39,74.94,74.46,0.72,1009.5,0.61,12,77.12,96.39,7.54,-5.5471
+Cote d'Ivoire,,3/22/2020,Rain in the evening and overnight.,rain,0.95,0.0311,0.1899,0.56,rain,95.53,71.06,74.1,0.74,1009.4,0.96,6,74.94,95.53,7.54,-5.5471
+Cote d'Ivoire,,3/23/2020,Light rain in the morning.,rain,0.98,0.0119,0.0575,0.87,rain,86.95,72.57,73.62,0.86,1011.2,0.82,7,71.06,86.95,7.54,-5.5471
+Cote d'Ivoire,,3/24/2020,Light rain overnight.,rain,0.01,0.0013,0.0251,0.37,rain,90.59,70.03,70.85,0.71,1011.6,0.95,6,72.57,90.59,7.54,-5.5471
+Cote d'Ivoire,,3/25/2020,Rain in the morning.,rain,0.04,0.0362,0.11900000000000001,0.94,rain,84.05,70.72,73.02,0.89,1011.6,0.87,7,70.03,84.05,7.54,-5.5471
+Cote d'Ivoire,,3/26/2020,Humid and overcast throughout the day.,rain,0.07,0.003,0.0122,0.41,rain,92.64,72.75,73.24,0.78,1009.2,0.92,7,70.72,92.64,7.54,-5.5471
+Cote d'Ivoire,,3/27/2020,Humid and partly cloudy throughout the day.,rain,0.11,0.0036,0.0182,0.44,rain,92.23,73.96,74.39,0.79,1009.8,0.68,9,72.75,92.23,7.54,-5.5471
+Cote d'Ivoire,,3/28/2020,Humid and partly cloudy throughout the day.,rain,0.14,0.0021,0.0232,0.28,rain,94.33,74.99,74.51,0.75,1010.1,0.63,9,73.96,94.33,7.54,-5.5471
+Cote d'Ivoire,,3/29/2020,Possible light rain in the evening and overnight.,rain,0.17,0.0062,0.0261,0.56,rain,92.11,74.13,75.3,0.8,1010.0,0.54,11,74.99,92.11,7.54,-5.5471
+Cote d'Ivoire,,3/30/2020,Humid and mostly cloudy throughout the day.,rain,0.2,0.0048,0.0294,0.53,rain,96.67,77.11,73.27,0.71,1008.5,0.64,9,74.13,96.67,7.54,-5.5471
+Cote d'Ivoire,,3/31/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.23,0.0017,0.0121,0.13,rain,94.43,74.56,76.03,0.75,1008.6,0.83,6,77.11,94.43,7.54,-5.5471
+Cote d'Ivoire,,4/1/2020,Rain in the evening.,rain,0.27,0.0598,0.3496,0.51,rain,97.36,72.3,74.98,0.79,1009.9,0.8,8,74.56,97.36,7.54,-5.5471
+Cote d'Ivoire,,4/2/2020,Humid and overcast throughout the day.,cloudy,0.3,0.0002,0.0063,0.09,rain,91.66,74.56,73.71,0.79,1010.5,0.9,7,72.3,91.66,7.54,-5.5471
+Cote d'Ivoire,,4/3/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.34,0.0003,0.0018,0.07,rain,94.24,76.98,75.65,0.76,1009.3,0.65,6,74.56,94.24,7.54,-5.5471
+Cote d'Ivoire,,4/4/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0004,0.0047,0.07,rain,95.86,75.64,75.76,0.75,1010.4,0.68,8,76.98,95.86,7.54,-5.5471
+Cote d'Ivoire,,4/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0001,0.001,0.02,rain,96.1,75.71,75.04,0.73,1010.8,0.65,10,75.64,96.1,7.54,-5.5471
+Cote d'Ivoire,,4/6/2020,Possible light rain overnight.,rain,0.45,0.0046,0.0449,0.44,rain,93.99,76.0,77.38,0.81,1010.6,0.64,7,75.71,93.99,7.54,-5.5471
+Cote d'Ivoire,,4/7/2020,Humid and mostly cloudy throughout the day.,rain,0.49,0.0114,0.0804,0.58,rain,92.87,74.83,76.71,0.8,1010.6,0.78,8,76.0,92.87,7.54,-5.5471
+Cote d'Ivoire,,4/8/2020,Rain in the evening and overnight.,rain,0.53,0.0133,0.1349,0.67,rain,93.28,70.33,76.63,0.81,1009.5,0.65,10,74.83,93.28,7.54,-5.5471
+Cote d'Ivoire,,4/9/2020,Possible light rain in the morning.,rain,0.57,0.0262,0.1996,0.78,rain,85.85,74.73,73.51,0.86,1010.1,1.0,5,70.33,85.85,7.54,-5.5471
+Cote d'Ivoire,,4/10/2020,Rain in the morning.,rain,0.61,0.0151,0.1241,0.72,rain,88.05,72.6,75.81,0.87,1010.9,0.45,12,74.73,88.05,7.54,-5.5471
+Cote d'Ivoire,,4/11/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.0001,0.0004,0.1,rain,89.31,73.93,73.96,0.82,1011.7,0.77,7,72.6,89.31,7.54,-5.5471
+Cote d'Ivoire,,4/12/2020,Humid throughout the day.,rain,0.68,0.0023,0.0209,0.35,rain,94.89,72.92,73.55,0.76,1011.6,0.2,12,73.93,94.89,7.54,-5.5471
+Cote d'Ivoire,,4/13/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0003,0.0024,0.09,rain,92.71,73.17,74.45,0.78,1010.4,0.64,8,72.92,92.71,7.54,-5.5471
+Cote d'Ivoire,,4/14/2020,Humid throughout the day.,rain,0.75,0.001,0.0164,0.32,rain,93.34,75.43,74.66,0.77,1010.1,0.29,13,73.17,93.34,7.54,-5.5471
+Cote d'Ivoire,,4/15/2020,Light rain in the evening and overnight.,rain,0.78,0.0074,0.0528,0.75,rain,91.64,74.0,75.77,0.8,1010.3,0.58,12,75.43,91.64,7.54,-5.5471
+Cote d'Ivoire,,4/16/2020,Humid throughout the day.,rain,0.81,0.0024,0.0445,0.67,rain,95.17,74.81,73.81,0.76,1010.4,0.4,11,74.0,95.17,7.54,-5.5471
+Cote d'Ivoire,,4/17/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0001,0.0002,0.05,rain,96.93,77.25,75.01,0.73,1008.7,0.44,9,74.81,96.93,7.54,-5.5471
+Cote d'Ivoire,,4/18/2020,Humid and mostly cloudy throughout the day.,rain,0.87,0.0066,0.0534,0.45,rain,92.68,74.65,76.76,0.81,1010.2,0.83,7,77.25,92.68,7.54,-5.5471
+Cote d'Ivoire,,4/19/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0011,0.0084,0.18,rain,93.61,73.78,74.45,0.76,1011.9,0.6,11,74.65,93.61,7.54,-5.5471
+Cote d'Ivoire,,4/20/2020,Possible light rain in the evening and overnight.,rain,0.93,0.003,0.0174,0.49,rain,92.96,71.97,74.29,0.79,1012.3,0.95,6,73.78,92.96,7.54,-5.5471
+Cote d'Ivoire,,4/21/2020,Humid and overcast throughout the day.,rain,0.96,0.001,0.0216,0.45,rain,94.11,74.05,73.34,0.75,1011.1,0.98,5,71.97,94.11,7.54,-5.5471

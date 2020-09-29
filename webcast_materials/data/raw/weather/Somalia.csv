@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Somalia,,12/31/2019,Mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0003,0.0021,0.11,rain,92.56,72.81,67.85,0.64,1011.4,0.4,6,72.9,92.56,5.1521,46.1996
+Somalia,,1/1/2020,Partly cloudy throughout the day.,clear-day,0.24,0.0003,0.0014,0.13,rain,93.64,72.37,67.31,0.62,1012.4,0.29,7,72.81,93.64,5.1521,46.1996
+Somalia,,1/2/2020,Overcast throughout the day.,partly-cloudy-day,0.27,0.0,0.0004,0.02,,93.79,69.4,64.97,0.58,1013.6,0.69,6,72.37,93.79,5.1521,46.1996
+Somalia,,1/3/2020,Clear throughout the day.,clear-day,0.3,0.0003,0.0005,0.08,rain,94.06,70.35,62.82,0.56,1012.6,0.2,12,69.4,94.06,5.1521,46.1996
+Somalia,,1/4/2020,Humid throughout the day.,partly-cloudy-day,0.33,0.0001,0.0003,0.09,rain,93.59,72.85,67.44,0.64,1010.8,0.34,10,70.2,93.59,5.1521,46.1996
+Somalia,,1/5/2020,Humid and partly cloudy throughout the day.,clear-day,0.36,0.0,0.0,0.0,,93.72,74.61,68.64,0.64,1011.3,0.28,10,72.41,93.72,5.1521,46.1996
+Somalia,,1/6/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.39,0.0001,0.0002,0.08,rain,90.92,72.21,69.29,0.65,1012.3,0.78,7,74.61,90.92,5.1521,46.1996
+Somalia,,1/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0,0.0002,0.02,,93.11,70.18,63.83,0.58,1012.2,0.57,7,72.21,93.11,5.1521,46.1996
+Somalia,,1/8/2020,Partly cloudy throughout the day.,clear-day,0.46,0.0,0.0001,0.02,,92.64,67.48,60.76,0.55,1011.9,0.25,9,70.18,92.64,5.1521,46.1996
+Somalia,,1/9/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0004,0.05,rain,93.98,70.18,65.0,0.61,1011.1,0.28,10,67.48,93.98,5.1521,46.1996
+Somalia,,1/10/2020,Humid throughout the day.,partly-cloudy-day,0.53,0.0001,0.0003,0.09,rain,95.44,74.4,67.03,0.61,1010.8,0.37,11,70.18,95.44,5.1521,46.1996
+Somalia,,1/11/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0002,0.0007,0.11,rain,91.76,72.87,70.13,0.68,1012.0,0.77,6,74.4,91.76,5.1521,46.1996
+Somalia,,1/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0001,0.0004,0.1,rain,91.46,72.3,68.16,0.65,1012.6,0.47,8,73.43,91.46,5.1521,46.1996
+Somalia,,1/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0,0.0,0.0,,91.58,69.4,65.85,0.6,1012.3,0.36,9,72.3,91.58,5.1521,46.1996
+Somalia,,1/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0,0.0001,0.01,,90.74,64.58,56.47,0.51,1012.9,0.42,9,69.4,90.74,5.1521,46.1996
+Somalia,,1/15/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.03,,89.79,64.95,45.49,0.4,1013.7,0.05,12,64.58,89.79,5.1521,46.1996
+Somalia,,1/16/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0004,0.06,rain,90.09,66.74,49.63,0.46,1013.2,0.12,12,64.95,90.09,5.1521,46.1996
+Somalia,,1/17/2020,Clear throughout the day.,clear-day,0.79,0.0,0.0002,0.05,,92.56,69.14,60.87,0.56,1012.0,0.24,10,66.74,92.56,5.1521,46.1996
+Somalia,,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0,0.0,,91.69,69.63,61.3,0.56,1012.1,0.33,10,69.14,91.69,5.1521,46.1996
+Somalia,,1/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.86,0.0001,0.0005,0.05,rain,92.53,69.77,61.16,0.56,1012.4,0.32,11,69.63,92.53,5.1521,46.1996
+Somalia,,1/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0002,0.001,0.06,rain,93.57,69.38,63.73,0.6,1010.8,0.44,10,69.77,93.57,5.1521,46.1996
+Somalia,,1/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.93,0.0002,0.001,0.05,rain,93.38,71.78,65.85,0.62,1010.9,0.63,10,69.38,93.38,5.1521,46.1996
+Somalia,,1/22/2020,Humid throughout the day.,partly-cloudy-day,0.96,0.0001,0.0002,0.05,rain,96.19,74.19,67.89,0.61,1010.7,0.34,11,71.78,96.19,5.1521,46.1996
+Somalia,,1/23/2020,Humid and overcast throughout the day.,partly-cloudy-day,1.0,0.0001,0.0002,0.07,rain,96.58,74.88,70.12,0.64,1011.8,0.86,6,74.19,96.58,5.1521,46.1996
+Somalia,,1/24/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0008,0.08,rain,96.11,73.6,69.65,0.63,1012.7,0.84,7,74.88,96.11,5.1521,46.1996
+Somalia,,1/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.06,0.0001,0.0004,0.08,rain,94.79,72.54,68.43,0.62,1012.3,0.52,11,73.6,94.79,5.1521,46.1996
+Somalia,,1/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.09,0.0003,0.001,0.12,rain,95.13,72.36,66.04,0.59,1012.8,0.38,10,72.54,95.13,5.1521,46.1996
+Somalia,,1/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.12,0.0,0.0002,0.02,,93.52,68.47,63.6,0.57,1012.6,0.62,9,72.36,93.52,5.1521,46.1996
+Somalia,,1/28/2020,Clear throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.08,rain,93.09,65.83,60.7,0.54,1013.1,0.44,12,68.47,93.09,5.1521,46.1996
+Somalia,,1/29/2020,Overcast throughout the day.,partly-cloudy-day,0.18,0.0001,0.0003,0.05,rain,92.92,66.89,56.89,0.52,1013.4,0.85,6,65.83,92.92,5.1521,46.1996
+Somalia,,1/30/2020,Overcast throughout the day.,cloudy,0.21,0.0001,0.0002,0.06,rain,92.95,65.34,57.58,0.53,1012.4,0.9,6,66.89,92.95,5.1521,46.1996
+Somalia,,1/31/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.07,rain,92.77,66.03,59.19,0.56,1012.5,0.78,7,65.34,92.77,5.1521,46.1996
+Somalia,,2/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.27,0.0001,0.0003,0.04,rain,92.68,67.19,61.94,0.59,1013.3,0.68,8,66.03,92.68,5.1521,46.1996
+Somalia,,2/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0,0.0003,0.03,,94.13,65.64,59.99,0.55,1013.5,0.49,9,67.19,94.13,5.1521,46.1996
+Somalia,,2/3/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.08,rain,95.23,65.96,59.64,0.56,1013.1,0.12,12,65.64,95.23,5.1521,46.1996
+Somalia,,2/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0003,0.04,rain,95.2,66.13,59.78,0.55,1012.9,0.68,6,65.96,95.2,5.1521,46.1996
+Somalia,,2/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0001,0.0003,0.03,rain,95.91,65.55,55.61,0.47,1013.9,0.79,7,66.13,95.91,5.1521,46.1996
+Somalia,,2/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.44,0.0001,0.0003,0.02,rain,96.11,64.47,55.65,0.5,1013.9,0.72,9,65.55,96.11,5.1521,46.1996
+Somalia,,2/7/2020,Overcast throughout the day.,partly-cloudy-day,0.48,0.0001,0.0003,0.02,rain,94.73,62.96,56.59,0.53,1014.4,0.71,6,64.47,94.73,5.1521,46.1996
+Somalia,,2/8/2020,Overcast throughout the day.,cloudy,0.52,0.0001,0.0003,0.06,rain,95.33,65.45,57.28,0.55,1013.5,0.92,6,62.96,95.33,5.1521,46.1996
+Somalia,,2/9/2020,Clear throughout the day.,clear-day,0.56,0.0001,0.0004,0.06,rain,95.92,67.1,62.32,0.61,1011.8,0.3,13,65.45,95.92,5.1521,46.1996
+Somalia,,2/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.59,0.0,0.0002,0.04,,96.27,67.68,64.21,0.62,1011.1,0.64,12,67.1,96.27,5.1521,46.1996
+Somalia,,2/11/2020,Clear throughout the day.,clear-day,0.63,0.0001,0.0004,0.05,rain,98.61,67.74,62.17,0.57,1011.3,0.04,13,67.68,98.61,5.1521,46.1996
+Somalia,,2/12/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.06,rain,97.57,72.6,60.94,0.51,1012.7,0.15,13,67.74,97.57,5.1521,46.1996
+Somalia,,2/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0005,0.07,rain,92.84,70.74,64.54,0.56,1012.9,0.63,7,72.6,92.84,5.1521,46.1996
+Somalia,,2/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.74,0.0001,0.0003,0.07,rain,94.45,70.67,66.08,0.6,1013.0,0.48,11,70.74,94.45,5.1521,46.1996
+Somalia,,2/15/2020,Clear throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.05,rain,97.87,68.45,65.9,0.62,1012.5,0.33,12,70.67,97.87,5.1521,46.1996
+Somalia,,2/16/2020,Clear throughout the day.,partly-cloudy-day,0.81,0.0001,0.0003,0.05,rain,97.58,66.59,62.08,0.56,1011.9,0.33,11,68.45,97.58,5.1521,46.1996
+Somalia,,2/17/2020,Partly cloudy throughout the day.,clear-day,0.84,0.0002,0.0005,0.08,rain,95.05,69.69,64.06,0.62,1012.6,0.19,10,66.59,95.05,5.1521,46.1996
+Somalia,,2/18/2020,Clear throughout the day.,clear-day,0.88,0.0001,0.0004,0.05,rain,96.61,68.64,66.03,0.61,1011.6,0.2,13,69.69,96.61,5.1521,46.1996
+Somalia,,2/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.91,0.0003,0.0015,0.07,rain,97.21,71.94,65.8,0.61,1010.5,0.64,8,68.64,97.21,5.1521,46.1996
+Somalia,,2/20/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.94,0.0001,0.0003,0.06,rain,98.52,70.77,65.31,0.59,1010.9,0.44,8,71.94,98.52,5.1521,46.1996
+Somalia,,2/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0002,0.0004,0.07,rain,97.17,65.73,64.1,0.58,1012.2,0.39,11,70.77,97.17,5.1521,46.1996
+Somalia,,2/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.0,0.0001,0.0005,0.06,rain,96.65,67.13,61.7,0.58,1012.1,0.48,10,65.73,96.65,5.1521,46.1996
+Somalia,,2/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0004,0.07,rain,97.94,70.96,63.13,0.58,1010.9,0.67,6,67.13,97.94,5.1521,46.1996
+Somalia,,2/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.06,0.0001,0.0003,0.08,rain,96.07,73.67,68.13,0.64,1010.4,0.72,10,70.96,96.07,5.1521,46.1996
+Somalia,,2/25/2020,Mostly cloudy throughout the day.,cloudy,0.09,0.0001,0.0003,0.1,rain,96.11,66.51,61.54,0.52,1011.0,0.91,8,73.67,96.11,5.1521,46.1996
+Somalia,,2/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.12,0.0,0.0003,0.02,,97.59,66.22,60.63,0.54,1011.6,0.58,12,66.51,97.59,5.1521,46.1996
+Somalia,,2/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.15,0.0001,0.0004,0.03,rain,99.18,63.2,55.41,0.5,1010.8,0.87,7,66.22,99.18,5.1521,46.1996
+Somalia,,2/28/2020,Clear throughout the day.,clear-day,0.18,0.0001,0.0004,0.02,rain,98.39,63.48,54.55,0.52,1010.1,0.07,13,63.2,98.39,5.1521,46.1996
+Somalia,,2/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.22,0.0001,0.0004,0.03,rain,98.31,63.85,57.98,0.54,1009.7,0.54,6,63.48,98.31,5.1521,46.1996
+Somalia,,3/1/2020,Clear throughout the day.,clear-day,0.25,0.0001,0.0002,0.04,rain,98.42,66.34,58.55,0.55,1010.8,0.2,13,63.85,98.42,5.1521,46.1996
+Somalia,,3/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0002,0.0007,0.05,rain,97.71,64.34,60.68,0.56,1012.1,0.51,10,66.34,97.71,5.1521,46.1996
+Somalia,,3/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0,0.0002,0.02,,98.32,65.93,57.16,0.52,1012.3,0.63,9,64.34,98.32,5.1521,46.1996
+Somalia,,3/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.35,0.0001,0.0003,0.04,rain,99.1,72.09,57.96,0.55,1012.0,0.53,13,65.93,99.1,5.1521,46.1996
+Somalia,,3/5/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.39,0.0001,0.0009,0.04,rain,100.07,72.46,65.15,0.6,1010.6,0.78,9,72.09,100.07,5.1521,46.1996
+Somalia,,3/6/2020,Humid and partly cloudy throughout the day.,clear-day,0.42,0.0001,0.0003,0.05,rain,97.86,68.22,64.79,0.57,1010.8,0.28,13,72.46,97.86,5.1521,46.1996
+Somalia,,3/7/2020,Clear throughout the day.,clear-day,0.46,0.0001,0.0005,0.05,rain,99.08,69.97,65.35,0.6,1010.3,0.17,11,68.22,99.08,5.1521,46.1996
+Somalia,,3/8/2020,Overcast throughout the day.,partly-cloudy-day,0.5,0.0001,0.0003,0.06,rain,96.4,69.02,67.4,0.65,1009.7,0.59,6,69.97,96.4,5.1521,46.1996
+Somalia,,3/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.54,0.0,0.0003,0.05,,98.54,67.66,62.7,0.56,1009.8,0.32,10,69.02,98.54,5.1521,46.1996
+Somalia,,3/10/2020,Clear throughout the day.,clear-day,0.58,0.0002,0.0004,0.06,rain,99.1,69.15,60.1,0.54,1010.2,0.07,13,67.66,99.1,5.1521,46.1996
+Somalia,,3/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.0002,0.0004,0.05,rain,97.87,71.77,63.67,0.58,1010.8,0.67,9,69.15,97.87,5.1521,46.1996
+Somalia,,3/12/2020,Humid and overcast throughout the day.,cloudy,0.66,0.0001,0.0003,0.05,rain,99.3,74.04,64.49,0.58,1010.8,0.9,7,71.77,99.3,5.1521,46.1996
+Somalia,,3/13/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.69,0.0001,0.0002,0.07,rain,99.38,73.85,66.88,0.6,1010.7,0.8,6,74.04,99.38,5.1521,46.1996
+Somalia,,3/14/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.0001,0.0005,0.12,rain,100.31,74.24,69.05,0.63,1009.9,0.6,8,73.85,100.31,5.1521,46.1996
+Somalia,,3/15/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.76,0.0002,0.0009,0.03,rain,96.14,74.0,70.09,0.65,1009.4,0.69,6,74.24,96.14,5.1521,46.1996
+Somalia,,3/16/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.79,0.0001,0.0003,0.04,rain,100.82,69.8,66.24,0.57,1009.6,0.57,11,74.0,100.82,5.1521,46.1996
+Somalia,,3/17/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0001,0.0003,0.04,rain,99.75,73.26,66.15,0.59,1011.0,0.51,11,69.8,99.75,5.1521,46.1996
+Somalia,,3/18/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.86,0.0005,0.0036,0.06,rain,97.24,74.53,70.56,0.65,1011.3,0.53,10,73.26,97.24,5.1521,46.1996
+Somalia,,3/19/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0026,0.0272,0.14,rain,98.01,75.67,70.61,0.63,1011.0,0.71,11,74.53,98.01,5.1521,46.1996
+Somalia,,3/20/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.92,0.0051,0.0435,0.18,rain,98.84,73.98,69.61,0.61,1010.2,0.65,8,75.67,98.84,5.1521,46.1996
+Somalia,,3/21/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.95,0.0012,0.0229,0.11,rain,99.79,76.31,68.28,0.59,1010.5,0.54,11,73.98,99.79,5.1521,46.1996
+Somalia,,3/22/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.98,0.002,0.0133,0.13,rain,96.42,78.52,71.28,0.64,1010.5,0.69,6,76.31,96.42,5.1521,46.1996
+Somalia,,3/23/2020,Rain in the evening and overnight.,rain,0.01,0.0196,0.1017,0.56,rain,96.58,75.67,71.77,0.65,1009.6,0.83,7,78.52,96.58,5.1521,46.1996
+Somalia,,3/24/2020,Possible light rain in the morning and overnight.,rain,0.04,0.0178,0.1032,0.83,rain,95.25,74.94,71.67,0.67,1007.9,0.76,10,75.67,95.25,5.1521,46.1996
+Somalia,,3/25/2020,Light rain until evening.,rain,0.07,0.0188,0.0867,0.93,rain,85.67,75.04,74.4,0.84,1008.8,0.82,6,74.94,85.67,5.1521,46.1996
+Somalia,,3/26/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0003,0.0016,0.12,rain,92.68,75.26,72.04,0.7,1010.8,0.82,9,75.04,92.68,5.1521,46.1996
+Somalia,,3/27/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.13,0.0001,0.0004,0.03,rain,98.31,76.82,69.15,0.6,1011.4,0.87,6,75.26,98.31,5.1521,46.1996
+Somalia,,3/28/2020,Humid throughout the day.,partly-cloudy-day,0.16,0.0003,0.0025,0.07,rain,99.43,77.49,70.27,0.6,1010.2,0.38,14,76.82,99.43,5.1521,46.1996
+Somalia,,3/29/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0086,0.0583,0.16,rain,95.38,77.17,73.24,0.68,1009.6,0.69,9,77.49,95.38,5.1521,46.1996
+Somalia,,3/30/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0002,0.0009,0.08,rain,97.0,76.33,72.14,0.66,1010.6,0.47,11,77.17,97.0,5.1521,46.1996
+Somalia,,3/31/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.26,0.0001,0.0005,0.06,rain,96.26,76.23,70.63,0.62,1011.2,0.66,6,76.33,96.26,5.1521,46.1996
+Somalia,,4/1/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0001,0.0003,0.03,rain,98.65,72.33,68.07,0.56,1009.9,0.58,11,76.23,98.65,5.1521,46.1996
+Somalia,,4/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.33,0.0001,0.0005,0.04,rain,98.3,73.78,62.37,0.51,1010.3,0.65,10,72.33,98.3,5.1521,46.1996
+Somalia,,4/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0002,0.03,rain,99.34,76.69,64.27,0.53,1011.3,0.54,10,73.78,99.34,5.1521,46.1996
+Somalia,,4/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0,0.0002,0.04,,98.73,74.94,66.06,0.55,1012.3,0.36,11,76.69,98.73,5.1521,46.1996
+Somalia,,4/5/2020,Humid throughout the day.,clear-day,0.45,0.0,0.0002,0.02,,99.36,74.73,65.18,0.53,1012.2,0.12,13,74.94,99.36,5.1521,46.1996
+Somalia,,4/6/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0,0.0002,0.03,,100.64,73.92,64.94,0.53,1011.7,0.4,8,74.73,100.64,5.1521,46.1996
+Somalia,,4/7/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.53,0.0,0.0003,0.02,,100.1,74.84,66.53,0.55,1011.6,0.35,9,73.92,100.1,5.1521,46.1996
+Somalia,,4/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.56,0.0001,0.0003,0.03,rain,99.94,76.81,66.5,0.55,1010.8,0.37,11,74.84,99.94,5.1521,46.1996
+Somalia,,4/9/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.6,0.0003,0.0013,0.07,rain,100.11,77.67,69.63,0.59,1010.4,0.56,12,76.81,100.11,5.1521,46.1996
+Somalia,,4/10/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.64,0.0002,0.0005,0.11,rain,99.55,76.59,69.85,0.59,1010.5,0.62,9,77.67,99.55,5.1521,46.1996
+Somalia,,4/11/2020,Humid throughout the day.,clear-day,0.68,0.0,0.0002,0.03,,100.35,76.84,68.45,0.57,1010.0,0.13,12,76.59,100.35,5.1521,46.1996
+Somalia,,4/12/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0008,0.0057,0.1,rain,101.53,77.87,69.87,0.59,1009.7,0.64,6,76.84,101.53,5.1521,46.1996
+Somalia,,4/13/2020,Possible light rain in the evening and overnight.,rain,0.74,0.0063,0.0478,0.5,rain,96.84,77.06,72.22,0.65,1010.2,0.85,5,77.87,96.84,5.1521,46.1996
+Somalia,,4/14/2020,Possible light rain overnight.,rain,0.78,0.0074,0.042,0.5,rain,97.56,78.25,71.35,0.62,1010.7,0.9,7,77.06,97.56,5.1521,46.1996
+Somalia,,4/15/2020,"Light rain until morning, starting again in the evening.",rain,0.81,0.0202,0.0721,0.82,rain,95.06,77.79,73.01,0.67,1009.9,0.61,12,78.25,95.06,5.1521,46.1996
+Somalia,,4/16/2020,Humid and mostly cloudy throughout the day.,rain,0.84,0.0086,0.0372,0.72,rain,94.51,76.13,73.23,0.68,1008.8,0.72,10,77.79,94.51,5.1521,46.1996
+Somalia,,4/17/2020,Possible light rain overnight.,rain,0.87,0.0057,0.0413,0.47,rain,95.02,77.88,71.9,0.66,1009.3,0.85,7,76.13,95.02,5.1521,46.1996
+Somalia,,4/18/2020,"Rain until morning, starting again in the evening.",rain,0.9,0.0333,0.1631,0.93,rain,86.99,74.53,74.58,0.8,1010.2,0.96,5,77.88,86.99,5.1521,46.1996
+Somalia,,4/19/2020,"Rain until afternoon, starting again overnight.",rain,0.93,0.0389,0.1454,0.98,rain,86.63,73.66,73.87,0.81,1010.3,0.99,5,74.53,86.63,5.1521,46.1996
+Somalia,,4/20/2020,Rain and humid throughout the day.,rain,0.96,0.0215,0.1006,0.99,rain,90.47,75.07,72.83,0.76,1010.5,0.97,6,73.66,90.47,5.1521,46.1996

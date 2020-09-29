@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Republic of the Congo,,12/31/2019,Humid and overcast throughout the day.,rain,0.21,0.0023,0.0151,0.31,rain,90.78,70.84,70.54,0.76,1008.9,0.96,6,72.16,90.78,-1.44,15.556
+Republic of the Congo,,1/1/2020,Possible light rain in the evening.,rain,0.24,0.0148,0.1004,0.45,rain,90.66,71.23,70.2,0.77,1009.6,0.98,6,70.84,90.66,-1.44,15.556
+Republic of the Congo,,1/2/2020,Humid and overcast throughout the day.,rain,0.27,0.0044,0.0207,0.44,rain,90.4,67.8,66.1,0.71,1011.0,0.97,6,71.23,90.4,-1.44,15.556
+Republic of the Congo,,1/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0002,0.0004,0.11,rain,90.49,70.39,61.55,0.59,1011.2,0.86,6,67.8,90.49,-1.44,15.556
+Republic of the Congo,,1/4/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.33,0.0001,0.0002,0.11,rain,90.97,72.09,68.29,0.71,1011.1,0.68,9,70.39,90.97,-1.44,15.556
+Republic of the Congo,,1/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.0003,0.003,0.06,rain,93.93,70.83,67.66,0.66,1009.4,0.58,12,72.09,93.93,-1.44,15.556
+Republic of the Congo,,1/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.4,0.0006,0.0054,0.13,rain,92.37,71.18,65.1,0.6,1009.3,0.87,7,70.83,92.37,-1.44,15.556
+Republic of the Congo,,1/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0004,0.0019,0.13,rain,93.42,72.31,67.14,0.63,1010.1,0.74,9,71.18,93.42,-1.44,15.556
+Republic of the Congo,,1/8/2020,Possible light rain and humid throughout the day.,rain,0.47,0.0138,0.0374,0.84,rain,81.68,67.88,71.73,0.86,1011.6,0.87,6,72.17,81.68,-1.44,15.556
+Republic of the Congo,,1/9/2020,Rain in the morning.,rain,0.5,0.0202,0.1023,0.83,rain,77.98,67.84,69.36,0.92,1013.6,0.82,6,68.14,77.98,-1.44,15.556
+Republic of the Congo,,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0007,0.0055,0.15,rain,89.5,67.96,68.06,0.76,1012.9,0.86,7,67.84,89.5,-1.44,15.556
+Republic of the Congo,,1/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0009,0.0061,0.22,rain,91.28,69.54,67.11,0.7,1011.9,0.57,10,67.96,91.28,-1.44,15.556
+Republic of the Congo,,1/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0007,0.0045,0.17,rain,94.1,70.04,67.56,0.66,1010.2,0.39,10,69.54,94.1,-1.44,15.556
+Republic of the Congo,,1/13/2020,Partly cloudy throughout the day.,clear-day,0.65,0.0003,0.0016,0.08,rain,95.47,73.21,68.0,0.64,1008.6,0.3,10,70.04,95.47,-1.44,15.556
+Republic of the Congo,,1/14/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.69,0.001,0.0051,0.19,rain,95.5,72.99,69.46,0.65,1008.6,0.54,10,73.21,95.5,-1.44,15.556
+Republic of the Congo,,1/15/2020,Humid and mostly cloudy throughout the day.,rain,0.72,0.0048,0.0393,0.42,rain,93.39,71.16,70.66,0.7,1009.5,0.8,7,72.99,93.39,-1.44,15.556
+Republic of the Congo,,1/16/2020,Possible light rain in the afternoon and evening.,rain,0.76,0.0141,0.0645,0.79,rain,91.02,71.87,71.94,0.84,1010.7,0.77,11,71.16,91.02,-1.44,15.556
+Republic of the Congo,,1/17/2020,Humid and mostly cloudy throughout the day.,rain,0.8,0.0064,0.0465,0.48,rain,89.25,71.59,70.96,0.79,1011.8,0.79,8,71.87,89.25,-1.44,15.556
+Republic of the Congo,,1/18/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0005,0.002,0.19,rain,90.43,71.73,70.15,0.73,1011.0,0.81,7,71.59,90.43,-1.44,15.556
+Republic of the Congo,,1/19/2020,Humid and partly cloudy throughout the day.,rain,0.87,0.0004,0.0018,0.3,rain,93.42,72.84,69.32,0.68,1010.1,0.57,11,71.73,93.42,-1.44,15.556
+Republic of the Congo,,1/20/2020,Humid and mostly cloudy throughout the day.,rain,0.9,0.0015,0.0044,0.34,rain,94.27,71.47,70.03,0.69,1009.8,0.85,7,72.84,94.27,-1.44,15.556
+Republic of the Congo,,1/21/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.93,0.0009,0.0053,0.14,rain,94.42,72.22,69.68,0.69,1010.0,0.76,6,71.47,94.42,-1.44,15.556
+Republic of the Congo,,1/22/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0016,0.012,0.12,rain,95.71,70.93,68.4,0.64,1009.6,0.62,9,72.22,95.71,-1.44,15.556
+Republic of the Congo,,1/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,1.0,0.0001,0.0005,0.06,rain,96.5,69.78,63.24,0.56,1010.2,0.53,11,70.93,96.5,-1.44,15.556
+Republic of the Congo,,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0003,0.04,rain,96.39,71.67,62.37,0.54,1010.8,0.73,10,69.78,96.39,-1.44,15.556
+Republic of the Congo,,1/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.06,0.0001,0.0004,0.05,rain,97.39,70.5,55.24,0.42,1010.4,0.44,11,71.67,97.39,-1.44,15.556
+Republic of the Congo,,1/26/2020,Clear throughout the day.,clear-day,0.09,0.0001,0.0004,0.07,rain,98.19,71.32,57.55,0.43,1010.0,0.29,12,70.5,98.19,-1.44,15.556
+Republic of the Congo,,1/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.12,0.0009,0.0059,0.21,rain,98.4,73.21,65.19,0.57,1009.5,0.64,11,71.32,98.4,-1.44,15.556
+Republic of the Congo,,1/28/2020,Possible light rain overnight.,rain,0.15,0.002,0.008,0.44,rain,95.32,69.36,68.76,0.65,1009.7,0.84,10,73.21,95.32,-1.44,15.556
+Republic of the Congo,,1/29/2020,Possible light rain overnight.,rain,0.18,0.0112,0.0761,0.66,rain,92.97,70.6,69.11,0.7,1011.2,0.88,7,69.36,92.97,-1.44,15.556
+Republic of the Congo,,1/30/2020,Possible light rain in the morning.,rain,0.21,0.0187,0.0707,0.56,rain,92.85,69.87,69.42,0.72,1011.9,0.52,13,70.6,92.85,-1.44,15.556
+Republic of the Congo,,1/31/2020,Mostly cloudy throughout the day.,rain,0.24,0.0072,0.0591,0.35,rain,93.27,70.37,69.24,0.72,1011.4,0.63,7,69.87,93.27,-1.44,15.556
+Republic of the Congo,,2/1/2020,Humid and mostly cloudy throughout the day.,rain,0.27,0.0034,0.0107,0.49,rain,90.36,70.19,69.53,0.76,1011.1,0.83,6,70.37,90.36,-1.44,15.556
+Republic of the Congo,,2/2/2020,Possible light rain starting in the afternoon.,rain,0.31,0.0088,0.0543,0.65,rain,90.58,69.66,69.68,0.75,1011.0,0.79,6,70.19,90.58,-1.44,15.556
+Republic of the Congo,,2/3/2020,Light rain in the morning and afternoon.,rain,0.34,0.0139,0.033,0.87,rain,82.69,67.78,71.22,0.88,1012.6,0.97,6,69.66,82.69,-1.44,15.556
+Republic of the Congo,,2/4/2020,Possible light rain in the evening and overnight.,rain,0.37,0.0149,0.0565,0.64,rain,90.75,68.77,69.74,0.78,1011.4,0.68,12,67.78,90.75,-1.44,15.556
+Republic of the Congo,,2/5/2020,Mostly cloudy throughout the day.,rain,0.41,0.0026,0.0092,0.41,rain,93.2,71.75,69.06,0.72,1010.4,0.82,9,68.77,93.2,-1.44,15.556
+Republic of the Congo,,2/6/2020,Possible light rain overnight.,rain,0.44,0.0017,0.0101,0.4,rain,94.14,73.99,69.36,0.67,1009.6,0.7,11,71.75,94.14,-1.44,15.556
+Republic of the Congo,,2/7/2020,Rain in the afternoon and evening.,rain,0.48,0.0221,0.1026,0.8,rain,89.0,69.56,72.61,0.83,1010.4,0.99,6,73.46,89.0,-1.44,15.556
+Republic of the Congo,,2/8/2020,Possible drizzle in the morning.,rain,0.52,0.0037,0.0131,0.56,rain,90.81,70.65,71.38,0.83,1011.3,0.87,7,69.56,90.81,-1.44,15.556
+Republic of the Congo,,2/9/2020,Humid and partly cloudy throughout the day.,rain,0.56,0.0009,0.0026,0.46,rain,93.58,71.14,70.04,0.71,1010.4,0.55,11,70.65,93.58,-1.44,15.556
+Republic of the Congo,,2/10/2020,Humid and mostly cloudy throughout the day.,rain,0.6,0.0071,0.0404,0.58,rain,90.61,71.08,71.77,0.78,1010.3,0.78,10,71.14,90.61,-1.44,15.556
+Republic of the Congo,,2/11/2020,Rain in the afternoon and evening.,rain,0.64,0.0198,0.1221,0.73,rain,92.94,70.86,71.18,0.81,1010.3,0.74,9,71.08,92.94,-1.44,15.556
+Republic of the Congo,,2/12/2020,Humid and mostly cloudy throughout the day.,rain,0.67,0.0004,0.0014,0.32,rain,94.74,70.56,67.92,0.68,1009.9,0.58,8,70.86,94.74,-1.44,15.556
+Republic of the Congo,,2/13/2020,Clear throughout the day.,partly-cloudy-day,0.71,0.0021,0.0192,0.21,rain,98.3,73.39,67.11,0.63,1008.2,0.34,13,70.56,98.3,-1.44,15.556
+Republic of the Congo,,2/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.0017,0.0106,0.21,rain,97.02,73.03,67.79,0.61,1007.7,0.76,6,73.39,97.02,-1.44,15.556
+Republic of the Congo,,2/15/2020,Possible light rain in the afternoon and evening.,rain,0.78,0.0292,0.0982,0.57,rain,93.49,71.04,70.75,0.73,1008.8,0.94,7,73.03,93.49,-1.44,15.556
+Republic of the Congo,,2/16/2020,Rain in the afternoon and evening.,rain,0.81,0.0144,0.0996,0.62,rain,86.68,68.14,72.09,0.86,1010.6,0.96,6,71.04,86.68,-1.44,15.556
+Republic of the Congo,,2/17/2020,Possible light rain overnight.,rain,0.85,0.0022,0.0169,0.49,rain,88.98,69.2,70.03,0.8,1011.3,0.81,6,68.14,88.98,-1.44,15.556
+Republic of the Congo,,2/18/2020,Possible light rain in the morning and afternoon.,rain,0.88,0.0086,0.0414,0.77,rain,87.7,68.92,71.06,0.83,1010.7,0.94,6,69.2,87.7,-1.44,15.556
+Republic of the Congo,,2/19/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.91,0.0001,0.0004,0.08,rain,97.38,74.74,68.89,0.69,1008.3,0.51,10,68.92,97.38,-1.44,15.556
+Republic of the Congo,,2/20/2020,Possible light rain in the afternoon.,rain,0.94,0.0077,0.0304,0.5,rain,93.94,73.45,71.43,0.72,1007.5,0.67,10,74.74,93.94,-1.44,15.556
+Republic of the Congo,,2/21/2020,Rain in the evening.,rain,0.97,0.0387,0.3213,0.54,rain,91.23,71.41,73.23,0.85,1007.9,0.86,7,73.45,91.23,-1.44,15.556
+Republic of the Congo,,2/22/2020,Rain in the evening and overnight.,rain,0.01,0.0325,0.23,0.73,rain,90.11,69.64,72.44,0.83,1009.3,0.91,6,71.41,90.11,-1.44,15.556
+Republic of the Congo,,2/23/2020,Possible light rain overnight.,rain,0.04,0.004,0.0481,0.58,rain,92.19,71.43,70.4,0.74,1010.1,0.78,9,69.64,92.19,-1.44,15.556
+Republic of the Congo,,2/24/2020,Possible light rain overnight.,rain,0.07,0.01,0.0436,0.62,rain,95.83,72.77,72.25,0.76,1008.4,0.69,12,71.43,95.83,-1.44,15.556
+Republic of the Congo,,2/25/2020,Light rain and humid throughout the day.,rain,0.1,0.0246,0.0886,0.89,rain,86.43,70.04,72.43,0.83,1009.0,0.71,9,72.77,86.43,-1.44,15.556
+Republic of the Congo,,2/26/2020,Humid and mostly cloudy throughout the day.,rain,0.13,0.0053,0.0521,0.65,rain,92.33,70.76,71.35,0.79,1009.4,0.76,7,70.04,92.33,-1.44,15.556
+Republic of the Congo,,2/27/2020,Rain starting in the afternoon.,rain,0.16,0.0187,0.0706,0.79,rain,92.95,68.93,72.08,0.76,1008.7,0.72,13,70.76,92.95,-1.44,15.556
+Republic of the Congo,,2/28/2020,Rain in the morning.,rain,0.19,0.040999999999999995,0.1979,0.81,rain,84.03,70.6,71.6,0.9,1010.4,0.97,6,68.93,84.03,-1.44,15.556
+Republic of the Congo,,2/29/2020,Possible light rain in the morning.,rain,0.22,0.0088,0.0591,0.53,rain,90.97,71.87,71.88,0.8,1010.4,0.96,6,70.6,90.97,-1.44,15.556
+Republic of the Congo,,3/1/2020,Rain until evening.,rain,0.25,0.0336,0.1575,0.76,rain,86.3,66.38,70.44,0.87,1011.9,0.87,6,68.28,86.3,-1.44,15.556
+Republic of the Congo,,3/2/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0008,0.0045,0.12,rain,91.16,71.33,69.37,0.77,1012.4,0.53,13,66.38,91.16,-1.44,15.556
+Republic of the Congo,,3/3/2020,Possible light rain overnight.,rain,0.32,0.0023,0.0093,0.29,rain,96.42,72.15,71.8,0.73,1010.5,0.38,14,71.33,96.42,-1.44,15.556
+Republic of the Congo,,3/4/2020,Possible light rain in the morning.,rain,0.35,0.0094,0.0308,0.75,rain,90.52,70.56,72.23,0.78,1010.0,0.79,6,72.15,90.52,-1.44,15.556
+Republic of the Congo,,3/5/2020,Possible drizzle overnight.,rain,0.39,0.0018,0.025,0.47,rain,95.07,72.45,70.99,0.74,1008.5,0.65,6,70.56,95.07,-1.44,15.556
+Republic of the Congo,,3/6/2020,Rain in the morning and afternoon.,rain,0.43,0.0384,0.1548,0.93,rain,77.25,67.96,71.16,0.93,1010.3,0.93,6,69.9,77.25,-1.44,15.556
+Republic of the Congo,,3/7/2020,Rain starting in the afternoon.,rain,0.47,0.0422,0.1822,0.71,rain,91.77,70.92,70.93,0.8,1010.0,0.27,14,67.96,91.77,-1.44,15.556
+Republic of the Congo,,3/8/2020,Possible light rain in the evening and overnight.,rain,0.5,0.0176,0.09300000000000001,0.78,rain,89.07,71.91,72.85,0.84,1009.5,0.72,10,70.92,89.07,-1.44,15.556
+Republic of the Congo,,3/9/2020,Possible light rain overnight.,rain,0.54,0.0203,0.1074,0.61,rain,92.39,72.71,72.8,0.79,1008.0,0.89,9,71.91,92.39,-1.44,15.556
+Republic of the Congo,,3/10/2020,Rain in the morning and overnight.,rain,0.58,0.0188,0.0626,0.81,rain,92.87,70.63,72.86,0.82,1008.0,0.81,6,72.71,92.87,-1.44,15.556
+Republic of the Congo,,3/11/2020,Light rain in the morning and afternoon.,rain,0.62,0.0318,0.1507,0.92,rain,75.51,64.85,70.95,0.96,1010.8,0.96,5,68.27,75.51,-1.44,15.556
+Republic of the Congo,,3/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.66,0.0,0.0002,0.03,,93.16,69.6,66.82,0.72,1010.2,0.59,10,64.85,93.16,-1.44,15.556
+Republic of the Congo,,3/13/2020,Clear throughout the day.,partly-cloudy-day,0.69,0.0015,0.0092,0.11,rain,97.99,71.93,67.96,0.65,1008.9,0.37,12,69.6,97.99,-1.44,15.556
+Republic of the Congo,,3/14/2020,Rain overnight.,partly-cloudy-day,0.73,0.0017,0.0137,0.24,rain,95.18,70.57,69.93,0.68,1008.4,0.69,10,71.93,95.18,-1.44,15.556
+Republic of the Congo,,3/15/2020,Rain in the morning and afternoon.,rain,0.76,0.0284,0.1229,0.87,rain,85.57,69.72,72.8,0.9,1009.0,0.99,6,70.57,85.57,-1.44,15.556
+Republic of the Congo,,3/16/2020,Humid and overcast throughout the day.,rain,0.8,0.0022,0.0111,0.36,rain,90.73,70.31,70.81,0.77,1009.4,0.91,7,69.72,90.73,-1.44,15.556
+Republic of the Congo,,3/17/2020,Possible light rain overnight.,rain,0.83,0.0109,0.0845,0.44,rain,94.33,70.99,71.49,0.76,1009.0,0.91,7,70.31,94.33,-1.44,15.556
+Republic of the Congo,,3/18/2020,Rain in the evening and overnight.,rain,0.86,0.039,0.1847,0.88,rain,92.43,69.27,72.13,0.82,1009.1,0.73,11,70.99,92.43,-1.44,15.556
+Republic of the Congo,,3/19/2020,Rain until evening.,rain,0.89,0.0666,0.3376,0.99,rain,74.17,67.44,70.48,0.98,1011.4,0.98,6,68.89,74.17,-1.44,15.556
+Republic of the Congo,,3/20/2020,Light rain until evening.,rain,0.92,0.0072,0.026000000000000002,0.84,rain,77.24,68.61,70.37,0.96,1011.5,1.0,6,67.44,77.24,-1.44,15.556
+Republic of the Congo,,3/21/2020,Overcast throughout the day.,rain,0.95,0.0022,0.015,0.37,rain,89.12,69.11,69.68,0.81,1010.6,0.97,6,68.61,89.12,-1.44,15.556
+Republic of the Congo,,3/22/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.98,0.0006,0.0034,0.18,rain,92.2,71.14,70.2,0.76,1009.9,0.69,10,69.11,92.2,-1.44,15.556
+Republic of the Congo,,3/23/2020,Humid throughout the day.,rain,0.01,0.0042,0.0203,0.31,rain,93.51,72.06,70.31,0.72,1008.8,0.38,14,71.14,93.51,-1.44,15.556
+Republic of the Congo,,3/24/2020,Rain starting in the afternoon.,rain,0.04,0.0284,0.1249,0.75,rain,86.81,69.91,72.66,0.9,1008.9,0.86,8,70.53,86.81,-1.44,15.556
+Republic of the Congo,,3/25/2020,Possible light rain overnight.,rain,0.07,0.0062,0.0295,0.58,rain,87.06,70.04,72.39,0.86,1009.7,0.93,6,69.91,87.06,-1.44,15.556
+Republic of the Congo,,3/26/2020,Possible light rain in the morning.,rain,0.1,0.0103,0.0401,0.55,rain,92.0,70.26,70.57,0.75,1010.4,0.93,7,70.04,92.0,-1.44,15.556
+Republic of the Congo,,3/27/2020,Humid throughout the day.,partly-cloudy-day,0.13,0.0006,0.0038,0.08,rain,97.02,70.78,70.76,0.71,1009.5,0.36,13,70.26,97.02,-1.44,15.556
+Republic of the Congo,,3/28/2020,Humid throughout the day.,rain,0.17,0.0056,0.0194,0.51,rain,95.15,71.0,71.62,0.74,1008.6,0.16,14,70.78,95.15,-1.44,15.556
+Republic of the Congo,,3/29/2020,Humid and partly cloudy throughout the day.,rain,0.2,0.0074,0.0373,0.67,rain,92.14,71.8,72.29,0.77,1008.2,0.57,9,71.0,92.14,-1.44,15.556
+Republic of the Congo,,3/30/2020,Possible light rain overnight.,rain,0.23,0.0049,0.0216,0.5,rain,95.57,71.26,71.33,0.75,1008.0,0.52,13,71.8,95.57,-1.44,15.556
+Republic of the Congo,,3/31/2020,Possible light rain in the morning and afternoon.,rain,0.26,0.015,0.0619,0.83,rain,88.46,70.39,74.13,0.89,1009.3,0.95,6,71.26,88.46,-1.44,15.556
+Republic of the Congo,,4/1/2020,Possible light rain in the evening and overnight.,rain,0.3,0.0118,0.0585,0.53,rain,92.64,69.98,73.07,0.82,1008.3,0.58,13,70.39,92.64,-1.44,15.556
+Republic of the Congo,,4/2/2020,Light rain starting in the afternoon.,rain,0.34,0.0207,0.0981,0.83,rain,91.06,70.18,71.11,0.81,1008.8,0.98,5,69.98,91.06,-1.44,15.556
+Republic of the Congo,,4/3/2020,Light rain in the morning and afternoon.,rain,0.37,0.0109,0.0469,0.8,rain,87.71,72.13,71.61,0.84,1010.6,0.99,5,70.18,87.71,-1.44,15.556
+Republic of the Congo,,4/4/2020,Possible light rain overnight.,rain,0.41,0.004,0.019,0.43,rain,92.58,72.2,72.37,0.78,1010.6,0.84,8,72.13,92.58,-1.44,15.556
+Republic of the Congo,,4/5/2020,Rain in the morning.,rain,0.45,0.034,0.1167,0.94,rain,88.83,70.52,72.62,0.86,1011.3,0.88,5,72.2,88.83,-1.44,15.556
+Republic of the Congo,,4/6/2020,Possible light rain in the evening.,rain,0.49,0.0115,0.0479,0.66,rain,91.69,71.88,73.46,0.84,1009.7,0.95,6,70.52,91.69,-1.44,15.556
+Republic of the Congo,,4/7/2020,Light rain and humid throughout the day.,rain,0.53,0.0171,0.0606,0.92,rain,87.66,69.4,72.98,0.86,1008.9,0.97,6,71.88,87.66,-1.44,15.556
+Republic of the Congo,,4/8/2020,Possible light rain until evening.,rain,0.57,0.0108,0.0343,0.8,rain,88.38,71.3,71.86,0.85,1009.6,0.91,7,69.4,88.38,-1.44,15.556
+Republic of the Congo,,4/9/2020,Possible light rain in the afternoon and evening.,rain,0.61,0.0096,0.0445,0.71,rain,91.28,70.52,72.74,0.87,1009.1,0.89,7,71.3,91.28,-1.44,15.556
+Republic of the Congo,,4/10/2020,Light rain and humid throughout the day.,rain,0.64,0.0126,0.0612,0.9,rain,90.46,70.09,72.73,0.87,1009.4,0.86,7,70.52,90.46,-1.44,15.556
+Republic of the Congo,,4/11/2020,Light rain in the morning and overnight.,rain,0.68,0.0187,0.077,0.96,rain,84.74,71.69,72.23,0.89,1011.9,0.97,6,70.09,84.74,-1.44,15.556
+Republic of the Congo,,4/12/2020,Possible light rain in the afternoon and evening.,rain,0.71,0.011000000000000001,0.0791,0.63,rain,86.43,70.54,73.13,0.88,1011.3,0.93,7,71.69,86.43,-1.44,15.556
+Republic of the Congo,,4/13/2020,Humid and partly cloudy throughout the day.,rain,0.75,0.005,0.0305,0.45,rain,95.81,73.68,71.21,0.72,1009.3,0.58,12,70.54,95.81,-1.44,15.556
+Republic of the Congo,,4/14/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.0005,0.0041,0.15,rain,93.49,74.19,71.49,0.71,1008.8,0.85,7,73.68,93.49,-1.44,15.556
+Republic of the Congo,,4/15/2020,Possible light rain in the afternoon.,rain,0.81,0.0061,0.0402,0.63,rain,92.0,70.78,73.31,0.78,1007.9,0.74,6,74.19,92.0,-1.44,15.556
+Republic of the Congo,,4/16/2020,Rain and humid throughout the day.,rain,0.84,0.0319,0.156,0.92,rain,87.98,70.09,72.83,0.86,1009.0,0.97,7,70.78,87.98,-1.44,15.556
+Republic of the Congo,,4/17/2020,Light rain and humid throughout the day.,rain,0.87,0.0183,0.0607,0.89,rain,89.13,70.56,72.0,0.82,1010.5,0.92,6,70.09,89.13,-1.44,15.556
+Republic of the Congo,,4/18/2020,"Light rain until morning, starting again in the evening.",rain,0.9,0.0262,0.0686,0.97,rain,88.17,69.54,71.65,0.87,1012.2,0.85,5,70.56,88.17,-1.44,15.556
+Republic of the Congo,,4/19/2020,Possible light rain starting in the afternoon.,rain,0.93,0.0075,0.0305,0.8,rain,89.54,70.05,71.1,0.83,1011.9,0.68,7,69.54,89.54,-1.44,15.556
+Republic of the Congo,,4/20/2020,Light rain in the morning.,rain,0.96,0.0074,0.0343,0.84,rain,87.14,70.49,70.94,0.83,1011.6,0.97,6,70.05,87.14,-1.44,15.556

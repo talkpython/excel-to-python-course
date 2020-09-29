@@ -1,0 +1,225 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Denmark,Denmark,12/31/2019,Mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0002,0.18,rain,43.56,38.08,35.65,0.86,1027.8,0.49,0,36.56,43.56,56.2639,9.5018
+Denmark,Denmark,1/1/2020,Possible drizzle and windy overnight.,rain,0.24,0.0006,0.0028,0.25,rain,42.59,41.5,36.88,0.86,1018.2,0.91,0,38.31,42.72,56.2639,9.5018
+Denmark,Denmark,1/2/2020,Light rain in the morning.,rain,0.27,0.006,0.0202,0.84,rain,47.32,39.19,38.72,0.83,1008.2,0.83,0,40.42,47.32,56.2639,9.5018
+Denmark,Denmark,1/3/2020,Light rain and windy in the morning.,rain,0.3,0.0077,0.0568,0.73,rain,42.27,30.0,32.43,0.75,1015.2,0.49,0,33.72,43.75,56.2639,9.5018
+Denmark,Denmark,1/4/2020,Overcast throughout the day.,rain,0.33,0.0003,0.0012,0.25,rain,44.58,42.38,34.68,0.88,1026.0,0.69,0,30.0,44.58,56.2639,9.5018
+Denmark,Denmark,1/5/2020,Overcast throughout the day.,cloudy,0.36,0.001,0.0021,0.22,rain,46.87,39.56,40.89,0.89,1019.2,0.98,0,40.18,46.87,56.2639,9.5018
+Denmark,Denmark,1/6/2020,Possible drizzle overnight.,rain,0.4,0.001,0.006999999999999999,0.46,rain,45.56,41.96,39.47,0.88,1014.9,0.87,0,39.56,45.56,56.2639,9.5018
+Denmark,Denmark,1/7/2020,Possible drizzle and windy in the morning.,rain,0.43,0.0022,0.0123,0.65,rain,49.53,38.24,41.46,0.86,1012.0,0.79,0,41.02,49.82,56.2639,9.5018
+Denmark,Denmark,1/8/2020,Light rain until evening.,rain,0.47,0.0142,0.0681,0.94,rain,48.18,41.28,39.1,0.89,1008.7,0.94,0,38.24,48.68,56.2639,9.5018
+Denmark,Denmark,1/9/2020,Possible drizzle in the morning and afternoon.,rain,0.5,0.0023,0.0111,0.58,rain,43.27,31.96,37.48,0.88,1011.2,0.79,0,34.05,46.35,56.2639,9.5018
+Denmark,Denmark,1/10/2020,Light rain in the evening and overnight.,rain,0.54,0.0025,0.0189,0.67,rain,46.29,44.3,36.29,0.85,1018.5,0.81,0,31.96,47.33,56.2639,9.5018
+Denmark,Denmark,1/11/2020,Light rain until evening.,rain,0.57,0.0123,0.0421,0.99,rain,47.56,37.62,42.4,0.9,1009.3,0.99,0,41.0,48.04,56.2639,9.5018
+Denmark,Denmark,1/12/2020,Light rain and windy overnight.,partly-cloudy-day,0.61,0.0002,0.0005,0.23,rain,44.12,40.05,37.5,0.87,1011.7,0.69,0,38.07,44.12,56.2639,9.5018
+Denmark,Denmark,1/13/2020,"Light rain and dangerously windy until morning, starting again in the evening.",rain,0.65,0.0151,0.0611,0.97,rain,46.9,44.81,40.75,0.86,997.3,0.93,0,40.12,49.29,56.2639,9.5018
+Denmark,Denmark,1/14/2020,Light rain until evening.,rain,0.69,0.023,0.0571,1.0,rain,49.11,42.28,42.89,0.87,998.6,0.95,0,42.09,52.69,56.2639,9.5018
+Denmark,Denmark,1/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0001,0.0002,0.12,rain,47.71,39.89,38.83,0.84,1017.5,0.52,0,39.89,47.71,56.2639,9.5018
+Denmark,Denmark,1/16/2020,Light rain in the evening and overnight.,rain,0.76,0.0041,0.0355,0.8,rain,47.61,40.65,40.2,0.87,1012.6,0.97,0,40.77,47.61,56.2639,9.5018
+Denmark,Denmark,1/17/2020,Light rain in the morning and afternoon.,rain,0.8,0.0076,0.0301,0.9,rain,45.85,38.5,38.62,0.85,1011.6,0.95,0,39.58,45.85,56.2639,9.5018
+Denmark,Denmark,1/18/2020,Clear throughout the day.,partly-cloudy-day,0.83,0.0,0.0001,0.01,,44.79,37.84,33.72,0.79,1030.8,0.32,0,37.84,44.79,56.2639,9.5018
+Denmark,Denmark,1/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0,0.0002,0.06,,47.17,41.85,38.36,0.86,1039.5,0.81,0,38.65,47.17,56.2639,9.5018
+Denmark,Denmark,1/20/2020,Overcast throughout the day.,rain,0.9,0.0003,0.0006,0.26,rain,49.34,40.13,40.66,0.87,1032.4,0.92,0,41.75,49.34,56.2639,9.5018
+Denmark,Denmark,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0,0.0002,0.04,,46.77,36.71,36.36,0.82,1030.4,0.63,0,36.71,46.77,56.2639,9.5018
+Denmark,Denmark,1/22/2020,Overcast throughout the day.,rain,0.97,0.0008,0.0033,0.25,rain,47.92,42.34,40.13,0.91,1027.3,0.9,0,37.02,47.92,56.2639,9.5018
+Denmark,Denmark,1/23/2020,Overcast throughout the day.,rain,1.0,0.0007,0.0028,0.32,rain,45.77,39.31,41.08,0.91,1017.3,0.92,0,41.36,45.77,56.2639,9.5018
+Denmark,Denmark,1/24/2020,Mostly cloudy throughout the day.,rain,0.03,0.0008,0.0045,0.27,rain,47.69,40.21,39.16,0.88,1015.7,0.9,1,39.31,47.69,56.2639,9.5018
+Denmark,Denmark,1/25/2020,Overcast throughout the day.,rain,0.06,0.001,0.0014,0.51,rain,44.72,39.76,37.83,0.87,1012.1,1.0,1,39.76,44.72,56.2639,9.5018
+Denmark,Denmark,1/26/2020,Light rain throughout the day.,rain,0.09,0.0098,0.0575,0.86,rain,46.59,40.92,39.84,0.9,1001.6,1.0,0,39.94,46.59,56.2639,9.5018
+Denmark,Denmark,1/27/2020,Light rain in the morning and afternoon.,rain,0.12,0.0057,0.023,0.8,rain,44.52,37.14,38.04,0.86,986.0,1.0,0,40.26,44.52,56.2639,9.5018
+Denmark,Denmark,1/28/2020,Possible light rain in the morning and overnight.,rain,0.15,0.0016,0.0106,0.54,rain,46.02,39.15,35.41,0.82,992.0,0.71,0,37.14,46.02,56.2639,9.5018
+Denmark,Denmark,1/29/2020,Rain throughout the day.,rain,0.18,0.0187,0.1184,0.88,rain,47.4,43.33,40.05,0.89,994.7,0.98,1,39.15,47.4,56.2639,9.5018
+Denmark,Denmark,1/30/2020,Possible drizzle throughout the day.,rain,0.21,0.0038,0.0518,0.85,rain,45.94,44.74,41.95,0.88,994.1,1.0,1,43.06,47.65,56.2639,9.5018
+Denmark,Denmark,1/31/2020,Drizzle throughout the day.,rain,0.24,0.0054,0.0151,0.79,rain,48.11,40.02,43.56,0.89,990.5,0.99,1,43.53,48.42,56.2639,9.5018
+Denmark,Denmark,2/1/2020,Partly cloudy throughout the day.,rain,0.27,0.0001,0.0019,0.35,rain,43.74,35.02,34.57,0.79,999.3,0.63,1,36.27,43.74,56.2639,9.5018
+Denmark,Denmark,2/2/2020,Drizzle until evening.,rain,0.31,0.0021,0.0051,0.77,rain,45.11,37.11,36.7,0.9,1000.6,0.89,0,35.02,45.11,56.2639,9.5018
+Denmark,Denmark,2/3/2020,Mostly cloudy throughout the day.,rain,0.34,0.0002,0.0008,0.45,rain,41.37,29.07,32.95,0.83,1005.5,0.58,0,33.12,41.37,56.2639,9.5018
+Denmark,Denmark,2/4/2020,Clear throughout the day.,partly-cloudy-day,0.37,0.0001,0.0004,0.16,snow,44.47,39.42,31.15,0.8,1027.5,0.33,1,29.07,44.47,56.2639,9.5018
+Denmark,Denmark,2/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0008,0.0024,0.21,rain,48.5,38.42,39.32,0.87,1024.0,0.46,1,39.94,48.5,56.2639,9.5018
+Denmark,Denmark,2/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.0008,0.001,0.2,rain,46.21,34.23,38.01,0.88,1026.4,0.69,1,37.98,46.21,56.2639,9.5018
+Denmark,Denmark,2/7/2020,Possible drizzle in the evening.,rain,0.48,0.0014,0.0078,0.51,rain,43.56,40.07,35.45,0.86,1016.4,0.59,1,34.23,43.56,56.2639,9.5018
+Denmark,Denmark,2/8/2020,Rain and dangerously windy throughout the day.,rain,0.52,0.048,0.1266,0.93,rain,50.75,42.04,39.98,0.86,991.0,0.86,1,40.07,50.8,56.2639,9.5018
+Denmark,Denmark,2/9/2020,Drizzle throughout the day.,rain,0.56,0.0058,0.017,0.93,rain,46.01,36.32,36.26,0.79,975.5,0.95,1,37.64,47.33,56.2639,9.5018
+Denmark,Denmark,2/10/2020,Drizzle until evening.,rain,0.6,0.0048,0.0156,0.86,rain,43.56,36.82,34.52,0.82,982.0,0.93,1,36.32,43.56,56.2639,9.5018
+Denmark,Denmark,2/11/2020,Drizzle throughout the day.,rain,0.64,0.0036,0.0111,0.9,rain,45.25,35.85,35.47,0.83,992.6,0.9,1,36.82,45.25,56.2639,9.5018
+Denmark,Denmark,2/12/2020,Possible drizzle in the evening.,rain,0.67,0.0016,0.0059,0.63,rain,42.3,35.85,33.84,0.83,1003.7,0.58,1,35.85,42.3,56.2639,9.5018
+Denmark,Denmark,2/13/2020,Possible light rain overnight.,rain,0.71,0.0004,0.0019,0.41,rain,43.93,36.73,34.32,0.85,1014.1,0.86,1,35.85,43.93,56.2639,9.5018
+Denmark,Denmark,2/14/2020,Light rain throughout the day.,rain,0.75,0.0139,0.0428,0.97,rain,47.29,46.3,41.63,0.9,1008.9,0.98,1,38.57,48.91,56.2639,9.5018
+Denmark,Denmark,2/15/2020,Rain and dangerously windy throughout the day.,rain,0.78,0.0441,0.0994,0.98,rain,52.93,39.89,44.45,0.87,989.6,1.0,1,42.55,52.93,56.2639,9.5018
+Denmark,Denmark,2/16/2020,Possible light rain in the morning and afternoon.,rain,0.81,0.0074,0.0359,0.9,rain,44.95,39.24,37.76,0.83,996.1,0.91,1,39.89,44.95,56.2639,9.5018
+Denmark,Denmark,2/17/2020,Light rain throughout the day.,rain,0.85,0.0119,0.0448,0.94,rain,44.85,37.31,37.1,0.85,1004.6,0.72,1,38.83,44.85,56.2639,9.5018
+Denmark,Denmark,2/18/2020,Light rain in the morning and afternoon.,rain,0.88,0.0114,0.0426,0.95,rain,44.82,35.99,36.74,0.87,1005.4,0.81,1,37.31,44.82,56.2639,9.5018
+Denmark,Denmark,2/19/2020,Light rain throughout the day.,rain,0.91,0.0217,0.0924,0.96,rain,46.06,37.93,38.13,0.89,1004.2,0.93,1,35.99,46.06,56.2639,9.5018
+Denmark,Denmark,2/20/2020,Light rain in the evening and overnight.,rain,0.94,0.0039,0.0227,0.84,rain,45.51,41.92,36.5,0.82,1007.6,0.64,1,37.93,45.51,56.2639,9.5018
+Denmark,Denmark,2/21/2020,Light rain until evening.,rain,0.97,0.0203,0.0527,0.97,rain,46.48,38.56,38.47,0.83,999.2,0.97,1,38.89,46.48,56.2639,9.5018
+Denmark,Denmark,2/22/2020,Light rain in the morning and afternoon.,rain,0.01,0.0047,0.0378,0.81,rain,42.12,36.1,34.22,0.79,1000.8,0.81,1,37.98,42.12,56.2639,9.5018
+Denmark,Denmark,2/23/2020,Light rain in the evening and overnight.,rain,0.04,0.0036,0.0275,0.73,rain,43.3,35.98,34.42,0.83,1007.6,0.69,1,36.1,43.3,56.2639,9.5018
+Denmark,Denmark,2/24/2020,Light rain throughout the day.,rain,0.07,0.0181,0.0658,0.95,rain,42.47,33.49,35.76,0.89,982.4,1.0,1,34.86,42.47,56.2639,9.5018
+Denmark,Denmark,2/25/2020,Light rain in the morning and afternoon.,rain,0.1,0.0066,0.0333,0.82,rain,37.42,26.44,30.44,0.86,992.1,0.98,1,29.83,37.42,56.2639,9.5018
+Denmark,Denmark,2/26/2020,Possible drizzle until evening.,snow,0.13,0.0015,0.0076,0.6,snow,42.2,32.93,28.71,0.84,997.5,0.6,1,26.44,42.2,56.2639,9.5018
+Denmark,Denmark,2/27/2020,Possible drizzle overnight.,rain,0.16,0.0006,0.0025,0.42,rain,44.85,34.9,33.91,0.84,1004.1,0.62,1,33.19,44.85,56.2639,9.5018
+Denmark,Denmark,2/28/2020,Light rain throughout the day.,rain,0.19,0.0155,0.048,0.94,rain,47.76,36.79,36.87,0.88,988.3,1.0,1,34.9,47.76,56.2639,9.5018
+Denmark,Denmark,2/29/2020,Light rain until evening.,rain,0.22,0.006,0.028999999999999998,0.87,rain,45.28,35.91,35.64,0.82,984.0,0.78,1,36.79,45.28,56.2639,9.5018
+Denmark,Denmark,3/1/2020,Light rain overnight.,rain,0.25,0.0005,0.0013,0.59,rain,47.82,38.36,36.41,0.85,990.7,0.56,1,35.91,47.82,56.2639,9.5018
+Denmark,Denmark,3/2/2020,Light rain in the morning and afternoon.,rain,0.28,0.0154,0.0377,0.96,rain,42.94,30.7,36.02,0.87,998.0,1.0,1,36.17,42.94,56.2639,9.5018
+Denmark,Denmark,3/3/2020,Partly cloudy throughout the day.,rain,0.32,0.0005,0.0022,0.32,rain,45.97,30.42,33.95,0.87,1004.4,0.38,1,30.7,45.97,56.2639,9.5018
+Denmark,Denmark,3/4/2020,Mostly cloudy throughout the day.,rain,0.35,0.0005,0.0026,0.35,rain,44.6,31.35,32.92,0.87,1002.7,0.53,1,30.42,44.6,56.2639,9.5018
+Denmark,Denmark,3/5/2020,Overcast throughout the day.,cloudy,0.39,0.0,0.0002,0.09,,41.24,28.03,32.75,0.88,1001.4,0.89,1,31.35,41.24,56.2639,9.5018
+Denmark,Denmark,3/6/2020,Clear throughout the day.,partly-cloudy-day,0.43,0.0,0.0003,0.13,,43.8,37.55,31.58,0.84,1011.0,0.44,1,28.03,43.8,56.2639,9.5018
+Denmark,Denmark,3/7/2020,Light rain until evening.,rain,0.47,0.0064,0.0296,0.9,rain,46.18,38.52,40.31,0.88,1004.8,0.96,1,38.81,46.18,56.2639,9.5018
+Denmark,Denmark,3/8/2020,Drizzle in the morning and afternoon.,rain,0.5,0.0029,0.012,0.76,rain,50.47,39.08,40.17,0.89,1005.9,0.67,1,38.52,50.47,56.2639,9.5018
+Denmark,Denmark,3/9/2020,Light rain until evening.,rain,0.54,0.0101,0.0248,0.97,rain,46.88,39.6,39.89,0.9,994.7,0.92,1,38.89,46.88,56.2639,9.5018
+Denmark,Denmark,3/10/2020,Possible drizzle overnight.,rain,0.58,0.0008,0.0028,0.59,rain,48.31,41.67,37.75,0.81,999.2,0.27,2,39.6,48.31,56.2639,9.5018
+Denmark,Denmark,3/11/2020,Light rain until evening.,rain,0.62,0.0098,0.039,0.91,rain,46.56,39.12,36.39,0.8,992.6,0.84,1,38.87,46.56,56.2639,9.5018
+Denmark,Denmark,3/12/2020,Light rain in the morning.,rain,0.66,0.0032,0.0184,0.71,rain,45.64,26.95,33.32,0.8,1004.0,0.67,1,31.71,45.64,56.2639,9.5018
+Denmark,Denmark,3/13/2020,Clear throughout the day.,clear-day,0.69,0.0001,0.0004,0.06,snow,44.47,38.47,27.89,0.73,1020.7,0.24,2,26.95,44.47,56.2639,9.5018
+Denmark,Denmark,3/14/2020,"Light rain until afternoon, starting again overnight.",rain,0.73,0.0025,0.0111,0.7,rain,47.95,41.47,38.2,0.8,1009.2,0.99,1,38.86,48.25,56.2639,9.5018
+Denmark,Denmark,3/15/2020,Partly cloudy throughout the day.,rain,0.76,0.0037,0.0346,0.78,rain,51.93,37.05,39.56,0.83,1014.1,0.5,2,37.66,51.93,56.2639,9.5018
+Denmark,Denmark,3/16/2020,Drizzle and windy overnight.,partly-cloudy-day,0.8,0.0006,0.0032,0.24,rain,47.02,43.95,38.67,0.85,1020.8,0.82,2,37.05,47.02,56.2639,9.5018
+Denmark,Denmark,3/17/2020,Light rain and windy in the morning.,rain,0.83,0.0069,0.0327,0.97,rain,47.55,35.06,41.09,0.86,1017.6,1.0,2,39.96,48.13,56.2639,9.5018
+Denmark,Denmark,3/18/2020,Clear throughout the day.,partly-cloudy-day,0.86,0.0001,0.0003,0.13,rain,51.25,34.5,34.84,0.76,1024.2,0.52,2,35.06,51.25,56.2639,9.5018
+Denmark,Denmark,3/19/2020,Clear throughout the day.,clear-day,0.89,0.0,0.0002,0.07,,47.57,27.13,29.01,0.66,1029.4,0.22,2,33.09,47.57,56.2639,9.5018
+Denmark,Denmark,3/20/2020,Clear throughout the day.,clear-day,0.92,0.0002,0.0004,0.08,snow,48.1,29.03,23.68,0.62,1036.8,0.02,2,27.13,48.1,56.2639,9.5018
+Denmark,Denmark,3/21/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.03,snow,42.97,28.82,24.53,0.65,1039.2,0.01,2,29.03,42.97,56.2639,9.5018
+Denmark,Denmark,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0004,0.01,snow,46.93,29.72,22.25,0.59,1038.0,0.16,2,28.82,46.93,56.2639,9.5018
+Denmark,Denmark,3/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.01,0.0,0.0,0.0,,49.41,31.18,22.94,0.54,1033.1,0.81,2,29.72,49.41,56.2639,9.5018
+Denmark,Denmark,3/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.04,0.0002,0.0004,0.02,rain,53.62,30.01,21.74,0.48,1031.0,0.77,3,31.18,53.62,56.2639,9.5018
+Denmark,Denmark,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0004,0.02,rain,54.01,27.17,25.14,0.59,1030.5,0.14,3,30.01,54.01,56.2639,9.5018
+Denmark,Denmark,3/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0004,0.02,snow,56.35,33.09,24.76,0.58,1028.8,0.0,3,27.17,56.35,56.2639,9.5018
+Denmark,Denmark,3/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0001,0.0004,0.02,rain,50.27,29.89,30.76,0.69,1023.9,0.32,2,33.09,50.27,56.2639,9.5018
+Denmark,Denmark,3/28/2020,Clear throughout the day.,clear-day,0.17,0.0002,0.0024,0.07,rain,43.04,34.45,17.8,0.48,1032.2,0.03,2,29.89,43.04,56.2639,9.5018
+Denmark,Denmark,3/29/2020,Clear throughout the day.,clear-day,0.2,0.0005,0.0037,0.18,rain,44.36,26.41,27.05,0.64,1027.5,0.22,3,31.66,44.36,56.2639,9.5018
+Denmark,Denmark,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0005,0.0024,0.09,snow,47.39,38.76,26.88,0.67,1028.7,0.33,3,26.41,47.39,56.2639,9.5018
+Denmark,Denmark,3/31/2020,Mostly cloudy throughout the day.,rain,0.26,0.0019,0.0036,0.3,rain,49.11,38.6,36.95,0.79,1013.7,0.86,3,38.76,49.11,56.2639,9.5018
+Denmark,Denmark,4/1/2020,Windy and partly cloudy throughout the day.,rain,0.3,0.0013,0.0058,0.29,rain,48.05,36.98,35.34,0.76,1001.3,0.57,3,38.6,48.05,56.2639,9.5018
+Denmark,Denmark,4/2/2020,Partly cloudy throughout the day.,wind,0.33,0.0005,0.003,0.17,rain,45.55,32.44,28.76,0.63,1005.8,0.43,2,36.39,45.55,56.2639,9.5018
+Denmark,Denmark,4/3/2020,Possible drizzle in the afternoon.,rain,0.37,0.0009,0.0051,0.49,rain,51.49,37.32,34.76,0.78,1020.3,0.55,3,32.44,51.49,56.2639,9.5018
+Denmark,Denmark,4/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0,0.0002,0.01,,59.09,41.18,35.81,0.67,1026.8,0.56,3,37.32,59.09,56.2639,9.5018
+Denmark,Denmark,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0,0.0002,0.01,,64.8,43.08,38.68,0.63,1020.5,0.01,5,41.18,64.8,56.2639,9.5018
+Denmark,Denmark,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0008,0.0061,0.18,rain,60.98,39.64,38.9,0.67,1028.4,0.31,4,43.08,60.98,56.2639,9.5018
+Denmark,Denmark,4/7/2020,Overcast throughout the day.,partly-cloudy-day,0.53,0.0,0.0003,0.02,,65.37,41.59,37.17,0.62,1026.6,0.79,3,39.64,65.37,56.2639,9.5018
+Denmark,Denmark,4/8/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.08,rain,52.61,34.92,35.03,0.67,1023.8,0.31,4,40.01,52.61,56.2639,9.5018
+Denmark,Denmark,4/9/2020,Overcast throughout the day.,cloudy,0.6,0.0001,0.0004,0.03,rain,52.26,33.62,32.39,0.69,1026.8,0.89,3,34.92,52.26,56.2639,9.5018
+Denmark,Denmark,4/10/2020,Light rain in the afternoon and evening.,rain,0.64,0.0044,0.0228,0.92,rain,47.32,44.3,35.43,0.82,1025.0,0.77,3,33.62,47.64,56.2639,9.5018
+Denmark,Denmark,4/11/2020,Overcast throughout the day.,cloudy,0.68,0.0001,0.0014,0.05,rain,57.55,37.05,39.89,0.71,1012.4,0.89,3,43.38,57.55,56.2639,9.5018
+Denmark,Denmark,4/12/2020,Clear throughout the day.,clear-day,0.71,0.0004,0.0024,0.12,rain,45.06,31.85,25.62,0.55,1014.9,0.28,4,37.02,45.06,56.2639,9.5018
+Denmark,Denmark,4/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.74,0.0001,0.0003,0.06,rain,48.17,40.99,30.0,0.66,1020.0,0.49,4,31.85,48.17,56.2639,9.5018
+Denmark,Denmark,4/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.03,rain,55.43,42.73,38.37,0.72,1016.6,0.65,3,40.99,55.43,56.2639,9.5018
+Denmark,Denmark,4/15/2020,Clear throughout the day.,clear-day,0.81,0.0002,0.0009,0.03,rain,52.98,33.78,36.92,0.68,1015.4,0.23,4,39.83,52.98,56.2639,9.5018
+Denmark,Denmark,4/16/2020,Partly cloudy throughout the day.,clear-day,0.84,0.0001,0.0003,0.02,rain,56.28,33.21,31.1,0.62,1020.3,0.3,4,33.78,56.28,56.2639,9.5018
+Denmark,Denmark,4/17/2020,Clear throughout the day.,clear-day,0.87,0.0001,0.0002,0.02,rain,57.28,35.46,27.74,0.54,1023.6,0.11,4,33.21,57.28,56.2639,9.5018
+Denmark,Denmark,4/18/2020,Clear throughout the day.,clear-day,0.9,0.0,0.0,0.0,,58.57,35.49,28.94,0.53,1027.0,0.0,5,35.46,58.57,56.2639,9.5018
+Denmark,Denmark,4/19/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0004,0.02,rain,64.5,39.23,30.8,0.52,1029.7,0.0,5,35.49,64.5,56.2639,9.5018
+Denmark,Denmark,4/20/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0004,0.03,rain,64.19,39.82,35.12,0.56,1031.7,0.0,5,39.23,64.19,56.2639,9.5018
+Denmark,Faroe Islands,1/1/2020,Light rain starting in the afternoon.,rain,0.21,0.0224,0.0621,0.91,rain,46.39,40.22,39.84,0.84,999.9,1.0,0,42.61,46.39,61.8926,-6.9118
+Denmark,Faroe Islands,1/2/2020,Light rain in the morning.,rain,0.24,0.0105,0.0424,0.88,rain,42.17,30.71,31.64,0.76,983.2,0.94,0,32.03,45.93,61.8926,-6.9118
+Denmark,Faroe Islands,1/3/2020,Light snow (1–2 in.) in the morning.,snow,0.27,0.0097,0.0297,0.7,snow,33.91,29.6,21.99,0.67,1000.5,0.82,0,29.64,33.91,61.8926,-6.9118
+Denmark,Faroe Islands,1/4/2020,Light rain starting in the afternoon.,rain,0.3,0.0232,0.0931,0.89,rain,42.71,40.82,28.2,0.75,1014.8,0.8,0,29.67,44.1,61.8926,-6.9118
+Denmark,Faroe Islands,1/5/2020,"Light rain until morning, starting again in the evening.",rain,0.33,0.0057,0.0547,0.9,rain,44.79,42.15,38.73,0.85,1001.9,0.83,0,40.75,44.79,61.8926,-6.9118
+Denmark,Faroe Islands,1/6/2020,Light rain in the morning and overnight.,rain,0.36,0.0095,0.0429,0.94,rain,45.53,38.77,36.47,0.78,986.3,0.88,0,38.77,45.75,61.8926,-6.9118
+Denmark,Faroe Islands,1/7/2020,Light rain in the morning and afternoon.,rain,0.4,0.0267,0.0874,0.9,rain,46.84,33.11,35.57,0.79,976.6,0.9,0,34.83,46.84,61.8926,-6.9118
+Denmark,Faroe Islands,1/8/2020,Possible light snow (1–2 in.) in the morning.,snow,0.43,0.0127,0.0245,0.62,snow,37.84,36.59,26.02,0.69,988.1,0.84,0,33.11,38.81,61.8926,-6.9118
+Denmark,Faroe Islands,1/9/2020,Partly cloudy throughout the day.,rain,0.47,0.004,0.0073,0.48,rain,38.88,37.67,28.91,0.7,999.5,0.61,0,36.54,39.01,61.8926,-6.9118
+Denmark,Faroe Islands,1/10/2020,Light rain and dangerously windy starting in the afternoon.,rain,0.5,0.0173,0.0536,0.92,rain,44.0,38.8,32.68,0.75,997.3,0.9,0,37.75,44.77,61.8926,-6.9118
+Denmark,Faroe Islands,1/11/2020,Possible drizzle in the morning.,rain,0.54,0.0107,0.0594,0.88,rain,40.8,33.82,30.65,0.73,982.8,0.79,0,34.46,42.08,61.8926,-6.9118
+Denmark,Faroe Islands,1/12/2020,Possible light snow (1–2 in.) throughout the day.,snow,0.58,0.0137,0.0263,0.68,snow,37.35,35.95,27.3,0.72,988.4,0.9,0,33.82,38.13,61.8926,-6.9118
+Denmark,Faroe Islands,1/13/2020,Light rain and dangerously windy throughout the day.,rain,0.61,0.0191,0.0533,0.88,rain,41.88,37.99,33.55,0.81,977.0,0.96,0,36.02,41.88,61.8926,-6.9118
+Denmark,Faroe Islands,1/14/2020,Possible light rain and dangerously windy throughout the day.,rain,0.65,0.0152,0.0248,0.88,rain,39.46,37.36,30.48,0.73,953.9,0.94,0,36.94,40.15,61.8926,-6.9118
+Denmark,Faroe Islands,1/15/2020,Possible light rain in the morning and afternoon.,rain,0.69,0.0089,0.0171,0.65,rain,41.41,38.34,34.8,0.83,965.0,0.77,0,37.5,41.41,61.8926,-6.9118
+Denmark,Faroe Islands,1/16/2020,Light rain in the evening and overnight.,rain,0.72,0.0068,0.0387,0.81,rain,40.5,38.36,33.38,0.79,990.7,0.74,0,38.71,40.67,61.8926,-6.9118
+Denmark,Faroe Islands,1/17/2020,"Possible drizzle until morning, starting again in the evening.",rain,0.76,0.0064,0.027999999999999997,0.93,rain,40.81,35.31,34.73,0.83,981.6,0.76,0,37.37,41.0,61.8926,-6.9118
+Denmark,Faroe Islands,1/18/2020,Possible drizzle in the morning.,rain,0.8,0.003,0.0117,0.58,rain,39.99,38.95,29.0,0.7,1012.2,0.48,0,35.31,40.68,61.8926,-6.9118
+Denmark,Faroe Islands,1/19/2020,Light rain until evening.,rain,0.83,0.0137,0.0587,0.92,rain,46.74,45.42,38.45,0.83,1021.0,0.92,0,39.48,46.74,61.8926,-6.9118
+Denmark,Faroe Islands,1/20/2020,Possible drizzle in the morning and afternoon.,rain,0.87,0.0032,0.01,0.66,rain,47.61,37.21,39.17,0.83,1019.0,0.96,0,37.37,47.61,61.8926,-6.9118
+Denmark,Faroe Islands,1/21/2020,Overcast throughout the day.,rain,0.9,0.0009,0.0026,0.29,rain,41.04,39.29,30.88,0.71,1028.4,0.8,0,37.27,41.04,61.8926,-6.9118
+Denmark,Faroe Islands,1/22/2020,Light rain in the evening and overnight.,rain,0.93,0.004,0.0261,0.55,rain,46.07,37.69,40.08,0.88,1023.5,1.0,0,39.29,46.07,61.8926,-6.9118
+Denmark,Faroe Islands,1/23/2020,Possible light snow (< 1 in.) in the afternoon and evening.,rain,0.97,0.0079,0.0486,0.8,rain,38.97,35.73,30.52,0.74,1010.4,0.89,0,35.95,44.13,61.8926,-6.9118
+Denmark,Faroe Islands,1/24/2020,Light rain in the evening and overnight.,rain,1.0,0.0068,0.0327,0.76,rain,38.88,36.72,28.45,0.7,1005.5,0.81,0,35.73,41.1,61.8926,-6.9118
+Denmark,Faroe Islands,1/25/2020,"Light rain until afternoon, starting again overnight.",rain,0.03,0.01,0.0418,0.89,rain,44.46,40.09,38.65,0.86,989.7,1.0,0,40.93,44.46,61.8926,-6.9118
+Denmark,Faroe Islands,1/26/2020,Drizzle in the morning and afternoon.,rain,0.06,0.0048,0.0109,0.8,rain,41.66,35.32,31.55,0.75,984.3,0.66,0,35.46,42.18,61.8926,-6.9118
+Denmark,Faroe Islands,1/27/2020,Possible drizzle and windy in the morning.,rain,0.09,0.0047,0.0119,0.65,rain,38.03,34.38,28.16,0.71,980.4,0.76,0,35.3,38.03,61.8926,-6.9118
+Denmark,Faroe Islands,1/28/2020,Possible light rain in the morning and afternoon.,rain,0.12,0.006,0.0165,0.53,rain,38.28,34.53,28.73,0.74,979.7,0.65,0,34.38,38.28,61.8926,-6.9118
+Denmark,Faroe Islands,1/29/2020,Clear throughout the day.,rain,0.15,0.0007,0.0021,0.34,rain,37.55,34.73,28.63,0.75,986.2,0.17,0,34.53,37.55,61.8926,-6.9118
+Denmark,Faroe Islands,1/30/2020,Possible light rain throughout the day.,rain,0.18,0.0082,0.018000000000000002,0.74,rain,38.74,35.07,32.5,0.85,979.2,0.91,0,34.73,38.74,61.8926,-6.9118
+Denmark,Faroe Islands,1/31/2020,Possible drizzle in the morning.,rain,0.21,0.002,0.008,0.56,rain,36.25,31.44,30.06,0.81,980.9,0.96,0,33.82,37.25,61.8926,-6.9118
+Denmark,Faroe Islands,2/1/2020,Partly cloudy throughout the day.,rain,0.24,0.0008,0.0044,0.4,rain,34.88,31.03,25.21,0.72,988.7,0.57,0,31.44,34.88,61.8926,-6.9118
+Denmark,Faroe Islands,2/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0001,0.0007,0.13,rain,35.52,34.53,24.73,0.69,997.1,0.74,0,31.03,36.66,61.8926,-6.9118
+Denmark,Faroe Islands,2/3/2020,Drizzle and windy until evening.,rain,0.31,0.0072,0.0122,0.81,rain,38.6,34.12,31.97,0.81,989.8,0.98,0,35.8,38.6,61.8926,-6.9118
+Denmark,Faroe Islands,2/4/2020,Possible drizzle and windy overnight.,rain,0.34,0.0002,0.0027,0.29,rain,39.94,38.89,29.13,0.72,1015.3,0.84,0,34.12,40.93,61.8926,-6.9118
+Denmark,Faroe Islands,2/5/2020,Windy in the morning and afternoon.,rain,0.37,0.0021,0.0058,0.7,rain,44.46,42.86,38.49,0.85,1017.1,0.91,0,39.91,44.47,61.8926,-6.9118
+Denmark,Faroe Islands,2/6/2020,Overcast throughout the day.,rain,0.41,0.0018,0.0037,0.33,rain,45.58,41.47,41.86,0.89,1016.4,0.98,0,42.88,45.64,61.8926,-6.9118
+Denmark,Faroe Islands,2/7/2020,Possible light rain and windy overnight.,cloudy,0.45,0.0005,0.0018,0.19,rain,43.38,37.29,35.28,0.76,1003.1,0.99,0,40.13,44.37,61.8926,-6.9118
+Denmark,Faroe Islands,2/8/2020,Rain and dangerously windy until evening.,rain,0.48,0.0205,0.1221,0.87,rain,39.26,35.06,32.14,0.79,979.2,0.84,0,35.59,40.98,61.8926,-6.9118
+Denmark,Faroe Islands,2/9/2020,Mostly cloudy throughout the day.,rain,0.52,0.0036,0.0093,0.55,rain,36.91,34.14,27.69,0.71,960.8,0.65,0,34.41,37.95,61.8926,-6.9118
+Denmark,Faroe Islands,2/10/2020,Possible light snow (< 1 in.) in the morning and afternoon.,snow,0.56,0.0072,0.024,0.62,snow,37.15,33.7,27.18,0.71,957.7,0.56,0,33.92,37.15,61.8926,-6.9118
+Denmark,Faroe Islands,2/11/2020,Possible drizzle in the morning.,rain,0.6,0.0035,0.0084,0.59,rain,36.76,30.48,27.93,0.75,969.9,0.77,0,32.49,36.87,61.8926,-6.9118
+Denmark,Faroe Islands,2/12/2020,Mostly cloudy throughout the day.,snow,0.64,0.0002,0.0006,0.26,snow,34.04,29.58,22.22,0.67,991.8,0.58,0,30.46,34.04,61.8926,-6.9118
+Denmark,Faroe Islands,2/13/2020,Overcast throughout the day.,snow,0.67,0.0007,0.0028,0.38,snow,31.65,29.78,21.68,0.69,1000.5,0.88,0,29.58,31.65,61.8926,-6.9118
+Denmark,Faroe Islands,2/14/2020,Light rain and dangerously windy throughout the day.,rain,0.71,0.0236,0.0936,0.9,rain,41.88,37.86,30.72,0.77,987.3,0.92,0,30.9,41.88,61.8926,-6.9118
+Denmark,Faroe Islands,2/15/2020,Light rain throughout the day.,rain,0.75,0.0206,0.0832,0.86,rain,40.96,33.66,33.14,0.79,971.6,0.95,0,37.24,40.96,61.8926,-6.9118
+Denmark,Faroe Islands,2/16/2020,Light rain throughout the day.,rain,0.78,0.0136,0.087,0.79,rain,39.41,36.48,30.26,0.76,952.2,0.69,0,33.66,39.41,61.8926,-6.9118
+Denmark,Faroe Islands,2/17/2020,Possible drizzle in the evening and overnight.,rain,0.82,0.0029,0.0135,0.82,rain,40.19,37.08,32.94,0.81,967.8,0.77,0,36.48,40.19,61.8926,-6.9118
+Denmark,Faroe Islands,2/18/2020,Possible drizzle in the morning.,rain,0.85,0.0038,0.013000000000000001,0.73,rain,39.72,35.58,32.97,0.81,984.4,0.55,0,37.08,39.72,61.8926,-6.9118
+Denmark,Faroe Islands,2/19/2020,Rain and dangerously windy starting in the afternoon.,rain,0.88,0.0176,0.1153,0.82,rain,38.8,34.64,31.86,0.81,990.5,0.51,1,35.58,39.86,61.8926,-6.9118
+Denmark,Faroe Islands,2/20/2020,Light rain and dangerously windy throughout the day.,snow,0.91,0.0127,0.0221,0.87,snow,38.73,37.16,27.8,0.7,975.6,0.84,0,34.64,38.93,61.8926,-6.9118
+Denmark,Faroe Islands,2/21/2020,Rain (with a chance of 1–2 in. of snow) and dangerously windy throughout the day.,rain,0.94,0.0304,0.1314,0.86,rain,40.73,34.57,30.07,0.74,972.3,0.83,0,35.64,41.62,61.8926,-6.9118
+Denmark,Faroe Islands,2/22/2020,"Drizzle until afternoon, starting again overnight.",snow,0.98,0.0081,0.0175,0.78,snow,37.94,30.33,28.01,0.73,975.2,0.7,0,33.21,37.94,61.8926,-6.9118
+Denmark,Faroe Islands,2/23/2020,Possible light snow (< 1 in.) in the morning and afternoon.,snow,0.01,0.0058,0.0124,0.71,snow,37.07,34.72,26.42,0.75,998.1,0.71,0,30.33,37.07,61.8926,-6.9118
+Denmark,Faroe Islands,2/24/2020,Overcast throughout the day.,rain,0.04,0.0009,0.003,0.3,rain,37.62,35.22,26.35,0.66,1003.0,0.9,1,35.27,37.62,61.8926,-6.9118
+Denmark,Faroe Islands,2/25/2020,Possible light rain until evening.,rain,0.07,0.0058,0.0222,0.67,rain,37.4,33.06,29.71,0.79,987.2,1.0,1,33.85,37.4,61.8926,-6.9118
+Denmark,Faroe Islands,2/26/2020,Possible light snow (< 1 in.) in the evening and overnight.,rain,0.1,0.0034,0.0144,0.48,rain,36.19,32.21,27.21,0.74,987.1,0.82,1,33.05,36.19,61.8926,-6.9118
+Denmark,Faroe Islands,2/27/2020,Partly cloudy throughout the day.,snow,0.13,0.0016,0.0094,0.54,snow,35.4,30.61,27.09,0.78,990.1,0.57,1,30.96,35.4,61.8926,-6.9118
+Denmark,Faroe Islands,2/28/2020,Light rain (with a chance of 1–2 in. of snow) in the evening and overnight.,snow,0.16,0.0098,0.0576,0.68,snow,35.38,33.25,25.53,0.74,994.0,0.98,1,30.61,36.33,61.8926,-6.9118
+Denmark,Faroe Islands,2/29/2020,Snow (3–6 in.) and dangerously windy throughout the day.,snow,0.19,0.0337,0.0652,0.9,snow,37.68,34.26,32.23,0.86,973.3,1.0,1,33.93,38.48,61.8926,-6.9118
+Denmark,Faroe Islands,3/1/2020,Light rain (with a chance of 1–2 in. of snow) until evening.,rain,0.22,0.0297,0.0578,0.88,rain,36.2,31.72,31.12,0.86,970.9,1.0,1,33.09,36.2,61.8926,-6.9118
+Denmark,Faroe Islands,3/2/2020,Possible light snow (< 1 in.) starting in the afternoon.,snow,0.25,0.0048,0.0126,0.64,snow,34.66,31.39,26.78,0.77,982.1,0.96,1,31.72,34.8,61.8926,-6.9118
+Denmark,Faroe Islands,3/3/2020,Possible drizzle in the morning.,rain,0.28,0.0029,0.0127,0.59,rain,38.28,34.69,28.7,0.76,987.3,0.37,1,31.39,38.28,61.8926,-6.9118
+Denmark,Faroe Islands,3/4/2020,Possible flurries (< 1 in.) in the morning.,rain,0.32,0.0036,0.009000000000000001,0.59,rain,38.3,35.21,28.02,0.72,996.3,0.39,1,34.69,38.3,61.8926,-6.9118
+Denmark,Faroe Islands,3/5/2020,Possible drizzle in the morning.,rain,0.35,0.0027,0.0062,0.61,rain,37.69,34.0,29.48,0.76,993.2,0.82,0,35.21,37.69,61.8926,-6.9118
+Denmark,Faroe Islands,3/6/2020,Possible drizzle in the afternoon.,rain,0.39,0.0035,0.0147,0.67,rain,37.61,33.25,30.0,0.8,996.5,0.8,1,34.0,37.61,61.8926,-6.9118
+Denmark,Faroe Islands,3/7/2020,Light rain until evening.,rain,0.43,0.0114,0.0648,0.82,rain,40.2,37.56,32.46,0.86,986.5,0.94,1,33.25,40.2,61.8926,-6.9118
+Denmark,Faroe Islands,3/8/2020,Possible light rain until evening.,rain,0.47,0.0122,0.0329,0.81,rain,39.54,32.74,34.03,0.88,979.8,0.87,1,34.25,39.54,61.8926,-6.9118
+Denmark,Faroe Islands,3/9/2020,Possible light rain in the evening and overnight.,rain,0.51,0.0028,0.0134,0.71,rain,35.91,34.92,30.0,0.83,993.8,0.94,1,32.73,37.9,61.8926,-6.9118
+Denmark,Faroe Islands,3/10/2020,Light rain throughout the day.,rain,0.55,0.0151,0.0502,0.91,rain,39.68,35.49,34.76,0.89,976.1,1.0,1,36.43,39.68,61.8926,-6.9118
+Denmark,Faroe Islands,3/11/2020,Possible drizzle throughout the day.,rain,0.58,0.0029,0.0118,0.68,rain,36.58,33.82,28.98,0.75,976.8,0.83,1,34.32,38.34,61.8926,-6.9118
+Denmark,Faroe Islands,3/12/2020,Possible drizzle in the morning and afternoon.,rain,0.62,0.0041,0.013000000000000001,0.75,rain,36.38,28.64,27.94,0.79,991.0,0.93,1,29.99,36.38,61.8926,-6.9118
+Denmark,Faroe Islands,3/13/2020,Light rain overnight.,snow,0.66,0.0025,0.0053,0.51,snow,37.26,32.89,26.21,0.74,1012.2,0.92,1,28.64,39.6,61.8926,-6.9118
+Denmark,Faroe Islands,3/14/2020,Light rain in the morning.,rain,0.7,0.0126,0.0701,0.87,rain,38.56,29.24,28.45,0.76,997.5,0.96,1,32.89,39.48,61.8926,-6.9118
+Denmark,Faroe Islands,3/15/2020,Windy in the morning.,snow,0.73,0.0013,0.0064,0.42,snow,32.21,30.75,23.38,0.72,1000.6,0.92,1,29.23,33.83,61.8926,-6.9118
+Denmark,Faroe Islands,3/16/2020,Light rain until evening.,rain,0.77,0.0172,0.079,0.97,rain,40.91,34.9,31.08,0.79,994.4,0.88,1,31.19,40.91,61.8926,-6.9118
+Denmark,Faroe Islands,3/17/2020,"Possible light snow (1–2 in.) until afternoon, starting again overnight.",snow,0.8,0.0127,0.0182,0.73,snow,37.74,35.66,26.72,0.68,994.4,0.67,1,34.62,38.72,61.8926,-6.9118
+Denmark,Faroe Islands,3/18/2020,Partly cloudy throughout the day.,rain,0.83,0.002,0.0086,0.5,rain,40.55,32.69,29.42,0.73,1004.7,0.55,1,35.39,40.55,61.8926,-6.9118
+Denmark,Faroe Islands,3/19/2020,Snow (1–2 in.) in the morning.,rain,0.86,0.0147,0.0693,0.85,rain,36.11,29.36,28.68,0.8,1024.8,0.84,1,32.13,36.42,61.8926,-6.9118
+Denmark,Faroe Islands,3/20/2020,Mostly cloudy throughout the day.,cloudy,0.89,0.0001,0.0004,0.05,rain,38.2,37.21,24.68,0.67,1035.3,0.91,1,29.36,39.0,61.8926,-6.9118
+Denmark,Faroe Islands,3/21/2020,Light rain in the evening and overnight.,rain,0.92,0.0026,0.0438,0.64,rain,40.7,35.48,31.89,0.75,1023.7,1.0,1,37.49,40.7,61.8926,-6.9118
+Denmark,Faroe Islands,3/22/2020,Light rain in the evening and overnight.,rain,0.95,0.0099,0.068,0.94,rain,41.56,40.29,31.26,0.76,1015.8,0.99,1,35.48,41.65,61.8926,-6.9118
+Denmark,Faroe Islands,3/23/2020,"Light rain until morning, starting again in the evening.",rain,0.98,0.0201,0.0599,1.0,rain,42.29,37.43,36.04,0.84,999.5,0.98,1,38.33,42.31,61.8926,-6.9118
+Denmark,Faroe Islands,3/24/2020,Light rain until evening.,rain,0.01,0.0094,0.0242,0.96,rain,39.55,36.8,34.11,0.85,1001.3,0.99,1,37.21,39.75,61.8926,-6.9118
+Denmark,Faroe Islands,3/25/2020,Clear throughout the day.,rain,0.04,0.0012,0.003,0.28,rain,40.69,37.53,31.14,0.74,1013.1,0.31,2,36.8,40.69,61.8926,-6.9118
+Denmark,Faroe Islands,3/26/2020,Mostly cloudy throughout the day.,rain,0.07,0.0029,0.0097,0.48,rain,41.11,38.47,32.3,0.76,1021.4,0.7,1,37.53,41.11,61.8926,-6.9118
+Denmark,Faroe Islands,3/27/2020,Mostly cloudy throughout the day.,rain,0.11,0.001,0.0032,0.34,rain,39.93,30.65,29.75,0.72,1028.2,0.7,2,33.3,40.15,61.8926,-6.9118
+Denmark,Faroe Islands,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.14,0.0002,0.0008,0.11,snow,34.82,33.29,21.58,0.63,1045.1,0.72,2,30.65,36.44,61.8926,-6.9118
+Denmark,Faroe Islands,3/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.17,0.0,0.0002,0.04,,43.98,38.81,32.81,0.75,1042.6,0.49,2,35.98,43.98,61.8926,-6.9118
+Denmark,Faroe Islands,3/29/2020,Windy overnight.,partly-cloudy-day,0.2,0.0004,0.0009,0.09,rain,44.9,39.75,36.85,0.82,1035.6,0.7,2,38.81,44.9,61.8926,-6.9118
+Denmark,Faroe Islands,3/30/2020,Possible light rain overnight.,wind,0.23,0.0009,0.0027,0.18,rain,42.72,38.15,35.36,0.79,1025.6,0.9,2,39.75,42.72,61.8926,-6.9118
+Denmark,Faroe Islands,3/31/2020,Possible light snow (< 1 in.) overnight.,rain,0.26,0.0037,0.0218,0.59,rain,40.49,28.95,31.72,0.74,1006.3,0.75,2,34.57,42.42,61.8926,-6.9118
+Denmark,Faroe Islands,4/1/2020,Possible light snow (< 1 in.) and dangerously windy in the morning.,snow,0.3,0.0038,0.0152,0.55,snow,33.67,28.09,22.44,0.7,1000.9,0.8,2,28.43,33.79,61.8926,-6.9118
+Denmark,Faroe Islands,4/2/2020,Mostly cloudy throughout the day.,snow,0.34,0.0014,0.0031,0.32,snow,31.61,28.39,18.68,0.64,1009.7,0.69,3,28.09,31.61,61.8926,-6.9118
+Denmark,Faroe Islands,4/3/2020,Light rain (with a chance of 1–2 in. of snow) throughout the day.,rain,0.37,0.0151,0.0357,0.93,rain,38.24,37.25,27.47,0.81,1008.3,0.99,3,28.47,40.32,61.8926,-6.9118
+Denmark,Faroe Islands,4/4/2020,Light rain and dangerously windy throughout the day.,rain,0.41,0.0148,0.036000000000000004,0.97,rain,45.91,42.69,39.18,0.85,998.7,1.0,3,40.01,45.91,61.8926,-6.9118
+Denmark,Faroe Islands,4/5/2020,Light rain in the morning and overnight.,rain,0.45,0.0059,0.0196,0.86,rain,44.08,38.78,36.59,0.81,992.3,0.75,2,38.78,46.1,61.8926,-6.9118
+Denmark,Faroe Islands,4/6/2020,Light rain until evening.,rain,0.49,0.0197,0.053,0.92,rain,43.23,35.42,35.32,0.81,1006.6,0.82,2,37.3,43.23,61.8926,-6.9118
+Denmark,Faroe Islands,4/7/2020,Possible drizzle in the morning.,rain,0.53,0.0029,0.0072,0.57,rain,39.41,32.83,30.4,0.76,1016.6,0.4,3,34.71,39.41,61.8926,-6.9118
+Denmark,Faroe Islands,4/8/2020,Overcast throughout the day.,cloudy,0.57,0.0005,0.0016,0.18,rain,40.33,37.89,30.27,0.78,1026.8,0.89,3,32.83,40.33,61.8926,-6.9118
+Denmark,Faroe Islands,4/9/2020,Possible drizzle in the evening and overnight.,rain,0.61,0.0018,0.0104,0.5,rain,43.47,41.18,36.58,0.85,1021.5,0.8,3,37.89,43.47,61.8926,-6.9118
+Denmark,Faroe Islands,4/10/2020,Light rain throughout the day.,rain,0.64,0.0106,0.0321,0.92,rain,44.81,32.07,42.14,0.95,1007.0,1.0,3,40.22,44.81,61.8926,-6.9118
+Denmark,Faroe Islands,4/11/2020,Mostly cloudy throughout the day.,rain,0.68,0.0011,0.016,0.61,rain,33.79,30.52,25.8,0.73,1022.6,0.89,2,30.99,40.35,61.8926,-6.9118
+Denmark,Faroe Islands,4/12/2020,Possible drizzle and windy overnight.,partly-cloudy-day,0.71,0.0001,0.0004,0.1,rain,41.88,40.89,27.66,0.7,1029.1,0.82,3,30.52,43.26,61.8926,-6.9118
+Denmark,Faroe Islands,4/13/2020,Light rain throughout the day.,rain,0.75,0.0115,0.0236,0.93,rain,45.08,42.48,41.1,0.92,1013.4,1.0,2,41.68,45.08,61.8926,-6.9118
+Denmark,Faroe Islands,4/14/2020,Possible drizzle in the morning.,rain,0.78,0.0039,0.0137,0.7,rain,44.15,37.37,37.4,0.85,1008.7,0.86,3,38.73,44.15,61.8926,-6.9118
+Denmark,Faroe Islands,4/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0003,0.0008,0.14,rain,41.53,39.05,32.24,0.75,1020.2,0.71,3,37.37,41.53,61.8926,-6.9118
+Denmark,Faroe Islands,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0001,0.0003,0.04,rain,45.8,40.03,34.38,0.75,1024.1,0.48,3,39.12,45.8,61.8926,-6.9118
+Denmark,Faroe Islands,4/17/2020,Clear throughout the day.,clear-day,0.87,0.0001,0.0002,0.03,rain,44.9,41.67,36.74,0.8,1023.6,0.3,3,40.03,44.9,61.8926,-6.9118
+Denmark,Faroe Islands,4/18/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0003,0.03,rain,45.84,42.66,39.11,0.84,1024.4,0.2,4,41.67,45.84,61.8926,-6.9118
+Denmark,Faroe Islands,4/19/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0004,0.04,rain,46.93,42.81,39.79,0.84,1028.3,0.02,4,42.66,46.93,61.8926,-6.9118
+Denmark,Faroe Islands,4/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.96,0.0001,0.0004,0.04,rain,47.34,42.52,39.78,0.82,1031.5,0.46,3,42.81,47.34,61.8926,-6.9118

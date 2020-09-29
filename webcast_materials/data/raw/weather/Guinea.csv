@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Guinea,,1/1/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.02,rain,93.69,56.64,20.64,0.14,1012.6,0.04,10,58.36,93.69,9.9456,-9.6966
+Guinea,,1/2/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0004,0.04,rain,92.53,56.74,22.26,0.16,1013.5,0.22,10,56.64,92.53,9.9456,-9.6966
+Guinea,,1/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0001,0.0005,0.03,rain,89.65,54.75,22.59,0.16,1014.5,0.43,8,56.74,89.65,9.9456,-9.6966
+Guinea,,1/4/2020,Clear throughout the day.,clear-day,0.3,0.0002,0.0003,0.06,rain,89.9,50.0,17.6,0.15,1014.8,0.07,10,54.75,89.9,9.9456,-9.6966
+Guinea,,1/5/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.03,rain,90.33,51.08,16.58,0.15,1013.6,0.05,10,50.0,90.33,9.9456,-9.6966
+Guinea,,1/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.36,0.0,0.0,0.0,,92.04,54.42,22.92,0.19,1012.4,0.69,6,51.08,92.04,9.9456,-9.6966
+Guinea,,1/7/2020,Partly cloudy throughout the day.,clear-day,0.4,0.0001,0.0002,0.02,rain,94.98,61.87,32.57,0.23,1011.8,0.28,8,54.42,94.98,9.9456,-9.6966
+Guinea,,1/8/2020,Clear throughout the day.,clear-day,0.43,0.0001,0.0002,0.03,rain,96.61,64.96,40.82,0.28,1012.1,0.09,10,61.87,96.61,9.9456,-9.6966
+Guinea,,1/9/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0,0.0,,96.16,64.82,46.86,0.33,1012.4,0.25,8,64.96,96.16,9.9456,-9.6966
+Guinea,,1/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.0001,0.0004,0.05,rain,98.01,61.57,38.71,0.25,1013.1,0.39,8,64.22,98.01,9.9456,-9.6966
+Guinea,,1/11/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0003,0.01,rain,95.08,61.87,32.38,0.2,1013.8,0.16,8,61.57,95.08,9.9456,-9.6966
+Guinea,,1/12/2020,Partly cloudy throughout the day.,clear-day,0.58,0.0001,0.0003,0.05,rain,96.4,62.2,38.64,0.26,1013.1,0.29,8,61.87,96.4,9.9456,-9.6966
+Guinea,,1/13/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0004,0.02,rain,96.41,61.61,32.1,0.2,1012.2,0.06,10,62.2,96.41,9.9456,-9.6966
+Guinea,,1/14/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,94.26,60.43,27.69,0.17,1011.4,0.07,10,61.61,94.26,9.9456,-9.6966
+Guinea,,1/15/2020,Partly cloudy throughout the day.,clear-day,0.69,0.0,0.0001,0.02,,94.38,62.59,33.57,0.22,1012.4,0.2,9,60.43,94.38,9.9456,-9.6966
+Guinea,,1/16/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.02,,97.89,60.99,36.56,0.25,1013.1,0.19,9,62.59,97.89,9.9456,-9.6966
+Guinea,,1/17/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0004,0.06,rain,97.8,61.3,33.3,0.22,1013.6,0.23,12,60.99,97.8,9.9456,-9.6966
+Guinea,,1/18/2020,Clear throughout the day.,clear-day,0.8,0.0,0.0002,0.03,,98.05,62.33,32.88,0.21,1013.1,0.24,11,61.3,98.05,9.9456,-9.6966
+Guinea,,1/19/2020,Partly cloudy throughout the day.,clear-day,0.83,0.0,0.0002,0.01,,97.69,61.77,30.32,0.19,1012.0,0.22,8,62.33,97.69,9.9456,-9.6966
+Guinea,,1/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0,0.0002,0.02,,99.44,66.01,36.6,0.23,1010.2,0.52,9,61.77,99.44,9.9456,-9.6966
+Guinea,,1/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0013,0.06,rain,99.3,71.69,52.44,0.37,1010.6,0.77,7,66.01,99.3,9.9456,-9.6966
+Guinea,,1/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.93,0.0011,0.0052,0.23,rain,95.25,70.65,59.35,0.46,1012.2,0.87,7,71.69,95.25,9.9456,-9.6966
+Guinea,,1/23/2020,Overcast throughout the day.,partly-cloudy-day,0.97,0.0001,0.0003,0.05,rain,98.23,69.43,48.87,0.33,1011.7,0.83,6,70.65,98.23,9.9456,-9.6966
+Guinea,,1/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,1.0,0.0001,0.0002,0.05,rain,97.16,62.27,28.0,0.14,1012.1,0.62,7,69.43,97.16,9.9456,-9.6966
+Guinea,,1/25/2020,Clear throughout the day.,clear-day,0.03,0.0001,0.0003,0.02,rain,99.1,57.64,18.15,0.11,1012.6,0.16,10,62.27,99.1,9.9456,-9.6966
+Guinea,,1/26/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0004,0.03,rain,98.34,57.74,19.53,0.12,1012.4,0.31,9,57.64,98.34,9.9456,-9.6966
+Guinea,,1/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.09,0.0001,0.0004,0.04,rain,96.79,58.46,19.81,0.13,1011.9,0.67,7,57.74,96.79,9.9456,-9.6966
+Guinea,,1/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.12,0.0001,0.0002,0.05,rain,97.04,58.24,21.35,0.13,1012.2,0.86,6,58.46,97.04,9.9456,-9.6966
+Guinea,,1/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.06,rain,98.71,58.07,18.2,0.12,1012.6,0.36,9,58.24,98.71,9.9456,-9.6966
+Guinea,,1/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.18,0.0001,0.0003,0.04,rain,99.35,61.82,9.83,0.08,1013.4,0.35,10,58.07,99.35,9.9456,-9.6966
+Guinea,,1/31/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0003,0.05,rain,99.61,64.22,13.17,0.09,1012.9,0.61,8,61.82,99.61,9.9456,-9.6966
+Guinea,,2/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.04,rain,100.0,58.91,18.01,0.1,1012.4,0.6,8,64.22,100.0,9.9456,-9.6966
+Guinea,,2/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0,0.0002,0.03,,97.91,60.85,29.26,0.2,1013.4,0.49,10,58.91,97.91,9.9456,-9.6966
+Guinea,,2/3/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0003,0.05,rain,97.94,56.57,17.02,0.11,1013.6,0.19,11,60.85,97.94,9.9456,-9.6966
+Guinea,,2/4/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.05,rain,97.35,55.6,10.29,0.09,1013.5,0.06,12,56.57,97.35,9.9456,-9.6966
+Guinea,,2/5/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.04,rain,96.94,56.59,11.18,0.09,1012.4,0.21,10,55.6,96.94,9.9456,-9.6966
+Guinea,,2/6/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.02,,97.22,56.01,14.13,0.11,1012.1,0.01,11,56.59,97.22,9.9456,-9.6966
+Guinea,,2/7/2020,Clear throughout the day.,clear-day,0.45,0.0001,0.0003,0.03,rain,96.8,57.58,15.54,0.11,1013.1,0.03,10,56.01,96.8,9.9456,-9.6966
+Guinea,,2/8/2020,Clear throughout the day.,clear-day,0.48,0.0001,0.0003,0.02,rain,97.55,56.15,12.06,0.09,1012.9,0.01,11,57.58,97.55,9.9456,-9.6966
+Guinea,,2/9/2020,Clear throughout the day.,clear-day,0.52,0.0001,0.0003,0.03,rain,97.4,59.61,11.47,0.09,1012.6,0.01,12,56.15,97.4,9.9456,-9.6966
+Guinea,,2/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.56,0.0001,0.0004,0.05,rain,97.68,65.0,22.07,0.13,1012.9,0.37,9,59.61,97.68,9.9456,-9.6966
+Guinea,,2/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.6,0.0,0.0002,0.03,,97.49,66.4,37.51,0.22,1013.5,0.39,10,65.0,97.49,9.9456,-9.6966
+Guinea,,2/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.64,0.0001,0.0004,0.05,rain,97.25,63.79,18.29,0.1,1012.6,0.54,9,66.4,97.25,9.9456,-9.6966
+Guinea,,2/13/2020,Clear throughout the day.,partly-cloudy-day,0.67,0.0001,0.0004,0.05,rain,98.86,61.11,20.95,0.12,1011.7,0.37,12,63.79,98.86,9.9456,-9.6966
+Guinea,,2/14/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.05,rain,98.33,56.54,14.73,0.1,1011.0,0.05,12,61.11,98.33,9.9456,-9.6966
+Guinea,,2/15/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.01,rain,98.82,56.42,11.11,0.08,1011.0,0.02,12,56.54,98.82,9.9456,-9.6966
+Guinea,,2/16/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.02,rain,101.6,59.57,17.61,0.1,1011.0,0.03,12,56.42,101.6,9.9456,-9.6966
+Guinea,,2/17/2020,Clear throughout the day.,clear-day,0.82,0.0001,0.0003,0.05,rain,101.15,59.34,23.45,0.14,1011.0,0.1,12,59.57,101.15,9.9456,-9.6966
+Guinea,,2/18/2020,Clear throughout the day.,clear-day,0.85,0.0002,0.0004,0.07,rain,100.59,61.33,37.8,0.28,1011.3,0.01,12,59.34,100.59,9.9456,-9.6966
+Guinea,,2/19/2020,Clear throughout the day.,clear-day,0.88,0.0,0.0001,0.02,,102.39,66.57,44.08,0.32,1009.6,0.01,12,61.33,102.39,9.9456,-9.6966
+Guinea,,2/20/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0004,0.06,rain,103.6,74.27,52.95,0.38,1008.3,0.11,12,66.57,103.6,9.9456,-9.6966
+Guinea,,2/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0003,0.0009,0.13,rain,102.47,76.45,62.2,0.46,1008.6,0.68,10,74.27,102.47,9.9456,-9.6966
+Guinea,,2/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.98,0.0012,0.0094,0.11,rain,104.52,70.72,61.58,0.46,1009.7,0.69,7,76.45,104.52,9.9456,-9.6966
+Guinea,,2/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0004,0.05,rain,102.35,68.99,52.0,0.4,1010.8,0.25,12,70.72,102.35,9.9456,-9.6966
+Guinea,,2/24/2020,Clear throughout the day.,partly-cloudy-day,0.04,0.0001,0.0004,0.04,rain,102.12,68.86,43.1,0.28,1010.4,0.43,12,68.99,102.12,9.9456,-9.6966
+Guinea,,2/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.06,rain,101.42,69.91,34.54,0.22,1010.3,0.49,10,68.86,101.42,9.9456,-9.6966
+Guinea,,2/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0003,0.04,rain,103.7,62.99,23.56,0.12,1009.7,0.23,11,69.91,103.7,9.9456,-9.6966
+Guinea,,2/27/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0004,0.03,rain,103.37,65.29,35.92,0.22,1010.4,0.27,12,62.99,103.37,9.9456,-9.6966
+Guinea,,2/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0001,0.0004,0.04,rain,102.06,65.05,40.57,0.27,1010.9,0.38,8,65.29,102.06,9.9456,-9.6966
+Guinea,,2/29/2020,Clear throughout the day.,clear-day,0.19,0.0001,0.0004,0.03,rain,100.92,62.57,39.22,0.27,1010.4,0.2,12,65.05,100.92,9.9456,-9.6966
+Guinea,,3/1/2020,Clear throughout the day.,clear-day,0.22,0.0001,0.0004,0.05,rain,103.99,65.89,28.66,0.15,1009.8,0.08,12,62.57,103.99,9.9456,-9.6966
+Guinea,,3/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0001,0.0003,0.03,rain,101.77,64.1,39.09,0.27,1011.1,0.42,11,65.89,101.77,9.9456,-9.6966
+Guinea,,3/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0,0.0002,0.01,,102.58,65.76,32.59,0.18,1011.8,0.36,10,64.1,102.58,9.9456,-9.6966
+Guinea,,3/4/2020,Clear throughout the day.,partly-cloudy-day,0.32,0.0,0.0002,0.02,,102.65,64.55,38.16,0.27,1011.7,0.36,11,65.76,102.65,9.9456,-9.6966
+Guinea,,3/5/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0003,0.03,rain,103.78,66.94,39.0,0.25,1011.1,0.12,13,64.55,103.78,9.9456,-9.6966
+Guinea,,3/6/2020,Clear throughout the day.,clear-day,0.39,0.0,0.0002,0.02,,102.97,67.59,45.65,0.34,1010.2,0.19,12,66.94,102.97,9.9456,-9.6966
+Guinea,,3/7/2020,Partly cloudy throughout the day.,clear-day,0.43,0.0,0.0003,0.03,,104.12,69.35,50.25,0.41,1009.4,0.3,11,67.59,104.12,9.9456,-9.6966
+Guinea,,3/8/2020,Clear throughout the day.,clear-day,0.47,0.0002,0.0009,0.09,rain,103.81,72.89,58.41,0.46,1009.9,0.23,12,69.35,103.81,9.9456,-9.6966
+Guinea,,3/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.51,0.0024,0.0123,0.14,rain,104.75,71.5,63.41,0.5,1009.9,0.57,10,72.89,104.75,9.9456,-9.6966
+Guinea,,3/10/2020,Overcast throughout the day.,cloudy,0.55,0.0001,0.0004,0.05,rain,100.75,71.83,60.46,0.49,1010.0,0.91,6,71.5,100.75,9.9456,-9.6966
+Guinea,,3/11/2020,Overcast throughout the day.,cloudy,0.58,0.0003,0.0013,0.1,rain,100.26,67.58,53.86,0.42,1009.5,0.99,6,71.83,100.26,9.9456,-9.6966
+Guinea,,3/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0002,0.0004,0.07,rain,103.72,69.79,35.63,0.19,1009.1,0.56,9,67.58,103.72,9.9456,-9.6966
+Guinea,,3/13/2020,Clear throughout the day.,clear-day,0.66,0.0,0.0,0.0,,102.91,62.36,32.77,0.21,1009.6,0.18,13,69.79,102.91,9.9456,-9.6966
+Guinea,,3/14/2020,Partly cloudy throughout the day.,clear-day,0.7,0.0,0.0,0.0,,102.89,64.53,27.46,0.17,1010.3,0.26,13,62.36,102.89,9.9456,-9.6966
+Guinea,,3/15/2020,Overcast throughout the day.,cloudy,0.73,0.0001,0.0003,0.01,rain,101.81,69.68,38.08,0.24,1009.6,0.93,6,64.53,101.81,9.9456,-9.6966
+Guinea,,3/16/2020,Overcast throughout the day.,cloudy,0.77,0.0,0.0,0.0,,100.88,70.95,45.18,0.29,1008.9,0.92,6,69.68,100.88,9.9456,-9.6966
+Guinea,,3/17/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0001,0.0003,0.06,rain,102.05,75.71,57.41,0.42,1008.7,0.51,12,70.95,102.05,9.9456,-9.6966
+Guinea,,3/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0005,0.0094,0.07,rain,100.92,71.97,61.13,0.47,1010.0,0.37,11,75.71,100.92,9.9456,-9.6966
+Guinea,,3/19/2020,Clear throughout the day.,partly-cloudy-day,0.86,0.0001,0.0003,0.04,rain,101.7,69.62,58.59,0.47,1010.1,0.4,11,71.97,101.7,9.9456,-9.6966
+Guinea,,3/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.89,0.0,0.0002,0.02,,104.6,73.73,54.35,0.42,1009.1,0.54,11,69.62,104.6,9.9456,-9.6966
+Guinea,,3/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.92,0.0006,0.0039,0.07,rain,105.64,73.83,62.27,0.46,1009.1,0.69,9,73.73,105.64,9.9456,-9.6966
+Guinea,,3/22/2020,Possible light rain overnight.,partly-cloudy-day,0.95,0.0051,0.026000000000000002,0.24,rain,102.4,69.51,67.05,0.57,1009.4,0.66,9,73.83,102.4,9.9456,-9.6966
+Guinea,,3/23/2020,Light rain in the morning.,rain,0.98,0.011000000000000001,0.077,0.7,rain,88.97,72.5,68.09,0.71,1012.0,0.99,6,69.51,88.97,9.9456,-9.6966
+Guinea,,3/24/2020,Mostly cloudy throughout the day.,cloudy,0.01,0.0003,0.0059,0.11,rain,97.42,69.99,66.36,0.6,1011.4,0.89,7,72.5,97.42,9.9456,-9.6966
+Guinea,,3/25/2020,Partly cloudy throughout the day.,rain,0.04,0.0028,0.0281,0.41,rain,94.68,72.32,65.74,0.61,1011.2,0.69,11,69.99,94.68,9.9456,-9.6966
+Guinea,,3/26/2020,Possible light rain overnight.,rain,0.07,0.0095,0.0751,0.44,rain,96.39,71.63,68.06,0.62,1009.2,0.52,13,72.32,96.39,9.9456,-9.6966
+Guinea,,3/27/2020,Possible light rain in the morning.,rain,0.11,0.0112,0.0627,0.64,rain,89.52,73.25,69.54,0.72,1010.5,0.89,6,71.63,89.52,9.9456,-9.6966
+Guinea,,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.14,0.0003,0.0025,0.1,rain,96.63,72.72,68.18,0.61,1010.5,0.85,8,73.25,96.63,9.9456,-9.6966
+Guinea,,3/29/2020,Mostly cloudy throughout the day.,rain,0.17,0.0039,0.0181,0.33,rain,92.29,72.86,69.3,0.67,1011.1,0.74,8,72.72,92.29,9.9456,-9.6966
+Guinea,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0015,0.0108,0.16,rain,100.83,74.14,63.54,0.53,1008.8,0.63,11,72.86,100.83,9.9456,-9.6966
+Guinea,,3/31/2020,Clear throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.05,rain,101.87,73.18,58.25,0.41,1008.4,0.39,10,74.14,101.87,9.9456,-9.6966
+Guinea,,4/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0003,0.002,0.05,rain,104.01,73.74,60.96,0.45,1009.6,0.59,10,73.18,104.01,9.9456,-9.6966
+Guinea,,4/2/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0008,0.0041,0.07,rain,103.63,75.23,63.67,0.52,1010.1,0.32,11,73.74,103.63,9.9456,-9.6966
+Guinea,,4/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0002,0.08,rain,104.43,77.77,61.5,0.46,1008.8,0.33,11,75.23,104.43,9.9456,-9.6966
+Guinea,,4/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0002,0.0009,0.06,rain,103.85,77.72,64.46,0.49,1009.5,0.48,10,77.77,103.85,9.9456,-9.6966
+Guinea,,4/5/2020,Humid throughout the day.,partly-cloudy-day,0.41,0.0004,0.0046,0.07,rain,103.07,75.13,66.47,0.5,1010.4,0.37,12,77.72,103.07,9.9456,-9.6966
+Guinea,,4/6/2020,Humid throughout the day.,clear-day,0.45,0.003,0.0115,0.16,rain,101.99,76.17,68.72,0.56,1010.1,0.25,13,75.13,101.99,9.9456,-9.6966
+Guinea,,4/7/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0044,0.0249,0.19,rain,102.43,74.37,70.14,0.6,1010.3,0.72,9,76.17,102.43,9.9456,-9.6966
+Guinea,,4/8/2020,Humid throughout the day.,clear-day,0.53,0.001,0.0061,0.12,rain,103.0,73.63,68.26,0.59,1009.1,0.16,14,74.37,103.0,9.9456,-9.6966
+Guinea,,4/9/2020,Humid throughout the day.,clear-day,0.57,0.0003,0.0015,0.07,rain,99.77,73.38,67.73,0.57,1009.2,0.13,13,73.63,99.77,9.9456,-9.6966
+Guinea,,4/10/2020,Rain in the evening and overnight.,rain,0.61,0.0594,0.276,0.65,rain,99.3,70.35,69.46,0.69,1010.4,0.39,12,72.21,99.3,9.9456,-9.6966
+Guinea,,4/11/2020,Possible light rain overnight.,rain,0.64,0.0057,0.0381,0.63,rain,93.87,71.22,70.07,0.7,1010.9,0.46,10,70.35,93.87,9.9456,-9.6966
+Guinea,,4/12/2020,Possible light rain overnight.,rain,0.68,0.0079,0.0529,0.68,rain,98.14,71.0,69.38,0.7,1011.3,0.51,10,71.22,98.14,9.9456,-9.6966
+Guinea,,4/13/2020,Possible light rain in the morning and overnight.,rain,0.71,0.0086,0.0335,0.68,rain,95.71,72.97,70.08,0.7,1010.6,0.7,11,71.0,95.71,9.9456,-9.6966
+Guinea,,4/14/2020,Possible drizzle in the evening and overnight.,rain,0.75,0.0025,0.0089,0.53,rain,94.09,72.58,70.33,0.69,1010.6,0.66,11,72.97,94.09,9.9456,-9.6966
+Guinea,,4/15/2020,Light rain in the morning and afternoon.,rain,0.78,0.0134,0.0363,0.85,rain,89.82,73.92,71.24,0.73,1011.4,0.75,8,72.58,89.82,9.9456,-9.6966
+Guinea,,4/16/2020,Clear throughout the day.,partly-cloudy-day,0.81,0.0003,0.0049,0.1,rain,98.23,73.78,64.77,0.53,1011.6,0.41,13,73.92,98.23,9.9456,-9.6966
+Guinea,,4/17/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0013,0.0101,0.17,rain,100.69,74.27,63.73,0.5,1009.0,0.39,11,73.78,100.69,9.9456,-9.6966
+Guinea,,4/18/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0026,0.0202,0.18,rain,99.78,74.02,68.21,0.6,1009.8,0.86,9,74.27,99.78,9.9456,-9.6966
+Guinea,,4/19/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0003,0.09,rain,100.24,74.88,66.87,0.58,1011.5,0.57,10,74.02,100.24,9.9456,-9.6966
+Guinea,,4/20/2020,Humid and overcast throughout the day.,rain,0.93,0.0042,0.0288,0.5,rain,92.21,71.51,70.72,0.68,1012.3,0.89,6,74.88,92.21,9.9456,-9.6966
+Guinea,,4/21/2020,Possible drizzle in the morning.,rain,0.96,0.0069,0.0244,0.64,rain,97.41,72.11,69.0,0.65,1010.9,0.81,7,71.51,97.41,9.9456,-9.6966

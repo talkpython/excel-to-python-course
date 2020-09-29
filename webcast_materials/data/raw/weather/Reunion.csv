@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Reunion,,12/31/2019,Foggy overnight.,rain,0.21,0.0075,0.021,0.53,rain,72.84,60.83,65.29,0.99,1006.1,0.32,12,61.82,72.84,-21.1151,55.5364
+Reunion,,1/1/2020,Foggy in the morning and afternoon.,rain,0.24,0.0101,0.0236,0.55,rain,69.45,61.69,64.55,1.0,1011.2,0.85,7,60.83,69.45,-21.1151,55.5364
+Reunion,,1/2/2020,Possible light rain starting in the afternoon.,rain,0.27,0.013999999999999999,0.0493,0.65,rain,67.92,59.13,62.19,0.96,1014.1,0.88,6,59.9,67.92,-21.1151,55.5364
+Reunion,,1/3/2020,Rain throughout the day.,rain,0.3,0.0401,0.1355,0.87,rain,63.58,60.11,61.3,1.0,1012.6,1.0,6,59.09,63.58,-21.1151,55.5364
+Reunion,,1/4/2020,Light rain throughout the day.,rain,0.33,0.0332,0.0795,0.87,rain,66.36,59.54,61.66,1.0,1010.3,1.0,6,59.56,66.36,-21.1151,55.5364
+Reunion,,1/5/2020,Possible light rain in the morning and afternoon.,rain,0.36,0.0079,0.024,0.77,rain,68.53,61.06,64.78,1.0,1010.9,0.89,8,62.6,68.53,-21.1151,55.5364
+Reunion,,1/6/2020,Possible light rain in the afternoon.,rain,0.39,0.0074,0.0273,0.54,rain,70.8,61.79,65.17,1.0,1012.2,0.78,8,61.06,70.8,-21.1151,55.5364
+Reunion,,1/7/2020,Possible drizzle in the morning.,rain,0.43,0.0055,0.0121,0.56,rain,72.04,60.24,64.6,0.98,1012.6,0.9,7,61.4,72.04,-21.1151,55.5364
+Reunion,,1/8/2020,Mostly cloudy throughout the day.,rain,0.46,0.0016,0.0096,0.42,rain,71.48,57.45,62.43,0.96,1012.5,0.74,8,60.07,71.48,-21.1151,55.5364
+Reunion,,1/9/2020,Foggy in the afternoon and evening.,rain,0.5,0.001,0.0029,0.25,rain,69.68,58.48,59.2,0.9,1012.3,0.41,13,57.64,69.68,-21.1151,55.5364
+Reunion,,1/10/2020,Possible light rain in the afternoon and evening.,rain,0.53,0.0143,0.053,0.62,rain,70.58,59.91,62.28,0.96,1012.1,0.48,10,58.48,70.58,-21.1151,55.5364
+Reunion,,1/11/2020,Possible light rain in the afternoon.,rain,0.57,0.0103,0.0442,0.59,rain,71.03,59.52,64.14,0.99,1012.0,0.37,11,59.91,71.03,-21.1151,55.5364
+Reunion,,1/12/2020,Mostly cloudy throughout the day.,rain,0.61,0.006,0.0164,0.56,rain,72.33,60.49,63.12,0.94,1012.5,0.62,7,59.52,72.33,-21.1151,55.5364
+Reunion,,1/13/2020,Possible light rain in the evening.,rain,0.64,0.0051,0.0217,0.51,rain,74.26,62.6,63.65,0.93,1013.3,0.75,7,60.49,74.26,-21.1151,55.5364
+Reunion,,1/14/2020,Mostly cloudy throughout the day.,rain,0.68,0.0057,0.0305,0.49,rain,74.81,62.51,65.73,0.96,1014.7,0.6,9,62.6,74.81,-21.1151,55.5364
+Reunion,,1/15/2020,Possible light rain starting in the afternoon.,rain,0.72,0.0098,0.0247,0.66,rain,73.55,62.05,65.98,0.98,1014.4,0.59,9,62.51,73.55,-21.1151,55.5364
+Reunion,,1/16/2020,Rain until evening.,rain,0.76,0.0279,0.1217,0.84,rain,70.13,62.73,64.91,1.0,1012.6,0.93,7,62.05,70.13,-21.1151,55.5364
+Reunion,,1/17/2020,Overcast throughout the day.,rain,0.79,0.0084,0.0251,0.5,rain,72.47,63.06,65.92,0.98,1011.6,0.97,8,62.73,72.47,-21.1151,55.5364
+Reunion,,1/18/2020,Possible light rain in the afternoon.,rain,0.83,0.0046,0.0161,0.61,rain,73.03,63.18,65.76,0.97,1010.0,0.96,7,63.06,73.03,-21.1151,55.5364
+Reunion,,1/19/2020,Possible light rain in the evening and overnight.,rain,0.86,0.0033,0.0248,0.43,rain,75.07,63.35,65.97,0.95,1007.5,0.92,8,63.18,75.07,-21.1151,55.5364
+Reunion,,1/20/2020,Light rain throughout the day.,rain,0.89,0.0311,0.0741,0.91,rain,69.41,62.23,65.0,1.0,1005.7,1.0,6,63.14,69.41,-21.1151,55.5364
+Reunion,,1/21/2020,Light rain until evening.,rain,0.93,0.0235,0.0752,0.88,rain,70.41,62.67,65.35,1.0,1004.8,0.94,7,62.23,70.41,-21.1151,55.5364
+Reunion,,1/22/2020,Possible light rain in the evening and overnight.,rain,0.96,0.0068,0.0306,0.65,rain,71.6,63.06,66.19,0.99,1005.8,0.89,8,62.67,71.6,-21.1151,55.5364
+Reunion,,1/23/2020,Rain throughout the day.,rain,0.99,0.0576,0.1133,0.94,rain,67.08,62.75,64.87,1.0,1006.6,0.97,7,63.06,67.08,-21.1151,55.5364
+Reunion,,1/24/2020,Possible light rain until evening.,rain,0.03,0.024,0.0472,0.85,rain,65.58,57.49,63.5,1.0,1008.8,0.97,7,59.8,65.58,-21.1151,55.5364
+Reunion,,1/25/2020,Possible drizzle in the evening.,rain,0.06,0.005,0.0149,0.55,rain,68.15,56.94,60.95,0.99,1012.3,0.6,13,57.49,68.15,-21.1151,55.5364
+Reunion,,1/26/2020,Partly cloudy throughout the day.,rain,0.09,0.0022,0.0068,0.46,rain,66.51,55.01,59.47,0.96,1012.4,0.38,12,56.94,66.51,-21.1151,55.5364
+Reunion,,1/27/2020,Partly cloudy throughout the day.,rain,0.12,0.0009,0.0032,0.27,rain,67.24,54.91,57.31,0.91,1010.7,0.48,12,55.01,67.24,-21.1151,55.5364
+Reunion,,1/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.15,0.0009,0.0034,0.21,rain,68.61,56.67,57.36,0.89,1012.5,0.48,12,54.91,68.61,-21.1151,55.5364
+Reunion,,1/29/2020,Partly cloudy throughout the day.,rain,0.18,0.0015,0.0052,0.29,rain,70.09,57.11,60.48,0.94,1014.0,0.5,12,56.67,70.09,-21.1151,55.5364
+Reunion,,1/30/2020,Mostly cloudy throughout the day.,rain,0.21,0.003,0.0167,0.32,rain,71.71,58.74,60.69,0.92,1013.6,0.7,8,57.11,71.71,-21.1151,55.5364
+Reunion,,1/31/2020,Clear throughout the day.,rain,0.24,0.0042,0.0113,0.46,rain,71.24,59.85,62.55,0.96,1014.6,0.33,13,58.74,71.24,-21.1151,55.5364
+Reunion,,2/1/2020,Clear throughout the day.,rain,0.27,0.0026,0.0103,0.34,rain,72.8,61.11,62.75,0.92,1015.3,0.23,13,59.85,72.8,-21.1151,55.5364
+Reunion,,2/2/2020,Clear throughout the day.,rain,0.3,0.0055,0.0101,0.53,rain,72.69,60.87,64.33,0.94,1014.4,0.19,14,61.11,72.69,-21.1151,55.5364
+Reunion,,2/3/2020,Clear throughout the day.,clear-day,0.33,0.0009,0.0027,0.24,rain,73.82,60.59,61.87,0.88,1013.0,0.18,14,60.87,73.82,-21.1151,55.5364
+Reunion,,2/4/2020,Clear throughout the day.,rain,0.37,0.0017,0.0049,0.29,rain,71.94,58.75,62.54,0.94,1012.5,0.24,13,60.59,71.94,-21.1151,55.5364
+Reunion,,2/5/2020,Possible light rain in the afternoon.,rain,0.4,0.0078,0.0358,0.47,rain,70.89,59.22,63.18,0.97,1013.3,0.2,12,58.75,70.89,-21.1151,55.5364
+Reunion,,2/6/2020,Clear throughout the day.,rain,0.44,0.002,0.0063,0.3,rain,71.38,58.57,61.95,0.94,1014.5,0.19,13,59.22,71.38,-21.1151,55.5364
+Reunion,,2/7/2020,Clear throughout the day.,rain,0.48,0.002,0.0051,0.31,rain,71.21,58.8,61.05,0.93,1014.2,0.25,13,58.57,71.21,-21.1151,55.5364
+Reunion,,2/8/2020,Partly cloudy throughout the day.,rain,0.52,0.003,0.0073,0.42,rain,70.92,58.43,61.73,0.95,1013.2,0.42,11,58.8,70.92,-21.1151,55.5364
+Reunion,,2/9/2020,Partly cloudy throughout the day.,rain,0.55,0.0053,0.0191,0.44,rain,71.18,60.93,62.07,0.95,1010.5,0.35,11,58.43,71.18,-21.1151,55.5364
+Reunion,,2/10/2020,Possible light rain in the morning.,rain,0.59,0.0137,0.0249,0.66,rain,69.86,62.52,65.16,1.0,1007.2,0.53,9,60.93,69.86,-21.1151,55.5364
+Reunion,,2/11/2020,Possible light rain in the morning.,rain,0.63,0.0138,0.0431,0.63,rain,72.12,61.26,65.17,0.98,1008.4,0.4,12,62.52,72.12,-21.1151,55.5364
+Reunion,,2/12/2020,Overcast throughout the day.,cloudy,0.67,0.0004,0.0011,0.17,rain,73.46,61.83,62.74,0.9,1012.1,0.93,6,61.26,73.46,-21.1151,55.5364
+Reunion,,2/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0021,0.0088,0.21,rain,74.14,61.87,63.79,0.91,1013.0,0.61,10,61.83,74.14,-21.1151,55.5364
+Reunion,,2/14/2020,Possible light rain in the morning and afternoon.,rain,0.74,0.0268,0.0678,0.63,rain,69.73,62.37,65.11,1.0,1012.9,0.7,7,61.87,69.73,-21.1151,55.5364
+Reunion,,2/15/2020,Mostly cloudy throughout the day.,rain,0.78,0.0032,0.008,0.4,rain,68.63,58.97,64.22,0.99,1014.0,0.79,8,60.94,68.63,-21.1151,55.5364
+Reunion,,2/16/2020,Partly cloudy throughout the day.,rain,0.81,0.0045,0.0189,0.39,rain,69.99,58.91,61.55,0.95,1014.6,0.6,10,58.97,69.99,-21.1151,55.5364
+Reunion,,2/17/2020,Partly cloudy throughout the day.,rain,0.84,0.004,0.0102,0.44,rain,68.79,58.4,62.73,0.99,1014.2,0.41,10,58.91,68.79,-21.1151,55.5364
+Reunion,,2/18/2020,Partly cloudy throughout the day.,rain,0.88,0.0026,0.0061,0.39,rain,68.97,57.48,62.23,0.99,1013.2,0.34,11,58.4,68.97,-21.1151,55.5364
+Reunion,,2/19/2020,Clear throughout the day.,rain,0.91,0.0031,0.0168,0.4,rain,70.4,59.35,60.11,0.93,1012.1,0.29,14,57.48,70.4,-21.1151,55.5364
+Reunion,,2/20/2020,Overcast throughout the day.,rain,0.94,0.0079,0.0186,0.51,rain,65.18,57.57,61.6,0.99,1013.2,0.8,6,59.35,65.18,-21.1151,55.5364
+Reunion,,2/21/2020,Mostly cloudy throughout the day.,rain,0.97,0.0031,0.0077,0.38,rain,67.49,59.3,60.92,0.97,1013.3,0.73,7,57.57,67.49,-21.1151,55.5364
+Reunion,,2/22/2020,Overcast throughout the day.,cloudy,0.0,0.0017,0.0091,0.18,rain,70.57,59.44,60.43,0.91,1011.5,0.92,7,59.3,70.57,-21.1151,55.5364
+Reunion,,2/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.03,0.0006,0.0029,0.2,rain,72.92,60.63,60.39,0.87,1009.2,0.48,11,59.44,72.92,-21.1151,55.5364
+Reunion,,2/24/2020,Possible light rain overnight.,rain,0.06,0.0026,0.0168,0.47,rain,70.81,62.59,63.65,0.95,1008.4,0.93,6,60.63,70.81,-21.1151,55.5364
+Reunion,,2/25/2020,Possible light rain until evening.,rain,0.09,0.0255,0.0741,0.85,rain,71.99,61.54,65.01,0.98,1010.8,0.94,8,62.59,71.99,-21.1151,55.5364
+Reunion,,2/26/2020,Possible light rain until evening.,rain,0.12,0.0222,0.0781,0.71,rain,70.89,62.27,65.05,1.0,1011.2,0.92,6,61.54,70.89,-21.1151,55.5364
+Reunion,,2/27/2020,Partly cloudy throughout the day.,rain,0.15,0.0085,0.0311,0.42,rain,71.62,61.28,64.96,0.98,1009.6,0.64,10,62.24,71.62,-21.1151,55.5364
+Reunion,,2/28/2020,Possible light rain in the afternoon and evening.,rain,0.18,0.0102,0.0398,0.48,rain,71.83,61.88,64.58,0.98,1007.1,0.44,10,61.28,71.83,-21.1151,55.5364
+Reunion,,2/29/2020,Possible light rain in the afternoon and evening.,rain,0.21,0.0123,0.0412,0.61,rain,69.14,62.11,64.88,1.0,1006.1,0.6,10,61.88,69.14,-21.1151,55.5364
+Reunion,,3/1/2020,Possible light rain throughout the day.,rain,0.25,0.0175,0.0663,0.72,rain,72.15,63.31,65.49,0.99,1007.4,0.98,6,62.11,72.15,-21.1151,55.5364
+Reunion,,3/2/2020,Possible light rain throughout the day.,rain,0.28,0.0162,0.0356,0.72,rain,73.18,63.51,66.63,1.0,1008.5,0.94,6,63.31,73.18,-21.1151,55.5364
+Reunion,,3/3/2020,Possible light rain starting in the afternoon.,rain,0.31,0.0204,0.043,0.66,rain,71.31,63.59,66.42,1.0,1008.9,0.68,11,63.51,71.31,-21.1151,55.5364
+Reunion,,3/4/2020,Light rain throughout the day.,rain,0.35,0.0225,0.0582,0.75,rain,70.99,64.37,67.11,1.0,1008.4,0.75,9,63.59,70.99,-21.1151,55.5364
+Reunion,,3/5/2020,Possible light rain throughout the day.,rain,0.38,0.0179,0.0497,0.88,rain,71.23,63.09,67.03,1.0,1009.4,0.85,6,64.37,71.23,-21.1151,55.5364
+Reunion,,3/6/2020,Rain until evening.,rain,0.42,0.0408,0.1253,0.92,rain,67.57,61.42,63.99,1.0,1010.3,0.95,6,62.08,67.57,-21.1151,55.5364
+Reunion,,3/7/2020,Possible light rain overnight.,rain,0.46,0.0059,0.0306,0.61,rain,70.56,60.68,64.59,0.99,1011.0,0.46,10,61.42,70.56,-21.1151,55.5364
+Reunion,,3/8/2020,Light rain throughout the day.,rain,0.5,0.0209,0.0378,0.91,rain,68.48,61.25,63.52,1.0,1010.6,0.74,7,60.68,68.48,-21.1151,55.5364
+Reunion,,3/9/2020,Light rain throughout the day.,rain,0.54,0.0211,0.0383,0.9,rain,70.32,61.94,64.1,0.98,1009.9,0.35,12,61.25,70.32,-21.1151,55.5364
+Reunion,,3/10/2020,Possible light rain in the morning and afternoon.,rain,0.58,0.0168,0.0522,0.82,rain,68.46,62.09,64.8,1.0,1009.4,0.49,9,61.94,68.46,-21.1151,55.5364
+Reunion,,3/11/2020,Light rain starting in the afternoon.,rain,0.62,0.016,0.0481,0.81,rain,71.39,63.18,66.12,1.0,1009.4,0.67,9,62.09,71.39,-21.1151,55.5364
+Reunion,,3/12/2020,Rain throughout the day.,rain,0.65,0.0326,0.1073,0.94,rain,69.5,63.28,65.22,1.0,1010.2,0.98,6,63.18,69.5,-21.1151,55.5364
+Reunion,,3/13/2020,Possible light rain in the morning and afternoon.,rain,0.69,0.0078,0.0235,0.8,rain,68.12,58.55,64.56,1.0,1010.7,0.66,9,62.65,68.12,-21.1151,55.5364
+Reunion,,3/14/2020,Overcast throughout the day.,rain,0.73,0.0022,0.0082,0.28,rain,69.78,58.98,62.92,0.98,1008.8,0.95,6,58.55,69.78,-21.1151,55.5364
+Reunion,,3/15/2020,Overcast throughout the day.,cloudy,0.76,0.001,0.0039,0.24,rain,69.56,60.2,61.88,0.95,1006.4,0.88,6,58.98,69.56,-21.1151,55.5364
+Reunion,,3/16/2020,Foggy in the afternoon.,partly-cloudy-day,0.79,0.0052,0.0146,0.23,rain,70.53,58.88,63.23,0.98,1006.6,0.72,8,60.2,70.53,-21.1151,55.5364
+Reunion,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0023,0.0061,0.24,rain,70.45,58.4,62.13,0.94,1009.2,0.46,10,58.88,70.45,-21.1151,55.5364
+Reunion,,3/18/2020,Foggy in the afternoon.,clear-day,0.86,0.0013,0.0029,0.12,rain,69.51,56.11,59.71,0.9,1011.6,0.23,11,58.4,69.51,-21.1151,55.5364
+Reunion,,3/19/2020,Clear throughout the day.,clear-day,0.89,0.0001,0.0003,0.03,rain,67.81,55.83,55.48,0.83,1013.7,0.15,12,56.11,67.81,-21.1151,55.5364
+Reunion,,3/20/2020,Clear throughout the day.,clear-day,0.92,0.0006,0.0015,0.09,rain,70.42,57.43,58.57,0.91,1015.3,0.24,12,55.83,70.42,-21.1151,55.5364
+Reunion,,3/21/2020,Clear throughout the day.,partly-cloudy-day,0.95,0.0011,0.0025,0.17,rain,71.37,59.14,61.49,0.95,1016.3,0.34,12,57.43,71.37,-21.1151,55.5364
+Reunion,,3/22/2020,Possible light rain starting in the afternoon.,rain,0.98,0.0096,0.0334,0.64,rain,71.51,61.37,63.83,0.98,1016.0,0.35,11,59.14,71.51,-21.1151,55.5364
+Reunion,,3/23/2020,Light rain throughout the day.,rain,0.01,0.0206,0.0563,0.89,rain,69.49,60.35,64.34,1.0,1014.1,0.93,6,61.37,69.49,-21.1151,55.5364
+Reunion,,3/24/2020,Possible light rain in the afternoon.,rain,0.04,0.006999999999999999,0.0294,0.6,rain,68.59,59.62,63.58,0.99,1011.6,0.6,10,60.35,68.59,-21.1151,55.5364
+Reunion,,3/25/2020,Partly cloudy throughout the day.,rain,0.07,0.0034,0.0118,0.29,rain,69.3,58.58,63.13,0.99,1011.8,0.51,10,59.62,69.3,-21.1151,55.5364
+Reunion,,3/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0025,0.005,0.21,rain,70.59,59.5,62.2,0.96,1013.6,0.64,6,58.58,70.59,-21.1151,55.5364
+Reunion,,3/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0019,0.0072,0.15,rain,71.69,60.15,62.43,0.94,1012.4,0.63,9,59.5,71.69,-21.1151,55.5364
+Reunion,,3/28/2020,Mostly cloudy throughout the day.,rain,0.16,0.0038,0.017,0.39,rain,72.48,61.88,64.37,0.97,1009.9,0.67,7,60.15,72.48,-21.1151,55.5364
+Reunion,,3/29/2020,Light rain starting in the afternoon.,rain,0.19,0.0165,0.0514,0.81,rain,71.22,62.79,65.26,0.99,1009.2,0.61,8,61.88,71.22,-21.1151,55.5364
+Reunion,,3/30/2020,Possible light rain until evening.,rain,0.23,0.0285,0.0925,0.85,rain,69.72,61.0,65.24,1.0,1009.6,0.56,9,62.79,69.72,-21.1151,55.5364
+Reunion,,3/31/2020,Foggy in the afternoon and evening.,rain,0.26,0.0027,0.01,0.33,rain,71.69,60.02,64.43,0.99,1009.3,0.31,11,61.0,71.69,-21.1151,55.5364
+Reunion,,4/1/2020,Possible light rain in the afternoon and evening.,rain,0.29,0.0083,0.0404,0.56,rain,70.53,58.1,62.93,0.98,1008.3,0.45,10,60.02,70.53,-21.1151,55.5364
+Reunion,,4/2/2020,Partly cloudy throughout the day.,rain,0.33,0.0076,0.0239,0.55,rain,70.11,59.75,62.45,0.99,1008.7,0.36,9,58.1,70.11,-21.1151,55.5364
+Reunion,,4/3/2020,Partly cloudy throughout the day.,rain,0.37,0.0046,0.0196,0.53,rain,69.89,59.89,62.62,0.97,1010.5,0.41,8,59.75,69.89,-21.1151,55.5364
+Reunion,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0021,0.008,0.24,rain,71.6,58.49,61.67,0.94,1013.4,0.28,10,59.89,71.6,-21.1151,55.5364
+Reunion,,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0009,0.0022,0.15,rain,71.2,58.22,61.08,0.93,1015.4,0.37,8,58.49,71.2,-21.1151,55.5364
+Reunion,,4/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.0021,0.0035,0.24,rain,71.38,59.09,60.33,0.92,1016.7,0.45,8,58.22,71.38,-21.1151,55.5364
+Reunion,,4/7/2020,Possible drizzle in the morning.,rain,0.52,0.0063,0.0126,0.54,rain,68.15,58.25,62.17,0.98,1017.1,0.58,7,59.09,68.15,-21.1151,55.5364
+Reunion,,4/8/2020,Possible light rain in the afternoon and evening.,rain,0.56,0.0116,0.055999999999999994,0.6,rain,72.39,59.24,61.74,0.95,1017.0,0.15,11,58.25,72.39,-21.1151,55.5364
+Reunion,,4/9/2020,Clear throughout the day.,rain,0.6,0.0019,0.0034,0.32,rain,71.07,58.32,62.02,0.95,1016.9,0.31,9,59.24,71.07,-21.1151,55.5364
+Reunion,,4/10/2020,Mostly cloudy throughout the day.,rain,0.64,0.0036,0.0118,0.38,rain,69.62,58.58,60.71,0.95,1017.4,0.57,7,58.32,69.62,-21.1151,55.5364
+Reunion,,4/11/2020,Partly cloudy throughout the day.,rain,0.67,0.0052,0.0128,0.46,rain,69.1,58.12,60.97,0.95,1017.2,0.56,8,58.58,69.1,-21.1151,55.5364
+Reunion,,4/12/2020,Overcast throughout the day.,rain,0.71,0.0043,0.0129,0.44,rain,68.29,58.19,61.25,0.97,1016.9,0.92,5,58.12,68.29,-21.1151,55.5364
+Reunion,,4/13/2020,Clear throughout the day.,rain,0.74,0.0018,0.0061,0.31,rain,70.25,59.67,59.24,0.89,1016.9,0.16,10,58.19,70.25,-21.1151,55.5364
+Reunion,,4/14/2020,Clear throughout the day.,rain,0.77,0.0019,0.0061,0.31,rain,72.6,56.56,59.41,0.88,1018.3,0.16,9,58.55,72.6,-21.1151,55.5364
+Reunion,,4/15/2020,Clear throughout the day.,clear-day,0.81,0.0009,0.0052,0.11,rain,70.86,56.96,55.99,0.81,1017.5,0.13,10,56.56,70.86,-21.1151,55.5364
+Reunion,,4/16/2020,Clear throughout the day.,partly-cloudy-day,0.84,0.002,0.0046,0.24,rain,71.76,57.93,59.76,0.91,1017.1,0.36,9,56.96,71.76,-21.1151,55.5364
+Reunion,,4/17/2020,Foggy overnight.,partly-cloudy-day,0.87,0.0031,0.0094,0.21,rain,68.8,59.36,60.21,0.92,1016.8,0.34,8,57.93,68.8,-21.1151,55.5364
+Reunion,,4/18/2020,Partly cloudy throughout the day.,rain,0.9,0.0025,0.0058,0.35,rain,69.11,56.12,61.55,0.96,1015.8,0.37,8,58.44,69.11,-21.1151,55.5364
+Reunion,,4/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.93,0.0016,0.0045,0.24,rain,65.39,56.63,59.36,0.97,1015.8,0.56,7,56.12,65.39,-21.1151,55.5364
+Reunion,,4/20/2020,Mostly cloudy throughout the day.,rain,0.96,0.0065,0.0156,0.33,rain,65.7,55.42,58.71,0.96,1016.0,0.55,7,56.37,65.7,-21.1151,55.5364

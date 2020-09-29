@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Equatorial Guinea,,12/31/2019,Possible light rain in the afternoon and evening.,rain,0.21,0.0079,0.0462,0.53,rain,85.45,69.94,74.06,0.96,1010.1,0.86,6,70.63,85.45,1.5,10.0
+Equatorial Guinea,,1/1/2020,Possible light rain in the evening.,rain,0.24,0.0151,0.0621,0.49,rain,84.15,70.42,73.96,0.96,1010.6,0.83,8,70.48,84.15,1.5,10.0
+Equatorial Guinea,,1/2/2020,Humid and overcast throughout the day.,rain,0.27,0.0017,0.0055,0.46,rain,86.98,70.17,73.65,0.93,1010.9,0.91,7,70.42,86.98,1.5,10.0
+Equatorial Guinea,,1/3/2020,Humid and overcast throughout the day.,rain,0.3,0.0028,0.0194,0.3,rain,86.15,70.35,72.87,0.89,1011.4,0.94,7,70.17,86.15,1.5,10.0
+Equatorial Guinea,,1/4/2020,Possible light rain in the evening.,rain,0.33,0.0083,0.0299,0.58,rain,86.45,70.61,74.33,0.93,1010.8,0.65,8,70.35,86.45,1.5,10.0
+Equatorial Guinea,,1/5/2020,Possible light rain in the afternoon and evening.,rain,0.36,0.0102,0.0641,0.75,rain,85.31,70.06,74.61,0.94,1009.9,0.91,6,71.46,85.31,1.5,10.0
+Equatorial Guinea,,1/6/2020,Humid and partly cloudy throughout the day.,rain,0.4,0.005,0.0302,0.45,rain,85.77,69.5,73.64,0.91,1010.3,0.59,9,70.23,85.77,1.5,10.0
+Equatorial Guinea,,1/7/2020,Possible light rain in the afternoon.,rain,0.43,0.0082,0.0513,0.56,rain,84.63,69.24,73.52,0.94,1011.4,0.64,9,69.27,84.63,1.5,10.0
+Equatorial Guinea,,1/8/2020,Possible light rain in the afternoon and evening.,rain,0.47,0.0148,0.0672,0.74,rain,83.6,67.77,73.67,0.95,1012.1,0.83,7,69.24,83.6,1.5,10.0
+Equatorial Guinea,,1/9/2020,Possible light rain in the evening.,rain,0.5,0.0089,0.0604,0.63,rain,84.03,66.57,71.46,0.88,1012.6,0.95,6,67.77,84.03,1.5,10.0
+Equatorial Guinea,,1/10/2020,Humid and partly cloudy throughout the day.,rain,0.54,0.0069,0.0441,0.51,rain,85.08,66.8,71.02,0.88,1012.8,0.5,11,66.57,85.08,1.5,10.0
+Equatorial Guinea,,1/11/2020,Humid throughout the day.,rain,0.57,0.006999999999999999,0.0293,0.52,rain,86.06,69.02,71.81,0.89,1012.1,0.37,12,66.8,86.06,1.5,10.0
+Equatorial Guinea,,1/12/2020,Humid and partly cloudy throughout the day.,rain,0.61,0.0067,0.0387,0.46,rain,87.86,70.57,73.74,0.9,1010.5,0.45,8,69.02,87.86,1.5,10.0
+Equatorial Guinea,,1/13/2020,Humid and mostly cloudy throughout the day.,rain,0.65,0.0061,0.0275,0.51,rain,86.74,71.0,74.91,0.94,1009.9,0.61,8,70.57,86.74,1.5,10.0
+Equatorial Guinea,,1/14/2020,Possible light rain in the afternoon and evening.,rain,0.69,0.0137,0.0652,0.72,rain,83.9,70.77,75.22,0.97,1010.0,0.62,8,71.0,83.9,1.5,10.0
+Equatorial Guinea,,1/15/2020,Light rain starting in the afternoon.,rain,0.72,0.01,0.0465,0.82,rain,85.96,70.23,74.8,0.95,1011.2,0.77,8,70.69,85.96,1.5,10.0
+Equatorial Guinea,,1/16/2020,Rain until evening.,rain,0.76,0.0602,0.3805,0.97,rain,79.64,67.36,73.23,0.97,1012.5,0.93,9,70.23,79.64,1.5,10.0
+Equatorial Guinea,,1/17/2020,Humid and mostly cloudy throughout the day.,rain,0.8,0.0051,0.0295,0.48,rain,87.02,67.2,72.31,0.9,1012.9,0.7,8,67.36,87.02,1.5,10.0
+Equatorial Guinea,,1/18/2020,Possible light rain in the afternoon and evening.,rain,0.83,0.0095,0.0451,0.67,rain,85.25,68.82,72.89,0.92,1011.8,0.6,7,67.2,85.25,1.5,10.0
+Equatorial Guinea,,1/19/2020,Possible light rain in the afternoon and evening.,rain,0.87,0.0062,0.0347,0.57,rain,86.64,69.57,73.93,0.92,1010.7,0.61,7,68.82,86.64,1.5,10.0
+Equatorial Guinea,,1/20/2020,Possible light rain in the morning.,rain,0.9,0.009000000000000001,0.0311,0.63,rain,87.17,68.87,74.18,0.92,1011.0,0.74,8,69.57,87.17,1.5,10.0
+Equatorial Guinea,,1/21/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.93,0.0017,0.0077,0.21,rain,89.63,68.66,73.41,0.88,1011.1,0.71,7,68.87,89.63,1.5,10.0
+Equatorial Guinea,,1/22/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0014,0.008,0.19,rain,89.39,69.31,72.72,0.87,1011.0,0.51,10,68.66,89.39,1.5,10.0
+Equatorial Guinea,,1/23/2020,Humid and partly cloudy throughout the day.,rain,1.0,0.0023,0.0155,0.38,rain,88.22,66.55,72.35,0.87,1011.3,0.49,9,69.31,88.22,1.5,10.0
+Equatorial Guinea,,1/24/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0006,0.13,rain,89.5,67.95,70.27,0.83,1011.6,0.46,10,66.55,89.5,1.5,10.0
+Equatorial Guinea,,1/25/2020,Humid throughout the day.,clear-day,0.06,0.0004,0.0044,0.14,rain,89.9,70.85,70.01,0.81,1011.7,0.22,11,67.95,89.9,1.5,10.0
+Equatorial Guinea,,1/26/2020,Humid and mostly cloudy throughout the day.,rain,0.09,0.0076,0.0355,0.34,rain,86.3,70.29,73.79,0.89,1011.2,0.65,9,70.85,86.3,1.5,10.0
+Equatorial Guinea,,1/27/2020,Possible light rain in the afternoon and evening.,rain,0.12,0.0136,0.0814,0.63,rain,85.15,71.13,74.57,0.95,1011.3,0.46,10,70.29,85.15,1.5,10.0
+Equatorial Guinea,,1/28/2020,Possible light rain in the afternoon and evening.,rain,0.15,0.0145,0.0717,0.53,rain,85.58,70.07,74.81,0.94,1011.1,0.59,8,71.13,85.58,1.5,10.0
+Equatorial Guinea,,1/29/2020,Possible light rain in the afternoon and evening.,rain,0.18,0.012,0.0741,0.56,rain,84.95,72.46,74.53,0.93,1012.1,0.73,6,70.07,84.95,1.5,10.0
+Equatorial Guinea,,1/30/2020,Possible light rain until evening.,rain,0.21,0.0213,0.0957,0.64,rain,83.76,69.82,75.54,0.96,1012.5,0.97,7,72.46,83.76,1.5,10.0
+Equatorial Guinea,,1/31/2020,Possible light rain in the afternoon and evening.,rain,0.24,0.0119,0.0419,0.54,rain,86.23,70.44,74.5,0.94,1011.5,0.85,8,69.82,86.23,1.5,10.0
+Equatorial Guinea,,2/1/2020,Rain starting in the afternoon.,rain,0.27,0.0325,0.1781,0.81,rain,84.0,71.25,74.52,0.97,1012.0,0.7,10,70.44,84.0,1.5,10.0
+Equatorial Guinea,,2/2/2020,Possible light rain in the afternoon and evening.,rain,0.31,0.0163,0.0817,0.79,rain,81.56,68.08,73.79,0.94,1012.8,0.98,6,71.25,81.56,1.5,10.0
+Equatorial Guinea,,2/3/2020,Humid and mostly cloudy throughout the day.,rain,0.34,0.0051,0.0396,0.56,rain,85.35,69.6,71.53,0.87,1012.8,0.86,7,68.08,85.35,1.5,10.0
+Equatorial Guinea,,2/4/2020,Possible light rain in the afternoon and evening.,rain,0.37,0.0164,0.0755,0.62,rain,84.22,69.38,73.08,0.93,1011.7,0.82,6,69.6,84.22,1.5,10.0
+Equatorial Guinea,,2/5/2020,Possible light rain starting in the afternoon.,rain,0.41,0.0245,0.0847,0.65,rain,85.33,69.39,73.57,0.92,1011.0,0.7,10,69.38,85.33,1.5,10.0
+Equatorial Guinea,,2/6/2020,Possible light rain in the morning.,rain,0.44,0.0077,0.0289,0.61,rain,84.69,71.7,74.23,0.94,1010.6,0.98,6,69.39,84.69,1.5,10.0
+Equatorial Guinea,,2/7/2020,Possible light rain in the afternoon and evening.,rain,0.48,0.0174,0.0717,0.62,rain,85.37,71.15,75.27,0.96,1010.9,1.0,6,71.7,85.37,1.5,10.0
+Equatorial Guinea,,2/8/2020,Light rain in the afternoon and evening.,rain,0.52,0.0129,0.0379,0.76,rain,85.02,69.68,74.68,0.95,1011.9,0.89,8,71.15,85.02,1.5,10.0
+Equatorial Guinea,,2/9/2020,Possible light rain in the afternoon and evening.,rain,0.56,0.0141,0.0579,0.56,rain,87.16,69.67,73.68,0.92,1011.8,0.45,12,69.68,87.16,1.5,10.0
+Equatorial Guinea,,2/10/2020,Humid and mostly cloudy throughout the day.,rain,0.6,0.0075,0.0368,0.39,rain,86.1,71.15,73.32,0.91,1011.3,0.64,10,69.67,86.1,1.5,10.0
+Equatorial Guinea,,2/11/2020,Possible light rain in the afternoon and evening.,rain,0.64,0.0183,0.0908,0.7,rain,82.26,68.5,74.12,0.97,1011.3,0.93,6,71.15,82.26,1.5,10.0
+Equatorial Guinea,,2/12/2020,Possible light rain in the afternoon and evening.,rain,0.67,0.0081,0.0455,0.49,rain,85.56,68.36,73.23,0.94,1010.9,0.43,11,68.5,85.56,1.5,10.0
+Equatorial Guinea,,2/13/2020,Humid and partly cloudy throughout the day.,rain,0.71,0.0035,0.0201,0.26,rain,87.11,68.67,72.49,0.87,1009.4,0.31,11,68.36,87.11,1.5,10.0
+Equatorial Guinea,,2/14/2020,Humid and partly cloudy throughout the day.,rain,0.75,0.005,0.0253,0.31,rain,87.4,70.66,73.98,0.92,1009.0,0.46,8,68.67,87.4,1.5,10.0
+Equatorial Guinea,,2/15/2020,Possible light rain in the afternoon and evening.,rain,0.78,0.0114,0.0564,0.53,rain,86.58,71.93,74.55,0.94,1010.1,0.74,9,70.66,86.58,1.5,10.0
+Equatorial Guinea,,2/16/2020,Possible light rain until evening.,rain,0.81,0.0131,0.040999999999999995,0.67,rain,81.35,68.04,75.32,0.99,1011.1,0.99,6,71.93,81.35,1.5,10.0
+Equatorial Guinea,,2/17/2020,Possible light rain in the afternoon and evening.,rain,0.85,0.0218,0.0874,0.58,rain,84.15,69.29,73.53,0.95,1011.4,0.66,10,68.04,84.15,1.5,10.0
+Equatorial Guinea,,2/18/2020,Humid and mostly cloudy throughout the day.,rain,0.88,0.005,0.0169,0.42,rain,87.39,69.98,73.01,0.89,1010.2,0.69,10,69.29,87.39,1.5,10.0
+Equatorial Guinea,,2/19/2020,Possible light rain in the evening and overnight.,rain,0.91,0.027000000000000003,0.0754,0.58,rain,86.2,71.61,75.16,0.94,1008.3,0.94,7,69.98,86.2,1.5,10.0
+Equatorial Guinea,,2/20/2020,Rain in the morning and afternoon.,rain,0.94,0.0348,0.1358,0.8,rain,83.96,69.82,74.06,0.95,1008.5,0.86,7,71.61,83.96,1.5,10.0
+Equatorial Guinea,,2/21/2020,Possible light rain in the afternoon.,rain,0.97,0.0127,0.0646,0.59,rain,83.49,72.28,74.41,0.95,1009.0,0.89,6,69.82,83.49,1.5,10.0
+Equatorial Guinea,,2/22/2020,Humid throughout the day.,rain,0.01,0.0072,0.0291,0.44,rain,84.87,70.61,75.71,0.95,1010.4,0.82,8,72.28,84.87,1.5,10.0
+Equatorial Guinea,,2/23/2020,Rain in the afternoon and evening.,rain,0.04,0.032,0.1752,0.57,rain,86.26,70.35,75.35,0.95,1010.5,0.71,11,70.61,86.26,1.5,10.0
+Equatorial Guinea,,2/24/2020,Possible light rain in the afternoon and evening.,rain,0.07,0.0212,0.0982,0.55,rain,86.92,71.1,74.74,0.95,1009.5,0.64,8,70.35,86.92,1.5,10.0
+Equatorial Guinea,,2/25/2020,Rain and humid throughout the day.,rain,0.1,0.0511,0.2158,0.9,rain,79.84,68.2,74.24,0.99,1009.9,0.91,6,71.1,79.84,1.5,10.0
+Equatorial Guinea,,2/26/2020,Humid and partly cloudy throughout the day.,rain,0.13,0.0025,0.038,0.37,rain,88.55,70.87,72.1,0.86,1010.0,0.68,11,68.2,88.55,1.5,10.0
+Equatorial Guinea,,2/27/2020,Humid and overcast throughout the day.,rain,0.16,0.0047,0.0433,0.35,rain,86.01,72.56,74.33,0.93,1010.5,0.92,6,70.87,86.01,1.5,10.0
+Equatorial Guinea,,2/28/2020,Possible light rain in the afternoon and evening.,rain,0.19,0.0126,0.0866,0.54,rain,84.83,70.96,75.57,0.96,1010.2,0.85,7,72.56,84.83,1.5,10.0
+Equatorial Guinea,,2/29/2020,Possible light rain in the afternoon.,rain,0.22,0.0078,0.0447,0.48,rain,87.37,71.06,74.43,0.91,1010.6,0.67,14,70.96,87.37,1.5,10.0
+Equatorial Guinea,,3/1/2020,Possible light rain in the evening.,rain,0.25,0.0088,0.0679,0.44,rain,88.2,71.07,74.39,0.9,1011.5,0.9,7,71.06,88.2,1.5,10.0
+Equatorial Guinea,,3/2/2020,Possible light rain in the afternoon and evening.,rain,0.28,0.0109,0.0848,0.47,rain,87.39,72.05,75.62,0.93,1012.4,0.95,7,71.07,87.39,1.5,10.0
+Equatorial Guinea,,3/3/2020,Rain until evening.,rain,0.32,0.0343,0.1468,0.72,rain,86.53,71.1,75.56,0.95,1011.9,0.89,8,72.05,86.53,1.5,10.0
+Equatorial Guinea,,3/4/2020,Possible light rain in the afternoon and evening.,rain,0.35,0.0157,0.0604,0.48,rain,87.41,72.68,75.51,0.92,1010.4,0.78,11,71.1,87.41,1.5,10.0
+Equatorial Guinea,,3/5/2020,Heavy rain until evening.,rain,0.39,0.0892,0.4416,0.86,rain,82.96,70.23,75.41,0.99,1009.6,0.79,6,71.46,82.96,1.5,10.0
+Equatorial Guinea,,3/6/2020,Light rain until evening.,rain,0.43,0.013999999999999999,0.0559,0.77,rain,80.36,68.35,73.74,0.98,1010.5,0.98,6,70.23,80.36,1.5,10.0
+Equatorial Guinea,,3/7/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.0025,0.0183,0.23,rain,87.14,67.9,73.3,0.9,1010.4,0.71,7,68.35,87.14,1.5,10.0
+Equatorial Guinea,,3/8/2020,Humid throughout the day.,rain,0.5,0.0106,0.0702,0.4,rain,89.2,71.16,72.48,0.86,1009.7,0.33,13,67.9,89.2,1.5,10.0
+Equatorial Guinea,,3/9/2020,Rain in the afternoon and evening.,rain,0.54,0.0261,0.1443,0.58,rain,88.45,72.84,75.36,0.92,1008.7,0.68,13,71.16,88.45,1.5,10.0
+Equatorial Guinea,,3/10/2020,Possible light rain until evening.,rain,0.58,0.0146,0.0835,0.77,rain,84.52,71.45,76.11,0.96,1009.2,0.99,5,72.84,84.52,1.5,10.0
+Equatorial Guinea,,3/11/2020,Humid and overcast throughout the day.,rain,0.62,0.0044,0.0166,0.51,rain,88.38,70.52,74.62,0.89,1009.5,0.99,6,71.45,88.38,1.5,10.0
+Equatorial Guinea,,3/12/2020,Light rain starting in the afternoon.,rain,0.66,0.0271,0.0713,0.7,rain,86.55,70.32,75.47,0.94,1009.4,0.99,6,70.52,86.55,1.5,10.0
+Equatorial Guinea,,3/13/2020,Rain and humid throughout the day.,rain,0.69,0.0313,0.0992,0.93,rain,86.19,70.75,75.13,0.95,1009.8,0.69,13,70.32,86.19,1.5,10.0
+Equatorial Guinea,,3/14/2020,Rain until evening.,rain,0.73,0.0301,0.1007,0.8,rain,85.32,70.97,75.96,0.98,1009.6,0.69,6,70.75,85.32,1.5,10.0
+Equatorial Guinea,,3/15/2020,Rain starting in the afternoon.,rain,0.76,0.0261,0.125,0.79,rain,85.35,71.59,75.33,0.97,1009.3,0.81,7,70.97,85.35,1.5,10.0
+Equatorial Guinea,,3/16/2020,Light rain until evening.,rain,0.8,0.0304,0.0757,0.77,rain,86.23,72.15,75.47,0.95,1009.3,0.96,7,71.59,86.23,1.5,10.0
+Equatorial Guinea,,3/17/2020,Rain in the afternoon and evening.,rain,0.83,0.0246,0.1068,0.75,rain,81.69,71.58,75.28,0.98,1009.9,1.0,5,71.75,81.69,1.5,10.0
+Equatorial Guinea,,3/18/2020,Possible light rain in the afternoon and evening.,rain,0.86,0.0062,0.0237,0.62,rain,85.92,71.18,74.52,0.95,1010.4,0.99,6,71.58,85.92,1.5,10.0
+Equatorial Guinea,,3/19/2020,Heavy rain until evening.,rain,0.89,0.0705,0.5703,0.94,rain,79.91,67.2,72.38,0.99,1011.7,1.0,6,69.09,79.91,1.5,10.0
+Equatorial Guinea,,3/20/2020,Humid and overcast throughout the day.,rain,0.92,0.0014,0.0093,0.29,rain,89.22,69.82,70.87,0.86,1010.1,0.94,6,67.2,89.22,1.5,10.0
+Equatorial Guinea,,3/21/2020,Possible drizzle overnight.,rain,0.95,0.0019,0.0085,0.38,rain,87.54,70.57,73.15,0.93,1010.1,0.83,6,69.82,87.54,1.5,10.0
+Equatorial Guinea,,3/22/2020,Light rain until evening.,rain,0.98,0.0141,0.0528,0.86,rain,84.86,69.54,74.84,0.97,1010.4,0.81,9,70.57,84.86,1.5,10.0
+Equatorial Guinea,,3/23/2020,Rain and humid throughout the day.,rain,0.01,0.0301,0.1031,0.98,rain,83.91,67.74,74.37,0.97,1010.1,0.76,10,69.54,83.91,1.5,10.0
+Equatorial Guinea,,3/24/2020,Rain until evening.,rain,0.04,0.0303,0.1706,0.99,rain,80.74,67.86,72.33,0.99,1011.0,1.0,6,67.74,80.74,1.5,10.0
+Equatorial Guinea,,3/25/2020,Possible light rain in the afternoon and evening.,rain,0.07,0.004,0.0304,0.51,rain,86.29,68.94,72.54,0.91,1010.4,0.98,6,67.86,86.29,1.5,10.0
+Equatorial Guinea,,3/26/2020,Humid and overcast throughout the day.,cloudy,0.1,0.0019,0.0186,0.21,rain,93.63,72.18,73.14,0.84,1009.9,0.88,6,68.94,93.63,1.5,10.0
+Equatorial Guinea,,3/27/2020,Rain until evening.,rain,0.13,0.0367,0.1252,0.74,rain,87.64,72.12,76.57,0.96,1010.2,0.62,11,72.18,87.64,1.5,10.0
+Equatorial Guinea,,3/28/2020,Rain in the afternoon and evening.,rain,0.17,0.0437,0.1924,0.79,rain,88.0,70.54,76.78,0.97,1009.6,0.81,10,72.12,88.0,1.5,10.0
+Equatorial Guinea,,3/29/2020,Humid and overcast throughout the day.,rain,0.2,0.0029,0.0143,0.51,rain,85.27,69.86,74.34,0.93,1009.0,0.88,6,70.54,85.27,1.5,10.0
+Equatorial Guinea,,3/30/2020,Rain and humid throughout the day.,rain,0.23,0.0253,0.0942,0.78,rain,88.44,71.19,74.37,0.9,1008.7,0.75,9,69.86,88.44,1.5,10.0
+Equatorial Guinea,,3/31/2020,Rain and humid throughout the day.,rain,0.26,0.0601,0.2655,0.95,rain,85.08,68.54,74.45,0.97,1010.3,0.95,8,71.19,85.08,1.5,10.0
+Equatorial Guinea,,4/1/2020,Humid and mostly cloudy throughout the day.,rain,0.3,0.0067,0.0308,0.59,rain,87.36,71.16,74.04,0.92,1009.6,0.81,9,68.54,87.36,1.5,10.0
+Equatorial Guinea,,4/2/2020,Rain and humid throughout the day.,rain,0.34,0.0282,0.1543,0.91,rain,86.96,70.94,75.55,0.97,1009.8,0.98,6,71.16,86.96,1.5,10.0
+Equatorial Guinea,,4/3/2020,Rain in the morning and afternoon.,rain,0.37,0.0991,0.3326,0.99,rain,77.36,68.03,72.14,0.95,1011.8,1.0,5,70.94,77.36,1.5,10.0
+Equatorial Guinea,,4/4/2020,Possible light rain in the evening and overnight.,rain,0.41,0.0052,0.0418,0.44,rain,91.68,71.51,72.37,0.85,1011.3,0.76,9,68.03,91.68,1.5,10.0
+Equatorial Guinea,,4/5/2020,Light rain in the morning and afternoon.,rain,0.45,0.0142,0.0491,0.85,rain,85.32,68.59,74.81,0.94,1011.7,0.94,5,71.51,85.32,1.5,10.0
+Equatorial Guinea,,4/6/2020,Rain in the afternoon and evening.,rain,0.49,0.0171,0.1407,0.57,rain,86.51,70.15,74.39,0.94,1010.9,0.97,6,68.59,86.51,1.5,10.0
+Equatorial Guinea,,4/7/2020,Light rain until evening.,rain,0.53,0.0139,0.0883,0.84,rain,84.88,69.64,75.05,0.97,1009.8,0.98,6,70.15,84.88,1.5,10.0
+Equatorial Guinea,,4/8/2020,Possible light rain in the morning.,rain,0.57,0.0093,0.0541,0.67,rain,84.62,70.01,73.41,0.92,1009.9,0.83,6,69.64,84.62,1.5,10.0
+Equatorial Guinea,,4/9/2020,Light rain starting in the afternoon.,rain,0.61,0.0164,0.0458,0.78,rain,85.02,71.02,74.34,0.92,1009.9,0.41,12,70.01,85.02,1.5,10.0
+Equatorial Guinea,,4/10/2020,Light rain until evening.,rain,0.64,0.0136,0.0375,0.95,rain,81.1,67.07,73.36,0.98,1011.2,1.0,5,70.06,81.1,1.5,10.0
+Equatorial Guinea,,4/11/2020,Rain in the evening and overnight.,rain,0.68,0.0358,0.3411,0.7,rain,88.62,68.45,70.55,0.83,1011.3,0.78,11,67.07,88.62,1.5,10.0
+Equatorial Guinea,,4/12/2020,Light rain until evening.,rain,0.71,0.0265,0.0894,0.87,rain,85.0,70.08,73.91,0.95,1011.0,0.97,7,68.45,85.0,1.5,10.0
+Equatorial Guinea,,4/13/2020,Light rain starting in the afternoon.,rain,0.75,0.013999999999999999,0.055999999999999994,0.81,rain,85.88,71.05,74.98,0.96,1010.1,0.9,6,70.08,85.88,1.5,10.0
+Equatorial Guinea,,4/14/2020,Rain and humid throughout the day.,rain,0.78,0.055999999999999994,0.2332,0.96,rain,85.68,72.61,75.8,0.97,1009.5,0.99,6,71.05,85.68,1.5,10.0
+Equatorial Guinea,,4/15/2020,Light rain and humid throughout the day.,rain,0.81,0.0295,0.0782,0.97,rain,84.09,70.72,76.26,0.99,1009.5,1.0,6,72.61,84.09,1.5,10.0
+Equatorial Guinea,,4/16/2020,Rain until evening.,rain,0.84,0.0161,0.1033,0.87,rain,85.35,68.68,73.64,0.95,1010.1,0.99,6,70.72,85.35,1.5,10.0
+Equatorial Guinea,,4/17/2020,Light rain starting in the afternoon.,rain,0.87,0.0079,0.0304,0.74,rain,85.16,70.77,72.33,0.9,1011.3,0.97,7,68.68,85.16,1.5,10.0
+Equatorial Guinea,,4/18/2020,Possible light rain and humid throughout the day.,rain,0.9,0.0053,0.0312,0.87,rain,81.43,70.48,73.48,0.98,1012.8,0.91,5,70.77,81.43,1.5,10.0
+Equatorial Guinea,,4/19/2020,Rain in the morning and afternoon.,rain,0.93,0.0414,0.2712,0.91,rain,76.42,66.66,71.65,0.98,1013.0,0.95,5,68.59,76.42,1.5,10.0
+Equatorial Guinea,,4/20/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.96,0.0002,0.001,0.22,rain,87.08,70.62,70.38,0.85,1011.1,0.77,6,66.66,87.08,1.5,10.0

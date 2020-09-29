@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Bhutan,,12/31/2019,Overcast throughout the day.,partly-cloudy-day,0.2,0.0001,0.0002,0.05,rain,52.29,30.53,9.78,0.36,1022.8,0.72,4,26.39,52.29,27.5142,90.4336
+Bhutan,,1/1/2020,Mostly cloudy throughout the day.,rain,0.23,0.0013,0.0045,0.29,rain,49.88,30.48,25.83,0.62,1023.1,0.89,4,30.53,49.88,27.5142,90.4336
+Bhutan,,1/2/2020,Possible drizzle in the afternoon.,rain,0.26,0.005,0.0162,0.58,rain,46.09,30.78,30.87,0.77,1019.7,0.95,3,30.48,46.09,27.5142,90.4336
+Bhutan,,1/3/2020,Possible light rain in the morning and afternoon.,rain,0.29,0.0119,0.0195,0.71,rain,45.23,28.12,30.16,0.78,1015.2,0.98,3,30.78,45.23,27.5142,90.4336
+Bhutan,,1/4/2020,Foggy until evening.,rain,0.32,0.008,0.0208,0.39,rain,40.88,22.9,22.81,0.68,1015.3,0.81,4,25.4,40.88,27.5142,90.4336
+Bhutan,,1/5/2020,Clear throughout the day.,partly-cloudy-day,0.36,0.0,0.0002,0.01,,54.75,26.9,8.2,0.34,1018.2,0.32,5,24.66,54.75,27.5142,90.4336
+Bhutan,,1/6/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.39,0.0009,0.0053,0.16,rain,53.42,30.54,22.33,0.55,1016.4,0.62,5,26.59,53.42,27.5142,90.4336
+Bhutan,,1/7/2020,"Foggy until morning, starting again in the evening.",rain,0.42,0.0072,0.0154,0.39,rain,51.59,33.61,30.58,0.72,1017.1,0.63,5,30.54,51.59,27.5142,90.4336
+Bhutan,,1/8/2020,Foggy until evening.,rain,0.46,0.006999999999999999,0.0219,0.45,rain,50.86,26.05,28.28,0.67,1016.3,0.85,5,33.17,50.86,27.5142,90.4336
+Bhutan,,1/9/2020,Foggy in the evening.,clear-day,0.49,0.0005,0.0031,0.08,rain,53.3,25.77,21.45,0.56,1015.8,0.22,6,26.05,53.3,27.5142,90.4336
+Bhutan,,1/10/2020,Clear throughout the day.,clear-day,0.53,0.0001,0.0003,0.03,rain,57.77,30.16,16.17,0.42,1017.0,0.03,6,25.89,57.77,27.5142,90.4336
+Bhutan,,1/11/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0003,0.05,rain,62.46,29.41,16.78,0.37,1015.2,0.03,6,30.16,62.46,27.5142,90.4336
+Bhutan,,1/12/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0003,0.06,rain,60.39,30.11,24.77,0.5,1013.0,0.16,6,30.47,60.39,27.5142,90.4336
+Bhutan,,1/13/2020,Clear throughout the day.,partly-cloudy-day,0.64,0.0,0.0002,0.05,,59.1,31.62,27.83,0.58,1013.7,0.39,6,30.11,59.1,27.5142,90.4336
+Bhutan,,1/14/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.68,0.0,0.0001,0.04,,58.63,32.33,27.86,0.57,1015.4,0.43,6,33.09,58.63,27.5142,90.4336
+Bhutan,,1/15/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.06,,59.74,30.81,27.15,0.55,1016.1,0.3,6,31.97,59.74,27.5142,90.4336
+Bhutan,,1/16/2020,Foggy starting in the afternoon.,rain,0.75,0.0049,0.015,0.34,rain,53.43,36.97,31.31,0.69,1016.0,0.5,6,30.81,53.43,27.5142,90.4336
+Bhutan,,1/17/2020,Partly cloudy throughout the day.,rain,0.79,0.0023,0.019,0.29,rain,56.0,29.3,31.43,0.65,1016.7,0.58,6,35.39,56.0,27.5142,90.4336
+Bhutan,,1/18/2020,Foggy in the evening.,partly-cloudy-day,0.82,0.0043,0.0179,0.22,rain,50.53,26.29,23.34,0.57,1016.0,0.43,5,29.3,50.53,27.5142,90.4336
+Bhutan,,1/19/2020,Foggy in the afternoon and evening.,clear-day,0.86,0.0006,0.0022,0.15,rain,52.01,29.44,21.37,0.55,1016.5,0.31,6,26.29,52.01,27.5142,90.4336
+Bhutan,,1/20/2020,Foggy in the evening.,partly-cloudy-day,0.89,0.0005,0.0023,0.11,rain,53.45,31.08,21.86,0.53,1017.6,0.42,5,29.44,53.45,27.5142,90.4336
+Bhutan,,1/21/2020,Foggy in the evening.,partly-cloudy-day,0.93,0.0001,0.0005,0.09,rain,54.16,27.26,24.73,0.57,1016.9,0.37,6,31.08,54.16,27.5142,90.4336
+Bhutan,,1/22/2020,Foggy in the afternoon and evening.,partly-cloudy-day,0.96,0.0029,0.0089,0.19,rain,46.16,25.94,23.64,0.62,1013.7,0.75,5,27.26,46.16,27.5142,90.4336
+Bhutan,,1/23/2020,Clear throughout the day.,partly-cloudy-day,0.99,0.0006,0.0023,0.11,rain,51.84,23.92,17.09,0.47,1015.1,0.32,5,25.94,51.84,27.5142,90.4336
+Bhutan,,1/24/2020,Clear throughout the day.,clear-day,0.02,0.0,0.0002,0.01,,54.48,24.26,-0.01,0.27,1015.3,0.07,6,23.92,54.48,27.5142,90.4336
+Bhutan,,1/25/2020,Foggy starting in the afternoon.,rain,0.05,0.0052,0.025,0.27,rain,49.22,24.06,18.24,0.53,1012.5,0.3,6,24.26,49.22,27.5142,90.4336
+Bhutan,,1/26/2020,Foggy in the afternoon and evening.,rain,0.09,0.0075,0.0186,0.41,rain,46.22,25.9,24.3,0.66,1011.3,0.73,6,24.06,46.22,27.5142,90.4336
+Bhutan,,1/27/2020,Foggy in the evening and overnight.,rain,0.12,0.0035,0.0102,0.45,rain,46.06,27.96,26.8,0.7,1012.5,0.89,5,25.9,46.06,27.5142,90.4336
+Bhutan,,1/28/2020,Foggy starting in the afternoon.,partly-cloudy-day,0.15,0.0017,0.0089,0.23,rain,53.05,26.38,27.33,0.66,1015.1,0.74,6,27.96,53.05,27.5142,90.4336
+Bhutan,,1/29/2020,Foggy in the afternoon and evening.,rain,0.18,0.0076,0.0151,0.36,rain,48.02,25.61,28.35,0.72,1014.0,0.83,6,26.38,48.02,27.5142,90.4336
+Bhutan,,1/30/2020,Foggy starting in the afternoon.,rain,0.21,0.0033,0.0106,0.27,rain,50.35,29.2,27.06,0.67,1013.5,0.65,6,25.61,50.35,27.5142,90.4336
+Bhutan,,1/31/2020,Clear throughout the day.,rain,0.24,0.0046,0.008,0.33,rain,52.08,24.82,27.43,0.66,1015.2,0.56,7,29.2,52.08,27.5142,90.4336
+Bhutan,,2/1/2020,Foggy in the afternoon and evening.,partly-cloudy-day,0.27,0.0034,0.0122,0.22,rain,49.82,23.83,23.62,0.63,1015.9,0.49,7,24.82,49.82,27.5142,90.4336
+Bhutan,,2/2/2020,Foggy in the afternoon and evening.,rain,0.3,0.0029,0.0127,0.26,rain,47.54,27.11,22.46,0.59,1016.9,0.31,7,23.83,47.54,27.5142,90.4336
+Bhutan,,2/3/2020,Foggy starting in the afternoon.,rain,0.33,0.0047,0.0108,0.25,rain,47.84,28.16,26.61,0.65,1015.6,0.67,6,27.11,47.84,27.5142,90.4336
+Bhutan,,2/4/2020,Foggy in the afternoon and evening.,rain,0.37,0.011000000000000001,0.0187,0.38,rain,45.0,23.62,27.67,0.74,1013.8,0.9,5,28.16,45.0,27.5142,90.4336
+Bhutan,,2/5/2020,Foggy in the evening.,partly-cloudy-day,0.4,0.0056,0.0221,0.24,rain,47.34,24.16,23.24,0.62,1015.0,0.57,7,23.62,47.34,27.5142,90.4336
+Bhutan,,2/6/2020,Foggy in the afternoon and evening.,partly-cloudy-day,0.44,0.0025,0.0114,0.16,rain,52.96,26.27,23.37,0.6,1017.0,0.36,7,24.16,52.96,27.5142,90.4336
+Bhutan,,2/7/2020,Clear throughout the day.,clear-day,0.47,0.0016,0.0062,0.12,rain,52.88,22.87,22.79,0.59,1018.9,0.26,7,26.27,52.88,27.5142,90.4336
+Bhutan,,2/8/2020,Clear throughout the day.,clear-day,0.51,0.0011,0.0026,0.08,rain,51.2,24.57,18.65,0.53,1019.9,0.16,7,22.87,51.2,27.5142,90.4336
+Bhutan,,2/9/2020,Foggy in the evening.,clear-day,0.55,0.0017,0.0099,0.13,rain,54.99,26.91,16.42,0.45,1017.2,0.24,7,24.57,54.99,27.5142,90.4336
+Bhutan,,2/10/2020,Foggy in the evening.,partly-cloudy-day,0.59,0.0004,0.0047,0.09,rain,55.39,30.02,27.55,0.62,1016.7,0.39,8,26.91,55.39,27.5142,90.4336
+Bhutan,,2/11/2020,Foggy in the evening.,partly-cloudy-day,0.63,0.0001,0.0008,0.09,rain,60.31,31.49,30.71,0.62,1015.3,0.44,8,30.02,60.31,27.5142,90.4336
+Bhutan,,2/12/2020,Clear throughout the day.,partly-cloudy-day,0.67,0.0001,0.0003,0.05,rain,62.26,34.19,29.91,0.57,1012.4,0.35,8,31.49,62.26,27.5142,90.4336
+Bhutan,,2/13/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.7,0.0011,0.0043,0.14,rain,52.12,34.38,33.57,0.71,1008.4,0.87,5,34.19,52.12,27.5142,90.4336
+Bhutan,,2/14/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.74,0.0008,0.0028,0.2,rain,55.62,34.75,35.14,0.72,1011.8,0.84,6,34.38,55.62,27.5142,90.4336
+Bhutan,,2/15/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.77,0.0009,0.0045,0.16,rain,59.16,37.68,35.51,0.69,1014.9,0.62,7,34.75,59.16,27.5142,90.4336
+Bhutan,,2/16/2020,Foggy in the evening and overnight.,rain,0.81,0.0058,0.0193,0.44,rain,55.3,35.93,37.31,0.75,1014.8,0.83,7,37.68,55.3,27.5142,90.4336
+Bhutan,,2/17/2020,Foggy in the evening.,rain,0.84,0.0052,0.0117,0.48,rain,58.9,36.99,36.85,0.73,1014.2,0.51,7,35.93,58.9,27.5142,90.4336
+Bhutan,,2/18/2020,Possible light rain in the evening.,rain,0.87,0.0144,0.0264,0.6,rain,52.0,34.93,37.25,0.77,1016.4,0.78,6,36.99,52.0,27.5142,90.4336
+Bhutan,,2/19/2020,Foggy in the evening and overnight.,rain,0.91,0.006999999999999999,0.0208,0.6,rain,54.64,32.49,38.56,0.8,1016.9,0.93,5,34.93,54.64,27.5142,90.4336
+Bhutan,,2/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.94,0.001,0.0049,0.24,rain,59.18,34.83,34.64,0.68,1020.0,0.58,7,32.49,59.18,27.5142,90.4336
+Bhutan,,2/21/2020,Possible light rain in the afternoon and evening.,rain,0.97,0.0071,0.0239,0.6,rain,51.04,31.59,35.71,0.77,1020.6,0.82,4,34.83,51.04,27.5142,90.4336
+Bhutan,,2/22/2020,Foggy in the afternoon.,rain,1.0,0.0046,0.0197,0.36,rain,53.25,30.35,32.11,0.7,1018.8,0.42,8,31.59,53.25,27.5142,90.4336
+Bhutan,,2/23/2020,Partly cloudy throughout the day.,rain,0.03,0.0042,0.0159,0.34,rain,51.07,28.87,30.95,0.7,1016.6,0.5,6,30.35,51.07,27.5142,90.4336
+Bhutan,,2/24/2020,Foggy in the afternoon and evening.,rain,0.06,0.0029,0.0114,0.33,rain,52.87,32.42,29.74,0.67,1015.8,0.44,7,28.87,52.87,27.5142,90.4336
+Bhutan,,2/25/2020,Possible light rain in the afternoon and evening.,rain,0.09,0.0171,0.0335,0.61,rain,46.13,26.9,32.56,0.79,1016.0,0.87,4,32.42,46.13,27.5142,90.4336
+Bhutan,,2/26/2020,Clear throughout the day.,partly-cloudy-day,0.12,0.0022,0.0093,0.19,rain,56.44,29.33,26.89,0.61,1015.8,0.51,8,26.9,56.44,27.5142,90.4336
+Bhutan,,2/27/2020,Clear throughout the day.,clear-day,0.15,0.0004,0.0026,0.08,rain,61.78,31.78,21.56,0.46,1016.2,0.12,8,29.33,61.78,27.5142,90.4336
+Bhutan,,2/28/2020,Clear throughout the day.,partly-cloudy-day,0.18,0.0031,0.0176,0.21,rain,61.64,32.14,28.39,0.55,1014.2,0.32,9,31.78,61.64,27.5142,90.4336
+Bhutan,,2/29/2020,Foggy in the afternoon.,rain,0.21,0.0052,0.022000000000000002,0.33,rain,57.77,35.71,34.38,0.7,1013.9,0.39,9,32.14,57.77,27.5142,90.4336
+Bhutan,,3/1/2020,Possible light rain in the afternoon.,rain,0.24,0.01,0.0256,0.57,rain,54.15,31.84,36.8,0.79,1013.1,0.68,6,35.71,54.15,27.5142,90.4336
+Bhutan,,3/2/2020,Possible light rain in the afternoon and evening.,rain,0.28,0.0098,0.0358,0.6,rain,51.89,32.07,34.31,0.77,1012.7,0.65,8,31.84,51.89,27.5142,90.4336
+Bhutan,,3/3/2020,Possible light rain in the afternoon and evening.,rain,0.31,0.0129,0.0309,0.55,rain,47.46,32.18,35.34,0.83,1014.2,0.74,8,32.07,47.46,27.5142,90.4336
+Bhutan,,3/4/2020,Partly cloudy throughout the day.,rain,0.34,0.0054,0.0192,0.38,rain,53.07,30.65,33.36,0.72,1013.6,0.62,9,32.18,53.07,27.5142,90.4336
+Bhutan,,3/5/2020,Possible light rain in the evening.,rain,0.38,0.0075,0.0299,0.44,rain,52.52,28.89,32.05,0.71,1015.0,0.66,7,30.65,52.52,27.5142,90.4336
+Bhutan,,3/6/2020,Partly cloudy throughout the day.,rain,0.42,0.009000000000000001,0.0289,0.45,rain,53.31,30.3,32.99,0.73,1015.0,0.59,7,28.89,53.31,27.5142,90.4336
+Bhutan,,3/7/2020,Foggy in the evening and overnight.,rain,0.46,0.0012,0.0044,0.26,rain,59.22,32.57,31.52,0.64,1011.3,0.61,9,30.3,59.22,27.5142,90.4336
+Bhutan,,3/8/2020,Foggy in the evening.,partly-cloudy-day,0.5,0.0013,0.0063,0.24,rain,61.35,34.79,32.25,0.62,1011.1,0.55,9,32.57,61.35,27.5142,90.4336
+Bhutan,,3/9/2020,Partly cloudy throughout the day.,rain,0.54,0.0056,0.0162,0.42,rain,56.64,34.69,36.28,0.71,1011.8,0.6,9,34.79,56.64,27.5142,90.4336
+Bhutan,,3/10/2020,Partly cloudy throughout the day.,rain,0.57,0.0075,0.0154,0.46,rain,54.63,35.12,37.83,0.76,1011.6,0.53,9,34.69,54.63,27.5142,90.4336
+Bhutan,,3/11/2020,Clear throughout the day.,partly-cloudy-day,0.61,0.0007,0.0037,0.17,rain,64.79,36.53,37.24,0.68,1013.7,0.46,10,35.12,64.79,27.5142,90.4336
+Bhutan,,3/12/2020,Clear throughout the day.,partly-cloudy-day,0.65,0.0008,0.0074,0.15,rain,63.7,39.83,34.04,0.57,1016.6,0.42,10,36.53,63.7,27.5142,90.4336
+Bhutan,,3/13/2020,Possible light rain in the afternoon and evening.,rain,0.69,0.0211,0.0667,0.66,rain,52.02,35.6,39.41,0.81,1016.8,0.99,5,39.83,52.02,27.5142,90.4336
+Bhutan,,3/14/2020,Partly cloudy throughout the day.,rain,0.72,0.0046,0.0103,0.3,rain,56.06,30.95,36.65,0.74,1015.1,0.52,8,35.6,56.06,27.5142,90.4336
+Bhutan,,3/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.76,0.0011,0.0036,0.12,rain,58.89,32.0,27.94,0.57,1015.1,0.44,9,30.95,58.89,27.5142,90.4336
+Bhutan,,3/16/2020,Foggy in the evening.,rain,0.79,0.0069,0.0229,0.32,rain,57.48,34.06,32.61,0.66,1015.5,0.54,9,32.0,57.48,27.5142,90.4336
+Bhutan,,3/17/2020,Foggy in the afternoon.,rain,0.82,0.009000000000000001,0.0272,0.43,rain,54.25,34.1,37.23,0.77,1013.6,0.5,9,34.06,54.25,27.5142,90.4336
+Bhutan,,3/18/2020,Foggy throughout the day.,rain,0.85,0.0079,0.0188,0.45,rain,55.44,35.3,37.27,0.77,1012.6,0.85,6,34.1,55.44,27.5142,90.4336
+Bhutan,,3/19/2020,Possible light rain in the evening.,rain,0.88,0.0118,0.0296,0.58,rain,54.27,35.12,36.81,0.79,1013.0,0.72,8,35.3,54.27,27.5142,90.4336
+Bhutan,,3/20/2020,Possible light rain in the evening.,rain,0.92,0.0077,0.024,0.52,rain,54.24,32.65,36.03,0.77,1014.0,0.7,8,35.12,54.24,27.5142,90.4336
+Bhutan,,3/21/2020,Foggy in the morning and afternoon.,rain,0.95,0.006,0.0286,0.41,rain,56.45,33.76,35.25,0.74,1014.9,0.76,6,32.65,56.45,27.5142,90.4336
+Bhutan,,3/22/2020,Possible light rain in the afternoon and evening.,rain,0.98,0.0146,0.0517,0.73,rain,55.3,31.68,36.31,0.77,1013.9,0.75,7,33.76,55.3,27.5142,90.4336
+Bhutan,,3/23/2020,Clear throughout the day.,partly-cloudy-day,0.01,0.0029,0.0128,0.2,rain,63.1,35.74,35.51,0.66,1012.4,0.44,11,31.68,63.1,27.5142,90.4336
+Bhutan,,3/24/2020,Possible light rain in the evening.,rain,0.04,0.0095,0.0305,0.52,rain,62.39,36.36,35.75,0.66,1011.6,0.32,11,35.74,62.39,27.5142,90.4336
+Bhutan,,3/25/2020,Foggy in the evening.,rain,0.07,0.0017,0.0067,0.28,rain,66.76,40.28,40.7,0.71,1011.9,0.49,11,36.36,66.76,27.5142,90.4336
+Bhutan,,3/26/2020,Foggy in the evening.,rain,0.1,0.0039,0.0116,0.38,rain,67.36,42.47,44.09,0.73,1012.4,0.63,12,40.28,67.36,27.5142,90.4336
+Bhutan,,3/27/2020,Mostly cloudy throughout the day.,rain,0.13,0.0038,0.0096,0.47,rain,62.98,39.74,45.82,0.8,1009.9,0.78,8,42.47,62.98,27.5142,90.4336
+Bhutan,,3/28/2020,Clear throughout the day.,clear-day,0.16,0.0041,0.0136,0.23,rain,66.69,36.29,39.35,0.66,1008.6,0.17,12,39.74,66.69,27.5142,90.4336
+Bhutan,,3/29/2020,Clear throughout the day.,clear-day,0.19,0.001,0.0052,0.08,rain,70.6,40.48,34.93,0.58,1010.0,0.13,12,36.29,70.6,27.5142,90.4336
+Bhutan,,3/30/2020,Partly cloudy throughout the day.,rain,0.22,0.0073,0.0256,0.44,rain,64.45,39.71,40.49,0.7,1012.0,0.41,12,40.48,64.45,27.5142,90.4336
+Bhutan,,3/31/2020,Possible light rain in the afternoon and evening.,rain,0.26,0.0198,0.0527,0.71,rain,56.51,36.61,42.1,0.82,1011.4,0.64,10,39.71,56.51,27.5142,90.4336
+Bhutan,,4/1/2020,Possible light rain in the evening.,rain,0.29,0.0087,0.0306,0.55,rain,59.19,34.83,37.99,0.74,1010.3,0.42,10,36.61,59.19,27.5142,90.4336
+Bhutan,,4/2/2020,Clear throughout the day.,partly-cloudy-day,0.33,0.0026,0.0085,0.13,rain,61.6,38.14,34.97,0.63,1012.8,0.36,12,34.83,61.6,27.5142,90.4336
+Bhutan,,4/3/2020,Foggy in the afternoon.,rain,0.36,0.0084,0.0323,0.28,rain,61.12,40.92,36.32,0.64,1014.5,0.53,10,38.14,61.12,27.5142,90.4336
+Bhutan,,4/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.4,0.0042,0.0134,0.24,rain,62.69,38.8,35.54,0.62,1014.7,0.69,9,40.92,62.69,27.5142,90.4336
+Bhutan,,4/5/2020,Mostly cloudy throughout the day.,rain,0.44,0.0089,0.0211,0.3,rain,61.9,39.23,36.56,0.64,1013.3,0.63,9,38.8,61.9,27.5142,90.4336
+Bhutan,,4/6/2020,Mostly cloudy throughout the day.,rain,0.48,0.0138,0.0373,0.33,rain,58.28,39.81,38.35,0.68,1012.1,0.73,8,39.23,58.28,27.5142,90.4336
+Bhutan,,4/7/2020,Foggy in the afternoon.,rain,0.52,0.0081,0.0314,0.33,rain,59.93,38.04,39.93,0.74,1012.6,0.56,10,39.81,59.93,27.5142,90.4336
+Bhutan,,4/8/2020,Possible light rain in the evening and overnight.,rain,0.56,0.0104,0.0292,0.56,rain,59.7,36.03,39.52,0.77,1013.3,0.62,9,38.04,59.7,27.5142,90.4336
+Bhutan,,4/9/2020,Partly cloudy throughout the day.,rain,0.6,0.01,0.0328,0.41,rain,63.56,38.16,39.69,0.72,1015.0,0.59,12,36.03,63.56,27.5142,90.4336
+Bhutan,,4/10/2020,Clear throughout the day.,rain,0.64,0.0098,0.0398,0.44,rain,61.87,38.61,40.94,0.75,1015.7,0.51,10,38.16,61.87,27.5142,90.4336
+Bhutan,,4/11/2020,Mostly cloudy throughout the day.,rain,0.67,0.0064,0.0189,0.33,rain,60.3,38.14,40.9,0.74,1014.3,0.66,8,38.61,60.3,27.5142,90.4336
+Bhutan,,4/12/2020,Possible light rain in the evening.,rain,0.71,0.0165,0.0976,0.44,rain,68.63,39.54,38.86,0.65,1013.2,0.25,11,38.14,68.63,27.5142,90.4336
+Bhutan,,4/13/2020,Clear throughout the day.,clear-day,0.74,0.0025,0.0146,0.16,rain,70.77,42.61,39.24,0.6,1014.1,0.29,12,39.54,70.77,27.5142,90.4336
+Bhutan,,4/14/2020,Possible light rain in the afternoon and evening.,rain,0.77,0.0105,0.0659,0.48,rain,68.22,40.7,41.43,0.68,1014.0,0.41,10,42.61,68.22,27.5142,90.4336
+Bhutan,,4/15/2020,Possible light rain starting in the afternoon.,rain,0.8,0.017,0.0475,0.68,rain,62.95,42.54,43.43,0.77,1011.5,0.6,7,40.7,62.95,27.5142,90.4336
+Bhutan,,4/16/2020,Foggy overnight.,rain,0.83,0.0047,0.0218,0.5,rain,68.77,45.96,45.83,0.74,1011.8,0.6,11,42.54,68.77,27.5142,90.4336
+Bhutan,,4/17/2020,Possible light rain throughout the day.,rain,0.86,0.0147,0.0312,0.79,rain,61.62,44.94,48.21,0.85,1013.1,0.91,6,45.96,61.62,27.5142,90.4336
+Bhutan,,4/18/2020,Possible light rain in the afternoon and evening.,rain,0.89,0.0158,0.0487,0.78,rain,62.22,41.29,47.16,0.84,1012.3,0.75,7,44.94,62.22,27.5142,90.4336
+Bhutan,,4/19/2020,Possible light rain in the afternoon.,rain,0.92,0.009000000000000001,0.0407,0.58,rain,61.82,40.54,45.19,0.84,1012.7,0.72,9,41.29,61.82,27.5142,90.4336
+Bhutan,,4/20/2020,Possible light rain throughout the day.,rain,0.95,0.0223,0.0816,0.77,rain,56.23,39.81,43.47,0.87,1012.3,1.0,5,40.54,56.23,27.5142,90.4336

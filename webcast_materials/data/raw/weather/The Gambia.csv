@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+The Gambia,,1/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0003,0.02,rain,89.8,70.26,41.66,0.26,1012.5,0.59,6,72.65,89.8,13.4667,-16.6
+The Gambia,,1/2/2020,Overcast throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.04,rain,87.99,71.48,42.34,0.28,1013.0,0.68,5,70.26,87.99,13.4667,-16.6
+The Gambia,,1/3/2020,Overcast throughout the day.,cloudy,0.27,0.0001,0.0004,0.03,rain,88.44,70.08,42.72,0.27,1013.6,0.92,5,71.48,88.44,13.4667,-16.6
+The Gambia,,1/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0002,0.0004,0.07,rain,87.2,67.97,40.5,0.26,1014.3,0.53,7,70.08,87.2,13.4667,-16.6
+The Gambia,,1/5/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.04,rain,86.43,67.09,38.88,0.26,1013.2,0.1,8,67.97,86.43,13.4667,-16.6
+The Gambia,,1/6/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,86.12,65.47,38.36,0.26,1013.0,0.18,8,67.09,86.12,13.4667,-16.6
+The Gambia,,1/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.4,0.0001,0.0002,0.01,rain,84.21,63.49,39.44,0.29,1013.0,0.82,5,65.47,84.21,13.4667,-16.6
+The Gambia,,1/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0,0.0002,0.01,,85.64,65.83,38.82,0.28,1013.3,0.54,7,63.49,85.64,13.4667,-16.6
+The Gambia,,1/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.0,0.0,0.0,,86.29,66.69,35.04,0.23,1014.3,0.7,6,65.83,86.29,13.4667,-16.6
+The Gambia,,1/10/2020,Partly cloudy throughout the day.,clear-day,0.5,0.0001,0.0004,0.02,rain,87.18,67.74,35.2,0.23,1014.6,0.3,8,66.67,87.18,13.4667,-16.6
+The Gambia,,1/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0001,0.0003,0.03,rain,87.12,69.97,40.7,0.28,1014.1,0.68,7,67.74,87.12,13.4667,-16.6
+The Gambia,,1/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0001,0.0003,0.05,rain,88.34,70.4,43.81,0.3,1013.7,0.49,7,69.97,88.34,13.4667,-16.6
+The Gambia,,1/13/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0004,0.03,rain,88.56,68.26,41.93,0.27,1012.4,0.01,9,70.4,88.56,13.4667,-16.6
+The Gambia,,1/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0,0.0,0.0,,87.97,68.19,43.92,0.31,1011.3,0.34,9,68.26,87.97,13.4667,-16.6
+The Gambia,,1/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0,0.0001,0.02,,87.76,69.02,40.92,0.27,1012.9,0.66,7,68.19,87.76,13.4667,-16.6
+The Gambia,,1/16/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.04,,88.34,69.56,38.7,0.24,1013.4,0.26,9,68.97,88.34,13.4667,-16.6
+The Gambia,,1/17/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0004,0.06,rain,90.03,69.57,37.96,0.23,1014.0,0.16,10,69.56,90.03,13.4667,-16.6
+The Gambia,,1/18/2020,Clear throughout the day.,clear-day,0.8,0.0,0.0002,0.02,,90.76,70.42,41.07,0.26,1013.0,0.21,9,69.57,90.76,13.4667,-16.6
+The Gambia,,1/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0002,0.01,,89.89,68.36,46.64,0.33,1011.9,0.47,7,70.42,89.89,13.4667,-16.6
+The Gambia,,1/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0,0.0002,0.02,,85.5,69.38,53.26,0.46,1010.0,0.57,7,68.36,85.5,13.4667,-16.6
+The Gambia,,1/21/2020,Overcast throughout the day.,cloudy,0.9,0.0001,0.0002,0.04,rain,86.44,70.84,54.68,0.48,1011.1,0.95,5,69.38,86.44,13.4667,-16.6
+The Gambia,,1/22/2020,Overcast throughout the day.,cloudy,0.93,0.0004,0.0035,0.05,rain,88.98,75.06,55.21,0.46,1012.3,0.99,5,70.84,88.98,13.4667,-16.6
+The Gambia,,1/23/2020,Overcast throughout the day.,cloudy,0.97,0.0002,0.0009,0.09,rain,85.93,75.84,57.32,0.46,1012.7,0.98,5,75.06,85.93,13.4667,-16.6
+The Gambia,,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,1.0,0.0,0.0002,0.04,,91.75,76.51,58.88,0.45,1011.6,0.74,8,75.84,91.75,13.4667,-16.6
+The Gambia,,1/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0003,0.03,rain,91.93,73.91,57.1,0.42,1012.0,0.72,8,76.51,91.93,13.4667,-16.6
+The Gambia,,1/26/2020,Overcast throughout the day.,cloudy,0.06,0.0001,0.0004,0.03,rain,92.61,74.96,52.69,0.39,1013.1,0.98,5,73.91,92.61,13.4667,-16.6
+The Gambia,,1/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.09,0.0001,0.0004,0.04,rain,92.21,71.64,47.74,0.3,1011.3,0.69,7,74.96,92.21,13.4667,-16.6
+The Gambia,,1/28/2020,Overcast throughout the day.,partly-cloudy-day,0.12,0.0001,0.0002,0.03,rain,88.57,69.89,52.05,0.4,1011.2,0.57,5,71.64,88.57,13.4667,-16.6
+The Gambia,,1/29/2020,Clear throughout the day.,clear-day,0.15,0.0001,0.0003,0.07,rain,88.86,71.02,59.97,0.56,1012.0,0.31,9,69.89,88.86,13.4667,-16.6
+The Gambia,,1/30/2020,Clear throughout the day.,clear-day,0.18,0.0001,0.0003,0.05,rain,92.57,74.41,50.53,0.39,1013.2,0.22,9,71.02,92.57,13.4667,-16.6
+The Gambia,,1/31/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.05,rain,95.65,74.35,44.36,0.25,1012.8,0.0,10,74.41,95.65,13.4667,-16.6
+The Gambia,,2/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.04,rain,90.62,71.79,47.41,0.32,1012.0,0.0,10,74.35,90.62,13.4667,-16.6
+The Gambia,,2/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.28,0.0,0.0002,0.03,,83.62,70.62,61.31,0.59,1012.5,0.45,7,71.79,83.62,13.4667,-16.6
+The Gambia,,2/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.31,0.0001,0.0003,0.04,rain,84.32,70.48,65.92,0.71,1013.9,0.79,7,70.62,84.32,13.4667,-16.6
+The Gambia,,2/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0003,0.05,rain,90.84,73.72,58.06,0.53,1013.3,0.72,6,70.48,90.84,13.4667,-16.6
+The Gambia,,2/5/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.04,rain,93.7,72.77,42.8,0.25,1011.8,0.16,10,73.72,93.7,13.4667,-16.6
+The Gambia,,2/6/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.02,,91.95,71.39,42.51,0.26,1011.5,0.01,10,72.77,91.95,13.4667,-16.6
+The Gambia,,2/7/2020,Clear throughout the day.,clear-day,0.45,0.0001,0.0003,0.03,rain,93.78,75.06,43.03,0.26,1012.7,0.24,9,71.39,93.78,13.4667,-16.6
+The Gambia,,2/8/2020,Clear throughout the day.,clear-day,0.48,0.0001,0.0003,0.01,rain,93.22,72.65,40.89,0.23,1012.8,0.11,10,75.06,93.22,13.4667,-16.6
+The Gambia,,2/9/2020,Clear throughout the day.,clear-day,0.52,0.0001,0.0003,0.02,rain,91.41,71.3,45.22,0.29,1013.1,0.14,10,72.65,91.41,13.4667,-16.6
+The Gambia,,2/10/2020,Clear throughout the day.,clear-day,0.56,0.0001,0.0004,0.02,rain,90.61,71.05,48.79,0.34,1013.1,0.02,10,71.3,90.61,13.4667,-16.6
+The Gambia,,2/11/2020,Clear throughout the day.,clear-day,0.6,0.0,0.0,0.0,,92.4,71.28,47.66,0.32,1012.6,0.0,10,71.05,92.4,13.4667,-16.6
+The Gambia,,2/12/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.05,rain,92.23,75.47,55.84,0.43,1011.6,0.0,11,71.28,92.23,13.4667,-16.6
+The Gambia,,2/13/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.04,rain,95.23,77.96,54.95,0.38,1011.2,0.01,10,75.47,95.23,13.4667,-16.6
+The Gambia,,2/14/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.04,rain,95.04,77.24,48.14,0.28,1010.4,0.24,10,77.96,95.04,13.4667,-16.6
+The Gambia,,2/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.0001,0.0003,0.04,rain,95.27,76.61,47.45,0.27,1010.1,0.85,6,77.24,95.27,13.4667,-16.6
+The Gambia,,2/16/2020,Mostly cloudy throughout the day.,cloudy,0.78,0.0001,0.0003,0.04,rain,93.31,78.39,50.85,0.33,1010.5,0.89,6,76.61,93.31,13.4667,-16.6
+The Gambia,,2/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.82,0.0001,0.0003,0.06,rain,97.06,78.08,49.67,0.3,1010.6,0.69,8,78.39,97.06,13.4667,-16.6
+The Gambia,,2/18/2020,Partly cloudy throughout the day.,clear-day,0.85,0.0002,0.0004,0.07,rain,97.52,73.91,44.72,0.24,1010.8,0.31,9,78.08,97.52,13.4667,-16.6
+The Gambia,,2/19/2020,Clear throughout the day.,clear-day,0.88,0.0,0.0001,0.02,,93.52,75.11,54.53,0.41,1009.4,0.12,11,73.91,93.52,13.4667,-16.6
+The Gambia,,2/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.91,0.0001,0.0004,0.04,rain,93.19,73.95,55.3,0.4,1008.5,0.55,9,75.11,93.19,13.4667,-16.6
+The Gambia,,2/21/2020,Overcast throughout the day.,cloudy,0.94,0.0001,0.0003,0.05,rain,88.23,71.27,60.0,0.51,1009.2,0.89,6,73.95,88.23,13.4667,-16.6
+The Gambia,,2/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.98,0.0002,0.0004,0.09,rain,83.07,71.45,64.52,0.66,1010.8,0.71,9,71.27,83.07,13.4667,-16.6
+The Gambia,,2/23/2020,Overcast throughout the day.,cloudy,0.01,0.0026,0.0255,0.22,rain,82.21,75.24,64.87,0.68,1012.1,0.93,6,71.45,82.21,13.4667,-16.6
+The Gambia,,2/24/2020,Overcast throughout the day.,cloudy,0.04,0.0001,0.0004,0.07,rain,91.99,74.49,62.8,0.54,1010.7,0.92,6,75.24,91.99,13.4667,-16.6
+The Gambia,,2/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0003,0.07,rain,97.2,80.27,58.94,0.45,1008.9,0.26,12,74.49,97.2,13.4667,-16.6
+The Gambia,,2/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0003,0.04,rain,97.93,79.48,46.91,0.26,1009.2,0.12,12,80.27,97.93,13.4667,-16.6
+The Gambia,,2/27/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0004,0.04,rain,94.15,73.8,51.5,0.32,1010.0,0.0,11,78.69,94.15,13.4667,-16.6
+The Gambia,,2/28/2020,Clear throughout the day.,clear-day,0.16,0.0001,0.0004,0.03,rain,91.69,74.08,53.4,0.39,1011.4,0.27,12,73.8,91.69,13.4667,-16.6
+The Gambia,,2/29/2020,Clear throughout the day.,clear-day,0.19,0.0001,0.0004,0.02,rain,93.89,75.47,48.33,0.31,1011.0,0.27,11,74.08,93.89,13.4667,-16.6
+The Gambia,,3/1/2020,Clear throughout the day.,clear-day,0.22,0.0001,0.0004,0.02,rain,94.0,74.22,45.09,0.26,1010.1,0.09,11,75.47,94.0,13.4667,-16.6
+The Gambia,,3/2/2020,Clear throughout the day.,clear-day,0.25,0.0001,0.0003,0.03,rain,96.03,73.54,44.85,0.26,1011.0,0.04,12,74.22,96.03,13.4667,-16.6
+The Gambia,,3/3/2020,Clear throughout the day.,clear-day,0.28,0.0,0.0002,0.02,,94.86,74.11,47.79,0.3,1011.7,0.01,12,73.54,94.86,13.4667,-16.6
+The Gambia,,3/4/2020,Clear throughout the day.,clear-day,0.32,0.0,0.0002,0.01,,94.11,73.93,52.28,0.38,1011.7,0.0,12,74.11,94.11,13.4667,-16.6
+The Gambia,,3/5/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0003,0.02,rain,93.05,72.91,55.96,0.43,1010.7,0.0,12,73.93,93.05,13.4667,-16.6
+The Gambia,,3/6/2020,Clear throughout the day.,clear-day,0.39,0.0,0.0002,0.02,,90.11,72.46,55.62,0.44,1009.8,0.06,12,72.91,90.11,13.4667,-16.6
+The Gambia,,3/7/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0003,0.02,,87.68,72.5,63.49,0.62,1009.5,0.01,12,72.46,87.68,13.4667,-16.6
+The Gambia,,3/8/2020,Clear throughout the day.,clear-day,0.47,0.0001,0.0004,0.05,rain,86.79,73.18,65.07,0.64,1009.9,0.19,10,72.5,86.79,13.4667,-16.6
+The Gambia,,3/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.51,0.0001,0.0004,0.06,rain,91.65,73.95,61.81,0.54,1010.0,0.62,8,73.18,91.65,13.4667,-16.6
+The Gambia,,3/10/2020,Clear throughout the day.,clear-day,0.55,0.0,0.0001,0.02,,93.69,72.91,62.57,0.56,1009.7,0.1,11,73.95,93.69,13.4667,-16.6
+The Gambia,,3/11/2020,Clear throughout the day.,clear-day,0.58,0.0002,0.0004,0.06,rain,90.38,75.07,64.67,0.59,1009.7,0.0,12,72.91,90.38,13.4667,-16.6
+The Gambia,,3/12/2020,Clear throughout the day.,clear-day,0.62,0.0002,0.0004,0.04,rain,95.44,75.69,53.03,0.36,1009.4,0.0,12,75.07,95.44,13.4667,-16.6
+The Gambia,,3/13/2020,Clear throughout the day.,clear-day,0.66,0.0,0.0003,0.01,,93.94,77.35,51.43,0.34,1010.0,0.0,12,75.69,93.94,13.4667,-16.6
+The Gambia,,3/14/2020,Clear throughout the day.,clear-day,0.7,0.0001,0.0003,0.02,rain,91.42,72.15,53.83,0.36,1011.0,0.2,12,77.35,91.42,13.4667,-16.6
+The Gambia,,3/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.0001,0.0003,0.03,rain,85.38,70.05,62.45,0.57,1011.2,0.55,6,72.15,85.38,13.4667,-16.6
+The Gambia,,3/16/2020,Partly cloudy throughout the day.,clear-day,0.77,0.0,0.0,0.0,,87.45,70.82,62.75,0.61,1010.4,0.31,10,70.05,87.45,13.4667,-16.6
+The Gambia,,3/17/2020,Clear throughout the day.,clear-day,0.8,0.0001,0.0004,0.04,rain,83.84,71.31,65.05,0.68,1010.5,0.03,13,70.82,83.84,13.4667,-16.6
+The Gambia,,3/18/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0003,0.02,,80.59,70.32,66.12,0.73,1011.6,0.14,12,71.31,80.59,13.4667,-16.6
+The Gambia,,3/19/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0003,0.02,rain,81.26,70.19,64.23,0.69,1011.6,0.14,11,70.32,81.26,13.4667,-16.6
+The Gambia,,3/20/2020,Clear throughout the day.,clear-day,0.89,0.0,0.0002,0.02,,84.67,73.57,61.36,0.6,1010.7,0.18,13,70.19,84.67,13.4667,-16.6
+The Gambia,,3/21/2020,Partly cloudy throughout the day.,clear-day,0.92,0.0001,0.0004,0.04,rain,89.26,73.82,59.13,0.5,1010.1,0.23,11,73.57,89.26,13.4667,-16.6
+The Gambia,,3/22/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.04,rain,86.71,70.67,61.47,0.55,1010.9,0.03,13,73.82,86.71,13.4667,-16.6
+The Gambia,,3/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.98,0.0001,0.0004,0.04,rain,81.35,66.2,62.45,0.64,1012.3,0.59,7,70.67,81.35,13.4667,-16.6
+The Gambia,,3/24/2020,Overcast throughout the day.,cloudy,0.01,0.0001,0.0003,0.04,rain,83.64,69.11,59.86,0.62,1013.0,1.0,5,66.2,83.64,13.4667,-16.6
+The Gambia,,3/25/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0004,0.07,rain,85.5,69.63,58.26,0.55,1011.5,0.26,12,69.11,85.5,13.4667,-16.6
+The Gambia,,3/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.05,rain,82.16,68.84,61.71,0.64,1010.8,0.44,12,69.63,82.16,13.4667,-16.6
+The Gambia,,3/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.11,0.0001,0.0004,0.06,rain,82.07,69.49,63.19,0.68,1011.0,0.5,7,68.84,82.07,13.4667,-16.6
+The Gambia,,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.14,0.0001,0.0004,0.04,rain,83.81,71.72,60.98,0.6,1011.4,0.68,9,69.49,83.81,13.4667,-16.6
+The Gambia,,3/29/2020,Clear throughout the day.,clear-day,0.17,0.0,0.0002,0.03,,89.0,74.12,61.73,0.56,1011.3,0.19,11,71.72,89.0,13.4667,-16.6
+The Gambia,,3/30/2020,Clear throughout the day.,clear-day,0.2,0.0002,0.0004,0.08,rain,89.12,74.11,61.2,0.53,1009.2,0.28,11,74.12,89.12,13.4667,-16.6
+The Gambia,,3/31/2020,Clear throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.05,rain,93.03,77.97,61.19,0.51,1008.6,0.42,12,74.11,93.03,13.4667,-16.6
+The Gambia,,4/1/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0004,0.05,rain,95.8,78.72,59.89,0.44,1009.1,0.2,12,77.97,95.8,13.4667,-16.6
+The Gambia,,4/2/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0003,0.05,rain,93.21,74.84,62.66,0.49,1009.9,0.17,12,78.72,93.21,13.4667,-16.6
+The Gambia,,4/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0002,0.06,rain,92.16,73.09,61.95,0.5,1009.4,0.52,10,74.84,92.16,13.4667,-16.6
+The Gambia,,4/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.05,rain,89.91,72.2,60.19,0.5,1010.0,0.19,13,73.09,89.91,13.4667,-16.6
+The Gambia,,4/5/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0002,0.02,,88.59,72.95,62.63,0.57,1011.2,0.0,13,72.2,88.59,13.4667,-16.6
+The Gambia,,4/6/2020,Clear throughout the day.,clear-day,0.45,0.0001,0.0002,0.01,rain,90.91,75.54,63.67,0.58,1010.6,0.0,13,72.95,90.91,13.4667,-16.6
+The Gambia,,4/7/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0,0.0,,93.03,71.35,61.78,0.52,1009.6,0.0,13,75.11,93.03,13.4667,-16.6
+The Gambia,,4/8/2020,Clear throughout the day.,clear-day,0.53,0.0,0.0003,0.02,,88.39,70.94,65.82,0.67,1009.8,0.0,13,71.35,88.39,13.4667,-16.6
+The Gambia,,4/9/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.01,rain,89.54,70.64,62.44,0.59,1008.9,0.0,13,70.94,89.54,13.4667,-16.6
+The Gambia,,4/10/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0003,0.02,rain,84.69,70.79,64.83,0.68,1009.7,0.0,13,70.64,84.69,13.4667,-16.6
+The Gambia,,4/11/2020,Partly cloudy throughout the day.,clear-day,0.64,0.0001,0.0004,0.06,rain,82.02,70.13,66.99,0.75,1010.8,0.24,11,70.79,82.02,13.4667,-16.6
+The Gambia,,4/12/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0003,0.03,,81.49,70.33,67.8,0.79,1011.7,0.11,12,70.13,81.49,13.4667,-16.6
+The Gambia,,4/13/2020,Overcast throughout the day.,partly-cloudy-day,0.71,0.0001,0.0003,0.13,rain,82.07,70.77,67.35,0.77,1011.0,0.73,5,70.33,82.07,13.4667,-16.6
+The Gambia,,4/14/2020,Overcast throughout the day.,partly-cloudy-day,0.75,0.0,0.0003,0.07,,83.0,71.47,64.89,0.68,1010.9,0.79,6,70.77,83.0,13.4667,-16.6
+The Gambia,,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0,0.0003,0.03,,85.67,72.36,61.34,0.57,1011.1,0.46,12,71.47,85.67,13.4667,-16.6
+The Gambia,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0002,0.06,rain,85.51,71.74,60.62,0.55,1012.3,0.39,11,72.36,85.51,13.4667,-16.6
+The Gambia,,4/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0001,0.0002,0.12,rain,85.67,70.55,63.77,0.62,1012.0,0.39,12,71.74,85.67,13.4667,-16.6
+The Gambia,,4/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0001,0.0002,0.1,rain,84.01,68.72,62.69,0.62,1012.2,0.6,9,70.55,84.01,13.4667,-16.6
+The Gambia,,4/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0003,0.08,rain,83.42,71.1,63.55,0.66,1012.6,0.44,10,68.72,83.42,13.4667,-16.6
+The Gambia,,4/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0001,0.0003,0.07,rain,83.94,72.94,63.92,0.64,1012.8,0.35,10,71.1,83.94,13.4667,-16.6
+The Gambia,,4/21/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0003,0.09,rain,87.82,72.11,60.77,0.54,1010.9,0.06,12,72.94,87.82,13.4667,-16.6

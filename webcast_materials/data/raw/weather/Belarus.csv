@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Belarus,,12/31/2019,Clear throughout the day.,rain,0.21,0.0003,0.0018,0.26,rain,33.04,29.93,26.22,0.82,1019.4,0.66,0,26.65,35.93,53.7098,27.9534
+Belarus,,1/1/2020,Overcast throughout the day.,snow,0.24,0.0003,0.0011,0.25,snow,36.87,24.63,31.06,0.87,1019.3,0.99,0,31.12,36.87,53.7098,27.9534
+Belarus,,1/2/2020,Partly cloudy throughout the day.,clear-day,0.27,0.0,0.0003,0.02,,37.34,29.19,24.06,0.77,1016.4,0.29,0,24.63,37.34,53.7098,27.9534
+Belarus,,1/3/2020,Possible drizzle in the morning.,rain,0.3,0.0027,0.0114,0.61,rain,38.13,27.99,30.49,0.87,1006.2,0.75,0,29.34,38.13,53.7098,27.9534
+Belarus,,1/4/2020,Overcast throughout the day.,snow,0.33,0.0003,0.0016,0.27,snow,34.9,23.75,26.61,0.84,1016.2,0.91,0,27.19,34.9,53.7098,27.9534
+Belarus,,1/5/2020,Foggy overnight.,partly-cloudy-day,0.36,0.0003,0.0018,0.06,snow,31.52,28.73,22.53,0.79,1027.4,0.77,0,23.75,31.52,53.7098,27.9534
+Belarus,,1/6/2020,Foggy in the morning and afternoon.,cloudy,0.39,0.0003,0.0012,0.14,snow,33.67,28.09,28.82,0.89,1026.3,0.94,0,29.76,33.67,53.7098,27.9534
+Belarus,,1/7/2020,Possible light rain overnight.,rain,0.43,0.0022,0.0258,0.32,rain,31.89,30.9,25.94,0.83,1024.7,0.8,0,27.98,33.52,53.7098,27.9534
+Belarus,,1/8/2020,Mostly cloudy throughout the day.,rain,0.46,0.0015,0.0167,0.38,rain,38.4,32.23,32.43,0.9,1019.2,0.9,0,32.53,38.4,53.7098,27.9534
+Belarus,,1/9/2020,Light rain in the evening and overnight.,rain,0.5,0.0037,0.0335,0.78,rain,36.42,35.43,32.88,0.93,1014.9,0.99,0,32.23,37.42,53.7098,27.9534
+Belarus,,1/10/2020,Drizzle in the morning.,rain,0.53,0.0058,0.0378,0.95,rain,42.44,26.01,33.9,0.88,1016.3,0.93,0,28.25,42.44,53.7098,27.9534
+Belarus,,1/11/2020,Overcast throughout the day.,partly-cloudy-day,0.57,0.0001,0.0003,0.11,snow,37.1,32.01,27.9,0.84,1021.7,0.87,0,26.01,37.1,53.7098,27.9534
+Belarus,,1/12/2020,Possible drizzle in the morning.,rain,0.61,0.0032,0.01,0.55,rain,39.62,34.03,32.19,0.88,1016.0,0.99,0,31.99,39.62,53.7098,27.9534
+Belarus,,1/13/2020,Possible drizzle in the morning.,rain,0.65,0.0009,0.0057,0.47,rain,39.92,32.38,33.6,0.89,1021.2,0.97,0,34.03,39.92,53.7098,27.9534
+Belarus,,1/14/2020,Overcast throughout the day.,cloudy,0.68,0.0003,0.0034,0.15,rain,41.89,35.33,30.02,0.79,1021.5,0.97,0,32.38,41.89,53.7098,27.9534
+Belarus,,1/15/2020,Overcast throughout the day.,partly-cloudy-day,0.72,0.0,0.0002,0.09,,42.89,28.49,31.77,0.8,1023.6,0.85,0,33.47,42.89,53.7098,27.9534
+Belarus,,1/16/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0005,0.06,rain,38.67,27.43,28.82,0.86,1031.3,0.26,0,28.15,38.67,53.7098,27.9534
+Belarus,,1/17/2020,Overcast throughout the day.,partly-cloudy-day,0.79,0.0001,0.0006,0.04,rain,34.46,28.28,24.85,0.8,1026.6,0.82,0,27.31,34.46,53.7098,27.9534
+Belarus,,1/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0002,0.0004,0.04,snow,35.02,30.89,26.28,0.83,1029.4,0.75,0,28.04,35.02,53.7098,27.9534
+Belarus,,1/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.86,0.0002,0.0006,0.06,snow,36.02,30.91,28.46,0.83,1037.0,0.76,0,30.91,36.02,53.7098,27.9534
+Belarus,,1/20/2020,Overcast throughout the day.,cloudy,0.9,0.0004,0.0019,0.17,rain,37.59,36.34,30.21,0.84,1025.0,0.98,1,30.91,39.63,53.7098,27.9534
+Belarus,,1/21/2020,Light rain until evening.,rain,0.93,0.0071,0.0219,0.78,rain,40.43,28.62,32.93,0.86,1012.0,0.91,0,31.71,40.43,53.7098,27.9534
+Belarus,,1/22/2020,Mostly cloudy throughout the day.,snow,0.96,0.0005,0.0019,0.28,snow,35.77,28.81,25.6,0.76,1021.0,0.82,0,28.62,35.77,53.7098,27.9534
+Belarus,,1/23/2020,Possible drizzle overnight.,cloudy,1.0,0.0013,0.0073,0.22,snow,38.77,34.21,28.69,0.81,1015.2,1.0,1,28.81,38.77,53.7098,27.9534
+Belarus,,1/24/2020,Overcast throughout the day.,rain,0.03,0.0022,0.0111,0.6,rain,41.76,29.11,31.9,0.83,1012.4,0.9,1,34.21,41.76,53.7098,27.9534
+Belarus,,1/25/2020,Overcast throughout the day.,partly-cloudy-day,0.06,0.0001,0.0004,0.14,rain,39.68,29.95,29.54,0.83,1017.9,0.78,1,29.11,39.68,53.7098,27.9534
+Belarus,,1/26/2020,Possible flurries (< 1 in.) in the evening.,snow,0.09,0.0013,0.0043,0.4,snow,36.41,29.36,28.05,0.84,1015.2,1.0,1,29.95,36.41,53.7098,27.9534
+Belarus,,1/27/2020,Overcast throughout the day.,snow,0.12,0.0002,0.0016,0.3,snow,37.04,32.77,28.97,0.86,1008.2,0.9,1,29.36,37.04,53.7098,27.9534
+Belarus,,1/28/2020,Light snow (1–2 in.) until evening.,snow,0.15,0.008,0.0228,0.78,snow,34.97,30.0,31.03,0.91,999.2,1.0,1,31.86,34.97,53.7098,27.9534
+Belarus,,1/29/2020,Foggy in the evening.,snow,0.18,0.0008,0.0037,0.53,snow,37.86,28.39,29.8,0.88,1001.3,1.0,1,30.0,37.86,53.7098,27.9534
+Belarus,,1/30/2020,Light rain until evening.,rain,0.21,0.0035,0.0161,0.74,rain,36.76,31.84,30.96,0.93,999.5,0.89,1,28.39,36.76,53.7098,27.9534
+Belarus,,1/31/2020,Light rain starting in the afternoon.,rain,0.24,0.0036,0.0227,0.82,rain,39.19,38.2,34.17,0.93,1002.0,0.98,1,31.84,44.09,53.7098,27.9534
+Belarus,,2/1/2020,Light rain in the morning and afternoon.,rain,0.27,0.0123,0.0494,0.96,rain,46.18,34.11,39.7,0.87,994.4,0.97,1,37.21,46.18,53.7098,27.9534
+Belarus,,2/2/2020,Mostly cloudy throughout the day.,rain,0.3,0.0011,0.0021,0.47,rain,38.27,28.77,30.44,0.81,996.5,0.89,1,33.27,38.27,53.7098,27.9534
+Belarus,,2/3/2020,Overcast throughout the day.,snow,0.34,0.0005,0.002,0.31,snow,36.19,20.31,25.93,0.79,1001.0,0.91,1,27.12,36.19,53.7098,27.9534
+Belarus,,2/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.04,snow,31.78,23.22,15.05,0.65,1014.5,0.23,1,20.31,31.78,53.7098,27.9534
+Belarus,,2/5/2020,Foggy in the morning and afternoon.,snow,0.41,0.0022,0.0081,0.39,snow,39.98,20.8,23.05,0.76,1012.6,0.52,1,23.22,39.98,53.7098,27.9534
+Belarus,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0002,0.001,0.07,snow,28.72,20.22,12.12,0.6,1021.2,0.02,1,20.8,28.72,53.7098,27.9534
+Belarus,,2/7/2020,Foggy in the morning and afternoon.,snow,0.48,0.0031,0.0108,0.25,snow,34.96,22.93,22.0,0.8,1024.4,0.9,1,20.22,34.96,53.7098,27.9534
+Belarus,,2/8/2020,Windy overnight.,partly-cloudy-day,0.52,0.0001,0.0003,0.07,snow,36.74,28.54,25.27,0.82,1022.6,0.44,1,22.93,36.74,53.7098,27.9534
+Belarus,,2/9/2020,Light rain starting in the afternoon.,rain,0.56,0.0138,0.0656,0.87,rain,37.78,35.0,27.78,0.79,998.6,0.73,1,28.54,40.86,53.7098,27.9534
+Belarus,,2/10/2020,Drizzle in the morning.,rain,0.59,0.0029,0.0149,0.87,rain,39.06,32.36,32.99,0.87,990.2,0.94,1,33.45,40.63,53.7098,27.9534
+Belarus,,2/11/2020,Drizzle until evening.,snow,0.63,0.0029,0.0087,0.83,snow,37.92,31.59,30.83,0.87,997.1,0.97,1,31.59,37.92,53.7098,27.9534
+Belarus,,2/12/2020,Possible drizzle in the afternoon.,snow,0.67,0.0008,0.0019,0.61,snow,38.97,27.62,31.11,0.87,1007.7,0.94,1,32.11,38.97,53.7098,27.9534
+Belarus,,2/13/2020,Overcast throughout the day.,snow,0.71,0.0005,0.0025,0.3,snow,39.81,23.13,29.36,0.86,1017.4,0.94,1,27.45,39.81,53.7098,27.9534
+Belarus,,2/14/2020,Clear throughout the day.,partly-cloudy-day,0.74,0.0002,0.0015,0.19,snow,40.07,27.31,26.51,0.83,1026.4,0.44,1,23.13,40.07,53.7098,27.9534
+Belarus,,2/15/2020,Windy in the evening and overnight.,wind,0.78,0.0001,0.0003,0.11,snow,42.42,38.0,27.92,0.78,1023.2,0.79,1,27.31,42.42,53.7098,27.9534
+Belarus,,2/16/2020,Windy in the morning.,wind,0.81,0.0001,0.0003,0.06,rain,52.64,39.58,35.23,0.7,1012.1,1.0,1,38.42,52.64,53.7098,27.9534
+Belarus,,2/17/2020,Overcast throughout the day.,rain,0.84,0.001,0.0047,0.44,rain,49.73,35.13,36.48,0.77,1012.6,0.9,1,39.38,49.73,53.7098,27.9534
+Belarus,,2/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.88,0.0003,0.0028,0.21,rain,43.98,28.82,32.38,0.77,1013.8,0.69,1,35.12,43.98,53.7098,27.9534
+Belarus,,2/19/2020,Clear throughout the day.,rain,0.91,0.0001,0.0004,0.26,rain,44.5,30.17,31.76,0.83,1017.4,0.59,1,28.82,44.5,53.7098,27.9534
+Belarus,,2/20/2020,Clear throughout the day.,partly-cloudy-day,0.94,0.0001,0.0005,0.22,rain,43.45,32.58,29.95,0.79,1019.4,0.44,1,30.17,43.45,53.7098,27.9534
+Belarus,,2/21/2020,Windy in the evening and overnight.,wind,0.97,0.0003,0.0018,0.19,rain,44.56,37.39,30.58,0.75,1018.9,0.81,1,32.58,44.56,53.7098,27.9534
+Belarus,,2/22/2020,Mostly cloudy throughout the day.,rain,0.0,0.0011,0.0028,0.56,rain,43.6,27.98,31.65,0.72,1002.4,0.83,1,36.05,43.6,53.7098,27.9534
+Belarus,,2/23/2020,Mostly cloudy throughout the day.,rain,0.03,0.0007,0.0029,0.43,rain,41.59,24.2,28.63,0.78,1001.1,0.55,1,27.98,41.59,53.7098,27.9534
+Belarus,,2/24/2020,Possible light rain in the evening and overnight.,snow,0.06,0.0019,0.01,0.46,snow,41.73,35.78,28.52,0.84,1003.6,0.74,1,24.2,41.73,53.7098,27.9534
+Belarus,,2/25/2020,Light rain in the morning and overnight.,rain,0.09,0.0049,0.0303,0.72,rain,47.12,35.02,36.05,0.82,993.6,0.84,1,36.62,47.12,53.7098,27.9534
+Belarus,,2/26/2020,Drizzle in the morning and afternoon.,rain,0.12,0.005,0.0211,0.84,rain,40.04,27.58,32.46,0.85,995.2,0.95,1,31.04,40.04,53.7098,27.9534
+Belarus,,2/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.15,0.0003,0.001,0.23,snow,39.21,31.16,25.89,0.76,1003.1,0.38,1,27.58,39.21,53.7098,27.9534
+Belarus,,2/28/2020,Foggy in the morning.,snow,0.18,0.0005,0.0018,0.31,snow,40.08,33.43,28.24,0.77,1009.9,0.73,1,31.16,40.08,53.7098,27.9534
+Belarus,,2/29/2020,Possible drizzle in the afternoon.,rain,0.22,0.0022,0.0104,0.62,rain,43.36,34.13,32.06,0.8,1005.7,0.97,1,33.43,43.36,53.7098,27.9534
+Belarus,,3/1/2020,Light rain in the evening and overnight.,rain,0.25,0.0025,0.0168,0.68,rain,47.36,37.9,36.27,0.86,1004.5,0.82,1,34.13,47.36,53.7098,27.9534
+Belarus,,3/2/2020,Possible drizzle in the morning.,rain,0.28,0.0028,0.0125,0.71,rain,49.37,40.53,37.75,0.86,1004.5,0.91,1,37.9,49.37,53.7098,27.9534
+Belarus,,3/3/2020,Possible drizzle in the afternoon.,rain,0.31,0.0024,0.015,0.62,rain,49.66,40.99,40.6,0.84,1007.5,0.97,1,40.53,49.66,53.7098,27.9534
+Belarus,,3/4/2020,Possible drizzle in the morning.,rain,0.35,0.0018,0.0071,0.62,rain,44.71,33.63,38.31,0.87,1006.9,1.0,1,37.57,47.33,53.7098,27.9534
+Belarus,,3/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.39,0.0001,0.0005,0.13,rain,42.56,36.43,33.41,0.85,1008.8,0.81,2,33.63,42.56,53.7098,27.9534
+Belarus,,3/6/2020,Possible drizzle in the afternoon.,rain,0.42,0.0017,0.0099,0.51,rain,44.86,35.32,36.83,0.88,1008.9,0.94,2,36.43,44.86,53.7098,27.9534
+Belarus,,3/7/2020,Overcast throughout the day.,rain,0.46,0.0004,0.0015,0.31,rain,48.88,32.01,36.64,0.83,1016.0,0.91,2,35.32,48.88,53.7098,27.9534
+Belarus,,3/8/2020,Light rain in the evening and overnight.,rain,0.5,0.0015,0.0129,0.52,rain,47.94,36.43,34.34,0.81,1017.5,0.56,2,32.01,47.94,53.7098,27.9534
+Belarus,,3/9/2020,Partly cloudy throughout the day.,rain,0.54,0.0018,0.0158,0.69,rain,47.63,34.56,35.91,0.82,1012.4,0.6,2,35.98,47.63,53.7098,27.9534
+Belarus,,3/10/2020,Light rain in the morning and afternoon.,rain,0.58,0.005,0.0305,0.83,rain,46.18,34.56,35.1,0.84,1001.4,0.77,2,34.56,46.18,53.7098,27.9534
+Belarus,,3/11/2020,Rain and dangerously windy starting in the afternoon.,rain,0.62,0.0212,0.1458,0.9,rain,53.09,35.44,36.33,0.77,1002.1,0.67,2,34.56,53.09,53.7098,27.9534
+Belarus,,3/12/2020,Windy in the morning.,wind,0.66,0.0006,0.0129,0.21,rain,48.93,34.63,30.59,0.68,1003.3,0.55,1,35.44,48.93,53.7098,27.9534
+Belarus,,3/13/2020,Light snow (< 1 in.) in the morning and afternoon.,rain,0.69,0.0039,0.0147,0.76,rain,36.73,24.26,25.03,0.72,1007.3,0.82,1,27.51,37.54,53.7098,27.9534
+Belarus,,3/14/2020,Clear throughout the day.,clear-day,0.73,0.0004,0.0017,0.11,snow,38.62,23.37,17.32,0.6,1025.9,0.24,2,24.26,38.62,53.7098,27.9534
+Belarus,,3/15/2020,Foggy overnight.,partly-cloudy-day,0.76,0.0,0.0002,0.01,,47.32,34.05,18.16,0.53,1025.2,0.62,2,23.37,47.32,53.7098,27.9534
+Belarus,,3/16/2020,Foggy in the morning.,rain,0.79,0.0024,0.0113,0.38,rain,46.38,29.85,31.88,0.77,1023.1,0.96,2,33.5,46.38,53.7098,27.9534
+Belarus,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0001,0.0004,0.04,snow,56.93,45.31,34.37,0.74,1025.5,0.73,3,29.85,56.93,53.7098,27.9534
+Belarus,,3/18/2020,Overcast throughout the day.,cloudy,0.86,0.0005,0.0032,0.23,rain,50.49,29.97,38.23,0.72,1018.9,0.94,2,38.94,50.49,53.7098,27.9534
+Belarus,,3/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.89,0.0,0.0002,0.05,,50.47,31.3,28.11,0.65,1022.1,0.42,3,29.97,50.47,53.7098,27.9534
+Belarus,,3/20/2020,Light snow (1–2 in.) in the afternoon and evening.,snow,0.92,0.006,0.0175,0.75,snow,39.03,26.16,28.64,0.78,1020.6,0.7,2,27.73,40.01,53.7098,27.9534
+Belarus,,3/21/2020,Possible light snow (< 1 in.) in the morning.,snow,0.95,0.0019,0.0095,0.42,snow,34.99,21.55,17.76,0.63,1030.0,0.51,2,26.16,34.99,53.7098,27.9534
+Belarus,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0004,0.05,snow,36.25,18.62,14.61,0.58,1039.2,0.02,2,21.55,36.25,53.7098,27.9534
+Belarus,,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.03,snow,42.01,20.48,14.91,0.59,1040.0,0.0,3,18.62,42.01,53.7098,27.9534
+Belarus,,3/24/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0004,0.02,snow,50.03,24.46,16.18,0.53,1039.4,0.1,3,20.48,50.03,53.7098,27.9534
+Belarus,,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0004,0.02,snow,55.72,29.56,19.38,0.52,1037.7,0.03,3,24.46,55.72,53.7098,27.9534
+Belarus,,3/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0004,0.03,snow,61.59,31.65,20.16,0.48,1032.0,0.73,2,29.56,61.59,53.7098,27.9534
+Belarus,,3/27/2020,Overcast throughout the day.,partly-cloudy-day,0.13,0.0001,0.0004,0.03,rain,65.37,39.42,26.68,0.52,1020.2,0.79,2,31.65,65.37,53.7098,27.9534
+Belarus,,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.16,0.0022,0.0117,0.21,rain,61.16,27.19,32.34,0.56,1008.9,0.83,3,37.5,61.16,53.7098,27.9534
+Belarus,,3/29/2020,Foggy in the morning.,cloudy,0.19,0.0009,0.0038,0.18,snow,35.41,23.02,19.21,0.62,1014.8,1.0,2,27.18,35.72,53.7098,27.9534
+Belarus,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.06,snow,40.82,26.07,12.63,0.47,1021.7,0.57,3,23.02,40.82,53.7098,27.9534
+Belarus,,3/31/2020,Overcast throughout the day.,partly-cloudy-day,0.26,0.0001,0.0005,0.09,snow,42.29,32.89,24.11,0.67,1014.3,0.86,2,26.07,42.29,53.7098,27.9534
+Belarus,,4/1/2020,Overcast throughout the day.,cloudy,0.3,0.0002,0.0008,0.09,rain,48.75,35.2,29.91,0.67,1007.5,0.91,3,32.89,48.75,53.7098,27.9534
+Belarus,,4/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.33,0.0015,0.0064,0.21,rain,50.01,31.17,29.81,0.62,1004.6,0.49,3,35.2,50.01,53.7098,27.9534
+Belarus,,4/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0005,0.0018,0.16,rain,47.38,28.91,28.05,0.66,1019.1,0.32,3,31.17,47.38,53.7098,27.9534
+Belarus,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0002,0.03,,53.33,31.25,25.89,0.59,1032.3,0.13,4,28.91,53.33,53.7098,27.9534
+Belarus,,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0,0.0002,0.01,,60.14,33.46,28.12,0.57,1035.6,0.12,4,31.25,60.14,53.7098,27.9534
+Belarus,,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0002,0.01,,66.93,42.96,24.65,0.45,1033.3,0.07,5,33.46,66.93,53.7098,27.9534
+Belarus,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0,0.0003,0.01,,62.4,35.42,32.74,0.53,1026.7,0.08,4,42.96,62.4,53.7098,27.9534
+Belarus,,4/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.001,0.0074,0.1,rain,66.77,34.81,35.39,0.58,1017.4,0.72,3,35.42,66.77,53.7098,27.9534
+Belarus,,4/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.6,0.0001,0.0005,0.06,rain,51.47,35.02,27.44,0.56,1018.7,0.33,4,34.81,51.47,53.7098,27.9534
+Belarus,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.04,rain,50.36,28.08,21.01,0.49,1023.6,0.17,4,34.22,50.36,53.7098,27.9534
+Belarus,,4/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.68,0.0,0.0003,0.02,,56.47,37.61,17.82,0.4,1023.2,0.59,5,28.08,56.47,53.7098,27.9534
+Belarus,,4/12/2020,Possible drizzle in the evening.,rain,0.71,0.0018,0.0087,0.44,rain,69.45,33.0,32.91,0.52,1005.0,0.55,5,37.61,69.45,53.7098,27.9534
+Belarus,,4/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.74,0.0002,0.0006,0.11,rain,46.49,29.33,26.12,0.6,1008.4,0.71,5,33.0,46.49,53.7098,27.9534
+Belarus,,4/14/2020,Possible drizzle in the afternoon and evening.,rain,0.78,0.0019,0.0055,0.53,rain,43.02,38.92,30.29,0.77,1009.4,0.83,3,29.33,43.02,53.7098,27.9534
+Belarus,,4/15/2020,Windy in the morning and afternoon.,wind,0.81,0.0008,0.0022,0.22,rain,51.43,33.81,35.31,0.73,1003.4,0.91,3,39.3,51.43,53.7098,27.9534
+Belarus,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0016,0.0042,0.19,rain,48.82,31.75,27.09,0.58,1009.6,0.39,4,33.81,48.82,53.7098,27.9534
+Belarus,,4/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0002,0.0009,0.06,snow,49.64,31.5,27.21,0.6,1015.5,0.52,3,31.75,49.64,53.7098,27.9534
+Belarus,,4/18/2020,Mostly cloudy throughout the day.,rain,0.9,0.0013,0.0063,0.25,rain,46.2,27.76,27.92,0.65,1016.9,0.67,3,31.5,46.2,53.7098,27.9534
+Belarus,,4/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0002,0.0007,0.08,snow,48.08,30.58,27.49,0.64,1023.0,0.45,4,27.76,48.08,53.7098,27.9534
+Belarus,,4/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.96,0.0002,0.0008,0.05,rain,52.99,37.72,31.08,0.65,1025.7,0.46,4,30.58,52.99,53.7098,27.9534

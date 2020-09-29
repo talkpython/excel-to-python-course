@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Mongolia,,12/31/2019,Clear throughout the day.,clear-day,0.2,0.0001,0.0002,0.04,snow,22.08,9.19,-5.01,0.46,1032.4,0.07,1,5.94,22.08,46.8625,103.8467
+Mongolia,,1/1/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0003,0.05,snow,26.36,8.65,-1.5,0.47,1034.4,0.23,1,9.19,26.36,46.8625,103.8467
+Mongolia,,1/2/2020,Clear throughout the day.,clear-day,0.26,0.0,0.0,0.0,,28.47,11.66,-3.76,0.41,1032.8,0.0,1,8.65,28.47,46.8625,103.8467
+Mongolia,,1/3/2020,Clear throughout the day.,partly-cloudy-day,0.29,0.0002,0.0009,0.04,snow,29.46,9.75,3.29,0.52,1028.7,0.37,1,11.66,29.46,46.8625,103.8467
+Mongolia,,1/4/2020,Clear throughout the day.,partly-cloudy-day,0.32,0.0002,0.0013,0.1,snow,19.05,4.19,3.5,0.67,1029.6,0.38,1,6.18,19.05,46.8625,103.8467
+Mongolia,,1/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.0,0.0002,0.01,,21.32,-0.52,-0.95,0.61,1036.0,0.48,1,4.19,21.32,46.8625,103.8467
+Mongolia,,1/6/2020,Clear throughout the day.,clear-day,0.39,0.0001,0.0002,0.07,snow,18.09,-3.28,-4.35,0.62,1035.6,0.09,1,-0.52,18.09,46.8625,103.8467
+Mongolia,,1/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.42,0.0,0.0002,0.04,,14.75,-3.0,-5.0,0.68,1031.7,0.53,1,-3.26,14.75,46.8625,103.8467
+Mongolia,,1/8/2020,Clear throughout the day.,clear-day,0.45,0.0,0.0001,0.02,,12.94,-4.66,-9.7,0.55,1033.6,0.01,1,-3.0,12.94,46.8625,103.8467
+Mongolia,,1/9/2020,Foggy overnight.,partly-cloudy-day,0.49,0.0002,0.0036,0.06,snow,16.4,0.76,-8.2,0.56,1037.2,0.42,1,-4.66,16.4,46.8625,103.8467
+Mongolia,,1/10/2020,Foggy in the morning and afternoon.,cloudy,0.53,0.0014,0.0056,0.14,snow,6.85,-7.85,-3.51,0.74,1035.7,0.94,1,-3.13,6.85,46.8625,103.8467
+Mongolia,,1/11/2020,Clear throughout the day.,clear-day,0.56,0.0001,0.0003,0.03,snow,10.95,-4.33,-9.96,0.64,1035.7,0.03,1,-7.85,10.95,46.8625,103.8467
+Mongolia,,1/12/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0002,0.02,snow,18.93,-2.65,-9.8,0.56,1028.9,0.21,1,-6.53,18.93,46.8625,103.8467
+Mongolia,,1/13/2020,Clear throughout the day.,clear-day,0.64,0.0,0.0,0.0,,20.95,0.08,-10.54,0.47,1027.8,0.07,1,-2.65,20.95,46.8625,103.8467
+Mongolia,,1/14/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0001,0.02,,21.72,1.67,-6.1,0.53,1033.0,0.21,1,-0.04,21.72,46.8625,103.8467
+Mongolia,,1/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0002,0.03,snow,19.75,3.93,-2.95,0.59,1031.3,0.36,1,1.67,19.75,46.8625,103.8467
+Mongolia,,1/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.0001,0.0004,0.04,snow,19.57,0.71,-3.06,0.58,1028.0,0.68,1,3.93,19.57,46.8625,103.8467
+Mongolia,,1/17/2020,Windy overnight.,clear-day,0.79,0.0001,0.0002,0.04,snow,20.6,5.36,-9.5,0.43,1024.0,0.23,1,0.71,20.6,46.8625,103.8467
+Mongolia,,1/18/2020,Windy in the morning.,wind,0.82,0.0,0.0001,0.01,,17.07,3.82,-5.73,0.5,1025.4,0.16,1,4.66,17.07,46.8625,103.8467
+Mongolia,,1/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.86,0.0,0.0,0.0,,27.37,2.83,-1.07,0.53,1016.2,0.56,1,3.82,27.37,46.8625,103.8467
+Mongolia,,1/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0001,0.0002,0.06,snow,20.64,2.18,-1.94,0.6,1021.8,0.47,1,2.83,20.64,46.8625,103.8467
+Mongolia,,1/21/2020,Clear throughout the day.,clear-day,0.92,0.0,0.0001,0.01,,21.58,-1.52,-4.12,0.56,1023.2,0.29,1,2.18,21.58,46.8625,103.8467
+Mongolia,,1/22/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0002,0.02,snow,22.21,1.84,-5.31,0.55,1033.3,0.12,1,-1.52,22.21,46.8625,103.8467
+Mongolia,,1/23/2020,Clear throughout the day.,clear-day,0.99,0.0,0.0002,0.02,,28.87,6.42,-5.27,0.47,1032.5,0.17,1,1.84,28.87,46.8625,103.8467
+Mongolia,,1/24/2020,Clear throughout the day.,clear-day,0.02,0.0,0.0002,0.01,,30.0,10.21,-2.25,0.46,1028.3,0.0,1,6.42,30.0,46.8625,103.8467
+Mongolia,,1/25/2020,Clear throughout the day.,clear-day,0.05,0.0001,0.0003,0.01,snow,34.58,8.6,-2.28,0.38,1025.6,0.0,1,10.21,34.58,46.8625,103.8467
+Mongolia,,1/26/2020,Clear throughout the day.,clear-day,0.08,0.0001,0.0004,0.01,snow,28.33,2.21,-1.57,0.47,1027.1,0.0,1,7.56,28.33,46.8625,103.8467
+Mongolia,,1/27/2020,Clear throughout the day.,clear-day,0.11,0.0,0.0003,0.01,,22.26,3.13,-1.8,0.58,1030.8,0.11,1,2.21,22.26,46.8625,103.8467
+Mongolia,,1/28/2020,Clear throughout the day.,clear-day,0.14,0.0002,0.0003,0.04,snow,28.33,4.87,0.55,0.59,1028.9,0.04,1,3.13,28.33,46.8625,103.8467
+Mongolia,,1/29/2020,Foggy overnight.,clear-day,0.17,0.0001,0.0003,0.06,snow,19.51,-5.03,-2.17,0.57,1026.5,0.21,1,2.63,19.51,46.8625,103.8467
+Mongolia,,1/30/2020,Clear throughout the day.,clear-day,0.2,0.0001,0.0005,0.05,snow,9.09,-8.82,-15.07,0.48,1035.9,0.18,1,-5.25,9.09,46.8625,103.8467
+Mongolia,,1/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.04,snow,6.12,-10.2,-16.82,0.5,1037.1,0.46,1,-8.82,6.12,46.8625,103.8467
+Mongolia,,2/1/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0003,0.01,snow,19.36,-0.82,-13.46,0.46,1034.1,0.2,1,-10.2,19.36,46.8625,103.8467
+Mongolia,,2/2/2020,Clear throughout the day.,clear-day,0.3,0.0,0.0002,0.01,,18.25,-1.68,-7.66,0.53,1029.8,0.05,1,-0.82,18.25,46.8625,103.8467
+Mongolia,,2/3/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0003,0.01,snow,26.36,1.05,-6.37,0.5,1031.5,0.0,1,-1.68,26.36,46.8625,103.8467
+Mongolia,,2/4/2020,Clear throughout the day.,clear-day,0.36,0.0001,0.0003,0.02,snow,27.39,4.12,-5.7,0.47,1028.8,0.31,2,1.05,27.39,46.8625,103.8467
+Mongolia,,2/5/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0003,0.02,snow,21.6,2.76,-0.79,0.59,1032.3,0.09,2,4.12,21.6,46.8625,103.8467
+Mongolia,,2/6/2020,Clear throughout the day.,clear-day,0.43,0.0001,0.0003,0.03,snow,31.54,9.7,-1.11,0.51,1032.4,0.0,2,2.76,31.54,46.8625,103.8467
+Mongolia,,2/7/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0003,0.02,,34.45,16.26,4.11,0.51,1029.8,0.06,2,9.7,34.45,46.8625,103.8467
+Mongolia,,2/8/2020,Clear throughout the day.,clear-day,0.51,0.0001,0.0003,0.02,snow,45.22,21.26,4.63,0.38,1018.4,0.16,2,16.26,45.22,46.8625,103.8467
+Mongolia,,2/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.55,0.0002,0.0004,0.02,snow,47.71,21.97,2.25,0.29,1008.5,0.47,2,21.26,47.71,46.8625,103.8467
+Mongolia,,2/10/2020,Clear throughout the day.,clear-day,0.59,0.0001,0.0002,0.02,snow,48.49,14.33,5.55,0.32,1009.2,0.26,2,21.97,48.49,46.8625,103.8467
+Mongolia,,2/11/2020,Foggy throughout the day.,cloudy,0.62,0.0019,0.0068,0.19,snow,18.65,-2.46,2.06,0.59,1016.5,0.97,2,2.43,32.8,46.8625,103.8467
+Mongolia,,2/12/2020,Foggy in the morning and overnight.,snow,0.66,0.0016,0.0072,0.26,snow,6.23,-8.49,-9.44,0.61,1037.7,0.96,1,-2.46,6.23,46.8625,103.8467
+Mongolia,,2/13/2020,Foggy in the morning.,partly-cloudy-day,0.7,0.0001,0.0003,0.05,snow,12.74,-1.45,-10.6,0.6,1048.2,0.45,2,-8.49,12.74,46.8625,103.8467
+Mongolia,,2/14/2020,Clear throughout the day.,clear-day,0.74,0.0001,0.0003,0.01,snow,23.57,3.81,-13.96,0.36,1045.3,0.17,2,-1.45,23.57,46.8625,103.8467
+Mongolia,,2/15/2020,Clear throughout the day.,clear-day,0.77,0.0001,0.0003,0.02,snow,35.04,7.8,-8.92,0.32,1040.3,0.0,2,3.81,35.04,46.8625,103.8467
+Mongolia,,2/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0001,0.0003,0.03,snow,27.26,2.87,-1.69,0.48,1035.6,0.42,2,5.96,27.26,46.8625,103.8467
+Mongolia,,2/17/2020,Overcast throughout the day.,cloudy,0.84,0.0002,0.0004,0.07,snow,23.41,6.47,0.65,0.64,1031.8,0.92,1,2.87,23.41,46.8625,103.8467
+Mongolia,,2/18/2020,Foggy overnight.,partly-cloudy-day,0.87,0.0005,0.0087,0.05,snow,28.88,7.85,4.46,0.62,1025.0,0.61,1,6.47,28.88,46.8625,103.8467
+Mongolia,,2/19/2020,Foggy in the morning.,snow,0.9,0.0018,0.0072,0.25,snow,17.82,2.29,2.05,0.65,1027.7,0.92,1,6.87,17.82,46.8625,103.8467
+Mongolia,,2/20/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0004,0.06,snow,23.0,6.72,-5.81,0.48,1035.0,0.0,2,2.29,23.0,46.8625,103.8467
+Mongolia,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0004,0.04,snow,40.11,15.99,-1.87,0.37,1022.9,0.3,2,6.72,40.11,46.8625,103.8467
+Mongolia,,2/22/2020,Overcast throughout the day.,cloudy,1.0,0.0001,0.0003,0.03,snow,42.18,13.28,7.82,0.46,1016.2,0.95,2,15.99,42.18,46.8625,103.8467
+Mongolia,,2/23/2020,Snow (4–8 in.) in the afternoon.,snow,0.03,0.0146,0.0397,0.48,snow,21.65,8.86,10.83,0.8,1023.9,1.0,2,13.02,21.65,46.8625,103.8467
+Mongolia,,2/24/2020,Foggy in the morning.,partly-cloudy-day,0.06,0.0005,0.0022,0.24,snow,24.46,10.55,7.54,0.74,1028.7,0.76,2,8.86,24.46,46.8625,103.8467
+Mongolia,,2/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.09,0.0007,0.0035,0.17,snow,30.83,4.36,12.27,0.74,1026.4,0.62,2,10.98,30.83,46.8625,103.8467
+Mongolia,,2/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.12,0.0001,0.0005,0.1,snow,23.52,7.48,2.3,0.65,1026.3,0.51,2,4.36,23.52,46.8625,103.8467
+Mongolia,,2/27/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.15,0.0003,0.003,0.14,snow,34.42,11.52,9.46,0.66,1017.6,0.62,2,7.48,34.42,46.8625,103.8467
+Mongolia,,2/28/2020,Foggy in the morning.,cloudy,0.18,0.0016,0.0092,0.19,snow,22.74,5.46,7.65,0.7,1028.2,0.89,2,9.26,22.74,46.8625,103.8467
+Mongolia,,2/29/2020,Foggy overnight.,partly-cloudy-day,0.21,0.001,0.0087,0.13,snow,28.4,-0.45,4.07,0.6,1027.2,0.54,2,5.46,28.4,46.8625,103.8467
+Mongolia,,3/1/2020,Foggy in the morning.,partly-cloudy-day,0.24,0.001,0.0088,0.18,snow,12.38,-8.92,-2.54,0.7,1034.6,0.58,2,-4.27,12.38,46.8625,103.8467
+Mongolia,,3/2/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0003,0.08,snow,19.37,3.72,-9.59,0.55,1036.8,0.01,3,-8.92,19.37,46.8625,103.8467
+Mongolia,,3/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0,0.0002,0.01,,33.58,15.29,-0.56,0.45,1021.9,0.37,3,3.72,33.58,46.8625,103.8467
+Mongolia,,3/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0,0.0003,0.02,,26.89,6.6,7.22,0.57,1014.7,0.55,2,14.3,26.89,46.8625,103.8467
+Mongolia,,3/5/2020,Clear throughout the day.,clear-day,0.38,0.0001,0.0003,0.01,snow,40.18,18.95,5.91,0.52,1015.2,0.11,3,6.6,40.18,46.8625,103.8467
+Mongolia,,3/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.42,0.0001,0.0006,0.02,snow,29.44,8.26,8.8,0.59,1011.0,0.85,2,13.0,29.44,46.8625,103.8467
+Mongolia,,3/7/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.45,0.0028,0.0121,0.21,snow,12.63,1.47,1.43,0.72,1027.6,0.82,2,3.26,13.57,46.8625,103.8467
+Mongolia,,3/8/2020,Clear throughout the day.,clear-day,0.49,0.0001,0.0003,0.03,snow,22.42,5.86,-2.73,0.53,1027.9,0.17,3,1.47,22.42,46.8625,103.8467
+Mongolia,,3/9/2020,Clear throughout the day.,partly-cloudy-day,0.53,0.0,0.0004,0.01,,35.76,16.68,4.76,0.52,1016.5,0.42,3,5.86,35.76,46.8625,103.8467
+Mongolia,,3/10/2020,Foggy in the morning and afternoon.,snow,0.57,0.0023,0.0062,0.32,snow,18.53,-1.14,8.28,0.72,1020.4,0.91,2,7.23,20.19,46.8625,103.8467
+Mongolia,,3/11/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0004,0.05,snow,22.65,8.74,-1.85,0.6,1035.0,0.18,4,-1.14,22.65,46.8625,103.8467
+Mongolia,,3/12/2020,Clear throughout the day.,clear-day,0.65,0.0001,0.0004,0.01,snow,31.88,15.87,3.61,0.5,1030.7,0.13,4,8.74,31.88,46.8625,103.8467
+Mongolia,,3/13/2020,Clear throughout the day.,clear-day,0.68,0.0001,0.0004,0.03,snow,45.83,19.56,9.25,0.48,1025.7,0.0,4,15.87,45.83,46.8625,103.8467
+Mongolia,,3/14/2020,Partly cloudy throughout the day.,clear-day,0.72,0.0001,0.0004,0.02,snow,42.25,24.43,7.72,0.38,1019.5,0.22,4,19.56,42.25,46.8625,103.8467
+Mongolia,,3/15/2020,Clear throughout the day.,clear-day,0.75,0.0,0.0,0.0,,47.78,27.48,12.49,0.4,1020.9,0.18,4,24.43,47.78,46.8625,103.8467
+Mongolia,,3/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.79,0.0002,0.0021,0.02,snow,52.36,18.76,8.96,0.32,1013.0,0.61,3,27.48,52.36,46.8625,103.8467
+Mongolia,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.82,0.0004,0.0016,0.05,snow,44.34,25.86,0.57,0.34,1019.3,0.56,3,18.76,44.34,46.8625,103.8467
+Mongolia,,3/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.85,0.0001,0.0003,0.04,snow,46.45,18.01,10.95,0.38,1008.9,0.65,3,25.63,46.45,46.8625,103.8467
+Mongolia,,3/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.88,0.0007,0.0046,0.14,snow,34.98,20.22,11.86,0.55,1013.4,0.54,2,18.01,34.98,46.8625,103.8467
+Mongolia,,3/20/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0004,0.02,snow,46.82,23.61,11.2,0.45,1017.6,0.02,4,20.22,46.82,46.8625,103.8467
+Mongolia,,3/21/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0004,0.01,snow,58.95,27.67,2.68,0.25,1017.4,0.08,4,23.61,58.95,46.8625,103.8467
+Mongolia,,3/22/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0004,0.01,snow,58.66,27.47,9.11,0.27,1012.0,0.16,4,27.67,58.66,46.8625,103.8467
+Mongolia,,3/23/2020,Windy in the afternoon.,wind,0.0,0.0001,0.0002,0.01,rain,52.73,9.6,8.59,0.36,1004.9,0.63,4,21.24,52.73,46.8625,103.8467
+Mongolia,,3/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0003,0.0007,0.1,snow,23.65,3.9,-5.06,0.42,1024.3,0.55,3,9.6,23.65,46.8625,103.8467
+Mongolia,,3/25/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0004,0.01,snow,27.85,9.78,-15.1,0.26,1034.0,0.05,4,3.9,27.85,46.8625,103.8467
+Mongolia,,3/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0004,0.03,snow,40.05,14.7,-4.98,0.33,1031.0,0.0,4,9.78,40.05,46.8625,103.8467
+Mongolia,,3/27/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0002,0.01,snow,48.12,18.79,-12.36,0.17,1015.2,0.0,4,14.7,48.12,46.8625,103.8467
+Mongolia,,3/28/2020,Clear throughout the day.,clear-day,0.16,0.0001,0.0004,0.01,snow,52.23,19.61,-13.97,0.14,1008.4,0.15,4,18.79,52.23,46.8625,103.8467
+Mongolia,,3/29/2020,Foggy in the morning.,snow,0.19,0.0033,0.0113,0.41,snow,31.5,14.43,8.95,0.52,1020.6,0.97,3,19.5,31.5,46.8625,103.8467
+Mongolia,,3/30/2020,Clear throughout the day.,clear-day,0.22,0.0002,0.0012,0.13,snow,35.99,16.31,-0.11,0.44,1032.7,0.06,4,14.43,35.99,46.8625,103.8467
+Mongolia,,3/31/2020,Clear throughout the day.,clear-day,0.25,0.0001,0.0004,0.04,snow,48.83,22.48,-4.71,0.22,1026.9,0.0,5,16.31,48.83,46.8625,103.8467
+Mongolia,,4/1/2020,Clear throughout the day.,clear-day,0.29,0.0001,0.0003,0.02,snow,57.0,25.73,-2.64,0.21,1025.6,0.0,5,22.48,57.0,46.8625,103.8467
+Mongolia,,4/2/2020,Clear throughout the day.,clear-day,0.32,0.0,0.0002,0.01,,59.74,27.86,-5.9,0.15,1026.0,0.0,6,25.73,59.74,46.8625,103.8467
+Mongolia,,4/3/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,61.2,28.55,-0.32,0.17,1023.4,0.0,5,27.86,61.2,46.8625,103.8467
+Mongolia,,4/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0,0.0002,0.01,,58.48,19.22,10.79,0.3,1019.9,0.5,4,28.55,58.48,46.8625,103.8467
+Mongolia,,4/5/2020,Clear throughout the day.,clear-day,0.44,0.0,0.0002,0.01,,57.59,26.5,9.68,0.4,1020.3,0.27,5,19.22,57.59,46.8625,103.8467
+Mongolia,,4/6/2020,Clear throughout the day.,clear-day,0.48,0.0,0.0003,0.01,,50.23,27.67,15.88,0.45,1019.6,0.18,4,26.5,50.23,46.8625,103.8467
+Mongolia,,4/7/2020,Overcast throughout the day.,partly-cloudy-day,0.52,0.0003,0.0022,0.03,snow,48.75,26.29,11.84,0.36,1020.3,0.8,3,27.67,48.75,46.8625,103.8467
+Mongolia,,4/8/2020,Clear throughout the day.,partly-cloudy-day,0.56,0.0001,0.0004,0.03,rain,51.53,26.87,5.85,0.28,1025.9,0.43,5,26.29,51.53,46.8625,103.8467
+Mongolia,,4/9/2020,Clear throughout the day.,clear-day,0.59,0.0001,0.0004,0.01,rain,57.03,30.36,3.75,0.24,1028.0,0.0,6,26.87,57.03,46.8625,103.8467
+Mongolia,,4/10/2020,Clear throughout the day.,clear-day,0.63,0.0001,0.0004,0.01,snow,59.19,36.54,0.18,0.18,1026.1,0.02,6,30.36,59.19,46.8625,103.8467
+Mongolia,,4/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.67,0.0001,0.0003,0.01,rain,62.22,30.16,0.88,0.15,1020.0,0.7,3,36.54,62.22,46.8625,103.8467
+Mongolia,,4/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.7,0.0,0.0,0.0,,56.91,24.01,13.5,0.32,1014.0,0.73,3,30.16,56.91,46.8625,103.8467
+Mongolia,,4/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.74,0.0004,0.0019,0.09,snow,40.66,21.75,18.13,0.58,1016.5,0.43,4,24.01,40.66,46.8625,103.8467
+Mongolia,,4/14/2020,Clear throughout the day.,clear-day,0.77,0.0,0.0001,0.03,,44.26,22.43,14.51,0.5,1019.7,0.08,6,21.75,44.26,46.8625,103.8467
+Mongolia,,4/15/2020,Clear throughout the day.,clear-day,0.8,0.0001,0.0003,0.03,snow,54.6,31.13,13.04,0.46,1021.9,0.0,6,22.43,54.6,46.8625,103.8467
+Mongolia,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0001,0.0002,0.03,snow,60.72,37.27,13.07,0.27,1015.9,0.47,5,31.13,60.72,46.8625,103.8467
+Mongolia,,4/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.86,0.0014,0.0171,0.17,rain,53.05,23.22,22.42,0.51,1013.5,0.82,3,31.94,53.05,46.8625,103.8467
+Mongolia,,4/18/2020,Partly cloudy throughout the day.,snow,0.89,0.0047,0.0229,0.28,snow,36.19,15.3,14.06,0.56,1026.9,0.63,4,23.22,36.19,46.8625,103.8467
+Mongolia,,4/19/2020,Clear throughout the day.,clear-day,0.92,0.0001,0.0003,0.04,snow,35.33,12.63,0.55,0.34,1030.6,0.14,6,15.3,35.33,46.8625,103.8467
+Mongolia,,4/20/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.03,snow,40.49,14.35,-5.57,0.28,1032.2,0.0,6,12.63,40.49,46.8625,103.8467

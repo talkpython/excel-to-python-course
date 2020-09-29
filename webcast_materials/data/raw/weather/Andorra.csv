@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Andorra,,12/31/2019,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0002,0.05,rain,59.15,39.76,16.84,0.31,1032.7,0.39,2,40.7,59.15,42.5063,1.5218
+Andorra,,1/1/2020,Clear throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.04,rain,61.3,38.97,19.48,0.34,1031.2,0.6,2,39.74,61.3,42.5063,1.5218
+Andorra,,1/2/2020,Overcast throughout the day.,cloudy,0.27,0.0001,0.0003,0.02,rain,53.82,32.26,20.12,0.39,1031.6,0.9,1,37.6,53.82,42.5063,1.5218
+Andorra,,1/3/2020,Clear throughout the day.,clear-day,0.3,0.0002,0.0003,0.1,rain,53.65,37.12,24.87,0.55,1033.8,0.31,2,32.26,53.65,42.5063,1.5218
+Andorra,,1/4/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.02,rain,58.55,38.27,8.07,0.23,1031.4,0.29,2,37.12,58.55,42.5063,1.5218
+Andorra,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,59.96,39.92,19.0,0.34,1029.3,0.0,2,38.27,59.96,42.5063,1.5218
+Andorra,,1/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0001,0.0002,0.06,rain,58.85,41.27,19.35,0.35,1030.8,0.46,1,39.8,58.85,42.5063,1.5218
+Andorra,,1/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0,0.0002,0.04,,57.22,37.62,31.82,0.58,1030.2,0.57,1,40.93,57.22,42.5063,1.5218
+Andorra,,1/8/2020,Foggy overnight.,clear-day,0.47,0.0,0.0002,0.02,,55.76,37.38,32.58,0.67,1026.3,0.13,2,37.62,55.76,42.5063,1.5218
+Andorra,,1/9/2020,Possible light rain in the morning.,rain,0.5,0.0062,0.0202,0.56,rain,45.93,28.83,29.24,0.67,1026.6,0.67,1,33.98,45.93,42.5063,1.5218
+Andorra,,1/10/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0008,0.03,rain,52.62,34.17,6.39,0.28,1031.9,0.02,2,28.83,52.62,42.5063,1.5218
+Andorra,,1/11/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0003,0.04,rain,55.5,34.12,-1.78,0.17,1030.8,0.19,2,34.82,55.5,42.5063,1.5218
+Andorra,,1/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0001,0.0003,0.02,rain,53.78,34.18,2.49,0.2,1024.2,0.55,2,34.12,53.78,42.5063,1.5218
+Andorra,,1/13/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,55.17,33.77,6.52,0.24,1020.1,0.31,2,34.18,55.17,42.5063,1.5218
+Andorra,,1/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0,0.0001,0.01,,55.48,31.77,11.62,0.31,1022.3,0.58,2,33.77,55.48,42.5063,1.5218
+Andorra,,1/15/2020,Foggy in the evening and overnight.,clear-day,0.72,0.0,0.0002,0.05,,52.55,35.78,26.59,0.6,1026.4,0.16,2,31.77,52.55,42.5063,1.5218
+Andorra,,1/16/2020,Possible light rain in the afternoon.,rain,0.76,0.0061,0.0469,0.53,rain,45.92,28.95,30.84,0.75,1027.0,0.67,2,31.38,45.92,42.5063,1.5218
+Andorra,,1/17/2020,Foggy overnight.,partly-cloudy-day,0.8,0.0,0.0002,0.04,,48.31,32.4,14.98,0.43,1027.8,0.67,1,28.95,48.31,42.5063,1.5218
+Andorra,,1/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.001,0.0031,0.11,rain,37.48,24.44,17.94,0.56,1025.0,0.78,1,26.58,39.21,42.5063,1.5218
+Andorra,,1/19/2020,Overcast throughout the day.,cloudy,0.87,0.0002,0.0008,0.09,snow,44.7,32.6,16.79,0.52,1030.8,0.93,1,24.44,44.7,42.5063,1.5218
+Andorra,,1/20/2020,Possible light rain overnight.,rain,0.9,0.003,0.0073,0.35,rain,50.03,36.77,27.87,0.62,1027.4,0.95,1,32.6,50.03,42.5063,1.5218
+Andorra,,1/21/2020,Rain throughout the day.,rain,0.93,0.057,0.0966,0.88,rain,45.35,37.91,34.91,0.8,1023.0,0.99,1,36.77,45.35,42.5063,1.5218
+Andorra,,1/22/2020,Rain in the morning and afternoon.,rain,0.97,0.0429,0.1217,0.87,rain,47.71,29.39,35.44,0.83,1021.6,0.78,1,33.74,47.71,42.5063,1.5218
+Andorra,,1/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,1.0,0.0001,0.0002,0.11,rain,49.57,30.66,28.55,0.74,1022.6,0.47,2,29.39,49.57,42.5063,1.5218
+Andorra,,1/24/2020,Possible drizzle in the afternoon and evening.,rain,0.03,0.0036,0.01,0.67,rain,47.15,33.86,31.61,0.81,1020.1,0.87,2,30.66,47.15,42.5063,1.5218
+Andorra,,1/25/2020,Light rain in the morning and afternoon.,rain,0.06,0.0075,0.0445,0.72,rain,48.21,29.29,32.23,0.8,1020.5,0.94,2,33.82,48.21,42.5063,1.5218
+Andorra,,1/26/2020,Foggy in the afternoon and evening.,cloudy,0.09,0.0002,0.0005,0.23,rain,50.18,31.21,29.29,0.74,1020.0,0.92,2,29.29,50.18,42.5063,1.5218
+Andorra,,1/27/2020,Foggy in the afternoon.,partly-cloudy-day,0.12,0.0002,0.0009,0.21,rain,52.92,30.05,31.98,0.76,1018.2,0.86,2,31.21,52.92,42.5063,1.5218
+Andorra,,1/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.05,rain,55.57,34.21,24.41,0.55,1021.8,0.61,2,30.05,55.57,42.5063,1.5218
+Andorra,,1/29/2020,Foggy in the afternoon.,rain,0.18,0.0004,0.0017,0.28,rain,56.97,41.17,38.01,0.78,1020.6,0.85,2,34.21,56.97,42.5063,1.5218
+Andorra,,1/30/2020,Mostly cloudy throughout the day.,rain,0.21,0.0002,0.0006,0.29,rain,58.22,36.98,38.88,0.77,1021.0,0.73,2,39.86,58.22,42.5063,1.5218
+Andorra,,1/31/2020,Foggy in the afternoon.,partly-cloudy-day,0.24,0.0003,0.0007,0.19,rain,59.57,39.0,34.82,0.68,1021.4,0.55,2,36.98,59.57,42.5063,1.5218
+Andorra,,2/1/2020,Foggy in the afternoon.,partly-cloudy-day,0.27,0.0,0.0002,0.09,,65.0,43.8,36.69,0.64,1026.1,0.67,2,39.0,65.0,42.5063,1.5218
+Andorra,,2/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.31,0.0001,0.0003,0.05,rain,64.57,42.39,34.64,0.55,1027.7,0.68,2,43.16,64.57,42.5063,1.5218
+Andorra,,2/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0002,0.0013,0.14,rain,52.24,30.17,30.52,0.59,1025.8,0.35,3,34.79,52.24,42.5063,1.5218
+Andorra,,2/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.02,rain,54.27,31.98,1.19,0.23,1031.2,0.1,3,30.17,54.27,42.5063,1.5218
+Andorra,,2/5/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0,0.0,,54.96,33.82,2.75,0.23,1027.0,0.1,3,31.98,54.96,42.5063,1.5218
+Andorra,,2/6/2020,Overcast throughout the day.,partly-cloudy-day,0.44,0.0001,0.0003,0.02,rain,56.26,35.4,4.25,0.24,1024.6,0.8,2,33.82,56.26,42.5063,1.5218
+Andorra,,2/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.0,0.0003,0.02,,55.69,31.31,18.94,0.41,1024.6,0.48,3,35.4,55.69,42.5063,1.5218
+Andorra,,2/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.52,0.0001,0.0003,0.08,rain,55.2,39.13,31.44,0.69,1027.7,0.62,2,31.31,55.2,42.5063,1.5218
+Andorra,,2/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.56,0.0001,0.0004,0.1,rain,66.17,40.62,36.82,0.62,1026.0,0.64,3,39.38,66.17,42.5063,1.5218
+Andorra,,2/10/2020,Foggy in the evening.,partly-cloudy-day,0.6,0.0001,0.0002,0.06,rain,60.39,35.97,35.85,0.62,1024.4,0.71,3,40.62,60.39,42.5063,1.5218
+Andorra,,2/11/2020,Foggy in the evening and overnight.,cloudy,0.64,0.0002,0.0015,0.18,rain,55.18,38.56,34.63,0.7,1024.8,0.98,3,35.97,55.18,42.5063,1.5218
+Andorra,,2/12/2020,Foggy in the morning.,partly-cloudy-day,0.67,0.0002,0.0009,0.13,rain,58.56,36.51,37.64,0.73,1020.9,0.77,3,38.56,58.56,42.5063,1.5218
+Andorra,,2/13/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.05,rain,62.89,38.36,32.09,0.6,1025.2,0.22,3,36.51,62.89,42.5063,1.5218
+Andorra,,2/14/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.03,rain,64.03,39.45,29.97,0.51,1025.6,0.13,3,38.36,64.03,42.5063,1.5218
+Andorra,,2/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.05,rain,64.44,40.71,24.78,0.4,1024.6,0.37,3,39.45,64.44,42.5063,1.5218
+Andorra,,2/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0004,0.08,rain,60.5,32.5,31.23,0.51,1025.0,0.68,3,40.71,60.5,42.5063,1.5218
+Andorra,,2/17/2020,Clear throughout the day.,partly-cloudy-day,0.85,0.0002,0.0004,0.1,rain,56.45,31.44,26.33,0.57,1031.7,0.4,3,32.5,56.45,42.5063,1.5218
+Andorra,,2/18/2020,Clear throughout the day.,clear-day,0.88,0.0,0.0001,0.03,,59.69,35.6,17.01,0.41,1031.2,0.26,3,31.44,59.69,42.5063,1.5218
+Andorra,,2/19/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0004,0.04,rain,63.44,35.05,10.24,0.26,1025.8,0.24,4,35.6,63.44,42.5063,1.5218
+Andorra,,2/20/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.02,rain,64.29,41.08,14.51,0.29,1030.1,0.11,4,35.05,64.29,42.5063,1.5218
+Andorra,,2/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.97,0.0001,0.0004,0.01,rain,67.64,43.64,3.99,0.16,1032.3,0.51,3,41.08,67.64,42.5063,1.5218
+Andorra,,2/22/2020,Clear throughout the day.,clear-day,0.01,0.0,0.0,0.0,,71.3,41.53,12.43,0.2,1032.8,0.0,4,43.64,71.3,42.5063,1.5218
+Andorra,,2/23/2020,Clear throughout the day.,clear-day,0.04,0.0,0.0,0.0,,70.6,39.9,12.08,0.21,1026.1,0.0,4,41.53,70.6,42.5063,1.5218
+Andorra,,2/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0003,0.0011,0.06,rain,59.24,35.71,16.87,0.32,1017.3,0.45,2,39.9,59.24,42.5063,1.5218
+Andorra,,2/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.1,0.0007,0.002,0.17,rain,48.39,29.05,22.33,0.5,1016.6,0.37,3,33.75,48.39,42.5063,1.5218
+Andorra,,2/26/2020,Foggy starting in the afternoon.,rain,0.13,0.0052,0.016,0.35,rain,55.68,40.52,27.97,0.59,1016.5,0.65,3,29.05,55.68,42.5063,1.5218
+Andorra,,2/27/2020,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.16,0.001,0.005,0.15,rain,61.7,38.28,36.77,0.65,1019.9,0.86,4,40.52,61.7,42.5063,1.5218
+Andorra,,2/28/2020,Foggy starting in the afternoon.,cloudy,0.19,0.0013,0.0127,0.22,rain,58.67,37.99,36.41,0.69,1010.1,0.89,3,38.28,58.67,42.5063,1.5218
+Andorra,,2/29/2020,Rain overnight.,rain,0.22,0.0043,0.0207,0.55,rain,53.22,38.93,35.0,0.74,1008.2,0.9,3,37.99,53.22,42.5063,1.5218
+Andorra,,3/1/2020,Rain in the morning and afternoon.,rain,0.25,0.0629,0.1623,0.79,rain,43.98,29.36,30.55,0.73,999.6,0.83,2,30.87,43.98,42.5063,1.5218
+Andorra,,3/2/2020,Light rain in the afternoon and evening.,rain,0.28,0.0241,0.0667,0.73,rain,44.82,36.06,26.36,0.67,1009.8,0.88,3,29.36,44.82,42.5063,1.5218
+Andorra,,3/3/2020,Possible light rain until evening.,rain,0.32,0.0077,0.0195,0.69,rain,56.23,40.59,32.81,0.63,1015.9,0.81,4,36.06,56.23,42.5063,1.5218
+Andorra,,3/4/2020,Possible light rain in the afternoon and evening.,rain,0.35,0.0073,0.0513,0.68,rain,52.67,26.57,37.34,0.79,1007.9,0.93,3,34.84,52.67,42.5063,1.5218
+Andorra,,3/5/2020,Foggy throughout the day.,rain,0.39,0.0097,0.0411,0.43,rain,41.1,29.68,21.37,0.6,1010.8,0.59,3,26.57,41.1,42.5063,1.5218
+Andorra,,3/6/2020,Foggy in the morning.,rain,0.43,0.0091,0.0434,0.34,rain,46.4,32.07,22.33,0.58,1021.0,0.61,4,29.68,46.4,42.5063,1.5218
+Andorra,,3/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0001,0.0005,0.03,rain,59.92,34.54,25.17,0.49,1022.8,0.65,4,32.07,59.92,42.5063,1.5218
+Andorra,,3/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.0025,0.0066,0.24,rain,48.27,36.92,27.46,0.62,1021.7,0.42,4,34.54,48.27,42.5063,1.5218
+Andorra,,3/9/2020,Overcast throughout the day.,partly-cloudy-day,0.54,0.0024,0.0128,0.21,rain,64.91,43.66,36.5,0.61,1023.8,0.81,3,36.92,64.91,42.5063,1.5218
+Andorra,,3/10/2020,Clear throughout the day.,clear-day,0.58,0.0002,0.0004,0.01,rain,72.6,49.51,23.03,0.29,1023.4,0.22,6,43.66,72.6,42.5063,1.5218
+Andorra,,3/11/2020,Overcast throughout the day.,cloudy,0.62,0.0003,0.0014,0.06,rain,68.1,45.21,36.08,0.44,1020.7,0.97,3,49.51,68.1,42.5063,1.5218
+Andorra,,3/12/2020,Foggy in the evening and overnight.,rain,0.66,0.0041,0.0148,0.53,rain,62.05,40.28,44.64,0.74,1020.4,1.0,3,45.21,62.05,42.5063,1.5218
+Andorra,,3/13/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.69,0.0003,0.0019,0.13,rain,63.04,41.62,38.98,0.66,1020.5,0.4,5,40.28,63.04,42.5063,1.5218
+Andorra,,3/14/2020,Possible light rain overnight.,rain,0.73,0.0011,0.01,0.29,rain,62.08,41.11,38.45,0.68,1016.8,0.58,4,41.62,62.08,42.5063,1.5218
+Andorra,,3/15/2020,Light rain throughout the day.,rain,0.76,0.045,0.0835,0.97,rain,45.85,38.56,38.96,0.84,1017.3,1.0,3,41.11,46.03,42.5063,1.5218
+Andorra,,3/16/2020,Possible light rain in the afternoon and evening.,rain,0.8,0.0047,0.0173,0.63,rain,58.43,40.47,41.82,0.8,1027.6,0.85,4,38.56,58.43,42.5063,1.5218
+Andorra,,3/17/2020,Partly cloudy throughout the day.,rain,0.83,0.0028,0.0182,0.28,rain,61.76,37.73,41.39,0.73,1026.9,0.56,5,40.47,61.76,42.5063,1.5218
+Andorra,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0003,0.04,rain,62.4,34.75,33.7,0.59,1022.4,0.26,6,37.73,62.4,42.5063,1.5218
+Andorra,,3/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0,0.0002,0.02,,60.61,34.3,29.19,0.57,1018.9,0.72,3,34.75,60.61,42.5063,1.5218
+Andorra,,3/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.92,0.0006,0.0032,0.1,rain,60.05,35.77,31.56,0.59,1013.8,0.84,4,34.3,60.05,42.5063,1.5218
+Andorra,,3/21/2020,Possible light rain in the afternoon and evening.,rain,0.95,0.0096,0.0631,0.56,rain,54.43,34.23,35.46,0.75,1013.3,0.84,3,35.77,54.43,42.5063,1.5218
+Andorra,,3/22/2020,Possible drizzle in the afternoon.,rain,0.98,0.0035,0.0109,0.51,rain,53.77,36.47,36.58,0.78,1019.0,0.64,4,34.23,53.77,42.5063,1.5218
+Andorra,,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0004,0.0019,0.14,rain,58.09,32.26,32.16,0.64,1019.7,0.11,5,35.35,58.09,42.5063,1.5218
+Andorra,,3/24/2020,Possible light rain in the afternoon.,rain,0.04,0.0134,0.0309,0.63,rain,46.34,30.08,29.56,0.76,1016.4,0.59,3,32.26,46.34,42.5063,1.5218
+Andorra,,3/25/2020,Mostly cloudy throughout the day.,rain,0.07,0.0055,0.0154,0.53,rain,44.57,26.91,23.51,0.65,1011.3,0.75,3,27.49,44.57,42.5063,1.5218
+Andorra,,3/26/2020,Foggy in the afternoon and evening.,partly-cloudy-day,0.1,0.0012,0.0068,0.18,rain,51.78,33.25,23.98,0.59,1014.9,0.64,3,26.91,51.78,42.5063,1.5218
+Andorra,,3/27/2020,Possible light rain in the afternoon and evening.,rain,0.13,0.0049,0.0344,0.53,rain,53.52,34.23,32.81,0.71,1017.5,0.87,3,33.25,53.52,42.5063,1.5218
+Andorra,,3/28/2020,Foggy overnight.,partly-cloudy-day,0.17,0.0004,0.0031,0.11,rain,56.3,33.11,31.91,0.66,1016.6,0.46,5,34.23,56.3,42.5063,1.5218
+Andorra,,3/29/2020,Light rain until evening.,rain,0.2,0.0381,0.096,0.83,rain,43.28,33.21,32.47,0.81,1015.8,0.99,3,33.0,43.28,42.5063,1.5218
+Andorra,,3/30/2020,Possible light rain in the evening and overnight.,rain,0.23,0.0038,0.0184,0.59,rain,50.46,37.2,35.37,0.81,1015.1,1.0,3,33.21,50.46,42.5063,1.5218
+Andorra,,3/31/2020,"Possible light rain until afternoon, starting again overnight.",rain,0.26,0.0059,0.0216,0.84,rain,52.13,37.76,37.68,0.8,1014.7,0.98,3,37.2,52.13,42.5063,1.5218
+Andorra,,4/1/2020,Light rain in the morning and afternoon.,rain,0.3,0.0101,0.0383,0.85,rain,50.87,33.03,36.9,0.79,1013.2,0.92,3,37.76,50.87,42.5063,1.5218
+Andorra,,4/2/2020,Clear throughout the day.,clear-day,0.33,0.0003,0.0022,0.1,rain,58.32,31.83,29.01,0.6,1016.1,0.28,5,33.03,58.32,42.5063,1.5218
+Andorra,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.03,rain,63.51,33.55,27.6,0.49,1018.6,0.04,6,31.83,63.51,42.5063,1.5218
+Andorra,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0002,0.01,,61.39,37.73,28.17,0.56,1019.7,0.28,6,33.55,61.39,42.5063,1.5218
+Andorra,,4/5/2020,Overcast throughout the day.,rain,0.45,0.0036,0.0253,0.32,rain,60.59,41.92,37.0,0.7,1022.0,0.84,4,37.73,60.59,42.5063,1.5218
+Andorra,,4/6/2020,Foggy in the evening and overnight.,rain,0.49,0.0017,0.0054,0.38,rain,54.49,41.41,41.83,0.81,1025.9,1.0,4,41.92,54.49,42.5063,1.5218
+Andorra,,4/7/2020,Possible light rain in the afternoon and evening.,rain,0.53,0.0117,0.0531,0.6,rain,59.1,41.82,42.78,0.78,1024.3,0.74,6,41.41,59.1,42.5063,1.5218
+Andorra,,4/8/2020,Partly cloudy throughout the day.,rain,0.57,0.0074,0.0404,0.42,rain,60.33,40.91,41.35,0.73,1021.7,0.44,6,41.82,60.33,42.5063,1.5218
+Andorra,,4/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.6,0.0013,0.006999999999999999,0.18,rain,62.77,41.87,39.63,0.67,1021.2,0.63,7,40.91,62.77,42.5063,1.5218
+Andorra,,4/10/2020,Partly cloudy throughout the day.,rain,0.64,0.0021,0.0093,0.33,rain,62.48,41.98,40.0,0.69,1021.3,0.59,7,41.87,62.48,42.5063,1.5218
+Andorra,,4/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.68,0.0004,0.0013,0.23,rain,58.99,39.36,40.3,0.74,1018.5,0.86,5,41.98,58.99,42.5063,1.5218
+Andorra,,4/12/2020,Light rain in the afternoon and evening.,rain,0.71,0.0178,0.0831,0.77,rain,52.36,41.18,38.93,0.77,1011.4,0.99,4,39.36,52.36,42.5063,1.5218
+Andorra,,4/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.0011,0.0045,0.23,rain,63.54,40.15,40.97,0.72,1013.2,0.7,6,41.18,63.54,42.5063,1.5218
+Andorra,,4/14/2020,Foggy overnight.,partly-cloudy-day,0.78,0.0005,0.0036,0.15,rain,61.78,43.28,40.16,0.69,1016.6,0.69,5,40.15,61.78,42.5063,1.5218
+Andorra,,4/15/2020,Foggy in the morning.,partly-cloudy-day,0.81,0.0004,0.0023,0.13,rain,66.24,46.51,42.04,0.69,1018.1,0.87,4,43.28,66.24,42.5063,1.5218
+Andorra,,4/16/2020,Overcast throughout the day.,cloudy,0.84,0.0001,0.0002,0.05,rain,66.9,47.52,40.35,0.61,1016.7,0.91,4,46.51,66.9,42.5063,1.5218
+Andorra,,4/17/2020,Possible light rain overnight.,cloudy,0.87,0.002,0.0072,0.22,rain,68.31,47.85,43.3,0.63,1015.5,0.93,4,47.52,68.31,42.5063,1.5218
+Andorra,,4/18/2020,Light rain throughout the day.,rain,0.9,0.0238,0.0711,0.93,rain,63.19,46.64,47.64,0.81,1011.1,0.97,4,47.85,63.19,42.5063,1.5218
+Andorra,,4/19/2020,Possible light rain throughout the day.,rain,0.93,0.0155,0.0365,0.88,rain,57.02,45.05,45.89,0.84,1007.0,1.0,4,46.58,57.02,42.5063,1.5218
+Andorra,,4/20/2020,Light rain throughout the day.,rain,0.96,0.02,0.0264,0.83,rain,53.91,45.07,44.88,0.85,1006.0,1.0,4,44.97,53.91,42.5063,1.5218

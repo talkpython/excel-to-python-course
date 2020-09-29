@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Mexico,,12/31/2019,Possible light rain overnight.,partly-cloudy-day,0.19,0.0004,0.0055,0.21,rain,67.94,47.64,39.6,0.62,1016.8,0.58,5,40.21,67.94,23.6345,-102.5528
+Mexico,,1/1/2020,Possible light rain in the morning and overnight.,rain,0.22,0.0089,0.0407,0.87,rain,66.09,45.67,46.19,0.72,1012.0,0.92,5,47.64,66.09,23.6345,-102.5528
+Mexico,,1/2/2020,Possible light rain in the morning.,rain,0.25,0.0089,0.0437,0.6,rain,58.99,32.59,37.65,0.63,1009.7,0.46,6,42.71,58.99,23.6345,-102.5528
+Mexico,,1/3/2020,Clear throughout the day.,clear-day,0.28,0.0001,0.0003,0.05,rain,60.07,27.6,28.54,0.57,1019.4,0.0,6,32.59,60.07,23.6345,-102.5528
+Mexico,,1/4/2020,Clear throughout the day.,clear-day,0.31,0.0002,0.0004,0.08,rain,57.99,29.18,20.21,0.48,1030.3,0.03,6,27.6,57.99,23.6345,-102.5528
+Mexico,,1/5/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.07,rain,65.04,31.8,19.57,0.39,1028.3,0.06,7,29.18,65.04,23.6345,-102.5528
+Mexico,,1/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0002,0.04,rain,71.56,39.92,17.2,0.33,1022.8,0.34,6,31.8,71.56,23.6345,-102.5528
+Mexico,,1/7/2020,Clear throughout the day.,partly-cloudy-day,0.41,0.0008,0.0046,0.07,rain,67.25,33.59,25.63,0.38,1023.7,0.36,7,39.92,67.25,23.6345,-102.5528
+Mexico,,1/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.0001,0.0002,0.05,rain,74.48,41.7,29.98,0.49,1021.3,0.34,6,34.62,74.48,23.6345,-102.5528
+Mexico,,1/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.48,0.0001,0.0002,0.07,rain,74.63,43.99,35.15,0.48,1017.6,0.62,5,41.68,74.63,23.6345,-102.5528
+Mexico,,1/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.51,0.0001,0.0002,0.06,rain,73.32,33.26,31.5,0.43,1015.3,0.56,5,45.17,73.32,23.6345,-102.5528
+Mexico,,1/11/2020,Clear throughout the day.,clear-day,0.55,0.0001,0.0003,0.04,rain,68.6,34.88,15.58,0.33,1020.4,0.11,7,33.11,68.6,23.6345,-102.5528
+Mexico,,1/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.59,0.0001,0.0003,0.07,rain,75.67,43.82,23.94,0.39,1019.4,0.58,6,34.88,75.67,23.6345,-102.5528
+Mexico,,1/13/2020,Overcast throughout the day.,partly-cloudy-day,0.62,0.0001,0.0002,0.04,rain,76.22,42.22,31.63,0.41,1019.5,0.75,5,43.7,76.22,23.6345,-102.5528
+Mexico,,1/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.66,0.0,0.0002,0.02,,75.88,43.13,38.22,0.53,1019.3,0.57,6,42.22,75.88,23.6345,-102.5528
+Mexico,,1/15/2020,Overcast throughout the day.,cloudy,0.7,0.0001,0.0002,0.06,rain,75.77,44.61,37.47,0.51,1017.8,0.92,5,43.13,75.77,23.6345,-102.5528
+Mexico,,1/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.73,0.0003,0.001,0.09,rain,72.21,48.11,42.39,0.62,1018.7,0.55,7,44.61,72.21,23.6345,-102.5528
+Mexico,,1/17/2020,Overcast throughout the day.,rain,0.77,0.0082,0.0348,0.34,rain,72.34,48.14,47.64,0.73,1018.8,0.89,5,48.11,72.34,23.6345,-102.5528
+Mexico,,1/18/2020,Mostly cloudy throughout the day.,rain,0.81,0.0062,0.0176,0.35,rain,69.82,48.96,46.35,0.69,1019.9,0.62,6,48.14,69.82,23.6345,-102.5528
+Mexico,,1/19/2020,Possible light rain in the evening.,rain,0.84,0.0149,0.0714,0.52,rain,65.99,48.27,48.35,0.76,1021.8,0.77,5,48.96,65.99,23.6345,-102.5528
+Mexico,,1/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.88,0.0001,0.0025,0.16,rain,66.64,41.89,45.88,0.73,1023.8,0.41,5,48.27,66.64,23.6345,-102.5528
+Mexico,,1/21/2020,Clear throughout the day.,partly-cloudy-day,0.91,0.0004,0.0026,0.09,rain,73.88,45.65,43.15,0.66,1021.1,0.41,7,41.89,73.88,23.6345,-102.5528
+Mexico,,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.94,0.001,0.0056,0.1,rain,68.6,43.77,41.18,0.59,1015.9,0.45,6,45.65,68.6,23.6345,-102.5528
+Mexico,,1/23/2020,Clear throughout the day.,partly-cloudy-day,0.97,0.0001,0.0004,0.04,rain,70.18,39.52,33.95,0.5,1015.6,0.35,7,43.77,70.18,23.6345,-102.5528
+Mexico,,1/24/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0002,0.05,rain,73.29,45.31,30.91,0.44,1016.3,0.19,6,39.52,73.29,23.6345,-102.5528
+Mexico,,1/25/2020,Possible light rain in the afternoon and evening.,rain,0.04,0.009000000000000001,0.0382,0.68,rain,58.83,47.64,45.42,0.78,1017.6,0.84,5,45.31,58.83,23.6345,-102.5528
+Mexico,,1/26/2020,Possible light rain in the morning.,rain,0.07,0.0104,0.0239,0.58,rain,65.04,40.5,43.71,0.7,1018.4,0.7,6,47.64,65.04,23.6345,-102.5528
+Mexico,,1/27/2020,Clear throughout the day.,clear-day,0.1,0.0002,0.0016,0.09,rain,71.54,38.97,35.75,0.57,1016.9,0.04,8,40.5,71.54,23.6345,-102.5528
+Mexico,,1/28/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0003,0.06,rain,65.78,34.85,30.58,0.49,1016.4,0.0,8,38.97,65.78,23.6345,-102.5528
+Mexico,,1/29/2020,Clear throughout the day.,clear-day,0.16,0.0002,0.0003,0.03,rain,72.46,41.56,26.36,0.42,1015.1,0.05,8,34.85,72.46,23.6345,-102.5528
+Mexico,,1/30/2020,Windy in the afternoon.,partly-cloudy-day,0.19,0.0001,0.0004,0.06,rain,68.42,34.06,29.2,0.45,1012.2,0.8,5,41.56,68.42,23.6345,-102.5528
+Mexico,,1/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.22,0.0002,0.0003,0.08,rain,64.18,36.86,29.41,0.53,1018.6,0.46,7,34.06,64.18,23.6345,-102.5528
+Mexico,,2/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.25,0.0002,0.0008,0.07,rain,59.38,43.3,24.99,0.44,1025.9,0.75,5,36.86,59.38,23.6345,-102.5528
+Mexico,,2/2/2020,Overcast throughout the day.,rain,0.28,0.0033,0.0164,0.4,rain,66.26,46.71,39.5,0.61,1021.0,0.96,5,43.3,66.26,23.6345,-102.5528
+Mexico,,2/3/2020,Light rain in the morning.,rain,0.32,0.0076,0.0588,0.8,rain,59.51,45.5,45.03,0.77,1015.6,0.86,5,46.71,59.51,23.6345,-102.5528
+Mexico,,2/4/2020,Dangerously windy and mostly cloudy throughout the day.,wind,0.35,0.0002,0.0004,0.15,rain,66.67,48.23,40.65,0.62,1013.2,0.63,5,45.5,66.67,23.6345,-102.5528
+Mexico,,2/5/2020,Dangerously windy and partly cloudy throughout the day.,wind,0.38,0.0002,0.0005,0.09,rain,66.37,39.91,34.11,0.5,1009.2,0.41,7,46.28,66.37,23.6345,-102.5528
+Mexico,,2/6/2020,Windy in the morning.,wind,0.42,0.0002,0.0004,0.04,rain,70.91,33.62,12.82,0.24,1011.5,0.06,8,39.91,70.91,23.6345,-102.5528
+Mexico,,2/7/2020,Clear throughout the day.,clear-day,0.46,0.0001,0.0004,0.02,rain,77.77,37.29,19.24,0.32,1014.3,0.11,8,33.62,77.77,23.6345,-102.5528
+Mexico,,2/8/2020,Clear throughout the day.,clear-day,0.49,0.0001,0.0003,0.01,rain,78.4,42.38,20.1,0.32,1017.0,0.18,8,37.29,78.4,23.6345,-102.5528
+Mexico,,2/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.53,0.0001,0.0003,0.01,rain,77.2,49.76,27.68,0.32,1016.2,0.51,7,42.38,77.2,23.6345,-102.5528
+Mexico,,2/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0001,0.0003,0.06,rain,76.57,46.38,43.66,0.55,1014.7,0.59,7,49.76,76.57,23.6345,-102.5528
+Mexico,,2/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0001,0.0002,0.06,rain,78.65,50.96,39.7,0.51,1013.8,0.63,7,46.38,78.65,23.6345,-102.5528
+Mexico,,2/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.65,0.0002,0.0003,0.04,rain,72.13,33.54,30.03,0.39,1011.3,0.85,5,49.65,72.13,23.6345,-102.5528
+Mexico,,2/13/2020,Clear throughout the day.,clear-day,0.68,0.0001,0.0003,0.04,rain,75.91,37.18,15.77,0.31,1016.0,0.01,9,33.54,75.91,23.6345,-102.5528
+Mexico,,2/14/2020,Clear throughout the day.,clear-day,0.72,0.0002,0.0005,0.07,rain,78.9,41.76,33.89,0.51,1018.2,0.15,9,37.18,78.9,23.6345,-102.5528
+Mexico,,2/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.0001,0.0002,0.03,rain,79.14,44.99,40.46,0.58,1018.7,0.46,6,41.76,79.14,23.6345,-102.5528
+Mexico,,2/16/2020,Clear throughout the day.,clear-day,0.79,0.0001,0.0004,0.06,rain,80.95,49.8,37.75,0.47,1016.0,0.13,9,44.99,80.95,23.6345,-102.5528
+Mexico,,2/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.82,0.0001,0.0003,0.07,rain,83.74,52.0,37.42,0.37,1012.3,0.73,6,49.8,83.74,23.6345,-102.5528
+Mexico,,2/18/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0004,0.07,rain,84.82,50.21,37.09,0.37,1012.7,0.18,9,52.0,84.82,23.6345,-102.5528
+Mexico,,2/19/2020,Clear throughout the day.,clear-day,0.89,0.0001,0.0002,0.06,rain,84.79,45.55,36.03,0.37,1015.6,0.02,10,50.21,84.79,23.6345,-102.5528
+Mexico,,2/20/2020,Clear throughout the day.,clear-day,0.92,0.0001,0.0005,0.04,rain,82.94,49.21,32.92,0.44,1017.9,0.06,10,45.55,82.94,23.6345,-102.5528
+Mexico,,2/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.95,0.0003,0.0014,0.1,rain,73.35,40.26,44.0,0.61,1023.0,0.45,9,49.21,73.35,23.6345,-102.5528
+Mexico,,2/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.98,0.0002,0.0003,0.07,rain,82.13,48.09,40.47,0.56,1020.4,0.46,8,40.26,82.13,23.6345,-102.5528
+Mexico,,2/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0004,0.06,rain,80.17,46.5,39.73,0.47,1017.0,0.07,10,48.09,80.17,23.6345,-102.5528
+Mexico,,2/24/2020,Clear throughout the day.,clear-day,0.05,0.0001,0.0003,0.06,rain,81.14,47.77,30.66,0.39,1012.5,0.18,10,46.5,81.14,23.6345,-102.5528
+Mexico,,2/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.08,0.0002,0.0003,0.04,rain,76.77,38.11,25.13,0.31,1011.4,0.52,8,47.77,76.77,23.6345,-102.5528
+Mexico,,2/26/2020,Clear throughout the day.,clear-day,0.11,0.0002,0.0011,0.04,rain,64.82,32.63,20.82,0.33,1020.2,0.13,9,38.11,64.82,23.6345,-102.5528
+Mexico,,2/27/2020,Clear throughout the day.,clear-day,0.14,0.0001,0.0002,0.02,rain,73.21,36.25,26.82,0.46,1022.4,0.03,10,32.63,73.21,23.6345,-102.5528
+Mexico,,2/28/2020,Clear throughout the day.,clear-day,0.17,0.0001,0.0002,0.03,rain,74.47,39.72,21.63,0.31,1023.1,0.0,10,36.25,74.47,23.6345,-102.5528
+Mexico,,2/29/2020,Clear throughout the day.,clear-day,0.2,0.0001,0.0003,0.03,rain,84.46,46.4,31.14,0.42,1019.2,0.01,10,39.72,84.46,23.6345,-102.5528
+Mexico,,3/1/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0002,0.03,rain,83.43,43.62,31.63,0.35,1014.9,0.06,10,46.4,83.43,23.6345,-102.5528
+Mexico,,3/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.26,0.0002,0.0004,0.02,rain,83.41,48.75,27.16,0.35,1012.9,0.33,9,43.62,83.41,23.6345,-102.5528
+Mexico,,3/3/2020,Dangerously windy and mostly cloudy throughout the day.,wind,0.29,0.0001,0.0003,0.05,rain,77.32,51.28,32.76,0.36,1009.9,0.63,6,48.75,77.32,23.6345,-102.5528
+Mexico,,3/4/2020,Windy in the morning.,wind,0.33,0.0001,0.0004,0.05,rain,75.44,44.6,32.76,0.38,1011.5,0.52,9,51.28,75.44,23.6345,-102.5528
+Mexico,,3/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.36,0.0002,0.0012,0.05,rain,71.17,42.9,24.03,0.29,1019.9,0.78,7,44.6,71.17,23.6345,-102.5528
+Mexico,,3/6/2020,Overcast throughout the day.,partly-cloudy-day,0.4,0.0006,0.0023,0.08,rain,68.19,44.68,41.82,0.64,1023.0,0.84,6,42.9,68.19,23.6345,-102.5528
+Mexico,,3/7/2020,Partly cloudy throughout the day.,rain,0.44,0.0081,0.0593,0.35,rain,77.7,49.1,40.12,0.54,1019.7,0.7,9,44.68,77.7,23.6345,-102.5528
+Mexico,,3/8/2020,Overcast throughout the day.,rain,0.48,0.0134,0.039,0.36,rain,75.06,48.99,46.44,0.62,1017.1,0.94,6,49.1,75.06,23.6345,-102.5528
+Mexico,,3/9/2020,Mostly cloudy throughout the day.,rain,0.52,0.0082,0.0212,0.34,rain,76.71,52.62,46.92,0.61,1018.0,0.67,8,48.99,76.71,23.6345,-102.5528
+Mexico,,3/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.55,0.0016,0.0135,0.23,rain,75.87,52.01,48.03,0.61,1020.0,0.59,9,52.62,75.87,23.6345,-102.5528
+Mexico,,3/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.59,0.0021,0.0102,0.14,rain,80.24,54.04,47.45,0.57,1016.8,0.53,10,52.01,80.24,23.6345,-102.5528
+Mexico,,3/12/2020,Overcast throughout the day.,partly-cloudy-day,0.63,0.0006,0.0036,0.11,rain,82.05,51.35,42.39,0.44,1012.9,0.84,6,54.04,82.05,23.6345,-102.5528
+Mexico,,3/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.67,0.0002,0.0006,0.05,rain,85.58,50.34,38.0,0.41,1013.8,0.41,8,51.35,85.58,23.6345,-102.5528
+Mexico,,3/14/2020,Clear throughout the day.,clear-day,0.71,0.0008,0.004,0.02,rain,86.58,52.41,35.03,0.36,1015.6,0.26,11,50.34,86.58,23.6345,-102.5528
+Mexico,,3/15/2020,Clear throughout the day.,clear-day,0.74,0.0042,0.0185,0.24,rain,83.36,52.52,45.4,0.51,1016.5,0.3,11,52.41,83.36,23.6345,-102.5528
+Mexico,,3/16/2020,Mostly cloudy throughout the day.,rain,0.77,0.0041,0.0176,0.29,rain,78.64,50.74,47.22,0.61,1016.5,0.62,9,52.52,78.64,23.6345,-102.5528
+Mexico,,3/17/2020,Clear throughout the day.,clear-day,0.81,0.0002,0.0005,0.08,rain,81.54,50.96,41.82,0.49,1015.0,0.15,12,50.74,81.54,23.6345,-102.5528
+Mexico,,3/18/2020,Clear throughout the day.,clear-day,0.84,0.0001,0.0003,0.01,rain,82.28,48.39,37.85,0.39,1014.8,0.15,12,50.96,82.28,23.6345,-102.5528
+Mexico,,3/19/2020,Clear throughout the day.,clear-day,0.87,0.0001,0.0003,0.01,rain,84.39,51.51,35.2,0.37,1015.5,0.09,12,48.39,84.39,23.6345,-102.5528
+Mexico,,3/20/2020,Clear throughout the day.,partly-cloudy-day,0.9,0.0009,0.0042,0.01,rain,84.63,56.84,38.32,0.39,1017.1,0.42,12,51.51,84.63,23.6345,-102.5528
+Mexico,,3/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0023,0.0093,0.16,rain,81.62,51.46,49.19,0.56,1016.6,0.41,11,56.84,81.62,23.6345,-102.5528
+Mexico,,3/22/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0003,0.04,rain,86.32,51.94,40.62,0.49,1016.0,0.21,13,51.46,86.32,23.6345,-102.5528
+Mexico,,3/23/2020,Clear throughout the day.,clear-day,0.99,0.0001,0.0004,0.02,rain,88.87,53.59,37.69,0.36,1016.2,0.19,12,51.94,88.87,23.6345,-102.5528
+Mexico,,3/24/2020,Clear throughout the day.,clear-day,0.02,0.0001,0.0005,0.01,rain,91.93,54.7,27.02,0.24,1014.5,0.01,13,53.59,91.93,23.6345,-102.5528
+Mexico,,3/25/2020,Clear throughout the day.,clear-day,0.05,0.0002,0.0004,0.04,rain,91.84,52.75,30.95,0.27,1012.7,0.02,13,54.7,91.84,23.6345,-102.5528
+Mexico,,3/26/2020,Clear throughout the day.,clear-day,0.08,0.0001,0.0002,0.01,rain,93.37,55.0,26.84,0.24,1010.9,0.01,13,52.75,93.37,23.6345,-102.5528
+Mexico,,3/27/2020,Clear throughout the day.,clear-day,0.11,0.0001,0.0002,0.04,rain,87.19,52.15,33.48,0.3,1009.8,0.25,12,55.0,87.19,23.6345,-102.5528
+Mexico,,3/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.14,0.0001,0.0002,0.01,rain,86.37,52.58,21.46,0.2,1011.9,0.41,11,52.15,86.37,23.6345,-102.5528
+Mexico,,3/29/2020,Clear throughout the day.,clear-day,0.18,0.0017,0.0127,0.1,rain,85.71,53.45,44.73,0.47,1012.9,0.16,13,52.58,85.71,23.6345,-102.5528
+Mexico,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0002,0.0005,0.08,rain,88.12,54.3,42.68,0.47,1013.3,0.39,12,53.45,88.12,23.6345,-102.5528
+Mexico,,3/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.004,0.0346,0.15,rain,85.85,56.57,37.78,0.32,1012.5,0.57,11,54.3,85.85,23.6345,-102.5528
+Mexico,,4/1/2020,Partly cloudy throughout the day.,rain,0.27,0.0036,0.0262,0.25,rain,85.68,50.76,46.09,0.5,1010.9,0.49,11,56.57,85.68,23.6345,-102.5528
+Mexico,,4/2/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0003,0.03,rain,85.27,48.36,29.41,0.29,1011.7,0.01,13,50.76,85.27,23.6345,-102.5528
+Mexico,,4/3/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0002,0.01,rain,87.45,48.08,22.95,0.23,1011.0,0.01,13,48.36,87.45,23.6345,-102.5528
+Mexico,,4/4/2020,Clear throughout the day.,clear-day,0.38,0.0001,0.0003,0.03,rain,87.62,49.83,22.06,0.21,1010.8,0.14,13,48.08,87.62,23.6345,-102.5528
+Mexico,,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0001,0.0002,0.01,rain,85.74,48.08,23.51,0.22,1011.4,0.33,11,49.83,85.74,23.6345,-102.5528
+Mexico,,4/6/2020,Clear throughout the day.,clear-day,0.46,0.0001,0.0002,0.03,rain,85.64,50.23,20.41,0.22,1013.6,0.27,10,48.08,85.64,23.6345,-102.5528
+Mexico,,4/7/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0003,0.02,rain,86.16,49.12,20.9,0.21,1015.3,0.28,12,50.23,86.16,23.6345,-102.5528
+Mexico,,4/8/2020,Clear throughout the day.,clear-day,0.54,0.0002,0.0005,0.03,rain,87.36,49.43,21.65,0.23,1014.9,0.31,13,49.12,87.36,23.6345,-102.5528
+Mexico,,4/9/2020,Clear throughout the day.,clear-day,0.58,0.0001,0.0004,0.02,rain,86.11,51.59,25.09,0.27,1014.6,0.14,13,49.43,86.11,23.6345,-102.5528
+Mexico,,4/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.0002,0.0004,0.05,rain,85.49,54.74,26.29,0.23,1013.2,0.61,10,51.59,85.49,23.6345,-102.5528
+Mexico,,4/11/2020,Windy overnight.,partly-cloudy-day,0.65,0.0002,0.0004,0.06,rain,83.6,51.69,35.07,0.32,1010.7,0.67,7,54.74,83.6,23.6345,-102.5528
+Mexico,,4/12/2020,Windy in the morning and afternoon.,wind,0.69,0.0001,0.0004,0.01,rain,81.61,39.72,17.08,0.23,1010.3,0.18,12,51.69,81.61,23.6345,-102.5528
+Mexico,,4/13/2020,Clear throughout the day.,clear-day,0.72,0.0002,0.0004,0.01,rain,84.36,38.25,-7.69,0.08,1015.5,0.05,13,39.72,84.36,23.6345,-102.5528
+Mexico,,4/14/2020,Clear throughout the day.,clear-day,0.75,0.0,0.0,0.0,,86.64,42.56,-13.86,0.06,1014.3,0.23,12,38.25,86.64,23.6345,-102.5528
+Mexico,,4/15/2020,Clear throughout the day.,clear-day,0.79,0.0001,0.0003,0.01,rain,87.28,43.12,-9.38,0.05,1013.0,0.04,13,42.56,87.28,23.6345,-102.5528
+Mexico,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.82,0.0,0.0,0.0,,87.82,50.19,4.44,0.11,1014.1,0.33,12,43.12,87.82,23.6345,-102.5528
+Mexico,,4/17/2020,Partly cloudy throughout the day.,clear-day,0.85,0.0001,0.0003,0.05,rain,85.77,54.68,27.47,0.22,1015.4,0.31,12,50.19,85.77,23.6345,-102.5528
+Mexico,,4/18/2020,Clear throughout the day.,clear-day,0.88,0.0002,0.0013,0.05,rain,86.33,52.81,40.32,0.37,1014.0,0.25,12,54.68,86.33,23.6345,-102.5528
+Mexico,,4/19/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0002,0.01,rain,87.46,48.0,34.6,0.35,1011.8,0.03,13,52.81,87.46,23.6345,-102.5528
+Mexico,,4/20/2020,Clear throughout the day.,clear-day,0.94,0.0,0.0,0.0,,90.29,47.37,15.78,0.22,1012.9,0.13,13,48.0,90.29,23.6345,-102.5528

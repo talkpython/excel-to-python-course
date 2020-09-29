@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+New Zealand,,12/31/2019,Partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0001,0.0003,0.05,rain,64.17,59.9,57.3,0.86,1015.1,0.36,8,58.52,64.17,-40.9006,174.886
+New Zealand,,1/1/2020,Overcast throughout the day.,partly-cloudy-day,0.22,0.0008,0.0023,0.15,rain,64.4,61.06,59.92,0.91,1010.3,0.86,5,59.9,65.64,-40.9006,174.886
+New Zealand,,1/2/2020,Clear throughout the day.,partly-cloudy-day,0.25,0.0002,0.001,0.07,rain,67.11,56.56,58.13,0.82,1003.0,0.37,10,60.58,67.11,-40.9006,174.886
+New Zealand,,1/3/2020,Partly cloudy throughout the day.,rain,0.28,0.0011,0.004,0.34,rain,63.97,53.16,50.24,0.71,1005.3,0.38,9,56.56,63.97,-40.9006,174.886
+New Zealand,,1/4/2020,Possible drizzle in the evening.,rain,0.32,0.0022,0.015,0.38,rain,61.65,58.78,53.14,0.82,1005.9,0.86,5,53.2,65.68,-40.9006,174.886
+New Zealand,,1/5/2020,Windy until evening.,wind,0.35,0.0001,0.0006,0.05,rain,64.27,55.96,49.67,0.65,999.9,0.36,11,58.71,65.39,-40.9006,174.886
+New Zealand,,1/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.0003,0.0024,0.16,rain,63.89,54.76,46.96,0.63,1008.1,0.37,10,55.96,63.89,-40.9006,174.886
+New Zealand,,1/7/2020,Mostly cloudy throughout the day.,cloudy,0.41,0.0001,0.0005,0.11,rain,63.05,56.44,46.29,0.63,1015.9,0.88,6,54.76,63.05,-40.9006,174.886
+New Zealand,,1/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0002,0.0007,0.11,rain,64.66,59.67,52.02,0.73,1016.0,0.44,8,56.44,64.66,-40.9006,174.886
+New Zealand,,1/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.48,0.0001,0.0005,0.03,rain,65.15,57.1,54.29,0.76,1018.0,0.63,7,59.54,65.15,-40.9006,174.886
+New Zealand,,1/10/2020,Overcast throughout the day.,cloudy,0.52,0.0002,0.0004,0.07,rain,63.25,60.67,54.27,0.8,1017.5,0.99,5,57.1,63.25,-40.9006,174.886
+New Zealand,,1/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.001,0.0034,0.18,rain,65.1,61.41,58.61,0.87,1015.2,0.75,7,60.67,65.1,-40.9006,174.886
+New Zealand,,1/12/2020,Rain in the morning and afternoon.,rain,0.59,0.0235,0.1095,0.9,rain,63.81,56.63,57.59,0.86,1016.7,0.88,5,58.76,64.36,-40.9006,174.886
+New Zealand,,1/13/2020,Clear throughout the day.,clear-day,0.63,0.0,0.0002,0.02,,65.18,52.44,48.74,0.66,1023.4,0.13,11,56.55,65.18,-40.9006,174.886
+New Zealand,,1/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.67,0.0,0.0003,0.02,,65.87,54.93,47.71,0.66,1022.7,0.39,8,52.44,65.87,-40.9006,174.886
+New Zealand,,1/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0,0.0002,0.04,,67.62,53.92,50.2,0.68,1022.3,0.36,10,54.93,67.62,-40.9006,174.886
+New Zealand,,1/16/2020,Clear throughout the day.,clear-day,0.74,0.0001,0.0005,0.04,rain,68.26,53.32,51.78,0.71,1020.8,0.04,13,53.92,68.26,-40.9006,174.886
+New Zealand,,1/17/2020,Clear throughout the day.,clear-day,0.78,0.0,0.0002,0.07,,68.39,58.68,53.11,0.75,1018.9,0.19,10,53.32,68.39,-40.9006,174.886
+New Zealand,,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0003,0.05,rain,70.93,59.65,58.74,0.82,1016.9,0.35,8,58.68,70.93,-40.9006,174.886
+New Zealand,,1/19/2020,Partly cloudy throughout the day.,clear-day,0.85,0.0,0.0002,0.03,,70.43,58.62,59.39,0.82,1015.9,0.27,10,59.65,70.43,-40.9006,174.886
+New Zealand,,1/20/2020,Clear throughout the day.,clear-day,0.88,0.0001,0.0003,0.08,rain,67.22,59.27,58.87,0.86,1015.7,0.18,11,58.62,67.22,-40.9006,174.886
+New Zealand,,1/21/2020,Overcast throughout the day.,cloudy,0.92,0.0006,0.0018,0.15,rain,64.52,61.82,58.47,0.88,1015.6,0.89,6,59.27,64.52,-40.9006,174.886
+New Zealand,,1/22/2020,Mostly cloudy throughout the day.,rain,0.95,0.0011,0.0027,0.25,rain,66.15,63.2,61.68,0.93,1015.4,0.89,6,61.82,66.15,-40.9006,174.886
+New Zealand,,1/23/2020,Mostly cloudy throughout the day.,rain,0.98,0.0011,0.0039,0.28,rain,67.39,61.02,61.63,0.91,1017.3,0.68,8,61.7,67.39,-40.9006,174.886
+New Zealand,,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.01,0.0001,0.0002,0.1,rain,67.82,62.3,60.33,0.88,1016.4,0.79,7,61.02,67.82,-40.9006,174.886
+New Zealand,,1/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.05,0.0004,0.0037,0.16,rain,68.44,63.97,62.58,0.91,1018.0,0.53,9,62.3,68.44,-40.9006,174.886
+New Zealand,,1/26/2020,Overcast throughout the day.,rain,0.08,0.0015,0.0035,0.28,rain,66.45,63.54,63.65,0.95,1016.5,0.88,6,63.97,66.45,-40.9006,174.886
+New Zealand,,1/27/2020,Overcast throughout the day.,rain,0.11,0.0013,0.0034,0.28,rain,68.18,63.72,64.22,0.95,1014.4,0.88,6,63.54,68.18,-40.9006,174.886
+New Zealand,,1/28/2020,Windy in the evening and overnight.,rain,0.14,0.0012,0.0033,0.35,rain,67.82,64.81,63.36,0.92,1010.2,0.89,5,63.72,67.82,-40.9006,174.886
+New Zealand,,1/29/2020,Mostly cloudy throughout the day.,rain,0.17,0.0022,0.013000000000000001,0.37,rain,68.89,63.07,61.54,0.86,1010.3,0.68,7,64.46,68.89,-40.9006,174.886
+New Zealand,,1/30/2020,Windy in the afternoon.,partly-cloudy-day,0.2,0.0002,0.0005,0.08,rain,67.48,62.6,60.39,0.85,1013.3,0.64,6,63.07,67.48,-40.9006,174.886
+New Zealand,,1/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.08,rain,67.67,63.24,59.62,0.83,1015.9,0.42,9,62.6,67.67,-40.9006,174.886
+New Zealand,,2/1/2020,Overcast throughout the day.,partly-cloudy-day,0.26,0.0007,0.0017,0.13,rain,66.94,64.52,62.62,0.91,1012.0,0.87,6,63.24,67.06,-40.9006,174.886
+New Zealand,,2/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.29,0.0006,0.0017,0.13,rain,68.7,65.68,64.07,0.92,1011.1,0.66,9,64.52,68.7,-40.9006,174.886
+New Zealand,,2/3/2020,Possible light rain in the evening and overnight.,rain,0.32,0.0055,0.0395,0.5,rain,72.1,61.46,64.78,0.91,1005.8,0.67,9,64.88,72.1,-40.9006,174.886
+New Zealand,,2/4/2020,Clear throughout the day.,rain,0.36,0.0008,0.0089,0.32,rain,65.42,60.05,55.57,0.77,1012.8,0.23,9,61.01,65.42,-40.9006,174.886
+New Zealand,,2/5/2020,Clear throughout the day.,clear-day,0.39,0.0001,0.0003,0.08,rain,67.55,58.82,54.13,0.72,1018.4,0.23,10,60.05,67.55,-40.9006,174.886
+New Zealand,,2/6/2020,Clear throughout the day.,clear-day,0.43,0.0002,0.0008,0.06,rain,67.97,60.47,53.62,0.7,1024.4,0.11,10,58.82,67.97,-40.9006,174.886
+New Zealand,,2/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.46,0.0001,0.0004,0.05,rain,65.95,51.64,54.75,0.77,1017.7,0.57,7,56.37,65.95,-40.9006,174.886
+New Zealand,,2/8/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0003,0.09,rain,63.79,57.34,48.02,0.69,1020.3,0.17,9,51.64,63.79,-40.9006,174.886
+New Zealand,,2/9/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0004,0.08,rain,66.42,59.55,54.67,0.77,1019.9,0.22,8,57.34,66.42,-40.9006,174.886
+New Zealand,,2/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0003,0.0013,0.09,rain,65.1,56.47,56.43,0.82,1019.2,0.41,7,59.55,65.1,-40.9006,174.886
+New Zealand,,2/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0,0.0002,0.02,,67.2,61.3,56.03,0.81,1019.6,0.51,9,56.47,67.2,-40.9006,174.886
+New Zealand,,2/12/2020,Overcast throughout the day.,cloudy,0.65,0.0003,0.001,0.12,rain,65.18,58.39,58.1,0.84,1017.8,0.92,5,61.3,65.18,-40.9006,174.886
+New Zealand,,2/13/2020,Overcast throughout the day.,cloudy,0.69,0.0,0.0003,0.05,,71.39,58.8,57.25,0.76,1020.8,0.93,6,58.39,71.39,-40.9006,174.886
+New Zealand,,2/14/2020,Overcast throughout the day.,cloudy,0.73,0.0001,0.0003,0.1,rain,69.76,63.83,57.5,0.78,1021.7,0.98,5,58.8,69.76,-40.9006,174.886
+New Zealand,,2/15/2020,Possible light rain overnight.,partly-cloudy-day,0.76,0.0002,0.0015,0.19,rain,71.39,64.42,60.79,0.81,1018.1,0.61,9,63.83,71.39,-40.9006,174.886
+New Zealand,,2/16/2020,Light rain in the morning.,rain,0.8,0.0109,0.0253,0.73,rain,67.25,64.35,64.0,0.94,1017.0,0.99,5,64.11,67.71,-40.9006,174.886
+New Zealand,,2/17/2020,Possible light rain in the morning and afternoon.,rain,0.83,0.0072,0.0171,0.61,rain,66.58,64.18,64.15,0.96,1016.1,0.97,5,63.47,67.15,-40.9006,174.886
+New Zealand,,2/18/2020,Mostly cloudy throughout the day.,rain,0.86,0.0025,0.0091,0.35,rain,66.61,60.41,62.83,0.93,1011.7,0.77,6,63.38,66.61,-40.9006,174.886
+New Zealand,,2/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0002,0.0007,0.07,rain,68.44,62.73,59.45,0.84,1012.2,0.7,5,60.41,68.44,-40.9006,174.886
+New Zealand,,2/20/2020,Windy in the evening.,rain,0.93,0.0023,0.011000000000000001,0.36,rain,70.72,64.8,61.82,0.86,1010.4,0.88,6,62.73,70.72,-40.9006,174.886
+New Zealand,,2/21/2020,Light rain in the evening and overnight.,rain,0.96,0.006,0.0238,0.68,rain,67.71,56.55,61.72,0.87,1010.1,0.77,5,62.11,68.02,-40.9006,174.886
+New Zealand,,2/22/2020,Light rain in the morning.,rain,0.99,0.0066,0.0317,0.82,rain,65.11,53.28,51.12,0.73,1019.3,0.5,7,56.55,65.11,-40.9006,174.886
+New Zealand,,2/23/2020,Partly cloudy throughout the day.,clear-day,0.02,0.0001,0.0003,0.02,rain,66.69,56.35,50.87,0.72,1023.3,0.23,7,53.28,66.69,-40.9006,174.886
+New Zealand,,2/24/2020,Clear throughout the day.,clear-day,0.05,0.0001,0.0004,0.05,rain,70.5,59.49,54.81,0.74,1019.4,0.06,8,56.35,70.5,-40.9006,174.886
+New Zealand,,2/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.08,0.0002,0.0005,0.06,rain,69.41,61.86,57.09,0.77,1017.3,0.46,8,59.49,69.41,-40.9006,174.886
+New Zealand,,2/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.11,0.0004,0.0018,0.08,rain,67.32,62.74,59.06,0.83,1015.3,0.51,6,61.86,67.32,-40.9006,174.886
+New Zealand,,2/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.14,0.0002,0.0012,0.07,rain,68.73,64.26,59.95,0.83,1013.3,0.56,6,62.74,68.73,-40.9006,174.886
+New Zealand,,2/28/2020,Possible light rain in the morning.,rain,0.17,0.0109,0.0517,0.68,rain,66.89,57.06,59.94,0.84,1013.9,0.68,6,60.58,66.89,-40.9006,174.886
+New Zealand,,2/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0001,0.0003,0.07,rain,71.51,60.28,54.57,0.72,1022.8,0.35,8,57.06,71.51,-40.9006,174.886
+New Zealand,,3/1/2020,Overcast throughout the day.,cloudy,0.23,0.0007,0.0042,0.16,rain,68.81,64.27,59.07,0.81,1021.9,0.99,5,60.28,68.81,-40.9006,174.886
+New Zealand,,3/2/2020,Possible light rain overnight.,rain,0.27,0.0006,0.0116,0.25,rain,69.66,64.27,62.49,0.86,1013.3,0.68,6,64.27,69.66,-40.9006,174.886
+New Zealand,,3/3/2020,Possible light rain in the morning.,rain,0.3,0.019,0.0805,0.74,rain,66.33,53.63,57.26,0.82,1014.0,0.75,5,57.14,67.86,-40.9006,174.886
+New Zealand,,3/4/2020,Clear throughout the day.,clear-day,0.33,0.0,0.0004,0.02,,65.43,53.66,46.31,0.63,1025.8,0.02,8,53.63,65.43,-40.9006,174.886
+New Zealand,,3/5/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.03,rain,67.39,55.05,49.7,0.67,1027.9,0.04,8,53.66,67.39,-40.9006,174.886
+New Zealand,,3/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0,0.0002,0.01,,65.76,58.26,52.25,0.74,1021.7,0.58,7,55.05,65.76,-40.9006,174.886
+New Zealand,,3/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0001,0.0005,0.06,rain,68.29,62.05,54.64,0.74,1015.2,0.66,7,58.26,68.29,-40.9006,174.886
+New Zealand,,3/8/2020,Possible light rain in the morning.,rain,0.48,0.0155,0.0732,0.66,rain,66.04,62.61,59.08,0.86,1008.9,0.97,5,60.59,66.04,-40.9006,174.886
+New Zealand,,3/9/2020,Clear throughout the day.,rain,0.52,0.0037,0.0101,0.37,rain,66.59,58.13,58.06,0.82,1005.1,0.46,7,60.52,66.59,-40.9006,174.886
+New Zealand,,3/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.0007,0.0045,0.23,rain,61.19,53.5,51.13,0.74,1013.9,0.73,5,55.63,61.38,-40.9006,174.886
+New Zealand,,3/11/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0004,0.06,rain,64.79,52.54,48.58,0.69,1022.7,0.22,6,53.5,64.79,-40.9006,174.886
+New Zealand,,3/12/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.06,rain,66.08,55.97,50.75,0.74,1024.4,0.0,8,52.54,66.08,-40.9006,174.886
+New Zealand,,3/13/2020,Clear throughout the day.,clear-day,0.68,0.0001,0.0004,0.04,rain,64.95,55.29,53.0,0.76,1018.1,0.0,8,55.97,64.95,-40.9006,174.886
+New Zealand,,3/14/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0004,0.05,rain,65.52,59.84,54.18,0.8,1014.9,0.08,7,55.29,65.52,-40.9006,174.886
+New Zealand,,3/15/2020,Windy overnight.,partly-cloudy-day,0.75,0.0003,0.0023,0.09,rain,67.27,53.98,56.68,0.8,1011.6,0.74,6,59.9,67.27,-40.9006,174.886
+New Zealand,,3/16/2020,Windy in the morning and afternoon.,wind,0.78,0.0003,0.0009,0.11,rain,58.31,51.99,46.13,0.69,1017.8,0.92,5,53.83,60.18,-40.9006,174.886
+New Zealand,,3/17/2020,Clear throughout the day.,clear-day,0.81,0.0003,0.0013,0.06,rain,60.18,57.99,45.31,0.67,1021.3,0.27,7,51.99,60.18,-40.9006,174.886
+New Zealand,,3/18/2020,Overcast throughout the day.,partly-cloudy-day,0.84,0.0012,0.0039,0.18,rain,64.04,60.37,54.92,0.79,1014.7,0.86,4,58.24,64.04,-40.9006,174.886
+New Zealand,,3/19/2020,Clear throughout the day.,partly-cloudy-day,0.88,0.0005,0.002,0.11,rain,67.01,57.02,55.89,0.78,1012.2,0.32,6,59.13,67.01,-40.9006,174.886
+New Zealand,,3/20/2020,Light rain in the evening and overnight.,rain,0.91,0.0028,0.0119,0.63,rain,63.95,61.19,55.06,0.83,1016.9,0.91,4,57.02,63.95,-40.9006,174.886
+New Zealand,,3/21/2020,Light rain in the morning.,rain,0.94,0.0105,0.0368,0.91,rain,65.81,60.17,59.34,0.88,1011.0,0.64,6,61.19,65.81,-40.9006,174.886
+New Zealand,,3/22/2020,Light rain in the evening and overnight.,rain,0.97,0.0091,0.0387,0.88,rain,63.08,48.18,56.87,0.86,1004.3,0.88,4,59.78,63.19,-40.9006,174.886
+New Zealand,,3/23/2020,Partly cloudy throughout the day.,rain,1.0,0.0036,0.0194,0.77,rain,60.41,52.89,44.35,0.67,1005.1,0.61,5,48.18,61.15,-40.9006,174.886
+New Zealand,,3/24/2020,Clear throughout the day.,clear-day,0.03,0.0002,0.0004,0.09,rain,63.64,58.71,50.29,0.74,1014.9,0.13,6,52.89,63.64,-40.9006,174.886
+New Zealand,,3/25/2020,Overcast throughout the day.,partly-cloudy-day,0.06,0.0017,0.005,0.2,rain,63.42,56.91,54.21,0.79,1015.4,0.86,4,58.71,63.42,-40.9006,174.886
+New Zealand,,3/26/2020,"Rain until morning, starting again in the evening.",rain,0.09,0.0111,0.0618,0.89,rain,62.26,53.56,52.05,0.78,1015.2,0.56,5,54.71,62.26,-40.9006,174.886
+New Zealand,,3/27/2020,Light rain and dangerously windy throughout the day.,rain,0.12,0.0448,0.1713,1.0,rain,56.56,53.51,50.55,0.85,1020.1,0.99,3,53.56,56.56,-40.9006,174.886
+New Zealand,,3/28/2020,Light rain in the morning and afternoon.,rain,0.15,0.0156,0.0964,0.94,rain,60.59,54.38,52.51,0.86,1023.4,0.87,3,53.51,60.59,-40.9006,174.886
+New Zealand,,3/29/2020,Possible drizzle in the afternoon.,rain,0.18,0.0015,0.0097,0.52,rain,65.15,57.14,53.78,0.82,1023.0,0.52,4,54.38,65.15,-40.9006,174.886
+New Zealand,,3/30/2020,Mostly cloudy throughout the day.,rain,0.21,0.0012,0.0051,0.45,rain,63.49,55.6,55.5,0.85,1020.4,0.73,4,57.14,63.49,-40.9006,174.886
+New Zealand,,3/31/2020,Clear throughout the day.,partly-cloudy-day,0.25,0.0001,0.0005,0.08,rain,62.6,53.19,54.37,0.86,1019.5,0.33,6,55.6,62.6,-40.9006,174.886
+New Zealand,,4/1/2020,Clear throughout the day.,clear-day,0.28,0.0002,0.0004,0.08,rain,63.91,53.74,51.62,0.8,1020.1,0.09,5,53.19,63.91,-40.9006,174.886
+New Zealand,,4/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.32,0.0001,0.0004,0.03,rain,64.07,54.37,51.63,0.78,1021.9,0.34,5,53.74,64.07,-40.9006,174.886
+New Zealand,,4/3/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0002,0.04,rain,64.05,53.02,51.73,0.76,1025.7,0.26,5,54.37,64.05,-40.9006,174.886
+New Zealand,,4/4/2020,Clear throughout the day.,clear-day,0.39,0.0,0.0002,0.02,,64.55,53.45,50.02,0.74,1027.1,0.24,5,53.02,64.55,-40.9006,174.886
+New Zealand,,4/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0,0.0,0.0,,62.96,56.86,49.19,0.72,1023.2,0.59,4,53.45,62.96,-40.9006,174.886
+New Zealand,,4/6/2020,Possible light rain overnight.,rain,0.47,0.0027,0.0157,0.36,rain,62.89,58.04,55.25,0.85,1014.0,0.89,4,56.86,62.89,-40.9006,174.886
+New Zealand,,4/7/2020,Overcast throughout the day.,rain,0.51,0.0031,0.0243,0.69,rain,63.43,54.63,55.14,0.84,1009.6,0.82,3,57.43,63.43,-40.9006,174.886
+New Zealand,,4/8/2020,Possible light rain in the morning.,rain,0.55,0.0048,0.0391,0.64,rain,60.38,51.86,47.66,0.71,1010.3,0.55,4,53.88,60.38,-40.9006,174.886
+New Zealand,,4/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.59,0.0001,0.0004,0.04,rain,63.0,53.55,47.79,0.72,1015.9,0.43,4,51.86,63.0,-40.9006,174.886
+New Zealand,,4/10/2020,Clear throughout the day.,clear-day,0.63,0.0001,0.0004,0.04,rain,61.52,56.47,51.05,0.79,1013.8,0.14,5,53.55,61.52,-40.9006,174.886
+New Zealand,,4/11/2020,Rain in the evening and overnight.,rain,0.66,0.0014,0.0337,0.64,rain,65.15,58.86,53.94,0.78,1005.7,0.83,4,56.47,65.15,-40.9006,174.886
+New Zealand,,4/12/2020,"Light rain until afternoon, starting again overnight.",rain,0.7,0.0221,0.0989,0.97,rain,60.28,50.36,51.65,0.78,995.2,0.54,4,53.65,61.88,-40.9006,174.886
+New Zealand,,4/13/2020,Possible light rain in the morning.,rain,0.73,0.0084,0.0245,0.74,rain,57.7,47.94,40.45,0.63,1004.5,0.43,3,48.51,57.7,-40.9006,174.886
+New Zealand,,4/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.0,0.0001,0.04,,58.0,51.26,38.93,0.61,1009.3,0.51,3,47.94,58.0,-40.9006,174.886
+New Zealand,,4/15/2020,Possible drizzle in the afternoon.,rain,0.79,0.0023,0.0147,0.41,rain,62.08,58.46,49.3,0.73,1003.8,0.6,4,51.33,62.08,-40.9006,174.886
+New Zealand,,4/16/2020,Light rain throughout the day.,rain,0.83,0.0186,0.0786,0.95,rain,64.0,59.07,57.17,0.88,999.5,0.94,3,58.46,64.0,-40.9006,174.886
+New Zealand,,4/17/2020,"Light rain until afternoon, starting again overnight.",rain,0.86,0.0109,0.047,0.82,rain,61.35,57.92,54.38,0.83,999.3,0.45,3,57.92,61.35,-40.9006,174.886
+New Zealand,,4/18/2020,Possible light rain in the morning.,rain,0.89,0.0052,0.0281,0.66,rain,62.02,56.81,52.21,0.76,1007.7,0.7,3,57.43,62.02,-40.9006,174.886
+New Zealand,,4/19/2020,Mostly cloudy throughout the day.,rain,0.92,0.0043,0.0141,0.52,rain,62.72,55.77,51.8,0.77,1014.7,0.54,3,56.81,62.72,-40.9006,174.886
+New Zealand,,4/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.95,0.0001,0.0004,0.09,rain,61.45,53.73,48.02,0.7,1016.7,0.63,3,54.55,61.45,-40.9006,174.886

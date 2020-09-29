@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Saudi Arabia,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.03,rain,77.91,58.39,44.01,0.48,1014.8,0.16,6,52.35,77.91,24.0,45.0
+Saudi Arabia,,1/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.04,rain,83.07,57.0,43.3,0.41,1015.0,0.64,4,58.39,83.07,24.0,45.0
+Saudi Arabia,,1/2/2020,Clear throughout the day.,clear-day,0.27,0.0,0.0003,0.02,,86.09,59.11,44.9,0.42,1015.4,0.0,6,57.0,86.09,24.0,45.0
+Saudi Arabia,,1/3/2020,Clear throughout the day.,clear-day,0.3,0.0018,0.0155,0.13,rain,80.79,58.5,49.41,0.5,1013.1,0.01,6,59.11,80.79,24.0,45.0
+Saudi Arabia,,1/4/2020,Overcast throughout the day.,partly-cloudy-day,0.33,0.0016,0.0072,0.15,rain,66.67,42.5,40.66,0.48,1014.2,0.62,4,49.84,66.67,24.0,45.0
+Saudi Arabia,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,64.75,44.63,31.16,0.47,1020.6,0.01,6,43.15,64.75,24.0,45.0
+Saudi Arabia,,1/6/2020,Partly cloudy throughout the day.,clear-day,0.39,0.0003,0.0018,0.05,rain,68.75,50.71,39.99,0.56,1020.1,0.29,5,44.63,68.75,24.0,45.0
+Saudi Arabia,,1/7/2020,Clear throughout the day.,partly-cloudy-day,0.43,0.0,0.0003,0.02,,73.14,55.48,45.42,0.56,1015.7,0.32,6,50.71,73.14,24.0,45.0
+Saudi Arabia,,1/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.46,0.0001,0.0005,0.05,rain,72.2,45.32,25.91,0.28,1013.7,0.53,5,53.16,72.2,24.0,45.0
+Saudi Arabia,,1/9/2020,Partly cloudy throughout the day.,clear-day,0.5,0.0001,0.0003,0.01,rain,65.29,43.01,22.79,0.3,1012.2,0.3,5,45.32,65.29,24.0,45.0
+Saudi Arabia,,1/10/2020,Clear throughout the day.,clear-day,0.53,0.0001,0.0003,0.03,rain,58.06,38.53,27.29,0.44,1017.7,0.06,5,43.01,58.06,24.0,45.0
+Saudi Arabia,,1/11/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0003,0.03,rain,59.06,36.88,25.71,0.46,1025.0,0.04,6,38.53,59.06,24.0,45.0
+Saudi Arabia,,1/12/2020,Clear throughout the day.,clear-day,0.61,0.0,0.0002,0.03,,67.77,41.18,16.95,0.3,1021.8,0.0,6,36.88,67.77,24.0,45.0
+Saudi Arabia,,1/13/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,64.04,36.41,20.0,0.29,1022.7,0.0,6,41.18,64.04,24.0,45.0
+Saudi Arabia,,1/14/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0001,0.02,,63.08,39.27,12.45,0.29,1025.9,0.02,6,36.41,63.08,24.0,45.0
+Saudi Arabia,,1/15/2020,Clear throughout the day.,clear-day,0.72,0.0001,0.0002,0.03,rain,69.84,47.04,18.16,0.27,1024.3,0.02,6,39.26,69.84,24.0,45.0
+Saudi Arabia,,1/16/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0004,0.03,rain,73.95,52.29,28.78,0.38,1018.9,0.1,6,47.04,73.95,24.0,45.0
+Saudi Arabia,,1/17/2020,Clear throughout the day.,clear-day,0.79,0.0,0.0002,0.03,,79.97,57.06,21.9,0.2,1015.4,0.11,7,52.29,79.97,24.0,45.0
+Saudi Arabia,,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0,0.0,,76.91,50.2,39.56,0.39,1015.9,0.32,6,57.06,76.91,24.0,45.0
+Saudi Arabia,,1/19/2020,Clear throughout the day.,clear-day,0.86,0.0,0.0002,0.03,,72.16,49.21,34.18,0.41,1020.2,0.08,6,50.2,72.16,24.0,45.0
+Saudi Arabia,,1/20/2020,Clear throughout the day.,clear-day,0.9,0.0006,0.0039,0.05,rain,75.42,52.13,37.15,0.42,1015.8,0.29,6,49.21,75.42,24.0,45.0
+Saudi Arabia,,1/21/2020,Clear throughout the day.,clear-day,0.93,0.0,0.0,0.0,,73.16,44.24,28.13,0.35,1014.7,0.19,6,49.91,73.16,24.0,45.0
+Saudi Arabia,,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.96,0.0001,0.0002,0.02,rain,60.27,39.47,24.79,0.37,1020.3,0.35,6,44.24,60.27,24.0,45.0
+Saudi Arabia,,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0,0.0,0.0,,66.83,44.08,22.35,0.32,1020.6,0.06,7,39.47,66.83,24.0,45.0
+Saudi Arabia,,1/24/2020,Clear throughout the day.,clear-day,0.03,0.0,0.0002,0.02,,63.67,35.68,24.68,0.35,1021.4,0.0,7,44.08,63.67,24.0,45.0
+Saudi Arabia,,1/25/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0003,0.03,rain,57.77,32.3,19.98,0.39,1027.1,0.0,7,35.68,57.77,24.0,45.0
+Saudi Arabia,,1/26/2020,Clear throughout the day.,clear-day,0.09,0.0001,0.0004,0.04,rain,63.91,34.64,19.77,0.42,1026.4,0.0,7,32.3,63.91,24.0,45.0
+Saudi Arabia,,1/27/2020,Clear throughout the day.,clear-day,0.12,0.0,0.0,0.0,,69.96,41.52,7.05,0.21,1022.1,0.02,7,34.64,69.96,24.0,45.0
+Saudi Arabia,,1/28/2020,Clear throughout the day.,clear-day,0.15,0.0001,0.0003,0.06,rain,75.44,46.42,17.43,0.22,1018.1,0.2,7,41.52,75.44,24.0,45.0
+Saudi Arabia,,1/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.18,0.0001,0.0003,0.01,rain,69.85,42.06,25.8,0.31,1021.0,0.42,5,46.42,69.85,24.0,45.0
+Saudi Arabia,,1/30/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.08,rain,77.08,57.32,24.73,0.29,1017.5,0.27,8,42.06,77.08,24.0,45.0
+Saudi Arabia,,1/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0003,0.0014,0.1,rain,72.68,42.22,34.0,0.35,1016.5,0.44,6,51.26,72.68,24.0,45.0
+Saudi Arabia,,2/1/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0003,0.03,rain,70.25,42.01,17.5,0.25,1021.0,0.12,7,42.22,70.25,24.0,45.0
+Saudi Arabia,,2/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0,0.0003,0.04,,69.29,45.9,9.58,0.16,1022.3,0.43,5,42.01,69.29,24.0,45.0
+Saudi Arabia,,2/3/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.06,rain,74.49,53.67,26.69,0.28,1017.7,0.28,7,45.9,74.49,24.0,45.0
+Saudi Arabia,,2/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0003,0.05,rain,74.78,57.82,35.4,0.35,1016.9,0.35,5,53.67,74.78,24.0,45.0
+Saudi Arabia,,2/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0001,0.0003,0.03,rain,80.11,58.76,35.6,0.32,1018.1,0.45,5,57.82,80.11,24.0,45.0
+Saudi Arabia,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.03,rain,85.58,59.57,34.7,0.27,1016.4,0.12,7,58.76,85.58,24.0,45.0
+Saudi Arabia,,2/7/2020,Clear throughout the day.,clear-day,0.48,0.0,0.0003,0.02,,84.87,54.67,45.44,0.4,1015.8,0.18,8,59.57,84.87,24.0,45.0
+Saudi Arabia,,2/8/2020,Clear throughout the day.,clear-day,0.52,0.0001,0.0003,0.05,rain,79.93,48.35,27.0,0.23,1016.7,0.15,8,54.67,79.93,24.0,45.0
+Saudi Arabia,,2/9/2020,Clear throughout the day.,clear-day,0.56,0.0001,0.0004,0.02,rain,70.44,40.02,27.99,0.32,1017.1,0.12,7,48.35,70.44,24.0,45.0
+Saudi Arabia,,2/10/2020,Clear throughout the day.,clear-day,0.59,0.0,0.0002,0.03,,61.89,31.77,26.63,0.42,1020.7,0.06,7,40.02,61.89,24.0,45.0
+Saudi Arabia,,2/11/2020,Clear throughout the day.,clear-day,0.63,0.0001,0.0004,0.03,rain,62.45,33.79,14.82,0.31,1027.1,0.0,7,31.77,62.45,24.0,45.0
+Saudi Arabia,,2/12/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.02,rain,69.19,39.96,5.62,0.17,1027.3,0.01,7,33.79,69.19,24.0,45.0
+Saudi Arabia,,2/13/2020,Clear throughout the day.,clear-day,0.71,0.0,0.0,0.0,,76.33,42.84,5.01,0.13,1023.4,0.0,8,39.96,76.33,24.0,45.0
+Saudi Arabia,,2/14/2020,Clear throughout the day.,clear-day,0.74,0.0001,0.0003,0.02,rain,78.03,49.36,-2.89,0.09,1020.2,0.0,8,42.84,78.03,24.0,45.0
+Saudi Arabia,,2/15/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.03,rain,82.54,57.94,0.06,0.07,1015.6,0.21,8,49.36,82.54,24.0,45.0
+Saudi Arabia,,2/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0003,0.04,rain,86.63,59.23,3.53,0.08,1013.5,0.52,8,57.94,86.63,24.0,45.0
+Saudi Arabia,,2/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.0002,0.0004,0.07,rain,88.78,61.05,-0.79,0.05,1013.9,0.74,5,59.23,88.78,24.0,45.0
+Saudi Arabia,,2/18/2020,Clear throughout the day.,partly-cloudy-day,0.88,0.0,0.0004,0.03,,91.84,59.27,13.51,0.09,1010.8,0.32,9,61.05,91.84,24.0,45.0
+Saudi Arabia,,2/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.91,0.0004,0.0033,0.06,rain,75.37,45.42,32.07,0.31,1013.9,0.61,9,54.81,76.16,24.0,45.0
+Saudi Arabia,,2/20/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.06,rain,74.6,50.42,29.43,0.35,1016.7,0.14,9,45.42,74.6,24.0,45.0
+Saudi Arabia,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0004,0.03,rain,83.94,56.58,36.01,0.32,1016.1,0.05,8,50.42,83.94,24.0,45.0
+Saudi Arabia,,2/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.0,0.0001,0.0004,0.05,rain,87.21,62.84,47.55,0.44,1015.6,0.66,6,56.58,87.21,24.0,45.0
+Saudi Arabia,,2/23/2020,Overcast throughout the day.,cloudy,0.03,0.0001,0.0003,0.02,rain,90.17,64.1,41.62,0.38,1012.1,0.93,5,62.84,90.17,24.0,45.0
+Saudi Arabia,,2/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.06,0.0001,0.0003,0.02,rain,91.2,49.7,35.24,0.24,1010.1,0.57,8,64.1,91.2,24.0,45.0
+Saudi Arabia,,2/25/2020,Clear throughout the day.,clear-day,0.09,0.0001,0.0003,0.01,rain,74.19,45.51,21.29,0.24,1018.1,0.08,9,49.7,74.19,24.0,45.0
+Saudi Arabia,,2/26/2020,Clear throughout the day.,clear-day,0.12,0.0,0.0003,0.01,,78.81,45.89,28.56,0.33,1020.2,0.03,9,45.51,78.81,24.0,45.0
+Saudi Arabia,,2/27/2020,Clear throughout the day.,clear-day,0.15,0.0001,0.0003,0.01,rain,85.46,55.24,24.39,0.24,1016.8,0.0,10,45.89,85.46,24.0,45.0
+Saudi Arabia,,2/28/2020,Clear throughout the day.,clear-day,0.18,0.0,0.0003,0.02,,87.66,60.25,30.85,0.25,1011.8,0.0,10,55.24,87.66,24.0,45.0
+Saudi Arabia,,2/29/2020,Clear throughout the day.,clear-day,0.22,0.0001,0.0003,0.04,rain,88.51,52.54,17.39,0.15,1011.2,0.06,10,60.25,88.51,24.0,45.0
+Saudi Arabia,,3/1/2020,Clear throughout the day.,clear-day,0.25,0.0001,0.0002,0.01,rain,77.88,43.84,20.46,0.21,1017.6,0.13,10,52.54,77.88,24.0,45.0
+Saudi Arabia,,3/2/2020,Clear throughout the day.,clear-day,0.28,0.0001,0.0003,0.01,rain,77.54,45.79,7.07,0.16,1019.7,0.0,10,43.84,77.54,24.0,45.0
+Saudi Arabia,,3/3/2020,Clear throughout the day.,clear-day,0.31,0.0,0.0002,0.01,,82.4,50.37,4.79,0.1,1017.7,0.0,10,45.79,82.4,24.0,45.0
+Saudi Arabia,,3/4/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0003,0.02,rain,84.75,54.76,14.34,0.13,1016.2,0.0,10,50.37,84.75,24.0,45.0
+Saudi Arabia,,3/5/2020,Clear throughout the day.,clear-day,0.39,0.0,0.0002,0.01,,86.15,57.62,23.66,0.18,1013.6,0.0,10,54.76,86.15,24.0,45.0
+Saudi Arabia,,3/6/2020,Clear throughout the day.,clear-day,0.42,0.0,0.0003,0.02,,88.95,51.33,10.99,0.11,1012.4,0.0,10,57.62,88.95,24.0,45.0
+Saudi Arabia,,3/7/2020,Clear throughout the day.,clear-day,0.46,0.0001,0.0004,0.02,rain,79.86,48.16,21.72,0.2,1016.0,0.0,10,51.33,79.86,24.0,45.0
+Saudi Arabia,,3/8/2020,Clear throughout the day.,clear-day,0.5,0.0,0.0,0.0,,77.61,44.52,28.05,0.31,1017.0,0.0,10,48.16,77.61,24.0,45.0
+Saudi Arabia,,3/9/2020,Clear throughout the day.,clear-day,0.54,0.0,0.0,0.0,,82.17,50.0,20.04,0.24,1017.2,0.0,10,44.52,82.17,24.0,45.0
+Saudi Arabia,,3/10/2020,Clear throughout the day.,clear-day,0.58,0.0002,0.0004,0.03,rain,84.76,51.19,12.68,0.14,1016.3,0.08,10,50.0,84.76,24.0,45.0
+Saudi Arabia,,3/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0,0.0,0.0,,85.09,57.77,12.58,0.14,1014.8,0.45,9,51.19,85.09,24.0,45.0
+Saudi Arabia,,3/12/2020,Mostly cloudy throughout the day.,cloudy,0.66,0.0001,0.0003,0.02,rain,87.59,68.21,5.02,0.08,1012.2,0.92,6,57.77,87.59,24.0,45.0
+Saudi Arabia,,3/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0002,0.0034,0.04,rain,83.67,52.9,33.97,0.24,1011.2,0.82,6,65.32,83.67,24.0,45.0
+Saudi Arabia,,3/14/2020,Clear throughout the day.,clear-day,0.73,0.0003,0.005,0.03,rain,80.63,52.6,35.56,0.31,1011.9,0.0,10,52.9,80.63,24.0,45.0
+Saudi Arabia,,3/15/2020,Clear throughout the day.,clear-day,0.76,0.0,0.0,0.0,,82.2,56.54,37.62,0.37,1014.0,0.0,10,52.6,82.2,24.0,45.0
+Saudi Arabia,,3/16/2020,Clear throughout the day.,clear-day,0.79,0.0011,0.0107,0.06,rain,88.12,68.96,42.03,0.35,1011.7,0.18,11,56.54,88.12,24.0,45.0
+Saudi Arabia,,3/17/2020,Clear throughout the day.,clear-day,0.83,0.0001,0.001,0.05,rain,86.26,57.59,30.47,0.25,1010.2,0.29,11,64.74,86.26,24.0,45.0
+Saudi Arabia,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0,0.0,0.0,,87.2,56.46,10.52,0.1,1011.4,0.1,11,57.59,87.2,24.0,45.0
+Saudi Arabia,,3/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.89,0.0,0.0,0.0,,87.1,59.83,20.17,0.23,1009.8,0.43,10,56.46,87.1,24.0,45.0
+Saudi Arabia,,3/20/2020,Clear throughout the day.,clear-day,0.92,0.0,0.0,0.0,,84.03,56.72,2.45,0.07,1008.2,0.1,10,59.83,84.03,24.0,45.0
+Saudi Arabia,,3/21/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.01,rain,74.77,40.54,9.96,0.14,1011.9,0.0,10,52.85,74.77,24.0,45.0
+Saudi Arabia,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0004,0.01,rain,79.23,43.78,5.62,0.16,1016.2,0.01,10,40.54,79.23,24.0,45.0
+Saudi Arabia,,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.01,rain,82.66,53.88,0.8,0.08,1013.1,0.18,8,43.78,82.66,24.0,45.0
+Saudi Arabia,,3/24/2020,Clear throughout the day.,partly-cloudy-day,0.04,0.0002,0.0004,0.01,rain,85.83,60.25,10.74,0.11,1009.6,0.43,10,53.88,85.83,24.0,45.0
+Saudi Arabia,,3/25/2020,Clear throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.01,rain,90.45,55.91,10.59,0.11,1007.5,0.38,10,60.25,90.45,24.0,45.0
+Saudi Arabia,,3/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0004,0.02,rain,91.19,66.14,11.49,0.09,1009.0,0.42,7,55.91,91.19,24.0,45.0
+Saudi Arabia,,3/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0003,0.0018,0.04,rain,95.18,62.02,27.85,0.15,1006.6,0.7,6,66.14,95.18,24.0,45.0
+Saudi Arabia,,3/28/2020,Clear throughout the day.,clear-day,0.16,0.0,0.0003,0.02,,88.71,56.4,34.89,0.25,1007.8,0.0,12,62.02,88.71,24.0,45.0
+Saudi Arabia,,3/29/2020,Clear throughout the day.,clear-day,0.19,0.0002,0.0004,0.06,rain,82.36,54.79,38.52,0.36,1013.3,0.0,11,56.4,82.36,24.0,45.0
+Saudi Arabia,,3/30/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0003,0.06,rain,86.3,61.61,35.17,0.26,1014.9,0.16,10,54.79,86.3,24.0,45.0
+Saudi Arabia,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0007,0.05,rain,91.18,64.84,31.21,0.2,1012.7,0.12,12,61.61,91.18,24.0,45.0
+Saudi Arabia,,4/1/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0003,0.01,rain,92.26,66.93,16.61,0.11,1010.7,0.23,12,64.84,92.26,24.0,45.0
+Saudi Arabia,,4/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.33,0.0001,0.0002,0.03,rain,95.79,60.73,15.11,0.09,1010.8,0.46,9,66.93,95.79,24.0,45.0
+Saudi Arabia,,4/3/2020,Partly cloudy throughout the day.,clear-day,0.37,0.0007,0.0045,0.06,rain,92.07,64.45,42.15,0.34,1014.0,0.25,10,60.73,92.07,24.0,45.0
+Saudi Arabia,,4/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0025,0.0096,0.15,rain,89.54,67.38,52.21,0.44,1016.4,0.59,8,64.45,89.54,24.0,45.0
+Saudi Arabia,,4/5/2020,Clear throughout the day.,clear-day,0.45,0.001,0.0053,0.11,rain,94.23,73.23,42.86,0.29,1015.3,0.3,12,67.38,94.23,24.0,45.0
+Saudi Arabia,,4/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0001,0.0011,0.03,rain,97.03,73.57,36.02,0.19,1012.7,0.45,9,73.23,97.03,24.0,45.0
+Saudi Arabia,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0009,0.0058,0.06,rain,99.79,74.19,32.75,0.15,1009.5,0.15,12,73.57,99.79,24.0,45.0
+Saudi Arabia,,4/8/2020,Clear throughout the day.,partly-cloudy-day,0.56,0.0059,0.0246,0.12,rain,102.16,71.81,36.94,0.18,1007.9,0.42,12,74.19,102.16,24.0,45.0
+Saudi Arabia,,4/9/2020,Clear throughout the day.,partly-cloudy-day,0.6,0.0004,0.0034,0.07,rain,98.26,72.97,36.23,0.19,1007.0,0.5,12,71.81,98.26,24.0,45.0
+Saudi Arabia,,4/10/2020,Overcast throughout the day.,cloudy,0.64,0.0001,0.0004,0.05,rain,91.8,66.33,17.64,0.09,1009.0,0.89,5,72.97,91.8,24.0,45.0
+Saudi Arabia,,4/11/2020,Overcast throughout the day.,cloudy,0.68,0.0001,0.0005,0.06,rain,91.12,65.36,20.45,0.13,1009.7,0.91,6,66.33,91.12,24.0,45.0
+Saudi Arabia,,4/12/2020,Partly cloudy throughout the day.,clear-day,0.71,0.0004,0.003,0.03,rain,91.39,59.06,49.49,0.42,1010.3,0.31,10,65.36,91.39,24.0,45.0
+Saudi Arabia,,4/13/2020,Possible light rain overnight.,clear-day,0.74,0.0043,0.0216,0.19,rain,84.36,60.57,49.54,0.48,1012.1,0.22,12,59.06,84.36,24.0,45.0
+Saudi Arabia,,4/14/2020,Partly cloudy throughout the day.,rain,0.78,0.0049,0.0177,0.52,rain,85.61,56.87,33.08,0.38,1011.4,0.38,8,60.57,85.61,24.0,45.0
+Saudi Arabia,,4/15/2020,Clear throughout the day.,clear-day,0.81,0.0001,0.0002,0.03,rain,85.29,60.71,42.37,0.4,1012.6,0.01,12,56.87,85.29,24.0,45.0
+Saudi Arabia,,4/16/2020,Clear throughout the day.,clear-day,0.84,0.005,0.0251,0.11,rain,88.97,67.74,51.18,0.44,1009.9,0.18,13,60.71,88.97,24.0,45.0
+Saudi Arabia,,4/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0002,0.0014,0.06,rain,90.3,66.93,39.12,0.33,1009.3,0.49,10,67.74,90.3,24.0,45.0
+Saudi Arabia,,4/18/2020,Overcast throughout the day.,cloudy,0.9,0.001,0.013000000000000001,0.09,rain,88.21,66.94,31.41,0.19,1009.9,0.9,5,66.93,88.21,24.0,45.0
+Saudi Arabia,,4/19/2020,Rain in the evening and overnight.,rain,0.93,0.0215,0.1343,0.64,rain,85.08,61.63,57.32,0.57,1010.9,0.98,5,64.09,85.08,24.0,45.0
+Saudi Arabia,,4/20/2020,Clear throughout the day.,rain,0.96,0.0099,0.0548,0.7,rain,79.79,60.87,57.37,0.67,1012.5,0.35,12,61.63,79.79,24.0,45.0

@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Latvia,,12/31/2019,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0006,0.13,rain,39.01,35.99,30.12,0.78,1017.3,0.66,0,33.13,39.01,56.8796,24.6032
+Latvia,,1/1/2020,Overcast throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.21,rain,42.02,33.53,33.85,0.84,1013.7,0.74,0,35.66,42.02,56.8796,24.6032
+Latvia,,1/2/2020,Possible drizzle in the evening and overnight.,rain,0.27,0.0026,0.0129,0.61,rain,41.56,36.2,33.17,0.84,1007.8,0.5,0,33.53,41.56,56.8796,24.6032
+Latvia,,1/3/2020,Possible drizzle in the morning and afternoon.,rain,0.3,0.0036,0.0149,0.65,rain,38.97,32.81,32.48,0.82,998.6,0.95,0,35.47,40.98,56.8796,24.6032
+Latvia,,1/4/2020,Mostly cloudy throughout the day.,rain,0.33,0.0009,0.0087,0.49,rain,34.39,25.68,26.17,0.78,1018.0,0.72,0,25.68,36.5,56.8796,24.6032
+Latvia,,1/5/2020,Possible light snow (< 1 in.) in the morning.,snow,0.36,0.0071,0.0343,0.58,snow,37.79,34.76,31.09,0.9,1020.2,0.99,0,26.75,37.79,56.8796,24.6032
+Latvia,,1/6/2020,Overcast throughout the day.,rain,0.39,0.0016,0.0032,0.26,rain,37.63,32.1,34.05,0.91,1020.6,1.0,0,34.97,37.63,56.8796,24.6032
+Latvia,,1/7/2020,Possible light rain in the afternoon.,rain,0.43,0.0075,0.0678,0.68,rain,40.32,34.43,33.27,0.88,1014.4,0.96,0,32.1,43.62,56.8796,24.6032
+Latvia,,1/8/2020,Possible light rain overnight.,partly-cloudy-day,0.46,0.0002,0.0014,0.06,rain,39.62,33.15,32.94,0.86,1014.0,0.51,0,33.15,43.72,56.8796,24.6032
+Latvia,,1/9/2020,Drizzle throughout the day.,rain,0.5,0.0053,0.0286,0.86,rain,39.06,30.74,35.2,0.93,1010.4,1.0,0,34.33,39.06,56.8796,24.6032
+Latvia,,1/10/2020,Clear throughout the day.,rain,0.54,0.0006,0.0071,0.67,rain,34.47,32.09,29.53,0.86,1019.7,0.64,0,30.34,38.24,56.8796,24.6032
+Latvia,,1/11/2020,Light rain in the afternoon and evening.,rain,0.57,0.0088,0.0321,0.88,rain,42.6,35.78,35.56,0.86,1010.6,1.0,0,34.04,44.09,56.8796,24.6032
+Latvia,,1/12/2020,Mostly cloudy throughout the day.,rain,0.61,0.0005,0.0025,0.37,rain,42.76,33.65,35.27,0.88,1011.5,0.79,0,35.78,42.76,56.8796,24.6032
+Latvia,,1/13/2020,Possible light rain in the evening and overnight.,rain,0.65,0.0044,0.0273,0.77,rain,38.74,37.75,33.14,0.87,1014.2,0.79,0,33.62,39.27,56.8796,24.6032
+Latvia,,1/14/2020,Possible drizzle in the afternoon.,rain,0.69,0.0019,0.0155,0.63,rain,44.93,41.78,37.26,0.85,1009.9,0.99,0,38.28,44.93,56.8796,24.6032
+Latvia,,1/15/2020,Mostly cloudy throughout the day.,rain,0.72,0.001,0.0056,0.42,rain,44.9,36.95,37.88,0.83,1016.5,0.85,0,39.72,44.9,56.8796,24.6032
+Latvia,,1/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.0001,0.0004,0.09,rain,42.89,31.62,33.67,0.84,1026.0,0.6,0,33.07,42.89,56.8796,24.6032
+Latvia,,1/17/2020,Overcast throughout the day.,partly-cloudy-day,0.79,0.0002,0.0011,0.19,rain,38.1,36.5,29.89,0.82,1018.3,0.85,0,31.62,39.31,56.8796,24.6032
+Latvia,,1/18/2020,Overcast throughout the day.,rain,0.83,0.0003,0.0008,0.31,rain,42.8,32.03,34.43,0.86,1024.6,0.83,0,35.04,42.8,56.8796,24.6032
+Latvia,,1/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.86,0.0,0.0002,0.05,,40.57,37.53,31.49,0.84,1032.5,0.64,0,32.03,40.57,56.8796,24.6032
+Latvia,,1/20/2020,Possible drizzle in the afternoon.,rain,0.9,0.0016,0.0112,0.47,rain,46.39,38.64,38.34,0.86,1018.5,0.94,0,38.68,46.39,56.8796,24.6032
+Latvia,,1/21/2020,Possible drizzle in the morning and afternoon.,rain,0.93,0.0041,0.0111,0.77,rain,40.02,34.25,32.05,0.78,1011.7,0.79,0,35.15,41.05,56.8796,24.6032
+Latvia,,1/22/2020,Mostly cloudy throughout the day.,rain,0.96,0.0007,0.0043,0.28,rain,39.44,35.03,30.02,0.78,1019.4,0.73,0,34.21,39.44,56.8796,24.6032
+Latvia,,1/23/2020,Possible light rain in the afternoon and evening.,rain,1.0,0.0045,0.0193,0.49,rain,44.14,37.91,38.42,0.86,1007.8,1.0,0,37.98,44.14,56.8796,24.6032
+Latvia,,1/24/2020,Mostly cloudy throughout the day.,rain,0.03,0.0006,0.004,0.41,rain,42.44,30.92,33.52,0.82,1009.0,0.7,0,33.03,42.44,56.8796,24.6032
+Latvia,,1/25/2020,Overcast throughout the day.,rain,0.06,0.0007,0.0021,0.32,rain,42.93,36.81,33.94,0.89,1012.1,0.78,1,30.92,42.93,56.8796,24.6032
+Latvia,,1/26/2020,Possible drizzle in the morning.,rain,0.09,0.0014,0.0049,0.56,rain,41.32,30.95,35.74,0.9,1011.0,1.0,0,36.81,41.32,56.8796,24.6032
+Latvia,,1/27/2020,Foggy overnight.,rain,0.12,0.0002,0.0008,0.3,rain,34.73,33.32,29.4,0.85,1003.5,0.98,0,30.83,37.13,56.8796,24.6032
+Latvia,,1/28/2020,Possible drizzle in the afternoon and evening.,rain,0.15,0.0033,0.0114,0.67,rain,40.53,31.7,33.89,0.91,995.6,1.0,0,34.27,40.53,56.8796,24.6032
+Latvia,,1/29/2020,Foggy in the morning.,rain,0.18,0.0018,0.0065,0.48,rain,39.59,32.66,32.85,0.92,999.7,1.0,0,31.7,39.59,56.8796,24.6032
+Latvia,,1/30/2020,Possible drizzle in the afternoon.,rain,0.21,0.001,0.0029,0.5,rain,39.06,35.49,33.28,0.91,996.5,0.95,0,32.66,39.06,56.8796,24.6032
+Latvia,,1/31/2020,Light rain until evening.,rain,0.24,0.0109,0.0702,0.86,rain,44.26,41.37,36.81,0.92,995.4,1.0,1,35.49,44.85,56.8796,24.6032
+Latvia,,2/1/2020,Light rain throughout the day.,rain,0.27,0.0089,0.0368,0.9,rain,42.86,35.55,38.54,0.89,987.0,0.96,0,36.55,45.3,56.8796,24.6032
+Latvia,,2/2/2020,Possible drizzle in the morning.,rain,0.3,0.0032,0.0102,0.7,rain,38.24,28.86,31.99,0.85,994.4,0.78,0,33.2,38.24,56.8796,24.6032
+Latvia,,2/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0002,0.0009,0.17,snow,35.09,19.61,23.85,0.76,1002.0,0.51,0,24.33,35.09,56.8796,24.6032
+Latvia,,2/4/2020,Possible light rain overnight.,snow,0.37,0.0007,0.0041,0.29,snow,35.42,31.15,21.4,0.76,1015.2,0.75,0,19.61,35.42,56.8796,24.6032
+Latvia,,2/5/2020,Light rain in the morning.,rain,0.41,0.0047,0.0276,0.77,rain,37.01,23.4,24.13,0.74,1012.1,0.55,0,24.89,38.26,56.8796,24.6032
+Latvia,,2/6/2020,Foggy overnight.,clear-day,0.44,0.0005,0.0065,0.12,snow,33.39,28.84,16.5,0.61,1025.4,0.19,1,23.4,33.39,56.8796,24.6032
+Latvia,,2/7/2020,Overcast throughout the day.,snow,0.48,0.0013,0.0072,0.39,snow,39.22,27.78,32.61,0.88,1021.1,0.93,1,30.15,39.22,56.8796,24.6032
+Latvia,,2/8/2020,Dangerously windy in the evening and overnight.,wind,0.52,0.0001,0.0004,0.12,rain,40.85,34.49,29.62,0.83,1012.9,0.72,1,27.78,40.85,56.8796,24.6032
+Latvia,,2/9/2020,Light rain throughout the day.,rain,0.56,0.0155,0.0464,0.89,rain,43.94,36.97,35.04,0.85,981.4,0.93,1,34.49,43.94,56.8796,24.6032
+Latvia,,2/10/2020,Possible drizzle throughout the day.,rain,0.6,0.0039,0.0078,0.86,rain,40.56,33.55,34.16,0.86,982.2,0.98,1,34.75,40.56,56.8796,24.6032
+Latvia,,2/11/2020,Light rain throughout the day.,rain,0.63,0.0106,0.0247,0.87,rain,42.01,35.67,34.09,0.89,989.2,0.94,1,33.55,42.01,56.8796,24.6032
+Latvia,,2/12/2020,Possible drizzle in the morning and afternoon.,rain,0.67,0.0041,0.0151,0.8,rain,41.1,32.5,33.03,0.85,1000.7,0.83,1,33.6,41.1,56.8796,24.6032
+Latvia,,2/13/2020,Overcast throughout the day.,rain,0.71,0.0003,0.0007,0.27,rain,39.99,27.58,31.39,0.88,1015.0,0.61,1,30.35,39.99,56.8796,24.6032
+Latvia,,2/14/2020,Overcast throughout the day.,partly-cloudy-day,0.74,0.0003,0.0009,0.19,snow,39.4,31.46,28.29,0.82,1022.0,0.68,1,27.58,39.4,56.8796,24.6032
+Latvia,,2/15/2020,Possible drizzle in the evening and overnight.,rain,0.78,0.0037,0.0136,0.67,rain,43.08,42.09,33.0,0.83,1009.7,1.0,1,31.46,44.68,56.8796,24.6032
+Latvia,,2/16/2020,Possible drizzle in the morning.,rain,0.81,0.002,0.0075,0.72,rain,49.06,41.82,37.85,0.73,999.9,0.93,1,42.17,49.06,56.8796,24.6032
+Latvia,,2/17/2020,Overcast throughout the day.,rain,0.85,0.0014,0.0038,0.39,rain,44.71,38.09,35.61,0.76,1004.5,0.99,1,38.46,44.71,56.8796,24.6032
+Latvia,,2/18/2020,Drizzle throughout the day.,rain,0.88,0.0048,0.0133,0.87,rain,43.27,37.41,36.14,0.87,1006.1,0.99,1,38.09,43.27,56.8796,24.6032
+Latvia,,2/19/2020,Possible drizzle in the morning.,rain,0.91,0.0012,0.005,0.6,rain,43.54,33.12,35.16,0.84,1013.6,0.77,1,35.99,43.54,56.8796,24.6032
+Latvia,,2/20/2020,Foggy in the afternoon and evening.,rain,0.94,0.0008,0.0046,0.39,rain,38.84,35.24,31.46,0.82,1011.4,0.83,1,33.12,38.95,56.8796,24.6032
+Latvia,,2/21/2020,Light rain throughout the day.,rain,0.97,0.0175,0.059000000000000004,0.86,rain,39.03,36.26,34.28,0.86,1004.9,0.88,1,35.3,42.45,56.8796,24.6032
+Latvia,,2/22/2020,"Possible drizzle until afternoon, starting again overnight.",rain,0.0,0.0055,0.0176,0.83,rain,41.73,35.96,34.45,0.85,992.5,0.93,1,36.26,41.73,56.8796,24.6032
+Latvia,,2/23/2020,Possible drizzle in the morning.,rain,0.03,0.001,0.0058,0.54,rain,40.63,26.65,31.05,0.79,1000.1,0.34,1,31.39,40.63,56.8796,24.6032
+Latvia,,2/24/2020,Light rain starting in the afternoon.,rain,0.07,0.0059,0.024,0.78,rain,37.81,32.56,29.4,0.88,998.0,0.79,1,26.65,37.81,56.8796,24.6032
+Latvia,,2/25/2020,Possible drizzle in the morning and afternoon.,rain,0.1,0.0018,0.0102,0.75,rain,41.63,30.01,32.08,0.86,988.9,0.81,1,31.7,41.63,56.8796,24.6032
+Latvia,,2/26/2020,Light rain starting in the afternoon.,snow,0.13,0.008,0.0372,0.82,snow,38.95,29.31,30.7,0.88,991.4,0.81,1,30.01,38.95,56.8796,24.6032
+Latvia,,2/27/2020,Overcast throughout the day.,snow,0.16,0.0015,0.0061,0.55,snow,33.92,26.41,27.25,0.84,999.5,0.92,1,29.31,33.92,56.8796,24.6032
+Latvia,,2/28/2020,Foggy overnight.,snow,0.19,0.0008,0.0035,0.4,snow,37.89,33.83,28.03,0.84,1004.6,0.71,1,26.41,37.89,56.8796,24.6032
+Latvia,,2/29/2020,Light rain in the morning and afternoon.,rain,0.22,0.0067,0.0263,0.73,rain,45.82,35.19,34.6,0.85,995.9,0.87,1,33.83,45.82,56.8796,24.6032
+Latvia,,3/1/2020,Possible drizzle in the morning.,rain,0.25,0.0011,0.0093,0.57,rain,44.86,37.03,36.33,0.88,999.9,0.79,1,35.19,44.86,56.8796,24.6032
+Latvia,,3/2/2020,Possible drizzle in the morning.,rain,0.28,0.0009,0.0035,0.6,rain,44.2,39.9,37.51,0.88,1003.4,1.0,1,37.03,44.2,56.8796,24.6032
+Latvia,,3/3/2020,Light rain in the morning and afternoon.,rain,0.32,0.0121,0.0724,0.92,rain,46.75,36.51,38.44,0.88,1005.4,1.0,1,39.41,46.75,56.8796,24.6032
+Latvia,,3/4/2020,Overcast throughout the day.,rain,0.35,0.0005,0.0017,0.45,rain,43.65,28.58,34.76,0.85,1006.1,0.84,1,33.38,43.65,56.8796,24.6032
+Latvia,,3/5/2020,Clear throughout the day.,clear-day,0.39,0.0001,0.0004,0.05,snow,49.2,35.59,30.45,0.76,1007.7,0.26,2,28.58,49.2,56.8796,24.6032
+Latvia,,3/6/2020,Foggy in the afternoon.,rain,0.42,0.001,0.0028,0.49,rain,40.42,31.56,32.96,0.82,1009.2,1.0,1,35.44,40.42,56.8796,24.6032
+Latvia,,3/7/2020,Partly cloudy throughout the day.,rain,0.46,0.0002,0.0006,0.26,rain,44.64,31.2,32.75,0.84,1015.2,0.73,1,31.56,44.64,56.8796,24.6032
+Latvia,,3/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.0001,0.0004,0.14,rain,49.39,32.24,32.6,0.77,1014.7,0.37,1,31.2,49.39,56.8796,24.6032
+Latvia,,3/9/2020,"Possible drizzle until afternoon, starting again overnight.",rain,0.54,0.0012,0.0058,0.62,rain,44.03,37.68,33.94,0.86,1008.0,0.6,1,32.24,44.03,56.8796,24.6032
+Latvia,,3/10/2020,Light rain throughout the day.,rain,0.58,0.0174,0.0403,0.99,rain,44.62,37.18,37.94,0.87,991.9,0.98,1,38.17,44.62,56.8796,24.6032
+Latvia,,3/11/2020,Light rain throughout the day.,rain,0.62,0.0113,0.05,0.91,rain,45.39,37.31,36.35,0.84,990.8,0.86,1,37.18,45.39,56.8796,24.6032
+Latvia,,3/12/2020,Light rain (with a chance of 1–2 in. of snow) throughout the day.,rain,0.66,0.0164,0.0459,0.98,rain,42.44,27.71,34.62,0.83,995.1,0.98,1,35.97,42.44,56.8796,24.6032
+Latvia,,3/13/2020,Possible light snow (< 1 in.) in the morning.,snow,0.69,0.0099,0.0607,0.9,snow,32.81,22.15,22.0,0.73,1011.1,0.79,1,27.14,34.94,56.8796,24.6032
+Latvia,,3/14/2020,Clear throughout the day.,clear-day,0.73,0.0001,0.0016,0.1,snow,40.11,32.31,23.22,0.72,1023.6,0.15,2,22.15,40.11,56.8796,24.6032
+Latvia,,3/15/2020,Light rain in the afternoon and evening.,rain,0.76,0.0035,0.0186,0.7,rain,44.29,29.45,28.31,0.7,1015.4,0.97,1,32.4,44.29,56.8796,24.6032
+Latvia,,3/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.0002,0.0009,0.11,rain,47.0,36.74,31.67,0.78,1021.9,0.64,2,29.45,47.0,56.8796,24.6032
+Latvia,,3/17/2020,Drizzle in the afternoon.,rain,0.83,0.0025,0.012,0.73,rain,48.76,37.92,38.44,0.84,1016.7,0.9,2,36.74,48.76,56.8796,24.6032
+Latvia,,3/18/2020,Partly cloudy throughout the day.,rain,0.86,0.0003,0.0016,0.3,rain,48.89,31.31,33.05,0.7,1016.4,0.5,2,36.87,48.89,56.8796,24.6032
+Latvia,,3/19/2020,Foggy overnight.,rain,0.89,0.0017,0.0087,0.46,rain,47.11,26.95,32.1,0.79,1020.7,0.25,2,31.31,47.11,56.8796,24.6032
+Latvia,,3/20/2020,Clear throughout the day.,rain,0.92,0.0002,0.0023,0.33,rain,38.19,24.63,19.18,0.61,1027.4,0.36,2,26.95,38.19,56.8796,24.6032
+Latvia,,3/21/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.05,snow,37.36,21.64,15.36,0.54,1038.4,0.12,2,24.63,37.36,56.8796,24.6032
+Latvia,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0004,0.03,snow,41.8,21.74,15.16,0.55,1042.1,0.02,2,21.64,41.8,56.8796,24.6032
+Latvia,,3/23/2020,Partly cloudy throughout the day.,clear-day,0.01,0.0001,0.0003,0.03,snow,46.88,26.47,20.09,0.61,1038.7,0.21,2,21.74,46.88,56.8796,24.6032
+Latvia,,3/24/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0004,0.03,snow,53.75,27.58,23.86,0.6,1035.9,0.04,3,26.47,53.75,56.8796,24.6032
+Latvia,,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0004,0.02,rain,56.84,29.07,22.7,0.54,1035.8,0.0,3,27.58,56.84,56.8796,24.6032
+Latvia,,3/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0004,0.02,rain,60.77,33.6,26.64,0.57,1031.6,0.2,2,29.07,60.77,56.8796,24.6032
+Latvia,,3/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0001,0.0004,0.01,rain,59.02,34.59,28.72,0.58,1019.9,0.61,2,33.6,59.02,56.8796,24.6032
+Latvia,,3/28/2020,Overcast throughout the day.,partly-cloudy-day,0.16,0.0001,0.001,0.08,rain,39.17,24.28,22.4,0.6,1017.4,0.76,2,29.87,39.17,56.8796,24.6032
+Latvia,,3/29/2020,Clear throughout the day.,clear-day,0.19,0.0017,0.0133,0.23,snow,42.04,28.13,17.7,0.56,1020.1,0.3,2,24.28,42.04,56.8796,24.6032
+Latvia,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0006,0.0083,0.15,snow,41.26,31.72,16.65,0.49,1022.3,0.74,3,28.13,41.26,56.8796,24.6032
+Latvia,,3/31/2020,Possible drizzle in the morning.,rain,0.26,0.0028,0.0085,0.64,rain,45.69,37.25,31.6,0.77,1006.7,0.99,2,31.72,45.69,56.8796,24.6032
+Latvia,,4/1/2020,Possible drizzle in the morning.,rain,0.3,0.0017,0.0042,0.6,rain,45.19,37.53,35.54,0.81,998.0,0.99,2,37.25,45.19,56.8796,24.6032
+Latvia,,4/2/2020,Possible light rain in the morning.,rain,0.33,0.0058,0.0161,0.66,rain,47.02,31.15,31.14,0.68,994.1,0.69,2,35.93,47.02,56.8796,24.6032
+Latvia,,4/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0014,0.0053,0.22,rain,47.49,30.91,27.8,0.66,1015.3,0.33,2,31.15,47.49,56.8796,24.6032
+Latvia,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.03,,52.13,34.52,27.22,0.6,1030.3,0.26,3,30.91,52.13,56.8796,24.6032
+Latvia,,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0,0.0002,0.01,,61.37,39.23,32.97,0.63,1032.9,0.42,4,34.52,61.37,56.8796,24.6032
+Latvia,,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0002,0.01,,68.65,40.72,34.4,0.54,1027.1,0.17,4,39.23,68.65,56.8796,24.6032
+Latvia,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0,0.0003,0.01,,60.91,44.06,33.66,0.57,1026.8,0.27,4,40.72,60.91,56.8796,24.6032
+Latvia,,4/8/2020,Possible light rain in the afternoon.,rain,0.56,0.0056,0.0329,0.66,rain,50.31,34.58,36.12,0.69,1014.1,0.85,2,38.66,50.31,56.8796,24.6032
+Latvia,,4/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.6,0.0001,0.0004,0.08,rain,50.1,33.67,30.42,0.64,1019.9,0.34,3,34.58,50.1,56.8796,24.6032
+Latvia,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.08,rain,52.12,36.85,25.67,0.55,1025.0,0.26,4,33.67,52.12,56.8796,24.6032
+Latvia,,4/11/2020,Possible drizzle in the afternoon.,rain,0.68,0.0022,0.0153,0.48,rain,51.61,47.59,31.71,0.61,1015.9,0.98,3,36.85,53.0,56.8796,24.6032
+Latvia,,4/12/2020,Possible drizzle in the afternoon.,rain,0.71,0.0018,0.0058,0.49,rain,48.89,32.09,35.65,0.69,999.2,0.95,3,34.71,53.31,56.8796,24.6032
+Latvia,,4/13/2020,Light snow (1–2 in.) until evening.,snow,0.74,0.0131,0.0343,0.97,snow,38.11,33.36,30.6,0.85,1004.6,0.75,3,32.09,38.11,56.8796,24.6032
+Latvia,,4/14/2020,Light rain in the morning and afternoon.,rain,0.78,0.0084,0.0199,0.97,rain,45.34,36.61,34.82,0.88,1004.0,0.8,3,33.42,45.34,56.8796,24.6032
+Latvia,,4/15/2020,Light rain in the morning.,rain,0.81,0.0042,0.0313,0.78,rain,44.27,36.05,35.93,0.81,998.8,0.81,3,36.61,44.27,56.8796,24.6032
+Latvia,,4/16/2020,Possible drizzle in the morning and afternoon.,rain,0.84,0.0039,0.0135,0.67,rain,42.95,35.74,31.24,0.72,1009.0,0.53,3,36.05,42.95,56.8796,24.6032
+Latvia,,4/17/2020,Clear throughout the day.,clear-day,0.87,0.0001,0.0004,0.08,rain,47.39,35.84,29.59,0.65,1015.4,0.22,4,35.74,47.39,56.8796,24.6032
+Latvia,,4/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0004,0.0028,0.1,rain,47.02,32.15,29.76,0.64,1019.0,0.68,3,35.84,47.02,56.8796,24.6032
+Latvia,,4/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.93,0.0002,0.001,0.08,rain,51.56,33.24,33.12,0.69,1025.2,0.5,3,32.15,51.56,56.8796,24.6032
+Latvia,,4/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.96,0.0004,0.0025,0.07,rain,55.79,34.82,35.94,0.72,1028.3,0.54,3,33.24,55.79,56.8796,24.6032

@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Kuwait,,12/31/2019,Overcast throughout the day.,cloudy,0.21,0.0001,0.0002,0.02,rain,68.51,49.54,38.49,0.48,1016.9,0.95,3,51.12,68.51,29.5,47.75
+Kuwait,,1/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.04,rain,68.24,54.43,44.36,0.61,1018.8,0.72,3,49.54,68.24,29.5,47.75
+Kuwait,,1/2/2020,Overcast throughout the day.,cloudy,0.27,0.0,0.0003,0.02,,70.51,60.16,56.84,0.82,1016.8,0.97,3,54.43,70.51,29.5,47.75
+Kuwait,,1/3/2020,Overcast throughout the day.,cloudy,0.3,0.0002,0.0004,0.18,rain,73.41,51.22,51.46,0.66,1013.7,0.96,3,58.04,73.41,29.5,47.75
+Kuwait,,1/4/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.05,rain,68.51,49.23,39.6,0.5,1015.8,0.28,4,51.22,68.51,29.5,47.75
+Kuwait,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,68.76,49.94,38.68,0.5,1020.7,0.0,4,49.23,68.76,29.5,47.75
+Kuwait,,1/6/2020,Clear throughout the day.,clear-day,0.39,0.0001,0.0002,0.04,rain,70.15,49.72,41.8,0.55,1021.5,0.0,4,49.94,70.15,29.5,47.75
+Kuwait,,1/7/2020,Partly cloudy throughout the day.,clear-day,0.43,0.0,0.0002,0.02,,70.07,50.94,44.65,0.59,1016.4,0.26,4,49.72,70.07,29.5,47.75
+Kuwait,,1/8/2020,Clear throughout the day.,clear-day,0.46,0.0,0.0001,0.01,,68.72,45.92,32.79,0.39,1015.1,0.02,4,50.94,68.72,29.5,47.75
+Kuwait,,1/9/2020,Clear throughout the day.,clear-day,0.5,0.0008,0.008,0.15,rain,67.22,50.05,34.02,0.44,1013.0,0.24,3,46.92,67.22,29.5,47.75
+Kuwait,,1/10/2020,Clear throughout the day.,clear-day,0.53,0.0001,0.001,0.12,rain,63.37,48.43,40.32,0.57,1014.2,0.26,3,50.05,63.37,29.5,47.75
+Kuwait,,1/11/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0003,0.03,rain,66.61,45.18,31.94,0.42,1020.9,0.09,4,48.44,66.61,29.5,47.75
+Kuwait,,1/12/2020,Clear throughout the day.,clear-day,0.61,0.0,0.0002,0.03,,67.92,48.81,31.81,0.41,1019.7,0.31,4,45.18,67.92,29.5,47.75
+Kuwait,,1/13/2020,Partly cloudy throughout the day.,clear-day,0.65,0.0001,0.0024,0.03,rain,60.28,45.22,37.38,0.55,1020.8,0.28,4,48.81,60.28,29.5,47.75
+Kuwait,,1/14/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0001,0.02,,68.93,43.87,33.86,0.48,1025.4,0.04,4,45.22,68.93,29.5,47.75
+Kuwait,,1/15/2020,Clear throughout the day.,clear-day,0.72,0.0001,0.0002,0.03,rain,70.05,50.24,33.85,0.45,1025.1,0.01,4,43.87,70.05,29.5,47.75
+Kuwait,,1/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.76,0.0001,0.0004,0.04,rain,72.3,58.21,43.23,0.55,1019.5,0.51,5,50.24,72.3,29.5,47.75
+Kuwait,,1/17/2020,Overcast throughout the day.,rain,0.79,0.0025,0.019,0.29,rain,74.74,53.08,44.77,0.5,1013.8,0.98,3,58.21,74.74,29.5,47.75
+Kuwait,,1/18/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0,0.0,,73.29,52.59,43.63,0.53,1017.6,0.22,4,53.08,73.29,29.5,47.75
+Kuwait,,1/19/2020,Clear throughout the day.,clear-day,0.86,0.0,0.0002,0.03,,71.96,52.74,43.41,0.55,1021.3,0.05,4,52.59,71.96,29.5,47.75
+Kuwait,,1/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0004,0.0064,0.11,rain,70.06,56.12,43.14,0.54,1017.6,0.58,3,52.74,70.06,29.5,47.75
+Kuwait,,1/21/2020,Clear throughout the day.,rain,0.93,0.0017,0.0167,0.29,rain,69.78,46.93,41.4,0.52,1014.1,0.26,4,51.61,69.78,29.5,47.75
+Kuwait,,1/22/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0002,0.05,rain,63.62,44.34,36.63,0.52,1019.8,0.05,4,46.93,63.62,29.5,47.75
+Kuwait,,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0,0.0002,0.03,,64.2,49.21,40.07,0.61,1020.3,0.0,4,44.34,64.2,29.5,47.75
+Kuwait,,1/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0006,0.06,rain,60.36,43.2,35.08,0.51,1019.8,0.32,4,47.59,60.36,29.5,47.75
+Kuwait,,1/25/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0003,0.05,rain,65.37,44.96,35.72,0.53,1023.6,0.03,5,43.2,65.37,29.5,47.75
+Kuwait,,1/26/2020,Clear throughout the day.,clear-day,0.09,0.0001,0.0004,0.03,rain,67.6,45.44,35.23,0.51,1024.3,0.0,5,44.96,67.6,29.5,47.75
+Kuwait,,1/27/2020,Clear throughout the day.,clear-day,0.12,0.0,0.0002,0.01,,68.91,48.51,38.03,0.54,1021.9,0.22,5,45.44,68.91,29.5,47.75
+Kuwait,,1/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.15,0.0002,0.0006,0.07,rain,70.23,47.56,42.07,0.59,1017.7,0.74,4,48.51,70.23,29.5,47.75
+Kuwait,,1/29/2020,Clear throughout the day.,clear-day,0.18,0.0001,0.0003,0.05,rain,70.9,50.92,47.91,0.7,1019.9,0.0,5,47.56,70.9,29.5,47.75
+Kuwait,,1/30/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.05,rain,70.08,53.79,48.9,0.7,1018.3,0.0,5,50.92,70.08,29.5,47.75
+Kuwait,,1/31/2020,Partly cloudy throughout the day.,clear-day,0.24,0.0001,0.0003,0.11,rain,69.59,44.8,35.77,0.48,1017.3,0.25,5,50.22,69.59,29.5,47.75
+Kuwait,,2/1/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0003,0.03,rain,65.77,45.88,29.89,0.4,1021.7,0.0,4,44.8,65.77,29.5,47.75
+Kuwait,,2/2/2020,Clear throughout the day.,clear-day,0.3,0.0,0.0003,0.03,,66.46,44.01,31.19,0.43,1024.1,0.0,5,45.88,66.46,29.5,47.75
+Kuwait,,2/3/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.08,rain,67.67,48.07,30.03,0.4,1020.9,0.05,5,44.01,67.67,29.5,47.75
+Kuwait,,2/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.05,rain,68.73,52.36,38.55,0.51,1020.1,0.1,5,48.07,68.73,29.5,47.75
+Kuwait,,2/5/2020,Clear throughout the day.,clear-day,0.41,0.0007,0.0116,0.09,rain,73.01,58.85,44.04,0.53,1019.6,0.25,6,52.36,73.01,29.5,47.75
+Kuwait,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0006,0.0062,0.1,rain,76.97,55.28,51.14,0.59,1015.5,0.01,6,58.85,76.97,29.5,47.75
+Kuwait,,2/7/2020,Clear throughout the day.,clear-day,0.48,0.0,0.0003,0.01,,77.51,53.03,38.83,0.41,1014.1,0.24,5,55.28,77.51,29.5,47.75
+Kuwait,,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.52,0.0001,0.0003,0.04,rain,69.53,45.94,33.06,0.37,1019.8,0.44,6,52.15,69.53,29.5,47.75
+Kuwait,,2/9/2020,Clear throughout the day.,clear-day,0.56,0.0001,0.0004,0.05,rain,59.8,35.25,30.69,0.46,1021.2,0.2,4,42.99,59.8,29.5,47.75
+Kuwait,,2/10/2020,Clear throughout the day.,clear-day,0.59,0.0,0.0002,0.03,,54.47,33.45,8.27,0.23,1023.6,0.0,5,35.25,54.47,29.5,47.75
+Kuwait,,2/11/2020,Clear throughout the day.,clear-day,0.63,0.0001,0.0004,0.04,rain,56.07,37.67,5.78,0.25,1029.8,0.09,5,33.45,56.07,29.5,47.75
+Kuwait,,2/12/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.05,rain,66.07,45.26,15.79,0.25,1028.5,0.0,5,37.67,66.07,29.5,47.75
+Kuwait,,2/13/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.03,rain,71.36,49.83,28.8,0.36,1023.4,0.03,5,45.26,71.36,29.5,47.75
+Kuwait,,2/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.74,0.0001,0.0003,0.04,rain,75.74,50.56,30.42,0.33,1021.1,0.44,4,49.83,75.74,29.5,47.75
+Kuwait,,2/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.05,rain,74.14,61.09,33.96,0.38,1017.2,0.59,5,50.56,74.14,29.5,47.75
+Kuwait,,2/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0024,0.0075,0.15,rain,76.54,57.73,48.24,0.53,1014.2,0.79,5,61.2,76.54,29.5,47.75
+Kuwait,,2/17/2020,Overcast throughout the day.,partly-cloudy-day,0.84,0.0003,0.0026,0.15,rain,73.29,58.88,55.61,0.73,1017.6,0.83,4,57.73,73.29,29.5,47.75
+Kuwait,,2/18/2020,Overcast throughout the day.,cloudy,0.88,0.0003,0.0018,0.08,rain,81.88,62.41,49.66,0.54,1011.3,0.93,4,58.88,81.88,29.5,47.75
+Kuwait,,2/19/2020,Partly cloudy throughout the day.,rain,0.91,0.0017,0.0089,0.37,rain,75.01,53.16,50.25,0.56,1011.7,0.52,5,59.0,75.01,29.5,47.75
+Kuwait,,2/20/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.06,rain,74.61,53.51,48.39,0.59,1016.8,0.0,7,53.16,74.61,29.5,47.75
+Kuwait,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0004,0.05,rain,76.1,56.69,48.62,0.59,1018.2,0.0,7,53.51,76.1,29.5,47.75
+Kuwait,,2/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.0,0.0001,0.0003,0.05,rain,77.16,60.25,52.11,0.64,1018.0,0.42,5,56.69,77.16,29.5,47.75
+Kuwait,,2/23/2020,Overcast throughout the day.,rain,0.03,0.0061,0.0362,0.41,rain,77.63,65.87,57.37,0.7,1013.6,0.97,4,60.25,77.63,29.5,47.75
+Kuwait,,2/24/2020,Possible light rain in the evening.,rain,0.06,0.004,0.0269,0.49,rain,79.4,56.37,58.83,0.66,1008.6,1.0,4,64.92,79.4,29.5,47.75
+Kuwait,,2/25/2020,Clear throughout the day.,clear-day,0.09,0.0007,0.0153,0.11,rain,70.76,50.55,39.29,0.45,1014.3,0.15,7,55.14,70.76,29.5,47.75
+Kuwait,,2/26/2020,Clear throughout the day.,clear-day,0.12,0.0,0.0003,0.02,,74.88,53.29,45.43,0.57,1019.6,0.0,7,50.55,74.88,29.5,47.75
+Kuwait,,2/27/2020,Clear throughout the day.,clear-day,0.15,0.0001,0.0003,0.02,rain,78.42,52.27,42.86,0.48,1017.1,0.04,8,53.29,78.42,29.5,47.75
+Kuwait,,2/28/2020,Clear throughout the day.,clear-day,0.18,0.0,0.0003,0.01,,77.16,56.77,44.27,0.52,1012.3,0.0,8,52.27,77.16,29.5,47.75
+Kuwait,,2/29/2020,Clear throughout the day.,clear-day,0.22,0.0001,0.0003,0.04,rain,82.73,54.39,47.41,0.53,1010.2,0.0,8,56.77,82.73,29.5,47.75
+Kuwait,,3/1/2020,Clear throughout the day.,clear-day,0.25,0.0001,0.0002,0.01,rain,74.44,53.55,38.39,0.39,1018.0,0.0,8,54.39,74.44,29.5,47.75
+Kuwait,,3/2/2020,Clear throughout the day.,clear-day,0.28,0.0001,0.0002,0.02,rain,75.13,53.19,36.66,0.39,1019.6,0.0,7,53.55,75.13,29.5,47.75
+Kuwait,,3/3/2020,Clear throughout the day.,clear-day,0.31,0.0,0.0002,0.01,,76.33,54.09,38.2,0.41,1017.3,0.0,8,53.19,76.33,29.5,47.75
+Kuwait,,3/4/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0003,0.01,rain,79.68,54.39,37.84,0.37,1016.4,0.0,8,54.09,79.68,29.5,47.75
+Kuwait,,3/5/2020,Clear throughout the day.,clear-day,0.39,0.0,0.0002,0.01,,79.38,61.87,39.46,0.37,1013.7,0.0,8,54.39,79.38,29.5,47.75
+Kuwait,,3/6/2020,Clear throughout the day.,clear-day,0.42,0.0,0.0,0.0,,81.57,58.65,37.5,0.32,1011.0,0.06,7,61.87,81.57,29.5,47.75
+Kuwait,,3/7/2020,Clear throughout the day.,clear-day,0.46,0.0001,0.0004,0.03,rain,77.68,59.19,44.79,0.44,1013.3,0.23,7,58.65,77.68,29.5,47.75
+Kuwait,,3/8/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0003,0.01,rain,84.21,60.51,41.78,0.39,1014.7,0.0,8,59.19,84.21,29.5,47.75
+Kuwait,,3/9/2020,Partly cloudy throughout the day.,clear-day,0.54,0.0,0.0004,0.01,,82.16,59.34,34.5,0.28,1016.4,0.31,5,60.51,82.16,29.5,47.75
+Kuwait,,3/10/2020,Clear throughout the day.,clear-day,0.58,0.0,0.0,0.0,,83.48,59.66,28.61,0.21,1016.7,0.13,6,59.34,83.48,29.5,47.75
+Kuwait,,3/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.0,0.0,0.0,,83.7,59.53,27.5,0.21,1016.1,0.67,5,59.66,83.7,29.5,47.75
+Kuwait,,3/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.66,0.0,0.0,0.0,,79.59,69.59,43.27,0.39,1013.8,0.74,7,59.53,79.59,29.5,47.75
+Kuwait,,3/13/2020,Possible light rain in the afternoon.,rain,0.69,0.0054,0.0312,0.46,rain,79.81,60.1,53.19,0.56,1010.9,0.93,5,62.6,79.81,29.5,47.75
+Kuwait,,3/14/2020,Possible drizzle in the morning.,rain,0.73,0.0028,0.0167,0.61,rain,76.6,58.27,57.74,0.73,1012.1,0.25,7,60.1,76.6,29.5,47.75
+Kuwait,,3/15/2020,Clear throughout the day.,clear-day,0.76,0.0,0.0001,0.01,,80.67,62.05,53.35,0.59,1014.0,0.0,8,58.27,80.67,29.5,47.75
+Kuwait,,3/16/2020,Clear throughout the day.,clear-day,0.79,0.0001,0.0005,0.02,rain,82.56,66.59,54.06,0.56,1013.7,0.06,8,62.05,82.56,29.5,47.75
+Kuwait,,3/17/2020,Mostly cloudy throughout the day.,rain,0.83,0.0046,0.0197,0.41,rain,77.57,57.96,60.49,0.68,1010.1,0.63,5,66.41,77.57,29.5,47.75
+Kuwait,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0003,0.01,rain,81.78,58.1,44.45,0.44,1013.4,0.0,9,57.96,81.78,29.5,47.75
+Kuwait,,3/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0,0.0002,0.01,,79.85,59.78,41.47,0.4,1011.4,0.55,5,58.1,79.85,29.5,47.75
+Kuwait,,3/20/2020,Clear throughout the day.,clear-day,0.92,0.0033,0.0123,0.14,rain,80.83,57.61,53.64,0.58,1006.2,0.2,8,59.78,80.83,29.5,47.75
+Kuwait,,3/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.95,0.0009,0.0038,0.11,rain,72.89,51.17,37.56,0.39,1010.0,0.51,4,57.61,72.89,29.5,47.75
+Kuwait,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0004,0.03,rain,77.69,54.6,42.85,0.48,1013.5,0.05,8,51.17,77.69,29.5,47.75
+Kuwait,,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.02,rain,78.7,57.8,44.12,0.48,1013.1,0.27,7,54.6,78.7,29.5,47.75
+Kuwait,,3/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0002,0.0004,0.03,rain,79.76,62.3,50.11,0.54,1011.5,0.45,6,57.8,79.76,29.5,47.75
+Kuwait,,3/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.08,rain,77.1,62.86,53.74,0.6,1011.8,0.56,4,62.3,77.1,29.5,47.75
+Kuwait,,3/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0011,0.04,rain,77.55,68.53,58.7,0.67,1011.8,0.36,6,62.86,77.55,29.5,47.75
+Kuwait,,3/27/2020,Windy in the evening.,rain,0.13,0.0062,0.0211,0.39,rain,83.95,63.59,60.05,0.63,1006.1,0.73,6,68.53,83.95,29.5,47.75
+Kuwait,,3/28/2020,Clear throughout the day.,clear-day,0.16,0.0003,0.0033,0.11,rain,81.97,59.4,52.83,0.57,1007.9,0.02,9,63.59,81.97,29.5,47.75
+Kuwait,,3/29/2020,Clear throughout the day.,clear-day,0.19,0.0002,0.0004,0.01,rain,83.81,60.28,39.25,0.35,1012.5,0.01,10,59.4,83.81,29.5,47.75
+Kuwait,,3/30/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0003,0.02,rain,82.48,63.7,45.31,0.4,1015.7,0.05,10,60.28,82.48,29.5,47.75
+Kuwait,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0014,0.0077,0.08,rain,84.52,64.63,50.3,0.46,1012.3,0.3,7,63.7,84.52,29.5,47.75
+Kuwait,,4/1/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0004,0.01,rain,86.22,66.13,52.5,0.48,1010.0,0.09,9,64.63,86.22,29.5,47.75
+Kuwait,,4/2/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.02,rain,89.61,66.51,40.48,0.3,1013.3,0.16,9,66.13,89.61,29.5,47.75
+Kuwait,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0,0.0,0.0,,90.94,66.65,38.01,0.25,1015.8,0.25,9,66.51,90.94,29.5,47.75
+Kuwait,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0002,0.01,,91.72,67.01,36.34,0.24,1017.2,0.23,9,66.65,91.72,29.5,47.75
+Kuwait,,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0001,0.0004,0.03,rain,95.18,73.33,35.66,0.2,1014.4,0.44,9,67.01,95.18,29.5,47.75
+Kuwait,,4/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0031,0.0202,0.14,rain,91.71,70.81,47.34,0.33,1010.3,0.34,9,73.33,91.71,29.5,47.75
+Kuwait,,4/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.53,0.0012,0.0198,0.11,rain,84.56,72.09,60.2,0.57,1007.8,0.45,10,70.81,84.56,29.5,47.75
+Kuwait,,4/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.56,0.0035,0.0181,0.17,rain,84.53,70.19,62.9,0.61,1005.9,0.44,8,72.09,84.53,29.5,47.75
+Kuwait,,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0003,0.0033,0.06,rain,95.27,69.57,61.43,0.53,1004.2,0.19,10,70.19,95.27,29.5,47.75
+Kuwait,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.05,rain,90.32,66.64,38.19,0.26,1008.5,0.0,10,69.57,90.32,29.5,47.75
+Kuwait,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0003,0.03,,88.02,65.76,38.36,0.26,1012.4,0.0,10,66.64,88.02,29.5,47.75
+Kuwait,,4/12/2020,Clear throughout the day.,clear-day,0.71,0.0015,0.0118,0.12,rain,85.8,63.79,38.91,0.27,1013.7,0.12,8,65.76,85.8,29.5,47.75
+Kuwait,,4/13/2020,Clear throughout the day.,clear-day,0.74,0.0001,0.0003,0.01,rain,87.07,67.35,34.58,0.24,1014.3,0.0,10,63.79,87.07,29.5,47.75
+Kuwait,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0017,0.0072,0.14,rain,86.27,66.24,34.08,0.21,1013.3,0.18,10,67.35,86.27,29.5,47.75
+Kuwait,,4/15/2020,Clear throughout the day.,clear-day,0.81,0.0001,0.0002,0.03,rain,88.47,65.46,31.02,0.19,1011.5,0.09,10,66.24,88.47,29.5,47.75
+Kuwait,,4/16/2020,Clear throughout the day.,clear-day,0.84,0.0001,0.0002,0.02,rain,90.68,70.5,33.55,0.21,1009.9,0.05,10,65.46,90.68,29.5,47.75
+Kuwait,,4/17/2020,Mostly cloudy throughout the day.,rain,0.87,0.0058,0.0161,0.31,rain,82.09,64.36,57.27,0.56,1010.2,0.75,6,66.9,82.09,29.5,47.75
+Kuwait,,4/18/2020,Overcast throughout the day.,cloudy,0.9,0.0001,0.0003,0.01,rain,89.28,68.62,55.5,0.51,1011.0,0.89,5,64.36,89.28,29.5,47.75
+Kuwait,,4/19/2020,Overcast throughout the day.,cloudy,0.93,0.0001,0.0004,0.02,rain,90.88,72.04,51.8,0.38,1010.8,0.94,5,68.62,90.88,29.5,47.75
+Kuwait,,4/20/2020,Overcast throughout the day.,cloudy,0.96,0.0001,0.0003,0.07,rain,83.33,67.05,57.83,0.51,1011.8,1.0,5,70.49,83.33,29.5,47.75

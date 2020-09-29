@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Luxembourg,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0003,0.0008,0.12,rain,36.07,28.18,27.35,0.88,1033.5,0.11,1,25.62,36.07,49.8153,6.1296
+Luxembourg,,1/1/2020,Overcast throughout the day.,rain,0.24,0.0011,0.002,0.27,rain,37.0,35.98,30.03,0.88,1028.6,0.79,1,28.18,38.03,49.8153,6.1296
+Luxembourg,,1/2/2020,Drizzle in the afternoon and evening.,rain,0.27,0.0041,0.0151,0.69,rain,46.2,33.38,38.97,0.91,1023.2,1.0,1,37.28,46.2,49.8153,6.1296
+Luxembourg,,1/3/2020,Mostly cloudy throughout the day.,rain,0.3,0.0004,0.0014,0.29,rain,43.36,32.86,33.66,0.85,1032.5,0.8,1,33.38,43.36,49.8153,6.1296
+Luxembourg,,1/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.33,0.0001,0.0006,0.16,rain,44.38,27.87,33.71,0.88,1036.1,0.52,1,32.7,44.38,49.8153,6.1296
+Luxembourg,,1/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.0001,0.0003,0.08,rain,38.01,32.6,29.65,0.88,1029.3,0.42,1,28.11,38.01,49.8153,6.1296
+Luxembourg,,1/6/2020,Overcast throughout the day.,rain,0.4,0.0012,0.0098,0.33,rain,43.56,37.56,35.18,0.9,1028.7,0.87,1,32.9,43.56,49.8153,6.1296
+Luxembourg,,1/7/2020,Light rain in the morning and overnight.,rain,0.43,0.0035,0.0167,0.59,rain,47.33,46.34,40.94,0.9,1026.8,0.99,1,37.75,47.57,49.8153,6.1296
+Luxembourg,,1/8/2020,Light rain throughout the day.,rain,0.47,0.0167,0.0464,0.99,rain,52.88,44.66,46.44,0.92,1018.3,0.97,1,46.66,52.88,49.8153,6.1296
+Luxembourg,,1/9/2020,Drizzle in the morning and afternoon.,rain,0.5,0.0058,0.0154,0.92,rain,48.66,30.93,41.22,0.88,1020.4,0.78,1,37.95,48.66,49.8153,6.1296
+Luxembourg,,1/10/2020,Overcast throughout the day.,partly-cloudy-day,0.54,0.0001,0.0003,0.05,rain,44.42,30.62,31.99,0.86,1032.8,0.62,1,30.93,44.42,49.8153,6.1296
+Luxembourg,,1/11/2020,Foggy overnight.,partly-cloudy-day,0.57,0.0008,0.0035,0.12,rain,40.36,39.37,33.09,0.89,1026.6,0.82,1,30.62,40.83,49.8153,6.1296
+Luxembourg,,1/12/2020,Foggy in the morning.,rain,0.61,0.0014,0.0055,0.37,rain,43.88,41.3,38.65,0.9,1020.1,0.99,1,39.38,44.25,49.8153,6.1296
+Luxembourg,,1/13/2020,Possible light rain until evening.,rain,0.65,0.0082,0.0244,0.78,rain,48.02,43.33,37.61,0.76,1011.7,0.98,1,41.3,48.71,49.8153,6.1296
+Luxembourg,,1/14/2020,Partly cloudy throughout the day.,rain,0.69,0.0023,0.0074,0.33,rain,55.1,40.07,40.7,0.75,1015.3,0.65,1,43.19,55.1,49.8153,6.1296
+Luxembourg,,1/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0002,0.0016,0.16,rain,53.19,40.35,41.29,0.87,1024.9,0.44,1,40.07,53.19,49.8153,6.1296
+Luxembourg,,1/16/2020,Light rain in the afternoon.,rain,0.76,0.0036,0.0211,0.75,rain,47.66,36.31,39.25,0.85,1019.1,0.91,1,39.85,47.66,49.8153,6.1296
+Luxembourg,,1/17/2020,Mostly cloudy throughout the day.,rain,0.8,0.0011,0.0032,0.4,rain,42.51,32.06,33.38,0.82,1026.9,0.79,1,34.54,42.51,49.8153,6.1296
+Luxembourg,,1/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0003,0.0026,0.24,rain,42.6,31.35,30.99,0.81,1037.5,0.7,1,32.06,42.6,49.8153,6.1296
+Luxembourg,,1/19/2020,Partly cloudy throughout the day.,clear-day,0.87,0.0001,0.0003,0.05,rain,41.86,26.8,29.49,0.8,1046.0,0.3,1,30.28,41.86,49.8153,6.1296
+Luxembourg,,1/20/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0002,0.06,snow,40.55,24.7,25.76,0.78,1042.5,0.0,1,26.8,40.55,49.8153,6.1296
+Luxembourg,,1/21/2020,Clear throughout the day.,clear-day,0.93,0.0,0.0001,0.02,,41.02,30.28,22.45,0.7,1036.9,0.18,1,24.7,41.02,49.8153,6.1296
+Luxembourg,,1/22/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0002,0.07,rain,41.86,26.79,28.43,0.8,1031.6,0.21,1,29.69,41.86,49.8153,6.1296
+Luxembourg,,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0001,0.0002,0.05,rain,40.87,29.68,24.37,0.74,1025.4,0.19,1,26.79,40.87,49.8153,6.1296
+Luxembourg,,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0004,0.09,rain,41.9,31.59,29.6,0.84,1022.6,0.6,1,29.68,41.9,49.8153,6.1296
+Luxembourg,,1/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.06,0.0003,0.001,0.24,rain,42.93,36.14,32.54,0.88,1018.7,0.42,1,31.59,42.93,49.8153,6.1296
+Luxembourg,,1/26/2020,Light rain throughout the day.,rain,0.09,0.0249,0.0559,0.98,rain,44.1,39.63,38.89,0.91,1009.7,0.96,1,37.35,44.1,49.8153,6.1296
+Luxembourg,,1/27/2020,"Light rain until afternoon, starting again overnight.",rain,0.12,0.0094,0.0235,0.91,rain,41.46,34.36,35.14,0.85,999.9,0.91,1,35.81,44.54,49.8153,6.1296
+Luxembourg,,1/28/2020,Possible drizzle in the morning and afternoon.,rain,0.15,0.0034,0.0158,0.65,rain,43.74,34.57,33.58,0.85,1010.7,0.78,1,34.36,43.74,49.8153,6.1296
+Luxembourg,,1/29/2020,Possible light rain in the evening and overnight.,rain,0.18,0.0054,0.0266,0.65,rain,46.1,45.11,38.23,0.88,1012.5,0.94,1,34.57,52.18,49.8153,6.1296
+Luxembourg,,1/30/2020,Overcast throughout the day.,rain,0.21,0.0019,0.005,0.38,rain,51.63,48.72,47.06,0.89,1012.0,0.93,1,48.6,52.69,49.8153,6.1296
+Luxembourg,,1/31/2020,Light rain until evening.,rain,0.24,0.0206,0.0611,0.96,rain,52.78,40.9,46.88,0.89,1008.9,0.94,1,46.1,52.78,49.8153,6.1296
+Luxembourg,,2/1/2020,"Light rain until afternoon, starting again overnight.",rain,0.27,0.008,0.0313,0.95,rain,55.21,45.94,44.87,0.88,1012.5,0.82,1,40.9,55.21,49.8153,6.1296
+Luxembourg,,2/2/2020,Rain throughout the day.,rain,0.31,0.0357,0.1723,0.99,rain,50.18,36.94,44.08,0.87,1014.5,0.99,1,44.09,50.18,49.8153,6.1296
+Luxembourg,,2/3/2020,Light rain until evening.,rain,0.34,0.0184,0.132,0.97,rain,41.74,33.0,34.86,0.83,1016.6,0.9,1,36.94,43.14,49.8153,6.1296
+Luxembourg,,2/4/2020,Clear throughout the day.,partly-cloudy-day,0.37,0.0001,0.0008,0.12,rain,48.32,29.88,31.8,0.79,1034.5,0.35,1,31.41,48.32,49.8153,6.1296
+Luxembourg,,2/5/2020,Clear throughout the day.,partly-cloudy-day,0.41,0.0,0.0003,0.02,,46.03,26.57,30.15,0.82,1033.2,0.4,1,29.88,46.03,49.8153,6.1296
+Luxembourg,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.07,rain,46.11,29.2,27.63,0.79,1027.2,0.0,1,26.57,46.11,49.8153,6.1296
+Luxembourg,,2/7/2020,Overcast throughout the day.,cloudy,0.48,0.0002,0.0013,0.2,rain,45.38,39.69,32.25,0.84,1022.9,0.91,1,29.2,45.38,49.8153,6.1296
+Luxembourg,,2/8/2020,Light rain in the evening and overnight.,rain,0.52,0.0051,0.0493,0.81,rain,54.21,43.27,40.77,0.82,1012.5,0.89,1,39.71,54.21,49.8153,6.1296
+Luxembourg,,2/9/2020,Rain and dangerously windy throughout the day.,rain,0.56,0.0424,0.1068,0.99,rain,45.52,37.04,39.68,0.83,1001.9,0.86,1,40.56,51.67,49.8153,6.1296
+Luxembourg,,2/10/2020,Drizzle and windy until evening.,rain,0.6,0.0088,0.0331,0.93,rain,41.29,34.41,33.45,0.83,1009.7,0.76,1,35.31,41.29,49.8153,6.1296
+Luxembourg,,2/11/2020,Light rain in the morning and afternoon.,rain,0.64,0.0087,0.0299,0.88,rain,42.14,32.41,32.61,0.85,1017.6,0.86,1,34.41,42.14,49.8153,6.1296
+Luxembourg,,2/12/2020,Light rain throughout the day.,rain,0.67,0.0192,0.0852,0.93,rain,45.05,39.12,35.12,0.87,1007.7,0.79,1,32.41,45.05,49.8153,6.1296
+Luxembourg,,2/13/2020,Mostly cloudy throughout the day.,rain,0.71,0.001,0.0057,0.56,rain,48.55,35.93,38.02,0.85,1020.1,0.87,1,39.12,48.55,49.8153,6.1296
+Luxembourg,,2/14/2020,Windy overnight.,wind,0.75,0.0001,0.0003,0.06,rain,53.31,45.91,38.39,0.83,1021.3,0.79,1,35.93,53.31,49.8153,6.1296
+Luxembourg,,2/15/2020,Light rain in the morning and overnight.,rain,0.78,0.0068,0.0396,0.72,rain,59.61,42.82,43.74,0.71,1010.8,0.98,2,47.35,59.61,49.8153,6.1296
+Luxembourg,,2/16/2020,Drizzle in the morning and afternoon.,rain,0.81,0.0103,0.0588,0.89,rain,47.81,38.01,40.41,0.85,1016.4,0.79,1,41.17,50.28,49.8153,6.1296
+Luxembourg,,2/17/2020,Light rain overnight.,rain,0.85,0.001,0.0019,0.56,rain,45.5,38.09,35.56,0.81,1024.7,0.88,1,38.01,45.5,49.8153,6.1296
+Luxembourg,,2/18/2020,Light rain in the morning and overnight.,rain,0.88,0.0082,0.0636,0.89,rain,42.8,38.78,34.49,0.8,1021.6,0.83,2,37.95,42.8,49.8153,6.1296
+Luxembourg,,2/19/2020,Light rain in the evening and overnight.,rain,0.91,0.005,0.0251,0.75,rain,46.99,32.66,38.77,0.85,1018.8,1.0,2,39.27,46.99,49.8153,6.1296
+Luxembourg,,2/20/2020,Overcast throughout the day.,rain,0.94,0.0003,0.0049,0.47,rain,46.37,34.4,32.82,0.79,1028.1,0.72,2,32.66,46.37,49.8153,6.1296
+Luxembourg,,2/21/2020,Drizzle overnight.,rain,0.97,0.0003,0.0036,0.25,rain,47.76,45.31,35.51,0.78,1026.1,0.73,2,34.4,48.83,49.8153,6.1296
+Luxembourg,,2/22/2020,Light rain throughout the day.,rain,0.01,0.0097,0.0249,0.95,rain,51.99,39.06,44.63,0.86,1020.8,1.0,2,45.31,51.99,49.8153,6.1296
+Luxembourg,,2/23/2020,"Light rain until afternoon, starting again overnight.",rain,0.04,0.0058,0.0179,0.78,rain,50.93,44.29,41.49,0.87,1018.3,1.0,2,39.06,50.93,49.8153,6.1296
+Luxembourg,,2/24/2020,Light rain throughout the day.,rain,0.07,0.0175,0.0456,0.93,rain,45.42,33.84,39.86,0.86,1003.5,0.89,2,37.97,47.56,49.8153,6.1296
+Luxembourg,,2/25/2020,Possible drizzle in the morning and afternoon.,rain,0.1,0.0037,0.0089,0.78,rain,40.63,33.95,31.41,0.83,1002.4,0.79,1,33.84,40.63,49.8153,6.1296
+Luxembourg,,2/26/2020,Snow (2–4 in.) until evening.,snow,0.13,0.0265,0.1197,0.83,snow,35.14,27.0,31.19,0.88,1002.3,0.88,2,31.69,36.18,49.8153,6.1296
+Luxembourg,,2/27/2020,Possible drizzle overnight.,rain,0.16,0.0014,0.012,0.39,rain,41.5,36.9,29.69,0.82,1016.2,0.61,2,27.0,41.5,49.8153,6.1296
+Luxembourg,,2/28/2020,Light rain starting in the afternoon.,rain,0.19,0.0113,0.0642,0.87,rain,51.06,38.72,40.69,0.88,998.6,0.97,1,39.07,51.06,49.8153,6.1296
+Luxembourg,,2/29/2020,Light rain throughout the day.,rain,0.22,0.021,0.0914,0.88,rain,47.63,37.53,38.04,0.87,996.4,0.84,2,38.14,47.63,49.8153,6.1296
+Luxembourg,,3/1/2020,Light rain throughout the day.,rain,0.25,0.0126,0.0452,0.91,rain,44.81,33.56,37.75,0.89,992.3,0.94,2,37.53,44.81,49.8153,6.1296
+Luxembourg,,3/2/2020,Possible drizzle in the afternoon.,rain,0.28,0.0015,0.0077,0.67,rain,41.0,34.03,33.48,0.86,1004.4,0.76,1,33.56,41.0,49.8153,6.1296
+Luxembourg,,3/3/2020,Possible drizzle overnight.,rain,0.32,0.0008,0.0053,0.48,rain,43.91,37.17,34.11,0.87,1012.2,0.89,2,34.03,43.91,49.8153,6.1296
+Luxembourg,,3/4/2020,Light rain throughout the day.,rain,0.35,0.0372,0.0789,0.95,rain,44.83,38.04,39.35,0.93,995.5,1.0,2,37.38,46.0,49.8153,6.1296
+Luxembourg,,3/5/2020,Light rain in the morning.,rain,0.39,0.0089,0.0354,0.91,rain,43.67,34.95,37.9,0.89,997.0,0.96,2,37.65,45.13,49.8153,6.1296
+Luxembourg,,3/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0004,0.0012,0.19,rain,47.37,37.52,33.42,0.78,1018.5,0.69,2,34.95,47.37,49.8153,6.1296
+Luxembourg,,3/7/2020,Light rain in the evening and overnight.,rain,0.47,0.0049,0.0322,0.68,rain,50.42,39.06,38.94,0.83,1016.0,0.99,2,37.52,50.42,49.8153,6.1296
+Luxembourg,,3/8/2020,Possible light rain overnight.,rain,0.5,0.0016,0.0119,0.75,rain,47.72,38.95,37.66,0.84,1014.9,0.8,2,38.95,47.72,49.8153,6.1296
+Luxembourg,,3/9/2020,Light rain throughout the day.,rain,0.54,0.0184,0.0453,0.98,rain,52.76,49.89,43.24,0.91,1011.7,0.98,2,39.22,53.76,49.8153,6.1296
+Luxembourg,,3/10/2020,Drizzle in the morning and afternoon.,rain,0.58,0.0052,0.0106,0.79,rain,55.78,47.98,49.47,0.9,1014.5,0.99,3,49.76,55.78,49.8153,6.1296
+Luxembourg,,3/11/2020,Possible light rain in the morning and afternoon.,rain,0.62,0.0069,0.0324,0.71,rain,49.31,36.95,42.05,0.85,1013.9,0.83,3,39.61,51.92,49.8153,6.1296
+Luxembourg,,3/12/2020,Mostly cloudy throughout the day.,rain,0.66,0.0013,0.0031,0.39,rain,48.33,34.62,35.33,0.8,1020.0,0.51,2,36.95,48.33,49.8153,6.1296
+Luxembourg,,3/13/2020,Overcast throughout the day.,rain,0.69,0.0014,0.0062,0.48,rain,50.69,37.52,35.88,0.81,1021.3,0.87,2,34.62,50.69,49.8153,6.1296
+Luxembourg,,3/14/2020,Overcast throughout the day.,cloudy,0.73,0.0005,0.0033,0.14,rain,56.09,35.82,38.47,0.76,1016.5,0.99,2,37.52,56.09,49.8153,6.1296
+Luxembourg,,3/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.0004,0.0034,0.07,rain,60.17,41.48,40.88,0.79,1019.6,0.6,2,35.82,60.17,49.8153,6.1296
+Luxembourg,,3/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.0001,0.0005,0.08,rain,59.8,38.57,42.97,0.79,1029.7,0.71,3,41.48,59.8,49.8153,6.1296
+Luxembourg,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0002,0.0008,0.08,rain,59.99,41.44,42.8,0.81,1028.6,0.36,3,38.57,59.99,49.8153,6.1296
+Luxembourg,,3/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.86,0.0003,0.001,0.1,rain,61.5,41.32,42.81,0.77,1024.8,0.39,3,41.44,61.5,49.8153,6.1296
+Luxembourg,,3/19/2020,Light rain overnight.,partly-cloudy-day,0.89,0.0001,0.0021,0.13,rain,59.93,35.45,42.63,0.77,1022.7,0.46,3,41.32,59.93,49.8153,6.1296
+Luxembourg,,3/20/2020,Light rain in the morning and afternoon.,rain,0.92,0.0153,0.0501,0.95,rain,43.99,29.23,35.3,0.85,1023.6,0.94,2,35.15,45.22,49.8153,6.1296
+Luxembourg,,3/21/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.03,rain,49.05,26.05,24.29,0.61,1027.0,0.05,3,29.23,49.05,49.8153,6.1296
+Luxembourg,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0004,0.01,rain,48.81,26.56,16.42,0.46,1031.0,0.0,3,26.05,48.81,49.8153,6.1296
+Luxembourg,,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.01,snow,49.99,26.07,15.39,0.42,1030.1,0.01,4,26.56,49.99,49.8153,6.1296
+Luxembourg,,3/24/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0004,0.03,snow,51.05,29.24,16.49,0.44,1024.8,0.0,4,26.07,51.05,49.8153,6.1296
+Luxembourg,,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0004,0.02,rain,49.92,31.98,22.42,0.53,1019.7,0.11,4,29.24,49.92,49.8153,6.1296
+Luxembourg,,3/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0004,0.02,rain,57.76,38.08,33.67,0.67,1017.9,0.11,4,31.98,57.76,49.8153,6.1296
+Luxembourg,,3/27/2020,Clear throughout the day.,clear-day,0.13,0.0002,0.001,0.01,rain,64.16,34.14,37.63,0.65,1019.3,0.06,4,38.08,64.16,49.8153,6.1296
+Luxembourg,,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.17,0.0003,0.0013,0.13,rain,43.05,26.31,28.2,0.66,1025.4,0.66,2,34.14,43.05,49.8153,6.1296
+Luxembourg,,3/29/2020,Clear throughout the day.,clear-day,0.2,0.0002,0.0004,0.06,rain,47.04,31.69,20.67,0.55,1029.3,0.08,4,26.31,47.04,49.8153,6.1296
+Luxembourg,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0002,0.0011,0.09,snow,49.3,25.9,28.35,0.68,1027.5,0.49,3,31.69,49.3,49.8153,6.1296
+Luxembourg,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.01,snow,53.07,28.04,23.94,0.58,1022.0,0.0,4,25.9,53.07,49.8153,6.1296
+Luxembourg,,4/1/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0003,0.03,snow,54.08,34.6,28.68,0.64,1015.1,0.0,5,28.04,54.08,49.8153,6.1296
+Luxembourg,,4/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.33,0.0002,0.0006,0.07,rain,52.27,32.66,34.88,0.75,1017.1,0.44,4,34.6,52.27,49.8153,6.1296
+Luxembourg,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0004,0.02,rain,58.27,36.34,32.88,0.65,1023.8,0.31,4,32.66,58.27,49.8153,6.1296
+Luxembourg,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0,0.0,,67.08,40.25,35.43,0.58,1021.7,0.0,6,36.34,67.08,49.8153,6.1296
+Luxembourg,,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0,0.0002,0.02,,69.35,43.98,36.76,0.55,1021.6,0.01,6,40.25,69.35,49.8153,6.1296
+Luxembourg,,4/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0009,0.0025,0.14,rain,69.94,45.22,46.19,0.71,1029.1,0.62,4,43.98,69.94,49.8153,6.1296
+Luxembourg,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0,0.0003,0.01,,73.26,51.6,42.27,0.58,1025.6,0.13,5,45.22,73.26,49.8153,6.1296
+Luxembourg,,4/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0001,0.0004,0.04,rain,74.55,47.7,43.02,0.51,1023.8,0.76,5,51.6,74.55,49.8153,6.1296
+Luxembourg,,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0004,0.02,rain,72.83,46.68,44.83,0.58,1024.4,0.16,6,47.7,72.83,49.8153,6.1296
+Luxembourg,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.05,rain,72.96,53.63,42.92,0.56,1023.0,0.24,5,46.68,72.96,49.8153,6.1296
+Luxembourg,,4/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0014,0.0192,0.07,rain,71.44,48.11,42.37,0.5,1016.9,0.56,5,53.63,71.44,49.8153,6.1296
+Luxembourg,,4/12/2020,Mostly cloudy throughout the day.,rain,0.71,0.0033,0.0206,0.37,rain,58.3,31.23,38.76,0.64,1017.5,0.57,3,39.98,58.3,49.8153,6.1296
+Luxembourg,,4/13/2020,Clear throughout the day.,clear-day,0.74,0.0001,0.0003,0.03,rain,52.13,32.69,28.54,0.61,1025.7,0.13,5,31.23,52.13,49.8153,6.1296
+Luxembourg,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0,0.0,0.0,,64.08,39.65,31.51,0.59,1023.7,0.06,6,32.69,64.08,49.8153,6.1296
+Luxembourg,,4/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0002,0.02,rain,69.5,44.42,38.68,0.55,1018.0,0.55,4,39.65,69.5,49.8153,6.1296
+Luxembourg,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0018,0.0078,0.15,rain,73.02,49.98,47.68,0.67,1015.7,0.45,4,44.42,73.02,49.8153,6.1296
+Luxembourg,,4/17/2020,Possible light rain in the morning and afternoon.,rain,0.87,0.0084,0.0256,0.82,rain,67.74,45.24,51.04,0.76,1015.4,0.81,3,49.98,67.74,49.8153,6.1296
+Luxembourg,,4/18/2020,Clear throughout the day.,clear-day,0.9,0.0003,0.0017,0.07,rain,65.75,43.65,48.47,0.78,1016.4,0.27,6,45.24,65.75,49.8153,6.1296
+Luxembourg,,4/19/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0004,0.02,rain,64.25,44.78,37.98,0.58,1014.7,0.01,6,43.65,64.25,49.8153,6.1296
+Luxembourg,,4/20/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0003,0.01,rain,66.77,45.99,34.9,0.47,1013.9,0.15,6,44.78,66.77,49.8153,6.1296

@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Burkina Faso,,1/1/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.02,rain,90.69,57.61,7.87,0.09,1013.7,0.01,10,57.91,90.69,12.2383,-1.5616
+Burkina Faso,,1/2/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0004,0.02,rain,84.53,52.46,11.55,0.11,1015.8,0.0,10,57.61,84.53,12.2383,-1.5616
+Burkina Faso,,1/3/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0004,0.03,rain,81.46,51.08,2.32,0.08,1016.7,0.06,9,52.46,81.46,12.2383,-1.5616
+Burkina Faso,,1/4/2020,Clear throughout the day.,clear-day,0.3,0.0002,0.0004,0.05,rain,84.12,53.89,10.28,0.11,1016.0,0.16,9,51.08,84.12,12.2383,-1.5616
+Burkina Faso,,1/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.33,0.0001,0.0002,0.03,rain,87.55,56.85,18.45,0.15,1013.7,0.43,8,53.89,87.55,12.2383,-1.5616
+Burkina Faso,,1/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.36,0.0,0.0,0.0,,90.08,60.77,27.39,0.19,1012.0,0.55,6,56.85,90.08,12.2383,-1.5616
+Burkina Faso,,1/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.4,0.0001,0.0002,0.02,rain,92.15,65.65,30.63,0.19,1011.7,0.5,6,60.77,92.15,12.2383,-1.5616
+Burkina Faso,,1/8/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0002,0.04,,96.06,69.2,33.75,0.2,1012.4,0.12,9,65.63,96.06,12.2383,-1.5616
+Burkina Faso,,1/9/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0001,0.01,,97.79,65.19,30.34,0.16,1012.3,0.07,9,69.2,97.79,12.2383,-1.5616
+Burkina Faso,,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.5,0.0001,0.0004,0.05,rain,99.32,68.25,33.57,0.19,1012.4,0.49,7,65.22,99.32,12.2383,-1.5616
+Burkina Faso,,1/11/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0003,0.05,rain,97.5,68.15,26.98,0.14,1012.8,0.03,9,68.25,97.5,12.2383,-1.5616
+Burkina Faso,,1/12/2020,Partly cloudy throughout the day.,clear-day,0.58,0.0001,0.0003,0.05,rain,96.84,67.23,28.39,0.15,1012.8,0.29,8,68.15,96.84,12.2383,-1.5616
+Burkina Faso,,1/13/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0004,0.04,rain,92.45,63.81,8.99,0.07,1012.2,0.26,9,67.23,92.45,12.2383,-1.5616
+Burkina Faso,,1/14/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,92.48,65.38,8.58,0.08,1011.9,0.03,9,63.81,92.48,12.2383,-1.5616
+Burkina Faso,,1/15/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.01,,93.7,65.53,15.0,0.1,1012.1,0.2,9,65.38,93.7,12.2383,-1.5616
+Burkina Faso,,1/16/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.03,,96.94,64.49,24.8,0.14,1013.3,0.13,10,65.53,96.94,12.2383,-1.5616
+Burkina Faso,,1/17/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0004,0.05,rain,94.47,62.15,22.2,0.13,1014.1,0.22,10,64.49,94.47,12.2383,-1.5616
+Burkina Faso,,1/18/2020,Clear throughout the day.,clear-day,0.8,0.0,0.0002,0.02,,92.27,61.46,14.62,0.1,1014.5,0.19,9,62.15,92.27,12.2383,-1.5616
+Burkina Faso,,1/19/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0002,0.01,,91.12,60.93,20.55,0.13,1013.1,0.22,9,61.46,91.12,12.2383,-1.5616
+Burkina Faso,,1/20/2020,Clear throughout the day.,clear-day,0.87,0.0,0.0002,0.02,,93.86,65.31,28.82,0.18,1011.1,0.2,8,60.93,93.86,12.2383,-1.5616
+Burkina Faso,,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0002,0.05,rain,98.11,69.02,36.03,0.2,1011.6,0.34,9,65.31,98.11,12.2383,-1.5616
+Burkina Faso,,1/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.93,0.0,0.0001,0.03,,97.66,71.32,38.07,0.21,1012.1,0.65,6,69.02,97.66,12.2383,-1.5616
+Burkina Faso,,1/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0001,0.0002,0.05,rain,97.15,67.97,18.99,0.1,1012.6,0.6,10,71.32,97.15,12.2383,-1.5616
+Burkina Faso,,1/24/2020,Clear throughout the day.,partly-cloudy-day,1.0,0.0001,0.0002,0.03,rain,94.49,65.3,6.38,0.06,1013.7,0.34,9,67.97,94.49,12.2383,-1.5616
+Burkina Faso,,1/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0003,0.03,rain,97.25,65.61,2.41,0.05,1013.6,0.33,10,65.3,97.25,12.2383,-1.5616
+Burkina Faso,,1/26/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0004,0.02,rain,95.35,61.78,2.2,0.05,1013.3,0.16,9,65.61,95.35,12.2383,-1.5616
+Burkina Faso,,1/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.09,0.0001,0.0004,0.04,rain,94.24,63.28,1.64,0.05,1012.9,0.5,9,61.78,94.24,12.2383,-1.5616
+Burkina Faso,,1/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.12,0.0001,0.0002,0.01,rain,95.6,62.39,1.93,0.05,1012.7,0.6,7,63.28,95.6,12.2383,-1.5616
+Burkina Faso,,1/29/2020,Clear throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.05,rain,97.85,62.47,-4.65,0.04,1012.9,0.41,8,62.39,97.85,12.2383,-1.5616
+Burkina Faso,,1/30/2020,Partly cloudy throughout the day.,clear-day,0.18,0.0001,0.0003,0.03,rain,98.72,64.01,-1.72,0.04,1013.8,0.22,8,62.47,98.72,12.2383,-1.5616
+Burkina Faso,,1/31/2020,Clear throughout the day.,partly-cloudy-day,0.21,0.0001,0.0003,0.04,rain,98.78,64.92,9.66,0.07,1013.8,0.44,10,64.01,98.78,12.2383,-1.5616
+Burkina Faso,,2/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.05,rain,97.47,62.23,11.69,0.08,1013.7,0.2,11,64.92,97.47,12.2383,-1.5616
+Burkina Faso,,2/2/2020,Partly cloudy throughout the day.,clear-day,0.28,0.0,0.0002,0.03,,95.79,60.35,7.18,0.07,1014.1,0.28,8,62.23,95.79,12.2383,-1.5616
+Burkina Faso,,2/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0001,0.0003,0.04,rain,94.97,59.08,3.7,0.06,1014.3,0.46,9,60.35,94.97,12.2383,-1.5616
+Burkina Faso,,2/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0003,0.05,rain,94.67,60.5,3.59,0.07,1014.4,0.48,7,59.08,94.67,12.2383,-1.5616
+Burkina Faso,,2/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0003,0.06,rain,94.12,63.26,5.12,0.07,1013.4,0.61,6,60.5,94.12,12.2383,-1.5616
+Burkina Faso,,2/6/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.02,,94.49,61.55,7.11,0.07,1013.0,0.09,11,63.26,94.49,12.2383,-1.5616
+Burkina Faso,,2/7/2020,Clear throughout the day.,clear-day,0.45,0.0001,0.0003,0.05,rain,94.43,60.52,-0.46,0.05,1013.4,0.0,11,61.55,94.43,12.2383,-1.5616
+Burkina Faso,,2/8/2020,Partly cloudy throughout the day.,clear-day,0.48,0.0001,0.0003,0.02,rain,95.46,63.3,3.31,0.06,1012.9,0.2,9,60.52,95.46,12.2383,-1.5616
+Burkina Faso,,2/9/2020,Clear throughout the day.,clear-day,0.52,0.0001,0.0003,0.05,rain,96.47,69.88,16.13,0.09,1012.6,0.25,9,63.3,96.47,12.2383,-1.5616
+Burkina Faso,,2/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.0001,0.0004,0.06,rain,97.86,71.73,19.66,0.1,1013.5,0.61,8,69.88,97.86,12.2383,-1.5616
+Burkina Faso,,2/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.0,0.0002,0.03,,96.29,72.05,7.98,0.06,1014.4,0.84,7,71.73,96.29,12.2383,-1.5616
+Burkina Faso,,2/12/2020,Overcast throughout the day.,cloudy,0.64,0.0001,0.0004,0.04,rain,93.68,68.24,0.66,0.04,1013.4,0.94,6,72.05,93.68,12.2383,-1.5616
+Burkina Faso,,2/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.67,0.0001,0.0004,0.01,rain,93.21,61.26,0.4,0.05,1013.1,0.83,6,68.24,93.21,12.2383,-1.5616
+Burkina Faso,,2/14/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.02,rain,96.29,61.05,-0.29,0.05,1011.7,0.03,11,61.26,96.29,12.2383,-1.5616
+Burkina Faso,,2/15/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.02,rain,98.2,62.54,3.27,0.05,1011.3,0.0,11,61.05,98.2,12.2383,-1.5616
+Burkina Faso,,2/16/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.03,rain,99.6,63.21,5.76,0.06,1011.3,0.12,11,62.54,99.6,12.2383,-1.5616
+Burkina Faso,,2/17/2020,Clear throughout the day.,clear-day,0.82,0.0001,0.0003,0.05,rain,100.97,65.1,7.22,0.06,1010.8,0.05,11,63.21,100.97,12.2383,-1.5616
+Burkina Faso,,2/18/2020,Clear throughout the day.,clear-day,0.85,0.0002,0.0004,0.06,rain,101.17,64.75,14.76,0.08,1011.3,0.07,11,65.1,101.17,12.2383,-1.5616
+Burkina Faso,,2/19/2020,Clear throughout the day.,clear-day,0.88,0.0,0.0001,0.02,,100.91,65.62,19.43,0.1,1009.7,0.0,11,64.75,100.91,12.2383,-1.5616
+Burkina Faso,,2/20/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0004,0.04,rain,100.53,68.03,18.87,0.09,1009.1,0.0,12,65.62,100.53,12.2383,-1.5616
+Burkina Faso,,2/21/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.05,rain,100.98,70.69,17.05,0.08,1009.4,0.03,11,68.03,100.98,12.2383,-1.5616
+Burkina Faso,,2/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.98,0.0002,0.0004,0.06,rain,102.64,75.08,15.0,0.07,1010.2,0.57,10,70.69,102.64,12.2383,-1.5616
+Burkina Faso,,2/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0004,0.04,rain,103.14,70.2,18.84,0.08,1011.2,0.05,12,75.08,103.14,12.2383,-1.5616
+Burkina Faso,,2/24/2020,Clear throughout the day.,partly-cloudy-day,0.04,0.0001,0.0004,0.04,rain,100.07,68.65,12.17,0.07,1011.7,0.35,11,70.2,100.07,12.2383,-1.5616
+Burkina Faso,,2/25/2020,Clear throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.03,rain,97.33,65.38,6.19,0.06,1011.7,0.33,12,68.65,97.33,12.2383,-1.5616
+Burkina Faso,,2/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0003,0.05,rain,98.07,66.02,10.42,0.07,1010.0,0.0,12,65.38,98.07,12.2383,-1.5616
+Burkina Faso,,2/27/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0004,0.03,rain,100.32,68.44,14.92,0.08,1010.0,0.11,12,66.02,100.32,12.2383,-1.5616
+Burkina Faso,,2/28/2020,Clear throughout the day.,clear-day,0.16,0.0001,0.0004,0.02,rain,100.44,67.36,13.68,0.07,1010.8,0.07,12,68.44,100.44,12.2383,-1.5616
+Burkina Faso,,2/29/2020,Clear throughout the day.,clear-day,0.19,0.0001,0.0004,0.02,rain,102.04,67.25,10.38,0.06,1009.8,0.01,12,67.36,102.04,12.2383,-1.5616
+Burkina Faso,,3/1/2020,Clear throughout the day.,partly-cloudy-day,0.22,0.0001,0.0004,0.02,rain,103.84,67.34,10.51,0.06,1009.0,0.33,12,67.25,103.84,12.2383,-1.5616
+Burkina Faso,,3/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0001,0.0003,0.01,rain,103.81,69.31,13.86,0.07,1010.3,0.34,10,67.34,103.81,12.2383,-1.5616
+Burkina Faso,,3/3/2020,Clear throughout the day.,clear-day,0.28,0.0,0.0002,0.01,,104.54,70.03,15.36,0.07,1011.0,0.11,9,69.31,104.54,12.2383,-1.5616
+Burkina Faso,,3/4/2020,Clear throughout the day.,clear-day,0.32,0.0,0.0002,0.02,,104.21,71.55,15.52,0.07,1011.2,0.11,11,70.03,104.21,12.2383,-1.5616
+Burkina Faso,,3/5/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0003,0.02,rain,104.54,68.84,8.46,0.05,1010.1,0.0,12,71.55,104.54,12.2383,-1.5616
+Burkina Faso,,3/6/2020,Clear throughout the day.,clear-day,0.39,0.0,0.0002,0.01,,105.38,65.78,1.42,0.04,1008.5,0.0,12,68.84,105.38,12.2383,-1.5616
+Burkina Faso,,3/7/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0003,0.02,,104.3,67.75,8.97,0.06,1008.0,0.0,12,65.78,104.3,12.2383,-1.5616
+Burkina Faso,,3/8/2020,Clear throughout the day.,clear-day,0.47,0.0001,0.0004,0.05,rain,104.68,71.45,19.15,0.09,1008.9,0.02,13,67.75,104.68,12.2383,-1.5616
+Burkina Faso,,3/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.51,0.0001,0.0004,0.06,rain,104.61,73.96,7.48,0.05,1008.5,0.46,7,71.45,104.61,12.2383,-1.5616
+Burkina Faso,,3/10/2020,Overcast throughout the day.,cloudy,0.55,0.0,0.0001,0.02,,101.31,75.18,1.77,0.04,1008.2,0.91,6,73.96,101.31,12.2383,-1.5616
+Burkina Faso,,3/11/2020,Overcast throughout the day.,cloudy,0.58,0.0002,0.0004,0.07,rain,103.64,75.36,0.81,0.03,1008.2,0.95,5,75.18,103.64,12.2383,-1.5616
+Burkina Faso,,3/12/2020,Clear throughout the day.,partly-cloudy-day,0.62,0.0002,0.0004,0.04,rain,105.6,70.03,-0.2,0.03,1007.6,0.32,12,75.36,105.6,12.2383,-1.5616
+Burkina Faso,,3/13/2020,Clear throughout the day.,clear-day,0.66,0.0,0.0,0.0,,104.73,73.59,18.51,0.08,1007.9,0.01,13,70.03,104.73,12.2383,-1.5616
+Burkina Faso,,3/14/2020,Clear throughout the day.,clear-day,0.7,0.0001,0.0003,0.03,rain,104.17,73.24,29.38,0.12,1009.0,0.05,13,73.59,104.17,12.2383,-1.5616
+Burkina Faso,,3/15/2020,Overcast throughout the day.,partly-cloudy-day,0.73,0.0001,0.0003,0.05,rain,104.68,77.68,38.96,0.17,1008.1,0.83,6,73.24,104.68,12.2383,-1.5616
+Burkina Faso,,3/16/2020,Overcast throughout the day.,cloudy,0.77,0.0,0.0,0.0,,105.37,77.76,38.77,0.16,1006.9,0.92,5,77.68,105.37,12.2383,-1.5616
+Burkina Faso,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0001,0.0004,0.06,rain,106.8,79.28,47.34,0.22,1006.8,0.61,10,77.76,106.8,12.2383,-1.5616
+Burkina Faso,,3/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0061,0.0418,0.09,rain,103.77,77.2,64.2,0.43,1007.2,0.45,13,79.28,103.77,12.2383,-1.5616
+Burkina Faso,,3/19/2020,Overcast throughout the day.,cloudy,0.86,0.0037,0.0296,0.2,rain,106.8,80.77,61.54,0.4,1007.2,0.96,6,77.2,106.8,12.2383,-1.5616
+Burkina Faso,,3/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0002,0.0011,0.08,rain,104.0,79.14,61.83,0.39,1008.0,0.76,7,80.77,104.0,12.2383,-1.5616
+Burkina Faso,,3/21/2020,Overcast throughout the day.,partly-cloudy-day,0.92,0.0003,0.0015,0.04,rain,104.69,73.69,46.15,0.26,1008.1,0.8,6,79.14,104.69,12.2383,-1.5616
+Burkina Faso,,3/22/2020,Clear throughout the day.,partly-cloudy-day,0.95,0.0001,0.0004,0.02,rain,105.54,74.16,32.39,0.14,1007.4,0.43,12,73.69,105.54,12.2383,-1.5616
+Burkina Faso,,3/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.98,0.0012,0.0092,0.06,rain,103.57,77.53,50.93,0.29,1007.9,0.59,7,74.16,103.57,12.2383,-1.5616
+Burkina Faso,,3/24/2020,Overcast throughout the day.,cloudy,0.01,0.0043,0.0373,0.13,rain,99.98,77.66,67.45,0.53,1009.1,0.95,6,77.53,99.98,12.2383,-1.5616
+Burkina Faso,,3/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0002,0.0004,0.1,rain,99.73,75.37,49.6,0.35,1009.7,0.5,12,77.66,99.73,12.2383,-1.5616
+Burkina Faso,,3/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.06,rain,101.48,75.93,30.34,0.13,1008.7,0.6,8,75.37,101.48,12.2383,-1.5616
+Burkina Faso,,3/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.11,0.0001,0.0004,0.07,rain,103.05,75.68,25.97,0.1,1008.6,0.73,9,75.93,103.05,12.2383,-1.5616
+Burkina Faso,,3/28/2020,Clear throughout the day.,partly-cloudy-day,0.14,0.0001,0.0004,0.06,rain,104.78,82.03,36.29,0.14,1008.2,0.51,12,75.68,104.78,12.2383,-1.5616
+Burkina Faso,,3/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.17,0.0,0.0002,0.01,,107.46,75.56,32.42,0.13,1007.3,0.56,11,82.03,107.46,12.2383,-1.5616
+Burkina Faso,,3/30/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.2,0.0002,0.0004,0.06,rain,107.11,76.46,28.2,0.1,1006.4,0.8,9,75.56,107.11,12.2383,-1.5616
+Burkina Faso,,3/31/2020,Overcast throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.02,rain,107.51,75.31,29.52,0.11,1006.8,0.7,6,76.46,107.51,12.2383,-1.5616
+Burkina Faso,,4/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.27,0.0001,0.0004,0.04,rain,109.82,75.06,29.84,0.11,1007.8,0.86,7,75.31,109.82,12.2383,-1.5616
+Burkina Faso,,4/2/2020,Overcast throughout the day.,cloudy,0.3,0.0001,0.0003,0.05,rain,107.96,74.58,28.5,0.11,1007.6,0.9,5,75.06,107.96,12.2383,-1.5616
+Burkina Faso,,4/3/2020,Clear throughout the day.,partly-cloudy-day,0.34,0.0001,0.0002,0.04,rain,109.98,80.92,25.42,0.09,1006.1,0.39,12,74.58,109.98,12.2383,-1.5616
+Burkina Faso,,4/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.01,rain,109.34,82.49,39.08,0.16,1007.2,0.19,12,80.92,109.34,12.2383,-1.5616
+Burkina Faso,,4/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0,0.0007,0.03,,108.54,80.08,53.57,0.31,1008.5,0.48,12,82.49,108.54,12.2383,-1.5616
+Burkina Faso,,4/6/2020,Clear throughout the day.,clear-day,0.45,0.0001,0.0002,0.02,rain,110.15,78.04,20.19,0.07,1007.5,0.09,13,80.08,110.15,12.2383,-1.5616
+Burkina Faso,,4/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0,0.0001,0.01,,108.11,78.54,47.5,0.24,1007.8,0.69,10,78.04,108.11,12.2383,-1.5616
+Burkina Faso,,4/8/2020,Overcast throughout the day.,partly-cloudy-day,0.53,0.0,0.0003,0.04,,106.65,81.28,31.92,0.13,1006.7,0.74,5,78.54,106.65,12.2383,-1.5616
+Burkina Faso,,4/9/2020,Overcast throughout the day.,cloudy,0.57,0.0004,0.0046,0.12,rain,101.85,78.31,64.92,0.45,1007.7,0.92,5,81.28,101.85,12.2383,-1.5616
+Burkina Faso,,4/10/2020,Overcast throughout the day.,cloudy,0.61,0.0007,0.0073,0.17,rain,97.15,75.99,65.11,0.49,1010.3,0.95,6,78.31,97.15,12.2383,-1.5616
+Burkina Faso,,4/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.0001,0.0004,0.1,rain,102.11,81.04,61.57,0.41,1009.9,0.71,7,75.99,102.11,12.2383,-1.5616
+Burkina Faso,,4/12/2020,Clear throughout the day.,clear-day,0.68,0.0001,0.0003,0.05,rain,104.67,82.22,61.13,0.39,1009.6,0.17,13,81.04,104.67,12.2383,-1.5616
+Burkina Faso,,4/13/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0004,0.08,rain,104.96,81.23,55.02,0.27,1008.1,0.18,13,82.22,104.96,12.2383,-1.5616
+Burkina Faso,,4/14/2020,Clear throughout the day.,clear-day,0.75,0.0004,0.0061,0.06,rain,104.31,84.87,59.54,0.33,1007.7,0.22,10,81.23,104.31,12.2383,-1.5616
+Burkina Faso,,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0018,0.0117,0.23,rain,102.56,77.28,59.67,0.34,1008.8,0.53,10,84.87,102.56,12.2383,-1.5616
+Burkina Faso,,4/16/2020,Clear throughout the day.,clear-day,0.81,0.0012,0.0099,0.16,rain,109.26,78.91,44.65,0.23,1007.8,0.14,12,77.28,109.26,12.2383,-1.5616
+Burkina Faso,,4/17/2020,Clear throughout the day.,clear-day,0.84,0.0001,0.0002,0.04,rain,110.03,82.48,18.13,0.06,1005.9,0.18,13,78.91,110.03,12.2383,-1.5616
+Burkina Faso,,4/18/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0003,0.0045,0.09,rain,107.23,82.61,58.84,0.34,1007.2,0.36,11,82.48,107.23,12.2383,-1.5616
+Burkina Faso,,4/19/2020,Humid and mostly cloudy throughout the day.,rain,0.9,0.0038,0.0217,0.46,rain,99.42,77.1,70.18,0.56,1009.6,0.61,10,81.55,99.42,12.2383,-1.5616
+Burkina Faso,,4/20/2020,Humid and overcast throughout the day.,rain,0.93,0.001,0.0049,0.29,rain,95.02,76.96,68.94,0.56,1010.7,0.84,5,77.1,95.02,12.2383,-1.5616
+Burkina Faso,,4/21/2020,Mostly cloudy throughout the day.,rain,0.96,0.0035,0.02,0.36,rain,102.73,79.11,67.42,0.52,1009.5,0.69,8,76.96,102.73,12.2383,-1.5616

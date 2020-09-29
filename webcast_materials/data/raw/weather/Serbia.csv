@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Serbia,,12/31/2019,Mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0002,0.14,snow,37.01,26.21,26.57,0.84,1033.3,0.66,1,24.13,37.01,44.0165,21.0059
+Serbia,,1/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.21,snow,38.74,20.28,25.56,0.83,1034.6,0.58,1,24.39,38.74,44.0165,21.0059
+Serbia,,1/2/2020,Clear throughout the day.,clear-day,0.27,0.0,0.0,0.0,,39.6,21.33,19.14,0.68,1028.9,0.0,1,20.28,39.6,44.0165,21.0059
+Serbia,,1/3/2020,Light rain overnight.,partly-cloudy-day,0.3,0.0004,0.0024,0.22,snow,40.74,32.73,21.91,0.69,1024.5,0.65,1,21.33,40.74,44.0165,21.0059
+Serbia,,1/4/2020,Light snow (< 1 in.) in the morning and afternoon.,rain,0.33,0.0051,0.0207,0.89,rain,35.61,25.22,28.51,0.83,1024.7,0.76,1,27.89,35.61,44.0165,21.0059
+Serbia,,1/5/2020,Overcast throughout the day.,partly-cloudy-day,0.36,0.0002,0.0006,0.1,snow,33.81,22.26,21.57,0.76,1031.9,0.69,1,25.04,33.81,44.0165,21.0059
+Serbia,,1/6/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0002,0.08,snow,34.96,19.39,18.21,0.69,1030.9,0.03,1,22.26,34.96,44.0165,21.0059
+Serbia,,1/7/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0,0.0,,35.47,20.42,16.08,0.64,1034.0,0.0,1,19.39,35.47,44.0165,21.0059
+Serbia,,1/8/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0,0.0,,37.25,27.55,18.23,0.66,1030.5,0.05,1,20.42,37.25,44.0165,21.0059
+Serbia,,1/9/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0004,0.02,rain,47.56,25.9,21.97,0.62,1024.4,0.18,1,25.87,47.56,44.0165,21.0059
+Serbia,,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0001,0.0003,0.04,rain,44.42,27.71,27.65,0.76,1028.7,0.7,1,25.9,44.42,44.0165,21.0059
+Serbia,,1/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0002,0.0007,0.15,snow,40.23,25.32,27.72,0.84,1031.1,0.37,1,27.23,40.23,44.0165,21.0059
+Serbia,,1/12/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0003,0.04,snow,43.76,27.93,26.49,0.8,1028.7,0.27,1,25.32,43.76,44.0165,21.0059
+Serbia,,1/13/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,47.89,28.44,28.31,0.77,1027.3,0.25,1,27.93,47.89,44.0165,21.0059
+Serbia,,1/14/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.02,,47.92,26.56,28.76,0.76,1029.5,0.06,1,28.44,47.92,44.0165,21.0059
+Serbia,,1/15/2020,Partly cloudy throughout the day.,clear-day,0.72,0.0,0.0002,0.05,,45.56,29.63,27.88,0.78,1030.8,0.22,1,26.56,45.56,44.0165,21.0059
+Serbia,,1/16/2020,Clear throughout the day.,clear-day,0.76,0.0004,0.0012,0.05,rain,42.97,27.09,27.5,0.76,1029.8,0.17,2,29.63,42.97,44.0165,21.0059
+Serbia,,1/17/2020,Clear throughout the day.,clear-day,0.8,0.0,0.0002,0.03,,40.9,26.59,23.1,0.7,1026.1,0.3,2,27.0,40.9,44.0165,21.0059
+Serbia,,1/18/2020,Foggy in the morning and overnight.,cloudy,0.83,0.0008,0.0025,0.19,snow,35.84,27.7,24.7,0.79,1029.8,0.96,1,26.59,35.84,44.0165,21.0059
+Serbia,,1/19/2020,Foggy in the morning.,cloudy,0.87,0.0006,0.0018,0.16,snow,36.96,26.07,25.02,0.78,1043.3,0.89,1,27.7,36.96,44.0165,21.0059
+Serbia,,1/20/2020,Overcast throughout the day.,partly-cloudy-day,0.9,0.0001,0.0005,0.05,snow,37.59,22.95,22.26,0.73,1044.6,0.69,1,25.57,37.59,44.0165,21.0059
+Serbia,,1/21/2020,Clear throughout the day.,clear-day,0.93,0.0,0.0001,0.01,,43.07,27.79,19.28,0.65,1033.5,0.09,1,22.95,43.07,44.0165,21.0059
+Serbia,,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0002,0.0011,0.06,snow,40.11,22.66,23.43,0.73,1035.5,0.32,2,26.03,40.11,44.0165,21.0059
+Serbia,,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0001,0.0002,0.02,snow,44.3,27.91,17.57,0.58,1030.3,0.03,2,22.66,44.3,44.0165,21.0059
+Serbia,,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0003,0.04,rain,52.02,30.71,27.41,0.7,1026.0,0.49,2,27.91,52.02,44.0165,21.0059
+Serbia,,1/25/2020,Possible light rain overnight.,partly-cloudy-day,0.06,0.0001,0.0003,0.07,rain,53.61,37.22,34.23,0.78,1022.6,0.53,2,30.71,53.61,44.0165,21.0059
+Serbia,,1/26/2020,Light rain in the morning and afternoon.,rain,0.09,0.0182,0.0619,0.96,rain,42.21,31.64,36.29,0.92,1018.5,0.99,1,35.25,42.21,44.0165,21.0059
+Serbia,,1/27/2020,Possible light rain overnight.,partly-cloudy-day,0.12,0.0,0.0003,0.07,,52.04,35.51,35.18,0.82,1013.3,0.71,1,31.64,52.04,44.0165,21.0059
+Serbia,,1/28/2020,Light rain in the morning and afternoon.,rain,0.15,0.0089,0.0491,0.79,rain,49.49,29.89,35.56,0.81,1011.1,0.87,1,35.51,49.49,44.0165,21.0059
+Serbia,,1/29/2020,Partly cloudy throughout the day.,rain,0.18,0.0003,0.0017,0.3,rain,46.18,27.65,29.39,0.78,1020.2,0.4,1,29.89,46.18,44.0165,21.0059
+Serbia,,1/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0004,0.07,rain,57.4,39.33,28.67,0.63,1017.4,0.62,2,27.65,57.4,44.0165,21.0059
+Serbia,,1/31/2020,Clear throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.08,rain,63.51,41.18,39.29,0.72,1017.9,0.38,2,39.33,63.51,44.0165,21.0059
+Serbia,,2/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.27,0.0005,0.0036,0.24,rain,60.21,40.6,40.78,0.78,1017.7,0.56,2,41.18,60.21,44.0165,21.0059
+Serbia,,2/2/2020,Overcast throughout the day.,rain,0.31,0.0013,0.0109,0.28,rain,59.19,40.67,41.23,0.75,1015.0,1.0,2,40.6,59.19,44.0165,21.0059
+Serbia,,2/3/2020,Light rain starting in the afternoon.,rain,0.34,0.009000000000000001,0.0458,0.74,rain,61.18,32.91,40.71,0.8,1005.2,0.93,2,35.15,61.18,44.0165,21.0059
+Serbia,,2/4/2020,Snow (5–8 in.) until evening.,snow,0.37,0.0483,0.0853,0.97,snow,35.53,26.16,29.87,0.87,1004.0,1.0,1,28.44,35.53,44.0165,21.0059
+Serbia,,2/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.002,0.0185,0.17,snow,39.21,29.85,18.87,0.6,1023.1,0.65,1,26.16,39.21,44.0165,21.0059
+Serbia,,2/6/2020,Foggy overnight.,cloudy,0.44,0.0007,0.0021,0.18,snow,39.33,28.54,28.17,0.76,1026.3,0.9,2,30.02,39.33,44.0165,21.0059
+Serbia,,2/7/2020,Clear throughout the day.,partly-cloudy-day,0.48,0.0003,0.0034,0.14,rain,46.28,24.28,22.55,0.63,1031.1,0.4,2,27.51,46.28,44.0165,21.0059
+Serbia,,2/8/2020,Clear throughout the day.,clear-day,0.52,0.0001,0.0003,0.03,snow,53.01,28.25,24.88,0.67,1030.6,0.0,2,24.28,53.01,44.0165,21.0059
+Serbia,,2/9/2020,Light rain overnight.,partly-cloudy-day,0.56,0.0002,0.0056,0.14,rain,55.33,38.27,31.16,0.69,1019.0,0.65,2,28.25,55.33,44.0165,21.0059
+Serbia,,2/10/2020,Rain throughout the day.,rain,0.6,0.0331,0.1159,1.0,rain,51.31,35.94,38.33,0.88,1011.8,0.93,2,37.48,51.31,44.0165,21.0059
+Serbia,,2/11/2020,Overcast throughout the day.,rain,0.64,0.0021,0.0139,0.52,rain,49.84,27.86,31.95,0.72,1020.1,0.95,2,35.61,49.84,44.0165,21.0059
+Serbia,,2/12/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.09,rain,54.22,34.83,29.28,0.7,1024.2,0.11,2,27.86,54.22,44.0165,21.0059
+Serbia,,2/13/2020,Light rain throughout the day.,rain,0.71,0.0106,0.03,0.88,rain,45.05,37.83,35.7,0.84,1018.0,0.95,1,34.83,45.05,44.0165,21.0059
+Serbia,,2/14/2020,Partly cloudy throughout the day.,rain,0.75,0.0004,0.0043,0.31,rain,50.8,28.34,35.73,0.8,1028.3,0.49,2,33.65,50.8,44.0165,21.0059
+Serbia,,2/15/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.04,rain,56.0,31.22,32.34,0.74,1030.6,0.02,3,28.34,56.0,44.0165,21.0059
+Serbia,,2/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0003,0.05,rain,61.96,34.35,30.22,0.62,1024.8,0.4,3,31.22,61.96,44.0165,21.0059
+Serbia,,2/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.85,0.0002,0.0004,0.07,rain,56.43,38.14,37.13,0.74,1023.4,0.64,3,34.35,56.43,44.0165,21.0059
+Serbia,,2/18/2020,Possible light rain overnight.,partly-cloudy-day,0.88,0.0,0.0002,0.03,,52.52,35.99,32.86,0.67,1021.1,0.78,2,38.14,52.52,44.0165,21.0059
+Serbia,,2/19/2020,Light rain in the morning.,rain,0.91,0.0059,0.0265,0.85,rain,43.82,28.69,32.95,0.81,1022.0,0.84,2,32.43,43.82,44.0165,21.0059
+Serbia,,2/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.94,0.0017,0.0115,0.23,rain,51.8,33.84,27.74,0.66,1025.0,0.41,3,28.69,51.8,44.0165,21.0059
+Serbia,,2/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.97,0.0013,0.0132,0.24,rain,48.38,28.33,28.26,0.67,1031.0,0.62,2,32.53,48.38,44.0165,21.0059
+Serbia,,2/22/2020,Overcast throughout the day.,partly-cloudy-day,0.01,0.0001,0.0003,0.03,rain,58.96,38.3,27.99,0.61,1024.3,0.87,2,28.33,58.96,44.0165,21.0059
+Serbia,,2/23/2020,Overcast throughout the day.,rain,0.04,0.0017,0.0108,0.29,rain,54.24,32.44,32.19,0.63,1019.9,0.89,2,36.4,54.24,44.0165,21.0059
+Serbia,,2/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.03,rain,66.35,42.06,32.2,0.57,1012.4,0.55,3,32.44,66.35,44.0165,21.0059
+Serbia,,2/25/2020,Light rain in the evening and overnight.,rain,0.1,0.004,0.0389,0.76,rain,67.48,33.23,37.52,0.6,1000.7,0.73,2,42.06,67.48,44.0165,21.0059
+Serbia,,2/26/2020,Possible light snow (< 1 in.) in the morning.,rain,0.13,0.0078,0.0394,0.89,rain,42.79,30.38,31.82,0.81,1007.3,0.78,2,31.65,44.62,44.0165,21.0059
+Serbia,,2/27/2020,Light rain (with a chance of 1–2 in. of snow) until evening.,rain,0.16,0.0182,0.0941,0.9,rain,41.25,29.61,30.6,0.81,1011.7,0.88,2,30.38,41.25,44.0165,21.0059
+Serbia,,2/28/2020,Clear throughout the day.,partly-cloudy-day,0.19,0.0001,0.0003,0.05,snow,51.13,30.96,26.93,0.63,1019.8,0.39,4,29.61,51.13,44.0165,21.0059
+Serbia,,2/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.22,0.0001,0.0003,0.02,rain,61.07,48.96,30.4,0.57,1013.9,0.7,3,30.96,61.07,44.0165,21.0059
+Serbia,,3/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0008,0.0077,0.22,rain,69.3,53.42,38.45,0.52,1006.3,0.74,3,48.96,69.3,44.0165,21.0059
+Serbia,,3/2/2020,Light rain in the evening and overnight.,rain,0.28,0.0013,0.0186,0.65,rain,67.18,44.79,42.08,0.56,1003.2,1.0,2,50.61,67.18,44.0165,21.0059
+Serbia,,3/3/2020,Light rain in the morning and afternoon.,rain,0.32,0.0165,0.0398,0.98,rain,46.03,35.85,41.46,0.92,1008.1,1.0,2,39.32,50.19,44.0165,21.0059
+Serbia,,3/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.0001,0.0003,0.03,rain,51.49,33.83,29.95,0.65,1011.6,0.43,2,34.4,51.49,44.0165,21.0059
+Serbia,,3/5/2020,Possible light rain in the evening and overnight.,rain,0.39,0.0048,0.0504,0.52,rain,56.86,38.93,34.28,0.68,1005.2,0.88,3,33.86,56.86,44.0165,21.0059
+Serbia,,3/6/2020,Light rain starting in the afternoon.,rain,0.43,0.0103,0.0439,0.86,rain,57.27,36.55,41.01,0.81,1009.5,0.64,3,38.93,57.27,44.0165,21.0059
+Serbia,,3/7/2020,Light rain in the morning and afternoon.,rain,0.47,0.0075,0.0187,0.95,rain,41.77,32.18,35.17,0.88,1018.6,1.0,2,33.7,41.77,44.0165,21.0059
+Serbia,,3/8/2020,Light rain overnight.,rain,0.5,0.0005,0.0056,0.3,rain,46.28,38.5,34.18,0.82,1015.3,0.99,2,32.18,46.28,44.0165,21.0059
+Serbia,,3/9/2020,Light rain until evening.,rain,0.54,0.0133,0.0251,0.98,rain,42.6,37.09,37.81,0.91,1015.7,1.0,2,38.11,42.6,44.0165,21.0059
+Serbia,,3/10/2020,Mostly cloudy throughout the day.,cloudy,0.58,0.0002,0.0004,0.1,rain,59.52,40.91,38.67,0.73,1019.0,0.9,3,37.09,59.52,44.0165,21.0059
+Serbia,,3/11/2020,Clear throughout the day.,clear-day,0.62,0.0002,0.0004,0.06,rain,73.21,45.13,43.57,0.67,1019.3,0.15,5,40.91,73.21,44.0165,21.0059
+Serbia,,3/12/2020,Clear throughout the day.,clear-day,0.66,0.0001,0.0006,0.04,rain,70.55,43.56,42.37,0.62,1015.0,0.22,5,45.13,70.55,44.0165,21.0059
+Serbia,,3/13/2020,Overcast throughout the day.,cloudy,0.69,0.0002,0.0009,0.08,rain,54.24,40.11,32.2,0.56,1020.0,0.99,3,43.56,54.24,44.0165,21.0059
+Serbia,,3/14/2020,Overcast throughout the day.,partly-cloudy-day,0.73,0.0002,0.0007,0.07,rain,46.9,30.72,30.75,0.66,1024.7,0.78,3,31.79,46.9,44.0165,21.0059
+Serbia,,3/15/2020,Clear throughout the day.,clear-day,0.76,0.0,0.0,0.0,,54.69,31.67,22.35,0.51,1030.4,0.01,4,30.72,54.69,44.0165,21.0059
+Serbia,,3/16/2020,Clear throughout the day.,clear-day,0.8,0.0001,0.0005,0.01,rain,64.65,38.16,26.56,0.48,1028.5,0.18,4,31.67,64.65,44.0165,21.0059
+Serbia,,3/17/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0003,0.01,,62.04,36.61,28.8,0.5,1028.8,0.08,4,38.16,62.04,44.0165,21.0059
+Serbia,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0,0.0,0.0,,65.79,39.5,27.0,0.45,1026.5,0.3,4,36.61,65.79,44.0165,21.0059
+Serbia,,3/19/2020,Clear throughout the day.,partly-cloudy-day,0.89,0.0,0.0,0.0,,71.85,41.2,30.97,0.46,1021.5,0.38,5,39.5,71.85,44.0165,21.0059
+Serbia,,3/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.92,0.0001,0.0004,0.01,rain,71.38,37.99,32.52,0.47,1015.0,0.39,4,41.2,71.38,44.0165,21.0059
+Serbia,,3/21/2020,Overcast throughout the day.,cloudy,0.95,0.0003,0.0013,0.08,rain,48.89,29.71,28.44,0.59,1021.1,0.91,3,35.43,48.89,44.0165,21.0059
+Serbia,,3/22/2020,Snow (1–3 in.) overnight.,snow,0.98,0.0017,0.0222,0.26,snow,38.18,27.6,14.8,0.49,1024.5,0.98,3,29.11,38.18,44.0165,21.0059
+Serbia,,3/23/2020,Snow (2–5 in.) throughout the day.,snow,0.01,0.0203,0.0422,0.92,snow,33.79,28.62,24.6,0.8,1022.4,1.0,3,27.6,33.79,44.0165,21.0059
+Serbia,,3/24/2020,Windy overnight.,snow,0.04,0.0039,0.0155,0.47,snow,39.33,33.03,25.92,0.73,1024.7,1.0,3,28.62,39.33,44.0165,21.0059
+Serbia,,3/25/2020,"Windy until afternoon, starting again overnight.",wind,0.07,0.0001,0.0004,0.09,rain,45.63,39.29,32.19,0.72,1020.4,0.99,3,33.03,45.63,44.0165,21.0059
+Serbia,,3/26/2020,Overcast throughout the day.,partly-cloudy-day,0.1,0.0001,0.0004,0.03,rain,56.66,35.14,34.51,0.65,1018.1,0.86,3,39.0,56.66,44.0165,21.0059
+Serbia,,3/27/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0004,0.01,rain,63.11,42.07,33.71,0.61,1014.5,0.24,4,35.14,63.11,44.0165,21.0059
+Serbia,,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.17,0.0004,0.0029,0.06,rain,63.01,38.9,36.72,0.6,1011.9,0.57,3,42.07,63.01,44.0165,21.0059
+Serbia,,3/29/2020,Clear throughout the day.,clear-day,0.2,0.0002,0.0004,0.06,rain,54.85,32.12,34.57,0.67,1016.0,0.2,5,38.9,54.85,44.0165,21.0059
+Serbia,,3/30/2020,Foggy overnight.,partly-cloudy-day,0.23,0.0002,0.001,0.11,rain,41.49,30.23,17.93,0.48,1021.8,0.75,3,32.12,41.49,44.0165,21.0059
+Serbia,,3/31/2020,Light snow (1–2 in.) in the morning and afternoon.,snow,0.26,0.0124,0.0263,0.8,snow,37.3,26.82,26.94,0.79,1020.5,0.99,3,29.94,37.3,44.0165,21.0059
+Serbia,,4/1/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0004,0.07,snow,51.07,29.59,27.96,0.7,1017.1,0.16,5,26.82,51.07,44.0165,21.0059
+Serbia,,4/2/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.01,rain,60.19,38.85,31.96,0.65,1014.3,0.22,5,29.59,60.19,44.0165,21.0059
+Serbia,,4/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0002,0.0009,0.08,rain,60.5,43.77,34.58,0.58,1018.1,0.85,3,38.85,60.5,44.0165,21.0059
+Serbia,,4/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0,0.0002,0.01,,61.72,41.02,32.34,0.5,1024.0,0.69,3,43.77,61.72,44.0165,21.0059
+Serbia,,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0,0.0002,0.01,,60.05,38.01,19.3,0.33,1030.8,0.0,6,41.02,60.05,44.0165,21.0059
+Serbia,,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0,0.0,,62.1,36.21,12.69,0.26,1033.2,0.0,7,38.01,62.1,44.0165,21.0059
+Serbia,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0,0.0003,0.01,,66.8,37.87,19.85,0.33,1029.2,0.0,7,36.21,66.8,44.0165,21.0059
+Serbia,,4/8/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.01,rain,72.78,42.54,24.62,0.36,1022.8,0.0,6,37.87,72.78,44.0165,21.0059
+Serbia,,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0004,0.01,rain,73.71,44.72,31.98,0.42,1020.5,0.03,7,42.54,73.71,44.0165,21.0059
+Serbia,,4/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.64,0.0001,0.0004,0.03,rain,69.97,43.74,37.47,0.51,1022.4,0.43,5,44.72,69.97,44.0165,21.0059
+Serbia,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0003,0.01,,71.96,45.59,35.29,0.48,1022.1,0.28,7,43.74,71.96,44.0165,21.0059
+Serbia,,4/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0004,0.06,rain,76.71,55.6,35.8,0.45,1015.8,0.68,4,45.59,76.71,44.0165,21.0059
+Serbia,,4/13/2020,Light rain in the afternoon and evening.,rain,0.74,0.0102,0.0464,0.81,rain,60.76,32.78,35.68,0.63,1014.6,1.0,3,37.6,60.76,44.0165,21.0059
+Serbia,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0011,0.11,rain,54.89,33.02,29.01,0.61,1024.4,0.18,6,32.78,54.89,44.0165,21.0059
+Serbia,,4/15/2020,Clear throughout the day.,clear-day,0.81,0.0001,0.0002,0.01,rain,69.03,43.58,31.86,0.54,1023.0,0.02,7,33.02,69.03,44.0165,21.0059
+Serbia,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0,0.0,0.0,,74.96,47.66,38.12,0.52,1016.5,0.41,6,43.58,74.96,44.0165,21.0059
+Serbia,,4/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0001,0.0002,0.04,rain,78.69,53.37,41.12,0.47,1015.7,0.36,4,47.66,78.69,44.0165,21.0059
+Serbia,,4/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0002,0.0019,0.06,rain,79.57,50.37,45.54,0.5,1012.4,0.73,4,53.37,79.57,44.0165,21.0059
+Serbia,,4/19/2020,Mostly cloudy throughout the day.,rain,0.93,0.0025,0.0176,0.3,rain,63.8,43.75,42.93,0.61,1016.1,0.89,4,50.37,63.8,44.0165,21.0059
+Serbia,,4/20/2020,Light rain until evening.,rain,0.96,0.0123,0.0287,0.91,rain,46.36,38.8,41.49,0.86,1017.9,0.92,4,43.03,50.27,44.0165,21.0059

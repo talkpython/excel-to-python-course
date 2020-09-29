@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Israel,,12/31/2019,Overcast throughout the day.,partly-cloudy-day,0.21,0.0001,0.0002,0.05,rain,59.38,43.18,39.45,0.72,1017.9,0.85,3,40.34,59.38,31.0,35.0
+Israel,,1/1/2020,Clear throughout the day.,partly-cloudy-day,0.24,0.0002,0.0009,0.13,rain,58.53,43.26,41.16,0.74,1016.4,0.45,4,43.18,58.53,31.0,35.0
+Israel,,1/2/2020,Partly cloudy throughout the day.,clear-day,0.27,0.0001,0.0009,0.1,rain,57.16,43.63,33.46,0.57,1018.6,0.3,3,43.26,57.16,31.0,35.0
+Israel,,1/3/2020,Possible drizzle in the evening.,rain,0.3,0.0023,0.0126,0.54,rain,53.66,44.32,37.1,0.67,1017.2,0.76,2,43.63,53.66,31.0,35.0
+Israel,,1/4/2020,Clear throughout the day.,rain,0.33,0.0005,0.0033,0.28,rain,57.41,40.61,31.72,0.54,1017.9,0.17,3,43.28,57.41,31.0,35.0
+Israel,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,60.79,42.77,29.51,0.5,1016.9,0.0,3,39.47,60.79,31.0,35.0
+Israel,,1/6/2020,Clear throughout the day.,clear-day,0.39,0.0001,0.0002,0.07,rain,59.82,41.74,32.54,0.53,1016.1,0.24,4,42.77,59.82,31.0,35.0
+Israel,,1/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0001,0.0011,0.07,rain,53.62,43.95,34.94,0.63,1015.9,0.48,3,41.74,53.62,31.0,35.0
+Israel,,1/8/2020,Mostly cloudy throughout the day.,rain,0.46,0.0005,0.0031,0.34,rain,53.24,42.34,38.21,0.71,1015.4,0.61,2,43.95,53.24,31.0,35.0
+Israel,,1/9/2020,Mostly cloudy throughout the day.,rain,0.5,0.0008,0.0042,0.39,rain,51.32,38.68,38.73,0.78,1016.8,0.62,2,41.63,51.32,31.0,35.0
+Israel,,1/10/2020,Clear throughout the day.,clear-day,0.54,0.0003,0.001,0.09,rain,57.3,41.53,38.95,0.76,1024.0,0.28,4,38.68,57.3,31.0,35.0
+Israel,,1/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0001,0.0003,0.06,rain,59.15,42.39,39.03,0.72,1024.5,0.72,3,41.53,59.15,31.0,35.0
+Israel,,1/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0009,0.0048,0.2,rain,58.01,43.01,43.56,0.8,1023.7,0.54,3,43.4,58.01,31.0,35.0
+Israel,,1/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0,0.0,0.0,,61.15,45.97,41.81,0.73,1024.0,0.56,3,43.01,61.15,31.0,35.0
+Israel,,1/14/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.03,,66.17,48.45,41.0,0.62,1020.5,0.31,4,45.97,66.17,31.0,35.0
+Israel,,1/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0002,0.0012,0.06,rain,68.18,45.4,36.34,0.51,1015.2,0.57,4,48.45,68.18,31.0,35.0
+Israel,,1/16/2020,Possible light rain in the evening.,rain,0.76,0.0016,0.0179,0.41,rain,59.74,48.28,41.83,0.7,1014.3,0.35,4,45.4,59.74,31.0,35.0
+Israel,,1/17/2020,Possible light rain until evening.,rain,0.79,0.0078,0.024,0.86,rain,55.7,45.45,46.18,0.86,1017.0,0.86,3,47.94,55.7,31.0,35.0
+Israel,,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0002,0.0028,0.19,rain,56.36,43.49,40.18,0.7,1019.8,0.37,4,45.34,56.36,31.0,35.0
+Israel,,1/19/2020,Possible drizzle overnight.,rain,0.86,0.0011,0.008,0.25,rain,56.88,43.82,41.35,0.77,1024.2,0.42,3,43.49,56.88,31.0,35.0
+Israel,,1/20/2020,Possible light rain in the morning.,rain,0.9,0.0056,0.0207,0.64,rain,47.44,40.02,37.76,0.78,1021.7,0.53,3,40.03,47.44,31.0,35.0
+Israel,,1/21/2020,Mostly cloudy throughout the day.,rain,0.93,0.0026,0.0058,0.49,rain,50.54,40.67,38.92,0.82,1022.4,0.63,3,40.71,50.54,31.0,35.0
+Israel,,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.96,0.0007,0.004,0.2,rain,53.98,44.26,38.46,0.76,1023.0,0.43,3,40.67,53.98,31.0,35.0
+Israel,,1/23/2020,Possible light rain and windy in the morning.,rain,1.0,0.0035,0.0163,0.57,rain,48.42,38.85,37.66,0.74,1020.4,0.61,3,39.92,48.42,31.0,35.0
+Israel,,1/24/2020,Clear throughout the day.,clear-day,0.03,0.0001,0.0003,0.04,rain,55.76,37.1,32.0,0.63,1028.8,0.22,4,38.85,55.76,31.0,35.0
+Israel,,1/25/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0003,0.02,rain,57.77,38.11,34.98,0.69,1028.9,0.0,5,37.1,57.77,31.0,35.0
+Israel,,1/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.09,0.0001,0.0004,0.02,rain,60.56,44.52,34.26,0.63,1024.0,0.66,4,38.11,60.56,31.0,35.0
+Israel,,1/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.12,0.0,0.0002,0.04,,61.06,42.83,38.51,0.65,1018.9,0.68,3,44.52,61.06,31.0,35.0
+Israel,,1/28/2020,Clear throughout the day.,clear-day,0.15,0.0002,0.0009,0.13,rain,56.73,42.41,43.88,0.82,1021.5,0.14,4,42.83,56.73,31.0,35.0
+Israel,,1/29/2020,Clear throughout the day.,clear-day,0.18,0.0001,0.0003,0.05,rain,61.39,43.78,41.52,0.74,1021.7,0.02,4,42.41,61.39,31.0,35.0
+Israel,,1/30/2020,Partly cloudy throughout the day.,clear-day,0.21,0.0004,0.0021,0.1,rain,57.36,40.7,39.12,0.7,1019.2,0.17,3,43.13,57.36,31.0,35.0
+Israel,,1/31/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.05,rain,56.58,42.65,39.07,0.74,1021.6,0.2,4,40.7,56.58,31.0,35.0
+Israel,,2/1/2020,Clear throughout the day.,clear-day,0.27,0.0005,0.0038,0.13,rain,59.16,43.38,42.98,0.77,1022.9,0.22,4,42.65,59.16,31.0,35.0
+Israel,,2/2/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0003,0.06,rain,62.74,43.87,44.22,0.78,1021.1,0.24,5,43.38,62.74,31.0,35.0
+Israel,,2/3/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.05,rain,59.8,43.65,44.8,0.81,1019.1,0.08,4,43.87,59.8,31.0,35.0
+Israel,,2/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.05,rain,63.91,46.72,43.98,0.74,1016.1,0.0,5,43.65,63.91,31.0,35.0
+Israel,,2/5/2020,Clear throughout the day.,clear-day,0.41,0.0001,0.0003,0.03,rain,68.72,46.64,37.48,0.54,1016.2,0.0,5,46.72,68.72,31.0,35.0
+Israel,,2/6/2020,Possible drizzle in the afternoon.,rain,0.44,0.0021,0.0141,0.42,rain,52.0,43.36,40.51,0.74,1017.1,0.14,5,45.81,52.0,31.0,35.0
+Israel,,2/7/2020,Windy in the morning.,rain,0.48,0.0012,0.0044,0.26,rain,52.7,41.72,36.78,0.69,1020.6,0.33,4,42.16,52.7,31.0,35.0
+Israel,,2/8/2020,Possible light rain in the morning and afternoon.,rain,0.52,0.0062,0.0183,0.6,rain,49.17,36.83,37.55,0.79,1024.7,0.81,3,38.78,49.17,31.0,35.0
+Israel,,2/9/2020,Overcast throughout the day.,rain,0.56,0.0015,0.0096,0.25,rain,48.45,38.0,34.35,0.76,1025.9,0.85,3,36.83,48.45,31.0,35.0
+Israel,,2/10/2020,Clear throughout the day.,partly-cloudy-day,0.6,0.0006,0.008,0.14,rain,54.53,43.3,36.22,0.72,1024.0,0.34,5,38.0,54.53,31.0,35.0
+Israel,,2/11/2020,Clear throughout the day.,clear-day,0.63,0.0001,0.0004,0.04,rain,63.61,44.23,40.04,0.66,1023.0,0.06,5,43.3,63.61,31.0,35.0
+Israel,,2/12/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.05,rain,68.51,46.24,41.5,0.64,1022.7,0.03,5,44.23,68.51,31.0,35.0
+Israel,,2/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0003,0.04,rain,67.13,50.3,43.97,0.64,1020.6,0.61,4,46.24,67.13,31.0,35.0
+Israel,,2/14/2020,Clear throughout the day.,clear-day,0.74,0.0001,0.0003,0.02,rain,70.17,46.1,41.2,0.56,1014.8,0.13,5,50.3,70.17,31.0,35.0
+Israel,,2/15/2020,Clear throughout the day.,clear-day,0.78,0.0011,0.0065,0.19,rain,59.4,47.16,45.99,0.79,1014.4,0.07,5,46.1,59.4,31.0,35.0
+Israel,,2/16/2020,Clear throughout the day.,clear-day,0.81,0.0005,0.0011,0.17,rain,62.59,47.5,44.52,0.74,1016.9,0.0,6,47.16,62.59,31.0,35.0
+Israel,,2/17/2020,Clear throughout the day.,partly-cloudy-day,0.85,0.0001,0.0004,0.07,rain,64.37,48.26,42.7,0.65,1014.9,0.4,5,47.5,64.37,31.0,35.0
+Israel,,2/18/2020,Partly cloudy throughout the day.,rain,0.88,0.0028,0.0072,0.54,rain,56.55,47.63,45.93,0.82,1014.7,0.59,5,48.26,56.55,31.0,35.0
+Israel,,2/19/2020,Partly cloudy throughout the day.,rain,0.91,0.0031,0.0133,0.45,rain,56.26,43.53,46.54,0.85,1019.2,0.35,4,45.65,56.26,31.0,35.0
+Israel,,2/20/2020,Clear throughout the day.,clear-day,0.94,0.0002,0.0014,0.1,rain,62.36,44.6,40.61,0.67,1016.1,0.08,5,43.53,62.36,31.0,35.0
+Israel,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0003,0.0009,0.2,rain,59.64,42.87,40.48,0.69,1018.2,0.13,5,44.6,59.64,31.0,35.0
+Israel,,2/22/2020,Clear throughout the day.,clear-day,0.0,0.0001,0.0003,0.05,rain,61.64,43.31,40.49,0.68,1017.5,0.1,6,42.87,61.64,31.0,35.0
+Israel,,2/23/2020,Possible light rain overnight.,rain,0.03,0.0018,0.0148,0.34,rain,59.15,46.97,42.97,0.77,1013.9,0.66,5,43.31,59.15,31.0,35.0
+Israel,,2/24/2020,Possible drizzle in the morning.,rain,0.07,0.0044,0.026000000000000002,0.76,rain,55.91,45.85,45.18,0.83,1015.0,0.62,4,46.97,55.91,31.0,35.0
+Israel,,2/25/2020,Clear throughout the day.,clear-day,0.1,0.0002,0.0012,0.08,rain,63.78,45.23,44.82,0.75,1021.0,0.28,6,45.85,63.78,31.0,35.0
+Israel,,2/26/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0003,0.02,rain,69.72,49.26,43.9,0.67,1020.5,0.31,6,45.23,69.72,31.0,35.0
+Israel,,2/27/2020,Clear throughout the day.,clear-day,0.16,0.0001,0.0003,0.01,rain,71.83,49.12,41.21,0.55,1016.0,0.2,7,49.26,71.83,31.0,35.0
+Israel,,2/28/2020,Clear throughout the day.,clear-day,0.19,0.0008,0.0103,0.21,rain,62.05,46.84,43.21,0.69,1014.7,0.17,5,49.12,62.05,31.0,35.0
+Israel,,2/29/2020,Mostly cloudy throughout the day.,rain,0.22,0.0017,0.0081,0.38,rain,58.63,42.81,44.19,0.79,1018.4,0.4,4,45.51,58.63,31.0,35.0
+Israel,,3/1/2020,Clear throughout the day.,clear-day,0.25,0.0001,0.0002,0.03,rain,62.68,43.11,43.19,0.75,1021.4,0.0,7,42.81,62.68,31.0,35.0
+Israel,,3/2/2020,Clear throughout the day.,clear-day,0.28,0.0001,0.0002,0.05,rain,70.58,52.0,39.68,0.6,1020.5,0.0,7,43.11,70.58,31.0,35.0
+Israel,,3/3/2020,Clear throughout the day.,clear-day,0.32,0.0,0.0002,0.01,,77.3,52.43,37.36,0.44,1014.7,0.07,8,52.0,77.3,31.0,35.0
+Israel,,3/4/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0003,0.01,rain,78.57,52.32,31.93,0.33,1011.8,0.13,7,52.43,78.57,31.0,35.0
+Israel,,3/5/2020,Partly cloudy throughout the day.,rain,0.39,0.002,0.0065,0.3,rain,57.82,45.82,44.77,0.73,1011.3,0.3,6,48.31,57.82,31.0,35.0
+Israel,,3/6/2020,Clear throughout the day.,clear-day,0.42,0.0004,0.0025,0.06,rain,62.51,46.13,47.16,0.82,1019.2,0.15,7,45.82,62.51,31.0,35.0
+Israel,,3/7/2020,Clear throughout the day.,clear-day,0.46,0.0001,0.0004,0.03,rain,75.31,54.28,44.44,0.61,1019.7,0.0,8,46.13,75.31,31.0,35.0
+Israel,,3/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.5,0.0,0.0,0.0,,79.02,52.07,39.24,0.42,1013.8,0.48,4,54.28,79.02,31.0,35.0
+Israel,,3/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.54,0.0,0.0002,0.03,,69.69,48.95,50.7,0.76,1015.8,0.42,6,51.84,69.69,31.0,35.0
+Israel,,3/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0002,0.0004,0.05,rain,79.56,65.33,46.44,0.6,1012.9,0.45,6,48.95,79.56,31.0,35.0
+Israel,,3/11/2020,Heavy rain in the evening and overnight.,rain,0.62,0.0271,0.4273,0.73,rain,78.16,50.93,47.66,0.49,1005.0,0.76,5,60.36,78.16,31.0,35.0
+Israel,,3/12/2020,Light rain throughout the day.,rain,0.66,0.0321,0.3077,0.98,rain,57.14,50.79,48.59,0.84,1001.8,0.74,3,50.93,58.95,31.0,35.0
+Israel,,3/13/2020,Light rain in the morning.,rain,0.69,0.0213,0.0868,0.95,rain,58.47,47.85,52.07,0.96,1011.7,0.68,5,49.7,58.47,31.0,35.0
+Israel,,3/14/2020,Clear throughout the day.,clear-day,0.73,0.0002,0.0006,0.09,rain,65.93,50.55,51.78,0.87,1017.1,0.31,8,47.85,65.93,31.0,35.0
+Israel,,3/15/2020,Clear throughout the day.,clear-day,0.76,0.0,0.0,0.0,,71.5,51.21,51.62,0.76,1014.9,0.06,8,50.55,71.5,31.0,35.0
+Israel,,3/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0018,0.0085,0.17,rain,62.59,44.96,46.53,0.75,1012.4,0.33,5,47.65,62.59,31.0,35.0
+Israel,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0014,0.0054,0.22,rain,57.55,44.6,41.46,0.75,1014.8,0.51,5,44.96,57.55,31.0,35.0
+Israel,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0002,0.0008,0.04,rain,59.6,42.88,40.23,0.69,1016.0,0.14,8,44.6,59.6,31.0,35.0
+Israel,,3/19/2020,Light rain in the evening and overnight.,rain,0.89,0.0036,0.0239,0.59,rain,55.7,41.57,36.73,0.66,1014.6,0.57,5,42.88,55.7,31.0,35.0
+Israel,,3/20/2020,Possible drizzle in the morning.,rain,0.92,0.0054,0.0313,0.79,rain,51.85,39.3,41.08,0.86,1014.3,0.35,4,41.25,51.85,31.0,35.0
+Israel,,3/21/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.04,rain,59.72,44.1,40.16,0.73,1017.9,0.03,8,39.3,59.72,31.0,35.0
+Israel,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0005,0.0058,0.02,rain,71.43,54.62,39.65,0.58,1013.6,0.25,7,44.1,71.43,31.0,35.0
+Israel,,3/23/2020,Clear throughout the day.,partly-cloudy-day,0.01,0.0002,0.0035,0.02,rain,73.65,48.57,42.11,0.5,1010.1,0.45,7,53.42,73.65,31.0,35.0
+Israel,,3/24/2020,Foggy in the morning.,partly-cloudy-day,0.04,0.0003,0.0006,0.06,rain,66.47,47.07,46.29,0.73,1012.8,0.45,5,48.57,66.47,31.0,35.0
+Israel,,3/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.04,rain,76.0,55.04,40.22,0.52,1010.1,0.76,4,47.07,76.0,31.0,35.0
+Israel,,3/26/2020,Clear throughout the day.,clear-day,0.1,0.0002,0.0041,0.04,rain,77.19,53.72,46.5,0.52,1007.2,0.23,8,55.04,77.19,31.0,35.0
+Israel,,3/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0005,0.0058,0.11,rain,65.39,44.83,49.66,0.76,1014.1,0.32,5,50.55,65.39,31.0,35.0
+Israel,,3/28/2020,Clear throughout the day.,clear-day,0.16,0.0,0.0003,0.02,,68.78,49.16,36.4,0.55,1015.6,0.18,9,44.83,68.78,31.0,35.0
+Israel,,3/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0002,0.0004,0.05,rain,77.23,56.49,29.98,0.31,1013.3,0.35,7,49.16,77.23,31.0,35.0
+Israel,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0025,0.0124,0.05,rain,85.16,52.85,36.95,0.37,1009.1,0.38,5,56.49,85.16,31.0,35.0
+Israel,,3/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.26,0.0001,0.001,0.03,rain,65.09,47.3,47.69,0.71,1013.4,0.34,5,51.46,65.09,31.0,35.0
+Israel,,4/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0001,0.0003,0.03,rain,69.78,46.67,45.2,0.67,1015.3,0.39,5,47.3,69.78,31.0,35.0
+Israel,,4/2/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.01,rain,76.04,54.23,37.3,0.46,1016.9,0.05,8,46.67,76.04,31.0,35.0
+Israel,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0,0.0,0.0,,84.45,62.59,33.81,0.33,1015.6,0.13,9,54.23,84.45,31.0,35.0
+Israel,,4/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0011,0.0049,0.04,rain,87.4,53.16,36.82,0.34,1012.0,0.77,5,60.16,87.4,31.0,35.0
+Israel,,4/5/2020,Clear throughout the day.,partly-cloudy-day,0.45,0.0,0.0002,0.01,,73.39,51.01,49.13,0.68,1016.3,0.34,9,53.16,73.39,31.0,35.0
+Israel,,4/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0,0.0005,0.01,,69.56,46.46,47.16,0.69,1015.8,0.58,6,51.01,69.56,31.0,35.0
+Israel,,4/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0,0.0,0.0,,66.93,45.63,43.33,0.66,1015.5,0.53,6,46.46,66.93,31.0,35.0
+Israel,,4/8/2020,Clear throughout the day.,clear-day,0.56,0.0001,0.0004,0.04,rain,68.0,46.66,43.22,0.66,1014.1,0.19,8,45.63,68.0,31.0,35.0
+Israel,,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0006,0.0028,0.24,rain,65.13,46.14,44.84,0.73,1013.7,0.21,7,46.66,65.13,31.0,35.0
+Israel,,4/10/2020,Partly cloudy throughout the day.,clear-day,0.64,0.0007,0.0044,0.12,rain,63.37,44.83,46.74,0.77,1016.0,0.27,5,46.14,63.37,31.0,35.0
+Israel,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0003,0.03,,69.11,45.82,42.37,0.64,1018.3,0.0,9,44.83,69.11,31.0,35.0
+Israel,,4/12/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.02,rain,74.41,51.58,38.52,0.54,1016.8,0.09,10,45.82,74.41,31.0,35.0
+Israel,,4/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.74,0.0017,0.0146,0.11,rain,76.93,51.09,46.0,0.59,1015.6,0.35,10,51.58,76.93,31.0,35.0
+Israel,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0,0.0003,0.01,,79.93,56.71,47.83,0.61,1018.0,0.27,10,51.09,79.93,31.0,35.0
+Israel,,4/15/2020,Clear throughout the day.,clear-day,0.81,0.0007,0.0054,0.03,rain,81.83,51.24,46.13,0.53,1012.1,0.29,6,55.53,81.83,31.0,35.0
+Israel,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0004,0.0012,0.08,rain,70.38,51.21,47.58,0.69,1012.3,0.43,6,51.24,70.38,31.0,35.0
+Israel,,4/17/2020,Clear throughout the day.,clear-day,0.87,0.0001,0.0002,0.02,rain,77.15,54.68,50.97,0.68,1013.8,0.16,9,51.21,77.15,31.0,35.0
+Israel,,4/18/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0003,0.03,rain,83.34,54.35,52.51,0.64,1012.5,0.15,8,54.68,83.34,31.0,35.0
+Israel,,4/19/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0004,0.03,rain,85.63,54.42,53.75,0.65,1010.7,0.03,9,54.35,85.63,31.0,35.0
+Israel,,4/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.96,0.0001,0.0003,0.03,rain,85.42,60.45,52.97,0.61,1010.8,0.4,5,54.42,85.42,31.0,35.0

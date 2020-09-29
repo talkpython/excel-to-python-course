@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Honduras,,12/31/2019,Overcast throughout the day.,rain,0.19,0.0038,0.0141,0.37,rain,76.33,58.33,65.62,0.88,1015.6,0.88,5,63.04,76.33,15.2,-86.2419
+Honduras,,1/1/2020,Mostly cloudy throughout the day.,rain,0.22,0.0086,0.0454,0.44,rain,76.25,58.04,63.51,0.88,1015.2,0.75,5,58.33,76.25,15.2,-86.2419
+Honduras,,1/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0002,0.0008,0.14,rain,81.1,59.65,60.71,0.76,1014.1,0.58,8,57.78,81.1,15.2,-86.2419
+Honduras,,1/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0001,0.0004,0.07,rain,82.25,59.25,61.61,0.77,1014.6,0.53,8,59.65,82.25,15.2,-86.2419
+Honduras,,1/4/2020,Possible light rain overnight.,rain,0.31,0.0022,0.006999999999999999,0.27,rain,80.37,64.74,62.77,0.81,1019.1,0.62,8,59.32,80.37,15.2,-86.2419
+Honduras,,1/5/2020,Possible light rain throughout the day.,rain,0.34,0.0275,0.0481,0.73,rain,70.95,60.74,65.68,0.98,1021.6,0.93,5,62.51,70.95,15.2,-86.2419
+Honduras,,1/6/2020,Possible light rain throughout the day.,rain,0.37,0.0114,0.0409,0.68,rain,69.01,61.63,63.78,0.97,1019.1,0.97,5,60.74,69.01,15.2,-86.2419
+Honduras,,1/7/2020,Mostly cloudy throughout the day.,rain,0.41,0.0086,0.0265,0.6,rain,74.56,61.69,64.53,0.94,1019.0,0.85,6,61.63,74.56,15.2,-86.2419
+Honduras,,1/8/2020,Possible light rain in the morning and overnight.,rain,0.44,0.0084,0.0176,0.67,rain,72.19,59.22,64.15,0.95,1020.1,0.82,6,61.69,72.19,15.2,-86.2419
+Honduras,,1/9/2020,Possible light rain in the afternoon and evening.,rain,0.48,0.0148,0.0624,0.68,rain,73.77,62.46,65.06,0.95,1017.7,0.64,6,59.31,73.77,15.2,-86.2419
+Honduras,,1/10/2020,Mostly cloudy throughout the day.,rain,0.51,0.0069,0.0175,0.52,rain,77.32,63.57,65.43,0.91,1014.8,0.55,6,62.41,77.32,15.2,-86.2419
+Honduras,,1/11/2020,Partly cloudy throughout the day.,rain,0.55,0.0037,0.0066,0.48,rain,78.1,61.56,65.71,0.89,1015.2,0.41,8,63.57,78.1,15.2,-86.2419
+Honduras,,1/12/2020,Partly cloudy throughout the day.,rain,0.59,0.0039,0.0225,0.31,rain,80.36,61.33,64.02,0.84,1016.2,0.52,7,61.66,80.36,15.2,-86.2419
+Honduras,,1/13/2020,Mostly cloudy throughout the day.,rain,0.62,0.0064,0.0189,0.64,rain,78.72,62.23,64.91,0.88,1017.0,0.56,6,61.41,78.72,15.2,-86.2419
+Honduras,,1/14/2020,Possible light rain until evening.,rain,0.66,0.0153,0.0458,0.74,rain,77.3,59.87,65.28,0.9,1016.9,0.59,7,62.3,77.3,15.2,-86.2419
+Honduras,,1/15/2020,Partly cloudy throughout the day.,rain,0.7,0.0044,0.0113,0.48,rain,77.67,60.74,63.22,0.87,1016.6,0.54,7,59.34,77.67,15.2,-86.2419
+Honduras,,1/16/2020,Possible light rain throughout the day.,rain,0.73,0.0222,0.0556,0.79,rain,73.63,62.33,65.61,0.95,1017.0,0.7,6,60.74,73.63,15.2,-86.2419
+Honduras,,1/17/2020,Possible light rain in the afternoon.,rain,0.77,0.009000000000000001,0.0274,0.66,rain,76.81,61.11,66.18,0.92,1016.7,0.64,6,62.33,76.81,15.2,-86.2419
+Honduras,,1/18/2020,Possible light rain in the morning and afternoon.,rain,0.81,0.0084,0.0304,0.75,rain,75.34,59.21,65.05,0.93,1016.5,0.59,6,61.11,75.34,15.2,-86.2419
+Honduras,,1/19/2020,Possible light rain starting in the afternoon.,rain,0.84,0.0163,0.0577,0.77,rain,75.04,62.82,65.17,0.94,1016.5,0.7,6,59.21,75.04,15.2,-86.2419
+Honduras,,1/20/2020,Possible light rain throughout the day.,rain,0.88,0.0113,0.03,0.75,rain,71.62,62.73,65.81,0.98,1018.4,0.86,6,62.82,71.62,15.2,-86.2419
+Honduras,,1/21/2020,Light rain until evening.,rain,0.91,0.0258,0.0731,0.88,rain,67.62,58.25,63.52,0.99,1019.3,0.94,6,59.52,67.62,15.2,-86.2419
+Honduras,,1/22/2020,Possible drizzle in the morning.,rain,0.94,0.009000000000000001,0.0157,0.56,rain,65.61,54.13,60.85,0.98,1018.2,0.87,6,58.25,65.61,15.2,-86.2419
+Honduras,,1/23/2020,Partly cloudy throughout the day.,rain,0.97,0.0051,0.0155,0.28,rain,76.52,61.94,61.45,0.89,1015.3,0.6,8,54.13,76.52,15.2,-86.2419
+Honduras,,1/24/2020,Mostly cloudy throughout the day.,rain,0.01,0.004,0.0096,0.41,rain,76.45,57.61,63.46,0.88,1016.7,0.7,7,61.94,76.45,15.2,-86.2419
+Honduras,,1/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0004,0.0017,0.17,rain,74.74,52.92,60.21,0.86,1018.5,0.55,9,57.61,74.74,15.2,-86.2419
+Honduras,,1/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0002,0.0005,0.1,rain,78.21,55.31,58.51,0.8,1018.0,0.37,10,52.92,78.21,15.2,-86.2419
+Honduras,,1/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.1,0.0023,0.0165,0.2,rain,80.4,58.37,60.66,0.8,1016.0,0.39,10,55.31,80.4,15.2,-86.2419
+Honduras,,1/28/2020,Partly cloudy throughout the day.,rain,0.13,0.0058,0.0319,0.27,rain,82.37,60.27,63.29,0.81,1013.8,0.37,9,58.37,82.37,15.2,-86.2419
+Honduras,,1/29/2020,Possible light rain in the afternoon.,rain,0.16,0.019,0.08900000000000001,0.51,rain,80.51,62.01,65.61,0.86,1013.6,0.46,8,60.27,80.51,15.2,-86.2419
+Honduras,,1/30/2020,Possible light rain in the afternoon.,rain,0.19,0.0173,0.069,0.56,rain,79.8,57.52,66.4,0.88,1013.8,0.52,7,62.01,79.8,15.2,-86.2419
+Honduras,,1/31/2020,Clear throughout the day.,clear-day,0.22,0.0003,0.0011,0.09,rain,84.59,58.6,60.23,0.74,1014.6,0.27,10,57.52,84.59,15.2,-86.2419
+Honduras,,2/1/2020,Possible light rain overnight.,rain,0.25,0.0077,0.0307,0.41,rain,82.16,63.93,64.1,0.85,1017.1,0.54,8,58.6,82.16,15.2,-86.2419
+Honduras,,2/2/2020,Light rain throughout the day.,rain,0.28,0.0312,0.0711,0.91,rain,70.86,63.09,66.8,0.99,1019.0,0.91,6,63.93,70.86,15.2,-86.2419
+Honduras,,2/3/2020,Possible light rain in the morning.,rain,0.32,0.0132,0.0456,0.78,rain,75.14,59.28,66.46,0.96,1017.3,0.83,6,63.09,75.14,15.2,-86.2419
+Honduras,,2/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.0005,0.0024,0.2,rain,79.86,59.96,62.28,0.82,1016.0,0.49,8,59.28,79.86,15.2,-86.2419
+Honduras,,2/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.0003,0.0015,0.13,rain,82.1,60.5,62.93,0.81,1013.1,0.38,8,59.96,82.1,15.2,-86.2419
+Honduras,,2/6/2020,Clear throughout the day.,clear-day,0.42,0.0002,0.0006,0.08,rain,85.1,57.65,61.14,0.73,1011.2,0.28,11,60.5,85.1,15.2,-86.2419
+Honduras,,2/7/2020,Possible light rain overnight.,rain,0.46,0.0096,0.0535,0.35,rain,83.4,62.71,62.9,0.78,1013.8,0.39,10,57.65,83.4,15.2,-86.2419
+Honduras,,2/8/2020,Clear throughout the day.,rain,0.49,0.0035,0.0102,0.41,rain,82.21,58.07,63.59,0.8,1017.5,0.4,10,62.71,82.21,15.2,-86.2419
+Honduras,,2/9/2020,Partly cloudy throughout the day.,rain,0.53,0.006,0.0315,0.34,rain,80.39,60.13,61.9,0.82,1018.1,0.52,10,58.07,80.39,15.2,-86.2419
+Honduras,,2/10/2020,Partly cloudy throughout the day.,rain,0.57,0.0034,0.0341,0.37,rain,80.56,60.72,62.44,0.81,1015.9,0.51,8,60.13,80.56,15.2,-86.2419
+Honduras,,2/11/2020,Clear throughout the day.,rain,0.61,0.0019,0.0057,0.32,rain,81.08,59.69,62.03,0.8,1015.2,0.28,9,60.72,81.08,15.2,-86.2419
+Honduras,,2/12/2020,Clear throughout the day.,clear-day,0.65,0.0004,0.0012,0.13,rain,81.79,61.03,60.63,0.75,1014.0,0.26,10,59.69,81.79,15.2,-86.2419
+Honduras,,2/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0011,0.0053,0.18,rain,83.31,59.75,61.0,0.75,1013.9,0.49,9,61.03,83.31,15.2,-86.2419
+Honduras,,2/14/2020,Partly cloudy throughout the day.,rain,0.72,0.004,0.0195,0.3,rain,80.71,63.95,62.42,0.8,1016.5,0.43,9,59.75,80.71,15.2,-86.2419
+Honduras,,2/15/2020,Possible light rain in the morning.,rain,0.76,0.0118,0.0374,0.56,rain,76.9,59.54,64.92,0.86,1017.0,0.6,9,63.95,76.9,15.2,-86.2419
+Honduras,,2/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.79,0.002,0.0066,0.19,rain,80.72,58.74,61.14,0.79,1015.7,0.54,11,59.54,80.72,15.2,-86.2419
+Honduras,,2/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.82,0.0015,0.005,0.21,rain,80.63,59.36,62.47,0.81,1014.4,0.51,9,58.74,80.63,15.2,-86.2419
+Honduras,,2/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.86,0.0012,0.0053,0.19,rain,83.79,62.26,62.21,0.77,1014.6,0.34,10,59.36,83.79,15.2,-86.2419
+Honduras,,2/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.89,0.002,0.01,0.16,rain,84.48,59.47,63.8,0.77,1016.3,0.49,11,62.26,84.48,15.2,-86.2419
+Honduras,,2/20/2020,Mostly cloudy throughout the day.,rain,0.92,0.009000000000000001,0.0379,0.4,rain,80.83,63.97,64.9,0.86,1016.6,0.62,8,59.47,80.83,15.2,-86.2419
+Honduras,,2/21/2020,Foggy in the morning.,rain,0.95,0.0106,0.0518,0.47,rain,75.26,62.37,64.98,0.9,1019.2,0.84,6,63.8,75.26,15.2,-86.2419
+Honduras,,2/22/2020,Possible light rain overnight.,rain,0.98,0.0123,0.0266,0.58,rain,75.17,62.99,64.74,0.92,1019.3,0.78,8,62.37,75.17,15.2,-86.2419
+Honduras,,2/23/2020,Mostly cloudy throughout the day.,rain,0.01,0.0094,0.0364,0.49,rain,72.61,51.37,62.27,0.91,1017.6,0.74,7,56.34,72.61,15.2,-86.2419
+Honduras,,2/24/2020,Clear throughout the day.,clear-day,0.05,0.0002,0.0003,0.08,rain,84.7,58.69,56.48,0.72,1014.2,0.22,12,51.37,84.7,15.2,-86.2419
+Honduras,,2/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.08,0.0002,0.0003,0.1,rain,86.51,60.27,60.65,0.71,1012.3,0.35,10,58.69,86.51,15.2,-86.2419
+Honduras,,2/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.11,0.0046,0.0209,0.17,rain,88.28,61.79,63.43,0.75,1013.5,0.4,10,60.27,88.28,15.2,-86.2419
+Honduras,,2/27/2020,Light rain starting in the afternoon.,rain,0.14,0.0324,0.0843,0.84,rain,76.75,62.93,65.88,0.95,1017.7,0.81,7,61.79,76.75,15.2,-86.2419
+Honduras,,2/28/2020,Rain throughout the day.,rain,0.17,0.1081,0.2376,0.96,rain,69.32,61.47,64.16,1.0,1019.7,1.0,6,61.82,69.32,15.2,-86.2419
+Honduras,,2/29/2020,Light rain throughout the day.,rain,0.2,0.0403,0.0667,0.95,rain,66.72,61.22,63.83,1.0,1021.1,0.98,6,61.47,66.72,15.2,-86.2419
+Honduras,,3/1/2020,Overcast throughout the day.,rain,0.23,0.0081,0.0277,0.62,rain,74.77,59.25,64.68,0.95,1018.7,0.88,6,61.22,74.77,15.2,-86.2419
+Honduras,,3/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.26,0.0041,0.0238,0.23,rain,81.05,62.21,65.35,0.88,1015.2,0.5,9,59.25,81.05,15.2,-86.2419
+Honduras,,3/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.29,0.0002,0.0004,0.11,rain,83.84,58.55,63.22,0.77,1013.9,0.37,10,62.21,83.84,15.2,-86.2419
+Honduras,,3/4/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0004,0.06,rain,85.14,59.07,61.36,0.74,1013.6,0.27,11,58.55,85.14,15.2,-86.2419
+Honduras,,3/5/2020,Clear throughout the day.,clear-day,0.36,0.0001,0.0004,0.05,rain,88.41,60.42,61.14,0.73,1015.2,0.25,12,59.07,88.41,15.2,-86.2419
+Honduras,,3/6/2020,Mostly cloudy throughout the day.,rain,0.4,0.0089,0.0376,0.32,rain,81.16,61.75,64.53,0.85,1018.5,0.57,8,60.42,81.16,15.2,-86.2419
+Honduras,,3/7/2020,Possible drizzle overnight.,rain,0.44,0.0071,0.0283,0.44,rain,75.77,61.97,63.75,0.89,1019.1,0.82,7,61.75,75.77,15.2,-86.2419
+Honduras,,3/8/2020,Light rain throughout the day.,rain,0.48,0.0194,0.0406,0.84,rain,73.65,63.83,65.82,0.95,1018.2,0.85,7,61.97,73.65,15.2,-86.2419
+Honduras,,3/9/2020,Possible light rain until evening.,rain,0.52,0.0206,0.0319,0.79,rain,72.56,63.24,67.38,0.99,1018.9,0.78,7,63.83,72.56,15.2,-86.2419
+Honduras,,3/10/2020,"Possible light rain until afternoon, starting again overnight.",rain,0.55,0.0146,0.0354,0.65,rain,72.96,61.52,67.3,0.99,1018.9,0.75,7,63.24,72.96,15.2,-86.2419
+Honduras,,3/11/2020,Foggy in the morning.,rain,0.59,0.0056,0.0226,0.41,rain,75.54,59.14,64.84,0.92,1017.3,0.8,7,61.52,75.54,15.2,-86.2419
+Honduras,,3/12/2020,Possible light rain in the afternoon.,rain,0.63,0.0141,0.0806,0.45,rain,74.54,58.26,64.15,0.92,1014.9,0.82,6,59.14,74.54,15.2,-86.2419
+Honduras,,3/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.67,0.0012,0.0057,0.18,rain,82.09,61.15,62.02,0.8,1016.1,0.47,10,58.26,82.09,15.2,-86.2419
+Honduras,,3/14/2020,Partly cloudy throughout the day.,rain,0.71,0.0013,0.0036,0.26,rain,83.19,60.27,63.14,0.8,1017.7,0.49,9,61.15,83.19,15.2,-86.2419
+Honduras,,3/15/2020,Mostly cloudy throughout the day.,rain,0.74,0.0059,0.0418,0.37,rain,82.29,57.78,63.33,0.81,1018.2,0.61,9,60.27,82.29,15.2,-86.2419
+Honduras,,3/16/2020,Mostly cloudy throughout the day.,rain,0.77,0.006999999999999999,0.0328,0.3,rain,80.85,58.84,63.91,0.86,1017.5,0.72,9,57.78,80.85,15.2,-86.2419
+Honduras,,3/17/2020,Partly cloudy throughout the day.,rain,0.81,0.0049,0.0161,0.39,rain,82.02,60.98,63.04,0.82,1017.4,0.58,11,58.84,82.02,15.2,-86.2419
+Honduras,,3/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0046,0.0246,0.24,rain,82.05,59.57,64.38,0.84,1017.3,0.59,10,60.98,82.05,15.2,-86.2419
+Honduras,,3/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0009,0.004,0.11,rain,83.17,59.75,62.26,0.78,1017.9,0.46,10,59.57,83.17,15.2,-86.2419
+Honduras,,3/20/2020,Partly cloudy throughout the day.,rain,0.9,0.0025,0.0146,0.27,rain,85.38,59.57,61.54,0.75,1018.4,0.37,12,59.75,85.38,15.2,-86.2419
+Honduras,,3/21/2020,Possible light rain in the evening.,rain,0.93,0.0106,0.0353,0.6,rain,79.8,61.49,64.13,0.85,1018.0,0.53,10,59.57,79.8,15.2,-86.2419
+Honduras,,3/22/2020,Possible light rain in the afternoon.,rain,0.96,0.0081,0.0353,0.62,rain,78.56,60.93,65.66,0.9,1017.4,0.68,8,61.49,78.56,15.2,-86.2419
+Honduras,,3/23/2020,Partly cloudy throughout the day.,rain,0.99,0.009000000000000001,0.0352,0.56,rain,80.97,60.04,64.11,0.84,1018.5,0.59,11,60.93,80.97,15.2,-86.2419
+Honduras,,3/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.02,0.0002,0.0005,0.14,rain,83.43,60.29,62.15,0.76,1017.1,0.42,12,60.04,83.43,15.2,-86.2419
+Honduras,,3/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.05,0.0035,0.0165,0.21,rain,86.53,62.69,62.66,0.74,1014.9,0.41,12,60.29,86.53,15.2,-86.2419
+Honduras,,3/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.08,0.0004,0.0014,0.15,rain,86.44,62.55,63.31,0.74,1014.2,0.39,11,62.69,86.44,15.2,-86.2419
+Honduras,,3/27/2020,Clear throughout the day.,clear-day,0.11,0.0003,0.0032,0.12,rain,87.59,62.64,61.54,0.69,1013.0,0.26,13,62.55,87.59,15.2,-86.2419
+Honduras,,3/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.14,0.0008,0.0046,0.2,rain,87.92,60.84,61.6,0.7,1013.0,0.36,13,62.64,87.92,15.2,-86.2419
+Honduras,,3/29/2020,Clear throughout the day.,clear-day,0.18,0.002,0.0203,0.14,rain,87.01,61.38,59.58,0.68,1014.2,0.27,13,60.84,87.01,15.2,-86.2419
+Honduras,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0018,0.0096,0.22,rain,85.05,61.02,62.19,0.74,1014.7,0.44,11,61.38,85.05,15.2,-86.2419
+Honduras,,3/31/2020,Clear throughout the day.,clear-day,0.24,0.0039,0.0241,0.13,rain,88.21,62.45,61.85,0.7,1013.0,0.24,13,61.02,88.21,15.2,-86.2419
+Honduras,,4/1/2020,Partly cloudy throughout the day.,rain,0.27,0.012,0.0463,0.39,rain,83.69,61.99,65.78,0.8,1012.5,0.45,10,62.45,83.69,15.2,-86.2419
+Honduras,,4/2/2020,Clear throughout the day.,clear-day,0.31,0.0007,0.0046,0.13,rain,86.9,60.1,62.74,0.71,1013.3,0.26,12,61.99,86.9,15.2,-86.2419
+Honduras,,4/3/2020,Partly cloudy throughout the day.,clear-day,0.35,0.0089,0.0645,0.12,rain,87.34,60.51,63.64,0.74,1012.5,0.27,12,60.1,87.34,15.2,-86.2419
+Honduras,,4/4/2020,Partly cloudy throughout the day.,clear-day,0.38,0.0024,0.0178,0.07,rain,88.1,60.27,63.9,0.73,1011.9,0.26,10,60.51,88.1,15.2,-86.2419
+Honduras,,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0007,0.0041,0.07,rain,89.43,60.11,63.14,0.71,1013.0,0.35,11,60.27,89.43,15.2,-86.2419
+Honduras,,4/6/2020,Clear throughout the day.,clear-day,0.46,0.0006,0.0041,0.05,rain,91.48,59.17,61.24,0.68,1015.0,0.15,13,60.11,91.48,15.2,-86.2419
+Honduras,,4/7/2020,Clear throughout the day.,clear-day,0.5,0.0009,0.0058,0.05,rain,89.95,60.87,62.28,0.69,1016.1,0.31,13,59.17,89.95,15.2,-86.2419
+Honduras,,4/8/2020,Clear throughout the day.,clear-day,0.54,0.0004,0.0009,0.07,rain,90.08,60.99,63.41,0.7,1014.5,0.3,13,60.87,90.08,15.2,-86.2419
+Honduras,,4/9/2020,Clear throughout the day.,clear-day,0.58,0.0004,0.0018,0.07,rain,93.6,62.49,61.8,0.66,1013.4,0.29,14,60.99,93.6,15.2,-86.2419
+Honduras,,4/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0004,0.0021,0.07,rain,94.37,62.27,60.63,0.61,1012.4,0.39,11,62.49,94.37,15.2,-86.2419
+Honduras,,4/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0002,0.0004,0.08,rain,93.38,63.16,59.85,0.61,1012.9,0.48,11,62.27,93.38,15.2,-86.2419
+Honduras,,4/12/2020,Clear throughout the day.,partly-cloudy-day,0.69,0.0001,0.0004,0.05,rain,92.28,64.67,61.18,0.62,1013.7,0.33,14,63.16,92.28,15.2,-86.2419
+Honduras,,4/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.0023,0.0124,0.12,rain,92.17,66.5,64.02,0.65,1014.2,0.54,12,64.67,92.17,15.2,-86.2419
+Honduras,,4/14/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0005,0.09,rain,92.71,61.35,60.19,0.59,1014.1,0.3,14,66.5,92.71,15.2,-86.2419
+Honduras,,4/15/2020,Partly cloudy throughout the day.,clear-day,0.79,0.0002,0.0003,0.07,rain,92.66,60.5,60.16,0.63,1013.8,0.28,14,61.35,92.66,15.2,-86.2419
+Honduras,,4/16/2020,Clear throughout the day.,clear-day,0.82,0.0001,0.0002,0.05,rain,91.97,61.2,57.37,0.59,1015.7,0.15,13,60.5,91.97,15.2,-86.2419
+Honduras,,4/17/2020,Clear throughout the day.,clear-day,0.85,0.0001,0.0003,0.06,rain,89.58,60.27,59.57,0.62,1016.7,0.24,12,61.2,89.58,15.2,-86.2419
+Honduras,,4/18/2020,Clear throughout the day.,clear-day,0.88,0.0002,0.004,0.07,rain,90.06,63.13,60.19,0.65,1015.9,0.25,13,60.27,90.06,15.2,-86.2419
+Honduras,,4/19/2020,Clear throughout the day.,clear-day,0.91,0.0002,0.0009,0.1,rain,90.55,62.6,60.09,0.63,1013.9,0.23,13,63.13,90.55,15.2,-86.2419
+Honduras,,4/20/2020,Partly cloudy throughout the day.,clear-day,0.94,0.0005,0.0037,0.09,rain,93.07,64.54,62.47,0.64,1012.2,0.28,13,62.6,93.07,15.2,-86.2419

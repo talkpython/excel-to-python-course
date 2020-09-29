@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Norway,,12/31/2019,Overcast throughout the day.,cloudy,0.21,0.0001,0.0002,0.08,snow,35.84,32.38,23.69,0.69,1015.8,0.88,0,29.45,35.84,60.472,8.4689
+Norway,,1/1/2020,Windy starting in the afternoon.,wind,0.24,0.0001,0.0006,0.14,rain,39.14,27.91,27.32,0.71,1003.6,0.93,0,32.35,39.25,60.472,8.4689
+Norway,,1/2/2020,Dangerously windy throughout the day.,rain,0.27,0.0029,0.0115,0.31,rain,30.31,19.05,21.34,0.72,993.6,0.29,0,21.34,38.77,60.472,8.4689
+Norway,,1/3/2020,Clear throughout the day.,clear-day,0.3,0.0002,0.0006,0.16,snow,24.69,14.17,11.3,0.66,1009.8,0.03,0,14.44,24.71,60.472,8.4689
+Norway,,1/4/2020,Overcast throughout the day.,partly-cloudy-day,0.33,0.0021,0.0074,0.23,snow,38.66,33.33,21.93,0.79,1018.1,0.86,0,14.22,38.66,60.472,8.4689
+Norway,,1/5/2020,Overcast throughout the day.,cloudy,0.36,0.0001,0.0007,0.17,rain,41.31,28.17,31.75,0.83,1010.9,0.89,0,33.95,41.31,60.472,8.4689
+Norway,,1/6/2020,Possible light rain in the evening and overnight.,rain,0.4,0.0027,0.0243,0.47,rain,35.63,33.02,25.97,0.77,1004.2,0.8,0,28.09,40.69,60.472,8.4689
+Norway,,1/7/2020,Possible light rain in the morning.,rain,0.43,0.006,0.0195,0.66,rain,36.08,23.48,26.53,0.77,996.6,0.41,0,28.78,41.75,60.472,8.4689
+Norway,,1/8/2020,Overcast throughout the day.,wind,0.47,0.0043,0.021,0.14,snow,25.3,12.57,17.61,0.73,1006.9,0.66,0,21.43,30.58,60.472,8.4689
+Norway,,1/9/2020,Clear throughout the day.,partly-cloudy-day,0.5,0.0003,0.0035,0.04,snow,19.72,13.81,5.08,0.63,1016.0,0.57,0,12.54,21.95,60.472,8.4689
+Norway,,1/10/2020,Possible light rain in the afternoon and evening.,rain,0.54,0.0048,0.0179,0.5,rain,41.71,28.3,24.17,0.71,1003.7,0.87,0,14.57,41.71,60.472,8.4689
+Norway,,1/11/2020,Foggy in the morning.,rain,0.57,0.0021,0.0068,0.39,rain,30.36,21.42,21.36,0.74,1000.5,0.44,0,24.75,35.16,60.472,8.4689
+Norway,,1/12/2020,Windy and foggy overnight.,partly-cloudy-day,0.61,0.0001,0.0011,0.06,snow,31.35,23.42,17.48,0.72,1004.3,0.45,0,21.42,31.35,60.472,8.4689
+Norway,,1/13/2020,Dangerously windy in the morning.,snow,0.65,0.0045,0.023,0.38,snow,34.96,25.69,23.56,0.76,987.9,0.67,0,24.48,34.96,60.472,8.4689
+Norway,,1/14/2020,"Foggy until morning, starting again in the evening.",snow,0.69,0.0038,0.0308,0.38,snow,34.58,29.23,23.05,0.77,988.3,0.57,0,25.5,34.58,60.472,8.4689
+Norway,,1/15/2020,Windy in the morning.,wind,0.72,0.0005,0.0044,0.17,snow,37.48,23.26,24.27,0.74,1005.2,0.41,0,23.26,37.48,60.472,8.4689
+Norway,,1/16/2020,"Foggy until morning, starting again in the evening.",snow,0.76,0.0036,0.0132,0.46,snow,41.07,26.83,29.63,0.84,1007.2,1.0,0,25.46,41.07,60.472,8.4689
+Norway,,1/17/2020,Foggy in the morning.,snow,0.8,0.0054,0.0322,0.33,snow,33.75,23.05,24.05,0.81,1005.6,0.74,0,26.83,33.75,60.472,8.4689
+Norway,,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0006,0.0036,0.09,snow,25.57,24.58,17.72,0.74,1028.5,0.41,0,21.29,28.98,60.472,8.4689
+Norway,,1/19/2020,Dangerously windy in the evening and overnight.,wind,0.87,0.0005,0.0032,0.23,snow,43.59,33.49,32.09,0.81,1028.6,0.93,0,28.04,43.59,60.472,8.4689
+Norway,,1/20/2020,Windy in the morning and overnight.,rain,0.9,0.0026,0.0169,0.36,rain,36.26,24.66,25.83,0.73,1021.6,0.32,0,29.27,41.23,60.472,8.4689
+Norway,,1/21/2020,Windy in the morning.,wind,0.93,0.0001,0.0005,0.03,snow,27.86,23.66,16.61,0.66,1027.5,0.34,0,23.59,31.27,60.472,8.4689
+Norway,,1/22/2020,Windy overnight.,partly-cloudy-day,0.97,0.0002,0.001,0.12,snow,38.93,29.39,28.43,0.77,1016.7,0.69,0,26.51,38.93,60.472,8.4689
+Norway,,1/23/2020,Windy in the morning and afternoon.,wind,1.0,0.0001,0.0003,0.09,rain,30.97,26.06,22.23,0.72,1007.4,0.19,0,27.23,35.8,60.472,8.4689
+Norway,,1/24/2020,Overcast throughout the day.,cloudy,0.03,0.0001,0.0003,0.08,snow,36.59,28.35,23.86,0.74,1007.4,0.91,0,26.06,39.06,60.472,8.4689
+Norway,,1/25/2020,Overcast throughout the day.,cloudy,0.06,0.0001,0.0003,0.2,rain,36.74,28.15,25.44,0.78,1004.0,0.96,0,28.15,36.74,60.472,8.4689
+Norway,,1/26/2020,Possible light rain in the morning and afternoon.,rain,0.09,0.0052,0.0271,0.54,rain,36.74,14.8,27.23,0.81,995.9,0.98,0,26.97,36.82,60.472,8.4689
+Norway,,1/27/2020,Foggy throughout the day.,snow,0.12,0.0029,0.0112,0.26,snow,23.76,22.77,15.61,0.81,991.1,0.97,0,13.63,26.64,60.472,8.4689
+Norway,,1/28/2020,Foggy in the morning and afternoon.,snow,0.15,0.0073,0.0172,0.31,snow,31.0,10.22,20.51,0.83,989.0,0.94,0,17.02,31.0,60.472,8.4689
+Norway,,1/29/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.18,0.0041,0.0205,0.18,snow,24.35,15.38,10.44,0.75,993.6,0.48,0,10.22,24.35,60.472,8.4689
+Norway,,1/30/2020,Foggy in the morning and overnight.,partly-cloudy-day,0.21,0.0021,0.0117,0.21,snow,33.41,27.45,18.12,0.8,989.4,0.82,0,15.38,33.41,60.472,8.4689
+Norway,,1/31/2020,Clear throughout the day.,snow,0.24,0.0018,0.0141,0.31,snow,38.68,21.25,27.42,0.79,979.9,0.5,0,24.54,38.68,60.472,8.4689
+Norway,,2/1/2020,Clear throughout the day.,clear-day,0.27,0.0,0.0002,0.07,,28.1,6.59,13.79,0.71,994.2,0.09,0,13.68,28.1,60.472,8.4689
+Norway,,2/2/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.31,0.0047,0.0262,0.23,snow,19.75,10.86,5.07,0.71,1000.7,0.63,0,6.59,19.75,60.472,8.4689
+Norway,,2/3/2020,Foggy in the morning.,partly-cloudy-day,0.34,0.0008,0.0063,0.19,snow,24.54,15.0,8.63,0.73,1008.5,0.52,0,10.44,24.54,60.472,8.4689
+Norway,,2/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0004,0.22,snow,38.71,30.37,19.51,0.74,1018.4,0.48,0,15.0,38.71,60.472,8.4689
+Norway,,2/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0001,0.0003,0.05,snow,42.13,24.55,28.99,0.79,1020.2,0.48,0,30.37,42.13,60.472,8.4689
+Norway,,2/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.0001,0.0003,0.04,rain,39.49,16.03,20.23,0.7,1023.8,0.36,0,22.86,39.49,60.472,8.4689
+Norway,,2/7/2020,Foggy in the afternoon.,partly-cloudy-day,0.48,0.0005,0.0016,0.23,snow,37.09,24.82,20.56,0.8,1010.7,0.6,0,16.03,37.09,60.472,8.4689
+Norway,,2/8/2020,Possible drizzle in the afternoon.,snow,0.52,0.0046,0.0155,0.49,snow,36.96,30.45,26.5,0.78,976.7,0.87,1,24.82,36.96,60.472,8.4689
+Norway,,2/9/2020,Overcast throughout the day.,rain,0.56,0.0003,0.001,0.27,rain,31.81,19.87,23.22,0.74,960.2,0.82,0,23.29,36.49,60.472,8.4689
+Norway,,2/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.6,0.0001,0.0002,0.05,snow,32.08,21.64,17.75,0.73,970.6,0.55,0,19.87,32.08,60.472,8.4689
+Norway,,2/11/2020,Clear throughout the day.,partly-cloudy-day,0.64,0.0001,0.0003,0.13,snow,32.04,17.15,17.13,0.71,982.2,0.41,1,20.59,32.04,60.472,8.4689
+Norway,,2/12/2020,Clear throughout the day.,partly-cloudy-day,0.67,0.0001,0.0004,0.08,snow,26.59,10.24,11.42,0.7,1000.9,0.48,1,14.19,26.59,60.472,8.4689
+Norway,,2/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0004,0.0031,0.09,snow,28.04,19.2,10.98,0.74,1011.2,0.61,1,10.24,28.04,60.472,8.4689
+Norway,,2/14/2020,Possible light rain and dangerously windy overnight.,snow,0.75,0.0029,0.0161,0.34,snow,32.56,28.55,23.57,0.79,1001.6,0.81,1,24.01,34.55,60.472,8.4689
+Norway,,2/15/2020,Light rain in the morning and afternoon.,rain,0.78,0.0105,0.0317,0.77,rain,38.2,27.19,26.7,0.75,974.7,0.75,1,28.13,38.41,60.472,8.4689
+Norway,,2/16/2020,Possible light rain in the afternoon and evening.,rain,0.81,0.0087,0.0287,0.55,rain,40.29,28.75,26.5,0.74,975.8,0.44,0,27.19,40.29,60.472,8.4689
+Norway,,2/17/2020,Clear throughout the day.,rain,0.85,0.0007,0.0022,0.33,rain,35.27,17.05,23.61,0.74,990.9,0.16,0,24.69,35.27,60.472,8.4689
+Norway,,2/18/2020,Clear throughout the day.,clear-day,0.88,0.0,0.0001,0.03,,33.13,12.07,15.68,0.76,1001.6,0.07,1,13.18,33.13,60.472,8.4689
+Norway,,2/19/2020,Possible light snow (1–2 in.) in the afternoon and evening.,snow,0.91,0.0071,0.0248,0.56,snow,37.86,20.88,20.61,0.79,995.7,0.93,1,12.07,37.86,60.472,8.4689
+Norway,,2/20/2020,Possible light rain in the evening and overnight.,rain,0.94,0.0044,0.0253,0.57,rain,39.36,32.13,23.47,0.75,991.7,0.46,1,20.88,39.36,60.472,8.4689
+Norway,,2/21/2020,Possible light rain (with a chance of 1–2 in. of snow) in the morning.,rain,0.97,0.0169,0.0644,0.65,rain,34.21,22.32,25.44,0.76,979.9,0.75,1,27.63,37.72,60.472,8.4689
+Norway,,2/22/2020,Clear throughout the day.,clear-day,0.01,0.0008,0.0132,0.2,snow,31.12,16.67,17.22,0.69,990.8,0.1,1,18.65,31.12,60.472,8.4689
+Norway,,2/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0001,0.0004,0.04,snow,32.59,9.94,13.38,0.72,1004.7,0.4,1,10.95,32.59,60.472,8.4689
+Norway,,2/24/2020,Foggy starting in the afternoon.,snow,0.07,0.0024,0.0053,0.27,snow,26.47,9.72,11.81,0.76,995.6,1.0,1,9.94,26.47,60.472,8.4689
+Norway,,2/25/2020,Foggy overnight.,cloudy,0.1,0.0005,0.0045,0.11,snow,22.65,7.14,7.86,0.74,997.9,0.96,1,7.33,22.65,60.472,8.4689
+Norway,,2/26/2020,Foggy in the morning and afternoon.,snow,0.13,0.0016,0.0066,0.26,snow,24.19,5.76,8.1,0.76,999.0,0.99,1,7.14,24.19,60.472,8.4689
+Norway,,2/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0001,0.0003,0.07,snow,32.76,12.88,9.52,0.72,1000.6,0.42,1,5.76,32.76,60.472,8.4689
+Norway,,2/28/2020,Snow (6–9 in.) overnight.,snow,0.19,0.0181,0.0443,0.38,snow,25.42,19.01,13.86,0.79,994.1,0.98,1,12.88,25.42,60.472,8.4689
+Norway,,2/29/2020,Foggy throughout the day.,snow,0.22,0.0153,0.0359,0.5,snow,28.78,18.57,18.14,0.82,978.3,1.0,1,19.01,28.78,60.472,8.4689
+Norway,,3/1/2020,Foggy in the evening and overnight.,snow,0.25,0.0029,0.0133,0.41,snow,38.02,21.6,21.24,0.81,985.6,0.96,1,18.57,38.02,60.472,8.4689
+Norway,,3/2/2020,Foggy throughout the day.,snow,0.28,0.0059,0.0125,0.46,snow,33.95,21.75,21.9,0.82,1002.2,1.0,1,21.6,33.95,60.472,8.4689
+Norway,,3/3/2020,Foggy until evening.,snow,0.32,0.0088,0.0192,0.44,snow,31.52,12.82,19.48,0.8,1005.1,0.96,1,19.21,31.52,60.472,8.4689
+Norway,,3/4/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0004,0.03,snow,33.8,8.35,13.85,0.76,1001.9,0.17,1,11.98,33.8,60.472,8.4689
+Norway,,3/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.39,0.0,0.0002,0.03,,33.93,8.7,9.03,0.67,1005.8,0.71,1,8.35,33.93,60.472,8.4689
+Norway,,3/6/2020,Foggy overnight.,partly-cloudy-day,0.43,0.0016,0.0075,0.09,snow,33.24,25.36,12.78,0.71,1008.5,0.67,1,8.7,33.24,60.472,8.4689
+Norway,,3/7/2020,Possible drizzle in the afternoon.,snow,0.47,0.0022,0.0066,0.52,snow,37.86,25.22,29.07,0.83,993.5,0.96,1,25.67,37.86,60.472,8.4689
+Norway,,3/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.0002,0.0008,0.24,snow,40.61,19.74,23.52,0.77,1000.7,0.55,1,21.18,40.61,60.472,8.4689
+Norway,,3/9/2020,Possible light snow (1–2 in.) in the afternoon.,snow,0.54,0.0082,0.0205,0.5,snow,35.14,25.99,22.85,0.82,991.7,0.91,1,19.74,35.14,60.472,8.4689
+Norway,,3/10/2020,Foggy in the evening and overnight.,snow,0.58,0.0028,0.0243,0.31,snow,38.25,18.32,23.64,0.73,986.9,0.67,1,25.99,38.25,60.472,8.4689
+Norway,,3/11/2020,Foggy in the morning and overnight.,partly-cloudy-day,0.62,0.0003,0.0015,0.22,snow,34.51,18.71,18.61,0.72,984.3,0.41,1,18.32,34.51,60.472,8.4689
+Norway,,3/12/2020,Foggy in the morning.,partly-cloudy-day,0.66,0.0006,0.0054,0.12,snow,25.94,1.94,10.78,0.65,1005.3,0.47,1,9.11,25.94,60.472,8.4689
+Norway,,3/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0001,0.0002,0.05,snow,30.46,19.11,5.19,0.63,1017.8,0.6,1,1.94,30.46,60.472,8.4689
+Norway,,3/14/2020,Possible drizzle in the afternoon.,snow,0.73,0.0033,0.0088,0.51,snow,41.47,18.62,25.28,0.78,998.5,0.87,1,19.84,41.47,60.472,8.4689
+Norway,,3/15/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.76,0.001,0.004,0.14,snow,36.67,25.21,20.42,0.77,1010.6,0.75,1,18.62,36.67,60.472,8.4689
+Norway,,3/16/2020,Windy until evening.,wind,0.8,0.0003,0.001,0.23,snow,39.84,27.24,24.29,0.71,1008.2,0.24,2,25.21,39.84,60.472,8.4689
+Norway,,3/17/2020,Clear throughout the day.,clear-day,0.83,0.0004,0.0024,0.17,snow,35.63,21.12,21.82,0.71,1008.1,0.19,1,26.89,35.63,60.472,8.4689
+Norway,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0003,0.17,snow,41.12,10.82,20.67,0.72,1017.5,0.2,1,19.37,41.12,60.472,8.4689
+Norway,,3/19/2020,Clear throughout the day.,clear-day,0.89,0.0,0.0002,0.04,,36.67,5.94,12.57,0.7,1031.7,0.0,2,10.82,36.67,60.472,8.4689
+Norway,,3/20/2020,Clear throughout the day.,clear-day,0.92,0.0002,0.0004,0.11,snow,35.61,7.27,8.24,0.65,1038.4,0.11,2,5.94,35.61,60.472,8.4689
+Norway,,3/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.95,0.0001,0.0004,0.05,snow,33.1,18.09,10.31,0.67,1036.8,0.58,1,7.27,33.1,60.472,8.4689
+Norway,,3/22/2020,Overcast throughout the day.,cloudy,0.98,0.0001,0.0004,0.03,snow,39.46,24.53,14.68,0.6,1030.2,1.0,1,18.09,39.46,60.472,8.4689
+Norway,,3/23/2020,Windy overnight.,partly-cloudy-day,0.01,0.0001,0.0003,0.03,snow,41.66,30.27,17.1,0.53,1022.6,0.86,2,24.53,41.66,60.472,8.4689
+Norway,,3/24/2020,Dangerously windy in the morning and afternoon.,rain,0.04,0.0006,0.0026,0.27,rain,43.65,33.07,32.48,0.78,1019.7,0.92,2,31.04,43.65,60.472,8.4689
+Norway,,3/25/2020,Foggy until evening.,partly-cloudy-day,0.07,0.0002,0.0008,0.18,rain,44.42,27.35,32.15,0.8,1026.1,0.83,2,32.93,44.42,60.472,8.4689
+Norway,,3/26/2020,Foggy in the afternoon.,partly-cloudy-day,0.1,0.0001,0.0005,0.07,snow,40.23,20.45,25.34,0.77,1027.5,0.55,2,24.89,40.23,60.472,8.4689
+Norway,,3/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0002,0.0012,0.1,snow,32.6,8.1,13.06,0.61,1028.8,0.37,2,12.92,32.6,60.472,8.4689
+Norway,,3/28/2020,Clear throughout the day.,clear-day,0.17,0.0,0.0002,0.05,,31.98,18.99,8.99,0.63,1033.2,0.15,2,8.1,31.98,60.472,8.4689
+Norway,,3/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.2,0.0003,0.0009,0.11,snow,37.15,15.66,14.46,0.64,1029.1,0.68,2,18.0,37.15,60.472,8.4689
+Norway,,3/30/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.09,snow,40.58,27.6,20.22,0.73,1022.5,0.76,2,15.66,40.58,60.472,8.4689
+Norway,,3/31/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.26,0.0002,0.0011,0.2,snow,41.86,25.64,25.45,0.74,1004.9,0.71,2,27.6,41.86,60.472,8.4689
+Norway,,4/1/2020,Windy in the morning and afternoon.,snow,0.3,0.0067,0.0403,0.54,snow,33.11,18.15,19.09,0.7,984.7,0.33,2,23.97,33.11,60.472,8.4689
+Norway,,4/2/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0009,0.16,snow,30.6,16.77,12.55,0.63,998.3,0.05,3,18.15,30.6,60.472,8.4689
+Norway,,4/3/2020,Foggy overnight.,partly-cloudy-day,0.37,0.0004,0.003,0.15,snow,33.86,22.15,13.87,0.66,1016.0,0.41,3,16.77,33.86,60.472,8.4689
+Norway,,4/4/2020,Overcast throughout the day.,cloudy,0.41,0.0007,0.0031,0.19,snow,41.64,25.07,26.05,0.83,1024.3,0.92,3,22.15,41.64,60.472,8.4689
+Norway,,4/5/2020,Foggy in the afternoon and evening.,partly-cloudy-day,0.45,0.0001,0.0008,0.07,rain,45.17,32.64,27.6,0.76,1020.3,0.68,4,25.07,45.17,60.472,8.4689
+Norway,,4/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0,0.0003,0.05,,43.41,28.21,27.84,0.71,1023.2,0.6,3,31.54,43.41,60.472,8.4689
+Norway,,4/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0,0.0003,0.13,,44.32,23.18,27.71,0.73,1018.8,0.68,3,27.19,44.32,60.472,8.4689
+Norway,,4/8/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.11,snow,38.77,20.04,18.18,0.65,1021.8,0.08,4,21.47,38.77,60.472,8.4689
+Norway,,4/9/2020,Clear throughout the day.,partly-cloudy-day,0.6,0.0001,0.0004,0.07,snow,42.54,18.12,19.1,0.69,1026.6,0.42,4,20.04,42.54,60.472,8.4689
+Norway,,4/10/2020,Possible drizzle in the afternoon and evening.,snow,0.64,0.0049,0.0144,0.66,snow,37.67,34.52,23.97,0.79,1020.2,0.82,3,18.12,40.19,60.472,8.4689
+Norway,,4/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0005,0.0044,0.18,rain,42.3,19.08,27.14,0.73,1003.6,0.49,4,25.03,42.3,60.472,8.4689
+Norway,,4/12/2020,Clear throughout the day.,clear-day,0.71,0.0002,0.0006,0.2,snow,33.64,20.29,11.72,0.56,1015.0,0.21,4,19.08,33.64,60.472,8.4689
+Norway,,4/13/2020,Overcast throughout the day.,cloudy,0.74,0.0008,0.0048,0.15,snow,40.3,32.74,21.29,0.69,1016.1,0.92,3,20.29,40.3,60.472,8.4689
+Norway,,4/14/2020,Dangerously windy starting in the afternoon.,wind,0.78,0.0014,0.013000000000000001,0.21,rain,45.05,26.69,31.19,0.73,1004.9,0.52,3,33.28,45.05,60.472,8.4689
+Norway,,4/15/2020,Clear throughout the day.,wind,0.81,0.0002,0.0045,0.11,rain,39.76,18.62,20.16,0.6,1012.1,0.08,4,26.69,39.76,60.472,8.4689
+Norway,,4/16/2020,Partly cloudy throughout the day.,clear-day,0.84,0.0001,0.0003,0.05,snow,42.39,19.93,16.55,0.61,1022.7,0.26,4,18.62,42.39,60.472,8.4689
+Norway,,4/17/2020,Clear throughout the day.,clear-day,0.87,0.0001,0.0002,0.04,snow,45.85,24.28,18.7,0.6,1026.0,0.06,4,19.93,45.85,60.472,8.4689
+Norway,,4/18/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0003,0.01,snow,55.09,28.64,25.22,0.63,1028.8,0.03,4,24.28,55.09,60.472,8.4689
+Norway,,4/19/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0004,0.03,rain,58.3,29.19,28.71,0.63,1032.1,0.0,4,28.64,58.3,60.472,8.4689
+Norway,,4/20/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0004,0.04,rain,57.74,30.63,29.61,0.63,1035.1,0.0,4,29.19,57.74,60.472,8.4689

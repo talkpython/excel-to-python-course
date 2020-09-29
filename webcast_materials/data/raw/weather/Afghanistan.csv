@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Afghanistan,,12/31/2019,"Rain (with a chance of 1–3 in. of snow) until night, starting again in the afternoon.",rain,0.2,0.0156,0.1515,0.71,rain,48.36,32.13,23.88,0.6,1019.1,0.99,2,32.96,48.36,33.0,65.0
+Afghanistan,,1/1/2020,Light rain throughout the day.,rain,0.23,0.0235,0.0985,0.95,rain,40.42,28.9,33.61,0.9,1021.2,0.99,2,32.33,40.42,33.0,65.0
+Afghanistan,,1/2/2020,Clear throughout the day.,rain,0.26,0.0016,0.0062,0.25,rain,46.53,28.8,29.86,0.76,1022.7,0.22,3,28.9,46.53,33.0,65.0
+Afghanistan,,1/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0003,0.0012,0.14,rain,45.77,32.84,26.61,0.69,1021.9,0.32,3,28.8,45.77,33.0,65.0
+Afghanistan,,1/4/2020,Light rain throughout the day.,rain,0.33,0.0145,0.031,0.83,rain,40.84,37.25,33.14,0.88,1016.1,1.0,2,32.84,40.84,33.0,65.0
+Afghanistan,,1/5/2020,Light rain until afternoon.,rain,0.36,0.0196,0.0442,0.91,rain,44.54,28.1,34.56,0.85,1016.7,0.74,3,34.89,44.54,33.0,65.0
+Afghanistan,,1/6/2020,Clear throughout the day.,clear-day,0.39,0.0004,0.0051,0.12,rain,44.15,23.66,20.55,0.58,1022.7,0.15,3,28.1,44.15,33.0,65.0
+Afghanistan,,1/7/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0002,0.03,,44.69,26.65,10.64,0.41,1025.3,0.0,3,23.66,44.69,33.0,65.0
+Afghanistan,,1/8/2020,Clear throughout the day.,clear-day,0.46,0.0,0.0001,0.01,,48.08,24.53,6.56,0.31,1023.1,0.01,3,26.65,48.08,33.0,65.0
+Afghanistan,,1/9/2020,Clear throughout the day.,partly-cloudy-day,0.5,0.0001,0.0003,0.02,snow,45.21,30.78,7.94,0.34,1023.4,0.39,3,24.53,45.21,33.0,65.0
+Afghanistan,,1/10/2020,Possible light rain (with a chance of 1–2 in. of snow) throughout the day.,rain,0.53,0.0142,0.034,0.75,rain,40.02,31.64,27.14,0.76,1019.9,1.0,2,30.78,40.02,33.0,65.0
+Afghanistan,,1/11/2020,Snow (2–5 in.) throughout the day.,rain,0.57,0.0454,0.0954,0.88,rain,37.52,25.23,30.29,0.89,1013.7,0.99,2,28.38,37.52,33.0,65.0
+Afghanistan,,1/12/2020,"Foggy until morning, starting again in the evening.",snow,0.61,0.0019,0.0065,0.34,snow,34.74,20.15,22.14,0.78,1019.4,0.76,3,22.92,34.74,33.0,65.0
+Afghanistan,,1/13/2020,Overcast throughout the day.,cloudy,0.64,0.0,0.0,0.0,,35.45,23.12,14.7,0.6,1022.7,0.91,2,20.15,35.45,33.0,65.0
+Afghanistan,,1/14/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0001,0.03,,39.13,22.36,15.08,0.56,1025.7,0.17,3,23.12,39.13,33.0,65.0
+Afghanistan,,1/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0001,0.0002,0.03,snow,39.47,13.98,12.64,0.51,1026.9,0.46,3,22.36,39.47,33.0,65.0
+Afghanistan,,1/16/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0004,0.04,snow,36.85,21.4,10.69,0.55,1027.7,0.03,4,13.98,36.85,33.0,65.0
+Afghanistan,,1/17/2020,Clear throughout the day.,clear-day,0.79,0.0001,0.0002,0.03,snow,41.74,28.36,10.74,0.44,1027.1,0.16,4,21.4,41.74,33.0,65.0
+Afghanistan,,1/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0021,0.0084,0.22,rain,44.11,29.77,20.63,0.59,1022.7,0.78,3,28.47,44.11,33.0,65.0
+Afghanistan,,1/19/2020,Overcast throughout the day.,partly-cloudy-day,0.86,0.001,0.0059,0.24,snow,41.28,30.25,26.46,0.74,1019.7,0.82,3,29.77,41.28,33.0,65.0
+Afghanistan,,1/20/2020,Foggy throughout the day.,snow,0.89,0.002,0.0061,0.4,snow,40.31,26.96,27.23,0.77,1022.8,0.82,2,30.25,40.31,33.0,65.0
+Afghanistan,,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0003,0.0033,0.09,snow,43.99,28.13,23.09,0.66,1028.3,0.42,3,26.96,43.99,33.0,65.0
+Afghanistan,,1/22/2020,Rain overnight and in the evening.,rain,0.96,0.0051,0.0279,0.41,rain,44.49,33.14,24.17,0.64,1025.7,0.69,3,28.13,44.49,33.0,65.0
+Afghanistan,,1/23/2020,Rain (with a chance of 1–3 in. of snow) in the morning and afternoon.,rain,0.99,0.0364,0.1092,0.74,rain,41.56,29.6,32.5,0.86,1019.7,0.95,3,32.95,41.56,33.0,65.0
+Afghanistan,,1/24/2020,Clear throughout the day.,clear-day,0.02,0.0001,0.0018,0.11,rain,43.36,23.61,27.49,0.73,1021.8,0.12,4,27.93,43.36,33.0,65.0
+Afghanistan,,1/25/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0003,0.06,snow,44.21,25.69,22.38,0.67,1020.5,0.09,4,23.61,44.21,33.0,65.0
+Afghanistan,,1/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.09,0.0001,0.0004,0.07,snow,44.22,18.89,22.13,0.65,1019.5,0.38,4,25.34,44.22,33.0,65.0
+Afghanistan,,1/27/2020,Clear throughout the day.,clear-day,0.12,0.0,0.0,0.0,,43.57,18.55,12.41,0.5,1021.6,0.0,4,18.89,43.57,33.0,65.0
+Afghanistan,,1/28/2020,Clear throughout the day.,clear-day,0.15,0.0002,0.0003,0.03,snow,42.89,21.53,6.67,0.4,1025.1,0.0,4,18.55,42.89,33.0,65.0
+Afghanistan,,1/29/2020,Clear throughout the day.,clear-day,0.18,0.0001,0.0003,0.02,snow,45.14,24.28,9.93,0.42,1024.2,0.12,4,21.53,45.14,33.0,65.0
+Afghanistan,,1/30/2020,Clear throughout the day.,partly-cloudy-day,0.21,0.0001,0.0002,0.04,snow,43.93,23.94,16.01,0.52,1022.0,0.45,4,24.28,43.93,33.0,65.0
+Afghanistan,,1/31/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.02,snow,46.07,24.89,19.1,0.57,1024.2,0.0,4,23.94,46.07,33.0,65.0
+Afghanistan,,2/1/2020,Possible light rain overnight.,clear-day,0.27,0.0002,0.0016,0.04,snow,48.22,31.77,19.2,0.52,1022.4,0.05,4,24.89,48.22,33.0,65.0
+Afghanistan,,2/2/2020,Light rain (with a chance of 1–2 in. of snow) overnight and in the morning.,rain,0.3,0.0203,0.0762,0.84,rain,41.47,19.35,30.04,0.83,1020.0,0.96,3,27.75,41.47,33.0,65.0
+Afghanistan,,2/3/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0003,0.05,snow,42.53,22.44,15.22,0.56,1024.4,0.17,5,19.35,42.53,33.0,65.0
+Afghanistan,,2/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0003,0.04,snow,46.06,24.43,14.66,0.49,1024.2,0.32,3,22.44,46.06,33.0,65.0
+Afghanistan,,2/5/2020,Clear throughout the day.,clear-day,0.4,0.0,0.0,0.0,,47.59,26.58,16.14,0.49,1025.3,0.0,5,24.43,47.59,33.0,65.0
+Afghanistan,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.03,snow,49.62,29.76,12.28,0.37,1025.7,0.0,5,26.58,49.62,33.0,65.0
+Afghanistan,,2/7/2020,Clear throughout the day.,clear-day,0.48,0.0,0.0003,0.02,,51.43,31.9,19.33,0.45,1024.7,0.0,5,29.76,51.43,33.0,65.0
+Afghanistan,,2/8/2020,Overcast throughout the day.,partly-cloudy-day,0.51,0.0001,0.0003,0.03,rain,52.21,35.17,23.05,0.5,1022.4,0.66,4,31.9,52.21,33.0,65.0
+Afghanistan,,2/9/2020,Light rain throughout the day.,rain,0.55,0.0229,0.0512,0.97,rain,39.75,38.26,32.74,0.84,1018.8,0.88,4,35.17,39.92,33.0,65.0
+Afghanistan,,2/10/2020,Rain throughout the day.,rain,0.59,0.0509,0.1087,0.99,rain,45.37,40.31,38.02,0.88,1015.6,0.98,4,38.26,45.37,33.0,65.0
+Afghanistan,,2/11/2020,Light rain throughout the day.,rain,0.63,0.0536,0.0933,1.0,rain,44.86,34.08,39.29,0.9,1016.3,1.0,3,40.31,44.86,33.0,65.0
+Afghanistan,,2/12/2020,Possible light rain overnight and in the morning.,rain,0.67,0.0076,0.0604,0.87,rain,45.3,28.31,28.74,0.69,1025.1,0.24,5,31.27,45.3,33.0,65.0
+Afghanistan,,2/13/2020,Clear throughout the day.,clear-day,0.7,0.0001,0.0003,0.02,rain,50.9,30.88,17.58,0.45,1027.2,0.02,5,28.31,50.9,33.0,65.0
+Afghanistan,,2/14/2020,Clear throughout the day.,clear-day,0.74,0.0001,0.0003,0.04,rain,52.34,28.96,20.62,0.46,1025.3,0.26,5,30.88,52.34,33.0,65.0
+Afghanistan,,2/15/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.03,rain,51.78,32.65,16.2,0.4,1028.6,0.22,5,28.96,51.78,33.0,65.0
+Afghanistan,,2/16/2020,Clear throughout the day.,clear-day,0.81,0.0001,0.0003,0.05,rain,53.52,34.44,18.4,0.39,1027.8,0.28,6,32.65,53.52,33.0,65.0
+Afghanistan,,2/17/2020,Clear throughout the day.,partly-cloudy-day,0.84,0.0002,0.0004,0.07,rain,53.64,30.49,24.15,0.49,1022.9,0.43,5,34.44,53.64,33.0,65.0
+Afghanistan,,2/18/2020,Clear throughout the day.,clear-day,0.88,0.0001,0.0004,0.05,rain,48.56,27.44,21.17,0.53,1021.0,0.01,5,30.49,48.56,33.0,65.0
+Afghanistan,,2/19/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0004,0.05,rain,52.16,34.54,14.85,0.38,1022.4,0.01,6,27.44,52.16,33.0,65.0
+Afghanistan,,2/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0005,0.0034,0.06,rain,52.54,38.35,25.87,0.51,1021.7,0.72,5,34.54,52.54,33.0,65.0
+Afghanistan,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0004,0.03,rain,56.65,38.84,30.04,0.54,1023.6,0.05,7,38.35,56.65,33.0,65.0
+Afghanistan,,2/22/2020,Clear throughout the day.,partly-cloudy-day,0.0,0.0003,0.0016,0.05,rain,55.03,39.44,33.43,0.61,1021.8,0.32,6,38.84,55.03,33.0,65.0
+Afghanistan,,2/23/2020,Clear throughout the day.,clear-day,0.03,0.0001,0.0003,0.05,rain,55.83,37.2,35.64,0.66,1019.4,0.23,6,39.44,55.83,33.0,65.0
+Afghanistan,,2/24/2020,Partly cloudy throughout the day.,clear-day,0.06,0.0001,0.0003,0.03,rain,56.43,41.86,31.6,0.59,1020.1,0.31,6,37.2,56.43,33.0,65.0
+Afghanistan,,2/25/2020,Overcast throughout the day.,cloudy,0.09,0.0001,0.0003,0.02,rain,59.64,43.93,33.73,0.56,1017.3,0.91,4,41.86,59.64,33.0,65.0
+Afghanistan,,2/26/2020,Possible light rain in the afternoon and evening.,rain,0.12,0.0128,0.0453,0.55,rain,54.67,38.86,37.92,0.68,1012.8,0.47,7,42.43,54.67,33.0,65.0
+Afghanistan,,2/27/2020,Partly cloudy throughout the day.,rain,0.15,0.0014,0.0036,0.25,rain,52.43,36.95,37.05,0.76,1016.3,0.41,6,38.86,52.43,33.0,65.0
+Afghanistan,,2/28/2020,Clear throughout the day.,clear-day,0.18,0.0,0.0003,0.02,,57.58,38.87,35.83,0.69,1017.6,0.0,7,36.95,57.58,33.0,65.0
+Afghanistan,,2/29/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.04,rain,61.18,39.39,33.53,0.58,1018.6,0.0,7,38.87,61.18,33.0,65.0
+Afghanistan,,3/1/2020,Clear throughout the day.,clear-day,0.25,0.0001,0.0002,0.02,rain,63.69,44.11,27.63,0.44,1017.2,0.0,8,39.39,63.69,33.0,65.0
+Afghanistan,,3/2/2020,Possible light rain in the afternoon and evening.,rain,0.28,0.0161,0.0644,0.69,rain,54.47,39.59,34.67,0.62,1013.6,0.64,5,43.66,54.47,33.0,65.0
+Afghanistan,,3/3/2020,Clear throughout the day.,rain,0.31,0.0021,0.0073,0.34,rain,57.37,38.03,36.51,0.67,1011.2,0.34,7,39.59,57.37,33.0,65.0
+Afghanistan,,3/4/2020,Overcast throughout the day.,rain,0.35,0.0016,0.0044,0.36,rain,51.52,33.3,35.73,0.74,1013.3,0.94,4,38.03,51.52,33.0,65.0
+Afghanistan,,3/5/2020,Clear throughout the day.,clear-day,0.38,0.0,0.0002,0.02,,57.73,35.28,29.01,0.57,1015.3,0.02,7,33.3,57.73,33.0,65.0
+Afghanistan,,3/6/2020,Clear throughout the day.,clear-day,0.42,0.0,0.0003,0.01,,55.55,29.42,25.49,0.52,1016.5,0.0,7,35.28,55.55,33.0,65.0
+Afghanistan,,3/7/2020,Clear throughout the day.,partly-cloudy-day,0.46,0.0001,0.0005,0.02,rain,52.77,36.75,21.98,0.49,1020.1,0.32,6,29.42,52.77,33.0,65.0
+Afghanistan,,3/8/2020,Overcast throughout the day.,cloudy,0.5,0.0015,0.0065,0.19,rain,47.48,37.28,30.09,0.65,1018.5,0.97,4,36.75,47.48,33.0,65.0
+Afghanistan,,3/9/2020,Overcast throughout the day.,rain,0.54,0.001,0.0043,0.45,rain,46.46,28.68,33.53,0.76,1016.7,0.98,5,36.48,46.46,33.0,65.0
+Afghanistan,,3/10/2020,Overcast throughout the day.,cloudy,0.58,0.0004,0.0017,0.06,rain,51.64,33.8,20.95,0.52,1014.5,0.9,4,28.68,51.64,33.0,65.0
+Afghanistan,,3/11/2020,Overcast throughout the day.,partly-cloudy-day,0.62,0.0002,0.001,0.05,rain,57.7,35.97,28.83,0.57,1014.8,0.79,4,33.8,57.7,33.0,65.0
+Afghanistan,,3/12/2020,Clear throughout the day.,clear-day,0.65,0.0001,0.0004,0.02,rain,61.97,38.35,29.07,0.54,1020.1,0.14,6,35.97,61.97,33.0,65.0
+Afghanistan,,3/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0,0.0,0.0,,64.73,43.03,25.85,0.41,1020.0,0.48,7,38.35,64.73,33.0,65.0
+Afghanistan,,3/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.0,0.0,0.0,,64.6,47.76,30.49,0.43,1017.9,0.86,6,43.03,64.6,33.0,65.0
+Afghanistan,,3/15/2020,Overcast throughout the day.,cloudy,0.76,0.0002,0.0008,0.06,rain,59.8,45.62,37.26,0.55,1017.9,0.91,4,47.76,59.8,33.0,65.0
+Afghanistan,,3/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.79,0.0012,0.0044,0.18,rain,62.54,46.03,40.75,0.63,1019.3,0.7,6,45.62,62.54,33.0,65.0
+Afghanistan,,3/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.82,0.0019,0.0146,0.12,rain,65.86,45.59,41.42,0.62,1019.0,0.51,5,46.03,65.86,33.0,65.0
+Afghanistan,,3/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.86,0.0012,0.0079,0.11,rain,65.74,47.29,41.04,0.61,1014.7,0.63,6,45.59,65.74,33.0,65.0
+Afghanistan,,3/19/2020,Light rain in the morning and afternoon.,rain,0.89,0.0176,0.0571,0.9,rain,56.94,43.03,44.38,0.78,1011.6,0.91,4,46.87,56.94,33.0,65.0
+Afghanistan,,3/20/2020,Clear throughout the day.,clear-day,0.92,0.0003,0.0018,0.03,rain,64.59,45.33,36.78,0.57,1014.6,0.06,8,43.03,64.59,33.0,65.0
+Afghanistan,,3/21/2020,Light rain overnight.,rain,0.95,0.0048,0.0135,0.42,rain,62.63,46.27,39.22,0.62,1015.0,0.82,4,45.33,62.63,33.0,65.0
+Afghanistan,,3/22/2020,Rain throughout the day.,rain,0.98,0.0555,0.0976,1.0,rain,53.95,45.44,46.19,0.89,1010.6,0.96,4,46.27,53.95,33.0,65.0
+Afghanistan,,3/23/2020,Light rain starting in the morning.,rain,0.01,0.0233,0.1232,0.98,rain,46.79,38.22,39.71,0.82,1011.2,0.86,4,40.83,48.65,33.0,65.0
+Afghanistan,,3/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.04,0.003,0.0212,0.18,rain,55.04,39.11,35.13,0.67,1014.6,0.6,5,38.22,55.04,33.0,65.0
+Afghanistan,,3/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0013,0.0043,0.17,rain,60.22,41.4,36.97,0.65,1016.0,0.39,5,39.11,60.22,33.0,65.0
+Afghanistan,,3/26/2020,Clear throughout the day.,clear-day,0.1,0.0009,0.0046,0.09,rain,59.99,43.08,37.31,0.63,1015.4,0.17,8,41.4,59.99,33.0,65.0
+Afghanistan,,3/27/2020,Clear throughout the day.,clear-day,0.13,0.001,0.0047,0.11,rain,60.65,41.8,38.15,0.63,1016.7,0.15,8,43.08,60.65,33.0,65.0
+Afghanistan,,3/28/2020,Rain overnight and in the evening.,rain,0.16,0.0106,0.1001,0.7,rain,61.43,43.72,37.31,0.65,1016.1,0.67,6,41.8,61.43,33.0,65.0
+Afghanistan,,3/29/2020,Rain throughout the day.,rain,0.19,0.1105,0.3543,0.98,rain,54.27,44.87,44.96,0.89,1012.4,1.0,5,43.72,54.27,33.0,65.0
+Afghanistan,,3/30/2020,"Possible light rain until morning, starting again in the evening.",rain,0.23,0.0195,0.1282,0.94,rain,57.71,43.06,43.81,0.79,1012.6,0.35,9,44.87,57.71,33.0,65.0
+Afghanistan,,3/31/2020,Clear throughout the day.,rain,0.26,0.0009,0.0059,0.35,rain,60.72,40.91,36.41,0.6,1016.9,0.15,9,43.06,60.72,33.0,65.0
+Afghanistan,,4/1/2020,Clear throughout the day.,clear-day,0.29,0.0001,0.0003,0.02,rain,65.32,47.98,33.8,0.52,1017.9,0.18,8,40.91,65.32,33.0,65.0
+Afghanistan,,4/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.33,0.0001,0.0003,0.02,rain,69.86,48.84,38.24,0.5,1017.0,0.63,7,47.98,69.86,33.0,65.0
+Afghanistan,,4/3/2020,Mostly cloudy throughout the day.,rain,0.37,0.0115,0.0509,0.52,rain,66.11,45.23,42.45,0.62,1016.7,0.75,7,48.84,66.11,33.0,65.0
+Afghanistan,,4/4/2020,Clear throughout the day.,partly-cloudy-day,0.41,0.0001,0.0016,0.05,rain,68.96,47.1,40.23,0.57,1017.2,0.35,9,45.23,68.96,33.0,65.0
+Afghanistan,,4/5/2020,Partly cloudy throughout the day.,rain,0.44,0.0112,0.0335,0.63,rain,62.57,40.86,40.89,0.67,1015.9,0.57,6,46.53,62.57,33.0,65.0
+Afghanistan,,4/6/2020,Clear throughout the day.,clear-day,0.48,0.0,0.0002,0.01,,68.33,46.28,34.54,0.52,1016.8,0.23,9,40.86,68.33,33.0,65.0
+Afghanistan,,4/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.52,0.0,0.0003,0.04,,68.82,49.2,41.21,0.57,1014.9,0.59,8,46.28,68.82,33.0,65.0
+Afghanistan,,4/8/2020,Mostly cloudy throughout the day.,rain,0.56,0.0125,0.0672,0.39,rain,64.22,48.66,45.86,0.67,1015.7,0.66,8,49.2,64.22,33.0,65.0
+Afghanistan,,4/9/2020,Overcast throughout the day.,cloudy,0.6,0.0007,0.0032,0.13,rain,68.66,51.88,47.31,0.69,1017.6,0.92,5,48.66,68.66,33.0,65.0
+Afghanistan,,4/10/2020,Overcast throughout the day.,rain,0.64,0.0018,0.0094,0.29,rain,66.25,52.53,49.79,0.74,1019.5,0.98,5,51.88,66.25,33.0,65.0
+Afghanistan,,4/11/2020,Possible light rain overnight and in the morning.,rain,0.67,0.0038,0.0325,0.42,rain,72.53,54.7,49.39,0.68,1017.3,0.92,5,52.53,72.53,33.0,65.0
+Afghanistan,,4/12/2020,Light rain overnight.,rain,0.71,0.0076,0.0511,0.52,rain,68.34,48.51,48.42,0.65,1013.7,0.94,5,54.7,68.34,33.0,65.0
+Afghanistan,,4/13/2020,Light rain throughout the day.,rain,0.74,0.0265,0.0942,0.94,rain,60.81,44.27,49.09,0.85,1013.9,0.76,6,48.51,60.81,33.0,65.0
+Afghanistan,,4/14/2020,Clear throughout the day.,clear-day,0.77,0.0002,0.003,0.16,rain,63.72,48.69,43.79,0.7,1017.7,0.11,10,44.27,63.72,33.0,65.0
+Afghanistan,,4/15/2020,Overcast throughout the day.,rain,0.8,0.0017,0.013000000000000001,0.36,rain,60.74,49.71,42.07,0.66,1015.0,0.99,5,48.69,60.74,33.0,65.0
+Afghanistan,,4/16/2020,Possible light rain in the morning.,rain,0.84,0.0055,0.0187,0.65,rain,65.06,47.94,45.32,0.71,1012.0,0.76,7,49.71,65.06,33.0,65.0
+Afghanistan,,4/17/2020,Clear throughout the day.,clear-day,0.87,0.0014,0.0114,0.09,rain,67.68,48.01,43.26,0.62,1014.3,0.23,8,47.94,67.68,33.0,65.0
+Afghanistan,,4/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0002,0.0014,0.04,rain,66.55,47.27,40.84,0.57,1013.4,0.61,7,48.01,66.55,33.0,65.0
+Afghanistan,,4/19/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0007,0.05,rain,68.84,48.9,42.42,0.58,1013.4,0.24,11,47.27,68.84,33.0,65.0
+Afghanistan,,4/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.96,0.0001,0.0003,0.02,rain,73.77,52.04,41.02,0.5,1014.0,0.56,10,48.9,73.77,33.0,65.0

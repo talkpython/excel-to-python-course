@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Djibouti,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0005,0.002,0.18,rain,77.99,60.43,61.98,0.84,1012.6,0.2,10,60.66,77.99,11.8251,42.5903
+Djibouti,,1/1/2020,Clear throughout the day.,clear-day,0.24,0.0003,0.0006,0.14,rain,77.21,60.51,60.72,0.82,1013.3,0.28,10,60.43,77.21,11.8251,42.5903
+Djibouti,,1/2/2020,Clear throughout the day.,partly-cloudy-day,0.27,0.0004,0.002,0.11,rain,77.02,60.05,60.55,0.82,1014.5,0.37,10,60.51,77.02,11.8251,42.5903
+Djibouti,,1/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0005,0.0024,0.21,rain,74.75,59.82,60.17,0.83,1013.4,0.53,7,60.05,74.75,11.8251,42.5903
+Djibouti,,1/4/2020,Partly cloudy throughout the day.,clear-day,0.33,0.0003,0.0009,0.11,rain,77.86,58.79,60.91,0.83,1011.5,0.21,8,59.82,77.86,11.8251,42.5903
+Djibouti,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0001,0.0004,0.04,rain,79.39,61.85,61.59,0.82,1012.7,0.25,9,58.79,79.39,11.8251,42.5903
+Djibouti,,1/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.39,0.0007,0.0018,0.22,rain,78.41,60.21,63.85,0.87,1014.6,0.56,8,61.85,78.41,11.8251,42.5903
+Djibouti,,1/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0002,0.0005,0.12,rain,76.57,60.29,61.47,0.84,1014.3,0.43,8,60.21,76.57,11.8251,42.5903
+Djibouti,,1/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.46,0.0002,0.0007,0.11,rain,76.36,60.33,61.93,0.86,1013.0,0.42,8,60.29,76.36,11.8251,42.5903
+Djibouti,,1/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.0008,0.0019,0.16,rain,79.42,60.33,61.49,0.83,1011.4,0.51,9,60.33,79.42,11.8251,42.5903
+Djibouti,,1/10/2020,Mostly cloudy throughout the day.,rain,0.53,0.0027,0.0138,0.37,rain,71.92,58.93,62.49,0.91,1012.9,0.59,7,60.33,71.92,11.8251,42.5903
+Djibouti,,1/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0001,0.001,0.18,rain,73.22,60.15,57.42,0.79,1015.5,0.75,7,58.93,73.22,11.8251,42.5903
+Djibouti,,1/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0008,0.0033,0.23,rain,73.02,57.47,59.09,0.82,1015.9,0.74,7,60.18,73.02,11.8251,42.5903
+Djibouti,,1/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.65,0.0005,0.0012,0.21,rain,73.48,58.43,59.43,0.84,1015.5,0.56,7,57.47,73.48,11.8251,42.5903
+Djibouti,,1/14/2020,Mostly cloudy throughout the day.,rain,0.68,0.0026,0.0079,0.39,rain,71.4,56.74,60.39,0.91,1016.1,0.63,6,58.43,71.4,11.8251,42.5903
+Djibouti,,1/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0003,0.0014,0.1,rain,70.84,55.13,54.47,0.78,1016.3,0.45,8,56.74,70.84,11.8251,42.5903
+Djibouti,,1/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.76,0.0002,0.0008,0.08,rain,68.96,55.31,54.03,0.8,1015.7,0.35,8,55.13,68.96,11.8251,42.5903
+Djibouti,,1/17/2020,Clear throughout the day.,clear-day,0.79,0.0,0.0002,0.04,,74.25,56.51,54.73,0.77,1015.0,0.2,10,55.31,74.25,11.8251,42.5903
+Djibouti,,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0002,0.02,,74.41,56.21,56.8,0.8,1014.8,0.38,8,56.51,74.41,11.8251,42.5903
+Djibouti,,1/19/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0003,0.06,rain,76.55,57.3,56.43,0.77,1015.4,0.31,10,56.21,76.55,11.8251,42.5903
+Djibouti,,1/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0003,0.1,rain,77.31,57.3,57.43,0.78,1014.1,0.39,7,57.3,77.31,11.8251,42.5903
+Djibouti,,1/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.93,0.0009,0.0041,0.21,rain,75.16,59.58,59.63,0.85,1013.9,0.61,7,57.3,75.16,11.8251,42.5903
+Djibouti,,1/22/2020,Possible light rain in the morning.,rain,0.96,0.0072,0.0186,0.62,rain,70.27,59.39,62.6,0.96,1014.8,0.84,6,59.58,70.27,11.8251,42.5903
+Djibouti,,1/23/2020,Overcast throughout the day.,rain,1.0,0.0022,0.0067,0.53,rain,73.0,59.77,61.37,0.89,1015.6,0.88,6,59.39,73.0,11.8251,42.5903
+Djibouti,,1/24/2020,Overcast throughout the day.,rain,0.03,0.0009,0.003,0.3,rain,75.58,59.68,61.21,0.86,1016.6,0.91,6,59.77,75.58,11.8251,42.5903
+Djibouti,,1/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.06,0.0004,0.0011,0.19,rain,73.51,59.5,60.3,0.85,1015.9,0.84,7,59.68,73.51,11.8251,42.5903
+Djibouti,,1/26/2020,Mostly cloudy throughout the day.,rain,0.09,0.0015,0.0097,0.35,rain,72.43,59.05,60.16,0.86,1015.9,0.74,7,59.5,72.43,11.8251,42.5903
+Djibouti,,1/27/2020,Partly cloudy throughout the day.,rain,0.12,0.0029,0.0112,0.39,rain,69.05,57.83,60.06,0.91,1014.8,0.43,8,59.05,69.05,11.8251,42.5903
+Djibouti,,1/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.15,0.0004,0.0011,0.14,rain,70.87,56.78,57.6,0.84,1014.8,0.63,7,57.83,70.87,11.8251,42.5903
+Djibouti,,1/29/2020,Overcast throughout the day.,cloudy,0.18,0.0002,0.0004,0.1,rain,70.23,57.31,58.31,0.87,1015.2,0.89,6,56.78,70.23,11.8251,42.5903
+Djibouti,,1/30/2020,Mostly cloudy throughout the day.,cloudy,0.21,0.0002,0.0004,0.11,rain,71.29,57.57,57.34,0.83,1013.9,0.93,7,57.31,71.29,11.8251,42.5903
+Djibouti,,1/31/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0003,0.0007,0.13,rain,73.69,58.03,59.53,0.87,1014.0,0.67,7,57.57,73.69,11.8251,42.5903
+Djibouti,,2/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.27,0.0009,0.0025,0.21,rain,74.16,58.97,61.0,0.89,1014.7,0.53,9,58.03,74.16,11.8251,42.5903
+Djibouti,,2/2/2020,Mostly cloudy throughout the day.,rain,0.3,0.0022,0.005,0.34,rain,69.95,57.04,60.63,0.91,1015.3,0.67,7,58.97,69.95,11.8251,42.5903
+Djibouti,,2/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0003,0.12,rain,71.76,59.09,57.96,0.83,1014.4,0.42,8,57.04,71.76,11.8251,42.5903
+Djibouti,,2/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0004,0.0012,0.17,rain,72.36,58.19,60.14,0.87,1013.9,0.49,9,59.09,72.36,11.8251,42.5903
+Djibouti,,2/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0001,0.0007,0.07,rain,75.07,58.45,57.18,0.77,1015.3,0.47,9,58.19,75.07,11.8251,42.5903
+Djibouti,,2/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.0001,0.0003,0.1,rain,74.38,58.52,54.39,0.68,1015.5,0.46,10,58.45,74.38,11.8251,42.5903
+Djibouti,,2/7/2020,Clear throughout the day.,clear-day,0.48,0.0,0.0003,0.02,,76.75,58.0,53.55,0.64,1015.3,0.02,12,58.52,76.75,11.8251,42.5903
+Djibouti,,2/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.52,0.0001,0.0003,0.09,rain,78.41,57.82,52.19,0.6,1014.9,0.47,8,58.0,78.41,11.8251,42.5903
+Djibouti,,2/9/2020,Partly cloudy throughout the day.,clear-day,0.56,0.0001,0.0004,0.08,rain,78.75,60.83,58.58,0.76,1013.5,0.31,8,57.82,78.75,11.8251,42.5903
+Djibouti,,2/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.59,0.0006,0.0022,0.14,rain,75.69,60.83,62.02,0.86,1012.4,0.71,7,60.83,75.69,11.8251,42.5903
+Djibouti,,2/11/2020,Overcast throughout the day.,cloudy,0.63,0.0005,0.0015,0.21,rain,70.13,59.47,60.26,0.86,1015.4,0.88,6,60.83,70.13,11.8251,42.5903
+Djibouti,,2/12/2020,Mostly cloudy throughout the day.,rain,0.67,0.0045,0.012,0.39,rain,70.5,58.21,60.78,0.91,1017.3,0.7,6,59.47,70.5,11.8251,42.5903
+Djibouti,,2/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0004,0.0015,0.1,rain,72.11,57.28,55.55,0.76,1016.4,0.41,10,58.21,72.11,11.8251,42.5903
+Djibouti,,2/14/2020,Clear throughout the day.,clear-day,0.74,0.0002,0.0008,0.06,rain,73.49,57.91,52.89,0.69,1014.7,0.14,12,57.28,73.49,11.8251,42.5903
+Djibouti,,2/15/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.05,rain,74.51,58.94,52.6,0.65,1013.1,0.24,11,57.91,74.51,11.8251,42.5903
+Djibouti,,2/16/2020,Clear throughout the day.,clear-day,0.81,0.0001,0.0003,0.07,rain,73.81,59.37,57.96,0.78,1012.2,0.24,11,58.94,73.81,11.8251,42.5903
+Djibouti,,2/17/2020,Clear throughout the day.,clear-day,0.84,0.0002,0.0004,0.14,rain,76.19,59.68,58.87,0.78,1012.8,0.3,12,59.37,76.19,11.8251,42.5903
+Djibouti,,2/18/2020,Clear throughout the day.,partly-cloudy-day,0.88,0.0001,0.0005,0.07,rain,79.03,58.55,58.54,0.75,1011.6,0.33,12,59.68,79.03,11.8251,42.5903
+Djibouti,,2/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.91,0.0001,0.0004,0.06,rain,80.32,59.56,57.84,0.72,1011.4,0.59,7,58.55,80.32,11.8251,42.5903
+Djibouti,,2/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.94,0.0002,0.0006,0.12,rain,79.17,60.05,62.09,0.82,1012.1,0.34,10,59.56,79.17,11.8251,42.5903
+Djibouti,,2/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0005,0.0013,0.15,rain,77.8,60.41,62.39,0.84,1013.4,0.34,9,60.05,77.8,11.8251,42.5903
+Djibouti,,2/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.0,0.001,0.0041,0.14,rain,75.76,58.85,59.21,0.79,1013.3,0.41,10,60.41,75.76,11.8251,42.5903
+Djibouti,,2/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0002,0.0009,0.1,rain,76.12,59.19,55.71,0.73,1011.9,0.68,8,58.85,76.12,11.8251,42.5903
+Djibouti,,2/24/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0003,0.06,rain,80.91,59.19,56.74,0.7,1011.4,0.25,11,59.19,80.91,11.8251,42.5903
+Djibouti,,2/25/2020,Partly cloudy throughout the day.,clear-day,0.09,0.0008,0.0025,0.11,rain,76.05,59.56,59.94,0.81,1013.7,0.21,9,59.19,76.05,11.8251,42.5903
+Djibouti,,2/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.12,0.0001,0.0006,0.05,rain,78.95,58.55,60.83,0.81,1013.4,0.55,7,59.56,78.95,11.8251,42.5903
+Djibouti,,2/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.15,0.0001,0.0004,0.04,rain,82.84,59.96,42.4,0.45,1012.1,0.52,7,58.55,82.84,11.8251,42.5903
+Djibouti,,2/28/2020,Clear throughout the day.,clear-day,0.18,0.0001,0.0004,0.02,rain,82.46,59.75,39.52,0.37,1010.2,0.24,13,59.96,82.46,11.8251,42.5903
+Djibouti,,2/29/2020,Clear throughout the day.,clear-day,0.22,0.0001,0.0004,0.04,rain,82.83,58.78,44.65,0.43,1010.6,0.08,13,59.75,82.83,11.8251,42.5903
+Djibouti,,3/1/2020,Clear throughout the day.,partly-cloudy-day,0.25,0.0001,0.0003,0.04,rain,81.01,60.77,58.47,0.72,1011.9,0.4,13,58.78,81.01,11.8251,42.5903
+Djibouti,,3/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.28,0.001,0.0072,0.09,rain,77.83,59.05,62.47,0.82,1012.4,0.65,6,60.77,77.83,11.8251,42.5903
+Djibouti,,3/3/2020,Clear throughout the day.,partly-cloudy-day,0.31,0.0,0.0002,0.01,,82.02,59.51,51.65,0.57,1012.0,0.41,13,59.05,82.02,11.8251,42.5903
+Djibouti,,3/4/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0003,0.03,rain,83.6,61.32,50.62,0.54,1011.3,0.12,13,59.51,83.6,11.8251,42.5903
+Djibouti,,3/5/2020,Partly cloudy throughout the day.,clear-day,0.39,0.0,0.0002,0.02,,82.66,60.99,48.68,0.47,1010.6,0.23,9,61.32,82.66,11.8251,42.5903
+Djibouti,,3/6/2020,Clear throughout the day.,clear-day,0.42,0.0,0.0003,0.02,,82.02,59.49,55.92,0.64,1010.8,0.23,13,60.99,82.02,11.8251,42.5903
+Djibouti,,3/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.46,0.0001,0.0004,0.05,rain,80.28,59.75,58.4,0.72,1011.3,0.55,10,59.49,80.28,11.8251,42.5903
+Djibouti,,3/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.5,0.0004,0.0013,0.11,rain,76.92,59.51,60.81,0.81,1010.3,0.72,8,59.75,76.92,11.8251,42.5903
+Djibouti,,3/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.54,0.0003,0.0016,0.08,rain,79.21,61.48,52.28,0.62,1010.1,0.57,9,59.51,79.21,11.8251,42.5903
+Djibouti,,3/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0002,0.0004,0.08,rain,75.77,59.65,53.85,0.63,1010.6,0.45,10,61.48,75.77,11.8251,42.5903
+Djibouti,,3/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.0002,0.0004,0.08,rain,75.35,59.86,52.96,0.64,1010.7,0.68,9,59.65,75.35,11.8251,42.5903
+Djibouti,,3/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.66,0.0002,0.0013,0.05,rain,74.91,61.09,59.47,0.8,1010.6,0.49,10,59.86,74.91,11.8251,42.5903
+Djibouti,,3/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0008,0.0029,0.17,rain,78.12,59.69,62.75,0.85,1011.3,0.62,7,61.09,78.12,11.8251,42.5903
+Djibouti,,3/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.73,0.0002,0.0007,0.12,rain,79.54,62.44,62.7,0.83,1010.1,0.64,12,59.69,79.54,11.8251,42.5903
+Djibouti,,3/15/2020,Overcast throughout the day.,rain,0.76,0.0014,0.0068,0.28,rain,77.46,63.22,65.85,0.9,1009.9,0.85,6,62.44,77.46,11.8251,42.5903
+Djibouti,,3/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.79,0.003,0.011000000000000001,0.24,rain,79.78,63.47,65.1,0.85,1009.5,0.79,6,63.22,79.78,11.8251,42.5903
+Djibouti,,3/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0014,0.006999999999999999,0.21,rain,79.25,63.82,64.99,0.86,1010.1,0.72,10,63.47,79.25,11.8251,42.5903
+Djibouti,,3/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.86,0.0036,0.0164,0.23,rain,80.54,63.91,64.66,0.81,1010.5,0.49,11,63.82,80.54,11.8251,42.5903
+Djibouti,,3/19/2020,Clear throughout the day.,partly-cloudy-day,0.89,0.0,0.0002,0.04,,81.6,64.67,62.99,0.76,1009.9,0.39,14,63.91,81.6,11.8251,42.5903
+Djibouti,,3/20/2020,Partly cloudy throughout the day.,rain,0.92,0.0044,0.0156,0.44,rain,79.31,64.73,64.26,0.79,1009.0,0.42,11,64.67,79.31,11.8251,42.5903
+Djibouti,,3/21/2020,Partly cloudy throughout the day.,rain,0.95,0.0148,0.0436,0.55,rain,81.37,64.82,66.36,0.83,1009.7,0.58,10,64.73,81.37,11.8251,42.5903
+Djibouti,,3/22/2020,Mostly cloudy throughout the day.,rain,0.98,0.0074,0.0285,0.45,rain,79.26,64.04,65.77,0.85,1010.4,0.73,6,64.82,79.26,11.8251,42.5903
+Djibouti,,3/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.01,0.0021,0.0159,0.24,rain,79.69,64.98,65.21,0.81,1008.3,0.56,8,64.04,79.69,11.8251,42.5903
+Djibouti,,3/24/2020,Possible light rain in the morning and afternoon.,rain,0.04,0.0121,0.0214,0.73,rain,78.27,62.44,65.79,0.86,1008.1,0.68,8,64.98,78.27,11.8251,42.5903
+Djibouti,,3/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0012,0.0055,0.13,rain,81.23,62.63,62.35,0.79,1008.2,0.41,10,62.44,81.23,11.8251,42.5903
+Djibouti,,3/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0011,0.0044,0.14,rain,78.0,62.98,63.97,0.85,1010.8,0.72,7,62.63,78.0,11.8251,42.5903
+Djibouti,,3/27/2020,Overcast throughout the day.,cloudy,0.13,0.0009,0.0027,0.13,rain,79.18,65.1,64.76,0.86,1010.7,0.92,6,62.98,79.18,11.8251,42.5903
+Djibouti,,3/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0009,0.0044,0.11,rain,81.73,63.88,66.29,0.84,1008.8,0.57,9,65.1,81.73,11.8251,42.5903
+Djibouti,,3/29/2020,Clear throughout the day.,clear-day,0.19,0.0021,0.0153,0.09,rain,82.58,64.68,65.09,0.79,1008.9,0.23,12,63.88,82.58,11.8251,42.5903
+Djibouti,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0006,0.0032,0.09,rain,84.6,65.25,65.66,0.8,1009.6,0.58,9,64.68,84.6,11.8251,42.5903
+Djibouti,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0002,0.0009,0.07,rain,83.47,64.03,63.49,0.75,1010.0,0.22,13,65.25,83.47,11.8251,42.5903
+Djibouti,,4/1/2020,Clear throughout the day.,clear-day,0.3,0.0002,0.0006,0.06,rain,83.58,64.38,63.68,0.76,1009.0,0.21,13,64.03,83.58,11.8251,42.5903
+Djibouti,,4/2/2020,Partly cloudy throughout the day.,clear-day,0.33,0.0001,0.0007,0.04,rain,85.0,64.83,60.7,0.69,1009.6,0.27,13,64.38,85.0,11.8251,42.5903
+Djibouti,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0002,0.0005,0.06,rain,83.6,64.92,63.22,0.75,1011.0,0.23,12,64.83,83.6,11.8251,42.5903
+Djibouti,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0002,0.0006,0.05,rain,82.18,64.38,58.55,0.67,1011.8,0.19,13,64.92,82.18,11.8251,42.5903
+Djibouti,,4/5/2020,Partly cloudy throughout the day.,clear-day,0.45,0.0,0.0002,0.01,,84.25,63.93,57.89,0.64,1011.9,0.26,10,64.38,84.25,11.8251,42.5903
+Djibouti,,4/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0,0.0002,0.02,,86.1,62.97,52.08,0.52,1010.8,0.44,11,63.93,86.1,11.8251,42.5903
+Djibouti,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0,0.0003,0.01,,86.48,63.1,44.28,0.41,1009.5,0.22,10,62.97,86.48,11.8251,42.5903
+Djibouti,,4/8/2020,Clear throughout the day.,clear-day,0.56,0.0001,0.0004,0.03,rain,84.0,64.53,56.43,0.61,1008.6,0.07,14,63.1,84.0,11.8251,42.5903
+Djibouti,,4/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.6,0.0003,0.0018,0.06,rain,83.08,64.38,63.07,0.74,1008.3,0.33,12,64.53,83.08,11.8251,42.5903
+Djibouti,,4/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.64,0.0035,0.0279,0.11,rain,83.5,63.91,66.07,0.81,1009.1,0.49,13,64.38,83.5,11.8251,42.5903
+Djibouti,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0055,0.0269,0.21,rain,81.76,64.64,66.81,0.84,1009.3,0.27,13,63.91,81.76,11.8251,42.5903
+Djibouti,,4/12/2020,Overcast throughout the day.,partly-cloudy-day,0.71,0.0025,0.02,0.13,rain,82.99,65.77,66.3,0.8,1009.0,0.75,6,64.64,82.99,11.8251,42.5903
+Djibouti,,4/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.74,0.0024,0.0186,0.15,rain,84.83,66.85,67.0,0.81,1008.7,0.58,13,65.77,84.83,11.8251,42.5903
+Djibouti,,4/14/2020,Overcast throughout the day.,rain,0.78,0.0029,0.0155,0.35,rain,81.21,65.59,68.08,0.87,1010.1,0.94,5,66.85,81.21,11.8251,42.5903
+Djibouti,,4/15/2020,Mostly cloudy throughout the day.,rain,0.81,0.0078,0.0266,0.46,rain,76.3,65.4,68.89,0.95,1009.9,0.74,6,65.59,76.3,11.8251,42.5903
+Djibouti,,4/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.0008,0.0036,0.21,rain,80.34,65.68,67.03,0.85,1008.6,0.71,7,65.4,80.34,11.8251,42.5903
+Djibouti,,4/17/2020,Possible light rain overnight.,partly-cloudy-day,0.87,0.0003,0.001,0.14,rain,83.03,65.29,66.67,0.82,1008.8,0.78,9,65.68,83.03,11.8251,42.5903
+Djibouti,,4/18/2020,Possible light rain in the morning.,rain,0.9,0.0153,0.0982,0.67,rain,81.7,66.33,66.97,0.87,1009.7,0.98,6,65.29,81.7,11.8251,42.5903
+Djibouti,,4/19/2020,Rain overnight.,rain,0.93,0.001,0.0064,0.29,rain,80.95,63.69,67.24,0.84,1007.6,0.89,6,66.33,80.95,11.8251,42.5903
+Djibouti,,4/20/2020,Rain in the morning.,rain,0.96,0.0256,0.1148,0.81,rain,72.62,63.51,66.12,0.96,1010.8,0.97,6,63.69,72.62,11.8251,42.5903

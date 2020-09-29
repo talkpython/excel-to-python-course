@@ -1,0 +1,1121 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Canada,Alberta,12/31/2019,Partly cloudy throughout the day.,wind,0.19,0.0009,0.0036,0.13,snow,36.62,20.58,24.79,0.75,999.3,0.71,0,27.96,36.62,53.9333,-116.5765
+Canada,Alberta,1/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.22,0.0007,0.0029,0.15,snow,31.02,17.62,23.81,0.9,995.4,0.76,0,20.48,31.02,53.9333,-116.5765
+Canada,Alberta,1/2/2020,Windy in the morning and afternoon.,wind,0.25,0.0008,0.0048,0.13,snow,21.48,11.51,7.26,0.59,1008.7,0.42,0,12.58,28.82,53.9333,-116.5765
+Canada,Alberta,1/3/2020,Foggy in the morning.,cloudy,0.28,0.0086,0.0373,0.23,snow,23.22,19.63,12.44,0.8,1007.7,0.97,0,11.51,23.28,53.9333,-116.5765
+Canada,Alberta,1/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.31,0.0014,0.0109,0.13,snow,30.98,16.26,15.91,0.71,1004.0,0.61,0,19.25,30.98,53.9333,-116.5765
+Canada,Alberta,1/5/2020,Windy overnight.,wind,0.34,0.0005,0.003,0.06,snow,32.66,9.0,11.45,0.62,1011.8,0.4,0,16.26,32.66,53.9333,-116.5765
+Canada,Alberta,1/6/2020,Foggy in the morning.,wind,0.37,0.0013,0.0047,0.15,snow,20.97,5.19,7.75,0.75,1019.1,0.47,0,9.18,20.97,53.9333,-116.5765
+Canada,Alberta,1/7/2020,Foggy starting in the afternoon.,partly-cloudy-day,0.41,0.0062,0.0288,0.14,snow,16.27,0.97,5.25,0.82,1018.0,0.84,0,5.19,16.27,53.9333,-116.5765
+Canada,Alberta,1/8/2020,Foggy until evening.,fog,0.44,0.0047,0.0137,0.13,snow,4.43,-11.03,-6.03,0.76,1012.4,0.83,0,-9.68,9.05,53.9333,-116.5765
+Canada,Alberta,1/9/2020,Foggy in the morning.,partly-cloudy-day,0.48,0.0003,0.0011,0.08,snow,2.54,-10.99,-13.31,0.72,1026.9,0.63,0,-11.03,2.54,53.9333,-116.5765
+Canada,Alberta,1/10/2020,Foggy starting in the afternoon.,partly-cloudy-day,0.51,0.003,0.0108,0.08,snow,5.12,-13.71,-13.98,0.63,1018.6,0.78,0,-11.08,5.12,53.9333,-116.5765
+Canada,Alberta,1/11/2020,Foggy starting in the afternoon.,partly-cloudy-day,0.55,0.004,0.0136,0.13,snow,-5.6,-25.17,-20.8,0.61,1020.4,0.82,0,-17.98,-5.6,53.9333,-116.5765
+Canada,Alberta,1/12/2020,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.59,0.0006,0.0022,0.17,snow,-16.45,-25.68,-32.58,0.53,1030.5,0.77,0,-25.19,-16.45,53.9333,-116.5765
+Canada,Alberta,1/13/2020,Foggy in the morning.,partly-cloudy-day,0.62,0.0007,0.0017,0.16,snow,-20.93,-33.36,-35.08,0.56,1032.4,0.8,0,-30.6,-20.93,53.9333,-116.5765
+Canada,Alberta,1/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.66,0.0001,0.0003,0.08,snow,-21.86,-37.06,-41.39,0.5,1034.2,0.52,0,-33.36,-21.86,53.9333,-116.5765
+Canada,Alberta,1/15/2020,Foggy overnight.,partly-cloudy-day,0.7,0.0001,0.0002,0.08,snow,-21.13,-28.73,-44.73,0.43,1040.0,0.33,0,-37.06,-21.13,53.9333,-116.5765
+Canada,Alberta,1/16/2020,Foggy throughout the day.,cloudy,0.74,0.0009,0.0041,0.1,snow,-16.11,-24.99,-36.96,0.46,1032.8,0.95,0,-28.25,-16.11,53.9333,-116.5765
+Canada,Alberta,1/17/2020,Foggy in the morning.,partly-cloudy-day,0.77,0.0022,0.0126,0.14,snow,-14.55,-26.72,-33.74,0.5,1036.5,0.69,0,-24.99,-14.55,53.9333,-116.5765
+Canada,Alberta,1/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0003,0.0007,0.1,snow,-3.74,-11.09,-31.08,0.45,1039.9,0.58,0,-26.72,-3.74,53.9333,-116.5765
+Canada,Alberta,1/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.0002,0.0016,0.08,snow,30.47,23.24,0.01,0.61,1026.4,0.71,0,-11.09,30.47,53.9333,-116.5765
+Canada,Alberta,1/20/2020,Overcast throughout the day.,partly-cloudy-day,0.88,0.0001,0.0002,0.03,snow,42.45,15.48,22.51,0.68,1010.0,0.66,0,23.44,42.45,53.9333,-116.5765
+Canada,Alberta,1/21/2020,Clear throughout the day.,partly-cloudy-day,0.91,0.0014,0.015,0.09,snow,34.18,22.41,16.89,0.74,1006.6,0.32,0,15.47,34.18,53.9333,-116.5765
+Canada,Alberta,1/22/2020,Clear throughout the day.,partly-cloudy-day,0.94,0.0013,0.0137,0.16,snow,34.63,16.91,19.95,0.77,1009.6,0.42,0,20.69,34.63,53.9333,-116.5765
+Canada,Alberta,1/23/2020,Overcast throughout the day.,partly-cloudy-day,0.98,0.0004,0.0029,0.1,snow,37.0,25.77,17.91,0.7,1009.7,0.65,0,16.91,37.0,53.9333,-116.5765
+Canada,Alberta,1/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0009,0.0063,0.16,snow,38.34,22.88,24.58,0.81,1007.0,0.46,1,25.77,38.34,53.9333,-116.5765
+Canada,Alberta,1/25/2020,Clear throughout the day.,clear-day,0.04,0.0001,0.0003,0.11,snow,36.88,13.8,21.64,0.77,1012.9,0.06,1,21.14,36.88,53.9333,-116.5765
+Canada,Alberta,1/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.02,snow,28.99,19.42,13.82,0.73,1014.4,0.34,1,13.8,28.99,53.9333,-116.5765
+Canada,Alberta,1/27/2020,Mostly cloudy throughout the day.,clear-day,0.1,0.0001,0.0003,0.07,snow,35.4,12.55,18.01,0.71,1013.8,0.29,1,19.42,35.4,53.9333,-116.5765
+Canada,Alberta,1/28/2020,Partly cloudy throughout the day.,clear-day,0.13,0.0001,0.0003,0.12,snow,30.14,16.12,13.87,0.75,1016.0,0.19,1,12.55,30.14,53.9333,-116.5765
+Canada,Alberta,1/29/2020,Windy overnight.,partly-cloudy-day,0.16,0.0006,0.0039,0.16,snow,36.12,22.68,16.21,0.68,1010.2,0.63,1,16.12,36.12,53.9333,-116.5765
+Canada,Alberta,1/30/2020,Dangerously windy in the evening and overnight.,wind,0.19,0.0001,0.0004,0.09,snow,35.13,23.62,17.04,0.6,1011.9,0.31,1,22.67,35.13,53.9333,-116.5765
+Canada,Alberta,1/31/2020,Windy overnight.,snow,0.22,0.0053,0.0269,0.28,snow,34.28,27.53,21.27,0.73,1006.0,0.64,1,23.54,34.28,53.9333,-116.5765
+Canada,Alberta,2/1/2020,Windy until evening.,snow,0.25,0.0013,0.0119,0.27,snow,36.55,11.54,19.69,0.68,997.4,0.57,1,16.87,37.56,53.9333,-116.5765
+Canada,Alberta,2/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0026,0.0094,0.23,snow,21.48,0.39,7.83,0.71,1016.1,0.47,1,9.05,21.48,53.9333,-116.5765
+Canada,Alberta,2/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.32,0.0002,0.0008,0.15,snow,15.57,5.77,0.73,0.73,1025.8,0.52,1,0.39,15.57,53.9333,-116.5765
+Canada,Alberta,2/4/2020,Overcast throughout the day.,partly-cloudy-day,0.35,0.0005,0.0017,0.14,snow,28.19,18.12,6.8,0.62,1013.5,0.61,1,5.77,28.19,53.9333,-116.5765
+Canada,Alberta,2/5/2020,Mostly cloudy throughout the day.,snow,0.38,0.0018,0.0108,0.29,snow,31.85,22.26,18.96,0.75,1004.0,0.73,1,18.12,31.85,53.9333,-116.5765
+Canada,Alberta,2/6/2020,Clear throughout the day.,partly-cloudy-day,0.42,0.0004,0.0018,0.23,snow,30.95,16.29,17.28,0.7,1009.3,0.37,1,21.62,30.95,53.9333,-116.5765
+Canada,Alberta,2/7/2020,Clear throughout the day.,partly-cloudy-day,0.46,0.0003,0.0014,0.14,snow,28.9,11.79,11.98,0.66,1013.0,0.37,1,16.29,28.9,53.9333,-116.5765
+Canada,Alberta,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0002,0.0006,0.18,snow,25.92,18.23,11.98,0.77,1019.2,0.51,1,11.79,25.92,53.9333,-116.5765
+Canada,Alberta,2/9/2020,Windy in the morning.,snow,0.53,0.0007,0.0025,0.29,snow,31.17,17.6,14.41,0.64,1018.5,0.68,1,18.23,31.17,53.9333,-116.5765
+Canada,Alberta,2/10/2020,Clear throughout the day.,partly-cloudy-day,0.57,0.0002,0.0007,0.1,snow,33.35,26.08,14.64,0.66,1022.5,0.34,1,17.6,33.35,53.9333,-116.5765
+Canada,Alberta,2/11/2020,Snow (3–6 in.) in the morning and afternoon.,snow,0.61,0.0143,0.0335,0.68,snow,31.7,3.79,20.69,0.85,1013.4,0.97,1,11.33,31.7,53.9333,-116.5765
+Canada,Alberta,2/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0007,0.0039,0.08,snow,20.85,10.9,5.39,0.78,1027.5,0.64,1,3.79,20.85,53.9333,-116.5765
+Canada,Alberta,2/13/2020,Possible light snow (1–2 in.) in the afternoon.,snow,0.69,0.0055,0.0232,0.5,snow,33.52,14.04,18.38,0.74,1003.8,0.91,1,15.52,33.52,53.9333,-116.5765
+Canada,Alberta,2/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.0028,0.0071,0.2,snow,16.23,5.84,8.44,0.8,1010.9,0.71,1,5.84,22.77,53.9333,-116.5765
+Canada,Alberta,2/15/2020,Mostly cloudy throughout the day.,snow,0.76,0.0009,0.0035,0.27,snow,31.82,11.01,11.91,0.77,1010.2,0.76,1,6.41,31.82,53.9333,-116.5765
+Canada,Alberta,2/16/2020,Foggy overnight.,partly-cloudy-day,0.79,0.0006,0.0038,0.13,snow,21.11,-6.96,8.52,0.75,1014.5,0.57,1,7.69,21.11,53.9333,-116.5765
+Canada,Alberta,2/17/2020,Foggy in the morning and afternoon.,snow,0.83,0.0048,0.0103,0.25,snow,3.59,-4.88,-7.85,0.72,1032.4,0.91,1,-6.98,7.3,53.9333,-116.5765
+Canada,Alberta,2/18/2020,Clear throughout the day.,partly-cloudy-day,0.86,0.0004,0.0013,0.13,snow,25.61,7.66,1.39,0.74,1032.9,0.43,1,-4.88,25.61,53.9333,-116.5765
+Canada,Alberta,2/19/2020,Clear throughout the day.,clear-day,0.89,0.0001,0.0002,0.04,snow,37.37,17.3,9.65,0.62,1026.8,0.0,1,7.66,37.37,53.9333,-116.5765
+Canada,Alberta,2/20/2020,Partly cloudy throughout the day.,clear-day,0.92,0.0001,0.0004,0.09,snow,36.92,21.38,11.54,0.54,1017.9,0.15,1,17.3,36.92,53.9333,-116.5765
+Canada,Alberta,2/21/2020,Windy in the morning.,wind,0.95,0.0002,0.0004,0.1,snow,39.56,22.79,17.37,0.58,1009.3,0.66,1,21.38,39.56,53.9333,-116.5765
+Canada,Alberta,2/22/2020,Clear throughout the day.,partly-cloudy-day,0.99,0.0004,0.0011,0.18,snow,29.59,8.63,12.5,0.59,1011.6,0.32,1,18.67,29.59,53.9333,-116.5765
+Canada,Alberta,2/23/2020,Clear throughout the day.,clear-day,0.02,0.0001,0.0003,0.12,snow,28.9,5.58,6.2,0.58,1015.8,0.23,1,8.63,28.9,53.9333,-116.5765
+Canada,Alberta,2/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.05,0.0002,0.0003,0.18,snow,28.12,10.35,6.18,0.66,1028.7,0.42,1,5.58,28.12,53.9333,-116.5765
+Canada,Alberta,2/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.08,0.0002,0.001,0.09,snow,32.26,20.5,11.15,0.67,1030.8,0.6,1,10.35,32.26,53.9333,-116.5765
+Canada,Alberta,2/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.11,0.0005,0.0028,0.23,snow,37.9,27.76,18.94,0.68,1020.9,0.39,1,20.5,37.9,53.9333,-116.5765
+Canada,Alberta,2/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.14,0.0001,0.0002,0.14,snow,41.92,25.38,22.73,0.63,1015.7,0.58,2,27.76,41.92,53.9333,-116.5765
+Canada,Alberta,2/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.17,0.0003,0.003,0.18,snow,37.77,22.25,19.86,0.63,1010.4,0.6,2,25.38,37.77,53.9333,-116.5765
+Canada,Alberta,2/29/2020,Snow (3–6 in.) in the morning and afternoon.,snow,0.2,0.0158,0.036000000000000004,0.58,snow,29.4,9.92,18.79,0.85,1007.5,1.0,1,12.75,29.4,53.9333,-116.5765
+Canada,Alberta,3/1/2020,Dangerously windy in the evening and overnight.,wind,0.23,0.0016,0.0191,0.13,snow,34.61,26.75,13.22,0.7,1013.3,0.5,2,9.92,34.61,53.9333,-116.5765
+Canada,Alberta,3/2/2020,Dangerously windy in the morning.,snow,0.26,0.0011,0.0097,0.35,snow,32.88,25.68,18.89,0.65,1001.6,0.57,2,26.75,32.88,53.9333,-116.5765
+Canada,Alberta,3/3/2020,Partly cloudy throughout the day.,snow,0.29,0.0075,0.0391,0.41,snow,33.5,22.18,18.71,0.67,1001.0,0.65,2,25.68,33.5,53.9333,-116.5765
+Canada,Alberta,3/4/2020,Foggy in the morning.,snow,0.33,0.0023,0.0133,0.3,snow,29.97,14.09,13.15,0.62,1008.4,0.57,2,16.79,29.97,53.9333,-116.5765
+Canada,Alberta,3/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.36,0.0001,0.0003,0.13,snow,35.36,11.54,12.02,0.6,1012.8,0.57,2,14.09,35.36,53.9333,-116.5765
+Canada,Alberta,3/6/2020,Foggy throughout the day.,partly-cloudy-day,0.4,0.0032,0.0056,0.21,snow,13.72,0.91,7.94,0.79,1018.3,0.79,2,3.37,27.68,53.9333,-116.5765
+Canada,Alberta,3/7/2020,Foggy throughout the day.,fog,0.44,0.0054,0.013999999999999999,0.21,snow,11.71,-3.64,0.09,0.77,1023.3,0.93,2,0.91,11.71,53.9333,-116.5765
+Canada,Alberta,3/8/2020,Clear throughout the day.,partly-cloudy-day,0.48,0.0003,0.0015,0.13,snow,26.25,9.28,2.16,0.69,1019.2,0.32,2,-3.64,26.25,53.9333,-116.5765
+Canada,Alberta,3/9/2020,Clear throughout the day.,clear-day,0.52,0.0002,0.0003,0.08,snow,32.9,16.63,4.94,0.54,1018.6,0.15,2,9.28,32.9,53.9333,-116.5765
+Canada,Alberta,3/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.55,0.0015,0.0122,0.14,snow,36.72,21.86,13.78,0.59,1006.7,0.58,2,16.63,36.72,53.9333,-116.5765
+Canada,Alberta,3/11/2020,Foggy in the morning and afternoon.,snow,0.59,0.0038,0.0144,0.45,snow,28.19,14.52,18.36,0.77,1011.0,0.65,1,21.48,28.19,53.9333,-116.5765
+Canada,Alberta,3/12/2020,"Foggy until afternoon, starting again overnight.",partly-cloudy-day,0.63,0.0027,0.0103,0.23,snow,17.78,-10.68,7.6,0.75,1028.2,0.73,1,2.94,20.94,53.9333,-116.5765
+Canada,Alberta,3/13/2020,Foggy throughout the day.,partly-cloudy-day,0.67,0.0009,0.0031,0.16,snow,-0.08,-11.24,-13.55,0.64,1044.6,0.87,2,-10.86,2.13,53.9333,-116.5765
+Canada,Alberta,3/14/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.71,0.0003,0.0011,0.14,snow,4.9,-11.7,-13.77,0.64,1047.3,0.6,2,-11.24,4.9,53.9333,-116.5765
+Canada,Alberta,3/15/2020,Clear throughout the day.,clear-day,0.74,0.0001,0.0002,0.05,snow,25.21,8.53,-9.21,0.52,1037.4,0.16,3,-11.7,25.21,53.9333,-116.5765
+Canada,Alberta,3/16/2020,Clear throughout the day.,clear-day,0.77,0.0001,0.0002,0.04,snow,39.73,17.72,8.27,0.55,1025.0,0.1,3,8.53,39.73,53.9333,-116.5765
+Canada,Alberta,3/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0008,0.0028,0.11,snow,23.49,7.13,12.77,0.72,1022.6,0.64,3,12.31,28.4,53.9333,-116.5765
+Canada,Alberta,3/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.84,0.0012,0.003,0.17,snow,24.75,6.87,9.88,0.82,1022.3,0.65,3,7.13,24.75,53.9333,-116.5765
+Canada,Alberta,3/19/2020,Foggy in the morning.,partly-cloudy-day,0.87,0.0006,0.0012,0.14,snow,23.93,2.92,8.28,0.8,1031.4,0.69,3,6.87,23.93,53.9333,-116.5765
+Canada,Alberta,3/20/2020,Clear throughout the day.,clear-day,0.9,0.0002,0.0004,0.04,snow,38.89,23.39,7.97,0.62,1025.8,0.2,4,2.92,38.89,53.9333,-116.5765
+Canada,Alberta,3/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.001,0.0032,0.18,snow,31.98,16.7,15.92,0.64,1022.1,0.33,2,21.71,31.98,53.9333,-116.5765
+Canada,Alberta,3/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.96,0.0005,0.0042,0.08,snow,38.0,21.51,16.74,0.67,1013.1,0.54,3,16.7,38.0,53.9333,-116.5765
+Canada,Alberta,3/23/2020,Foggy in the evening and overnight.,snow,0.99,0.0061,0.0197,0.48,snow,28.87,11.16,19.72,0.85,1008.0,0.9,2,19.74,28.87,53.9333,-116.5765
+Canada,Alberta,3/24/2020,Foggy until evening.,snow,0.02,0.0081,0.0169,0.44,snow,22.02,3.64,11.06,0.84,1019.2,0.95,2,8.72,22.02,53.9333,-116.5765
+Canada,Alberta,3/25/2020,Clear throughout the day.,clear-day,0.05,0.0004,0.0013,0.13,snow,30.93,18.56,6.93,0.67,1014.5,0.2,3,3.64,30.93,53.9333,-116.5765
+Canada,Alberta,3/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.08,0.0019,0.0079,0.22,snow,36.15,23.74,18.06,0.69,1001.3,0.66,3,18.56,36.15,53.9333,-116.5765
+Canada,Alberta,3/27/2020,Mostly cloudy throughout the day.,snow,0.11,0.0017,0.0051,0.33,snow,39.59,5.36,24.84,0.76,1001.7,0.86,3,23.74,39.59,53.9333,-116.5765
+Canada,Alberta,3/28/2020,Foggy throughout the day.,snow,0.14,0.0035,0.0109,0.36,snow,20.39,11.16,7.93,0.75,1012.9,0.95,3,5.36,30.65,53.9333,-116.5765
+Canada,Alberta,3/29/2020,Foggy in the evening and overnight.,snow,0.18,0.0032,0.0112,0.27,snow,27.52,8.05,13.42,0.83,1009.1,0.97,2,11.16,27.52,53.9333,-116.5765
+Canada,Alberta,3/30/2020,Foggy throughout the day.,snow,0.21,0.0068,0.0248,0.35,snow,17.45,2.56,6.68,0.81,1019.1,0.98,2,7.34,17.45,53.9333,-116.5765
+Canada,Alberta,3/31/2020,Foggy throughout the day.,snow,0.24,0.003,0.0065,0.33,snow,10.15,-2.86,-0.91,0.75,1027.6,0.98,2,1.01,10.15,53.9333,-116.5765
+Canada,Alberta,4/1/2020,Foggy until evening.,cloudy,0.27,0.0014,0.0031,0.24,snow,9.91,-10.33,-5.31,0.7,1034.0,0.89,2,-2.86,9.91,53.9333,-116.5765
+Canada,Alberta,4/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0002,0.0006,0.12,snow,15.53,-1.85,-8.03,0.63,1032.5,0.36,2,-10.33,15.53,53.9333,-116.5765
+Canada,Alberta,4/3/2020,Foggy until evening.,snow,0.35,0.0019,0.0051,0.39,snow,16.47,-1.13,-0.49,0.73,1025.1,0.82,2,-1.85,16.47,53.9333,-116.5765
+Canada,Alberta,4/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.38,0.0002,0.0006,0.11,snow,25.0,6.23,5.92,0.8,1018.8,0.49,2,-1.13,25.0,53.9333,-116.5765
+Canada,Alberta,4/5/2020,Foggy in the morning and afternoon.,snow,0.42,0.0013,0.0033,0.29,snow,22.22,8.71,9.07,0.83,1013.6,0.89,2,6.23,22.22,53.9333,-116.5765
+Canada,Alberta,4/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.46,0.0008,0.0035,0.13,snow,35.32,21.49,14.42,0.76,1006.5,0.56,3,8.71,35.32,53.9333,-116.5765
+Canada,Alberta,4/7/2020,Mostly cloudy throughout the day.,snow,0.5,0.0034,0.0101,0.37,snow,28.92,18.54,15.33,0.68,1012.6,0.57,2,21.49,28.92,53.9333,-116.5765
+Canada,Alberta,4/8/2020,Clear throughout the day.,clear-day,0.54,0.0002,0.0005,0.07,snow,36.82,27.0,13.03,0.57,1026.7,0.23,3,18.54,36.82,53.9333,-116.5765
+Canada,Alberta,4/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0013,0.0066,0.19,snow,46.75,24.46,27.44,0.68,1015.3,0.78,3,27.0,46.75,53.9333,-116.5765
+Canada,Alberta,4/10/2020,Possible light snow (< 1 in.) in the morning.,snow,0.62,0.0045,0.0148,0.6,snow,31.55,11.69,21.72,0.82,1020.5,0.92,3,18.35,33.99,53.9333,-116.5765
+Canada,Alberta,4/11/2020,Partly cloudy throughout the day.,snow,0.65,0.0005,0.0021,0.29,snow,25.18,11.61,5.64,0.59,1030.6,0.44,3,11.69,25.18,53.9333,-116.5765
+Canada,Alberta,4/12/2020,Partly cloudy throughout the day.,snow,0.69,0.0006,0.0018,0.37,snow,25.38,11.89,7.93,0.64,1032.3,0.41,3,11.61,25.38,53.9333,-116.5765
+Canada,Alberta,4/13/2020,Partly cloudy throughout the day.,clear-day,0.72,0.0002,0.0007,0.09,snow,41.16,29.11,13.23,0.59,1025.4,0.3,4,11.89,41.16,53.9333,-116.5765
+Canada,Alberta,4/14/2020,Light snow (1–3 in.) starting in the afternoon.,snow,0.76,0.01,0.0291,0.83,snow,37.78,22.7,29.62,0.9,1018.9,0.84,3,27.53,37.78,53.9333,-116.5765
+Canada,Alberta,4/15/2020,Possible light snow (< 1 in.) in the morning and afternoon.,snow,0.79,0.0029,0.0074,0.66,snow,31.07,22.56,21.95,0.83,1032.0,0.77,3,22.7,31.07,53.9333,-116.5765
+Canada,Alberta,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.82,0.0001,0.0002,0.04,snow,51.18,34.61,24.32,0.65,1019.9,0.34,4,22.56,51.18,53.9333,-116.5765
+Canada,Alberta,4/17/2020,Drizzle until evening.,rain,0.85,0.0061,0.0143,0.8,rain,38.44,23.65,32.81,0.89,1010.1,0.94,3,29.87,38.44,53.9333,-116.5765
+Canada,Alberta,4/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.88,0.0006,0.0032,0.21,snow,44.89,29.16,21.68,0.69,1016.7,0.44,5,23.65,44.89,53.9333,-116.5765
+Canada,Alberta,4/19/2020,Clear throughout the day.,clear-day,0.91,0.0002,0.0009,0.04,snow,53.72,34.78,26.21,0.57,1010.0,0.19,5,29.16,53.72,53.9333,-116.5765
+Canada,Alberta,4/20/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0002,0.03,rain,58.45,38.65,30.58,0.54,1009.2,0.23,5,34.78,58.45,53.9333,-116.5765
+Canada,British Columbia,12/31/2019,Rain throughout the day.,rain,0.19,0.0846,0.1561,1.0,rain,48.25,45.44,43.32,0.92,1007.5,0.93,1,42.77,50.0,49.2827,-123.1207
+Canada,British Columbia,1/1/2020,Possible drizzle in the morning and afternoon.,rain,0.22,0.0051,0.0313,0.82,rain,51.15,37.63,42.46,0.83,1005.7,0.33,1,40.87,51.15,49.2827,-123.1207
+Canada,British Columbia,1/2/2020,Rain throughout the day.,rain,0.25,0.019,0.0548,0.85,rain,43.58,37.82,34.56,0.82,1016.6,0.83,1,37.63,43.58,49.2827,-123.1207
+Canada,British Columbia,1/3/2020,Rain throughout the day.,rain,0.28,0.0637,0.2045,0.99,rain,52.72,40.86,43.1,0.84,1007.1,0.95,1,40.78,52.72,49.2827,-123.1207
+Canada,British Columbia,1/4/2020,Light rain throughout the day.,rain,0.31,0.013999999999999999,0.0542,0.9,rain,45.81,41.07,37.39,0.8,1019.0,0.56,1,40.86,45.81,49.2827,-123.1207
+Canada,British Columbia,1/5/2020,Light rain throughout the day.,rain,0.34,0.0235,0.07200000000000001,0.96,rain,46.0,37.23,37.18,0.83,1021.1,0.7,1,38.66,46.0,49.2827,-123.1207
+Canada,British Columbia,1/6/2020,Rain throughout the day.,rain,0.38,0.0326,0.0841,0.98,rain,42.4,41.1,37.27,0.89,1018.6,0.98,1,37.23,42.46,49.2827,-123.1207
+Canada,British Columbia,1/7/2020,Rain throughout the day.,rain,0.41,0.0705,0.1413,0.99,rain,49.29,38.91,44.44,0.92,1006.1,0.93,0,41.75,49.29,49.2827,-123.1207
+Canada,British Columbia,1/8/2020,Mostly cloudy throughout the day.,rain,0.44,0.0004,0.0023,0.41,rain,43.58,33.33,32.01,0.73,1009.5,0.54,1,34.73,43.58,49.2827,-123.1207
+Canada,British Columbia,1/9/2020,Light rain in the evening and overnight.,rain,0.48,0.0018,0.0173,0.47,rain,41.38,33.1,30.92,0.79,1020.4,0.54,1,33.33,41.38,49.2827,-123.1207
+Canada,British Columbia,1/10/2020,Rain throughout the day.,rain,0.51,0.0615,0.1219,0.96,rain,40.0,38.69,34.26,0.9,1007.3,0.96,1,33.1,40.57,49.2827,-123.1207
+Canada,British Columbia,1/11/2020,"Light rain until morning, starting again in the evening.",rain,0.55,0.0121,0.0539,0.92,rain,43.82,34.74,34.28,0.8,1006.9,0.76,1,35.29,43.82,49.2827,-123.1207
+Canada,British Columbia,1/12/2020,Rain (with a chance of 1–2 in. of snow) in the morning and afternoon.,rain,0.59,0.0403,0.1014,0.91,rain,40.91,19.72,31.47,0.85,1000.9,0.82,0,26.9,40.91,49.2827,-123.1207
+Canada,British Columbia,1/13/2020,Partly cloudy throughout the day.,snow,0.63,0.0027,0.0187,0.31,snow,27.73,19.3,14.02,0.65,1012.6,0.66,1,19.72,27.73,49.2827,-123.1207
+Canada,British Columbia,1/14/2020,Foggy in the evening and overnight.,snow,0.66,0.0018,0.0108,0.37,snow,26.07,19.76,10.69,0.62,1015.0,0.62,1,19.3,26.07,49.2827,-123.1207
+Canada,British Columbia,1/15/2020,Snow (3–6 in.) in the morning and afternoon.,snow,0.7,0.0197,0.0497,0.76,snow,30.61,27.17,18.88,0.76,1007.3,0.93,1,19.76,34.21,49.2827,-123.1207
+Canada,British Columbia,1/16/2020,Possible light rain in the morning and afternoon.,rain,0.74,0.0084,0.0212,0.7,rain,38.6,29.19,27.83,0.79,1003.6,0.63,1,29.62,38.6,49.2827,-123.1207
+Canada,British Columbia,1/17/2020,Possible light rain overnight.,rain,0.77,0.0028,0.0139,0.67,rain,39.61,34.58,27.04,0.76,1019.6,0.58,1,29.19,39.61,49.2827,-123.1207
+Canada,British Columbia,1/18/2020,Light rain throughout the day.,rain,0.81,0.0389,0.0887,0.99,rain,41.84,40.85,34.99,0.87,1019.3,0.96,1,34.58,42.51,49.2827,-123.1207
+Canada,British Columbia,1/19/2020,Light rain throughout the day.,rain,0.84,0.0221,0.0472,0.99,rain,46.14,42.82,41.0,0.9,1020.7,0.94,1,41.17,46.14,49.2827,-123.1207
+Canada,British Columbia,1/20/2020,Light rain throughout the day.,rain,0.88,0.0142,0.0475,0.97,rain,48.01,44.08,41.7,0.87,1011.5,0.89,1,42.82,48.01,49.2827,-123.1207
+Canada,British Columbia,1/21/2020,Light rain throughout the day.,rain,0.91,0.0352,0.0931,0.97,rain,47.08,41.9,41.44,0.87,1004.0,0.91,1,42.62,48.25,49.2827,-123.1207
+Canada,British Columbia,1/22/2020,Rain throughout the day.,rain,0.94,0.0344,0.1069,0.97,rain,45.63,42.38,40.55,0.9,1014.0,0.88,1,41.9,45.63,49.2827,-123.1207
+Canada,British Columbia,1/23/2020,Rain throughout the day.,rain,0.98,0.0919,0.2187,1.0,rain,50.04,46.33,45.84,0.95,1010.5,0.98,1,43.44,50.34,49.2827,-123.1207
+Canada,British Columbia,1/24/2020,Light rain throughout the day.,rain,0.01,0.0376,0.1195,0.99,rain,50.69,42.45,44.94,0.91,1010.9,0.71,1,44.11,50.69,49.2827,-123.1207
+Canada,British Columbia,1/25/2020,"Light rain until afternoon, starting again overnight.",rain,0.04,0.0106,0.0467,0.9,rain,49.1,43.73,41.96,0.89,1014.2,0.91,1,42.45,49.1,49.2827,-123.1207
+Canada,British Columbia,1/26/2020,Light rain throughout the day.,rain,0.07,0.0281,0.0731,0.99,rain,51.15,42.03,42.74,0.86,1011.4,0.79,1,43.82,51.15,49.2827,-123.1207
+Canada,British Columbia,1/27/2020,Light rain throughout the day.,rain,0.1,0.0192,0.0662,0.95,rain,48.1,41.48,40.58,0.85,1016.7,0.69,1,42.03,48.1,49.2827,-123.1207
+Canada,British Columbia,1/28/2020,"Light rain until afternoon, starting again overnight.",rain,0.13,0.0078,0.0328,0.87,rain,49.04,43.08,40.64,0.87,1015.6,0.75,1,41.48,49.04,49.2827,-123.1207
+Canada,British Columbia,1/29/2020,Rain in the morning and afternoon.,rain,0.16,0.0541,0.2014,0.97,rain,49.2,39.53,42.5,0.91,1018.5,0.73,1,40.43,49.2,49.2827,-123.1207
+Canada,British Columbia,1/30/2020,Rain starting in the afternoon.,rain,0.19,0.027000000000000003,0.1338,0.91,rain,48.63,42.72,39.25,0.85,1021.5,0.83,1,39.53,48.63,49.2827,-123.1207
+Canada,British Columbia,1/31/2020,Rain throughout the day.,rain,0.22,0.1064,0.1461,0.99,rain,53.05,45.53,46.19,0.93,1012.1,0.98,1,42.72,53.05,49.2827,-123.1207
+Canada,British Columbia,2/1/2020,Light rain in the morning.,rain,0.25,0.018000000000000002,0.0772,0.95,rain,49.04,32.53,38.24,0.79,1014.8,0.51,1,35.34,50.71,49.2827,-123.1207
+Canada,British Columbia,2/2/2020,Possible light rain throughout the day.,rain,0.29,0.0082,0.0309,0.74,rain,42.45,32.97,31.64,0.82,1022.6,0.55,1,32.53,42.45,49.2827,-123.1207
+Canada,British Columbia,2/3/2020,Possible drizzle in the afternoon.,rain,0.32,0.0022,0.0103,0.58,rain,41.84,31.72,30.54,0.8,1026.9,0.55,1,32.78,41.84,49.2827,-123.1207
+Canada,British Columbia,2/4/2020,Light rain (with a chance of 1–3 in. of snow) throughout the day.,rain,0.35,0.0318,0.0617,0.95,rain,35.84,33.99,30.83,0.89,1026.8,0.97,1,31.72,35.84,49.2827,-123.1207
+Canada,British Columbia,2/5/2020,Drizzle until evening.,rain,0.39,0.0103,0.0274,0.95,rain,41.62,37.84,35.39,0.91,1017.0,0.93,1,34.35,41.62,49.2827,-123.1207
+Canada,British Columbia,2/6/2020,Light rain until evening.,rain,0.42,0.0069,0.0271,0.83,rain,43.75,36.91,37.43,0.9,1017.0,0.86,1,37.84,43.75,49.2827,-123.1207
+Canada,British Columbia,2/7/2020,Rain throughout the day.,rain,0.46,0.0255,0.1132,0.94,rain,46.82,37.45,38.2,0.9,1011.6,0.85,1,36.91,46.82,49.2827,-123.1207
+Canada,British Columbia,2/8/2020,Clear throughout the day.,rain,0.5,0.0046,0.0468,0.81,rain,48.31,32.48,36.02,0.79,1018.2,0.26,1,37.08,48.31,49.2827,-123.1207
+Canada,British Columbia,2/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.53,0.0009,0.0025,0.17,rain,43.83,34.24,30.91,0.77,1032.3,0.41,1,32.48,43.83,49.2827,-123.1207
+Canada,British Columbia,2/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0009,0.0027,0.15,rain,45.92,36.23,33.41,0.8,1031.5,0.43,1,34.24,45.92,49.2827,-123.1207
+Canada,British Columbia,2/11/2020,Mostly cloudy throughout the day.,rain,0.61,0.0026,0.006,0.53,rain,47.22,38.86,37.51,0.86,1024.4,0.69,1,36.23,47.22,49.2827,-123.1207
+Canada,British Columbia,2/12/2020,Mostly cloudy throughout the day.,rain,0.65,0.0013,0.0028,0.28,rain,47.64,38.74,37.92,0.85,1025.0,0.6,1,38.86,47.64,49.2827,-123.1207
+Canada,British Columbia,2/13/2020,Light rain in the morning and afternoon.,rain,0.69,0.0193,0.0722,0.89,rain,46.11,37.57,37.87,0.88,1013.2,0.73,1,38.74,46.11,49.2827,-123.1207
+Canada,British Columbia,2/14/2020,Light rain in the evening and overnight.,rain,0.72,0.0035,0.0194,0.67,rain,49.06,38.64,36.52,0.81,1017.3,0.48,1,37.57,49.06,49.2827,-123.1207
+Canada,British Columbia,2/15/2020,Light rain until evening.,rain,0.76,0.0267,0.055999999999999994,0.95,rain,46.62,36.36,39.35,0.91,1015.8,0.83,1,38.64,46.62,49.2827,-123.1207
+Canada,British Columbia,2/16/2020,Partly cloudy throughout the day.,rain,0.79,0.0015,0.0046,0.55,rain,45.94,33.13,35.02,0.82,1019.9,0.44,1,36.36,45.94,49.2827,-123.1207
+Canada,British Columbia,2/17/2020,Partly cloudy throughout the day.,rain,0.83,0.0008,0.0025,0.34,rain,45.42,32.42,32.16,0.78,1028.6,0.31,2,33.13,45.42,49.2827,-123.1207
+Canada,British Columbia,2/18/2020,Clear throughout the day.,rain,0.86,0.001,0.0023,0.25,rain,46.06,32.24,30.81,0.74,1030.0,0.16,2,32.42,46.06,49.2827,-123.1207
+Canada,British Columbia,2/19/2020,Clear throughout the day.,clear-day,0.89,0.0009,0.0023,0.1,rain,48.49,33.56,29.76,0.68,1026.7,0.04,2,32.24,48.49,49.2827,-123.1207
+Canada,British Columbia,2/20/2020,Clear throughout the day.,clear-day,0.92,0.0011,0.0023,0.17,rain,49.98,34.36,32.43,0.72,1024.8,0.11,2,33.56,49.98,49.2827,-123.1207
+Canada,British Columbia,2/21/2020,Light rain overnight.,rain,0.96,0.0022,0.0209,0.45,rain,50.63,39.47,32.98,0.71,1021.7,0.39,2,34.36,50.63,49.2827,-123.1207
+Canada,British Columbia,2/22/2020,Light rain in the morning and overnight.,rain,0.99,0.0172,0.0613,0.92,rain,46.32,38.95,38.45,0.86,1019.4,0.79,2,39.47,46.32,49.2827,-123.1207
+Canada,British Columbia,2/23/2020,Rain until evening.,rain,0.02,0.028999999999999998,0.1343,0.96,rain,47.17,37.38,38.71,0.86,1011.9,0.71,1,38.95,47.17,49.2827,-123.1207
+Canada,British Columbia,2/24/2020,Partly cloudy throughout the day.,rain,0.05,0.0009,0.0023,0.31,rain,46.63,36.11,32.12,0.71,1032.8,0.41,2,37.38,46.63,49.2827,-123.1207
+Canada,British Columbia,2/25/2020,Possible light rain in the afternoon.,rain,0.08,0.0043,0.017,0.53,rain,44.82,38.32,34.01,0.79,1034.0,0.71,2,36.11,44.82,49.2827,-123.1207
+Canada,British Columbia,2/26/2020,Possible light rain overnight.,rain,0.11,0.0025,0.0135,0.64,rain,47.81,41.67,39.16,0.87,1032.1,0.8,2,38.32,47.81,49.2827,-123.1207
+Canada,British Columbia,2/27/2020,Possible drizzle in the morning.,rain,0.14,0.005,0.0232,0.77,rain,49.85,39.82,41.44,0.89,1029.3,0.69,2,41.33,49.85,49.2827,-123.1207
+Canada,British Columbia,2/28/2020,Light rain starting in the afternoon.,rain,0.17,0.0229,0.0908,0.94,rain,47.62,38.54,39.83,0.88,1014.7,0.77,2,39.82,47.62,49.2827,-123.1207
+Canada,British Columbia,2/29/2020,Clear throughout the day.,rain,0.2,0.0071,0.0697,0.78,rain,48.97,34.73,36.18,0.8,1015.8,0.32,2,36.83,48.97,49.2827,-123.1207
+Canada,British Columbia,3/1/2020,Possible light rain in the evening and overnight.,rain,0.23,0.0022,0.0085,0.54,rain,45.57,37.04,34.0,0.81,1027.3,0.57,2,34.73,45.57,49.2827,-123.1207
+Canada,British Columbia,3/2/2020,Light rain until evening.,rain,0.26,0.0256,0.065,0.95,rain,43.23,39.99,38.38,0.92,1021.6,0.93,2,37.04,44.65,49.2827,-123.1207
+Canada,British Columbia,3/3/2020,Light rain in the afternoon and evening.,rain,0.3,0.0076,0.0302,0.85,rain,48.26,37.65,40.73,0.88,1017.5,0.87,2,39.99,48.26,49.2827,-123.1207
+Canada,British Columbia,3/4/2020,Mostly cloudy throughout the day.,rain,0.33,0.0015,0.005,0.47,rain,49.02,41.13,34.23,0.71,1021.8,0.52,2,37.65,49.02,49.2827,-123.1207
+Canada,British Columbia,3/5/2020,Light rain throughout the day.,rain,0.37,0.0174,0.0635,0.94,rain,46.98,34.79,37.42,0.8,1014.1,0.94,2,40.85,46.98,49.2827,-123.1207
+Canada,British Columbia,3/6/2020,Clear throughout the day.,rain,0.4,0.001,0.0024,0.42,rain,47.17,33.72,32.81,0.74,1014.9,0.23,2,34.79,47.17,49.2827,-123.1207
+Canada,British Columbia,3/7/2020,Possible light rain in the morning and afternoon.,rain,0.44,0.0054,0.0216,0.74,rain,45.27,33.07,32.49,0.78,1011.4,0.54,2,33.72,45.27,49.2827,-123.1207
+Canada,British Columbia,3/8/2020,Clear throughout the day.,rain,0.48,0.0012,0.0039,0.42,rain,45.52,31.61,31.69,0.76,1019.4,0.22,2,33.07,45.52,49.2827,-123.1207
+Canada,British Columbia,3/9/2020,Clear throughout the day.,clear-day,0.52,0.0008,0.0023,0.19,rain,47.48,36.81,30.18,0.72,1024.7,0.23,2,31.61,47.48,49.2827,-123.1207
+Canada,British Columbia,3/10/2020,Light rain throughout the day.,rain,0.56,0.0209,0.0449,0.93,rain,43.52,39.64,34.59,0.81,1020.8,0.95,2,36.81,44.5,49.2827,-123.1207
+Canada,British Columbia,3/11/2020,Possible drizzle in the morning.,rain,0.6,0.0016,0.0073,0.6,rain,50.11,34.69,37.06,0.77,1021.0,0.36,3,39.64,50.11,49.2827,-123.1207
+Canada,British Columbia,3/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.63,0.0008,0.0022,0.17,rain,48.0,35.9,32.65,0.74,1026.0,0.51,2,34.69,48.0,49.2827,-123.1207
+Canada,British Columbia,3/13/2020,Mostly cloudy throughout the day.,rain,0.67,0.0008,0.0022,0.25,rain,47.19,29.77,24.33,0.55,1012.8,0.85,2,35.9,47.19,49.2827,-123.1207
+Canada,British Columbia,3/14/2020,Clear throughout the day.,clear-day,0.71,0.0008,0.0021,0.08,rain,41.63,27.25,8.37,0.32,1017.1,0.25,3,29.77,41.63,49.2827,-123.1207
+Canada,British Columbia,3/15/2020,Clear throughout the day.,clear-day,0.74,0.0006,0.0021,0.04,snow,47.4,33.66,13.97,0.39,1024.2,0.0,3,27.25,47.4,49.2827,-123.1207
+Canada,British Columbia,3/16/2020,Clear throughout the day.,clear-day,0.78,0.0007,0.0019,0.02,rain,52.73,35.03,26.9,0.54,1023.0,0.0,4,33.66,52.73,49.2827,-123.1207
+Canada,British Columbia,3/17/2020,Partly cloudy throughout the day.,clear-day,0.81,0.0012,0.0023,0.04,rain,54.88,36.45,33.43,0.67,1012.1,0.26,3,35.03,54.88,49.2827,-123.1207
+Canada,British Columbia,3/18/2020,Clear throughout the day.,clear-day,0.84,0.0007,0.0021,0.05,rain,54.9,37.56,34.31,0.66,1012.1,0.04,4,36.45,54.9,49.2827,-123.1207
+Canada,British Columbia,3/19/2020,Partly cloudy throughout the day.,clear-day,0.87,0.0007,0.0021,0.08,rain,56.1,38.41,36.15,0.68,1017.0,0.29,3,37.56,56.1,49.2827,-123.1207
+Canada,British Columbia,3/20/2020,Clear throughout the day.,clear-day,0.9,0.0007,0.0021,0.08,rain,56.57,38.06,37.34,0.7,1024.8,0.1,4,38.41,56.57,49.2827,-123.1207
+Canada,British Columbia,3/21/2020,Clear throughout the day.,clear-day,0.93,0.0007,0.002,0.09,rain,55.09,39.24,37.69,0.73,1024.1,0.06,3,38.06,55.09,49.2827,-123.1207
+Canada,British Columbia,3/22/2020,Possible light rain overnight.,partly-cloudy-day,0.96,0.0008,0.0026,0.23,rain,52.34,40.3,39.0,0.78,1016.5,0.68,3,39.24,52.34,49.2827,-123.1207
+Canada,British Columbia,3/23/2020,"Light rain until morning, starting again in the evening.",rain,0.99,0.0089,0.0192,0.84,rain,51.01,38.1,37.87,0.78,1008.4,0.55,3,40.3,51.01,49.2827,-123.1207
+Canada,British Columbia,3/24/2020,Light rain in the morning and afternoon.,rain,0.02,0.0078,0.0213,0.84,rain,48.28,37.69,37.94,0.84,1013.9,0.52,3,38.1,48.28,49.2827,-123.1207
+Canada,British Columbia,3/25/2020,Partly cloudy throughout the day.,rain,0.05,0.0011,0.0029,0.3,rain,51.85,38.78,35.88,0.75,1016.4,0.31,3,37.69,51.85,49.2827,-123.1207
+Canada,British Columbia,3/26/2020,Light rain starting in the afternoon.,rain,0.08,0.0037,0.0099,0.69,rain,48.13,41.71,38.08,0.82,1015.9,0.62,3,38.78,48.13,49.2827,-123.1207
+Canada,British Columbia,3/27/2020,Light rain throughout the day.,rain,0.11,0.0145,0.0296,0.99,rain,47.29,44.35,42.28,0.93,1015.2,0.94,3,41.71,47.29,49.2827,-123.1207
+Canada,British Columbia,3/28/2020,Light rain throughout the day.,rain,0.15,0.0409,0.0711,1.0,rain,51.75,44.34,45.31,0.93,1011.9,0.96,3,44.35,51.75,49.2827,-123.1207
+Canada,British Columbia,3/29/2020,"Light rain until morning, starting again in the evening.",rain,0.18,0.0181,0.0613,0.97,rain,54.2,42.16,42.03,0.81,1008.3,0.7,3,44.34,54.2,49.2827,-123.1207
+Canada,British Columbia,3/30/2020,Rain throughout the day.,rain,0.21,0.0337,0.1519,0.98,rain,48.45,37.51,39.33,0.8,1005.7,0.77,3,40.73,48.45,49.2827,-123.1207
+Canada,British Columbia,3/31/2020,Possible light rain throughout the day.,rain,0.24,0.0057,0.0106,0.81,rain,49.64,37.08,37.43,0.81,1014.8,0.6,2,37.51,49.64,49.2827,-123.1207
+Canada,British Columbia,4/1/2020,Possible light rain in the morning.,rain,0.28,0.0056,0.021,0.69,rain,47.49,36.82,35.49,0.78,1019.3,0.52,3,37.08,47.49,49.2827,-123.1207
+Canada,British Columbia,4/2/2020,Possible drizzle overnight.,rain,0.31,0.0013,0.0039,0.38,rain,49.03,38.29,32.81,0.71,1021.5,0.52,3,36.82,49.03,49.2827,-123.1207
+Canada,British Columbia,4/3/2020,Drizzle in the morning.,rain,0.35,0.0036,0.0079,0.76,rain,48.75,35.73,33.58,0.72,1016.7,0.43,3,38.29,48.75,49.2827,-123.1207
+Canada,British Columbia,4/4/2020,Mostly cloudy throughout the day.,rain,0.39,0.0016,0.0038,0.32,rain,52.1,38.94,33.43,0.71,1010.0,0.64,3,35.73,52.1,49.2827,-123.1207
+Canada,British Columbia,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0008,0.0018,0.11,rain,54.03,37.2,33.61,0.63,1005.1,0.38,3,38.94,54.03,49.2827,-123.1207
+Canada,British Columbia,4/6/2020,Clear throughout the day.,clear-day,0.46,0.0009,0.0021,0.08,rain,54.19,40.95,35.41,0.67,1012.3,0.24,4,37.2,54.19,49.2827,-123.1207
+Canada,British Columbia,4/7/2020,Clear throughout the day.,clear-day,0.5,0.0005,0.0022,0.08,rain,55.57,38.78,37.13,0.69,1021.8,0.31,4,40.95,55.57,49.2827,-123.1207
+Canada,British Columbia,4/8/2020,Clear throughout the day.,clear-day,0.54,0.0011,0.0024,0.06,rain,58.72,41.49,38.52,0.7,1025.5,0.19,4,38.78,58.72,49.2827,-123.1207
+Canada,British Columbia,4/9/2020,Clear throughout the day.,clear-day,0.58,0.0011,0.0025,0.04,rain,60.58,43.06,40.56,0.7,1020.3,0.24,5,41.49,60.58,49.2827,-123.1207
+Canada,British Columbia,4/10/2020,Clear throughout the day.,clear-day,0.62,0.0006,0.0025,0.08,rain,58.91,44.85,43.45,0.76,1017.3,0.16,5,43.06,58.91,49.2827,-123.1207
+Canada,British Columbia,4/11/2020,Clear throughout the day.,rain,0.65,0.0013,0.0037,0.27,rain,59.41,39.55,36.61,0.61,1020.9,0.17,5,44.85,59.41,49.2827,-123.1207
+Canada,British Columbia,4/12/2020,Clear throughout the day.,clear-day,0.69,0.0005,0.0021,0.05,rain,58.38,39.66,27.36,0.43,1026.4,0.03,5,39.55,58.38,49.2827,-123.1207
+Canada,British Columbia,4/13/2020,Clear throughout the day.,clear-day,0.72,0.0006,0.0027,0.04,rain,58.78,42.21,29.4,0.47,1028.9,0.13,5,39.66,58.78,49.2827,-123.1207
+Canada,British Columbia,4/14/2020,Clear throughout the day.,clear-day,0.76,0.001,0.0023,0.09,rain,59.85,44.15,36.82,0.59,1025.3,0.23,5,42.21,59.85,49.2827,-123.1207
+Canada,British Columbia,4/15/2020,Clear throughout the day.,clear-day,0.79,0.0004,0.0017,0.06,rain,65.37,45.76,41.67,0.64,1025.2,0.03,5,44.15,65.37,49.2827,-123.1207
+Canada,British Columbia,4/16/2020,Clear throughout the day.,clear-day,0.82,0.0007,0.0022,0.03,rain,64.75,45.3,35.64,0.49,1023.7,0.14,5,45.76,64.75,49.2827,-123.1207
+Canada,British Columbia,4/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.85,0.0006,0.002,0.07,rain,61.27,49.67,40.04,0.61,1014.6,0.38,4,45.3,61.27,49.2827,-123.1207
+Canada,British Columbia,4/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.88,0.0011,0.0026,0.19,rain,62.47,49.01,46.87,0.73,1013.3,0.39,5,49.67,62.47,49.2827,-123.1207
+Canada,British Columbia,4/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.91,0.0011,0.003,0.17,rain,59.87,45.72,47.41,0.79,1018.3,0.44,4,49.01,59.87,49.2827,-123.1207
+Canada,British Columbia,4/20/2020,Partly cloudy throughout the day.,clear-day,0.94,0.0008,0.0023,0.13,rain,62.49,48.38,46.95,0.79,1018.9,0.31,4,45.72,62.49,49.2827,-123.1207
+Canada,Grand Princess,12/31/2019,Clear throughout the day.,clear-day,0.19,0.0004,0.0013,0.11,rain,57.85,51.97,47.05,0.76,1021.0,0.17,2,51.97,57.85,37.6489,-122.6655
+Canada,Grand Princess,1/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.22,0.0008,0.0023,0.22,rain,57.26,52.34,50.39,0.85,1020.7,0.77,2,51.97,57.26,37.6489,-122.6655
+Canada,Grand Princess,1/2/2020,Clear throughout the day.,clear-day,0.25,0.0007,0.0021,0.09,rain,58.17,50.47,47.99,0.77,1020.4,0.29,2,52.34,58.17,37.6489,-122.6655
+Canada,Grand Princess,1/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0006,0.0018,0.11,rain,57.38,53.12,47.17,0.77,1022.8,0.37,2,50.47,57.38,37.6489,-122.6655
+Canada,Grand Princess,1/4/2020,Partly cloudy throughout the day.,rain,0.31,0.0022,0.0096,0.36,rain,55.94,51.07,47.84,0.79,1028.7,0.5,2,52.07,55.94,37.6489,-122.6655
+Canada,Grand Princess,1/5/2020,Clear throughout the day.,clear-day,0.34,0.0004,0.002,0.15,rain,56.22,49.44,44.42,0.72,1034.1,0.07,2,51.07,56.22,37.6489,-122.6655
+Canada,Grand Princess,1/6/2020,Clear throughout the day.,clear-day,0.38,0.0001,0.0002,0.08,rain,56.04,48.35,43.09,0.7,1031.3,0.01,2,49.45,56.04,37.6489,-122.6655
+Canada,Grand Princess,1/7/2020,Partly cloudy throughout the day.,rain,0.41,0.0013,0.0073,0.28,rain,54.82,51.36,44.83,0.76,1022.9,0.35,2,48.35,54.82,37.6489,-122.6655
+Canada,Grand Princess,1/8/2020,Possible light rain overnight.,rain,0.44,0.0008,0.0055,0.3,rain,54.23,51.16,46.65,0.8,1020.2,0.5,2,51.36,54.23,37.6489,-122.6655
+Canada,Grand Princess,1/9/2020,Possible light rain in the morning.,rain,0.48,0.0073,0.038,0.59,rain,54.76,48.4,46.11,0.78,1018.4,0.35,2,51.16,54.76,37.6489,-122.6655
+Canada,Grand Princess,1/10/2020,Partly cloudy throughout the day.,clear-day,0.51,0.0007,0.0022,0.12,rain,53.92,51.23,44.58,0.77,1025.9,0.29,2,48.4,53.92,37.6489,-122.6655
+Canada,Grand Princess,1/11/2020,Clear throughout the day.,rain,0.55,0.0027,0.0107,0.38,rain,54.89,49.4,45.43,0.76,1024.9,0.32,2,50.46,54.89,37.6489,-122.6655
+Canada,Grand Princess,1/12/2020,Partly cloudy throughout the day.,rain,0.59,0.0016,0.0126,0.26,rain,54.17,49.75,43.46,0.74,1023.0,0.35,2,49.45,54.17,37.6489,-122.6655
+Canada,Grand Princess,1/13/2020,Partly cloudy throughout the day.,rain,0.63,0.0026,0.0153,0.37,rain,54.38,49.12,45.2,0.77,1022.6,0.45,2,49.78,54.38,37.6489,-122.6655
+Canada,Grand Princess,1/14/2020,Partly cloudy throughout the day.,rain,0.66,0.0017,0.013999999999999999,0.42,rain,53.41,46.87,42.5,0.72,1023.1,0.39,2,49.34,53.41,37.6489,-122.6655
+Canada,Grand Princess,1/15/2020,Possible light rain overnight.,partly-cloudy-day,0.7,0.0007,0.0023,0.14,rain,52.48,50.13,41.68,0.73,1017.1,0.55,2,46.87,52.48,37.6489,-122.6655
+Canada,Grand Princess,1/16/2020,Rain until evening.,rain,0.74,0.0395,0.162,0.94,rain,52.42,47.93,43.35,0.76,1011.2,0.67,2,46.57,52.83,37.6489,-122.6655
+Canada,Grand Princess,1/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.77,0.0013,0.0037,0.22,rain,53.23,46.87,41.18,0.71,1025.2,0.52,3,47.93,53.23,37.6489,-122.6655
+Canada,Grand Princess,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0007,0.0018,0.11,rain,54.23,48.74,41.05,0.7,1026.5,0.58,3,46.85,54.23,37.6489,-122.6655
+Canada,Grand Princess,1/19/2020,Overcast throughout the day.,partly-cloudy-day,0.84,0.0004,0.0015,0.07,rain,54.33,49.73,41.02,0.67,1020.1,0.85,2,48.66,54.33,37.6489,-122.6655
+Canada,Grand Princess,1/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.88,0.0006,0.0032,0.11,rain,55.41,52.42,45.63,0.77,1017.3,0.64,2,49.73,55.41,37.6489,-122.6655
+Canada,Grand Princess,1/21/2020,Possible light rain throughout the day.,rain,0.91,0.0122,0.0281,0.81,rain,55.37,52.31,49.7,0.85,1019.6,0.88,2,52.42,55.37,37.6489,-122.6655
+Canada,Grand Princess,1/22/2020,Partly cloudy throughout the day.,rain,0.94,0.0008,0.0067,0.26,rain,56.15,51.26,48.68,0.82,1024.2,0.51,3,52.31,56.15,37.6489,-122.6655
+Canada,Grand Princess,1/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.98,0.001,0.0017,0.24,rain,55.95,51.9,48.24,0.82,1022.6,0.59,2,51.26,55.95,37.6489,-122.6655
+Canada,Grand Princess,1/24/2020,Mostly cloudy throughout the day.,rain,0.01,0.001,0.0035,0.4,rain,57.3,53.85,50.88,0.88,1021.5,0.6,2,51.9,57.3,37.6489,-122.6655
+Canada,Grand Princess,1/25/2020,Light rain in the evening and overnight.,rain,0.04,0.0047,0.0273,0.7,rain,57.07,54.34,52.79,0.91,1020.2,0.84,2,53.85,57.07,37.6489,-122.6655
+Canada,Grand Princess,1/26/2020,Light rain in the morning.,rain,0.07,0.0096,0.0685,0.84,rain,56.28,51.68,50.75,0.86,1023.5,0.5,3,52.97,56.28,37.6489,-122.6655
+Canada,Grand Princess,1/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0009,0.0036,0.23,rain,55.88,52.56,49.31,0.85,1028.8,0.5,2,51.68,55.88,37.6489,-122.6655
+Canada,Grand Princess,1/28/2020,Mostly cloudy throughout the day.,rain,0.13,0.0022,0.0077,0.33,rain,56.48,50.98,49.94,0.85,1027.1,0.74,2,52.56,56.48,37.6489,-122.6655
+Canada,Grand Princess,1/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0007,0.0022,0.14,rain,56.59,53.59,47.43,0.79,1024.7,0.34,3,50.98,56.59,37.6489,-122.6655
+Canada,Grand Princess,1/30/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.19,0.0008,0.0022,0.19,rain,57.26,52.06,51.36,0.87,1024.3,0.71,2,53.59,57.26,37.6489,-122.6655
+Canada,Grand Princess,1/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.22,0.0004,0.0015,0.11,rain,58.62,51.01,49.93,0.83,1026.0,0.43,3,52.06,58.62,37.6489,-122.6655
+Canada,Grand Princess,2/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0005,0.0017,0.13,rain,57.02,52.54,49.87,0.86,1025.1,0.49,3,51.01,57.02,37.6489,-122.6655
+Canada,Grand Princess,2/2/2020,Windy until evening.,wind,0.29,0.0004,0.0021,0.13,rain,53.9,45.37,42.0,0.69,1020.7,0.35,3,47.47,54.24,37.6489,-122.6655
+Canada,Grand Princess,2/3/2020,Clear throughout the day.,clear-day,0.32,0.0006,0.0024,0.12,rain,53.82,47.68,34.43,0.57,1021.5,0.03,3,45.37,53.82,37.6489,-122.6655
+Canada,Grand Princess,2/4/2020,Clear throughout the day.,clear-day,0.35,0.0005,0.0021,0.09,rain,54.31,48.14,30.6,0.47,1024.8,0.07,3,47.68,54.31,37.6489,-122.6655
+Canada,Grand Princess,2/5/2020,Clear throughout the day.,clear-day,0.39,0.001,0.0027,0.14,rain,55.42,49.34,42.01,0.7,1024.2,0.2,3,48.14,55.42,37.6489,-122.6655
+Canada,Grand Princess,2/6/2020,Clear throughout the day.,clear-day,0.42,0.0009,0.0024,0.16,rain,56.65,49.02,46.5,0.8,1021.5,0.12,4,49.34,56.65,37.6489,-122.6655
+Canada,Grand Princess,2/7/2020,Partly cloudy throughout the day.,clear-day,0.46,0.0006,0.0022,0.14,rain,55.24,50.21,47.15,0.83,1020.5,0.27,3,49.02,55.24,37.6489,-122.6655
+Canada,Grand Princess,2/8/2020,Clear throughout the day.,clear-day,0.5,0.0008,0.0025,0.12,rain,56.02,50.29,45.26,0.76,1018.2,0.14,4,50.21,56.02,37.6489,-122.6655
+Canada,Grand Princess,2/9/2020,Clear throughout the day.,clear-day,0.53,0.0008,0.0023,0.06,rain,60.37,52.92,35.2,0.47,1017.2,0.01,4,50.29,60.37,37.6489,-122.6655
+Canada,Grand Princess,2/10/2020,Clear throughout the day.,clear-day,0.57,0.0008,0.0025,0.05,rain,59.03,54.08,40.8,0.57,1017.0,0.01,3,52.92,59.03,37.6489,-122.6655
+Canada,Grand Princess,2/11/2020,Clear throughout the day.,clear-day,0.61,0.0009,0.0021,0.08,rain,59.88,50.54,44.46,0.64,1018.3,0.01,4,53.44,59.88,37.6489,-122.6655
+Canada,Grand Princess,2/12/2020,Clear throughout the day.,clear-day,0.65,0.001,0.0022,0.11,rain,56.07,48.48,46.16,0.77,1017.5,0.1,3,50.54,56.07,37.6489,-122.6655
+Canada,Grand Princess,2/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0011,0.0026,0.14,rain,51.79,48.53,44.73,0.82,1018.7,0.78,3,48.48,51.79,37.6489,-122.6655
+Canada,Grand Princess,2/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0008,0.0029,0.11,rain,53.71,49.37,44.67,0.79,1019.7,0.56,3,48.53,53.71,37.6489,-122.6655
+Canada,Grand Princess,2/15/2020,Partly cloudy throughout the day.,clear-day,0.76,0.0009,0.0021,0.17,rain,55.62,50.64,45.98,0.79,1022.8,0.28,4,49.37,55.62,37.6489,-122.6655
+Canada,Grand Princess,2/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.79,0.0009,0.0022,0.15,rain,54.89,49.97,47.34,0.82,1023.1,0.49,4,50.64,54.89,37.6489,-122.6655
+Canada,Grand Princess,2/17/2020,Clear throughout the day.,partly-cloudy-day,0.83,0.0007,0.0019,0.15,rain,58.37,51.24,46.04,0.76,1019.1,0.35,4,49.97,58.37,37.6489,-122.6655
+Canada,Grand Princess,2/18/2020,Clear throughout the day.,clear-day,0.86,0.001,0.0021,0.11,rain,56.87,48.29,43.62,0.7,1017.6,0.14,4,50.83,56.87,37.6489,-122.6655
+Canada,Grand Princess,2/19/2020,Clear throughout the day.,clear-day,0.89,0.0009,0.0021,0.15,rain,54.64,49.92,45.04,0.79,1019.6,0.22,4,48.29,54.64,37.6489,-122.6655
+Canada,Grand Princess,2/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.92,0.001,0.0022,0.17,rain,56.91,52.16,45.72,0.76,1019.9,0.51,3,49.92,56.91,37.6489,-122.6655
+Canada,Grand Princess,2/21/2020,Clear throughout the day.,partly-cloudy-day,0.96,0.0008,0.002,0.13,rain,59.22,51.94,46.14,0.71,1017.6,0.38,3,52.16,59.22,37.6489,-122.6655
+Canada,Grand Princess,2/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.99,0.0012,0.0028,0.23,rain,53.89,50.29,46.85,0.8,1017.0,0.46,3,51.18,55.26,37.6489,-122.6655
+Canada,Grand Princess,2/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.02,0.0006,0.0026,0.16,rain,54.89,49.14,47.12,0.82,1026.4,0.45,4,50.29,54.89,37.6489,-122.6655
+Canada,Grand Princess,2/24/2020,Clear throughout the day.,clear-day,0.05,0.0008,0.0022,0.22,rain,56.59,52.38,45.98,0.77,1027.6,0.15,5,49.14,56.59,37.6489,-122.6655
+Canada,Grand Princess,2/25/2020,Clear throughout the day.,clear-day,0.08,0.0008,0.0019,0.11,rain,59.42,52.58,46.29,0.71,1025.2,0.06,5,52.38,59.42,37.6489,-122.6655
+Canada,Grand Princess,2/26/2020,Clear throughout the day.,clear-day,0.11,0.0007,0.0023,0.08,rain,59.61,52.4,47.27,0.72,1025.9,0.01,5,52.58,59.61,37.6489,-122.6655
+Canada,Grand Princess,2/27/2020,Clear throughout the day.,partly-cloudy-day,0.14,0.0004,0.0022,0.1,rain,60.33,52.97,48.25,0.75,1023.1,0.33,4,52.4,60.33,37.6489,-122.6655
+Canada,Grand Princess,2/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.17,0.0001,0.0015,0.07,rain,56.09,50.48,48.34,0.81,1020.1,0.69,4,51.53,56.09,37.6489,-122.6655
+Canada,Grand Princess,2/29/2020,Windy in the afternoon and evening.,partly-cloudy-day,0.2,0.0007,0.0021,0.11,rain,53.41,48.1,43.92,0.75,1018.3,0.37,5,49.94,53.41,37.6489,-122.6655
+Canada,Grand Princess,3/1/2020,Partly cloudy throughout the day.,rain,0.23,0.0009,0.0036,0.26,rain,56.52,52.36,39.29,0.62,1016.0,0.3,3,48.1,56.54,37.6489,-122.6655
+Canada,Grand Princess,3/2/2020,Clear throughout the day.,clear-day,0.26,0.001,0.0023,0.08,rain,60.62,52.34,37.97,0.51,1017.8,0.0,5,52.36,60.62,37.6489,-122.6655
+Canada,Grand Princess,3/3/2020,Clear throughout the day.,clear-day,0.3,0.0008,0.0021,0.08,rain,58.13,51.64,47.56,0.76,1017.0,0.03,5,52.34,58.13,37.6489,-122.6655
+Canada,Grand Princess,3/4/2020,Clear throughout the day.,clear-day,0.33,0.0006,0.0021,0.07,rain,58.41,51.4,48.4,0.79,1018.2,0.2,5,51.64,58.41,37.6489,-122.6655
+Canada,Grand Princess,3/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0011,0.003,0.12,rain,54.49,51.54,48.91,0.86,1020.1,0.74,3,51.4,54.49,37.6489,-122.6655
+Canada,Grand Princess,3/6/2020,Overcast throughout the day.,cloudy,0.4,0.0017,0.0047,0.14,rain,53.94,49.04,47.1,0.83,1016.0,0.92,4,49.73,53.94,37.6489,-122.6655
+Canada,Grand Princess,3/7/2020,Light rain in the morning and afternoon.,rain,0.44,0.0131,0.0849,0.87,rain,52.38,47.64,44.5,0.81,1014.3,0.75,4,48.62,52.38,37.6489,-122.6655
+Canada,Grand Princess,3/8/2020,Mostly cloudy throughout the day.,rain,0.48,0.0008,0.0023,0.25,rain,54.55,50.26,43.04,0.73,1015.9,0.65,3,47.64,54.55,37.6489,-122.6655
+Canada,Grand Princess,3/9/2020,Mostly cloudy throughout the day.,rain,0.52,0.0008,0.0022,0.25,rain,58.87,52.89,45.21,0.71,1018.8,0.62,3,50.26,58.87,37.6489,-122.6655
+Canada,Grand Princess,3/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.0008,0.0021,0.16,rain,59.71,53.71,46.84,0.71,1016.5,0.53,3,52.89,59.71,37.6489,-122.6655
+Canada,Grand Princess,3/11/2020,Clear throughout the day.,clear-day,0.6,0.0006,0.002,0.17,rain,58.18,50.42,50.04,0.82,1017.5,0.22,5,52.81,58.18,37.6489,-122.6655
+Canada,Grand Princess,3/12/2020,Clear throughout the day.,clear-day,0.63,0.0007,0.002,0.18,rain,56.64,51.16,48.38,0.83,1012.2,0.31,5,50.42,56.64,37.6489,-122.6655
+Canada,Grand Princess,3/13/2020,Possible drizzle overnight.,partly-cloudy-day,0.67,0.0011,0.0022,0.13,rain,54.77,50.1,47.88,0.83,1008.5,0.61,4,51.16,54.77,37.6489,-122.6655
+Canada,Grand Princess,3/14/2020,Light rain throughout the day.,rain,0.71,0.0246,0.0777,0.99,rain,51.83,48.39,45.04,0.81,1014.8,0.81,4,49.84,52.17,37.6489,-122.6655
+Canada,Grand Princess,3/15/2020,"Light rain until afternoon, starting again overnight.",rain,0.74,0.0091,0.0261,0.95,rain,51.61,44.56,41.04,0.71,1014.6,0.63,4,48.14,51.61,37.6489,-122.6655
+Canada,Grand Princess,3/16/2020,Light rain in the morning and overnight.,rain,0.78,0.0076,0.040999999999999995,0.89,rain,51.69,45.52,39.78,0.74,1013.7,0.59,4,44.54,51.69,37.6489,-122.6655
+Canada,Grand Princess,3/17/2020,Light rain in the morning.,rain,0.81,0.01,0.0523,0.71,rain,52.03,48.42,40.71,0.73,1014.7,0.51,4,45.52,52.03,37.6489,-122.6655
+Canada,Grand Princess,3/18/2020,Possible drizzle in the morning.,rain,0.84,0.0031,0.0108,0.61,rain,53.35,48.72,42.17,0.73,1012.7,0.66,4,48.42,53.35,37.6489,-122.6655
+Canada,Grand Princess,3/19/2020,Clear throughout the day.,rain,0.87,0.0015,0.005,0.35,rain,55.28,50.04,43.6,0.73,1017.0,0.18,5,48.72,55.28,37.6489,-122.6655
+Canada,Grand Princess,3/20/2020,Clear throughout the day.,clear-day,0.9,0.0007,0.002,0.21,rain,57.47,51.23,45.14,0.73,1022.4,0.07,5,50.04,57.47,37.6489,-122.6655
+Canada,Grand Princess,3/21/2020,Clear throughout the day.,rain,0.93,0.0007,0.002,0.32,rain,57.6,51.81,46.77,0.75,1021.1,0.15,5,51.23,57.6,37.6489,-122.6655
+Canada,Grand Princess,3/22/2020,Possible drizzle in the afternoon.,rain,0.96,0.0015,0.0041,0.66,rain,59.23,51.2,48.72,0.78,1018.4,0.24,5,51.81,59.23,37.6489,-122.6655
+Canada,Grand Princess,3/23/2020,Mostly cloudy throughout the day.,rain,0.99,0.0008,0.0022,0.27,rain,54.16,51.01,46.19,0.78,1019.5,0.65,4,51.12,55.91,37.6489,-122.6655
+Canada,Grand Princess,3/24/2020,Possible light rain in the morning and afternoon.,rain,0.02,0.0075,0.0165,0.73,rain,54.29,47.45,44.07,0.73,1020.5,0.57,4,50.93,54.29,37.6489,-122.6655
+Canada,Grand Princess,3/25/2020,Clear throughout the day.,rain,0.05,0.0034,0.0106,0.49,rain,52.35,46.88,40.28,0.68,1018.8,0.28,5,47.45,52.35,37.6489,-122.6655
+Canada,Grand Princess,3/26/2020,Clear throughout the day.,rain,0.08,0.0012,0.0058,0.25,rain,54.1,49.76,40.23,0.68,1018.5,0.08,5,46.88,54.1,37.6489,-122.6655
+Canada,Grand Princess,3/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.11,0.0002,0.0015,0.13,rain,55.0,51.31,43.09,0.71,1021.5,0.4,5,49.76,55.0,37.6489,-122.6655
+Canada,Grand Princess,3/28/2020,Light rain throughout the day.,rain,0.15,0.0059,0.0154,0.89,rain,54.68,52.0,47.05,0.8,1022.4,0.71,5,51.31,54.68,37.6489,-122.6655
+Canada,Grand Princess,3/29/2020,Light rain in the morning and afternoon.,rain,0.18,0.01,0.0692,0.77,rain,56.44,52.35,49.04,0.83,1020.4,0.58,4,52.0,56.44,37.6489,-122.6655
+Canada,Grand Princess,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0007,0.0023,0.16,rain,56.94,52.99,48.04,0.78,1025.6,0.43,5,52.35,56.94,37.6489,-122.6655
+Canada,Grand Princess,3/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0007,0.0019,0.16,rain,56.9,50.48,50.66,0.86,1022.8,0.53,5,52.99,56.9,37.6489,-122.6655
+Canada,Grand Princess,4/1/2020,Clear throughout the day.,clear-day,0.28,0.0006,0.002,0.07,rain,55.19,49.66,43.76,0.71,1016.5,0.04,6,50.48,55.19,37.6489,-122.6655
+Canada,Grand Princess,4/2/2020,Clear throughout the day.,clear-day,0.31,0.0006,0.0022,0.04,rain,55.96,49.58,42.09,0.67,1019.1,0.0,7,49.66,55.96,37.6489,-122.6655
+Canada,Grand Princess,4/3/2020,Clear throughout the day.,clear-day,0.35,0.0009,0.002,0.08,rain,54.55,49.84,43.15,0.72,1018.4,0.12,6,49.58,54.55,37.6489,-122.6655
+Canada,Grand Princess,4/4/2020,Light rain throughout the day.,rain,0.39,0.0113,0.0354,0.91,rain,55.52,52.39,48.5,0.85,1012.1,0.69,3,49.84,55.52,37.6489,-122.6655
+Canada,Grand Princess,4/5/2020,Light rain in the morning and afternoon.,rain,0.42,0.0136,0.057999999999999996,0.92,rain,53.58,47.18,45.74,0.79,1005.3,0.81,3,50.1,53.89,37.6489,-122.6655
+Canada,Grand Princess,4/6/2020,Possible light rain until evening.,rain,0.46,0.0123,0.0297,0.82,rain,51.33,47.65,41.75,0.76,1011.6,0.66,3,47.18,51.33,37.6489,-122.6655
+Canada,Grand Princess,4/7/2020,Clear throughout the day.,clear-day,0.5,0.0006,0.002,0.2,rain,55.58,50.83,44.51,0.78,1018.8,0.12,5,47.65,55.58,37.6489,-122.6655
+Canada,Grand Princess,4/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0012,0.0023,0.16,rain,53.76,52.34,48.18,0.86,1014.7,0.66,4,50.83,53.91,37.6489,-122.6655
+Canada,Grand Princess,4/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0017,0.0046,0.22,rain,57.09,52.57,50.21,0.85,1016.2,0.76,5,52.34,57.09,37.6489,-122.6655
+Canada,Grand Princess,4/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0007,0.0035,0.18,rain,56.35,50.93,50.41,0.87,1018.2,0.43,6,52.57,56.35,37.6489,-122.6655
+Canada,Grand Princess,4/11/2020,Overcast throughout the day.,partly-cloudy-day,0.65,0.0015,0.0035,0.09,rain,53.45,51.33,48.5,0.87,1017.4,0.82,4,50.93,53.45,37.6489,-122.6655
+Canada,Grand Princess,4/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0009,0.0036,0.07,rain,54.76,51.46,49.07,0.86,1017.3,0.76,4,51.33,54.76,37.6489,-122.6655
+Canada,Grand Princess,4/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0008,0.0024,0.1,rain,56.61,51.97,48.67,0.82,1020.6,0.35,6,51.46,56.61,37.6489,-122.6655
+Canada,Grand Princess,4/14/2020,Clear throughout the day.,clear-day,0.76,0.001,0.0022,0.08,rain,60.94,53.36,48.06,0.74,1022.9,0.05,7,51.97,60.94,37.6489,-122.6655
+Canada,Grand Princess,4/15/2020,Clear throughout the day.,clear-day,0.79,0.0004,0.0017,0.06,rain,57.7,51.59,49.99,0.83,1018.5,0.22,7,53.36,57.7,37.6489,-122.6655
+Canada,Grand Princess,4/16/2020,Overcast throughout the day.,cloudy,0.82,0.0012,0.003,0.09,rain,54.39,52.45,49.79,0.88,1013.3,0.9,4,51.59,54.39,37.6489,-122.6655
+Canada,Grand Princess,4/17/2020,Mostly cloudy throughout the day.,cloudy,0.85,0.0007,0.0019,0.12,rain,55.93,53.65,48.3,0.81,1014.3,0.88,4,52.45,55.93,37.6489,-122.6655
+Canada,Grand Princess,4/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.88,0.0007,0.0023,0.06,rain,57.45,53.01,47.75,0.75,1017.9,0.57,5,53.65,57.45,37.6489,-122.6655
+Canada,Grand Princess,4/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.91,0.0009,0.0022,0.09,rain,57.79,53.2,48.46,0.79,1018.7,0.57,5,53.01,57.79,37.6489,-122.6655
+Canada,Grand Princess,4/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.94,0.0008,0.0022,0.16,rain,56.0,52.66,47.95,0.78,1020.2,0.57,6,53.2,56.0,37.6489,-122.6655
+Canada,Manitoba,12/31/2019,Foggy throughout the day.,fog,0.19,0.0003,0.0011,0.06,snow,16.76,10.02,5.38,0.75,1006.3,0.95,0,6.42,16.76,53.7609,-98.8139
+Canada,Manitoba,1/1/2020,Foggy throughout the day.,fog,0.22,0.0014,0.0028,0.12,snow,16.39,4.22,6.58,0.77,992.2,0.96,0,8.47,16.39,53.7609,-98.8139
+Canada,Manitoba,1/2/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.25,0.0003,0.0012,0.06,snow,13.19,7.89,0.4,0.69,1000.6,0.74,0,4.22,13.19,53.7609,-98.8139
+Canada,Manitoba,1/3/2020,"Foggy until afternoon, starting again overnight.",partly-cloudy-day,0.28,0.0015,0.0054,0.13,snow,20.43,4.82,11.26,0.85,1010.6,0.85,0,9.22,20.43,53.7609,-98.8139
+Canada,Manitoba,1/4/2020,Foggy throughout the day.,cloudy,0.31,0.0082,0.0455,0.15,snow,17.81,11.1,6.56,0.79,1012.0,0.89,0,4.82,18.52,53.7609,-98.8139
+Canada,Manitoba,1/5/2020,Foggy in the morning.,snow,0.34,0.0083,0.0395,0.25,snow,16.18,-1.82,5.16,0.73,1008.4,0.8,0,1.4,18.99,53.7609,-98.8139
+Canada,Manitoba,1/6/2020,Foggy in the evening.,partly-cloudy-day,0.37,0.0008,0.003,0.07,snow,12.56,-7.12,-6.91,0.59,1007.7,0.63,0,-1.82,12.56,53.7609,-98.8139
+Canada,Manitoba,1/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0002,0.0006,0.07,snow,-2.63,-20.11,-17.89,0.54,1022.7,0.49,0,-12.04,0.39,53.7609,-98.8139
+Canada,Manitoba,1/8/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.44,0.0016,0.0127,0.07,snow,-0.53,-1.64,-25.65,0.47,1025.7,0.62,0,-20.11,-0.08,53.7609,-98.8139
+Canada,Manitoba,1/9/2020,Foggy throughout the day.,fog,0.48,0.0075,0.0164,0.18,snow,5.62,-9.54,-6.77,0.71,1015.3,0.97,0,-3.58,5.62,53.7609,-98.8139
+Canada,Manitoba,1/10/2020,Foggy in the morning.,partly-cloudy-day,0.51,0.0004,0.0016,0.09,snow,-3.89,-19.46,-19.65,0.56,1025.3,0.52,0,-15.82,-3.36,53.7609,-98.8139
+Canada,Manitoba,1/11/2020,Foggy in the morning and overnight.,partly-cloudy-day,0.55,0.0003,0.0029,0.07,snow,1.41,0.2,-21.58,0.51,1029.0,0.55,0,-19.46,2.92,53.7609,-98.8139
+Canada,Manitoba,1/12/2020,Foggy throughout the day.,cloudy,0.59,0.0044,0.0093,0.19,snow,10.28,6.75,-1.12,0.7,1022.9,0.97,0,1.58,11.3,53.7609,-98.8139
+Canada,Manitoba,1/13/2020,Foggy throughout the day.,fog,0.62,0.0034,0.0084,0.18,snow,12.6,-4.1,1.15,0.75,1019.7,0.92,0,-0.27,12.6,53.7609,-98.8139
+Canada,Manitoba,1/14/2020,Foggy throughout the day.,fog,0.66,0.0028,0.0072,0.14,snow,1.43,-18.69,-11.63,0.63,1022.9,0.93,0,-7.92,1.43,53.7609,-98.8139
+Canada,Manitoba,1/15/2020,Foggy in the morning.,partly-cloudy-day,0.7,0.0001,0.0002,0.08,snow,-10.24,-22.94,-27.49,0.49,1032.3,0.45,0,-18.66,-8.76,53.7609,-98.8139
+Canada,Manitoba,1/16/2020,Clear throughout the day.,clear-day,0.73,0.0001,0.0003,0.09,snow,-12.61,-16.0,-35.67,0.37,1040.5,0.19,0,-22.98,-9.32,53.7609,-98.8139
+Canada,Manitoba,1/17/2020,Foggy starting in the afternoon.,cloudy,0.77,0.0003,0.0011,0.1,snow,3.47,-2.29,-14.35,0.56,1028.4,0.94,0,-8.63,3.47,53.7609,-98.8139
+Canada,Manitoba,1/18/2020,Foggy in the morning and afternoon.,snow,0.81,0.0081,0.0211,0.37,snow,2.41,-10.88,-9.52,0.65,1027.0,1.0,0,-2.86,2.41,53.7609,-98.8139
+Canada,Manitoba,1/19/2020,Clear throughout the day.,clear-day,0.84,0.0001,0.0007,0.08,snow,3.18,-7.26,-18.74,0.49,1038.2,0.28,1,-10.88,3.18,53.7609,-98.8139
+Canada,Manitoba,1/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.88,0.0001,0.0002,0.04,snow,11.12,6.28,-12.83,0.49,1025.6,0.37,1,-7.26,11.12,53.7609,-98.8139
+Canada,Manitoba,1/21/2020,Overcast throughout the day.,partly-cloudy-day,0.91,0.0001,0.0002,0.03,snow,24.41,12.49,7.46,0.68,1002.8,0.85,0,7.5,24.41,53.7609,-98.8139
+Canada,Manitoba,1/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0002,0.0007,0.04,snow,16.77,0.09,5.0,0.67,1012.2,0.7,0,3.57,23.8,53.7609,-98.8139
+Canada,Manitoba,1/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0001,0.0003,0.05,snow,11.18,7.1,-7.52,0.54,1025.3,0.52,0,0.09,11.18,53.7609,-98.8139
+Canada,Manitoba,1/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0001,0.0002,0.05,snow,17.45,10.11,3.74,0.68,1018.8,0.45,0,7.1,17.45,53.7609,-98.8139
+Canada,Manitoba,1/25/2020,Overcast throughout the day.,partly-cloudy-day,0.04,0.0001,0.0004,0.04,snow,20.52,13.43,7.81,0.72,1014.0,0.83,0,10.11,20.52,53.7609,-98.8139
+Canada,Manitoba,1/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0002,0.0015,0.09,snow,17.6,4.59,7.59,0.76,1021.3,0.83,0,4.59,18.38,53.7609,-98.8139
+Canada,Manitoba,1/27/2020,Foggy in the morning.,partly-cloudy-day,0.1,0.0002,0.0005,0.05,snow,16.21,6.9,2.76,0.71,1022.8,0.75,1,6.36,16.21,53.7609,-98.8139
+Canada,Manitoba,1/28/2020,Foggy in the morning.,cloudy,0.13,0.0004,0.0011,0.06,snow,15.96,7.06,3.96,0.73,1023.0,0.95,1,6.9,15.96,53.7609,-98.8139
+Canada,Manitoba,1/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.16,0.0006,0.001,0.06,snow,17.03,8.96,6.19,0.76,1022.6,0.78,1,7.06,17.03,53.7609,-98.8139
+Canada,Manitoba,1/30/2020,"Foggy until morning, starting again in the evening.",cloudy,0.19,0.0006,0.0017,0.04,snow,19.76,17.18,9.63,0.79,1016.3,0.93,1,8.96,19.92,53.7609,-98.8139
+Canada,Manitoba,1/31/2020,Foggy in the morning.,cloudy,0.22,0.0022,0.0122,0.18,snow,30.68,17.38,20.22,0.83,1004.4,0.92,1,18.6,32.21,53.7609,-98.8139
+Canada,Manitoba,2/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.25,0.001,0.005,0.11,snow,28.24,10.78,15.26,0.78,997.8,0.47,1,12.5,28.24,53.7609,-98.8139
+Canada,Manitoba,2/2/2020,Foggy until evening.,cloudy,0.28,0.0022,0.0068,0.21,snow,21.52,-6.51,7.67,0.75,1000.7,0.97,1,3.52,21.52,53.7609,-98.8139
+Canada,Manitoba,2/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.32,0.0002,0.0005,0.06,snow,1.59,-13.3,-13.06,0.58,1019.4,0.53,1,-6.51,2.73,53.7609,-98.8139
+Canada,Manitoba,2/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.0002,0.0004,0.06,snow,10.74,-7.95,-11.65,0.59,1017.9,0.45,1,-13.3,12.01,53.7609,-98.8139
+Canada,Manitoba,2/5/2020,Clear throughout the day.,clear-day,0.38,0.0002,0.0005,0.05,snow,-0.35,-22.82,-14.86,0.58,1012.9,0.25,1,-11.3,9.59,53.7609,-98.8139
+Canada,Manitoba,2/6/2020,Clear throughout the day.,clear-day,0.42,0.0001,0.0003,0.04,snow,-7.21,-18.52,-30.72,0.44,1019.5,0.16,1,-22.82,-7.21,53.7609,-98.8139
+Canada,Manitoba,2/7/2020,Foggy until evening.,partly-cloudy-day,0.46,0.0016,0.0066,0.05,snow,5.52,-6.24,-17.27,0.55,1015.8,0.64,1,-18.52,5.52,53.7609,-98.8139
+Canada,Manitoba,2/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0001,0.0003,0.04,snow,12.75,2.57,-4.97,0.7,1015.0,0.62,1,-6.24,12.75,53.7609,-98.8139
+Canada,Manitoba,2/9/2020,Foggy throughout the day.,partly-cloudy-day,0.53,0.0019,0.0072,0.11,snow,18.38,-2.28,3.39,0.77,1013.2,0.78,1,2.57,18.38,53.7609,-98.8139
+Canada,Manitoba,2/10/2020,Foggy overnight.,partly-cloudy-day,0.57,0.0005,0.002,0.06,snow,20.89,13.33,3.53,0.74,1012.6,0.47,1,-2.28,20.89,53.7609,-98.8139
+Canada,Manitoba,2/11/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.61,0.0021,0.0078,0.18,snow,22.88,-26.96,1.31,0.68,1008.5,0.75,1,-19.95,22.88,53.7609,-98.8139
+Canada,Manitoba,2/12/2020,Clear throughout the day.,clear-day,0.65,0.0002,0.0006,0.04,snow,-5.66,-18.78,-33.17,0.41,1030.7,0.19,1,-26.96,-5.66,53.7609,-98.8139
+Canada,Manitoba,2/13/2020,Clear throughout the day.,clear-day,0.68,0.0001,0.0003,0.03,snow,-0.16,-9.83,-25.8,0.45,1025.9,0.07,1,-18.78,-0.16,53.7609,-98.8139
+Canada,Manitoba,2/14/2020,Overcast throughout the day.,partly-cloudy-day,0.72,0.0019,0.0077,0.08,snow,17.29,-9.1,-3.52,0.62,1002.6,0.82,1,-5.34,17.29,53.7609,-98.8139
+Canada,Manitoba,2/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.76,0.0002,0.0006,0.08,snow,-2.27,-19.31,-16.84,0.55,1012.2,0.42,1,-12.74,7.75,53.7609,-98.8139
+Canada,Manitoba,2/16/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.79,0.0006,0.0024,0.06,snow,0.71,-6.39,-22.05,0.51,1019.0,0.51,1,-19.31,0.83,53.7609,-98.8139
+Canada,Manitoba,2/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.82,0.0002,0.0005,0.08,snow,6.27,-15.51,-10.31,0.64,1021.0,0.51,1,-7.37,6.27,53.7609,-98.8139
+Canada,Manitoba,2/18/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0004,0.05,snow,-1.21,-16.1,-21.73,0.51,1030.5,0.14,1,-15.51,-1.21,53.7609,-98.8139
+Canada,Manitoba,2/19/2020,Clear throughout the day.,clear-day,0.89,0.0001,0.0002,0.03,snow,6.05,-1.32,-18.83,0.51,1035.2,0.05,1,-16.1,6.05,53.7609,-98.8139
+Canada,Manitoba,2/20/2020,Clear throughout the day.,clear-day,0.92,0.0001,0.0004,0.03,snow,30.24,17.06,2.21,0.56,1015.5,0.12,1,-0.32,30.24,53.7609,-98.8139
+Canada,Manitoba,2/21/2020,Clear throughout the day.,clear-day,0.95,0.0002,0.0004,0.06,snow,33.33,18.36,16.27,0.72,1004.6,0.16,1,17.06,33.33,53.7609,-98.8139
+Canada,Manitoba,2/22/2020,Foggy overnight.,partly-cloudy-day,0.98,0.0004,0.0095,0.11,snow,35.32,25.99,19.78,0.77,1003.4,0.38,1,18.36,35.32,53.7609,-98.8139
+Canada,Manitoba,2/23/2020,Snow (< 1 in.) in the morning.,snow,0.01,0.0103,0.055999999999999994,0.5,snow,33.19,12.72,24.32,0.84,1006.5,0.88,1,23.05,33.19,53.7609,-98.8139
+Canada,Manitoba,2/24/2020,Foggy in the morning.,partly-cloudy-day,0.05,0.001,0.0055,0.09,snow,16.78,-2.36,5.91,0.74,1023.1,0.72,1,1.89,21.9,53.7609,-98.8139
+Canada,Manitoba,2/25/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.08,0.0004,0.0008,0.14,snow,8.82,-11.24,-5.85,0.68,1038.6,0.53,1,-2.36,8.82,53.7609,-98.8139
+Canada,Manitoba,2/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.11,0.0001,0.0003,0.08,snow,5.43,-0.88,-12.23,0.62,1033.1,0.48,1,-11.24,5.43,53.7609,-98.8139
+Canada,Manitoba,2/27/2020,"Foggy until afternoon, starting again overnight.",partly-cloudy-day,0.14,0.0003,0.001,0.07,snow,13.35,-1.27,-1.93,0.7,1023.2,0.62,1,0.07,13.35,53.7609,-98.8139
+Canada,Manitoba,2/28/2020,Foggy until evening.,partly-cloudy-day,0.17,0.0008,0.0057,0.05,snow,25.28,13.12,4.0,0.72,1016.3,0.69,1,-1.27,25.28,53.7609,-98.8139
+Canada,Manitoba,2/29/2020,Foggy overnight.,partly-cloudy-day,0.2,0.0032,0.0228,0.17,snow,29.32,22.73,18.48,0.88,1005.4,0.79,2,13.12,29.32,53.7609,-98.8139
+Canada,Manitoba,3/1/2020,Snow (2–5 in.) in the morning.,snow,0.23,0.0179,0.0483,0.5,snow,25.32,1.08,16.72,0.8,1004.3,0.95,1,9.36,26.46,53.7609,-98.8139
+Canada,Manitoba,3/2/2020,Foggy in the evening.,partly-cloudy-day,0.26,0.0018,0.0066,0.13,snow,19.68,7.58,5.62,0.76,998.0,0.86,1,1.08,19.68,53.7609,-98.8139
+Canada,Manitoba,3/3/2020,Foggy overnight.,partly-cloudy-day,0.29,0.0002,0.0004,0.12,snow,23.1,7.41,10.16,0.82,1002.1,0.74,1,7.58,23.1,53.7609,-98.8139
+Canada,Manitoba,3/4/2020,Foggy in the morning and overnight.,partly-cloudy-day,0.33,0.0002,0.0005,0.07,snow,23.59,11.28,12.61,0.85,1008.8,0.83,1,7.41,23.59,53.7609,-98.8139
+Canada,Manitoba,3/5/2020,Foggy in the morning.,partly-cloudy-day,0.36,0.0001,0.0003,0.15,snow,31.16,12.04,16.14,0.85,1023.2,0.72,1,11.28,31.16,53.7609,-98.8139
+Canada,Manitoba,3/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.4,0.0001,0.0003,0.05,snow,34.79,2.49,20.44,0.83,1014.8,0.81,2,12.04,34.79,53.7609,-98.8139
+Canada,Manitoba,3/7/2020,Foggy overnight.,partly-cloudy-day,0.44,0.0061,0.0536,0.16,snow,7.7,-7.08,-1.39,0.62,1023.2,0.76,2,-0.21,29.47,53.7609,-98.8139
+Canada,Manitoba,3/8/2020,Foggy throughout the day.,snow,0.48,0.0159,0.0416,0.49,snow,4.98,-7.86,-12.11,0.58,1024.8,1.0,2,-7.11,4.98,53.7609,-98.8139
+Canada,Manitoba,3/9/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.51,0.0004,0.0046,0.1,snow,10.55,-12.56,-7.8,0.66,1023.5,0.53,2,-7.88,10.55,53.7609,-98.8139
+Canada,Manitoba,3/10/2020,Clear throughout the day.,clear-day,0.55,0.0001,0.0002,0.05,snow,10.23,1.25,-14.14,0.55,1021.7,0.18,2,-12.56,10.23,53.7609,-98.8139
+Canada,Manitoba,3/11/2020,Foggy throughout the day.,snow,0.59,0.0052,0.0235,0.33,snow,28.09,18.67,12.86,0.81,1005.1,0.94,1,2.04,28.09,53.7609,-98.8139
+Canada,Manitoba,3/12/2020,Foggy throughout the day.,snow,0.63,0.004,0.0062,0.32,snow,23.39,4.35,16.31,0.83,1008.3,1.0,1,14.19,23.39,53.7609,-98.8139
+Canada,Manitoba,3/13/2020,Foggy in the morning and afternoon.,cloudy,0.67,0.001,0.005,0.18,snow,13.99,-5.68,0.57,0.68,1029.6,0.88,2,3.45,14.41,53.7609,-98.8139
+Canada,Manitoba,3/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.7,0.0001,0.0003,0.08,snow,8.45,-4.78,-9.57,0.61,1046.9,0.38,3,-6.79,8.45,53.7609,-98.8139
+Canada,Manitoba,3/15/2020,Foggy in the evening.,partly-cloudy-day,0.74,0.0007,0.0031,0.1,snow,16.32,8.57,-4.13,0.62,1036.6,0.67,3,-4.78,16.32,53.7609,-98.8139
+Canada,Manitoba,3/16/2020,Mostly cloudy throughout the day.,snow,0.77,0.0024,0.0157,0.3,snow,24.12,-8.44,7.87,0.73,1015.1,0.62,2,7.37,24.12,53.7609,-98.8139
+Canada,Manitoba,3/17/2020,Clear throughout the day.,clear-day,0.81,0.0002,0.0004,0.07,snow,10.71,-15.91,-9.15,0.58,1021.9,0.23,3,-8.44,10.71,53.7609,-98.8139
+Canada,Manitoba,3/18/2020,Clear throughout the day.,clear-day,0.84,0.0001,0.0003,0.04,snow,11.33,-12.45,-15.77,0.52,1028.1,0.2,3,-15.91,11.33,53.7609,-98.8139
+Canada,Manitoba,3/19/2020,Partly cloudy throughout the day.,clear-day,0.87,0.0001,0.0003,0.09,snow,12.34,-13.89,-13.27,0.54,1033.8,0.26,3,-12.45,12.34,53.7609,-98.8139
+Canada,Manitoba,3/20/2020,Clear throughout the day.,clear-day,0.9,0.0002,0.0004,0.07,snow,19.15,-8.73,-12.24,0.51,1037.1,0.21,3,-13.89,19.15,53.7609,-98.8139
+Canada,Manitoba,3/21/2020,Clear throughout the day.,clear-day,0.93,0.0002,0.0005,0.06,snow,16.69,9.57,-5.82,0.61,1029.3,0.16,4,-8.73,16.69,53.7609,-98.8139
+Canada,Manitoba,3/22/2020,Foggy in the morning.,partly-cloudy-day,0.96,0.0002,0.0006,0.14,snow,32.55,13.08,15.13,0.79,1014.5,0.6,2,9.83,32.55,53.7609,-98.8139
+Canada,Manitoba,3/23/2020,Clear throughout the day.,clear-day,0.99,0.0002,0.0011,0.09,snow,29.91,18.34,14.61,0.76,1014.0,0.31,3,13.08,29.91,53.7609,-98.8139
+Canada,Manitoba,3/24/2020,Snow (3–7 in.) in the morning and afternoon.,snow,0.02,0.0184,0.0707,0.64,snow,27.96,-1.87,18.13,0.81,1010.4,0.87,2,15.05,27.96,53.7609,-98.8139
+Canada,Manitoba,3/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.05,0.0003,0.0008,0.11,snow,26.24,13.45,6.54,0.74,1015.8,0.4,3,-1.87,26.24,53.7609,-98.8139
+Canada,Manitoba,3/26/2020,Foggy in the morning.,partly-cloudy-day,0.08,0.0005,0.0018,0.17,snow,31.57,20.32,17.24,0.83,1007.4,0.68,3,13.45,31.57,53.7609,-98.8139
+Canada,Manitoba,3/27/2020,Mostly cloudy throughout the day.,snow,0.11,0.0024,0.0133,0.26,snow,35.42,14.51,23.07,0.79,1001.2,0.72,3,17.87,35.42,53.7609,-98.8139
+Canada,Manitoba,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.14,0.0001,0.0005,0.13,snow,38.65,-0.2,21.33,0.8,1009.9,0.64,3,14.51,38.65,53.7609,-98.8139
+Canada,Manitoba,3/29/2020,Clear throughout the day.,clear-day,0.17,0.0001,0.0003,0.1,snow,19.25,13.1,-2.9,0.55,1023.6,0.25,4,-0.2,19.25,53.7609,-98.8139
+Canada,Manitoba,3/30/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0004,0.0019,0.23,snow,37.25,26.39,19.72,0.74,1020.0,0.8,3,13.1,37.49,53.7609,-98.8139
+Canada,Manitoba,3/31/2020,Possible light rain in the evening and overnight.,rain,0.24,0.0023,0.0118,0.48,rain,37.02,19.27,28.67,0.84,1014.8,0.66,3,26.39,37.25,53.7609,-98.8139
+Canada,Manitoba,4/1/2020,Snow (1–4 in.) in the morning and overnight.,snow,0.27,0.0072,0.0277,0.74,snow,31.37,14.58,23.17,0.82,1017.4,1.0,2,19.22,37.23,53.7609,-98.8139
+Canada,Manitoba,4/2/2020,Snow (2–5 in.) in the morning and overnight.,snow,0.31,0.0136,0.0582,0.8,snow,22.81,12.12,14.71,0.76,1021.9,0.95,2,13.76,34.68,53.7609,-98.8139
+Canada,Manitoba,4/3/2020,Snow (3–6 in.) in the morning and afternoon.,snow,0.34,0.0122,0.0266,0.78,snow,18.47,6.9,8.12,0.73,1022.2,0.98,2,11.69,18.75,53.7609,-98.8139
+Canada,Manitoba,4/4/2020,Clear throughout the day.,clear-day,0.38,0.0002,0.0007,0.09,snow,25.52,6.68,4.75,0.62,1021.5,0.18,3,6.9,25.52,53.7609,-98.8139
+Canada,Manitoba,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0001,0.0004,0.1,snow,27.24,16.1,8.19,0.67,1021.5,0.43,2,6.68,27.24,53.7609,-98.8139
+Canada,Manitoba,4/6/2020,Rain (with a chance of 1–3 in. of snow) in the evening and overnight.,snow,0.46,0.0109,0.1157,0.79,snow,33.92,28.01,20.01,0.8,1015.2,0.84,2,16.1,34.56,53.7609,-98.8139
+Canada,Manitoba,4/7/2020,Possible light rain in the morning.,rain,0.5,0.01,0.1188,0.86,rain,34.85,21.87,26.27,0.81,1001.6,0.66,3,25.52,35.3,53.7609,-98.8139
+Canada,Manitoba,4/8/2020,Mostly cloudy throughout the day.,snow,0.54,0.0038,0.0155,0.48,snow,32.29,15.8,21.91,0.81,1008.1,0.74,2,21.87,32.29,53.7609,-98.8139
+Canada,Manitoba,4/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0002,0.0018,0.09,snow,29.67,12.41,13.61,0.7,1019.0,0.47,3,15.73,29.67,53.7609,-98.8139
+Canada,Manitoba,4/10/2020,Foggy in the morning.,snow,0.62,0.0038,0.018000000000000002,0.34,snow,29.98,20.22,18.7,0.83,1010.7,0.73,2,12.41,29.98,53.7609,-98.8139
+Canada,Manitoba,4/11/2020,Overcast throughout the day.,snow,0.65,0.0018,0.0196,0.4,snow,26.04,6.26,15.77,0.74,1012.8,0.9,2,18.24,27.57,53.7609,-98.8139
+Canada,Manitoba,4/12/2020,Partly cloudy throughout the day.,snow,0.69,0.0004,0.0014,0.27,snow,20.03,2.31,5.23,0.67,1020.7,0.52,3,6.26,20.03,53.7609,-98.8139
+Canada,Manitoba,4/13/2020,Foggy in the afternoon.,partly-cloudy-day,0.72,0.0004,0.0015,0.22,snow,19.27,-1.91,1.76,0.68,1022.5,0.45,2,2.31,19.27,53.7609,-98.8139
+Canada,Manitoba,4/14/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0005,0.08,snow,24.16,5.19,2.21,0.64,1020.4,0.28,3,-1.91,24.16,53.7609,-98.8139
+Canada,Manitoba,4/15/2020,Clear throughout the day.,clear-day,0.79,0.0002,0.0006,0.13,snow,30.01,9.02,8.01,0.64,1020.7,0.1,3,5.19,30.01,53.7609,-98.8139
+Canada,Manitoba,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.82,0.0002,0.0004,0.11,snow,31.37,17.63,12.79,0.69,1021.2,0.36,3,9.02,31.37,53.7609,-98.8139
+Canada,Manitoba,4/17/2020,Foggy overnight.,partly-cloudy-day,0.85,0.0007,0.0035,0.23,snow,39.08,17.06,23.03,0.78,1002.9,0.64,3,17.63,39.36,53.7609,-98.8139
+Canada,Manitoba,4/18/2020,Partly cloudy throughout the day.,snow,0.88,0.0023,0.0136,0.28,snow,25.71,11.68,12.63,0.66,1007.0,0.66,3,15.05,34.91,53.7609,-98.8139
+Canada,Manitoba,4/19/2020,Snow (1–2 in.) until evening.,snow,0.91,0.0098,0.0391,0.81,snow,37.52,15.1,18.87,0.77,1001.6,0.65,2,11.68,37.52,53.7609,-98.8139
+Canada,Manitoba,4/20/2020,Mostly cloudy throughout the day.,snow,0.94,0.0016,0.0051,0.25,snow,26.86,5.68,13.39,0.73,1008.5,0.6,2,13.81,26.86,53.7609,-98.8139
+Canada,New Brunswick,12/31/2019,Heavy snow (9–13 in.) in the afternoon and evening.,snow,0.19,0.0379,0.1415,0.55,snow,26.97,24.43,20.31,0.85,1012.4,0.91,1,21.58,28.51,46.5653,-66.4619
+Canada,New Brunswick,1/1/2020,Mostly cloudy throughout the day.,snow,0.22,0.004,0.0259,0.4,snow,32.08,22.74,22.68,0.82,992.7,0.7,1,24.34,32.08,46.5653,-66.4619
+Canada,New Brunswick,1/2/2020,Partly cloudy throughout the day.,snow,0.25,0.001,0.0024,0.26,snow,34.28,22.99,21.02,0.79,1002.6,0.44,1,22.74,34.28,46.5653,-66.4619
+Canada,New Brunswick,1/3/2020,Partly cloudy throughout the day.,snow,0.28,0.0008,0.0023,0.27,snow,39.0,28.29,26.51,0.86,1004.8,0.59,1,23.26,39.0,46.5653,-66.4619
+Canada,New Brunswick,1/4/2020,Partly cloudy throughout the day.,snow,0.31,0.0011,0.0023,0.27,snow,37.93,24.96,27.19,0.82,1004.9,0.56,1,27.87,37.93,46.5653,-66.4619
+Canada,New Brunswick,1/5/2020,Foggy in the morning.,snow,0.34,0.003,0.0132,0.29,snow,31.16,8.78,19.42,0.78,999.9,0.81,1,14.58,31.16,46.5653,-66.4619
+Canada,New Brunswick,1/6/2020,Foggy overnight.,partly-cloudy-day,0.37,0.0001,0.0009,0.08,snow,22.03,11.66,6.94,0.72,1012.2,0.45,1,8.78,22.03,46.5653,-66.4619
+Canada,New Brunswick,1/7/2020,Foggy in the morning.,partly-cloudy-day,0.4,0.0017,0.0055,0.21,snow,27.63,10.06,11.64,0.79,1013.4,0.47,1,10.82,27.63,46.5653,-66.4619
+Canada,New Brunswick,1/8/2020,Foggy in the afternoon and evening.,snow,0.44,0.0049,0.0168,0.37,snow,23.54,12.13,12.35,0.81,1008.5,0.99,1,10.12,23.54,46.5653,-66.4619
+Canada,New Brunswick,1/9/2020,Windy in the morning.,wind,0.47,0.0005,0.002,0.09,snow,17.09,3.07,3.1,0.64,1024.9,0.31,1,3.11,20.32,46.5653,-66.4619
+Canada,New Brunswick,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.51,0.0023,0.0116,0.18,snow,32.46,26.44,9.95,0.7,1029.2,0.63,1,3.59,32.46,46.5653,-66.4619
+Canada,New Brunswick,1/11/2020,Rain (with a chance of 1–2 in. of snow) throughout the day.,rain,0.55,0.0156,0.0474,0.94,rain,47.84,20.41,32.72,0.91,1017.0,0.79,1,26.48,47.84,46.5653,-66.4619
+Canada,New Brunswick,1/12/2020,Heavy snow (15–23 in.) in the morning and afternoon.,snow,0.58,0.0721,0.1702,0.78,snow,22.7,1.24,15.78,0.82,1020.3,0.91,1,10.31,34.66,46.5653,-66.4619
+Canada,New Brunswick,1/13/2020,Foggy starting in the afternoon.,partly-cloudy-day,0.62,0.0025,0.0102,0.15,snow,19.18,5.37,5.73,0.78,1033.8,0.57,1,1.24,19.18,46.5653,-66.4619
+Canada,New Brunswick,1/14/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.66,0.0009,0.0048,0.15,snow,21.99,10.95,9.41,0.85,1028.0,0.67,1,4.86,21.99,46.5653,-66.4619
+Canada,New Brunswick,1/15/2020,Foggy in the morning.,snow,0.69,0.0046,0.0169,0.41,snow,28.16,10.65,13.75,0.84,1017.1,0.7,1,10.95,28.16,46.5653,-66.4619
+Canada,New Brunswick,1/16/2020,Mostly cloudy throughout the day.,snow,0.73,0.0021,0.0066,0.29,snow,27.37,0.53,14.0,0.83,1012.3,0.82,1,10.65,27.37,46.5653,-66.4619
+Canada,New Brunswick,1/17/2020,Windy in the morning.,wind,0.77,0.0011,0.0034,0.11,snow,8.65,-8.92,-8.08,0.57,1022.4,0.08,1,-1.97,13.84,46.5653,-66.4619
+Canada,New Brunswick,1/18/2020,Foggy overnight.,clear-day,0.8,0.0009,0.002,0.14,snow,12.16,-2.27,-13.36,0.53,1027.7,0.17,1,-8.92,12.16,46.5653,-66.4619
+Canada,New Brunswick,1/19/2020,Foggy until evening.,snow,0.84,0.0229,0.0511,0.49,snow,22.14,8.69,4.71,0.76,1008.6,0.95,1,0.19,22.14,46.5653,-66.4619
+Canada,New Brunswick,1/20/2020,Clear throughout the day.,partly-cloudy-day,0.87,0.0012,0.0041,0.19,snow,19.06,-6.83,3.56,0.69,1014.5,0.34,1,4.11,19.06,46.5653,-66.4619
+Canada,New Brunswick,1/21/2020,Clear throughout the day.,clear-day,0.91,0.0006,0.0019,0.07,snow,15.0,-0.38,-7.42,0.6,1025.9,0.12,1,-6.83,15.0,46.5653,-66.4619
+Canada,New Brunswick,1/22/2020,Clear throughout the day.,partly-cloudy-day,0.94,0.0005,0.0019,0.09,snow,26.09,14.1,5.68,0.77,1027.9,0.43,1,-0.38,26.09,46.5653,-66.4619
+Canada,New Brunswick,1/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0012,0.002,0.14,snow,37.39,16.93,19.13,0.78,1023.6,0.47,1,14.11,37.39,46.5653,-66.4619
+Canada,New Brunswick,1/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.0,0.0007,0.0021,0.1,snow,32.65,12.66,17.4,0.78,1031.3,0.4,1,16.55,32.65,46.5653,-66.4619
+Canada,New Brunswick,1/25/2020,Foggy in the morning and overnight.,partly-cloudy-day,0.04,0.0009,0.0032,0.08,snow,29.67,20.72,16.39,0.84,1029.5,0.81,1,12.66,29.67,46.5653,-66.4619
+Canada,New Brunswick,1/26/2020,Heavy snow (3–6 in.) in the morning and afternoon.,snow,0.07,0.0273,0.1276,0.71,snow,32.92,27.62,25.21,0.91,1007.2,0.96,1,20.72,34.78,46.5653,-66.4619
+Canada,New Brunswick,1/27/2020,Mostly cloudy throughout the day.,snow,0.1,0.0013,0.0028,0.44,snow,34.88,15.1,25.76,0.84,995.7,0.71,1,25.07,34.88,46.5653,-66.4619
+Canada,New Brunswick,1/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0008,0.0024,0.17,snow,28.4,6.35,15.08,0.78,1004.7,0.5,1,15.1,28.4,46.5653,-66.4619
+Canada,New Brunswick,1/29/2020,Clear throughout the day.,clear-day,0.16,0.0007,0.0023,0.1,snow,19.2,2.57,3.49,0.69,1012.8,0.13,1,6.35,19.2,46.5653,-66.4619
+Canada,New Brunswick,1/30/2020,Clear throughout the day.,clear-day,0.19,0.0008,0.0022,0.05,snow,26.57,7.98,2.24,0.63,1022.1,0.04,1,2.57,26.57,46.5653,-66.4619
+Canada,New Brunswick,1/31/2020,Clear throughout the day.,clear-day,0.22,0.0006,0.0022,0.03,snow,31.01,5.93,5.23,0.59,1023.0,0.19,1,7.98,31.01,46.5653,-66.4619
+Canada,New Brunswick,2/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0006,0.0018,0.08,snow,30.67,17.53,9.32,0.69,1015.7,0.51,1,5.93,30.67,46.5653,-66.4619
+Canada,New Brunswick,2/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.28,0.0014,0.0053,0.23,snow,31.23,15.39,17.29,0.78,998.0,0.69,1,17.29,31.23,46.5653,-66.4619
+Canada,New Brunswick,2/3/2020,Clear throughout the day.,clear-day,0.31,0.0011,0.0057,0.19,snow,34.73,19.57,19.11,0.78,998.9,0.28,1,15.39,34.73,46.5653,-66.4619
+Canada,New Brunswick,2/4/2020,Clear throughout the day.,clear-day,0.35,0.0006,0.0023,0.18,snow,33.99,14.74,19.71,0.75,1007.5,0.2,2,19.57,33.99,46.5653,-66.4619
+Canada,New Brunswick,2/5/2020,Clear throughout the day.,clear-day,0.38,0.001,0.0029,0.09,snow,22.39,3.87,8.45,0.65,1011.7,0.2,1,7.1,26.05,46.5653,-66.4619
+Canada,New Brunswick,2/6/2020,Foggy in the evening.,snow,0.42,0.0055,0.0183,0.33,snow,21.34,18.49,6.55,0.74,1013.8,0.88,1,3.87,21.34,46.5653,-66.4619
+Canada,New Brunswick,2/7/2020,Windy in the evening and overnight.,snow,0.45,0.0503,0.1044,0.49,snow,23.54,6.95,15.8,0.83,992.9,0.98,1,14.83,23.54,46.5653,-66.4619
+Canada,New Brunswick,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0034,0.0293,0.24,snow,16.72,-6.57,3.71,0.71,1006.7,0.52,1,2.62,16.72,46.5653,-66.4619
+Canada,New Brunswick,2/9/2020,Clear throughout the day.,clear-day,0.53,0.0009,0.0025,0.05,snow,19.9,5.53,-3.93,0.64,1031.0,0.06,2,-6.57,19.9,46.5653,-66.4619
+Canada,New Brunswick,2/10/2020,Snow (4–8 in.) in the morning and afternoon.,snow,0.57,0.0189,0.0668,0.81,snow,33.88,8.98,15.79,0.85,1020.1,0.78,1,5.53,33.88,46.5653,-66.4619
+Canada,New Brunswick,2/11/2020,Foggy in the evening and overnight.,snow,0.61,0.0025,0.0134,0.37,snow,31.44,20.93,18.11,0.88,1015.4,0.71,2,8.98,31.44,46.5653,-66.4619
+Canada,New Brunswick,2/12/2020,Partly cloudy throughout the day.,snow,0.64,0.0024,0.0155,0.41,snow,32.93,20.81,21.49,0.79,1008.8,0.49,2,20.93,32.93,46.5653,-66.4619
+Canada,New Brunswick,2/13/2020,Foggy in the morning.,snow,0.68,0.0061,0.0249,0.44,snow,32.57,-7.14,17.82,0.77,1005.4,0.96,2,8.55,32.57,46.5653,-66.4619
+Canada,New Brunswick,2/14/2020,Clear throughout the day.,clear-day,0.72,0.0011,0.0072,0.11,snow,6.5,-12.78,-11.32,0.58,1019.0,0.18,2,-7.14,7.76,46.5653,-66.4619
+Canada,New Brunswick,2/15/2020,Clear throughout the day.,clear-day,0.75,0.0009,0.0022,0.04,snow,15.49,6.97,-10.86,0.55,1029.0,0.22,2,-12.78,15.49,46.5653,-66.4619
+Canada,New Brunswick,2/16/2020,Foggy in the morning.,partly-cloudy-day,0.79,0.0019,0.0079,0.1,snow,32.06,15.72,14.41,0.76,1015.7,0.46,2,6.97,32.06,46.5653,-66.4619
+Canada,New Brunswick,2/17/2020,Clear throughout the day.,clear-day,0.82,0.0006,0.0022,0.13,snow,30.23,-6.16,11.75,0.74,1019.5,0.29,2,5.45,30.23,46.5653,-66.4619
+Canada,New Brunswick,2/18/2020,Heavy snow (5–8 in.) overnight.,snow,0.85,0.0063,0.0502,0.34,snow,18.82,17.12,-4.34,0.56,1030.5,0.47,2,-6.16,19.7,46.5653,-66.4619
+Canada,New Brunswick,2/19/2020,Foggy in the morning.,snow,0.89,0.0115,0.0765,0.62,snow,32.87,-9.1,16.24,0.74,1009.5,0.56,2,6.99,32.87,46.5653,-66.4619
+Canada,New Brunswick,2/20/2020,Clear throughout the day.,clear-day,0.92,0.0011,0.0022,0.09,snow,8.55,-9.89,-12.11,0.56,1024.1,0.07,2,-9.1,8.55,46.5653,-66.4619
+Canada,New Brunswick,2/21/2020,Clear throughout the day.,clear-day,0.95,0.001,0.0023,0.07,snow,20.7,8.44,-8.9,0.52,1025.1,0.05,2,-9.89,20.7,46.5653,-66.4619
+Canada,New Brunswick,2/22/2020,Partly cloudy throughout the day.,clear-day,0.98,0.0007,0.0023,0.11,snow,34.11,17.55,11.96,0.68,1014.3,0.25,2,8.44,34.11,46.5653,-66.4619
+Canada,New Brunswick,2/23/2020,Clear throughout the day.,clear-day,0.01,0.0005,0.0022,0.08,snow,40.15,16.27,21.82,0.79,1016.4,0.21,2,17.55,40.15,46.5653,-66.4619
+Canada,New Brunswick,2/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0008,0.0023,0.18,snow,41.98,24.29,24.43,0.83,1014.9,0.41,2,16.27,41.98,46.5653,-66.4619
+Canada,New Brunswick,2/25/2020,Overcast throughout the day.,partly-cloudy-day,0.07,0.0009,0.002,0.17,snow,41.68,23.42,27.12,0.78,1014.1,0.83,2,24.29,41.68,46.5653,-66.4619
+Canada,New Brunswick,2/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.1,0.0006,0.0025,0.14,snow,38.71,24.76,25.16,0.79,1018.2,0.44,2,23.42,38.71,46.5653,-66.4619
+Canada,New Brunswick,2/27/2020,Heavy snow (10–15 in.) in the afternoon and evening.,snow,0.13,0.044000000000000004,0.1989,0.47,snow,26.42,17.78,21.91,0.85,1008.8,0.94,2,23.12,29.18,46.5653,-66.4619
+Canada,New Brunswick,2/28/2020,Windy in the morning.,snow,0.16,0.0036,0.0159,0.5,snow,28.03,5.38,16.76,0.75,997.8,0.54,2,14.45,29.6,46.5653,-66.4619
+Canada,New Brunswick,2/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0011,0.0048,0.23,snow,28.49,10.22,9.48,0.73,1006.9,0.36,2,5.38,28.49,46.5653,-66.4619
+Canada,New Brunswick,3/1/2020,Mostly cloudy throughout the day.,snow,0.22,0.0009,0.0036,0.29,snow,28.59,6.83,12.48,0.75,1011.3,0.55,2,10.22,28.59,46.5653,-66.4619
+Canada,New Brunswick,3/2/2020,Snow (2–4 in.) overnight.,snow,0.26,0.0072,0.0494,0.33,snow,31.89,26.13,14.68,0.78,1016.0,0.38,3,6.83,31.89,46.5653,-66.4619
+Canada,New Brunswick,3/3/2020,Possible light rain in the morning.,rain,0.29,0.0108,0.0494,0.7,rain,43.57,32.11,32.64,0.89,1005.2,0.73,2,27.54,43.57,46.5653,-66.4619
+Canada,New Brunswick,3/4/2020,Light rain in the morning and afternoon.,rain,0.32,0.0186,0.0617,0.86,rain,35.57,26.59,31.16,0.89,988.7,0.88,2,30.84,35.57,46.5653,-66.4619
+Canada,New Brunswick,3/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.001,0.0026,0.23,snow,33.5,13.36,20.44,0.71,1004.0,0.55,2,21.63,33.5,46.5653,-66.4619
+Canada,New Brunswick,3/6/2020,Clear throughout the day.,clear-day,0.4,0.0009,0.0022,0.05,snow,31.39,9.41,11.53,0.65,1020.3,0.14,3,13.36,31.39,46.5653,-66.4619
+Canada,New Brunswick,3/7/2020,Clear throughout the day.,partly-cloudy-day,0.43,0.0008,0.0021,0.09,snow,29.27,9.5,7.83,0.64,1019.3,0.37,2,9.41,29.27,46.5653,-66.4619
+Canada,New Brunswick,3/8/2020,Clear throughout the day.,clear-day,0.47,0.0007,0.0022,0.11,snow,36.13,20.86,12.89,0.63,1019.0,0.22,3,9.5,36.13,46.5653,-66.4619
+Canada,New Brunswick,3/9/2020,"Foggy until afternoon, starting again overnight.",snow,0.51,0.0071,0.0193,0.39,snow,28.83,15.5,17.28,0.77,1024.8,0.72,2,19.74,28.83,46.5653,-66.4619
+Canada,New Brunswick,3/10/2020,Snow (4–7 in.) in the morning and afternoon.,snow,0.55,0.0165,0.0428,0.71,snow,27.93,21.03,17.08,0.84,1019.2,0.94,2,15.5,28.32,46.5653,-66.4619
+Canada,New Brunswick,3/11/2020,Partly cloudy throughout the day.,snow,0.59,0.0025,0.0144,0.39,snow,33.19,11.22,20.66,0.78,1014.8,0.63,3,21.02,33.19,46.5653,-66.4619
+Canada,New Brunswick,3/12/2020,Clear throughout the day.,clear-day,0.63,0.0007,0.0022,0.08,snow,34.23,11.6,13.09,0.7,1024.2,0.29,3,11.22,34.23,46.5653,-66.4619
+Canada,New Brunswick,3/13/2020,Rain (with a chance of 2–5 in. of snow) starting in the afternoon.,rain,0.66,0.0379,0.2872,0.82,rain,35.89,31.73,19.59,0.86,1019.0,0.71,2,11.6,36.52,46.5653,-66.4619
+Canada,New Brunswick,3/14/2020,Windy in the evening.,rain,0.7,0.0013,0.0058,0.41,rain,34.76,13.64,23.53,0.72,1007.7,0.43,2,21.46,34.76,46.5653,-66.4619
+Canada,New Brunswick,3/15/2020,Clear throughout the day.,clear-day,0.74,0.0007,0.0021,0.11,snow,27.64,6.23,10.81,0.67,1026.5,0.16,3,13.64,27.64,46.5653,-66.4619
+Canada,New Brunswick,3/16/2020,Clear throughout the day.,clear-day,0.77,0.0006,0.0019,0.07,snow,29.48,13.84,6.78,0.64,1035.3,0.1,3,6.23,29.48,46.5653,-66.4619
+Canada,New Brunswick,3/17/2020,Possible light snow (1–2 in.) in the evening.,snow,0.8,0.0065,0.0286,0.46,snow,32.47,24.46,19.45,0.81,1023.7,0.67,3,13.84,34.92,46.5653,-66.4619
+Canada,New Brunswick,3/18/2020,Clear throughout the day.,clear-day,0.83,0.001,0.0046,0.17,rain,32.97,12.27,17.21,0.63,1024.5,0.17,4,18.61,35.92,46.5653,-66.4619
+Canada,New Brunswick,3/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0006,0.0021,0.08,snow,41.09,30.37,17.03,0.68,1034.2,0.46,3,12.27,41.09,46.5653,-66.4619
+Canada,New Brunswick,3/20/2020,Light rain until evening.,rain,0.9,0.0187,0.0621,0.91,rain,42.4,21.53,34.77,0.94,1009.7,0.98,3,30.37,43.98,46.5653,-66.4619
+Canada,New Brunswick,3/21/2020,Windy in the morning.,wind,0.93,0.0016,0.0073,0.23,rain,28.52,3.8,14.98,0.62,1015.6,0.23,4,14.18,44.21,46.5653,-66.4619
+Canada,New Brunswick,3/22/2020,Clear throughout the day.,clear-day,0.96,0.0007,0.002,0.06,snow,25.89,3.17,0.08,0.54,1036.2,0.03,4,3.8,25.89,46.5653,-66.4619
+Canada,New Brunswick,3/23/2020,Snow (< 2 in.) overnight.,partly-cloudy-day,0.99,0.0007,0.0019,0.06,snow,33.79,24.28,4.53,0.55,1037.4,0.34,3,3.17,33.79,46.5653,-66.4619
+Canada,New Brunswick,3/24/2020,Snow (1–3 in.) in the morning.,snow,0.02,0.011000000000000001,0.0357,0.79,snow,38.02,19.02,25.6,0.83,1019.5,0.83,3,24.28,38.02,46.5653,-66.4619
+Canada,New Brunswick,3/25/2020,Clear throughout the day.,clear-day,0.05,0.0008,0.0022,0.07,snow,42.77,20.42,22.18,0.72,1023.3,0.15,4,19.02,42.77,46.5653,-66.4619
+Canada,New Brunswick,3/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.08,0.0004,0.002,0.07,snow,39.47,26.53,23.07,0.75,1017.7,0.65,3,20.42,39.47,46.5653,-66.4619
+Canada,New Brunswick,3/27/2020,Foggy in the morning.,snow,0.11,0.0018,0.0085,0.4,snow,40.22,25.8,26.53,0.8,1005.8,0.72,3,26.53,40.22,46.5653,-66.4619
+Canada,New Brunswick,3/28/2020,Clear throughout the day.,clear-day,0.14,0.0006,0.0022,0.03,snow,45.3,21.69,22.07,0.63,1017.0,0.03,4,25.8,45.3,46.5653,-66.4619
+Canada,New Brunswick,3/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.17,0.0006,0.0018,0.04,snow,45.16,26.07,21.47,0.63,1025.4,0.38,5,21.69,45.16,46.5653,-66.4619
+Canada,New Brunswick,3/30/2020,Mostly cloudy throughout the day.,snow,0.2,0.002,0.0053,0.33,snow,34.47,24.57,22.23,0.73,1023.3,0.71,4,26.07,34.47,46.5653,-66.4619
+Canada,New Brunswick,3/31/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0012,0.0036,0.13,snow,36.13,30.25,23.12,0.76,1019.5,0.69,4,24.57,36.13,46.5653,-66.4619
+Canada,New Brunswick,4/1/2020,Rain (with a chance of 1–2 in. of snow) throughout the day.,snow,0.27,0.0107,0.0185,0.91,snow,37.6,34.0,29.99,0.88,1012.9,0.94,3,30.25,37.6,46.5653,-66.4619
+Canada,New Brunswick,4/2/2020,Light rain throughout the day.,rain,0.3,0.0381,0.1081,1.0,rain,37.51,33.49,34.34,0.93,1006.8,0.99,3,34.0,38.48,46.5653,-66.4619
+Canada,New Brunswick,4/3/2020,Possible drizzle in the morning.,rain,0.34,0.0071,0.0199,0.61,rain,37.41,29.04,31.76,0.89,1015.7,0.99,3,30.87,38.33,46.5653,-66.4619
+Canada,New Brunswick,4/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.38,0.0011,0.003,0.1,snow,40.84,25.18,27.8,0.81,1019.2,0.79,4,29.04,40.84,46.5653,-66.4619
+Canada,New Brunswick,4/5/2020,Possible drizzle overnight.,partly-cloudy-day,0.42,0.0011,0.0026,0.18,snow,49.18,30.72,30.19,0.8,1015.2,0.52,5,25.18,49.18,46.5653,-66.4619
+Canada,New Brunswick,4/6/2020,Clear throughout the day.,rain,0.46,0.0029,0.0094,0.47,rain,42.8,21.96,26.86,0.69,1007.7,0.33,3,29.04,42.8,46.5653,-66.4619
+Canada,New Brunswick,4/7/2020,Clear throughout the day.,clear-day,0.5,0.0007,0.0022,0.11,snow,38.59,20.67,18.57,0.63,1008.4,0.12,4,21.96,38.59,46.5653,-66.4619
+Canada,New Brunswick,4/8/2020,Clear throughout the day.,clear-day,0.54,0.0013,0.0036,0.11,snow,39.93,18.66,18.63,0.64,1004.3,0.26,4,20.67,39.93,46.5653,-66.4619
+Canada,New Brunswick,4/9/2020,Snow (3–6 in.) in the evening and overnight.,snow,0.57,0.006,0.046,0.57,snow,44.06,26.43,21.16,0.67,1001.2,0.49,4,18.66,44.06,46.5653,-66.4619
+Canada,New Brunswick,4/10/2020,Heavy snow (6–9 in.) until evening.,snow,0.61,0.0466,0.1153,0.95,snow,33.78,27.59,25.84,0.85,980.3,0.88,2,26.43,33.78,46.5653,-66.4619
+Canada,New Brunswick,4/11/2020,Clear throughout the day.,clear-day,0.65,0.0009,0.0028,0.2,snow,41.1,26.86,26.3,0.74,994.8,0.24,4,27.59,41.1,46.5653,-66.4619
+Canada,New Brunswick,4/12/2020,Clear throughout the day.,clear-day,0.68,0.0005,0.0021,0.15,snow,47.68,29.69,26.23,0.66,1015.6,0.11,4,26.86,47.68,46.5653,-66.4619
+Canada,New Brunswick,4/13/2020,Rain throughout the day.,rain,0.72,0.0383,0.1445,0.97,rain,46.55,39.57,36.67,0.89,1016.3,0.69,3,29.69,50.15,46.5653,-66.4619
+Canada,New Brunswick,4/14/2020,Clear throughout the day.,rain,0.75,0.0127,0.091,0.92,rain,47.01,29.3,33.81,0.69,1005.4,0.32,6,34.97,49.92,46.5653,-66.4619
+Canada,New Brunswick,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0008,0.002,0.19,rain,45.24,24.12,23.25,0.59,1009.1,0.43,4,29.3,45.24,46.5653,-66.4619
+Canada,New Brunswick,4/16/2020,Clear throughout the day.,clear-day,0.81,0.0009,0.0026,0.16,snow,38.56,21.38,17.38,0.59,1010.2,0.23,4,24.12,38.56,46.5653,-66.4619
+Canada,New Brunswick,4/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0011,0.0049,0.16,snow,39.38,19.83,18.18,0.6,1012.7,0.36,4,21.38,39.38,46.5653,-66.4619
+Canada,New Brunswick,4/18/2020,Clear throughout the day.,clear-day,0.88,0.0007,0.0022,0.11,snow,43.77,20.37,16.01,0.54,1013.2,0.1,4,19.83,43.77,46.5653,-66.4619
+Canada,New Brunswick,4/19/2020,Clear throughout the day.,clear-day,0.91,0.0007,0.0019,0.08,snow,54.04,31.85,23.72,0.61,1004.4,0.08,5,20.37,54.04,46.5653,-66.4619
+Canada,New Brunswick,4/20/2020,Clear throughout the day.,clear-day,0.94,0.0009,0.0023,0.22,rain,41.39,15.79,22.99,0.62,1001.7,0.17,5,24.83,41.39,46.5653,-66.4619
+Canada,Newfoundland and Labrador,12/31/2019,Clear throughout the day.,partly-cloudy-day,0.19,0.0,0.0002,0.02,,18.32,7.12,-3.9,0.56,1020.9,0.43,0,2.2,18.32,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/1/2020,Foggy starting in the afternoon.,snow,0.22,0.0032,0.0097,0.25,snow,24.91,23.88,12.16,0.76,1005.2,0.96,0,7.37,25.94,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/2/2020,Possible light snow (2–4 in.) in the afternoon and evening.,snow,0.25,0.0155,0.0222,0.53,snow,31.86,26.3,26.14,0.91,986.4,1.0,0,24.61,31.86,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/3/2020,Mostly cloudy throughout the day.,snow,0.28,0.0013,0.0066,0.44,snow,32.95,15.44,23.1,0.84,993.4,0.7,0,19.02,32.95,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.31,0.0002,0.0004,0.23,snow,25.67,6.0,14.21,0.83,998.8,0.67,0,11.69,25.67,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/5/2020,Foggy in the evening.,partly-cloudy-day,0.34,0.0003,0.0016,0.17,snow,16.33,0.7,4.38,0.77,1000.6,0.38,0,6.0,16.33,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/6/2020,Clear throughout the day.,clear-day,0.37,0.0002,0.0017,0.07,snow,8.2,-9.9,-7.19,0.63,1006.8,0.21,0,-7.92,12.44,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/7/2020,Partly cloudy throughout the day.,clear-day,0.4,0.0001,0.0001,0.03,snow,6.0,0.36,-17.01,0.48,1010.9,0.3,0,-9.9,6.0,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/8/2020,Clear throughout the day.,partly-cloudy-day,0.44,0.0001,0.0002,0.04,snow,11.21,1.64,-3.38,0.69,1011.2,0.34,0,0.36,11.21,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/9/2020,Foggy in the morning.,partly-cloudy-day,0.47,0.0007,0.0033,0.12,snow,8.17,-11.42,-8.94,0.62,1006.8,0.63,0,-10.88,8.17,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/10/2020,Clear throughout the day.,clear-day,0.51,0.0004,0.0029,0.07,snow,2.5,1.51,-16.4,0.55,1021.5,0.28,0,-11.42,6.62,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/11/2020,Foggy in the evening.,snow,0.55,0.0021,0.0113,0.25,snow,15.51,-4.9,2.32,0.75,1011.4,0.68,0,1.68,15.94,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/12/2020,Clear throughout the day.,clear-day,0.58,0.0002,0.0016,0.11,snow,2.18,-10.42,-14.83,0.57,1020.1,0.08,0,-10.01,5.3,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0001,0.0002,0.07,snow,1.12,-11.96,-17.74,0.53,1027.6,0.39,0,-10.31,1.12,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/14/2020,Clear throughout the day.,clear-day,0.66,0.0,0.0001,0.03,,4.02,-9.16,-17.04,0.55,1023.3,0.2,0,-11.97,4.02,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.69,0.0001,0.0002,0.06,snow,6.8,-12.09,-11.88,0.6,1014.3,0.53,0,-9.16,6.8,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/16/2020,Partly cloudy throughout the day.,clear-day,0.73,0.0002,0.0007,0.1,snow,3.2,-20.97,-17.63,0.54,1011.0,0.29,0,-12.09,3.2,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/17/2020,Clear throughout the day.,clear-day,0.77,0.0001,0.0005,0.08,snow,-5.42,-13.5,-25.04,0.51,1014.9,0.06,0,-20.97,-4.27,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/18/2020,Clear throughout the day.,clear-day,0.8,0.0001,0.0003,0.11,snow,-3.34,-14.68,-22.26,0.51,1009.7,0.04,0,-13.5,-3.34,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/19/2020,Clear throughout the day.,clear-day,0.84,0.0001,0.0002,0.05,snow,-2.05,-12.27,-20.96,0.56,1014.3,0.07,1,-14.68,-2.05,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/20/2020,Clear throughout the day.,partly-cloudy-day,0.87,0.0,0.0002,0.09,,4.36,-13.27,-17.25,0.57,1008.0,0.33,1,-12.27,4.36,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/21/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0002,0.07,snow,-3.91,-8.51,-19.07,0.59,1013.6,0.06,1,-13.27,-3.91,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/22/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0002,0.08,snow,9.86,7.35,-6.67,0.68,1025.3,0.18,1,-8.51,11.63,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.97,0.0003,0.0009,0.15,snow,23.93,-2.82,12.8,0.78,1013.3,0.73,1,11.35,23.93,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/24/2020,Clear throughout the day.,clear-day,0.0,0.0001,0.0007,0.14,snow,2.13,-5.38,-9.36,0.6,1022.7,0.16,0,-5.21,18.24,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/25/2020,Clear throughout the day.,clear-day,0.04,0.0001,0.0003,0.02,snow,10.01,5.33,-7.17,0.63,1024.2,0.1,1,-5.31,10.01,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/26/2020,Foggy starting in the afternoon.,partly-cloudy-day,0.07,0.0034,0.0193,0.15,snow,22.95,5.94,7.99,0.74,1015.5,0.78,1,5.96,22.95,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/27/2020,Foggy throughout the day.,snow,0.1,0.0044,0.0189,0.25,snow,14.58,-1.84,4.23,0.79,1009.7,0.98,1,3.33,14.58,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/28/2020,Clear throughout the day.,partly-cloudy-day,0.13,0.0003,0.0017,0.13,snow,12.96,-3.81,-1.64,0.78,1008.3,0.49,1,-1.96,12.96,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/29/2020,"Foggy until afternoon, starting again overnight.",partly-cloudy-day,0.16,0.0007,0.0019,0.16,snow,9.33,-5.92,-2.71,0.78,1008.3,0.78,1,-3.81,9.33,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/30/2020,Clear throughout the day.,clear-day,0.19,0.0002,0.0015,0.1,snow,11.1,1.14,-5.36,0.66,1012.0,0.23,1,-5.92,11.1,53.1355,-57.6604
+Canada,Newfoundland and Labrador,1/31/2020,Clear throughout the day.,clear-day,0.22,0.0002,0.0003,0.07,snow,12.39,-7.38,-2.52,0.71,1010.6,0.31,1,-2.7,12.39,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0001,0.0003,0.04,snow,16.87,0.25,-4.65,0.64,1013.5,0.38,1,-7.38,16.87,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/2/2020,Dangerously windy overnight.,partly-cloudy-day,0.28,0.0033,0.0217,0.22,snow,17.7,11.78,3.84,0.77,1001.0,0.5,1,0.25,17.7,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/3/2020,Dangerously windy throughout the day.,snow,0.31,0.0331,0.0659,0.52,snow,28.45,18.87,18.75,0.82,972.4,1.0,1,14.45,28.45,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/4/2020,Windy in the morning.,wind,0.35,0.0003,0.0039,0.2,snow,23.43,7.54,12.63,0.77,989.2,0.58,1,10.78,23.43,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.38,0.0002,0.0004,0.1,snow,15.14,-5.9,1.94,0.72,992.3,0.65,1,-0.79,15.14,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/6/2020,Clear throughout the day.,clear-day,0.42,0.0001,0.0003,0.06,snow,7.34,-6.46,-9.06,0.61,1002.5,0.12,1,-5.9,7.34,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/7/2020,Foggy overnight.,partly-cloudy-day,0.45,0.0001,0.0004,0.11,snow,6.69,-6.8,-9.36,0.67,1005.2,0.43,1,-6.46,6.69,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/8/2020,Foggy in the morning.,partly-cloudy-day,0.49,0.0019,0.0082,0.19,snow,5.03,-15.4,-11.81,0.65,996.5,0.77,1,-12.67,5.03,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/9/2020,Clear throughout the day.,clear-day,0.53,0.0001,0.0003,0.06,snow,3.84,-0.28,-15.8,0.58,1015.2,0.02,1,-15.4,3.84,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0002,0.0005,0.09,snow,15.72,-3.94,0.63,0.74,1016.9,0.46,1,0.0,15.72,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/11/2020,Clear throughout the day.,partly-cloudy-day,0.61,0.0001,0.0003,0.07,snow,13.63,1.28,-1.77,0.78,1012.5,0.45,1,-3.94,13.63,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.64,0.0001,0.0003,0.12,snow,19.12,5.21,3.0,0.8,1001.7,0.51,1,1.28,19.12,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0009,0.0041,0.18,snow,16.51,-19.84,-3.99,0.7,992.4,0.56,1,-12.08,16.68,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/14/2020,Clear throughout the day.,clear-day,0.72,0.0002,0.0005,0.1,snow,-2.44,-13.03,-22.4,0.55,997.4,0.25,1,-19.84,-2.44,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/15/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.03,snow,-1.57,-4.92,-19.31,0.54,1011.5,0.2,1,-13.03,1.08,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.79,0.0005,0.0022,0.1,snow,17.94,6.34,2.65,0.73,1005.1,0.68,1,-1.69,17.94,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/17/2020,Partly cloudy throughout the day.,clear-day,0.82,0.0002,0.0005,0.09,snow,13.48,-13.6,-0.85,0.73,1013.2,0.27,1,-9.27,13.48,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/18/2020,Clear throughout the day.,clear-day,0.85,0.0002,0.0004,0.05,snow,6.41,0.66,-13.49,0.6,1024.0,0.02,1,-13.6,6.41,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/19/2020,Foggy in the afternoon.,snow,0.89,0.0049,0.0136,0.42,snow,19.74,-9.67,7.57,0.8,1001.7,0.87,1,1.83,19.74,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/20/2020,Clear throughout the day.,partly-cloudy-day,0.92,0.0004,0.0022,0.15,snow,-7.24,-13.92,-17.14,0.6,999.0,0.46,1,-13.89,10.68,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.95,0.0013,0.0054,0.13,snow,4.93,-3.53,-15.74,0.58,1007.0,0.59,1,-13.92,4.93,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.98,0.0003,0.0006,0.14,snow,19.64,14.24,4.83,0.74,1003.7,0.76,1,-3.5,19.64,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0001,0.0004,0.13,snow,18.28,-8.5,7.55,0.78,1008.1,0.38,1,0.84,18.28,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/24/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.04,0.0008,0.0034,0.07,snow,14.64,12.07,-2.13,0.72,1023.2,0.48,1,-8.5,14.64,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/25/2020,Foggy until evening.,partly-cloudy-day,0.07,0.0019,0.0074,0.21,snow,24.33,-5.67,10.4,0.83,1013.9,0.81,1,-1.42,24.33,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/26/2020,Foggy in the evening.,partly-cloudy-day,0.1,0.0002,0.0003,0.11,snow,11.32,-13.11,-7.02,0.7,1021.4,0.55,1,-8.61,11.32,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/27/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0002,0.05,snow,8.74,-9.25,-13.46,0.62,1028.2,0.07,1,-13.11,8.74,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/28/2020,Foggy throughout the day.,cloudy,0.16,0.002,0.0065,0.18,snow,14.9,13.91,-1.82,0.73,1014.1,0.93,1,-9.25,17.59,53.1355,-57.6604
+Canada,Newfoundland and Labrador,2/29/2020,Foggy in the morning and afternoon.,snow,0.19,0.0023,0.0075,0.32,snow,23.08,-0.62,12.45,0.84,1011.5,0.95,1,6.07,23.08,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.22,0.0002,0.0005,0.15,snow,20.29,-1.36,4.7,0.84,1015.9,0.63,1,-0.62,20.29,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/2/2020,Clear throughout the day.,partly-cloudy-day,0.26,0.0002,0.0004,0.07,snow,20.92,6.59,3.12,0.79,1015.4,0.36,2,-1.36,20.92,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/3/2020,Foggy in the morning.,snow,0.29,0.002,0.0101,0.25,snow,28.22,9.17,14.99,0.82,1004.5,0.8,1,7.76,28.22,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/4/2020,Windy in the evening and overnight.,snow,0.32,0.0055,0.0563,0.26,snow,31.88,21.4,16.93,0.84,1002.2,0.62,1,9.17,31.88,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/5/2020,Snow (2–5 in.) in the morning and afternoon.,snow,0.36,0.0212,0.0558,0.62,snow,32.19,13.34,22.07,0.84,982.3,0.97,1,18.81,32.19,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/6/2020,Mostly cloudy throughout the day.,wind,0.4,0.0004,0.0013,0.15,snow,17.92,3.03,8.36,0.74,1004.2,0.82,1,9.41,18.94,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/7/2020,Clear throughout the day.,partly-cloudy-day,0.43,0.0004,0.0016,0.1,snow,16.37,-8.5,0.62,0.73,1019.7,0.37,2,-2.54,16.37,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/8/2020,Clear throughout the day.,clear-day,0.47,0.0003,0.0017,0.07,snow,21.89,-16.23,-3.86,0.66,1009.0,0.28,2,-8.5,21.89,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/9/2020,Clear throughout the day.,clear-day,0.51,0.0002,0.0003,0.12,snow,-3.79,-16.17,-21.52,0.55,1016.7,0.1,2,-16.23,-3.79,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/10/2020,Clear throughout the day.,clear-day,0.55,0.0001,0.0002,0.04,snow,9.83,-4.45,-16.05,0.56,1022.5,0.15,2,-16.17,9.83,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/11/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.59,0.0006,0.002,0.1,snow,14.77,0.68,-1.71,0.74,1018.7,0.69,2,-4.45,14.77,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.63,0.0009,0.0027,0.16,snow,19.65,-2.0,3.92,0.8,1018.3,0.73,2,0.68,19.65,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/13/2020,Windy overnight.,partly-cloudy-day,0.66,0.0008,0.0024,0.21,snow,28.0,19.04,6.88,0.75,1026.4,0.56,2,-2.0,28.0,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/14/2020,Snow (6–10 in.) in the morning and afternoon.,snow,0.7,0.0224,0.0661,0.69,snow,27.25,16.27,17.6,0.82,1001.2,1.0,1,19.0,27.25,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/15/2020,Windy and foggy in the morning.,snow,0.74,0.0052,0.022000000000000002,0.43,snow,19.98,-6.96,8.35,0.75,1011.7,0.57,2,0.7,25.11,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/16/2020,Clear throughout the day.,clear-day,0.77,0.0001,0.0002,0.06,snow,16.24,4.2,-5.89,0.6,1028.7,0.03,3,-6.96,16.24,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/17/2020,Windy in the evening.,wind,0.8,0.0003,0.0038,0.08,snow,25.22,21.89,7.3,0.7,1023.5,0.54,2,4.2,25.22,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/18/2020,Possible light snow (1–2 in.) in the morning and afternoon.,snow,0.83,0.0043,0.0203,0.64,snow,29.96,1.32,15.7,0.77,1008.9,0.83,2,9.91,29.96,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/19/2020,Clear throughout the day.,clear-day,0.87,0.0001,0.0003,0.13,snow,15.39,0.58,-2.1,0.65,1027.2,0.13,2,1.32,15.39,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/20/2020,Heavy snow (6–9 in.) starting in the afternoon.,snow,0.9,0.0108,0.0446,0.7,snow,28.95,20.96,10.41,0.78,1021.2,0.75,2,0.58,28.95,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/21/2020,Snow (1–3 in.) in the morning.,snow,0.93,0.0227,0.1117,0.76,snow,26.76,2.63,17.09,0.81,983.9,0.87,2,10.92,26.76,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/22/2020,Clear throughout the day.,partly-cloudy-day,0.96,0.0001,0.0004,0.03,snow,16.38,5.46,0.46,0.67,1018.2,0.39,3,2.63,16.38,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/23/2020,Clear throughout the day.,clear-day,0.99,0.0001,0.0004,0.04,snow,28.69,15.16,6.66,0.65,1026.5,0.07,3,5.46,28.69,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.02,0.0002,0.001,0.14,snow,31.0,7.21,16.72,0.78,1017.1,0.69,2,15.16,31.0,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/25/2020,Clear throughout the day.,clear-day,0.05,0.0002,0.0004,0.1,snow,32.57,9.3,14.35,0.82,1021.0,0.31,3,7.21,32.57,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.08,0.0001,0.0003,0.08,snow,36.24,21.48,17.56,0.79,1022.5,0.71,2,9.3,36.24,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/27/2020,Snow (6–9 in.) throughout the day.,snow,0.11,0.0232,0.0481,0.81,snow,30.39,29.11,23.36,0.89,1009.6,1.0,2,21.48,30.61,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/28/2020,Light snow (1–2 in.) in the morning and afternoon.,snow,0.14,0.0162,0.0585,0.86,snow,32.71,9.58,24.66,0.87,999.3,0.88,2,17.66,32.71,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/29/2020,Clear throughout the day.,clear-day,0.17,0.0001,0.0003,0.08,snow,27.65,4.43,12.89,0.8,1026.1,0.29,3,9.58,27.65,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/30/2020,Clear throughout the day.,clear-day,0.2,0.0002,0.0005,0.07,snow,31.05,15.65,12.05,0.77,1030.5,0.31,4,4.43,31.05,53.1355,-57.6604
+Canada,Newfoundland and Labrador,3/31/2020,Snow (2–5 in.) in the evening and overnight.,snow,0.24,0.0188,0.0928,0.67,snow,30.33,29.34,20.6,0.85,1029.5,0.99,3,15.65,30.81,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/1/2020,Light rain throughout the day.,rain,0.27,0.0166,0.0324,0.98,rain,35.1,30.96,31.16,0.95,1026.7,1.0,3,29.47,35.1,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/2/2020,Possible drizzle in the morning and afternoon.,snow,0.3,0.0046,0.0087,0.71,snow,33.42,23.22,29.55,0.94,1031.9,1.0,3,27.1,33.42,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/3/2020,Foggy in the morning.,cloudy,0.34,0.0012,0.0039,0.16,snow,30.1,15.65,20.82,0.83,1032.7,0.91,3,18.79,30.1,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/4/2020,Overcast throughout the day.,cloudy,0.38,0.0011,0.0033,0.15,snow,27.06,8.6,15.86,0.81,1022.0,0.92,3,15.65,27.06,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/5/2020,Clear throughout the day.,partly-cloudy-day,0.42,0.0001,0.0005,0.09,snow,28.44,9.83,9.51,0.72,1015.7,0.32,4,8.6,28.44,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/6/2020,Snow (2–5 in.) in the afternoon and evening.,snow,0.46,0.0096,0.0256,0.53,snow,27.28,17.91,14.34,0.82,1002.5,0.88,2,9.83,27.28,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/7/2020,Foggy in the morning.,snow,0.5,0.0046,0.0105,0.53,snow,26.74,12.63,16.11,0.79,996.6,0.94,2,17.91,26.74,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/8/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.54,0.0008,0.0021,0.23,snow,28.68,10.22,16.0,0.8,996.7,0.78,2,12.63,28.68,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/9/2020,Mostly cloudy throughout the day.,snow,0.57,0.0024,0.0074,0.37,snow,31.74,20.54,17.3,0.83,997.3,0.69,2,10.22,31.74,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/10/2020,Snow (2–5 in.) in the evening and overnight.,snow,0.61,0.0066,0.0594,0.59,snow,35.3,24.48,23.13,0.84,998.9,0.75,3,20.54,35.3,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/11/2020,Possible light snow (< 1 in.) in the evening.,snow,0.65,0.0098,0.0668,0.86,snow,37.85,23.08,28.01,0.9,986.2,0.88,2,24.48,37.85,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/12/2020,Clear throughout the day.,clear-day,0.68,0.0001,0.0007,0.23,snow,35.09,20.77,22.77,0.77,1002.8,0.24,3,23.08,35.09,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/13/2020,Clear throughout the day.,snow,0.72,0.0002,0.0004,0.29,snow,39.74,29.52,24.79,0.79,1019.8,0.11,4,20.77,39.74,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/14/2020,Light rain in the morning and afternoon.,rain,0.75,0.0077,0.0317,0.86,rain,42.02,25.33,33.64,0.89,1000.3,0.86,3,29.52,42.02,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/15/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.13,snow,36.94,19.8,21.92,0.68,1001.2,0.17,4,25.33,36.94,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0002,0.0008,0.19,snow,30.0,13.06,14.92,0.67,998.7,0.35,3,18.53,30.0,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0002,0.0004,0.18,snow,25.97,10.23,9.14,0.65,1002.1,0.53,3,13.06,25.97,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.88,0.0002,0.0004,0.14,snow,30.42,18.33,11.16,0.66,1008.5,0.36,3,10.23,30.42,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/19/2020,Snow (1–2 in.) overnight.,clear-day,0.91,0.0004,0.0115,0.19,snow,35.82,25.23,19.76,0.74,1008.6,0.28,4,18.33,35.82,53.1355,-57.6604
+Canada,Newfoundland and Labrador,4/20/2020,Snow (6–9 in.) throughout the day.,snow,0.94,0.0367,0.0524,0.9,snow,33.0,27.6,27.99,0.94,999.4,1.0,3,25.23,33.0,53.1355,-57.6604
+Canada,Ontario,12/31/2019,Mostly cloudy throughout the day.,partly-cloudy-day,0.19,0.0041,0.0069,0.17,snow,15.8,-5.84,5.72,0.79,1001.9,0.85,0,3.79,15.8,51.2538,-85.3232
+Canada,Ontario,1/1/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.22,0.0009,0.0024,0.1,snow,10.64,3.54,-6.53,0.66,999.0,0.44,0,-7.0,10.64,51.2538,-85.3232
+Canada,Ontario,1/2/2020,Overcast throughout the day.,cloudy,0.25,0.0055,0.0149,0.2,snow,22.13,8.16,10.32,0.83,994.7,0.98,0,7.13,22.13,51.2538,-85.3232
+Canada,Ontario,1/3/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.28,0.002,0.0106,0.2,snow,15.69,-0.13,5.14,0.8,1006.7,0.64,0,-0.06,15.83,51.2538,-85.3232
+Canada,Ontario,1/4/2020,Overcast throughout the day.,partly-cloudy-day,0.31,0.0017,0.0042,0.15,snow,17.98,-3.08,3.58,0.8,1013.8,0.83,0,0.24,17.98,51.2538,-85.3232
+Canada,Ontario,1/5/2020,Overcast throughout the day.,cloudy,0.34,0.0023,0.0143,0.17,snow,11.02,4.61,-1.32,0.75,1011.6,0.89,0,-3.08,11.02,51.2538,-85.3232
+Canada,Ontario,1/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0027,0.013000000000000001,0.2,snow,11.96,0.04,1.79,0.78,1004.7,0.77,0,1.05,11.96,51.2538,-85.3232
+Canada,Ontario,1/7/2020,Foggy in the morning.,partly-cloudy-day,0.4,0.0014,0.003,0.21,snow,15.35,-14.94,0.22,0.77,1004.6,0.73,0,-2.99,15.35,51.2538,-85.3232
+Canada,Ontario,1/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.0005,0.0031,0.12,snow,-8.0,-19.36,-22.99,0.57,1025.9,0.32,0,-17.91,-4.02,51.2538,-85.3232
+Canada,Ontario,1/9/2020,Foggy throughout the day.,snow,0.47,0.0112,0.0301,0.32,snow,9.87,1.56,-13.15,0.63,1022.9,0.88,0,-19.36,12.6,51.2538,-85.3232
+Canada,Ontario,1/10/2020,Foggy in the morning.,partly-cloudy-day,0.51,0.0011,0.0089,0.16,snow,15.89,-18.96,2.06,0.77,1014.5,0.64,0,-1.34,15.89,51.2538,-85.3232
+Canada,Ontario,1/11/2020,Clear throughout the day.,clear-day,0.55,0.0009,0.0024,0.1,snow,-3.15,-22.5,-22.35,0.58,1031.6,0.06,0,-19.49,-3.11,51.2538,-85.3232
+Canada,Ontario,1/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0006,0.0019,0.12,snow,-2.48,-18.72,-26.5,0.52,1037.1,0.57,1,-22.5,-2.48,51.2538,-85.3232
+Canada,Ontario,1/13/2020,Foggy overnight.,clear-day,0.62,0.0006,0.0017,0.11,snow,2.25,-9.2,-21.87,0.56,1031.3,0.27,0,-18.6,2.25,51.2538,-85.3232
+Canada,Ontario,1/14/2020,Snow (2–4 in.) in the afternoon.,snow,0.66,0.0067,0.0197,0.47,snow,20.03,-2.54,3.82,0.78,1016.6,0.92,0,-8.4,20.03,51.2538,-85.3232
+Canada,Ontario,1/15/2020,Foggy in the morning.,partly-cloudy-day,0.7,0.0012,0.0026,0.14,snow,1.67,-17.57,-10.11,0.66,1023.5,0.71,1,-13.39,11.61,51.2538,-85.3232
+Canada,Ontario,1/16/2020,Clear throughout the day.,clear-day,0.73,0.0007,0.002,0.12,snow,0.18,-21.3,-21.19,0.58,1033.3,0.28,1,-17.75,0.18,51.2538,-85.3232
+Canada,Ontario,1/17/2020,Foggy overnight.,partly-cloudy-day,0.77,0.0012,0.0036,0.19,snow,2.68,-3.02,-22.25,0.52,1040.3,0.35,1,-21.3,2.68,51.2538,-85.3232
+Canada,Ontario,1/18/2020,Foggy in the morning and afternoon.,snow,0.8,0.0058,0.0138,0.4,snow,15.37,-7.81,1.24,0.75,1022.1,0.99,1,0.63,15.37,51.2538,-85.3232
+Canada,Ontario,1/19/2020,Clear throughout the day.,clear-day,0.84,0.0005,0.0018,0.09,snow,8.64,-2.35,-7.49,0.68,1025.4,0.26,1,-8.46,8.64,51.2538,-85.3232
+Canada,Ontario,1/20/2020,Clear throughout the day.,clear-day,0.87,0.0007,0.0038,0.09,snow,16.29,10.88,-2.32,0.67,1027.1,0.24,1,-2.44,16.29,51.2538,-85.3232
+Canada,Ontario,1/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.91,0.0006,0.002,0.07,snow,24.01,22.71,11.78,0.72,1012.7,0.68,1,13.08,25.16,51.2538,-85.3232
+Canada,Ontario,1/22/2020,Overcast throughout the day.,cloudy,0.94,0.0009,0.0035,0.15,snow,30.52,4.65,20.47,0.8,1005.1,0.9,1,15.23,30.52,51.2538,-85.3232
+Canada,Ontario,1/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.97,0.0013,0.0023,0.13,snow,15.53,-5.37,1.11,0.75,1027.6,0.55,1,-0.18,15.53,51.2538,-85.3232
+Canada,Ontario,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.01,0.0008,0.0036,0.12,snow,20.03,13.1,-0.61,0.74,1027.6,0.69,1,-5.37,20.03,51.2538,-85.3232
+Canada,Ontario,1/25/2020,"Foggy until morning, starting again in the evening.",cloudy,0.04,0.0009,0.0022,0.12,snow,26.39,19.78,15.74,0.87,1016.9,0.93,1,13.1,26.39,51.2538,-85.3232
+Canada,Ontario,1/26/2020,Foggy in the afternoon.,cloudy,0.07,0.0014,0.004,0.13,snow,23.59,12.14,16.21,0.87,1013.2,0.96,1,12.14,23.59,51.2538,-85.3232
+Canada,Ontario,1/27/2020,Foggy in the morning.,cloudy,0.1,0.001,0.0023,0.12,snow,23.03,4.14,12.18,0.85,1017.3,0.97,1,11.33,23.03,51.2538,-85.3232
+Canada,Ontario,1/28/2020,Foggy in the morning and overnight.,partly-cloudy-day,0.13,0.0011,0.0023,0.09,snow,17.71,-2.02,3.26,0.77,1022.6,0.71,1,1.82,17.71,51.2538,-85.3232
+Canada,Ontario,1/29/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.16,0.0007,0.0024,0.08,snow,17.81,-6.92,-1.11,0.75,1027.1,0.63,1,-2.02,17.81,51.2538,-85.3232
+Canada,Ontario,1/30/2020,Clear throughout the day.,clear-day,0.19,0.0008,0.0023,0.05,snow,18.71,6.44,-2.81,0.72,1022.5,0.26,1,-6.92,18.71,51.2538,-85.3232
+Canada,Ontario,1/31/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.22,0.0008,0.0024,0.12,snow,27.24,22.28,14.86,0.85,1015.5,0.85,1,9.71,27.24,51.2538,-85.3232
+Canada,Ontario,2/1/2020,Overcast throughout the day.,snow,0.25,0.0019,0.0046,0.41,snow,33.6,17.34,25.02,0.88,997.9,0.97,1,23.72,33.6,51.2538,-85.3232
+Canada,Ontario,2/2/2020,Overcast throughout the day.,snow,0.28,0.0017,0.0111,0.32,snow,29.73,14.2,20.45,0.88,992.7,0.88,1,17.34,29.73,51.2538,-85.3232
+Canada,Ontario,2/3/2020,Foggy in the morning.,snow,0.31,0.0014,0.0034,0.26,snow,26.23,-2.34,14.75,0.83,1004.7,0.89,1,10.32,26.23,51.2538,-85.3232
+Canada,Ontario,2/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.35,0.0009,0.0026,0.15,snow,6.53,-6.95,-4.83,0.72,1016.3,0.62,1,-6.05,10.57,51.2538,-85.3232
+Canada,Ontario,2/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.38,0.0028,0.0073,0.16,snow,21.62,-22.11,-1.63,0.69,1009.2,0.54,1,-6.95,21.62,51.2538,-85.3232
+Canada,Ontario,2/6/2020,Clear throughout the day.,clear-day,0.42,0.0009,0.0026,0.07,snow,-5.76,-31.29,-25.7,0.56,1015.6,0.2,1,-22.34,-5.76,51.2538,-85.3232
+Canada,Ontario,2/7/2020,Clear throughout the day.,clear-day,0.45,0.0007,0.0026,0.07,snow,-8.46,-23.43,-34.86,0.48,1019.7,0.18,1,-31.29,-8.46,51.2538,-85.3232
+Canada,Ontario,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0009,0.0027,0.05,snow,10.14,3.24,-17.49,0.57,1016.6,0.36,1,-23.43,10.14,51.2538,-85.3232
+Canada,Ontario,2/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0012,0.003,0.14,snow,16.65,4.88,4.07,0.79,1015.5,0.76,1,3.8,16.65,51.2538,-85.3232
+Canada,Ontario,2/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0011,0.0032,0.09,snow,22.88,6.45,7.63,0.79,1012.1,0.55,1,4.99,22.88,51.2538,-85.3232
+Canada,Ontario,2/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0015,0.0045,0.2,snow,22.79,-17.44,11.81,0.82,1004.7,0.55,1,6.45,22.79,51.2538,-85.3232
+Canada,Ontario,2/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.64,0.0023,0.0071,0.14,snow,-11.53,-32.04,-21.16,0.58,1015.4,0.52,1,-24.78,23.43,51.2538,-85.3232
+Canada,Ontario,2/13/2020,Clear throughout the day.,clear-day,0.68,0.0006,0.0022,0.05,snow,-7.35,-25.73,-32.75,0.51,1023.8,0.25,1,-32.04,-7.35,51.2538,-85.3232
+Canada,Ontario,2/14/2020,Clear throughout the day.,partly-cloudy-day,0.72,0.0007,0.0019,0.07,snow,8.06,6.87,-19.06,0.56,1020.7,0.36,1,-25.73,14.51,51.2538,-85.3232
+Canada,Ontario,2/15/2020,Foggy in the afternoon.,snow,0.75,0.0053,0.0121,0.29,snow,23.75,-11.87,12.59,0.79,1001.4,0.83,1,4.42,23.75,51.2538,-85.3232
+Canada,Ontario,2/16/2020,Clear throughout the day.,clear-day,0.79,0.001,0.0024,0.08,snow,5.64,-13.7,-10.8,0.69,1015.9,0.27,1,-11.87,5.64,51.2538,-85.3232
+Canada,Ontario,2/17/2020,Foggy in the evening.,partly-cloudy-day,0.82,0.0025,0.0105,0.21,snow,16.94,0.74,-6.85,0.67,1019.2,0.56,1,-13.7,16.94,51.2538,-85.3232
+Canada,Ontario,2/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.86,0.0016,0.0046,0.22,snow,9.73,-20.11,-0.99,0.77,1016.8,0.59,1,-5.87,11.73,51.2538,-85.3232
+Canada,Ontario,2/19/2020,Clear throughout the day.,clear-day,0.89,0.0008,0.0023,0.08,snow,0.27,-8.79,-18.97,0.62,1029.4,0.23,1,-20.11,0.27,51.2538,-85.3232
+Canada,Ontario,2/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.92,0.0011,0.0022,0.07,snow,17.18,11.52,-6.66,0.59,1023.2,0.34,1,-8.79,17.18,51.2538,-85.3232
+Canada,Ontario,2/21/2020,Clear throughout the day.,clear-day,0.95,0.001,0.0024,0.09,snow,32.75,24.63,14.37,0.66,1004.5,0.13,2,12.3,32.75,51.2538,-85.3232
+Canada,Ontario,2/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.98,0.0008,0.0023,0.09,snow,40.69,10.08,22.64,0.75,1005.2,0.33,2,20.01,40.69,51.2538,-85.3232
+Canada,Ontario,2/23/2020,Foggy overnight.,partly-cloudy-day,0.01,0.0038,0.0137,0.12,snow,27.12,7.46,12.56,0.82,1006.3,0.7,1,10.08,27.12,51.2538,-85.3232
+Canada,Ontario,2/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0012,0.0077,0.15,snow,24.54,2.61,9.81,0.8,1013.7,0.6,1,7.46,24.54,51.2538,-85.3232
+Canada,Ontario,2/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0011,0.0025,0.14,snow,14.0,-11.49,3.04,0.79,1029.0,0.51,1,0.12,14.0,51.2538,-85.3232
+Canada,Ontario,2/26/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.1,0.0008,0.0026,0.14,snow,8.48,-10.13,-9.39,0.7,1032.2,0.42,1,-11.49,8.48,51.2538,-85.3232
+Canada,Ontario,2/27/2020,Foggy until evening.,partly-cloudy-day,0.13,0.0021,0.0101,0.23,snow,4.74,-5.22,-9.9,0.69,1021.1,0.8,1,-10.13,4.74,51.2538,-85.3232
+Canada,Ontario,2/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.16,0.0029,0.0149,0.19,snow,9.98,-11.0,-9.49,0.59,1014.0,0.73,1,-5.22,9.98,51.2538,-85.3232
+Canada,Ontario,2/29/2020,Clear throughout the day.,clear-day,0.2,0.0006,0.0022,0.07,snow,20.58,3.18,-6.76,0.59,1014.9,0.22,2,-11.0,20.58,51.2538,-85.3232
+Canada,Ontario,3/1/2020,Possible light snow (1–2 in.) overnight.,snow,0.23,0.0054,0.0257,0.38,snow,31.69,25.31,12.44,0.78,1005.1,0.67,2,3.18,31.69,51.2538,-85.3232
+Canada,Ontario,3/2/2020,Overcast throughout the day.,snow,0.26,0.0035,0.0132,0.45,snow,29.52,9.58,18.77,0.8,994.3,0.94,1,13.77,33.54,51.2538,-85.3232
+Canada,Ontario,3/3/2020,Overcast throughout the day.,snow,0.29,0.005,0.0146,0.4,snow,31.08,14.14,17.11,0.85,996.9,0.87,1,9.58,31.08,51.2538,-85.3232
+Canada,Ontario,3/4/2020,Overcast throughout the day.,snow,0.33,0.0055,0.0104,0.35,snow,20.87,-4.57,11.81,0.82,1007.9,0.84,1,5.47,23.47,51.2538,-85.3232
+Canada,Ontario,3/5/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.36,0.0006,0.0019,0.11,snow,16.4,-12.64,-2.14,0.74,1024.0,0.36,2,-4.57,16.4,51.2538,-85.3232
+Canada,Ontario,3/6/2020,Clear throughout the day.,clear-day,0.4,0.0009,0.0021,0.06,snow,24.66,11.84,-2.95,0.65,1031.3,0.14,2,-12.64,24.66,51.2538,-85.3232
+Canada,Ontario,3/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.44,0.0011,0.0034,0.11,snow,36.92,-8.11,13.48,0.69,1019.9,0.73,2,3.12,36.92,51.2538,-85.3232
+Canada,Ontario,3/8/2020,Foggy throughout the day.,snow,0.47,0.0074,0.0129,0.48,snow,1.63,-8.17,-15.8,0.56,1028.4,0.88,2,-10.35,1.63,51.2538,-85.3232
+Canada,Ontario,3/9/2020,Foggy throughout the day.,snow,0.51,0.0064,0.0221,0.43,snow,13.17,-9.74,-9.58,0.64,1024.8,0.9,2,-8.17,13.17,51.2538,-85.3232
+Canada,Ontario,3/10/2020,Foggy overnight.,partly-cloudy-day,0.55,0.0007,0.0022,0.1,snow,15.96,-4.94,-5.05,0.7,1022.3,0.49,2,-9.74,15.96,51.2538,-85.3232
+Canada,Ontario,3/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.59,0.001,0.0028,0.08,snow,24.05,5.94,2.17,0.74,1018.1,0.43,2,-4.94,24.05,51.2538,-85.3232
+Canada,Ontario,3/12/2020,Snow (2–5 in.) overnight.,snow,0.63,0.0061,0.0298,0.5,snow,33.66,26.72,17.3,0.85,1007.7,0.84,2,5.94,33.66,51.2538,-85.3232
+Canada,Ontario,3/13/2020,Snow (4–7 in.) in the morning and afternoon.,snow,0.67,0.0268,0.0491,0.91,snow,27.89,-0.91,21.45,0.86,1003.7,0.93,2,14.2,31.02,51.2538,-85.3232
+Canada,Ontario,3/14/2020,Clear throughout the day.,clear-day,0.7,0.0008,0.0024,0.1,snow,17.11,-16.16,-0.86,0.69,1037.1,0.21,2,-1.07,17.11,51.2538,-85.3232
+Canada,Ontario,3/15/2020,Clear throughout the day.,clear-day,0.74,0.0006,0.0021,0.09,snow,20.73,13.25,-6.12,0.66,1043.0,0.19,3,-16.16,20.73,51.2538,-85.3232
+Canada,Ontario,3/16/2020,Possible light snow (< 1 in.) in the afternoon.,snow,0.77,0.0035,0.0091,0.47,snow,34.87,14.27,18.75,0.79,1016.2,0.78,2,13.49,34.87,51.2538,-85.3232
+Canada,Ontario,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0022,0.0064,0.2,snow,20.33,-5.2,8.18,0.7,1012.4,0.38,2,7.71,21.55,51.2538,-85.3232
+Canada,Ontario,3/18/2020,Clear throughout the day.,clear-day,0.84,0.0008,0.0022,0.06,snow,24.01,3.92,0.9,0.7,1025.7,0.31,3,-5.2,24.01,51.2538,-85.3232
+Canada,Ontario,3/19/2020,Snow (2–5 in.) in the evening.,snow,0.87,0.0077,0.0212,0.48,snow,23.59,-5.94,7.76,0.77,1025.2,0.87,3,3.92,23.59,51.2538,-85.3232
+Canada,Ontario,3/20/2020,Clear throughout the day.,partly-cloudy-day,0.9,0.0013,0.0095,0.22,snow,15.22,-5.4,-4.26,0.65,1028.3,0.39,3,-6.95,15.22,51.2538,-85.3232
+Canada,Ontario,3/21/2020,Clear throughout the day.,clear-day,0.93,0.0007,0.0021,0.07,snow,25.95,-2.0,-3.32,0.56,1034.9,0.13,3,-5.4,25.95,51.2538,-85.3232
+Canada,Ontario,3/22/2020,Clear throughout the day.,clear-day,0.96,0.0007,0.002,0.06,snow,34.51,25.06,5.92,0.63,1029.9,0.18,4,-2.0,34.51,51.2538,-85.3232
+Canada,Ontario,3/23/2020,Partly cloudy throughout the day.,snow,0.99,0.003,0.0093,0.44,snow,38.94,12.5,25.27,0.79,1014.2,0.59,3,25.11,38.94,51.2538,-85.3232
+Canada,Ontario,3/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.02,0.0008,0.0018,0.13,snow,41.06,31.18,22.69,0.8,1016.4,0.32,3,12.5,41.06,51.2538,-85.3232
+Canada,Ontario,3/25/2020,Light rain in the morning.,snow,0.05,0.0064,0.0374,0.73,snow,37.55,-0.57,22.64,0.81,1006.1,0.78,2,13.52,37.55,51.2538,-85.3232
+Canada,Ontario,3/26/2020,Clear throughout the day.,clear-day,0.08,0.0004,0.0019,0.07,snow,29.27,10.94,6.09,0.69,1017.3,0.25,4,-0.57,29.27,51.2538,-85.3232
+Canada,Ontario,3/27/2020,Clear throughout the day.,clear-day,0.11,0.0002,0.0009,0.08,snow,40.13,28.37,18.22,0.73,1012.0,0.27,4,10.94,40.13,51.2538,-85.3232
+Canada,Ontario,3/28/2020,Clear throughout the day.,clear-day,0.14,0.0007,0.0022,0.13,rain,41.38,20.3,27.4,0.77,1014.6,0.16,4,28.37,41.38,51.2538,-85.3232
+Canada,Ontario,3/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.17,0.0006,0.0018,0.08,snow,43.06,7.18,23.71,0.76,1015.3,0.55,3,20.3,43.06,51.2538,-85.3232
+Canada,Ontario,3/30/2020,Foggy in the morning.,partly-cloudy-day,0.2,0.0009,0.0024,0.04,snow,29.76,7.09,10.69,0.71,1027.9,0.52,3,7.18,29.76,51.2538,-85.3232
+Canada,Ontario,3/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0006,0.0018,0.09,snow,36.89,21.07,16.93,0.78,1028.4,0.32,4,7.09,36.89,51.2538,-85.3232
+Canada,Ontario,4/1/2020,Clear throughout the day.,clear-day,0.27,0.0007,0.0019,0.06,snow,45.28,16.33,24.96,0.76,1023.7,0.28,4,21.07,45.28,51.2538,-85.3232
+Canada,Ontario,4/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0006,0.0021,0.08,snow,41.35,24.44,23.08,0.8,1024.4,0.44,4,16.33,41.35,51.2538,-85.3232
+Canada,Ontario,4/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.34,0.0008,0.0021,0.11,snow,42.48,25.7,27.53,0.83,1022.6,0.62,3,24.44,42.48,51.2538,-85.3232
+Canada,Ontario,4/4/2020,Light snow (< 1 in.) in the morning and afternoon.,snow,0.38,0.004,0.0183,0.73,snow,37.16,21.92,25.41,0.82,1016.6,0.65,2,25.7,37.16,51.2538,-85.3232
+Canada,Ontario,4/5/2020,Clear throughout the day.,clear-day,0.42,0.0008,0.0018,0.13,snow,41.18,16.15,21.42,0.7,1019.4,0.3,3,21.92,41.18,51.2538,-85.3232
+Canada,Ontario,4/6/2020,Clear throughout the day.,clear-day,0.46,0.0009,0.0021,0.08,snow,38.95,13.85,17.85,0.69,1018.9,0.1,3,16.15,38.95,51.2538,-85.3232
+Canada,Ontario,4/7/2020,Foggy overnight.,partly-cloudy-day,0.5,0.0009,0.0047,0.12,snow,36.5,26.01,19.66,0.78,1013.3,0.45,3,13.85,36.5,51.2538,-85.3232
+Canada,Ontario,4/8/2020,Possible light snow (1–3 in.) in the afternoon and evening.,snow,0.54,0.0102,0.0177,0.67,snow,33.95,20.77,26.24,0.89,1002.7,0.96,3,26.01,33.95,51.2538,-85.3232
+Canada,Ontario,4/9/2020,Clear throughout the day.,snow,0.58,0.0027,0.0081,0.42,snow,32.94,12.42,19.59,0.76,1004.3,0.44,3,20.77,32.94,51.2538,-85.3232
+Canada,Ontario,4/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0008,0.0028,0.12,snow,31.18,10.63,14.86,0.76,1011.6,0.42,3,12.42,31.18,51.2538,-85.3232
+Canada,Ontario,4/11/2020,Possible light snow (1–2 in.) in the evening.,snow,0.65,0.0058,0.0315,0.54,snow,38.48,15.98,18.79,0.8,1006.7,0.41,3,10.63,38.48,51.2538,-85.3232
+Canada,Ontario,4/12/2020,Clear throughout the day.,clear-day,0.69,0.0008,0.0062,0.2,snow,34.59,19.79,15.32,0.67,1013.2,0.23,4,15.98,34.59,51.2538,-85.3232
+Canada,Ontario,4/13/2020,Snow (4–7 in.) until evening.,snow,0.72,0.0153,0.040999999999999995,0.83,snow,24.36,9.3,15.32,0.77,1008.0,0.94,3,16.59,25.71,51.2538,-85.3232
+Canada,Ontario,4/14/2020,Partly cloudy throughout the day.,snow,0.75,0.0013,0.0062,0.3,snow,23.6,6.57,6.07,0.65,1011.2,0.56,3,9.3,23.6,51.2538,-85.3232
+Canada,Ontario,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0011,0.0048,0.17,snow,29.24,8.1,7.09,0.62,1011.8,0.38,3,6.57,29.24,51.2538,-85.3232
+Canada,Ontario,4/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.82,0.001,0.0024,0.24,snow,28.99,15.31,10.23,0.71,1014.6,0.64,3,8.1,28.99,51.2538,-85.3232
+Canada,Ontario,4/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.85,0.0005,0.0019,0.13,snow,36.19,27.99,14.63,0.63,1011.1,0.34,3,15.31,36.19,51.2538,-85.3232
+Canada,Ontario,4/18/2020,Light rain in the afternoon.,snow,0.88,0.0051,0.0216,0.74,snow,43.96,4.79,21.33,0.7,995.9,0.74,3,12.78,43.96,51.2538,-85.3232
+Canada,Ontario,4/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.91,0.0008,0.0021,0.18,snow,27.89,19.64,3.67,0.6,1008.8,0.43,3,4.79,27.89,51.2538,-85.3232
+Canada,Ontario,4/20/2020,Snow (2–5 in.) in the morning and afternoon.,snow,0.94,0.0104,0.0343,0.82,snow,37.43,9.08,22.28,0.78,993.0,0.86,3,19.64,37.43,51.2538,-85.3232
+Canada,Prince Edward Island,12/31/2019,Possible light rain (with a chance of 1–2 in. of snow) in the evening and overnight.,snow,0.19,0.0108,0.0512,0.41,snow,31.96,30.97,24.09,0.79,1015.2,0.93,1,26.45,34.77,46.5107,-63.4168
+Canada,Prince Edward Island,1/1/2020,Mostly cloudy throughout the day.,rain,0.22,0.0014,0.0114,0.51,rain,36.08,28.47,28.64,0.83,991.9,0.77,1,29.51,38.09,46.5107,-63.4168
+Canada,Prince Edward Island,1/2/2020,Partly cloudy throughout the day.,clear-day,0.25,0.0009,0.0024,0.21,snow,34.09,26.83,24.08,0.75,1000.3,0.31,1,28.47,34.09,46.5107,-63.4168
+Canada,Prince Edward Island,1/3/2020,Mostly cloudy throughout the day.,snow,0.28,0.0008,0.0025,0.27,snow,34.97,30.62,26.91,0.84,1005.5,0.5,1,26.83,34.97,46.5107,-63.4168
+Canada,Prince Edward Island,1/4/2020,Clear throughout the day.,snow,0.31,0.0011,0.0028,0.27,snow,35.8,29.86,28.35,0.83,1004.7,0.42,1,30.32,35.8,46.5107,-63.4168
+Canada,Prince Edward Island,1/5/2020,Windy starting in the afternoon.,snow,0.34,0.0055,0.0161,0.37,snow,30.98,22.53,25.0,0.83,996.3,0.94,1,25.7,32.0,46.5107,-63.4168
+Canada,Prince Edward Island,1/6/2020,Overcast throughout the day.,cloudy,0.37,0.0009,0.0018,0.15,snow,25.31,18.68,16.19,0.73,1010.7,0.92,1,19.16,26.38,46.5107,-63.4168
+Canada,Prince Edward Island,1/7/2020,Mostly cloudy throughout the day.,snow,0.4,0.0014,0.006999999999999999,0.32,snow,29.08,19.99,17.72,0.77,1014.0,0.57,1,18.68,29.08,46.5107,-63.4168
+Canada,Prince Edward Island,1/8/2020,Snow (3–6 in.) until evening.,snow,0.44,0.0181,0.0549,0.64,snow,29.3,24.15,21.03,0.81,1006.4,0.9,1,19.99,29.3,46.5107,-63.4168
+Canada,Prince Edward Island,1/9/2020,Windy in the morning and afternoon.,snow,0.47,0.0018,0.0079,0.33,snow,25.7,12.46,15.0,0.73,1019.5,0.85,1,18.08,26.16,46.5107,-63.4168
+Canada,Prince Edward Island,1/10/2020,Windy in the afternoon.,wind,0.51,0.0015,0.0048,0.21,snow,34.76,30.55,17.11,0.76,1030.9,0.7,1,12.92,35.09,46.5107,-63.4168
+Canada,Prince Edward Island,1/11/2020,Light rain (with a chance of 1–2 in. of snow) throughout the day.,rain,0.55,0.0146,0.0739,0.96,rain,46.29,25.31,33.88,0.88,1018.1,0.72,1,30.55,46.29,46.5107,-63.4168
+Canada,Prince Edward Island,1/12/2020,Heavy snow (11–17 in.) until evening.,snow,0.58,0.0736,0.1727,0.88,snow,26.81,19.88,22.46,0.84,1019.8,1.0,1,23.7,35.48,46.5107,-63.4168
+Canada,Prince Edward Island,1/13/2020,Overcast throughout the day.,cloudy,0.62,0.0014,0.0054,0.16,snow,24.84,19.71,14.71,0.73,1033.5,0.9,1,19.71,24.84,46.5107,-63.4168
+Canada,Prince Edward Island,1/14/2020,Foggy in the morning.,partly-cloudy-day,0.66,0.0026,0.0076,0.23,snow,25.53,19.1,17.13,0.79,1027.4,0.86,1,20.27,25.53,46.5107,-63.4168
+Canada,Prince Edward Island,1/15/2020,Possible light snow (1–2 in.) in the afternoon.,snow,0.69,0.0039,0.0137,0.4,snow,29.07,16.91,19.4,0.82,1017.3,0.9,1,19.1,29.07,46.5107,-63.4168
+Canada,Prince Edward Island,1/16/2020,Windy overnight.,partly-cloudy-day,0.73,0.0023,0.0071,0.24,snow,25.33,16.48,16.81,0.79,1011.8,0.87,1,17.71,25.69,46.5107,-63.4168
+Canada,Prince Edward Island,1/17/2020,Windy throughout the day.,snow,0.77,0.0046,0.0072,0.35,snow,18.17,5.15,10.24,0.76,1014.7,1.0,1,12.08,24.99,46.5107,-63.4168
+Canada,Prince Edward Island,1/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.0021,0.0045,0.15,snow,11.55,4.87,0.9,0.7,1024.9,0.84,1,4.87,14.25,46.5107,-63.4168
+Canada,Prince Edward Island,1/19/2020,Snow (6–9 in.) in the afternoon and evening.,snow,0.84,0.0259,0.0866,0.69,snow,29.48,23.44,15.15,0.81,1008.6,0.96,1,5.53,29.86,46.5107,-63.4168
+Canada,Prince Edward Island,1/20/2020,Mostly cloudy throughout the day.,snow,0.87,0.0021,0.0096,0.3,snow,24.82,6.49,14.97,0.76,1011.2,0.75,1,14.97,28.48,46.5107,-63.4168
+Canada,Prince Edward Island,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.91,0.0007,0.002,0.11,snow,11.99,3.75,-0.21,0.66,1025.1,0.4,1,3.75,14.88,46.5107,-63.4168
+Canada,Prince Edward Island,1/22/2020,Clear throughout the day.,clear-day,0.94,0.0005,0.0018,0.09,snow,21.21,16.78,5.29,0.69,1029.8,0.23,1,4.35,21.21,46.5107,-63.4168
+Canada,Prince Edward Island,1/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.97,0.0012,0.002,0.22,snow,34.64,24.1,23.15,0.81,1024.2,0.56,1,18.65,34.64,46.5107,-63.4168
+Canada,Prince Edward Island,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.0,0.0007,0.0021,0.11,snow,30.53,11.84,19.76,0.78,1031.2,0.52,1,18.89,30.53,46.5107,-63.4168
+Canada,Prince Edward Island,1/25/2020,Clear throughout the day.,partly-cloudy-day,0.04,0.0008,0.0033,0.07,snow,28.82,21.44,14.44,0.78,1031.0,0.36,1,10.42,28.82,46.5107,-63.4168
+Canada,Prince Edward Island,1/26/2020,Light rain in the afternoon and evening.,rain,0.07,0.0061,0.0353,0.77,rain,38.83,31.4,29.22,0.89,1010.7,0.96,1,23.69,38.83,46.5107,-63.4168
+Canada,Prince Edward Island,1/27/2020,Partly cloudy throughout the day.,rain,0.1,0.0016,0.0036,0.42,rain,35.48,22.5,29.92,0.87,995.4,0.7,1,29.42,36.39,46.5107,-63.4168
+Canada,Prince Edward Island,1/28/2020,Foggy in the morning.,snow,0.13,0.0052,0.0117,0.32,snow,30.52,21.64,23.46,0.86,1000.2,0.99,1,22.25,30.52,46.5107,-63.4168
+Canada,Prince Edward Island,1/29/2020,Windy overnight.,cloudy,0.16,0.0019,0.0059,0.22,snow,22.92,10.72,12.48,0.76,1009.2,0.97,1,10.65,26.73,46.5107,-63.4168
+Canada,Prince Edward Island,1/30/2020,Windy in the morning.,partly-cloudy-day,0.19,0.0014,0.0054,0.2,snow,20.21,13.95,10.53,0.73,1018.5,0.69,1,14.44,20.21,46.5107,-63.4168
+Canada,Prince Edward Island,1/31/2020,Clear throughout the day.,clear-day,0.22,0.0006,0.0022,0.03,snow,26.19,11.6,10.04,0.65,1021.6,0.13,1,13.95,26.19,46.5107,-63.4168
+Canada,Prince Edward Island,2/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0004,0.0018,0.09,snow,29.08,24.49,14.87,0.78,1016.9,0.49,1,11.6,29.08,46.5107,-63.4168
+Canada,Prince Edward Island,2/2/2020,Overcast throughout the day.,snow,0.28,0.0014,0.0039,0.31,snow,28.64,17.84,22.9,0.87,995.3,0.95,1,22.24,28.64,46.5107,-63.4168
+Canada,Prince Edward Island,2/3/2020,Clear throughout the day.,clear-day,0.31,0.0007,0.0025,0.22,snow,32.21,22.73,19.48,0.78,996.5,0.25,1,17.84,32.21,46.5107,-63.4168
+Canada,Prince Edward Island,2/4/2020,Clear throughout the day.,clear-day,0.35,0.0006,0.0022,0.17,snow,32.06,25.08,21.74,0.79,1006.6,0.13,2,22.73,32.06,46.5107,-63.4168
+Canada,Prince Edward Island,2/5/2020,Clear throughout the day.,clear-day,0.38,0.001,0.0029,0.12,snow,27.2,9.93,16.02,0.71,1009.0,0.27,1,16.01,28.82,46.5107,-63.4168
+Canada,Prince Edward Island,2/6/2020,Foggy in the evening and overnight.,snow,0.42,0.0048,0.0224,0.25,snow,22.51,21.51,11.53,0.76,1015.3,0.79,1,9.93,23.25,46.5107,-63.4168
+Canada,Prince Edward Island,2/7/2020,Possible light rain (with a chance of 2–5 in. of snow) starting in the afternoon.,snow,0.45,0.0256,0.08900000000000001,0.56,snow,30.57,15.38,24.58,0.88,993.5,0.99,1,21.84,39.2,46.5107,-63.4168
+Canada,Prince Edward Island,2/8/2020,Foggy in the morning.,snow,0.49,0.0039,0.0262,0.58,snow,20.62,3.28,12.89,0.77,1002.4,0.83,1,14.55,35.31,46.5107,-63.4168
+Canada,Prince Edward Island,2/9/2020,Clear throughout the day.,clear-day,0.53,0.0009,0.0025,0.08,snow,15.33,11.35,2.17,0.69,1030.8,0.11,2,3.28,15.33,46.5107,-63.4168
+Canada,Prince Edward Island,2/10/2020,Snow (1–3 in.) until evening.,snow,0.57,0.0126,0.0482,0.84,snow,33.74,14.25,22.23,0.86,1022.2,0.82,1,12.65,33.74,46.5107,-63.4168
+Canada,Prince Edward Island,2/11/2020,Snow (1–2 in.) overnight.,partly-cloudy-day,0.61,0.0012,0.0062,0.21,snow,30.18,25.51,20.06,0.88,1016.6,0.65,2,14.25,30.18,46.5107,-63.4168
+Canada,Prince Edward Island,2/12/2020,Snow (1–3 in.) in the morning.,snow,0.64,0.0116,0.0416,0.63,snow,31.33,23.45,23.84,0.85,1007.0,0.61,1,23.45,31.33,46.5107,-63.4168
+Canada,Prince Edward Island,2/13/2020,Possible light snow (1–3 in.) in the morning and afternoon.,snow,0.68,0.0074,0.0257,0.56,snow,33.16,6.63,20.56,0.8,1005.6,0.95,2,12.95,33.16,46.5107,-63.4168
+Canada,Prince Edward Island,2/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0009,0.0026,0.1,snow,7.88,-4.04,-1.68,0.67,1015.4,0.45,1,3.81,12.44,46.5107,-63.4168
+Canada,Prince Edward Island,2/15/2020,Clear throughout the day.,clear-day,0.75,0.0009,0.0022,0.04,snow,15.65,12.74,-2.9,0.64,1029.2,0.23,2,-4.04,16.74,46.5107,-63.4168
+Canada,Prince Edward Island,2/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.79,0.0019,0.0057,0.16,snow,33.08,21.25,21.7,0.82,1017.1,0.7,2,15.8,33.08,46.5107,-63.4168
+Canada,Prince Edward Island,2/17/2020,Clear throughout the day.,snow,0.82,0.0008,0.0022,0.26,snow,34.74,6.74,19.48,0.79,1018.4,0.32,2,14.72,34.74,46.5107,-63.4168
+Canada,Prince Edward Island,2/18/2020,Snow (3–6 in.) and windy overnight.,wind,0.85,0.0032,0.0424,0.24,snow,21.57,20.58,7.96,0.72,1032.0,0.53,2,6.74,23.6,46.5107,-63.4168
+Canada,Prince Edward Island,2/19/2020,Possible light rain in the morning and afternoon.,snow,0.89,0.0215,0.1056,0.74,snow,35.39,1.18,24.28,0.81,1007.6,0.65,2,15.91,35.39,46.5107,-63.4168
+Canada,Prince Edward Island,2/20/2020,Clear throughout the day.,wind,0.92,0.0011,0.0022,0.11,snow,9.79,-2.94,-4.81,0.59,1021.6,0.15,2,0.55,14.51,46.5107,-63.4168
+Canada,Prince Edward Island,2/21/2020,Clear throughout the day.,clear-day,0.95,0.001,0.0024,0.09,snow,17.31,12.35,-3.82,0.6,1025.4,0.07,2,-2.94,17.31,46.5107,-63.4168
+Canada,Prince Edward Island,2/22/2020,Clear throughout the day.,clear-day,0.98,0.0007,0.0023,0.09,snow,31.69,20.95,15.88,0.72,1014.9,0.14,2,12.62,31.69,46.5107,-63.4168
+Canada,Prince Edward Island,2/23/2020,Clear throughout the day.,clear-day,0.01,0.0005,0.0022,0.08,snow,36.85,22.8,23.22,0.79,1017.0,0.06,2,20.95,36.85,46.5107,-63.4168
+Canada,Prince Edward Island,2/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0008,0.0023,0.16,snow,37.04,29.29,27.02,0.87,1017.0,0.33,2,22.8,37.04,46.5107,-63.4168
+Canada,Prince Edward Island,2/25/2020,Overcast throughout the day.,partly-cloudy-day,0.07,0.0009,0.002,0.23,snow,36.53,24.0,28.85,0.86,1014.6,0.74,2,29.29,36.53,46.5107,-63.4168
+Canada,Prince Edward Island,2/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.1,0.0007,0.0024,0.17,snow,31.71,25.82,25.4,0.89,1018.4,0.57,2,24.0,31.71,46.5107,-63.4168
+Canada,Prince Edward Island,2/27/2020,Snow (3–6 in.) in the evening and overnight.,snow,0.13,0.028999999999999998,0.138,0.45,snow,31.32,25.76,25.26,0.87,1012.3,0.97,2,25.82,33.5,46.5107,-63.4168
+Canada,Prince Edward Island,2/28/2020,Dangerously windy in the morning.,snow,0.16,0.0018,0.0366,0.61,snow,31.62,18.38,22.68,0.76,997.4,0.41,2,23.79,34.71,46.5107,-63.4168
+Canada,Prince Edward Island,2/29/2020,Foggy overnight.,snow,0.19,0.0011,0.0053,0.32,snow,31.49,25.19,19.57,0.78,1007.4,0.24,2,18.38,31.49,46.5107,-63.4168
+Canada,Prince Edward Island,3/1/2020,Snow (5–9 in.) until evening.,snow,0.22,0.0316,0.0732,0.71,snow,31.33,21.38,26.16,0.9,1006.4,0.87,1,25.19,31.33,46.5107,-63.4168
+Canada,Prince Edward Island,3/2/2020,Partly cloudy throughout the day.,snow,0.26,0.0018,0.0179,0.29,snow,30.21,26.99,21.29,0.8,1017.0,0.52,2,21.38,30.39,46.5107,-63.4168
+Canada,Prince Edward Island,3/3/2020,Possible drizzle in the morning and afternoon.,rain,0.29,0.0032,0.0172,0.61,rain,37.15,32.78,32.08,0.91,1007.3,0.92,2,29.89,37.15,46.5107,-63.4168
+Canada,Prince Edward Island,3/4/2020,Rain (with a chance of 1–2 in. of snow) until evening.,rain,0.32,0.0328,0.1514,0.92,rain,37.47,30.03,32.71,0.92,988.1,0.99,2,32.75,37.47,46.5107,-63.4168
+Canada,Prince Edward Island,3/5/2020,Windy in the morning.,snow,0.36,0.0052,0.0162,0.56,snow,33.31,23.55,25.81,0.81,999.4,0.81,2,29.17,33.31,46.5107,-63.4168
+Canada,Prince Edward Island,3/6/2020,Clear throughout the day.,clear-day,0.4,0.0009,0.0021,0.05,snow,28.7,19.07,17.34,0.69,1018.9,0.16,3,23.55,29.47,46.5107,-63.4168
+Canada,Prince Edward Island,3/7/2020,Windy and overcast throughout the day.,wind,0.43,0.0012,0.0029,0.16,snow,23.9,17.55,16.04,0.78,1015.8,0.88,2,19.07,24.61,46.5107,-63.4168
+Canada,Prince Edward Island,3/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0007,0.0022,0.17,snow,31.71,19.01,17.89,0.75,1017.0,0.32,2,17.55,31.71,46.5107,-63.4168
+Canada,Prince Edward Island,3/9/2020,Foggy in the morning.,snow,0.51,0.0032,0.0071,0.3,snow,23.72,16.61,15.33,0.76,1026.1,0.63,2,18.28,27.55,46.5107,-63.4168
+Canada,Prince Edward Island,3/10/2020,"Snow (2–4 in.) until afternoon, starting again overnight.",snow,0.55,0.0086,0.0395,0.61,snow,33.0,28.12,19.31,0.83,1021.8,0.93,2,16.61,34.11,46.5107,-63.4168
+Canada,Prince Edward Island,3/11/2020,Possible light rain in the morning.,rain,0.59,0.0055,0.0264,0.71,rain,30.94,21.75,24.43,0.87,1013.6,0.92,2,22.18,34.87,46.5107,-63.4168
+Canada,Prince Edward Island,3/12/2020,Clear throughout the day.,partly-cloudy-day,0.63,0.0012,0.0066,0.12,snow,28.24,15.97,16.68,0.76,1023.9,0.42,3,17.4,28.24,46.5107,-63.4168
+Canada,Prince Edward Island,3/13/2020,Light rain in the evening and overnight.,rain,0.66,0.0065,0.0671,0.57,rain,33.84,32.08,21.75,0.83,1023.7,0.56,3,15.97,37.13,46.5107,-63.4168
+Canada,Prince Edward Island,3/14/2020,Windy in the evening and overnight.,rain,0.7,0.0036,0.0563,0.78,rain,37.04,20.51,27.58,0.78,1005.6,0.27,3,25.83,38.49,46.5107,-63.4168
+Canada,Prince Edward Island,3/15/2020,Clear throughout the day.,wind,0.74,0.0007,0.0021,0.17,snow,29.62,18.0,16.75,0.72,1023.1,0.14,3,20.51,29.62,46.5107,-63.4168
+Canada,Prince Edward Island,3/16/2020,Mostly cloudy throughout the day.,snow,0.77,0.0015,0.0048,0.34,snow,24.46,16.74,15.99,0.8,1033.3,0.58,2,18.0,24.46,46.5107,-63.4168
+Canada,Prince Edward Island,3/17/2020,Possible light snow (< 1 in.) overnight.,snow,0.8,0.0045,0.0244,0.43,snow,34.74,28.27,20.8,0.81,1027.5,0.49,4,16.74,34.74,46.5107,-63.4168
+Canada,Prince Edward Island,3/18/2020,Clear throughout the day.,snow,0.83,0.0025,0.0194,0.53,snow,33.37,19.57,23.18,0.73,1022.5,0.26,4,26.32,34.6,46.5107,-63.4168
+Canada,Prince Edward Island,3/19/2020,Clear throughout the day.,clear-day,0.87,0.0006,0.0021,0.1,snow,35.86,31.24,19.93,0.71,1036.1,0.14,4,19.57,35.86,46.5107,-63.4168
+Canada,Prince Edward Island,3/20/2020,Rain until evening.,rain,0.9,0.0187,0.1466,0.95,rain,42.67,33.4,36.06,0.92,1012.8,0.97,3,32.23,44.37,46.5107,-63.4168
+Canada,Prince Edward Island,3/21/2020,Dangerously windy in the morning and afternoon.,wind,0.93,0.0012,0.0052,0.2,rain,36.1,15.83,22.5,0.65,1011.4,0.3,4,24.31,44.7,46.5107,-63.4168
+Canada,Prince Edward Island,3/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.96,0.0009,0.0022,0.15,snow,24.88,17.0,8.68,0.61,1033.3,0.51,3,15.83,24.88,46.5107,-63.4168
+Canada,Prince Edward Island,3/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.99,0.0007,0.0019,0.05,snow,33.12,26.47,15.84,0.67,1038.5,0.39,4,17.0,33.12,46.5107,-63.4168
+Canada,Prince Edward Island,3/24/2020,Snow (2–5 in.) in the morning and afternoon.,snow,0.02,0.0175,0.0673,0.9,snow,31.16,26.59,25.82,0.87,1019.1,0.93,3,26.47,31.16,46.5107,-63.4168
+Canada,Prince Edward Island,3/25/2020,Clear throughout the day.,partly-cloudy-day,0.05,0.0008,0.0022,0.12,snow,33.89,27.38,25.55,0.83,1023.1,0.32,4,26.59,33.89,46.5107,-63.4168
+Canada,Prince Edward Island,3/26/2020,Light snow (1–3 in.) in the evening and overnight.,snow,0.08,0.0045,0.0315,0.54,snow,34.49,29.33,26.36,0.84,1018.7,0.93,3,27.38,34.49,46.5107,-63.4168
+Canada,Prince Edward Island,3/27/2020,Possible light snow (< 1 in.) in the morning.,snow,0.11,0.0052,0.0314,0.77,snow,34.14,29.5,27.99,0.89,1001.9,0.94,2,29.06,34.15,46.5107,-63.4168
+Canada,Prince Edward Island,3/28/2020,Clear throughout the day.,clear-day,0.14,0.0006,0.0022,0.05,snow,38.06,24.2,24.2,0.7,1014.4,0.09,4,29.5,38.06,46.5107,-63.4168
+Canada,Prince Edward Island,3/29/2020,Clear throughout the day.,clear-day,0.17,0.0006,0.0018,0.04,snow,36.47,28.35,22.77,0.73,1026.5,0.24,5,24.2,36.47,46.5107,-63.4168
+Canada,Prince Edward Island,3/30/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.2,0.0009,0.0025,0.1,snow,31.9,28.73,25.13,0.82,1023.7,0.75,4,28.35,31.9,46.5107,-63.4168
+Canada,Prince Edward Island,3/31/2020,Foggy in the afternoon and evening.,snow,0.24,0.004,0.0088,0.31,snow,31.37,30.3,27.28,0.9,1016.5,0.99,3,28.45,32.05,46.5107,-63.4168
+Canada,Prince Edward Island,4/1/2020,Possible light rain throughout the day.,rain,0.27,0.0071,0.0211,0.89,rain,33.21,32.22,30.9,0.96,1011.5,1.0,3,30.3,35.12,46.5107,-63.4168
+Canada,Prince Edward Island,4/2/2020,Dangerously windy starting in the afternoon.,rain,0.3,0.0016,0.027999999999999997,0.68,rain,36.99,32.76,34.15,0.95,1007.3,0.96,3,34.17,36.99,46.5107,-63.4168
+Canada,Prince Edward Island,4/3/2020,Dangerously windy until evening.,wind,0.34,0.0007,0.0022,0.17,rain,35.67,29.74,31.12,0.89,1014.9,0.8,4,31.83,35.9,46.5107,-63.4168
+Canada,Prince Edward Island,4/4/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.38,0.0008,0.002,0.1,snow,32.22,28.12,27.15,0.86,1018.6,0.8,3,29.29,32.47,46.5107,-63.4168
+Canada,Prince Edward Island,4/5/2020,Clear throughout the day.,partly-cloudy-day,0.42,0.0009,0.0019,0.11,snow,37.78,32.38,26.51,0.79,1016.3,0.4,5,28.12,37.78,46.5107,-63.4168
+Canada,Prince Edward Island,4/6/2020,Possible light rain in the morning.,rain,0.46,0.0045,0.0225,0.62,rain,41.24,28.33,29.5,0.77,1006.4,0.5,4,32.27,41.24,46.5107,-63.4168
+Canada,Prince Edward Island,4/7/2020,Clear throughout the day.,clear-day,0.5,0.0007,0.0022,0.16,snow,35.37,28.4,22.84,0.69,1006.8,0.07,4,28.33,35.37,46.5107,-63.4168
+Canada,Prince Edward Island,4/8/2020,Clear throughout the day.,clear-day,0.54,0.0011,0.0027,0.24,snow,34.83,25.0,24.36,0.77,1004.0,0.3,4,26.69,34.83,46.5107,-63.4168
+Canada,Prince Edward Island,4/9/2020,Possible light snow (< 1 in.) and windy overnight.,partly-cloudy-day,0.57,0.0013,0.0025,0.2,snow,40.68,29.32,24.01,0.7,1002.6,0.42,5,25.0,40.68,46.5107,-63.4168
+Canada,Prince Edward Island,4/10/2020,Snow (2–5 in.) throughout the day.,snow,0.61,0.0241,0.1128,0.86,snow,37.94,30.23,30.13,0.87,978.9,0.87,3,29.32,37.94,46.5107,-63.4168
+Canada,Prince Edward Island,4/11/2020,Possible light snow (< 1 in.) in the morning.,snow,0.65,0.0038,0.0134,0.59,snow,40.51,31.5,29.25,0.81,991.0,0.56,4,30.23,40.51,46.5107,-63.4168
+Canada,Prince Edward Island,4/12/2020,Clear throughout the day.,clear-day,0.68,0.0004,0.0021,0.15,rain,45.14,33.52,27.86,0.69,1015.2,0.14,4,31.5,45.14,46.5107,-63.4168
+Canada,Prince Edward Island,4/13/2020,Light rain in the evening and overnight.,rain,0.72,0.0058,0.0468,0.85,rain,49.09,45.38,35.79,0.79,1021.2,0.67,4,33.52,49.09,46.5107,-63.4168
+Canada,Prince Edward Island,4/14/2020,Light rain and windy in the morning.,rain,0.75,0.0094,0.0495,0.92,rain,49.25,33.9,38.53,0.74,1006.0,0.55,6,39.8,50.44,46.5107,-63.4168
+Canada,Prince Edward Island,4/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.001,0.0081,0.23,rain,42.62,31.65,29.0,0.69,1009.2,0.6,3,33.9,42.62,46.5107,-63.4168
+Canada,Prince Edward Island,4/16/2020,Partly cloudy throughout the day.,rain,0.81,0.0018,0.0125,0.53,rain,38.73,28.76,25.5,0.7,1008.6,0.36,4,31.65,38.73,46.5107,-63.4168
+Canada,Prince Edward Island,4/17/2020,Clear throughout the day.,clear-day,0.84,0.0007,0.0045,0.17,snow,40.95,28.92,22.47,0.62,1011.8,0.23,4,28.76,40.95,46.5107,-63.4168
+Canada,Prince Edward Island,4/18/2020,Clear throughout the day.,clear-day,0.88,0.001,0.0065,0.19,snow,37.23,30.46,22.35,0.64,1014.1,0.18,5,28.92,37.23,46.5107,-63.4168
+Canada,Prince Edward Island,4/19/2020,Clear throughout the day.,clear-day,0.91,0.0007,0.0019,0.14,snow,35.1,30.43,26.92,0.79,1004.8,0.31,4,30.43,35.1,46.5107,-63.4168
+Canada,Prince Edward Island,4/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.94,0.0008,0.0022,0.2,rain,45.07,30.61,30.02,0.73,1000.8,0.33,5,30.67,45.07,46.5107,-63.4168
+Canada,Quebec,12/31/2019,Foggy starting in the afternoon.,cloudy,0.19,0.003,0.0084,0.12,snow,22.64,10.39,13.07,0.8,1007.5,0.98,0,13.48,22.64,52.9399,-73.5491
+Canada,Quebec,1/1/2020,"Foggy until morning, starting again in the evening.",cloudy,0.22,0.0012,0.0058,0.17,snow,19.38,7.94,11.34,0.88,997.8,0.88,0,10.39,19.38,52.9399,-73.5491
+Canada,Quebec,1/2/2020,Foggy in the morning.,partly-cloudy-day,0.25,0.0005,0.003,0.17,snow,18.17,8.31,9.5,0.9,1002.1,0.81,0,7.95,18.17,52.9399,-73.5491
+Canada,Quebec,1/3/2020,Foggy throughout the day.,cloudy,0.28,0.0048,0.0127,0.18,snow,24.64,1.23,13.23,0.87,999.8,0.97,0,8.53,24.64,52.9399,-73.5491
+Canada,Quebec,1/4/2020,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.31,0.0007,0.0026,0.15,snow,9.21,-4.99,1.19,0.84,1009.8,0.79,0,-1.08,14.14,52.9399,-73.5491
+Canada,Quebec,1/5/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.34,0.0003,0.0009,0.13,snow,5.66,-10.4,-5.88,0.83,1014.0,0.71,0,-7.49,5.66,52.9399,-73.5491
+Canada,Quebec,1/6/2020,Foggy overnight.,partly-cloudy-day,0.37,0.0001,0.0008,0.02,snow,3.44,1.63,-9.77,0.72,1010.1,0.58,0,-10.4,4.03,52.9399,-73.5491
+Canada,Quebec,1/7/2020,Foggy throughout the day.,cloudy,0.4,0.002,0.0063,0.09,snow,5.33,2.62,-1.97,0.75,1006.3,0.89,0,0.9,6.73,52.9399,-73.5491
+Canada,Quebec,1/8/2020,Foggy until evening.,fog,0.44,0.0012,0.0059,0.12,snow,8.78,-21.78,-4.82,0.74,1011.7,0.81,0,-14.68,8.78,52.9399,-73.5491
+Canada,Quebec,1/9/2020,"Foggy until afternoon, starting again overnight.",partly-cloudy-day,0.47,0.0001,0.0003,0.06,snow,-11.98,-15.87,-30.39,0.48,1033.3,0.53,0,-21.78,-10.25,52.9399,-73.5491
+Canada,Quebec,1/10/2020,Foggy throughout the day.,fog,0.51,0.0054,0.0169,0.16,snow,12.77,-1.03,-1.25,0.74,1015.1,0.92,0,-8.18,12.77,52.9399,-73.5491
+Canada,Quebec,1/11/2020,Foggy until evening.,fog,0.55,0.0006,0.0023,0.1,snow,0.57,-23.06,-11.34,0.72,1022.3,0.83,0,-17.07,7.18,52.9399,-73.5491
+Canada,Quebec,1/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0001,0.0004,0.07,snow,-11.02,-19.25,-28.42,0.56,1037.1,0.6,0,-23.06,-11.02,52.9399,-73.5491
+Canada,Quebec,1/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.0001,0.0002,0.07,snow,-0.48,-21.16,-23.87,0.58,1036.2,0.64,0,-20.4,-0.48,52.9399,-73.5491
+Canada,Quebec,1/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.66,0.0,0.0002,0.05,,1.08,-4.06,-20.31,0.59,1026.4,0.51,0,-21.16,1.08,52.9399,-73.5491
+Canada,Quebec,1/15/2020,"Foggy until afternoon, starting again overnight.",partly-cloudy-day,0.7,0.0012,0.0032,0.12,snow,6.28,-22.42,-7.32,0.74,1016.2,0.86,0,-7.58,6.28,52.9399,-73.5491
+Canada,Quebec,1/16/2020,Clear throughout the day.,partly-cloudy-day,0.73,0.0002,0.0006,0.09,snow,-11.78,-28.84,-28.11,0.58,1024.6,0.43,0,-24.26,-7.54,52.9399,-73.5491
+Canada,Quebec,1/17/2020,Foggy starting in the afternoon.,partly-cloudy-day,0.77,0.0003,0.0007,0.17,snow,-15.24,-24.53,-37.33,0.44,1037.6,0.68,0,-28.84,-15.24,52.9399,-73.5491
+Canada,Quebec,1/18/2020,Foggy in the morning.,partly-cloudy-day,0.8,0.0002,0.0003,0.14,snow,-8.71,-26.27,-30.47,0.51,1030.4,0.69,1,-24.53,-8.71,52.9399,-73.5491
+Canada,Quebec,1/19/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.84,0.0009,0.0057,0.1,snow,-7.51,-11.42,-26.18,0.6,1017.5,0.54,1,-26.27,-5.89,52.9399,-73.5491
+Canada,Quebec,1/20/2020,Foggy throughout the day.,fog,0.87,0.0019,0.0041,0.19,snow,-1.98,-7.76,-13.46,0.72,1016.5,0.94,1,-11.42,-1.98,52.9399,-73.5491
+Canada,Quebec,1/21/2020,Foggy throughout the day.,fog,0.91,0.0031,0.006999999999999999,0.2,snow,7.61,3.48,-4.89,0.76,1015.5,0.92,1,-7.67,7.61,52.9399,-73.5491
+Canada,Quebec,1/22/2020,Foggy throughout the day.,cloudy,0.94,0.0034,0.0103,0.2,snow,23.93,11.78,12.34,0.82,1008.6,0.96,1,4.14,24.91,52.9399,-73.5491
+Canada,Quebec,1/23/2020,Foggy throughout the day.,fog,0.97,0.002,0.0065,0.22,snow,13.44,-11.51,4.28,0.79,1019.9,0.9,0,-7.1,23.78,52.9399,-73.5491
+Canada,Quebec,1/24/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.07,snow,8.27,-4.23,-12.72,0.62,1032.4,0.3,1,-11.51,8.27,52.9399,-73.5491
+Canada,Quebec,1/25/2020,Foggy overnight.,partly-cloudy-day,0.04,0.0031,0.0169,0.13,snow,22.26,19.63,0.54,0.67,1023.8,0.53,1,-4.23,23.36,52.9399,-73.5491
+Canada,Quebec,1/26/2020,Foggy until evening.,snow,0.07,0.0047,0.0175,0.25,snow,28.53,1.33,19.97,0.86,1009.2,0.99,1,16.6,28.53,52.9399,-73.5491
+Canada,Quebec,1/27/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0003,0.06,snow,9.79,-13.81,-6.12,0.64,1013.5,0.3,1,-8.08,16.47,52.9399,-73.5491
+Canada,Quebec,1/28/2020,Clear throughout the day.,clear-day,0.13,0.0002,0.0004,0.05,snow,6.86,-17.24,-18.61,0.54,1017.3,0.21,1,-13.81,6.86,52.9399,-73.5491
+Canada,Quebec,1/29/2020,Clear throughout the day.,clear-day,0.16,0.0001,0.0003,0.05,snow,0.9,-12.09,-20.14,0.59,1027.6,0.25,1,-17.24,0.9,52.9399,-73.5491
+Canada,Quebec,1/30/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.19,0.0003,0.0008,0.05,snow,8.51,-5.2,-12.01,0.63,1024.4,0.55,1,-12.09,8.51,52.9399,-73.5491
+Canada,Quebec,1/31/2020,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.22,0.0004,0.0008,0.05,snow,13.7,5.11,-2.43,0.73,1021.4,0.73,1,-5.2,13.7,52.9399,-73.5491
+Canada,Quebec,2/1/2020,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.25,0.0012,0.0049,0.11,snow,16.49,14.17,7.91,0.82,1008.6,0.83,1,5.11,17.96,52.9399,-73.5491
+Canada,Quebec,2/2/2020,"Foggy until morning, starting again in the evening.",partly-cloudy-day,0.28,0.0011,0.0033,0.21,snow,23.41,11.16,14.73,0.86,996.2,0.87,1,14.17,23.41,52.9399,-73.5491
+Canada,Quebec,2/3/2020,Foggy throughout the day.,snow,0.31,0.0021,0.0047,0.28,snow,23.84,8.22,14.34,0.88,998.2,0.92,1,11.16,23.84,52.9399,-73.5491
+Canada,Quebec,2/4/2020,Foggy throughout the day.,snow,0.35,0.003,0.0043,0.37,snow,12.29,-13.78,3.63,0.8,1005.6,0.99,1,-3.97,15.28,52.9399,-73.5491
+Canada,Quebec,2/5/2020,Foggy throughout the day.,fog,0.38,0.0012,0.0069,0.1,snow,-3.48,-4.98,-14.4,0.69,1011.5,0.72,1,-13.78,2.54,52.9399,-73.5491
+Canada,Quebec,2/6/2020,Foggy until evening.,partly-cloudy-day,0.42,0.0009,0.0075,0.22,snow,-2.87,-29.2,-12.43,0.74,1008.2,0.72,1,-21.33,8.46,52.9399,-73.5491
+Canada,Quebec,2/7/2020,Clear throughout the day.,clear-day,0.45,0.0001,0.0004,0.06,snow,-9.96,-28.8,-31.72,0.55,1014.4,0.22,1,-29.2,-9.96,52.9399,-73.5491
+Canada,Quebec,2/8/2020,"Foggy until afternoon, starting again overnight.",partly-cloudy-day,0.49,0.0002,0.0005,0.07,snow,-7.36,-14.76,-29.51,0.55,1016.0,0.46,1,-28.8,-7.36,52.9399,-73.5491
+Canada,Quebec,2/9/2020,Foggy throughout the day.,fog,0.53,0.0026,0.0046,0.16,snow,9.58,-11.05,-6.26,0.72,1015.9,0.96,1,-12.62,10.14,52.9399,-73.5491
+Canada,Quebec,2/10/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.57,0.0012,0.005,0.11,snow,5.55,-0.55,-6.51,0.76,1015.3,0.78,1,-11.05,7.59,52.9399,-73.5491
+Canada,Quebec,2/11/2020,Foggy until evening.,snow,0.61,0.0027,0.0051,0.27,snow,21.85,-6.67,7.95,0.82,1004.9,0.95,1,2.34,21.85,52.9399,-73.5491
+Canada,Quebec,2/12/2020,Foggy throughout the day.,snow,0.64,0.0043,0.0113,0.33,snow,20.49,-29.58,-3.96,0.76,1002.7,0.9,1,-17.18,20.49,52.9399,-73.5491
+Canada,Quebec,2/13/2020,Foggy throughout the day.,fog,0.68,0.0002,0.0007,0.06,snow,-16.99,-37.51,-34.23,0.58,1017.4,0.6,1,-30.38,-16.99,52.9399,-73.5491
+Canada,Quebec,2/14/2020,Clear throughout the day.,partly-cloudy-day,0.72,0.0002,0.0005,0.06,snow,-15.8,-22.27,-39.92,0.48,1026.0,0.33,1,-37.51,-15.8,52.9399,-73.5491
+Canada,Quebec,2/15/2020,Foggy throughout the day.,fog,0.75,0.0049,0.0153,0.2,snow,13.15,10.69,-8.06,0.67,1009.4,0.93,1,-17.87,15.4,52.9399,-73.5491
+Canada,Quebec,2/16/2020,Foggy throughout the day.,fog,0.79,0.0038,0.0125,0.22,snow,13.69,-27.43,-3.32,0.76,1005.5,0.89,1,-18.23,17.25,52.9399,-73.5491
+Canada,Quebec,2/17/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.82,0.0001,0.0004,0.06,snow,-3.33,-9.74,-25.85,0.59,1024.0,0.43,1,-27.43,-3.33,52.9399,-73.5491
+Canada,Quebec,2/18/2020,Foggy throughout the day.,snow,0.86,0.0064,0.016,0.3,snow,13.18,-10.61,-0.84,0.76,1015.2,0.99,1,-5.41,13.18,52.9399,-73.5491
+Canada,Quebec,2/19/2020,Foggy throughout the day.,fog,0.89,0.0025,0.0106,0.23,snow,-6.99,-29.13,-17.06,0.69,1014.6,0.92,1,-25.15,10.2,52.9399,-73.5491
+Canada,Quebec,2/20/2020,Foggy throughout the day.,fog,0.92,0.0003,0.0007,0.08,snow,-5.27,-14.51,-26.67,0.61,1021.0,0.68,1,-29.13,-5.27,52.9399,-73.5491
+Canada,Quebec,2/21/2020,Foggy throughout the day.,fog,0.95,0.0034,0.013000000000000001,0.19,snow,19.2,16.24,-0.89,0.75,1006.0,0.84,1,-14.51,20.58,52.9399,-73.5491
+Canada,Quebec,2/22/2020,Foggy until evening.,snow,0.98,0.0044,0.011000000000000001,0.35,snow,25.64,-12.34,13.24,0.83,1000.5,0.94,1,0.18,25.64,52.9399,-73.5491
+Canada,Quebec,2/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0001,0.0004,0.07,snow,12.77,0.51,-5.35,0.75,1014.2,0.52,1,-12.34,12.77,52.9399,-73.5491
+Canada,Quebec,2/24/2020,Foggy in the morning and afternoon.,snow,0.04,0.0047,0.0108,0.34,snow,29.11,-1.22,13.75,0.82,1006.6,0.92,1,3.65,29.11,52.9399,-73.5491
+Canada,Quebec,2/25/2020,Overcast throughout the day.,partly-cloudy-day,0.07,0.0003,0.0009,0.12,snow,15.73,-18.5,0.46,0.79,1019.8,0.82,1,-6.21,15.73,52.9399,-73.5491
+Canada,Quebec,2/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0003,0.09,snow,7.06,-11.55,-16.25,0.63,1029.5,0.2,1,-18.5,7.06,52.9399,-73.5491
+Canada,Quebec,2/27/2020,Foggy overnight.,partly-cloudy-day,0.13,0.0007,0.0112,0.11,snow,15.66,4.68,-7.81,0.58,1016.8,0.59,1,-10.5,15.66,52.9399,-73.5491
+Canada,Quebec,2/28/2020,Foggy in the morning and afternoon.,snow,0.16,0.0044,0.0257,0.27,snow,17.06,-5.96,3.74,0.77,1002.8,0.84,1,-0.47,17.06,52.9399,-73.5491
+Canada,Quebec,2/29/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.2,0.0001,0.0003,0.08,snow,17.54,-8.31,-1.5,0.79,1009.2,0.32,1,-6.2,17.54,52.9399,-73.5491
+Canada,Quebec,3/1/2020,Foggy in the morning.,partly-cloudy-day,0.23,0.0001,0.0005,0.07,snow,14.06,-2.18,-4.26,0.77,1015.7,0.64,1,-8.21,14.06,52.9399,-73.5491
+Canada,Quebec,3/2/2020,Foggy throughout the day.,partly-cloudy-day,0.26,0.0047,0.0174,0.21,snow,23.53,7.81,10.27,0.78,999.1,0.82,1,0.46,24.89,52.9399,-73.5491
+Canada,Quebec,3/3/2020,Foggy throughout the day.,cloudy,0.29,0.0013,0.0042,0.23,snow,19.27,-0.57,8.25,0.83,1000.9,0.89,1,1.66,21.51,52.9399,-73.5491
+Canada,Quebec,3/4/2020,Overcast throughout the day.,partly-cloudy-day,0.33,0.0001,0.0004,0.06,snow,18.86,-11.99,3.0,0.81,1004.2,0.87,1,-1.58,18.86,52.9399,-73.5491
+Canada,Quebec,3/5/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.36,0.0002,0.0007,0.11,snow,11.35,-17.6,-6.81,0.76,1017.8,0.7,1,-11.99,11.35,52.9399,-73.5491
+Canada,Quebec,3/6/2020,Clear throughout the day.,partly-cloudy-day,0.4,0.0001,0.0008,0.04,snow,7.83,-16.01,-13.11,0.72,1030.1,0.38,2,-17.6,7.83,52.9399,-73.5491
+Canada,Quebec,3/7/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.44,0.0021,0.0106,0.12,snow,17.09,-24.94,-6.42,0.66,1022.8,0.5,2,-16.01,18.8,52.9399,-73.5491
+Canada,Quebec,3/8/2020,Foggy in the morning.,partly-cloudy-day,0.47,0.0003,0.0048,0.05,snow,-6.64,-35.86,-22.77,0.63,1027.8,0.52,2,-24.94,10.47,52.9399,-73.5491
+Canada,Quebec,3/9/2020,Clear throughout the day.,clear-day,0.51,0.0002,0.0003,0.06,snow,0.06,-10.56,-30.08,0.52,1033.6,0.29,2,-35.86,0.06,52.9399,-73.5491
+Canada,Quebec,3/10/2020,Foggy starting in the afternoon.,partly-cloudy-day,0.55,0.0015,0.0036,0.12,snow,15.13,-11.38,-6.6,0.64,1018.4,0.83,2,-10.03,15.13,52.9399,-73.5491
+Canada,Quebec,3/11/2020,Foggy until evening.,fog,0.59,0.0008,0.0031,0.16,snow,9.13,-16.93,-8.42,0.75,1020.1,0.83,1,-11.38,9.13,52.9399,-73.5491
+Canada,Quebec,3/12/2020,Clear throughout the day.,clear-day,0.63,0.0002,0.0005,0.08,snow,14.41,3.35,-10.17,0.67,1024.8,0.15,2,-16.93,14.41,52.9399,-73.5491
+Canada,Quebec,3/13/2020,Snow (4–8 in.) in the evening.,snow,0.67,0.0128,0.0595,0.43,snow,22.38,14.62,7.74,0.74,1008.8,0.78,2,3.51,22.38,52.9399,-73.5491
+Canada,Quebec,3/14/2020,Foggy throughout the day.,snow,0.7,0.0065,0.0178,0.37,snow,15.96,-16.48,7.5,0.8,1011.9,0.97,2,0.39,19.23,52.9399,-73.5491
+Canada,Quebec,3/15/2020,Clear throughout the day.,partly-cloudy-day,0.74,0.0002,0.0009,0.08,snow,6.81,-17.85,-13.29,0.7,1038.8,0.39,3,-16.48,6.81,52.9399,-73.5491
+Canada,Quebec,3/16/2020,Windy in the evening and overnight.,wind,0.77,0.0004,0.0032,0.07,snow,13.73,12.36,-8.33,0.67,1028.0,0.62,3,-17.85,15.17,52.9399,-73.5491
+Canada,Quebec,3/17/2020,Foggy in the morning and overnight.,snow,0.8,0.0053,0.0189,0.38,snow,23.12,-10.65,11.7,0.8,1005.8,0.92,2,6.69,23.12,52.9399,-73.5491
+Canada,Quebec,3/18/2020,Foggy throughout the day.,partly-cloudy-day,0.84,0.0011,0.0144,0.19,snow,10.54,-18.56,-6.86,0.73,1024.2,0.83,2,-10.65,10.54,52.9399,-73.5491
+Canada,Quebec,3/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0002,0.0003,0.06,snow,18.4,3.7,-8.23,0.7,1030.3,0.56,3,-18.56,18.4,52.9399,-73.5491
+Canada,Quebec,3/20/2020,Snow (3–6 in.) in the morning.,snow,0.9,0.0104,0.0202,0.5,snow,18.09,-17.95,6.1,0.81,1012.9,0.93,2,-3.12,18.09,52.9399,-73.5491
+Canada,Quebec,3/21/2020,Foggy until evening.,partly-cloudy-day,0.93,0.0004,0.001,0.12,snow,-0.51,-20.83,-17.37,0.68,1028.3,0.72,2,-17.95,-0.51,52.9399,-73.5491
+Canada,Quebec,3/22/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0004,0.06,snow,12.81,1.88,-13.5,0.64,1038.7,0.21,3,-20.83,12.81,52.9399,-73.5491
+Canada,Quebec,3/23/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.99,0.0011,0.0049,0.13,snow,23.72,19.09,7.52,0.75,1022.1,0.7,3,2.88,23.72,52.9399,-73.5491
+Canada,Quebec,3/24/2020,Foggy in the morning.,snow,0.02,0.002,0.005,0.36,snow,28.86,2.51,17.55,0.85,1016.5,0.87,2,6.27,28.86,52.9399,-73.5491
+Canada,Quebec,3/25/2020,Possible light snow (< 1 in.) overnight.,wind,0.05,0.001,0.0057,0.21,snow,33.73,14.76,16.56,0.81,1014.1,0.84,2,2.51,33.73,52.9399,-73.5491
+Canada,Quebec,3/26/2020,Possible light snow (1–2 in.) in the morning.,snow,0.08,0.0055,0.027000000000000003,0.54,snow,19.26,-5.36,12.8,0.82,1012.4,0.93,2,-1.07,32.3,52.9399,-73.5491
+Canada,Quebec,3/27/2020,Clear throughout the day.,clear-day,0.11,0.0001,0.0002,0.06,snow,20.72,-4.75,-0.72,0.75,1020.2,0.24,3,-5.36,20.72,52.9399,-73.5491
+Canada,Quebec,3/28/2020,Foggy starting in the afternoon.,snow,0.14,0.0039,0.0204,0.34,snow,27.96,12.36,7.76,0.78,1017.5,0.52,3,-4.75,27.96,52.9399,-73.5491
+Canada,Quebec,3/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.17,0.0004,0.0015,0.08,snow,35.6,23.45,20.95,0.85,1022.8,0.67,3,12.36,35.6,52.9399,-73.5491
+Canada,Quebec,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0002,0.0005,0.12,snow,37.53,10.62,23.93,0.82,1025.1,0.58,3,20.43,37.53,52.9399,-73.5491
+Canada,Quebec,3/31/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0002,0.07,snow,37.12,17.51,19.12,0.81,1031.6,0.2,4,10.62,37.12,52.9399,-73.5491
+Canada,Quebec,4/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.27,0.0002,0.0008,0.11,snow,32.27,23.28,20.32,0.81,1026.1,0.75,3,17.51,32.27,52.9399,-73.5491
+Canada,Quebec,4/2/2020,Light rain starting in the afternoon.,rain,0.31,0.0059,0.0211,0.82,rain,38.22,34.1,27.95,0.89,1021.5,0.99,2,23.28,38.22,52.9399,-73.5491
+Canada,Quebec,4/3/2020,Overcast throughout the day.,rain,0.34,0.0017,0.0115,0.6,rain,40.47,32.46,33.41,0.88,1024.0,0.98,2,33.87,40.47,52.9399,-73.5491
+Canada,Quebec,4/4/2020,Drizzle in the morning and afternoon.,rain,0.38,0.0064,0.0122,0.84,rain,37.14,32.57,32.41,0.91,1016.8,0.99,2,32.46,37.14,52.9399,-73.5491
+Canada,Quebec,4/5/2020,Light snow (1–4 in.) in the morning and afternoon.,snow,0.42,0.0133,0.0312,0.82,snow,35.02,19.49,28.17,0.87,1010.3,0.98,2,21.86,35.02,52.9399,-73.5491
+Canada,Quebec,4/6/2020,Foggy in the morning.,snow,0.46,0.0019,0.004,0.37,snow,28.3,5.31,15.02,0.75,1011.9,0.71,2,12.09,28.3,52.9399,-73.5491
+Canada,Quebec,4/7/2020,Partly cloudy throughout the day.,clear-day,0.5,0.0001,0.0002,0.08,snow,25.53,1.33,7.99,0.74,1013.3,0.27,3,5.31,25.53,52.9399,-73.5491
+Canada,Quebec,4/8/2020,Clear throughout the day.,clear-day,0.54,0.0002,0.0005,0.09,snow,27.57,7.25,6.13,0.71,1011.3,0.15,4,1.33,27.57,52.9399,-73.5491
+Canada,Quebec,4/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0002,0.0004,0.13,snow,31.21,11.11,13.57,0.79,1003.7,0.39,3,7.25,31.21,52.9399,-73.5491
+Canada,Quebec,4/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0002,0.0006,0.16,snow,32.44,15.02,17.73,0.83,1001.1,0.57,3,11.11,32.44,52.9399,-73.5491
+Canada,Quebec,4/11/2020,Foggy overnight.,snow,0.65,0.001,0.0039,0.29,snow,30.75,11.61,17.09,0.82,1002.6,0.75,3,15.02,30.75,52.9399,-73.5491
+Canada,Quebec,4/12/2020,Foggy in the morning.,snow,0.69,0.0004,0.001,0.26,snow,31.86,7.65,15.38,0.81,1009.3,0.64,3,11.61,31.86,52.9399,-73.5491
+Canada,Quebec,4/13/2020,Snow (1–3 in.) starting in the afternoon.,snow,0.72,0.0121,0.0472,0.85,snow,34.05,14.34,19.46,0.87,1006.8,0.84,3,7.65,34.57,52.9399,-73.5491
+Canada,Quebec,4/14/2020,Possible light snow (2–5 in.) in the morning and afternoon.,snow,0.75,0.0087,0.0333,0.87,snow,18.02,4.01,11.84,0.8,989.9,0.99,2,4.6,37.01,52.9399,-73.5491
+Canada,Quebec,4/15/2020,Foggy throughout the day.,snow,0.78,0.0039,0.0066,0.46,snow,14.58,6.16,2.54,0.76,1005.0,1.0,2,4.01,14.58,52.9399,-73.5491
+Canada,Quebec,4/16/2020,Foggy in the evening and overnight.,snow,0.82,0.0013,0.0022,0.25,snow,16.78,4.16,3.8,0.75,1008.0,0.9,2,6.16,16.78,52.9399,-73.5491
+Canada,Quebec,4/17/2020,Foggy in the morning and afternoon.,snow,0.85,0.0014,0.003,0.36,snow,20.86,10.05,6.36,0.77,1009.0,0.87,2,4.16,20.86,52.9399,-73.5491
+Canada,Quebec,4/18/2020,Possible light snow (1–2 in.) and windy overnight.,snow,0.88,0.0024,0.0072,0.43,snow,33.08,13.55,18.96,0.82,998.9,0.92,2,10.52,33.08,52.9399,-73.5491
+Canada,Quebec,4/19/2020,Snow (1–3 in.) in the morning.,snow,0.91,0.0073,0.033,0.64,snow,17.0,-7.22,9.93,0.8,998.8,0.89,3,-0.59,31.3,52.9399,-73.5491
+Canada,Quebec,4/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.94,0.0002,0.0006,0.16,snow,15.32,4.07,-3.75,0.71,1009.7,0.39,3,-7.22,15.32,52.9399,-73.5491
+Canada,Saskatchewan,12/31/2019,Partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0001,0.0008,0.04,snow,24.74,12.7,8.28,0.75,1002.3,0.6,0,6.36,24.74,52.9399,-106.4509
+Canada,Saskatchewan,1/1/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.22,0.0002,0.0009,0.07,snow,26.79,16.93,17.41,0.91,993.3,0.73,0,12.7,26.79,52.9399,-106.4509
+Canada,Saskatchewan,1/2/2020,Overcast throughout the day.,partly-cloudy-day,0.25,0.0004,0.001,0.16,snow,28.45,13.86,19.41,0.89,1001.6,0.85,0,16.93,28.45,52.9399,-106.4509
+Canada,Saskatchewan,1/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.28,0.0001,0.0004,0.1,snow,18.8,10.44,12.08,0.88,1014.2,0.65,0,10.44,20.37,52.9399,-106.4509
+Canada,Saskatchewan,1/4/2020,Windy in the evening.,wind,0.31,0.0025,0.0193,0.11,snow,25.25,11.16,16.25,0.84,1003.7,0.91,0,12.5,26.2,52.9399,-106.4509
+Canada,Saskatchewan,1/5/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.08,snow,20.54,9.17,9.02,0.76,1015.3,0.12,0,9.17,23.72,52.9399,-106.4509
+Canada,Saskatchewan,1/6/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.04,snow,21.8,-15.96,5.25,0.74,1013.6,0.28,0,-5.01,21.8,52.9399,-106.4509
+Canada,Saskatchewan,1/7/2020,Clear throughout the day.,clear-day,0.41,0.0001,0.0002,0.02,snow,-6.36,-15.47,-24.11,0.53,1029.2,0.07,0,-15.98,-6.05,52.9399,-106.4509
+Canada,Saskatchewan,1/8/2020,Foggy throughout the day.,cloudy,0.44,0.0105,0.0319,0.24,snow,4.07,-7.67,-10.09,0.67,1013.8,0.94,0,-15.18,4.07,52.9399,-106.4509
+Canada,Saskatchewan,1/9/2020,Foggy in the morning.,partly-cloudy-day,0.48,0.0008,0.0017,0.1,snow,-1.17,-25.66,-12.15,0.72,1019.8,0.64,0,-9.93,0.04,52.9399,-106.4509
+Canada,Saskatchewan,1/10/2020,Clear throughout the day.,clear-day,0.51,0.0001,0.0003,0.06,snow,-13.11,-16.92,-31.68,0.49,1030.2,0.07,0,-26.52,-11.94,52.9399,-106.4509
+Canada,Saskatchewan,1/11/2020,Foggy throughout the day.,partly-cloudy-day,0.55,0.0024,0.0072,0.09,snow,5.14,-2.69,-11.66,0.66,1017.5,0.82,0,-12.65,5.14,52.9399,-106.4509
+Canada,Saskatchewan,1/12/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.59,0.0012,0.0055,0.08,snow,4.45,-21.74,-9.31,0.72,1019.4,0.78,0,-14.48,4.45,52.9399,-106.4509
+Canada,Saskatchewan,1/13/2020,Foggy throughout the day.,partly-cloudy-day,0.62,0.0013,0.0052,0.09,snow,-11.44,-27.0,-26.38,0.57,1026.8,0.79,0,-22.1,-11.26,52.9399,-106.4509
+Canada,Saskatchewan,1/14/2020,Clear throughout the day.,partly-cloudy-day,0.66,0.0001,0.0018,0.06,snow,-16.22,-34.39,-35.1,0.51,1030.5,0.32,0,-30.08,-14.25,52.9399,-106.4509
+Canada,Saskatchewan,1/15/2020,Clear throughout the day.,clear-day,0.7,0.0001,0.0002,0.09,snow,-19.62,-38.78,-40.59,0.52,1039.3,0.31,0,-34.86,-19.62,52.9399,-106.4509
+Canada,Saskatchewan,1/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.0001,0.0003,0.08,snow,-12.12,-13.11,-42.68,0.39,1039.5,0.53,1,-38.78,-8.73,52.9399,-106.4509
+Canada,Saskatchewan,1/17/2020,Foggy starting in the afternoon.,cloudy,0.77,0.0069,0.0246,0.17,snow,-0.75,-7.63,-13.95,0.65,1026.1,0.96,0,-9.2,-0.75,52.9399,-106.4509
+Canada,Saskatchewan,1/18/2020,Foggy throughout the day.,snow,0.81,0.0023,0.0058,0.26,snow,0.56,-20.92,-11.76,0.71,1035.3,0.83,1,-8.72,0.56,52.9399,-106.4509
+Canada,Saskatchewan,1/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0001,0.0002,0.1,snow,-7.51,-13.47,-25.98,0.53,1041.2,0.37,1,-21.59,-7.51,52.9399,-106.4509
+Canada,Saskatchewan,1/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.88,0.0001,0.0002,0.06,snow,17.49,16.5,-7.15,0.56,1021.8,0.48,1,-9.6,22.67,52.9399,-106.4509
+Canada,Saskatchewan,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.91,0.0001,0.0002,0.04,rain,34.4,7.86,17.95,0.78,1005.6,0.37,1,15.36,34.4,52.9399,-106.4509
+Canada,Saskatchewan,1/22/2020,Foggy overnight.,cloudy,0.94,0.0001,0.0002,0.07,snow,25.58,12.89,14.08,0.89,1013.3,0.93,0,7.86,25.58,52.9399,-106.4509
+Canada,Saskatchewan,1/23/2020,Foggy in the morning.,partly-cloudy-day,0.97,0.0005,0.0019,0.12,snow,24.48,14.4,15.94,0.92,1019.6,0.81,0,12.86,24.48,52.9399,-106.4509
+Canada,Saskatchewan,1/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0001,0.0002,0.08,snow,27.11,18.84,15.13,0.82,1012.4,0.71,1,14.4,27.11,52.9399,-106.4509
+Canada,Saskatchewan,1/25/2020,Overcast throughout the day.,cloudy,0.04,0.0022,0.0116,0.17,snow,27.72,17.83,21.95,0.92,1010.4,0.97,1,19.82,27.72,52.9399,-106.4509
+Canada,Saskatchewan,1/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0005,0.0018,0.08,snow,25.88,12.11,17.41,0.91,1021.0,0.85,1,14.33,25.88,52.9399,-106.4509
+Canada,Saskatchewan,1/27/2020,Foggy overnight.,cloudy,0.1,0.0006,0.0019,0.07,snow,23.95,18.25,14.58,0.88,1019.8,0.98,1,12.11,23.95,52.9399,-106.4509
+Canada,Saskatchewan,1/28/2020,Foggy throughout the day.,cloudy,0.13,0.001,0.0027,0.09,snow,28.67,16.69,20.17,0.93,1017.7,0.99,1,18.18,28.67,52.9399,-106.4509
+Canada,Saskatchewan,1/29/2020,Foggy in the morning.,cloudy,0.16,0.0005,0.0014,0.08,snow,25.04,16.71,17.53,0.91,1019.6,0.89,1,16.25,25.04,52.9399,-106.4509
+Canada,Saskatchewan,1/30/2020,Foggy in the morning.,partly-cloudy-day,0.19,0.0026,0.0178,0.23,snow,35.73,12.84,19.02,0.85,1013.4,0.53,1,12.84,35.73,52.9399,-106.4509
+Canada,Saskatchewan,1/31/2020,Windy in the morning and afternoon.,wind,0.22,0.0002,0.0003,0.15,snow,39.16,17.68,19.39,0.76,1007.7,0.37,1,14.06,39.16,52.9399,-106.4509
+Canada,Saskatchewan,2/1/2020,Foggy in the evening.,snow,0.25,0.0065,0.024,0.34,snow,29.44,20.8,19.32,0.84,996.4,0.78,1,17.68,29.44,52.9399,-106.4509
+Canada,Saskatchewan,2/2/2020,Windy in the morning.,wind,0.28,0.0002,0.0016,0.09,snow,23.1,-11.84,10.91,0.75,1008.8,0.46,1,1.6,29.58,52.9399,-106.4509
+Canada,Saskatchewan,2/3/2020,Clear throughout the day.,clear-day,0.32,0.0001,0.0003,0.11,snow,5.06,-12.04,-11.35,0.71,1026.4,0.18,1,-12.02,5.06,52.9399,-106.4509
+Canada,Saskatchewan,2/4/2020,Clear throughout the day.,clear-day,0.35,0.0002,0.0004,0.06,snow,17.15,2.2,-3.99,0.72,1018.8,0.18,1,-11.38,17.15,52.9399,-106.4509
+Canada,Saskatchewan,2/5/2020,Foggy throughout the day.,partly-cloudy-day,0.38,0.0008,0.0025,0.07,snow,13.0,-7.7,-0.02,0.77,1010.2,0.77,1,-0.8,13.0,52.9399,-106.4509
+Canada,Saskatchewan,2/6/2020,Foggy overnight.,partly-cloudy-day,0.42,0.0002,0.0014,0.07,snow,6.34,-3.73,-8.86,0.7,1014.7,0.57,1,-7.7,6.34,52.9399,-106.4509
+Canada,Saskatchewan,2/7/2020,Foggy in the morning and overnight.,partly-cloudy-day,0.46,0.0011,0.0035,0.11,snow,24.02,7.72,8.52,0.84,1013.5,0.74,1,1.17,24.02,52.9399,-106.4509
+Canada,Saskatchewan,2/8/2020,Foggy in the morning.,partly-cloudy-day,0.49,0.001,0.0033,0.17,snow,23.36,3.93,10.77,0.87,1016.2,0.74,1,4.44,23.36,52.9399,-106.4509
+Canada,Saskatchewan,2/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0001,0.0003,0.05,snow,25.53,8.31,9.31,0.8,1014.6,0.52,1,3.94,25.53,52.9399,-106.4509
+Canada,Saskatchewan,2/10/2020,Clear throughout the day.,partly-cloudy-day,0.57,0.0001,0.0003,0.09,snow,26.83,14.99,12.99,0.85,1019.2,0.38,1,8.31,26.83,52.9399,-106.4509
+Canada,Saskatchewan,2/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0006,0.0032,0.15,snow,27.53,-28.54,11.55,0.78,1011.3,0.76,1,-6.79,27.53,52.9399,-106.4509
+Canada,Saskatchewan,2/12/2020,Clear throughout the day.,clear-day,0.65,0.0002,0.0003,0.05,snow,-9.38,-30.35,-31.36,0.52,1039.1,0.03,1,-28.54,-8.94,52.9399,-106.4509
+Canada,Saskatchewan,2/13/2020,Clear throughout the day.,partly-cloudy-day,0.68,0.0002,0.0006,0.06,snow,8.97,7.35,-24.81,0.5,1022.3,0.32,1,-30.35,12.87,52.9399,-106.4509
+Canada,Saskatchewan,2/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.0002,0.0005,0.11,snow,23.53,-17.04,9.44,0.84,1003.4,0.7,1,3.98,23.53,52.9399,-106.4509
+Canada,Saskatchewan,2/15/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0003,0.04,snow,0.62,-8.67,-15.65,0.66,1020.0,0.21,1,-17.05,2.34,52.9399,-106.4509
+Canada,Saskatchewan,2/16/2020,Foggy in the morning and overnight.,partly-cloudy-day,0.79,0.0014,0.006999999999999999,0.09,snow,12.59,-4.65,-2.81,0.77,1015.1,0.75,1,-7.07,12.59,52.9399,-106.4509
+Canada,Saskatchewan,2/17/2020,Foggy in the morning.,partly-cloudy-day,0.82,0.0004,0.0019,0.12,snow,5.23,-23.79,-8.58,0.73,1027.1,0.48,1,-14.51,5.23,52.9399,-106.4509
+Canada,Saskatchewan,2/18/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0004,0.1,snow,-0.26,-28.67,-23.22,0.61,1040.1,0.02,1,-23.79,-0.26,52.9399,-106.4509
+Canada,Saskatchewan,2/19/2020,Clear throughout the day.,clear-day,0.89,0.0001,0.0002,0.03,snow,4.85,3.27,-24.47,0.53,1038.1,0.03,1,-28.67,5.35,52.9399,-106.4509
+Canada,Saskatchewan,2/20/2020,Clear throughout the day.,clear-day,0.92,0.0001,0.0004,0.04,snow,26.39,14.78,6.06,0.69,1020.1,0.01,2,4.7,26.39,52.9399,-106.4509
+Canada,Saskatchewan,2/21/2020,Partly cloudy throughout the day.,clear-day,0.95,0.0002,0.0004,0.1,snow,33.45,14.83,16.17,0.73,1010.9,0.25,2,14.78,33.45,52.9399,-106.4509
+Canada,Saskatchewan,2/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.98,0.0006,0.003,0.15,snow,32.64,14.68,18.99,0.8,1007.1,0.61,1,14.83,32.64,52.9399,-106.4509
+Canada,Saskatchewan,2/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0005,0.15,snow,30.94,3.49,14.69,0.77,1014.7,0.08,1,8.52,30.94,52.9399,-106.4509
+Canada,Saskatchewan,2/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.05,0.0001,0.0003,0.16,snow,24.43,-3.92,6.91,0.77,1025.1,0.37,1,3.49,24.43,52.9399,-106.4509
+Canada,Saskatchewan,2/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.08,0.0002,0.0004,0.1,snow,14.99,1.91,1.58,0.81,1038.1,0.34,1,-3.92,14.99,52.9399,-106.4509
+Canada,Saskatchewan,2/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.11,0.0002,0.0008,0.11,snow,21.77,6.14,6.49,0.82,1024.7,0.66,1,1.91,21.77,52.9399,-106.4509
+Canada,Saskatchewan,2/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.14,0.0018,0.0101,0.23,snow,35.07,11.63,15.02,0.83,1017.8,0.66,1,7.56,35.07,52.9399,-106.4509
+Canada,Saskatchewan,2/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.17,0.0001,0.0007,0.15,snow,37.19,17.68,20.53,0.84,1014.0,0.5,2,11.63,37.19,52.9399,-106.4509
+Canada,Saskatchewan,2/29/2020,Foggy in the evening and overnight.,snow,0.2,0.004,0.0292,0.32,snow,34.79,6.07,23.21,0.86,1000.6,0.92,2,17.68,34.79,52.9399,-106.4509
+Canada,Saskatchewan,3/1/2020,Partly cloudy throughout the day.,snow,0.23,0.0027,0.0193,0.27,snow,19.23,12.05,9.28,0.79,1014.6,0.59,1,6.04,27.13,52.9399,-106.4509
+Canada,Saskatchewan,3/2/2020,Possible flurries (< 1 in.) in the afternoon.,snow,0.26,0.0025,0.0134,0.47,snow,35.34,7.62,24.42,0.85,995.2,0.73,1,19.28,35.34,52.9399,-106.4509
+Canada,Saskatchewan,3/3/2020,Mostly cloudy throughout the day.,snow,0.29,0.0035,0.0186,0.31,snow,30.55,16.83,16.03,0.86,1003.0,0.55,2,7.62,30.55,52.9399,-106.4509
+Canada,Saskatchewan,3/4/2020,Foggy throughout the day.,snow,0.33,0.0078,0.0265,0.42,snow,31.44,14.16,21.92,0.88,1003.5,0.8,1,16.83,31.44,52.9399,-106.4509
+Canada,Saskatchewan,3/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.36,0.0002,0.0011,0.18,snow,31.82,20.64,21.24,0.88,1022.9,0.8,2,14.14,31.82,52.9399,-106.4509
+Canada,Saskatchewan,3/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0001,0.0003,0.08,snow,36.15,13.06,24.76,0.86,1011.0,0.52,2,20.64,36.15,52.9399,-106.4509
+Canada,Saskatchewan,3/7/2020,Foggy throughout the day.,snow,0.44,0.02,0.0761,0.36,snow,14.51,-1.37,7.2,0.81,1020.4,0.96,2,3.16,23.07,52.9399,-106.4509
+Canada,Saskatchewan,3/8/2020,Foggy in the morning.,partly-cloudy-day,0.48,0.002,0.0093,0.18,snow,9.31,-12.07,-4.41,0.74,1023.0,0.78,2,-6.78,9.31,52.9399,-106.4509
+Canada,Saskatchewan,3/9/2020,Clear throughout the day.,clear-day,0.52,0.0002,0.0003,0.11,snow,21.27,0.14,-4.45,0.71,1022.8,0.14,2,-12.07,21.27,52.9399,-106.4509
+Canada,Saskatchewan,3/10/2020,Clear throughout the day.,clear-day,0.55,0.0001,0.0002,0.08,snow,33.07,14.76,8.58,0.77,1014.6,0.26,2,0.14,33.07,52.9399,-106.4509
+Canada,Saskatchewan,3/11/2020,Mostly cloudy throughout the day.,snow,0.59,0.0008,0.0029,0.28,snow,36.66,11.84,21.03,0.83,1003.4,0.59,2,14.76,36.66,52.9399,-106.4509
+Canada,Saskatchewan,3/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.63,0.0002,0.0006,0.13,snow,21.3,-5.34,9.85,0.78,1020.8,0.45,2,7.23,21.96,52.9399,-106.4509
+Canada,Saskatchewan,3/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.67,0.0002,0.0005,0.12,snow,8.72,-6.62,-6.77,0.7,1039.0,0.38,3,-5.34,8.72,52.9399,-106.4509
+Canada,Saskatchewan,3/14/2020,Overcast throughout the day.,cloudy,0.71,0.0001,0.0003,0.07,snow,11.01,4.96,-5.25,0.71,1046.6,0.92,2,-6.62,11.01,52.9399,-106.4509
+Canada,Saskatchewan,3/15/2020,Foggy in the morning.,partly-cloudy-day,0.74,0.0018,0.0075,0.16,snow,18.04,-2.1,3.93,0.78,1036.2,0.79,2,3.14,18.04,52.9399,-106.4509
+Canada,Saskatchewan,3/16/2020,Clear throughout the day.,clear-day,0.77,0.0003,0.0016,0.08,snow,27.74,5.17,4.4,0.72,1024.0,0.17,3,-2.1,27.74,52.9399,-106.4509
+Canada,Saskatchewan,3/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0002,0.0006,0.08,snow,17.91,-11.16,3.99,0.74,1023.5,0.73,2,0.49,17.91,52.9399,-106.4509
+Canada,Saskatchewan,3/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0001,0.0003,0.05,snow,14.63,-6.13,-7.78,0.68,1029.5,0.44,3,-11.16,14.63,52.9399,-106.4509
+Canada,Saskatchewan,3/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0002,0.0003,0.09,snow,18.02,-8.56,-3.65,0.71,1037.4,0.38,3,-6.13,18.02,52.9399,-106.4509
+Canada,Saskatchewan,3/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0002,0.0004,0.07,snow,24.06,-0.16,-0.14,0.72,1035.4,0.55,3,-8.56,24.06,52.9399,-106.4509
+Canada,Saskatchewan,3/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0002,0.0007,0.06,snow,28.3,10.04,8.8,0.81,1023.5,0.52,3,-0.16,28.3,52.9399,-106.4509
+Canada,Saskatchewan,3/22/2020,Clear throughout the day.,clear-day,0.96,0.0003,0.0011,0.18,snow,35.08,13.01,16.1,0.8,1016.4,0.25,3,10.04,35.08,52.9399,-106.4509
+Canada,Saskatchewan,3/23/2020,Snow (2–4 in.) overnight.,partly-cloudy-day,0.99,0.0022,0.025,0.23,snow,33.51,21.38,18.87,0.85,1011.7,0.83,2,13.01,33.51,52.9399,-106.4509
+Canada,Saskatchewan,3/24/2020,Snow (1–2 in.) in the morning.,snow,0.02,0.0109,0.0483,0.54,snow,29.43,7.9,18.32,0.8,1013.6,0.73,2,13.08,29.43,52.9399,-106.4509
+Canada,Saskatchewan,3/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.05,0.0009,0.0034,0.23,snow,30.62,3.75,13.18,0.83,1015.7,0.61,3,7.9,30.62,52.9399,-106.4509
+Canada,Saskatchewan,3/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.08,0.0001,0.0003,0.09,snow,35.04,23.63,15.7,0.81,1005.1,0.48,3,3.75,35.04,52.9399,-106.4509
+Canada,Saskatchewan,3/27/2020,Clear throughout the day.,clear-day,0.11,0.0002,0.0014,0.08,snow,32.92,26.5,22.52,0.78,1006.4,0.21,4,23.57,32.92,52.9399,-106.4509
+Canada,Saskatchewan,3/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.14,0.0002,0.0009,0.1,snow,33.14,13.63,22.54,0.79,1009.6,0.51,3,17.96,33.14,52.9399,-106.4509
+Canada,Saskatchewan,3/29/2020,Foggy in the morning and afternoon.,cloudy,0.18,0.0014,0.0041,0.14,snow,34.39,19.32,17.41,0.8,1014.3,0.89,3,13.63,34.39,52.9399,-106.4509
+Canada,Saskatchewan,3/30/2020,Overcast throughout the day.,cloudy,0.21,0.0006,0.0021,0.14,snow,28.96,14.03,19.31,0.84,1014.7,0.9,2,18.05,28.96,52.9399,-106.4509
+Canada,Saskatchewan,3/31/2020,Heavy snow (6–9 in.) in the morning.,snow,0.24,0.0186,0.0824,0.5,snow,19.39,-4.61,10.63,0.82,1018.3,0.84,2,2.62,19.45,52.9399,-106.4509
+Canada,Saskatchewan,4/1/2020,Overcast throughout the day.,partly-cloudy-day,0.27,0.0003,0.001,0.17,snow,14.68,-6.8,-1.25,0.74,1027.7,0.71,2,-4.61,14.68,52.9399,-106.4509
+Canada,Saskatchewan,4/2/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0002,0.12,snow,10.41,-14.03,-5.49,0.71,1031.5,0.29,2,-6.8,10.41,52.9399,-106.4509
+Canada,Saskatchewan,4/3/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0002,0.15,snow,19.2,-3.51,-7.11,0.66,1030.3,0.02,3,-14.03,19.2,52.9399,-106.4509
+Canada,Saskatchewan,4/4/2020,Foggy in the evening.,partly-cloudy-day,0.38,0.0041,0.0167,0.24,snow,22.49,6.46,2.34,0.7,1022.9,0.78,2,-3.51,22.49,52.9399,-106.4509
+Canada,Saskatchewan,4/5/2020,Foggy in the morning and overnight.,partly-cloudy-day,0.42,0.0008,0.0071,0.13,snow,27.69,20.71,12.16,0.78,1019.6,0.81,2,6.46,27.69,52.9399,-106.4509
+Canada,Saskatchewan,4/6/2020,Snow (3–6 in.) until evening.,snow,0.46,0.0213,0.0737,0.59,snow,32.06,8.58,22.22,0.87,1008.1,0.9,2,18.45,32.06,52.9399,-106.4509
+Canada,Saskatchewan,4/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.5,0.001,0.0068,0.2,snow,35.72,21.19,18.67,0.81,1006.1,0.43,3,8.58,35.72,52.9399,-106.4509
+Canada,Saskatchewan,4/8/2020,Partly cloudy throughout the day.,snow,0.54,0.0013,0.0064,0.35,snow,30.42,1.7,18.98,0.78,1018.3,0.46,2,14.41,30.42,52.9399,-106.4509
+Canada,Saskatchewan,4/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0001,0.0004,0.06,snow,33.76,22.54,14.24,0.81,1023.4,0.46,3,1.7,33.76,52.9399,-106.4509
+Canada,Saskatchewan,4/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0003,0.0013,0.24,snow,35.66,12.86,25.32,0.83,1013.7,0.41,3,21.36,35.66,52.9399,-106.4509
+Canada,Saskatchewan,4/11/2020,Partly cloudy throughout the day.,snow,0.65,0.0005,0.0016,0.35,snow,26.3,8.64,12.59,0.76,1023.2,0.29,3,12.86,26.3,52.9399,-106.4509
+Canada,Saskatchewan,4/12/2020,Partly cloudy throughout the day.,snow,0.69,0.0004,0.0018,0.37,snow,22.65,3.63,8.27,0.75,1026.7,0.51,3,8.64,22.65,52.9399,-106.4509
+Canada,Saskatchewan,4/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0002,0.0005,0.23,snow,23.8,-4.3,5.76,0.75,1028.4,0.44,3,3.63,23.8,52.9399,-106.4509
+Canada,Saskatchewan,4/14/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0002,0.04,snow,33.55,6.08,6.88,0.71,1021.6,0.17,4,-4.3,33.55,52.9399,-106.4509
+Canada,Saskatchewan,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.79,0.0002,0.0004,0.15,snow,33.62,13.12,12.93,0.73,1026.9,0.44,3,6.08,33.62,52.9399,-106.4509
+Canada,Saskatchewan,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.82,0.0001,0.0003,0.13,snow,35.98,24.62,19.24,0.79,1024.6,0.34,4,13.12,35.98,52.9399,-106.4509
+Canada,Saskatchewan,4/17/2020,Mostly cloudy throughout the day.,snow,0.85,0.0006,0.0031,0.31,snow,41.37,28.21,28.91,0.82,1004.1,0.74,3,24.67,41.37,52.9399,-106.4509
+Canada,Saskatchewan,4/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.88,0.0003,0.0007,0.19,snow,38.76,24.64,24.14,0.73,1013.2,0.52,3,27.13,38.76,52.9399,-106.4509
+Canada,Saskatchewan,4/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.91,0.0001,0.0013,0.15,snow,46.69,28.61,29.06,0.77,1006.6,0.51,4,24.64,46.69,52.9399,-106.4509
+Canada,Saskatchewan,4/20/2020,Clear throughout the day.,partly-cloudy-day,0.94,0.001,0.0068,0.2,rain,43.52,28.58,25.85,0.7,1012.3,0.32,5,28.61,43.52,52.9399,-106.4509

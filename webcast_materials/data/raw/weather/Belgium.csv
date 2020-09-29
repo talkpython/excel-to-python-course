@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Belgium,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0005,0.16,rain,42.88,33.0,31.0,0.86,1031.6,0.18,1,28.98,42.88,50.8333,4.0
+Belgium,,1/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0004,0.001,0.21,rain,43.83,42.84,36.23,0.89,1025.4,0.65,0,33.14,46.22,50.8333,4.0
+Belgium,,1/2/2020,Light rain until evening.,rain,0.27,0.0042,0.018000000000000002,0.85,rain,51.99,37.19,43.76,0.87,1020.6,0.99,0,41.59,51.99,50.8333,4.0
+Belgium,,1/3/2020,Partly cloudy throughout the day.,rain,0.3,0.0002,0.0007,0.25,rain,48.34,35.27,37.18,0.85,1032.5,0.56,1,37.19,48.34,50.8333,4.0
+Belgium,,1/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.33,0.0002,0.0005,0.22,rain,48.37,33.56,37.09,0.86,1035.0,0.66,1,35.0,48.37,50.8333,4.0
+Belgium,,1/5/2020,Clear throughout the day.,partly-cloudy-day,0.36,0.0005,0.0105,0.21,rain,47.25,38.57,34.21,0.82,1026.0,0.48,1,33.05,47.25,50.8333,4.0
+Belgium,,1/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0002,0.0017,0.23,rain,49.58,44.32,39.87,0.87,1025.7,0.71,1,38.97,49.58,50.8333,4.0
+Belgium,,1/7/2020,Light rain in the evening and overnight.,rain,0.43,0.006,0.0184,0.88,rain,54.65,50.21,49.06,0.92,1023.2,0.99,1,46.68,54.65,50.8333,4.0
+Belgium,,1/8/2020,Light rain throughout the day.,rain,0.47,0.0145,0.0401,0.99,rain,57.15,45.02,50.35,0.92,1013.8,0.9,1,49.73,57.15,50.8333,4.0
+Belgium,,1/9/2020,Possible drizzle in the morning.,rain,0.5,0.0045,0.0277,0.83,rain,48.77,34.87,41.78,0.88,1020.2,0.6,1,38.99,49.82,50.8333,4.0
+Belgium,,1/10/2020,Overcast throughout the day.,partly-cloudy-day,0.54,0.0001,0.0003,0.06,rain,48.46,37.63,35.18,0.83,1030.1,0.76,1,34.87,48.46,50.8333,4.0
+Belgium,,1/11/2020,Overcast throughout the day.,rain,0.57,0.0011,0.0057,0.3,rain,50.02,40.48,39.37,0.86,1022.1,0.8,1,37.63,50.02,50.8333,4.0
+Belgium,,1/12/2020,Light rain overnight.,rain,0.61,0.0003,0.0012,0.26,rain,48.73,47.74,40.64,0.85,1016.0,0.87,1,40.13,49.62,50.8333,4.0
+Belgium,,1/13/2020,Light rain and dangerously windy throughout the day.,rain,0.65,0.0079,0.0247,0.97,rain,52.12,49.83,44.14,0.79,1004.5,0.99,1,48.13,53.03,50.8333,4.0
+Belgium,,1/14/2020,Possible light rain in the afternoon.,rain,0.69,0.0043,0.0241,0.72,rain,56.32,38.35,43.2,0.76,1010.1,0.66,1,43.02,56.32,50.8333,4.0
+Belgium,,1/15/2020,Windy in the evening.,wind,0.72,0.0,0.0002,0.06,,55.68,47.92,40.96,0.83,1021.3,0.2,1,38.35,55.68,50.8333,4.0
+Belgium,,1/16/2020,Possible drizzle in the morning and afternoon.,rain,0.76,0.0025,0.0134,0.74,rain,52.09,38.61,42.11,0.8,1015.8,0.83,1,42.2,52.09,50.8333,4.0
+Belgium,,1/17/2020,Partly cloudy throughout the day.,rain,0.8,0.0003,0.0016,0.42,rain,48.07,37.09,35.03,0.78,1026.0,0.55,1,37.59,48.07,50.8333,4.0
+Belgium,,1/18/2020,Clear throughout the day.,partly-cloudy-day,0.83,0.0003,0.0014,0.23,rain,48.8,33.32,33.93,0.77,1039.4,0.33,1,36.09,48.8,50.8333,4.0
+Belgium,,1/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0001,0.0003,0.11,rain,46.32,28.99,32.68,0.82,1047.2,0.44,1,33.32,46.32,50.8333,4.0
+Belgium,,1/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0002,0.06,rain,40.45,27.07,27.67,0.8,1042.6,0.44,1,27.94,40.45,50.8333,4.0
+Belgium,,1/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.93,0.0002,0.0005,0.09,snow,40.64,30.15,27.73,0.81,1037.6,0.7,1,27.07,40.64,50.8333,4.0
+Belgium,,1/22/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0002,0.11,rain,44.96,28.71,30.62,0.82,1031.8,0.31,1,30.15,44.96,50.8333,4.0
+Belgium,,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0001,0.0003,0.1,rain,41.15,27.66,26.04,0.75,1024.3,0.22,1,28.71,41.15,50.8333,4.0
+Belgium,,1/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0002,0.0006,0.11,rain,42.41,33.44,27.63,0.77,1021.1,0.58,1,27.66,42.41,50.8333,4.0
+Belgium,,1/25/2020,Possible drizzle overnight.,rain,0.06,0.0001,0.0009,0.31,rain,50.76,43.5,37.06,0.87,1015.2,0.61,1,33.44,50.76,50.8333,4.0
+Belgium,,1/26/2020,Light rain throughout the day.,rain,0.09,0.0088,0.0373,0.88,rain,50.27,41.07,43.86,0.88,1004.9,0.97,1,44.28,50.27,50.8333,4.0
+Belgium,,1/27/2020,Drizzle in the morning.,rain,0.12,0.0037,0.0125,0.87,rain,45.06,36.3,36.86,0.82,996.8,0.73,1,39.21,46.03,50.8333,4.0
+Belgium,,1/28/2020,Clear throughout the day.,rain,0.15,0.0002,0.0011,0.4,rain,49.63,38.5,34.79,0.78,1009.2,0.4,1,36.3,49.63,50.8333,4.0
+Belgium,,1/29/2020,Overcast throughout the day.,rain,0.18,0.0009,0.0038,0.36,rain,52.02,47.61,41.75,0.85,1008.6,0.86,1,38.5,55.02,50.8333,4.0
+Belgium,,1/30/2020,Light rain overnight.,cloudy,0.21,0.0005,0.0012,0.22,rain,57.05,52.19,47.51,0.85,1009.3,0.98,1,47.6,57.05,50.8333,4.0
+Belgium,,1/31/2020,Light rain in the morning and afternoon.,rain,0.24,0.0191,0.08,0.94,rain,53.41,43.58,47.9,0.88,1006.2,0.86,1,45.53,53.97,50.8333,4.0
+Belgium,,2/1/2020,Light rain in the morning and afternoon.,rain,0.27,0.0097,0.0554,0.95,rain,56.17,48.13,46.52,0.89,1010.0,0.92,1,43.58,56.17,50.8333,4.0
+Belgium,,2/2/2020,Light rain in the evening and overnight.,rain,0.31,0.0156,0.0826,0.95,rain,55.55,38.52,45.76,0.85,1013.1,0.92,1,45.17,55.55,50.8333,4.0
+Belgium,,2/3/2020,Possible drizzle in the morning and afternoon.,rain,0.34,0.0063,0.038,0.89,rain,45.78,33.49,37.57,0.83,1017.7,0.76,1,38.52,46.65,50.8333,4.0
+Belgium,,2/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.13,rain,50.48,31.97,35.25,0.84,1035.4,0.26,1,33.49,50.48,50.8333,4.0
+Belgium,,2/5/2020,Clear throughout the day.,partly-cloudy-day,0.41,0.0,0.0003,0.04,,50.85,30.14,33.23,0.81,1032.7,0.35,1,31.97,50.85,50.8333,4.0
+Belgium,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.05,rain,52.65,41.74,31.12,0.72,1024.2,0.1,1,30.14,52.65,50.8333,4.0
+Belgium,,2/7/2020,Light rain in the afternoon and evening.,rain,0.48,0.0037,0.0213,0.73,rain,54.11,44.67,42.35,0.86,1019.0,0.87,1,42.15,54.11,50.8333,4.0
+Belgium,,2/8/2020,Light rain starting in the afternoon.,rain,0.52,0.0154,0.0967,0.88,rain,56.82,43.83,44.01,0.81,1005.0,0.9,1,44.67,56.82,50.8333,4.0
+Belgium,,2/9/2020,Light rain and dangerously windy throughout the day.,rain,0.56,0.0174,0.0866,0.98,rain,49.87,38.58,40.24,0.8,998.3,0.82,1,41.6,51.25,50.8333,4.0
+Belgium,,2/10/2020,Windy until evening.,rain,0.6,0.0017,0.0092,0.58,rain,47.46,38.33,32.58,0.7,1007.3,0.15,1,38.58,47.46,50.8333,4.0
+Belgium,,2/11/2020,Partly cloudy throughout the day.,rain,0.64,0.0011,0.0072,0.35,rain,49.04,38.62,32.97,0.7,1015.3,0.48,1,38.33,49.04,50.8333,4.0
+Belgium,,2/12/2020,Light rain throughout the day.,rain,0.67,0.0163,0.0477,0.97,rain,51.1,39.45,39.54,0.84,1002.9,0.84,1,38.92,51.1,50.8333,4.0
+Belgium,,2/13/2020,Partly cloudy throughout the day.,rain,0.71,0.0011,0.0086,0.37,rain,53.24,43.77,39.96,0.83,1018.9,0.59,2,39.24,53.24,50.8333,4.0
+Belgium,,2/14/2020,Dangerously windy in the evening and overnight.,wind,0.75,0.0002,0.0009,0.17,rain,56.9,53.92,43.94,0.79,1016.1,0.93,1,43.77,56.9,50.8333,4.0
+Belgium,,2/15/2020,"Light rain until morning, starting again in the evening.",rain,0.78,0.016,0.0599,0.96,rain,63.73,42.62,48.37,0.78,1003.7,1.0,1,46.97,63.73,50.8333,4.0
+Belgium,,2/16/2020,Possible light rain starting in the afternoon.,rain,0.81,0.0024,0.0092,0.72,rain,52.88,40.33,40.48,0.8,1013.0,0.72,1,42.62,52.88,50.8333,4.0
+Belgium,,2/17/2020,Light rain throughout the day.,rain,0.85,0.0063,0.0499,0.85,rain,50.38,39.22,38.34,0.79,1021.3,0.68,1,40.33,50.38,50.8333,4.0
+Belgium,,2/18/2020,"Light rain until morning, starting again in the evening.",rain,0.88,0.0123,0.0895,0.94,rain,48.49,42.77,37.39,0.8,1020.1,0.74,2,39.22,48.49,50.8333,4.0
+Belgium,,2/19/2020,Rain starting in the afternoon.,rain,0.91,0.0202,0.1691,0.91,rain,52.91,34.99,41.98,0.84,1014.9,0.98,2,40.77,52.91,50.8333,4.0
+Belgium,,2/20/2020,Windy overnight.,partly-cloudy-day,0.94,0.0002,0.0016,0.24,rain,50.27,40.96,35.97,0.77,1025.4,0.77,1,34.99,50.27,50.8333,4.0
+Belgium,,2/21/2020,Possible drizzle overnight.,rain,0.97,0.0004,0.0027,0.27,rain,54.22,47.36,40.13,0.74,1021.7,0.78,2,40.96,55.59,50.8333,4.0
+Belgium,,2/22/2020,Light rain and dangerously windy until evening.,rain,0.01,0.0127,0.0254,0.96,rain,56.78,40.18,46.48,0.84,1018.2,1.0,2,42.62,56.78,50.8333,4.0
+Belgium,,2/23/2020,"Light rain until morning, starting again in the evening.",rain,0.04,0.0067,0.0208,0.84,rain,54.93,42.7,43.12,0.86,1015.2,1.0,2,40.18,54.93,50.8333,4.0
+Belgium,,2/24/2020,Light rain throughout the day.,rain,0.07,0.0099,0.0456,0.86,rain,49.95,36.17,40.14,0.82,1001.4,0.9,2,38.82,51.77,50.8333,4.0
+Belgium,,2/25/2020,Light rain throughout the day.,rain,0.1,0.0167,0.0509,0.95,rain,44.34,34.33,34.82,0.85,1001.5,0.83,1,36.17,44.34,50.8333,4.0
+Belgium,,2/26/2020,Light rain (with a chance of 1–2 in. of snow) until evening.,rain,0.13,0.0168,0.0748,0.94,rain,39.43,30.56,33.63,0.89,1002.2,0.89,1,34.29,39.43,50.8333,4.0
+Belgium,,2/27/2020,Light rain and windy starting in the afternoon.,rain,0.16,0.0063,0.0261,0.77,rain,44.97,41.08,33.98,0.83,1012.7,0.71,2,30.56,48.61,50.8333,4.0
+Belgium,,2/28/2020,Light rain and dangerously windy throughout the day.,rain,0.19,0.0111,0.0727,0.92,rain,51.07,39.73,42.49,0.84,993.6,0.94,1,40.4,51.53,50.8333,4.0
+Belgium,,2/29/2020,Possible drizzle and windy in the morning.,rain,0.22,0.0024,0.0148,0.69,rain,51.45,38.04,36.73,0.77,993.4,0.88,2,39.73,51.45,50.8333,4.0
+Belgium,,3/1/2020,Light rain until evening.,rain,0.25,0.0088,0.0208,0.96,rain,46.84,33.35,39.0,0.88,990.4,0.9,1,38.04,46.84,50.8333,4.0
+Belgium,,3/2/2020,Possible drizzle in the afternoon and evening.,rain,0.28,0.0025,0.0142,0.63,rain,48.09,34.0,35.01,0.8,1003.1,0.44,1,33.35,48.09,50.8333,4.0
+Belgium,,3/3/2020,Light rain in the evening and overnight.,rain,0.32,0.003,0.0227,0.7,rain,50.7,42.37,36.68,0.81,1010.1,0.75,2,34.0,50.7,50.8333,4.0
+Belgium,,3/4/2020,Light rain throughout the day.,rain,0.35,0.0278,0.0532,0.99,rain,46.46,40.86,42.67,0.93,993.3,0.99,2,42.48,46.46,50.8333,4.0
+Belgium,,3/5/2020,Light rain in the morning and afternoon.,rain,0.39,0.0157,0.0574,0.98,rain,45.57,31.53,39.47,0.88,999.2,0.88,2,39.12,45.57,50.8333,4.0
+Belgium,,3/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0002,0.001,0.13,rain,53.04,44.63,36.01,0.79,1017.3,0.37,2,31.53,53.04,50.8333,4.0
+Belgium,,3/7/2020,Drizzle in the afternoon and evening.,rain,0.47,0.003,0.0157,0.81,rain,49.69,41.62,42.68,0.86,1011.8,0.95,2,44.39,49.69,50.8333,4.0
+Belgium,,3/8/2020,Light rain in the morning and overnight.,rain,0.5,0.0014,0.0076,0.55,rain,52.37,43.18,39.21,0.78,1013.0,0.39,2,41.62,52.37,50.8333,4.0
+Belgium,,3/9/2020,"Light rain until afternoon, starting again overnight.",rain,0.54,0.0347,0.0911,1.0,rain,54.56,51.39,48.15,0.91,1007.8,1.0,2,43.18,54.71,50.8333,4.0
+Belgium,,3/10/2020,Light rain throughout the day.,rain,0.58,0.0146,0.0323,0.96,rain,57.06,45.58,51.24,0.9,1011.5,0.91,2,51.05,57.06,50.8333,4.0
+Belgium,,3/11/2020,Possible drizzle and windy in the morning.,rain,0.62,0.0035,0.0153,0.65,rain,51.29,40.25,39.93,0.73,1011.8,0.72,3,43.37,54.38,50.8333,4.0
+Belgium,,3/12/2020,Mostly cloudy throughout the day.,rain,0.66,0.0011,0.0044,0.29,rain,52.74,37.64,37.12,0.72,1018.1,0.52,2,40.25,52.74,50.8333,4.0
+Belgium,,3/13/2020,Mostly cloudy throughout the day.,rain,0.69,0.0012,0.0048,0.52,rain,51.18,44.06,39.16,0.81,1019.0,0.84,2,37.64,51.18,50.8333,4.0
+Belgium,,3/14/2020,Overcast throughout the day.,cloudy,0.73,0.0003,0.0014,0.14,rain,55.53,39.6,43.64,0.8,1013.3,0.93,2,44.06,55.53,50.8333,4.0
+Belgium,,3/15/2020,Overcast throughout the day.,partly-cloudy-day,0.76,0.0,0.0002,0.01,,57.2,35.57,41.87,0.79,1019.5,0.81,2,39.6,57.2,50.8333,4.0
+Belgium,,3/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0001,0.0005,0.01,rain,59.48,39.4,35.34,0.67,1029.3,0.41,3,35.57,59.48,50.8333,4.0
+Belgium,,3/17/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0003,0.02,,63.9,39.3,40.39,0.7,1027.1,0.19,4,39.4,63.9,50.8333,4.0
+Belgium,,3/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.86,0.0002,0.001,0.06,rain,57.11,43.57,40.8,0.75,1025.3,0.49,3,39.3,57.11,50.8333,4.0
+Belgium,,3/19/2020,Light rain in the evening and overnight.,rain,0.89,0.0042,0.0209,0.83,rain,50.59,38.37,40.05,0.81,1025.6,0.99,3,40.92,50.59,50.8333,4.0
+Belgium,,3/20/2020,Clear throughout the day.,rain,0.92,0.0003,0.0051,0.39,rain,52.46,32.41,34.26,0.7,1025.6,0.32,3,38.37,52.46,50.8333,4.0
+Belgium,,3/21/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.03,rain,53.18,28.86,27.03,0.58,1027.3,0.0,3,32.41,53.18,50.8333,4.0
+Belgium,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0004,0.01,rain,55.16,26.01,21.74,0.48,1029.6,0.0,3,28.86,55.16,50.8333,4.0
+Belgium,,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0,0.0,0.0,,57.71,25.69,17.74,0.4,1029.0,0.04,4,26.01,57.71,50.8333,4.0
+Belgium,,3/24/2020,Clear throughout the day.,clear-day,0.04,0.0002,0.0004,0.01,rain,55.89,30.69,17.42,0.4,1025.3,0.15,4,25.69,55.89,50.8333,4.0
+Belgium,,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0004,0.01,rain,54.24,33.05,22.53,0.46,1021.4,0.28,4,30.69,54.24,50.8333,4.0
+Belgium,,3/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0004,0.01,rain,58.24,39.04,32.69,0.62,1019.8,0.0,4,33.05,58.24,50.8333,4.0
+Belgium,,3/27/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0004,0.01,rain,59.96,37.58,36.71,0.65,1022.6,0.06,4,39.04,59.96,50.8333,4.0
+Belgium,,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.17,0.0002,0.0008,0.06,rain,45.87,27.34,25.42,0.54,1030.0,0.61,3,35.97,45.87,50.8333,4.0
+Belgium,,3/29/2020,Clear throughout the day.,clear-day,0.2,0.0003,0.0011,0.06,rain,49.62,33.67,26.66,0.61,1031.8,0.22,4,27.34,49.62,50.8333,4.0
+Belgium,,3/30/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0003,0.06,rain,51.84,27.14,29.94,0.67,1029.3,0.1,4,33.67,51.84,50.8333,4.0
+Belgium,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.01,rain,53.39,28.69,26.54,0.62,1023.0,0.0,4,27.14,53.39,50.8333,4.0
+Belgium,,4/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.3,0.0001,0.0003,0.08,rain,54.51,36.99,33.07,0.72,1015.7,0.35,4,28.69,54.51,50.8333,4.0
+Belgium,,4/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.33,0.0002,0.001,0.08,rain,53.1,35.71,36.89,0.71,1016.9,0.57,4,36.99,53.1,50.8333,4.0
+Belgium,,4/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0002,0.01,rain,61.24,39.29,35.44,0.62,1022.7,0.45,4,35.71,61.24,50.8333,4.0
+Belgium,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0,0.0,,71.18,47.71,39.2,0.58,1019.1,0.0,5,39.29,71.18,50.8333,4.0
+Belgium,,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0015,0.0137,0.15,rain,69.79,40.75,43.33,0.59,1018.7,0.25,5,47.71,69.79,50.8333,4.0
+Belgium,,4/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0,0.0001,0.01,,69.28,48.46,43.89,0.66,1029.7,0.34,4,40.75,69.28,50.8333,4.0
+Belgium,,4/7/2020,Overcast throughout the day.,cloudy,0.53,0.0,0.0003,0.01,,77.6,48.43,46.34,0.59,1024.8,0.9,3,48.46,77.6,50.8333,4.0
+Belgium,,4/8/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.04,rain,74.23,46.85,47.77,0.62,1024.7,0.15,5,48.43,74.23,50.8333,4.0
+Belgium,,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0004,0.02,rain,72.67,45.01,45.82,0.62,1025.4,0.08,6,46.85,72.67,50.8333,4.0
+Belgium,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.04,rain,74.5,46.51,41.45,0.52,1023.1,0.04,5,45.01,74.5,50.8333,4.0
+Belgium,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0004,0.0046,0.04,rain,76.82,46.09,43.56,0.56,1016.2,0.11,5,46.51,76.82,50.8333,4.0
+Belgium,,4/12/2020,Partly cloudy throughout the day.,clear-day,0.71,0.0006,0.0037,0.11,rain,54.64,33.97,36.89,0.62,1020.5,0.31,3,42.2,56.49,50.8333,4.0
+Belgium,,4/13/2020,Clear throughout the day.,clear-day,0.74,0.0001,0.0003,0.03,rain,53.34,34.37,31.21,0.62,1027.3,0.12,5,33.97,53.34,50.8333,4.0
+Belgium,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.01,rain,64.93,41.05,35.35,0.62,1023.7,0.22,5,34.37,64.93,50.8333,4.0
+Belgium,,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0002,0.0017,0.05,rain,73.89,45.07,43.57,0.62,1016.7,0.5,4,41.05,73.89,50.8333,4.0
+Belgium,,4/16/2020,Partly cloudy throughout the day.,clear-day,0.84,0.0006,0.003,0.14,rain,71.4,48.38,45.37,0.64,1016.0,0.3,4,45.07,71.4,50.8333,4.0
+Belgium,,4/17/2020,Light rain in the morning and afternoon.,rain,0.87,0.0101,0.0364,0.93,rain,63.17,43.73,47.06,0.73,1015.6,0.92,3,48.38,63.17,50.8333,4.0
+Belgium,,4/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0005,0.03,rain,63.77,44.88,46.19,0.76,1017.5,0.55,4,43.73,63.77,50.8333,4.0
+Belgium,,4/19/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0004,0.02,rain,66.23,46.85,38.93,0.55,1016.0,0.0,5,44.88,66.23,50.8333,4.0
+Belgium,,4/20/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0003,0.01,rain,69.12,48.64,36.09,0.45,1015.2,0.07,6,46.85,69.12,50.8333,4.0

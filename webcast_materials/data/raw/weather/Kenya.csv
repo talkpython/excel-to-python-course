@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Kenya,,12/31/2019,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0006,0.0024,0.13,rain,85.07,65.77,64.46,0.74,1010.8,0.64,11,63.35,85.07,-0.0236,37.9062
+Kenya,,1/1/2020,Possible light rain in the morning.,rain,0.24,0.0114,0.0421,0.55,rain,83.38,65.99,68.03,0.84,1012.0,0.8,7,65.77,83.38,-0.0236,37.9062
+Kenya,,1/2/2020,Rain in the evening and overnight.,rain,0.27,0.0181,0.1565,0.52,rain,82.14,63.76,67.6,0.83,1013.0,0.89,6,65.99,82.14,-0.0236,37.9062
+Kenya,,1/3/2020,Mostly cloudy throughout the day.,rain,0.3,0.0101,0.1578,0.61,rain,80.8,64.44,67.03,0.86,1012.5,0.57,8,63.76,80.8,-0.0236,37.9062
+Kenya,,1/4/2020,Mostly cloudy throughout the day.,rain,0.33,0.0057,0.0264,0.3,rain,82.84,66.55,65.89,0.78,1011.0,0.77,7,64.44,82.84,-0.0236,37.9062
+Kenya,,1/5/2020,Rain in the morning.,rain,0.36,0.034,0.1726,0.65,rain,82.54,67.22,68.29,0.84,1011.1,0.6,13,66.55,82.54,-0.0236,37.9062
+Kenya,,1/6/2020,Possible light rain in the morning and afternoon.,rain,0.39,0.0219,0.0748,0.76,rain,79.97,67.08,68.84,0.89,1012.9,0.73,6,67.22,79.97,-0.0236,37.9062
+Kenya,,1/7/2020,Possible light rain in the morning.,rain,0.43,0.0133,0.0453,0.61,rain,81.26,65.68,69.1,0.89,1013.0,0.73,10,67.08,81.26,-0.0236,37.9062
+Kenya,,1/8/2020,Humid and mostly cloudy throughout the day.,rain,0.46,0.0102,0.0358,0.58,rain,80.82,63.76,67.91,0.84,1012.1,0.71,10,65.68,80.82,-0.0236,37.9062
+Kenya,,1/9/2020,Clear throughout the day.,rain,0.5,0.0048,0.0312,0.29,rain,83.54,63.88,67.24,0.82,1011.1,0.11,13,63.76,83.54,-0.0236,37.9062
+Kenya,,1/10/2020,Humid throughout the day.,rain,0.53,0.0053,0.0287,0.34,rain,83.92,65.97,67.05,0.81,1011.2,0.24,13,63.88,83.92,-0.0236,37.9062
+Kenya,,1/11/2020,Clear throughout the day.,rain,0.57,0.0081,0.0308,0.49,rain,84.45,65.02,67.64,0.81,1011.3,0.19,13,65.97,84.45,-0.0236,37.9062
+Kenya,,1/12/2020,Rain throughout the day.,rain,0.61,0.0439,0.1529,0.86,rain,78.9,65.26,67.15,0.87,1012.6,0.89,7,65.02,78.9,-0.0236,37.9062
+Kenya,,1/13/2020,Possible light rain in the morning.,rain,0.65,0.0138,0.0537,0.66,rain,81.54,64.87,68.57,0.88,1012.1,0.56,9,65.26,81.54,-0.0236,37.9062
+Kenya,,1/14/2020,Partly cloudy throughout the day.,rain,0.68,0.0059,0.0198,0.31,rain,81.06,64.47,67.63,0.84,1012.5,0.52,9,64.86,81.06,-0.0236,37.9062
+Kenya,,1/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.0022,0.0122,0.23,rain,81.67,64.34,66.72,0.81,1012.7,0.68,10,64.47,81.67,-0.0236,37.9062
+Kenya,,1/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.002,0.011000000000000001,0.12,rain,82.38,65.12,63.51,0.72,1012.0,0.85,10,64.34,82.38,-0.0236,37.9062
+Kenya,,1/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.79,0.0,0.0002,0.05,,85.68,65.04,61.65,0.66,1011.6,0.79,10,65.12,85.68,-0.0236,37.9062
+Kenya,,1/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0002,0.0014,0.03,rain,84.1,64.67,62.62,0.69,1011.9,0.58,9,65.04,84.1,-0.0236,37.9062
+Kenya,,1/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.86,0.0006,0.0044,0.05,rain,85.63,65.69,64.55,0.72,1011.8,0.32,9,64.67,85.63,-0.0236,37.9062
+Kenya,,1/20/2020,Partly cloudy throughout the day.,clear-day,0.9,0.0001,0.0002,0.05,rain,89.26,65.51,62.73,0.64,1010.4,0.24,11,65.69,89.26,-0.0236,37.9062
+Kenya,,1/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.93,0.0009,0.008,0.06,rain,86.61,67.68,62.83,0.66,1010.5,0.73,9,65.51,86.61,-0.0236,37.9062
+Kenya,,1/22/2020,Overcast throughout the day.,cloudy,0.96,0.0038,0.0182,0.2,rain,83.79,69.23,66.29,0.74,1011.2,0.96,6,67.68,83.79,-0.0236,37.9062
+Kenya,,1/23/2020,Humid and overcast throughout the day.,rain,1.0,0.009000000000000001,0.0305,0.5,rain,80.79,67.37,68.8,0.83,1012.2,1.0,6,69.23,80.79,-0.0236,37.9062
+Kenya,,1/24/2020,Possible light rain in the afternoon.,rain,0.03,0.0084,0.0306,0.63,rain,77.52,67.39,69.46,0.9,1013.0,0.96,7,67.37,77.52,-0.0236,37.9062
+Kenya,,1/25/2020,Possible light rain in the morning and afternoon.,rain,0.06,0.0149,0.0376,0.75,rain,76.47,67.31,68.44,0.93,1013.1,1.0,6,67.39,76.47,-0.0236,37.9062
+Kenya,,1/26/2020,Rain and humid throughout the day.,rain,0.09,0.0616,0.2833,0.94,rain,77.17,66.25,68.93,0.93,1012.6,0.99,6,67.31,77.17,-0.0236,37.9062
+Kenya,,1/27/2020,Rain until evening.,rain,0.12,0.0618,0.2531,0.93,rain,77.27,65.75,67.95,0.93,1012.7,0.88,6,66.25,77.27,-0.0236,37.9062
+Kenya,,1/28/2020,Light rain starting in the afternoon.,rain,0.15,0.0262,0.0747,0.78,rain,78.35,65.57,69.06,0.93,1012.5,0.83,7,65.75,78.35,-0.0236,37.9062
+Kenya,,1/29/2020,Possible light rain in the morning.,rain,0.18,0.0132,0.0448,0.68,rain,79.24,65.79,68.86,0.91,1013.3,0.53,12,65.57,79.24,-0.0236,37.9062
+Kenya,,1/30/2020,Rain until evening.,rain,0.21,0.0529,0.2299,0.63,rain,82.21,64.61,67.22,0.84,1012.0,0.54,11,65.79,82.21,-0.0236,37.9062
+Kenya,,1/31/2020,Rain and humid throughout the day.,rain,0.24,0.046,0.131,0.83,rain,77.24,64.9,67.47,0.91,1012.4,0.89,8,64.61,77.24,-0.0236,37.9062
+Kenya,,2/1/2020,Humid and mostly cloudy throughout the day.,rain,0.27,0.0074,0.0258,0.52,rain,81.6,65.06,67.88,0.85,1012.7,0.81,6,64.9,81.6,-0.0236,37.9062
+Kenya,,2/2/2020,Possible light rain in the afternoon and evening.,rain,0.3,0.0211,0.0769,0.6,rain,79.27,64.27,68.58,0.91,1013.0,0.54,13,65.06,79.27,-0.0236,37.9062
+Kenya,,2/3/2020,Mostly cloudy throughout the day.,rain,0.34,0.006999999999999999,0.0226,0.4,rain,82.91,64.56,66.94,0.82,1012.9,0.65,8,64.27,82.91,-0.0236,37.9062
+Kenya,,2/4/2020,Humid and partly cloudy throughout the day.,rain,0.37,0.0065,0.0267,0.37,rain,81.4,64.66,67.09,0.84,1012.6,0.44,8,64.56,81.4,-0.0236,37.9062
+Kenya,,2/5/2020,Mostly cloudy throughout the day.,rain,0.41,0.0068,0.045,0.25,rain,82.44,64.63,66.41,0.82,1013.7,0.74,9,64.66,82.44,-0.0236,37.9062
+Kenya,,2/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.44,0.0002,0.0008,0.09,rain,83.64,66.82,65.75,0.76,1013.7,0.42,7,64.63,83.64,-0.0236,37.9062
+Kenya,,2/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.0007,0.004,0.13,rain,83.25,65.51,65.68,0.76,1014.2,0.38,12,66.82,83.25,-0.0236,37.9062
+Kenya,,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.52,0.0003,0.0011,0.08,rain,83.92,65.17,64.24,0.72,1013.7,0.38,13,65.51,83.92,-0.0236,37.9062
+Kenya,,2/9/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.56,0.0001,0.0004,0.05,rain,87.46,65.36,62.76,0.66,1012.1,0.59,12,65.17,87.46,-0.0236,37.9062
+Kenya,,2/10/2020,Clear throughout the day.,clear-day,0.59,0.0001,0.0002,0.05,rain,89.37,66.84,62.91,0.63,1010.9,0.24,14,65.36,89.37,-0.0236,37.9062
+Kenya,,2/11/2020,Partly cloudy throughout the day.,rain,0.63,0.0035,0.0274,0.29,rain,87.37,67.75,66.5,0.71,1010.1,0.62,12,66.84,87.37,-0.0236,37.9062
+Kenya,,2/12/2020,Rain in the morning and afternoon.,rain,0.67,0.0278,0.1114,0.61,rain,79.9,68.32,68.1,0.83,1011.8,0.41,11,67.75,79.9,-0.0236,37.9062
+Kenya,,2/13/2020,Partly cloudy throughout the day.,rain,0.71,0.006,0.03,0.36,rain,82.41,67.31,67.38,0.78,1011.8,0.55,8,68.32,82.41,-0.0236,37.9062
+Kenya,,2/14/2020,Humid and partly cloudy throughout the day.,rain,0.74,0.0139,0.0454,0.55,rain,81.47,67.3,67.96,0.83,1012.6,0.59,12,67.31,81.47,-0.0236,37.9062
+Kenya,,2/15/2020,Possible light rain in the morning.,rain,0.78,0.0128,0.0451,0.57,rain,83.11,67.54,67.82,0.82,1012.6,0.55,12,67.3,83.11,-0.0236,37.9062
+Kenya,,2/16/2020,Humid throughout the day.,rain,0.81,0.006,0.019,0.41,rain,84.19,66.84,68.45,0.82,1011.7,0.29,12,67.54,84.19,-0.0236,37.9062
+Kenya,,2/17/2020,Humid throughout the day.,rain,0.84,0.0253,0.1666,0.49,rain,84.63,66.94,68.66,0.82,1012.3,0.24,12,66.84,84.63,-0.0236,37.9062
+Kenya,,2/18/2020,Possible light rain in the morning.,rain,0.88,0.0184,0.0471,0.54,rain,81.71,66.54,69.28,0.87,1012.0,0.5,9,66.94,81.71,-0.0236,37.9062
+Kenya,,2/19/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.91,0.0029,0.0088,0.23,rain,86.09,68.4,67.74,0.77,1010.5,0.6,11,66.54,86.09,-0.0236,37.9062
+Kenya,,2/20/2020,Humid and mostly cloudy throughout the day.,rain,0.94,0.0108,0.052000000000000005,0.3,rain,85.71,67.29,69.09,0.8,1010.5,0.61,6,68.4,85.71,-0.0236,37.9062
+Kenya,,2/21/2020,Rain in the morning.,rain,0.97,0.025,0.1078,0.53,rain,84.2,68.31,69.37,0.83,1011.1,0.59,11,67.29,84.2,-0.0236,37.9062
+Kenya,,2/22/2020,Humid and mostly cloudy throughout the day.,rain,0.0,0.0101,0.0264,0.45,rain,83.77,67.15,69.31,0.82,1010.4,0.52,7,68.31,83.77,-0.0236,37.9062
+Kenya,,2/23/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.03,0.0024,0.0128,0.21,rain,86.1,67.69,66.18,0.73,1010.4,0.67,6,67.15,86.1,-0.0236,37.9062
+Kenya,,2/24/2020,Overcast throughout the day.,cloudy,0.06,0.003,0.0223,0.17,rain,88.07,67.66,65.43,0.67,1010.0,0.97,6,67.69,88.07,-0.0236,37.9062
+Kenya,,2/25/2020,Light rain and humid throughout the day.,rain,0.09,0.0359,0.0945,0.8,rain,84.18,69.05,69.68,0.82,1010.6,0.63,12,67.66,84.18,-0.0236,37.9062
+Kenya,,2/26/2020,Possible light rain until evening.,rain,0.12,0.0309,0.0798,0.85,rain,85.06,67.65,70.41,0.86,1011.2,0.94,6,69.05,85.06,-0.0236,37.9062
+Kenya,,2/27/2020,Humid throughout the day.,clear-day,0.15,0.0012,0.0039,0.15,rain,86.53,67.43,68.34,0.78,1010.9,0.17,12,67.65,86.53,-0.0236,37.9062
+Kenya,,2/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.18,0.004,0.0254,0.15,rain,88.77,69.27,66.85,0.71,1009.9,0.39,9,67.43,88.77,-0.0236,37.9062
+Kenya,,2/29/2020,Humid and mostly cloudy throughout the day.,rain,0.22,0.0076,0.0315,0.3,rain,87.61,69.49,69.26,0.75,1008.7,0.63,7,69.27,87.61,-0.0236,37.9062
+Kenya,,3/1/2020,Humid and overcast throughout the day.,rain,0.25,0.0082,0.0233,0.43,rain,85.74,67.62,69.57,0.8,1010.2,0.97,7,69.49,85.74,-0.0236,37.9062
+Kenya,,3/2/2020,Humid and overcast throughout the day.,rain,0.28,0.0089,0.0364,0.47,rain,83.7,66.98,69.06,0.81,1011.9,0.97,6,67.62,83.7,-0.0236,37.9062
+Kenya,,3/3/2020,Humid and overcast throughout the day.,rain,0.31,0.0105,0.0331,0.48,rain,85.54,67.05,68.39,0.8,1012.8,0.86,7,66.98,85.54,-0.0236,37.9062
+Kenya,,3/4/2020,Overcast throughout the day.,cloudy,0.35,0.0015,0.0183,0.17,rain,87.12,67.69,65.1,0.7,1012.4,0.98,6,67.05,87.12,-0.0236,37.9062
+Kenya,,3/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.39,0.0025,0.0144,0.15,rain,89.98,68.8,64.34,0.63,1010.4,0.81,8,67.69,89.98,-0.0236,37.9062
+Kenya,,3/6/2020,Possible light rain overnight.,rain,0.42,0.0138,0.0685,0.39,rain,87.78,68.96,68.88,0.77,1010.5,0.4,12,68.8,87.78,-0.0236,37.9062
+Kenya,,3/7/2020,Possible light rain overnight.,rain,0.46,0.0256,0.0943,0.74,rain,86.02,68.64,70.42,0.81,1010.0,0.9,6,68.96,86.02,-0.0236,37.9062
+Kenya,,3/8/2020,Possible light rain in the morning.,rain,0.5,0.0295,0.0878,0.73,rain,85.8,68.82,71.09,0.83,1009.5,0.87,9,68.64,85.8,-0.0236,37.9062
+Kenya,,3/9/2020,Humid and mostly cloudy throughout the day.,rain,0.54,0.0136,0.0675,0.41,rain,85.42,69.09,70.93,0.85,1009.2,0.89,7,68.82,85.42,-0.0236,37.9062
+Kenya,,3/10/2020,Humid and mostly cloudy throughout the day.,rain,0.58,0.0071,0.0267,0.37,rain,84.97,68.7,70.35,0.82,1009.5,0.78,8,69.09,84.97,-0.0236,37.9062
+Kenya,,3/11/2020,Rain in the morning.,rain,0.62,0.0225,0.1398,0.58,rain,84.08,68.18,69.2,0.82,1009.9,0.8,8,68.7,84.08,-0.0236,37.9062
+Kenya,,3/12/2020,Possible light rain in the morning.,rain,0.66,0.0172,0.0435,0.61,rain,84.24,67.63,68.78,0.81,1010.8,0.81,6,68.18,84.24,-0.0236,37.9062
+Kenya,,3/13/2020,Humid and overcast throughout the day.,rain,0.69,0.0088,0.0258,0.54,rain,81.08,67.15,69.38,0.87,1011.5,0.99,6,67.63,81.08,-0.0236,37.9062
+Kenya,,3/14/2020,Possible light rain overnight.,rain,0.73,0.0114,0.0429,0.43,rain,84.46,68.21,68.56,0.8,1009.9,0.96,7,67.15,84.46,-0.0236,37.9062
+Kenya,,3/15/2020,Possible light rain in the morning.,rain,0.76,0.0171,0.0687,0.64,rain,85.26,68.4,69.72,0.83,1009.3,0.99,6,68.21,85.26,-0.0236,37.9062
+Kenya,,3/16/2020,"Possible light rain until morning, starting again in the evening.",rain,0.79,0.0247,0.0611,0.73,rain,84.42,67.55,70.28,0.86,1010.2,0.91,7,68.4,84.42,-0.0236,37.9062
+Kenya,,3/17/2020,Rain in the morning and overnight.,rain,0.83,0.018000000000000002,0.0585,0.75,rain,82.97,66.83,69.87,0.87,1011.5,1.0,6,67.55,82.97,-0.0236,37.9062
+Kenya,,3/18/2020,Rain in the morning.,rain,0.86,0.061,0.3537,0.78,rain,82.8,67.26,69.05,0.85,1012.4,0.99,6,66.83,82.8,-0.0236,37.9062
+Kenya,,3/19/2020,Possible light rain until evening.,rain,0.89,0.0176,0.0392,0.68,rain,81.59,66.36,69.53,0.88,1011.9,0.71,8,67.26,81.59,-0.0236,37.9062
+Kenya,,3/20/2020,Humid and mostly cloudy throughout the day.,rain,0.92,0.0128,0.0914,0.41,rain,83.7,67.26,68.21,0.81,1011.4,0.62,8,66.36,83.7,-0.0236,37.9062
+Kenya,,3/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.95,0.0012,0.0044,0.19,rain,85.6,68.2,66.6,0.73,1011.7,0.57,14,67.26,85.6,-0.0236,37.9062
+Kenya,,3/22/2020,Rain in the evening and overnight.,rain,0.98,0.0114,0.1473,0.52,rain,87.46,67.55,65.92,0.69,1011.3,0.88,7,68.2,87.46,-0.0236,37.9062
+Kenya,,3/23/2020,Possible light rain in the morning.,rain,0.01,0.027999999999999997,0.1976,0.85,rain,85.28,68.18,69.5,0.83,1010.4,0.6,8,67.55,85.28,-0.0236,37.9062
+Kenya,,3/24/2020,Possible light rain overnight.,rain,0.04,0.0048,0.0238,0.46,rain,86.43,67.65,69.26,0.79,1008.5,0.61,12,68.18,86.43,-0.0236,37.9062
+Kenya,,3/25/2020,Rain in the morning and overnight.,rain,0.07,0.017,0.0302,0.75,rain,85.28,67.24,69.73,0.83,1008.0,0.67,13,67.65,85.28,-0.0236,37.9062
+Kenya,,3/26/2020,Heavy rain and humid throughout the day.,rain,0.1,0.11,0.4995,0.97,rain,79.13,67.46,70.0,0.92,1011.2,0.95,6,67.24,79.13,-0.0236,37.9062
+Kenya,,3/27/2020,Rain in the morning and afternoon.,rain,0.13,0.0308,0.1117,0.94,rain,78.49,66.26,68.31,0.9,1012.8,0.98,6,67.46,78.49,-0.0236,37.9062
+Kenya,,3/28/2020,Overcast throughout the day.,rain,0.16,0.0052,0.0204,0.48,rain,83.93,68.14,67.52,0.79,1011.5,0.86,6,66.26,83.93,-0.0236,37.9062
+Kenya,,3/29/2020,Possible light rain overnight.,rain,0.19,0.0118,0.0447,0.66,rain,84.23,67.91,70.02,0.84,1010.5,0.5,9,68.14,84.23,-0.0236,37.9062
+Kenya,,3/30/2020,Possible light rain in the morning and afternoon.,rain,0.23,0.0263,0.0642,0.81,rain,85.96,67.61,70.67,0.86,1011.2,0.82,6,67.91,85.96,-0.0236,37.9062
+Kenya,,3/31/2020,Humid and mostly cloudy throughout the day.,rain,0.26,0.002,0.0079,0.3,rain,86.24,67.22,69.33,0.79,1011.6,0.56,7,67.61,86.24,-0.0236,37.9062
+Kenya,,4/1/2020,Humid and partly cloudy throughout the day.,rain,0.3,0.0167,0.0516,0.5,rain,82.95,66.88,69.0,0.83,1010.5,0.34,7,67.22,82.95,-0.0236,37.9062
+Kenya,,4/2/2020,Rain in the morning.,rain,0.33,0.0205,0.1285,0.61,rain,83.89,66.68,69.69,0.85,1011.4,0.91,6,66.88,83.89,-0.0236,37.9062
+Kenya,,4/3/2020,Partly cloudy throughout the day.,rain,0.37,0.0073,0.0252,0.39,rain,84.07,66.35,67.72,0.8,1012.9,0.48,11,66.68,84.07,-0.0236,37.9062
+Kenya,,4/4/2020,Humid and mostly cloudy throughout the day.,rain,0.41,0.0075,0.0174,0.47,rain,83.07,66.3,67.39,0.8,1013.4,0.58,9,66.35,83.07,-0.0236,37.9062
+Kenya,,4/5/2020,Rain in the morning.,rain,0.45,0.0299,0.1173,0.75,rain,82.88,67.56,68.18,0.84,1013.5,0.44,11,66.3,82.88,-0.0236,37.9062
+Kenya,,4/6/2020,Humid and partly cloudy throughout the day.,rain,0.49,0.0052,0.0187,0.41,rain,83.63,65.43,68.96,0.82,1012.9,0.62,10,67.56,83.63,-0.0236,37.9062
+Kenya,,4/7/2020,Possible light rain overnight.,rain,0.53,0.0077,0.0262,0.46,rain,84.56,67.5,68.63,0.84,1012.3,0.34,13,65.43,84.56,-0.0236,37.9062
+Kenya,,4/8/2020,Possible light rain in the morning and afternoon.,rain,0.56,0.015,0.0422,0.77,rain,84.23,66.85,70.39,0.89,1012.1,0.56,12,67.5,84.23,-0.0236,37.9062
+Kenya,,4/9/2020,Overcast throughout the day.,rain,0.6,0.0035,0.0239,0.29,rain,84.03,64.7,68.39,0.83,1011.9,0.98,6,66.85,84.03,-0.0236,37.9062
+Kenya,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0018,0.016,0.22,rain,85.91,66.69,66.75,0.76,1010.8,0.28,11,64.7,85.91,-0.0236,37.9062
+Kenya,,4/11/2020,Rain in the evening and overnight.,rain,0.68,0.0198,0.1212,0.74,rain,86.6,68.02,69.28,0.82,1010.3,0.95,5,66.69,86.6,-0.0236,37.9062
+Kenya,,4/12/2020,"Rain until morning, starting again in the evening.",rain,0.71,0.0305,0.1249,0.9,rain,81.44,66.96,70.83,0.91,1011.2,0.9,6,68.02,81.44,-0.0236,37.9062
+Kenya,,4/13/2020,Light rain in the morning and afternoon.,rain,0.74,0.0324,0.0923,0.85,rain,84.64,66.65,70.33,0.89,1011.5,0.91,8,66.96,84.64,-0.0236,37.9062
+Kenya,,4/14/2020,Light rain in the evening and overnight.,rain,0.78,0.0138,0.078,0.61,rain,84.73,67.72,69.84,0.84,1011.8,0.94,6,66.65,84.73,-0.0236,37.9062
+Kenya,,4/15/2020,Possible light rain in the evening and overnight.,rain,0.81,0.0197,0.0569,0.76,rain,85.18,68.45,70.29,0.84,1010.8,0.58,13,67.72,85.18,-0.0236,37.9062
+Kenya,,4/16/2020,"Light rain until morning, starting again in the evening.",rain,0.84,0.0188,0.0643,0.81,rain,84.56,68.25,70.84,0.85,1009.8,0.85,9,68.45,84.56,-0.0236,37.9062
+Kenya,,4/17/2020,Light rain and humid throughout the day.,rain,0.87,0.0306,0.0836,0.96,rain,82.65,68.37,71.16,0.91,1011.0,0.94,7,68.25,82.65,-0.0236,37.9062
+Kenya,,4/18/2020,Light rain and humid throughout the day.,rain,0.9,0.0187,0.0389,0.93,rain,80.39,67.61,69.9,0.89,1012.1,0.96,7,68.37,80.39,-0.0236,37.9062
+Kenya,,4/19/2020,Possible drizzle in the morning and overnight.,rain,0.93,0.0066,0.0207,0.8,rain,79.53,67.3,69.42,0.88,1011.4,0.99,6,67.61,79.53,-0.0236,37.9062
+Kenya,,4/20/2020,"Possible light rain until morning, starting again in the evening.",rain,0.96,0.0086,0.0246,0.8,rain,82.22,67.09,69.69,0.88,1011.5,0.98,6,67.3,82.22,-0.0236,37.9062

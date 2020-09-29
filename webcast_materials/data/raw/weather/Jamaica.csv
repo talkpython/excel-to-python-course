@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Jamaica,,12/31/2019,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0035,0.0248,0.23,rain,86.65,68.51,70.37,0.84,1015.9,0.5,7,66.51,86.65,18.1096,-77.2975
+Jamaica,,1/1/2020,Humid and partly cloudy throughout the day.,rain,0.22,0.0063,0.031,0.35,rain,87.31,69.6,71.7,0.85,1015.4,0.49,6,68.51,87.31,18.1096,-77.2975
+Jamaica,,1/2/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.25,0.0029,0.0083,0.24,rain,86.32,69.09,72.63,0.87,1015.9,0.63,6,69.6,86.32,18.1096,-77.2975
+Jamaica,,1/3/2020,Humid throughout the day.,partly-cloudy-day,0.28,0.0012,0.0037,0.17,rain,86.06,67.2,71.61,0.85,1017.2,0.35,7,69.09,86.06,18.1096,-77.2975
+Jamaica,,1/4/2020,Humid throughout the day.,rain,0.31,0.0034,0.0151,0.27,rain,87.99,69.98,70.69,0.83,1018.6,0.37,7,67.2,87.99,18.1096,-77.2975
+Jamaica,,1/5/2020,Clear throughout the day.,clear-day,0.34,0.0005,0.0029,0.16,rain,87.64,69.56,67.64,0.75,1019.0,0.08,8,69.98,87.64,18.1096,-77.2975
+Jamaica,,1/6/2020,Humid and partly cloudy throughout the day.,rain,0.37,0.0066,0.0236,0.38,rain,85.42,70.15,71.24,0.85,1016.6,0.45,6,69.52,85.42,18.1096,-77.2975
+Jamaica,,1/7/2020,Humid and mostly cloudy throughout the day.,rain,0.4,0.0145,0.0291,0.5,rain,84.3,70.32,72.71,0.9,1016.7,0.56,5,70.15,84.3,18.1096,-77.2975
+Jamaica,,1/8/2020,Humid and partly cloudy throughout the day.,rain,0.44,0.0027,0.0084,0.28,rain,84.76,73.04,71.19,0.84,1018.6,0.42,6,70.32,84.76,18.1096,-77.2975
+Jamaica,,1/9/2020,Possible light rain in the morning.,rain,0.47,0.0136,0.0265,0.51,rain,83.98,70.24,72.39,0.85,1018.7,0.58,6,72.81,83.98,18.1096,-77.2975
+Jamaica,,1/10/2020,Humid and partly cloudy throughout the day.,rain,0.51,0.0053,0.018000000000000002,0.33,rain,85.68,70.83,70.31,0.8,1017.5,0.37,6,70.24,85.68,18.1096,-77.2975
+Jamaica,,1/11/2020,Clear throughout the day.,clear-day,0.55,0.0007,0.0015,0.15,rain,86.47,70.59,67.04,0.71,1017.9,0.14,7,70.83,86.47,18.1096,-77.2975
+Jamaica,,1/12/2020,Clear throughout the day.,clear-day,0.58,0.0007,0.0019,0.15,rain,87.73,69.6,68.27,0.74,1018.7,0.11,8,70.59,87.73,18.1096,-77.2975
+Jamaica,,1/13/2020,Clear throughout the day.,rain,0.62,0.0025,0.0101,0.25,rain,86.42,71.04,68.72,0.76,1018.6,0.22,6,69.6,86.42,18.1096,-77.2975
+Jamaica,,1/14/2020,Partly cloudy throughout the day.,rain,0.66,0.0043,0.0092,0.3,rain,83.7,71.24,69.94,0.81,1017.7,0.36,6,71.04,83.7,18.1096,-77.2975
+Jamaica,,1/15/2020,Partly cloudy throughout the day.,rain,0.7,0.0062,0.0246,0.38,rain,85.17,71.31,69.56,0.79,1016.3,0.38,6,71.24,85.17,18.1096,-77.2975
+Jamaica,,1/16/2020,Humid and partly cloudy throughout the day.,rain,0.73,0.0063,0.0221,0.37,rain,85.47,71.28,71.0,0.82,1017.6,0.37,6,71.31,85.47,18.1096,-77.2975
+Jamaica,,1/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.77,0.0034,0.0176,0.24,rain,84.65,70.22,68.92,0.79,1018.1,0.35,7,71.28,84.65,18.1096,-77.2975
+Jamaica,,1/18/2020,Partly cloudy throughout the day.,clear-day,0.8,0.0011,0.0032,0.15,rain,84.61,68.69,67.91,0.76,1017.7,0.31,7,70.22,84.61,18.1096,-77.2975
+Jamaica,,1/19/2020,Possible light rain in the morning.,rain,0.84,0.0102,0.0262,0.53,rain,85.68,69.18,69.92,0.82,1016.4,0.3,7,68.69,85.68,18.1096,-77.2975
+Jamaica,,1/20/2020,Possible light rain until evening.,rain,0.87,0.0126,0.0494,0.79,rain,84.5,67.25,70.35,0.84,1016.1,0.48,7,69.18,84.5,18.1096,-77.2975
+Jamaica,,1/21/2020,Possible light rain starting in the afternoon.,rain,0.91,0.0166,0.0769,0.59,rain,85.89,67.13,68.91,0.82,1014.9,0.72,6,67.25,85.89,18.1096,-77.2975
+Jamaica,,1/22/2020,Possible light rain in the morning.,rain,0.94,0.0097,0.0274,0.47,rain,77.49,60.22,67.45,0.88,1013.6,0.71,6,65.57,77.49,18.1096,-77.2975
+Jamaica,,1/23/2020,Clear throughout the day.,partly-cloudy-day,0.97,0.0008,0.004,0.1,rain,79.56,61.46,61.77,0.78,1013.5,0.36,8,60.22,79.56,18.1096,-77.2975
+Jamaica,,1/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0026,0.0162,0.21,rain,83.34,63.53,64.65,0.79,1014.8,0.49,7,61.46,83.34,18.1096,-77.2975
+Jamaica,,1/25/2020,Mostly cloudy throughout the day.,rain,0.04,0.0162,0.0439,0.54,rain,81.94,61.68,66.95,0.83,1015.8,0.65,7,63.53,81.94,18.1096,-77.2975
+Jamaica,,1/26/2020,Partly cloudy throughout the day.,rain,0.07,0.0043,0.0217,0.34,rain,84.09,63.58,65.06,0.79,1016.5,0.42,8,61.68,84.09,18.1096,-77.2975
+Jamaica,,1/27/2020,Partly cloudy throughout the day.,rain,0.1,0.013999999999999999,0.0686,0.38,rain,81.85,62.44,66.63,0.82,1015.8,0.48,7,63.58,81.85,18.1096,-77.2975
+Jamaica,,1/28/2020,Partly cloudy throughout the day.,rain,0.13,0.0067,0.0344,0.3,rain,83.37,64.19,66.7,0.82,1014.9,0.51,7,62.44,83.37,18.1096,-77.2975
+Jamaica,,1/29/2020,Partly cloudy throughout the day.,rain,0.16,0.0036,0.0171,0.26,rain,84.36,62.42,67.3,0.82,1015.2,0.39,7,64.19,84.36,18.1096,-77.2975
+Jamaica,,1/30/2020,Clear throughout the day.,clear-day,0.19,0.002,0.0141,0.2,rain,85.35,62.09,65.64,0.78,1015.4,0.25,9,62.42,85.35,18.1096,-77.2975
+Jamaica,,1/31/2020,Clear throughout the day.,clear-day,0.22,0.0005,0.0022,0.1,rain,86.17,64.27,66.6,0.79,1016.5,0.12,9,62.09,86.17,18.1096,-77.2975
+Jamaica,,2/1/2020,Humid throughout the day.,clear-day,0.25,0.0024,0.0103,0.23,rain,87.31,69.79,69.21,0.82,1016.9,0.26,9,64.27,87.31,18.1096,-77.2975
+Jamaica,,2/2/2020,Possible drizzle in the morning.,rain,0.28,0.0071,0.0186,0.52,rain,84.63,68.36,70.29,0.83,1017.2,0.43,7,69.74,84.63,18.1096,-77.2975
+Jamaica,,2/3/2020,Possible light rain in the morning and afternoon.,rain,0.31,0.0167,0.0483,0.62,rain,83.15,69.18,70.74,0.89,1017.7,0.66,5,68.36,83.15,18.1096,-77.2975
+Jamaica,,2/4/2020,Humid and mostly cloudy throughout the day.,rain,0.35,0.0136,0.0278,0.64,rain,84.69,67.64,72.04,0.89,1017.6,0.6,7,69.18,84.69,18.1096,-77.2975
+Jamaica,,2/5/2020,Humid and partly cloudy throughout the day.,rain,0.38,0.0056,0.0178,0.37,rain,83.95,67.88,70.58,0.85,1016.1,0.34,8,67.64,83.95,18.1096,-77.2975
+Jamaica,,2/6/2020,Humid and partly cloudy throughout the day.,clear-day,0.42,0.0011,0.0032,0.16,rain,84.68,71.63,68.99,0.8,1014.7,0.31,7,67.88,84.68,18.1096,-77.2975
+Jamaica,,2/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0007,0.0013,0.15,rain,85.36,66.59,70.42,0.8,1016.1,0.33,7,71.18,85.36,18.1096,-77.2975
+Jamaica,,2/8/2020,Clear throughout the day.,clear-day,0.49,0.0025,0.0077,0.23,rain,86.45,69.77,67.58,0.75,1018.9,0.22,8,66.59,86.45,18.1096,-77.2975
+Jamaica,,2/9/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.53,0.003,0.0054,0.21,rain,85.91,69.39,71.02,0.84,1019.0,0.4,7,69.77,85.91,18.1096,-77.2975
+Jamaica,,2/10/2020,Partly cloudy throughout the day.,rain,0.57,0.0066,0.0189,0.35,rain,84.68,69.76,70.46,0.82,1018.1,0.43,7,69.39,84.68,18.1096,-77.2975
+Jamaica,,2/11/2020,Clear throughout the day.,clear-day,0.61,0.0018,0.0052,0.2,rain,86.67,68.14,69.49,0.78,1017.5,0.21,8,69.76,86.67,18.1096,-77.2975
+Jamaica,,2/12/2020,Partly cloudy throughout the day.,clear-day,0.64,0.0024,0.0104,0.16,rain,86.23,67.9,68.58,0.78,1016.8,0.22,7,68.14,86.23,18.1096,-77.2975
+Jamaica,,2/13/2020,Partly cloudy throughout the day.,clear-day,0.68,0.001,0.0023,0.13,rain,87.29,69.65,68.62,0.78,1016.4,0.23,9,67.9,87.29,18.1096,-77.2975
+Jamaica,,2/14/2020,Partly cloudy throughout the day.,rain,0.72,0.004,0.0117,0.29,rain,85.58,65.56,69.78,0.81,1017.2,0.34,8,68.34,85.58,18.1096,-77.2975
+Jamaica,,2/15/2020,Clear throughout the day.,clear-day,0.75,0.001,0.0029,0.13,rain,86.02,68.05,67.29,0.78,1017.4,0.23,9,65.56,86.02,18.1096,-77.2975
+Jamaica,,2/16/2020,Humid and partly cloudy throughout the day.,rain,0.79,0.0129,0.0459,0.43,rain,84.96,68.47,70.72,0.87,1015.5,0.44,7,68.05,84.96,18.1096,-77.2975
+Jamaica,,2/17/2020,Humid and partly cloudy throughout the day.,clear-day,0.82,0.0025,0.006999999999999999,0.23,rain,86.97,69.58,70.2,0.82,1015.3,0.29,9,68.47,86.97,18.1096,-77.2975
+Jamaica,,2/18/2020,Humid and partly cloudy throughout the day.,clear-day,0.86,0.0039,0.0143,0.24,rain,85.46,70.17,71.5,0.83,1016.1,0.29,8,69.58,85.46,18.1096,-77.2975
+Jamaica,,2/19/2020,Humid and mostly cloudy throughout the day.,rain,0.89,0.013999999999999999,0.057999999999999996,0.42,rain,85.54,69.53,72.55,0.87,1016.8,0.46,7,70.17,85.54,18.1096,-77.2975
+Jamaica,,2/20/2020,Humid and mostly cloudy throughout the day.,rain,0.92,0.0072,0.0151,0.32,rain,85.39,66.46,70.66,0.83,1015.8,0.5,7,69.53,85.39,18.1096,-77.2975
+Jamaica,,2/21/2020,Partly cloudy throughout the day.,rain,0.95,0.013000000000000001,0.0538,0.36,rain,87.32,66.88,68.71,0.8,1016.7,0.39,9,66.46,87.32,18.1096,-77.2975
+Jamaica,,2/22/2020,Humid and mostly cloudy throughout the day.,rain,0.98,0.0154,0.0737,0.44,rain,83.69,67.54,69.78,0.88,1016.1,0.48,7,66.88,83.69,18.1096,-77.2975
+Jamaica,,2/23/2020,Rain in the afternoon and evening.,rain,0.01,0.0278,0.1285,0.56,rain,83.26,68.61,69.92,0.88,1015.3,0.62,7,67.54,83.26,18.1096,-77.2975
+Jamaica,,2/24/2020,Possible light rain in the afternoon.,rain,0.04,0.0186,0.0537,0.53,rain,82.45,67.27,71.37,0.9,1014.9,0.62,8,68.61,82.45,18.1096,-77.2975
+Jamaica,,2/25/2020,Humid and partly cloudy throughout the day.,rain,0.07,0.0114,0.0437,0.44,rain,83.53,70.21,71.76,0.91,1015.0,0.45,8,67.27,83.53,18.1096,-77.2975
+Jamaica,,2/26/2020,Humid and partly cloudy throughout the day.,rain,0.1,0.0045,0.0194,0.34,rain,85.27,68.18,71.72,0.85,1015.7,0.38,8,70.21,85.27,18.1096,-77.2975
+Jamaica,,2/27/2020,Humid and partly cloudy throughout the day.,rain,0.13,0.0101,0.0409,0.34,rain,86.98,68.35,70.86,0.83,1017.2,0.44,10,68.18,86.98,18.1096,-77.2975
+Jamaica,,2/28/2020,Rain in the afternoon and evening.,rain,0.16,0.0269,0.1319,0.63,rain,86.74,70.59,71.73,0.87,1017.8,0.49,9,68.35,86.74,18.1096,-77.2975
+Jamaica,,2/29/2020,Possible light rain in the morning and afternoon.,rain,0.2,0.0154,0.0339,0.74,rain,79.34,68.6,71.6,0.92,1018.6,0.62,7,70.59,79.34,18.1096,-77.2975
+Jamaica,,3/1/2020,Humid and mostly cloudy throughout the day.,rain,0.23,0.0044,0.011000000000000001,0.37,rain,80.32,69.22,69.69,0.86,1018.1,0.57,7,68.6,80.32,18.1096,-77.2975
+Jamaica,,3/2/2020,Humid and mostly cloudy throughout the day.,rain,0.26,0.0104,0.0255,0.37,rain,82.7,68.5,71.06,0.86,1016.7,0.54,7,69.22,82.7,18.1096,-77.2975
+Jamaica,,3/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.29,0.0039,0.0119,0.24,rain,86.78,67.75,71.22,0.85,1016.1,0.38,9,68.5,86.78,18.1096,-77.2975
+Jamaica,,3/4/2020,Humid throughout the day.,clear-day,0.33,0.001,0.0029,0.13,rain,85.87,68.19,69.89,0.81,1016.8,0.21,9,67.75,85.87,18.1096,-77.2975
+Jamaica,,3/5/2020,Partly cloudy throughout the day.,clear-day,0.36,0.0016,0.0043,0.14,rain,86.98,64.89,69.65,0.79,1017.2,0.25,9,68.19,86.98,18.1096,-77.2975
+Jamaica,,3/6/2020,Possible light rain in the afternoon and evening.,rain,0.4,0.0097,0.059000000000000004,0.46,rain,87.61,67.42,68.63,0.8,1017.5,0.29,11,64.89,87.61,18.1096,-77.2975
+Jamaica,,3/7/2020,Possible light rain in the afternoon and evening.,rain,0.44,0.0099,0.0686,0.46,rain,88.19,69.89,68.87,0.8,1016.5,0.31,11,67.42,88.19,18.1096,-77.2975
+Jamaica,,3/8/2020,Possible light rain in the morning and afternoon.,rain,0.47,0.0119,0.0204,0.79,rain,78.76,69.48,69.04,0.85,1017.9,0.61,7,69.89,78.76,18.1096,-77.2975
+Jamaica,,3/9/2020,Possible light rain until evening.,rain,0.51,0.0182,0.0387,0.79,rain,80.4,69.71,69.52,0.85,1019.1,0.57,7,69.48,80.4,18.1096,-77.2975
+Jamaica,,3/10/2020,Humid and partly cloudy throughout the day.,rain,0.55,0.0084,0.0146,0.53,rain,83.09,68.03,69.94,0.84,1018.2,0.43,8,69.71,83.09,18.1096,-77.2975
+Jamaica,,3/11/2020,Rain in the evening.,rain,0.59,0.0276,0.1557,0.59,rain,81.8,64.29,69.49,0.87,1015.5,0.54,7,67.65,81.8,18.1096,-77.2975
+Jamaica,,3/12/2020,Partly cloudy throughout the day.,clear-day,0.63,0.0058,0.0291,0.22,rain,84.74,66.17,66.83,0.8,1013.9,0.29,10,64.29,84.74,18.1096,-77.2975
+Jamaica,,3/13/2020,Clear throughout the day.,clear-day,0.67,0.0044,0.018000000000000002,0.17,rain,86.94,67.62,67.84,0.79,1016.3,0.24,11,66.17,86.94,18.1096,-77.2975
+Jamaica,,3/14/2020,Clear throughout the day.,clear-day,0.7,0.0025,0.0091,0.16,rain,87.26,69.74,69.05,0.79,1018.0,0.28,10,67.62,87.26,18.1096,-77.2975
+Jamaica,,3/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.74,0.0008,0.0024,0.14,rain,84.95,68.13,67.96,0.77,1018.3,0.34,9,68.54,84.95,18.1096,-77.2975
+Jamaica,,3/16/2020,Clear throughout the day.,clear-day,0.77,0.0007,0.0017,0.09,rain,84.9,67.37,66.07,0.75,1017.7,0.24,9,67.39,84.9,18.1096,-77.2975
+Jamaica,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0018,0.0129,0.14,rain,85.89,68.3,67.65,0.77,1017.9,0.36,10,67.58,85.89,18.1096,-77.2975
+Jamaica,,3/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.001,0.0033,0.1,rain,85.44,69.62,67.97,0.78,1018.9,0.39,9,68.3,85.44,18.1096,-77.2975
+Jamaica,,3/19/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.87,0.0067,0.0215,0.23,rain,84.62,70.3,69.86,0.82,1019.1,0.44,8,69.62,84.62,18.1096,-77.2975
+Jamaica,,3/20/2020,Humid and partly cloudy throughout the day.,rain,0.9,0.0119,0.0211,0.46,rain,84.16,70.08,70.52,0.83,1019.2,0.48,8,70.3,84.16,18.1096,-77.2975
+Jamaica,,3/21/2020,Possible light rain in the morning.,rain,0.93,0.0079,0.0188,0.48,rain,86.38,68.11,69.05,0.8,1018.5,0.41,7,68.13,86.38,18.1096,-77.2975
+Jamaica,,3/22/2020,Partly cloudy throughout the day.,rain,0.96,0.0098,0.0458,0.45,rain,82.65,67.39,68.95,0.84,1018.1,0.47,8,68.04,82.65,18.1096,-77.2975
+Jamaica,,3/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.99,0.0038,0.0154,0.24,rain,86.04,67.11,68.74,0.81,1019.2,0.37,10,67.39,86.04,18.1096,-77.2975
+Jamaica,,3/24/2020,Humid and partly cloudy throughout the day.,rain,0.02,0.0078,0.0286,0.37,rain,87.09,67.35,70.02,0.83,1017.9,0.34,11,67.11,87.09,18.1096,-77.2975
+Jamaica,,3/25/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.05,0.0028,0.0109,0.19,rain,87.5,66.26,69.91,0.81,1015.8,0.39,10,67.35,87.5,18.1096,-77.2975
+Jamaica,,3/26/2020,Clear throughout the day.,clear-day,0.08,0.0015,0.0107,0.13,rain,88.91,66.79,68.32,0.78,1015.0,0.31,12,66.26,88.91,18.1096,-77.2975
+Jamaica,,3/27/2020,Partly cloudy throughout the day.,clear-day,0.11,0.0004,0.0014,0.11,rain,87.48,67.67,65.86,0.73,1014.5,0.23,9,66.79,87.48,18.1096,-77.2975
+Jamaica,,3/28/2020,Partly cloudy throughout the day.,rain,0.14,0.0089,0.0544,0.3,rain,87.02,68.46,68.74,0.81,1014.9,0.39,10,67.67,87.02,18.1096,-77.2975
+Jamaica,,3/29/2020,Partly cloudy throughout the day.,clear-day,0.17,0.0047,0.0169,0.18,rain,85.75,68.81,69.1,0.78,1016.7,0.28,10,68.46,85.75,18.1096,-77.2975
+Jamaica,,3/30/2020,Humid and partly cloudy throughout the day.,rain,0.21,0.0087,0.0407,0.26,rain,87.6,69.17,71.22,0.83,1016.3,0.44,9,68.81,87.6,18.1096,-77.2975
+Jamaica,,3/31/2020,Humid and partly cloudy throughout the day.,rain,0.24,0.009000000000000001,0.0298,0.34,rain,86.86,66.15,70.66,0.82,1013.8,0.46,10,69.17,86.86,18.1096,-77.2975
+Jamaica,,4/1/2020,Partly cloudy throughout the day.,rain,0.27,0.0149,0.086,0.26,rain,85.89,66.31,68.74,0.8,1013.3,0.42,10,66.15,85.89,18.1096,-77.2975
+Jamaica,,4/2/2020,Partly cloudy throughout the day.,rain,0.31,0.0196,0.0886,0.44,rain,86.61,67.03,69.01,0.81,1014.2,0.51,9,66.31,86.61,18.1096,-77.2975
+Jamaica,,4/3/2020,Mostly cloudy throughout the day.,rain,0.34,0.0086,0.0463,0.27,rain,88.06,66.56,69.28,0.79,1013.7,0.66,8,67.03,88.06,18.1096,-77.2975
+Jamaica,,4/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.38,0.0084,0.0311,0.21,rain,89.95,67.8,70.15,0.8,1013.1,0.4,11,66.56,89.95,18.1096,-77.2975
+Jamaica,,4/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0051,0.0323,0.17,rain,90.01,68.77,71.93,0.82,1014.1,0.46,9,67.8,90.01,18.1096,-77.2975
+Jamaica,,4/6/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.46,0.001,0.0052,0.09,rain,91.34,67.81,71.5,0.79,1016.0,0.53,9,68.77,91.34,18.1096,-77.2975
+Jamaica,,4/7/2020,Humid throughout the day.,clear-day,0.5,0.0006,0.0035,0.06,rain,91.49,68.93,69.99,0.76,1016.6,0.19,12,67.81,91.49,18.1096,-77.2975
+Jamaica,,4/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.54,0.0005,0.0019,0.06,rain,92.65,67.04,70.35,0.77,1015.0,0.33,10,68.93,92.65,18.1096,-77.2975
+Jamaica,,4/9/2020,Clear throughout the day.,clear-day,0.58,0.0004,0.0023,0.05,rain,91.91,67.57,68.66,0.74,1014.0,0.17,13,67.04,91.91,18.1096,-77.2975
+Jamaica,,4/10/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0008,0.0037,0.06,rain,91.92,69.34,70.03,0.77,1014.1,0.49,10,67.57,91.92,18.1096,-77.2975
+Jamaica,,4/11/2020,Humid throughout the day.,partly-cloudy-day,0.65,0.0014,0.0077,0.08,rain,92.75,71.42,71.49,0.78,1015.4,0.38,12,69.34,92.75,18.1096,-77.2975
+Jamaica,,4/12/2020,Humid throughout the day.,clear-day,0.69,0.0003,0.001,0.07,rain,93.26,70.28,71.93,0.77,1016.9,0.17,13,71.42,93.26,18.1096,-77.2975
+Jamaica,,4/13/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0103,0.07400000000000001,0.24,rain,90.64,69.49,72.84,0.82,1017.7,0.38,10,70.28,90.64,18.1096,-77.2975
+Jamaica,,4/14/2020,Humid and partly cloudy throughout the day.,rain,0.75,0.012,0.0595,0.3,rain,88.8,68.96,72.35,0.83,1016.8,0.35,10,69.49,88.8,18.1096,-77.2975
+Jamaica,,4/15/2020,Humid throughout the day.,clear-day,0.79,0.0062,0.0412,0.2,rain,88.83,69.85,71.31,0.81,1016.2,0.27,11,68.96,88.83,18.1096,-77.2975
+Jamaica,,4/16/2020,Humid throughout the day.,clear-day,0.82,0.0028,0.0204,0.16,rain,89.6,69.46,71.07,0.79,1017.5,0.28,11,69.85,89.6,18.1096,-77.2975
+Jamaica,,4/17/2020,Humid throughout the day.,clear-day,0.85,0.0012,0.0035,0.11,rain,90.0,68.92,71.44,0.8,1018.0,0.31,11,69.46,90.0,18.1096,-77.2975
+Jamaica,,4/18/2020,Humid and partly cloudy throughout the day.,clear-day,0.88,0.0057,0.0188,0.24,rain,88.79,69.25,71.94,0.82,1017.3,0.28,10,68.92,88.79,18.1096,-77.2975
+Jamaica,,4/19/2020,Humid throughout the day.,clear-day,0.91,0.005,0.0254,0.18,rain,88.51,70.77,71.54,0.81,1016.2,0.23,11,69.25,88.51,18.1096,-77.2975
+Jamaica,,4/20/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.94,0.0008,0.0069,0.11,rain,87.36,71.11,71.7,0.81,1015.6,0.35,10,70.77,87.36,18.1096,-77.2975

@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Spain,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.08,rain,54.45,29.69,31.42,0.74,1032.8,0.24,2,29.53,54.45,40.0,-4.0
+Spain,,1/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.06,rain,54.64,31.36,31.14,0.74,1032.1,0.21,2,29.69,54.64,40.0,-4.0
+Spain,,1/2/2020,Overcast throughout the day.,partly-cloudy-day,0.27,0.0001,0.0003,0.03,rain,49.88,31.79,33.52,0.84,1033.8,0.8,1,31.36,49.88,40.0,-4.0
+Spain,,1/3/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0003,0.09,rain,57.03,28.16,32.19,0.72,1034.4,0.0,2,31.79,57.03,40.0,-4.0
+Spain,,1/4/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.04,rain,54.47,28.52,28.98,0.71,1031.2,0.0,2,28.16,54.47,40.0,-4.0
+Spain,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,56.3,28.38,27.13,0.63,1030.1,0.0,2,28.52,56.3,40.0,-4.0
+Spain,,1/6/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0002,0.07,rain,55.66,28.82,26.6,0.62,1032.7,0.06,2,28.37,55.66,40.0,-4.0
+Spain,,1/7/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0002,0.03,,56.19,32.67,25.69,0.6,1031.0,0.21,2,28.82,56.19,40.0,-4.0
+Spain,,1/8/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0001,0.02,,57.58,35.47,34.68,0.75,1028.7,0.19,2,32.62,57.58,40.0,-4.0
+Spain,,1/9/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0003,0.04,rain,57.79,29.32,30.6,0.63,1029.3,0.29,2,35.12,57.79,40.0,-4.0
+Spain,,1/10/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0003,0.02,rain,54.87,26.09,27.41,0.67,1032.7,0.0,2,29.29,54.87,40.0,-4.0
+Spain,,1/11/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0003,0.04,rain,54.14,26.55,24.24,0.63,1032.3,0.15,2,26.09,54.14,40.0,-4.0
+Spain,,1/12/2020,Overcast throughout the day.,cloudy,0.61,0.0001,0.0003,0.01,rain,51.99,24.69,26.36,0.7,1028.3,0.9,2,25.71,51.99,40.0,-4.0
+Spain,,1/13/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,50.95,34.25,28.15,0.75,1024.9,0.13,2,24.69,50.95,40.0,-4.0
+Spain,,1/14/2020,Overcast throughout the day.,cloudy,0.69,0.0002,0.0006,0.09,rain,56.11,38.76,36.02,0.76,1025.4,0.92,2,34.25,56.11,40.0,-4.0
+Spain,,1/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.72,0.0001,0.0003,0.08,rain,65.12,44.92,37.69,0.69,1026.7,0.68,2,38.76,65.12,40.0,-4.0
+Spain,,1/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.0008,0.0056,0.2,rain,58.43,41.06,40.71,0.73,1031.0,0.87,2,43.37,58.43,40.0,-4.0
+Spain,,1/17/2020,"Light rain until morning, starting again in the evening.",rain,0.8,0.0093,0.0606,0.8,rain,53.58,41.08,42.31,0.84,1028.1,0.97,2,41.06,53.58,40.0,-4.0
+Spain,,1/18/2020,Windy in the afternoon and evening.,rain,0.83,0.0027,0.0472,0.65,rain,55.9,35.71,28.57,0.55,1022.3,0.81,1,38.86,55.9,40.0,-4.0
+Spain,,1/19/2020,Windy and overcast throughout the day.,wind,0.87,0.0008,0.0048,0.2,rain,49.6,39.55,18.05,0.39,1023.6,0.9,1,35.71,49.6,40.0,-4.0
+Spain,,1/20/2020,Windy in the morning and afternoon.,rain,0.9,0.0018,0.0069,0.33,rain,52.08,40.79,31.9,0.61,1019.4,0.9,1,39.55,52.08,40.0,-4.0
+Spain,,1/21/2020,Possible drizzle in the morning.,rain,0.93,0.0044,0.0145,0.51,rain,55.57,34.19,37.71,0.74,1018.6,0.83,1,40.79,55.57,40.0,-4.0
+Spain,,1/22/2020,Possible light rain overnight.,rain,0.97,0.0008,0.0089,0.25,rain,55.21,40.59,35.91,0.76,1019.4,0.6,1,34.05,55.21,40.0,-4.0
+Spain,,1/23/2020,Light rain in the morning and overnight.,rain,1.0,0.0085,0.0251,0.83,rain,54.8,42.8,39.24,0.79,1020.6,0.94,2,40.59,54.8,40.0,-4.0
+Spain,,1/24/2020,Light rain throughout the day.,rain,0.03,0.0107,0.048,0.96,rain,51.22,39.87,41.82,0.85,1017.6,0.96,2,42.8,51.22,40.0,-4.0
+Spain,,1/25/2020,Partly cloudy throughout the day.,rain,0.06,0.0002,0.0018,0.29,rain,55.14,34.8,39.42,0.83,1023.6,0.45,2,37.98,55.14,40.0,-4.0
+Spain,,1/26/2020,Overcast throughout the day.,partly-cloudy-day,0.09,0.0002,0.0006,0.18,rain,56.68,48.64,38.05,0.79,1025.1,0.75,2,34.8,56.68,40.0,-4.0
+Spain,,1/27/2020,Overcast throughout the day.,cloudy,0.12,0.0002,0.0007,0.22,rain,59.58,48.43,47.3,0.82,1023.4,1.0,2,49.51,59.58,40.0,-4.0
+Spain,,1/28/2020,Overcast throughout the day.,cloudy,0.15,0.0001,0.0003,0.12,rain,60.77,45.17,45.99,0.8,1025.0,0.93,2,48.02,60.77,40.0,-4.0
+Spain,,1/29/2020,Overcast throughout the day.,cloudy,0.18,0.0001,0.0003,0.07,rain,59.38,46.81,43.86,0.79,1025.1,0.96,2,45.17,59.38,40.0,-4.0
+Spain,,1/30/2020,Overcast throughout the day.,cloudy,0.21,0.0001,0.0005,0.1,rain,62.45,52.61,48.03,0.83,1025.1,0.92,2,47.04,62.45,40.0,-4.0
+Spain,,1/31/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0002,0.0007,0.18,rain,64.51,45.41,50.6,0.82,1025.7,0.8,2,50.51,64.51,40.0,-4.0
+Spain,,2/1/2020,Foggy in the morning.,partly-cloudy-day,0.27,0.0002,0.0006,0.12,rain,61.44,41.01,47.64,0.86,1030.1,0.67,3,45.41,61.44,40.0,-4.0
+Spain,,2/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0001,0.0003,0.05,rain,63.81,39.56,44.75,0.81,1031.0,0.48,3,41.01,63.81,40.0,-4.0
+Spain,,2/3/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.06,rain,66.94,37.45,42.28,0.74,1030.1,0.1,3,39.56,66.94,40.0,-4.0
+Spain,,2/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.03,rain,61.73,35.03,32.0,0.59,1028.1,0.0,3,37.45,61.73,40.0,-4.0
+Spain,,2/5/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.02,,59.0,39.37,38.88,0.78,1024.7,0.3,3,35.03,59.0,40.0,-4.0
+Spain,,2/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.0001,0.0003,0.06,rain,59.1,37.87,40.36,0.77,1023.9,0.59,3,39.37,59.1,40.0,-4.0
+Spain,,2/7/2020,Overcast throughout the day.,partly-cloudy-day,0.48,0.0001,0.0005,0.12,rain,57.23,36.44,41.0,0.84,1025.9,0.62,2,37.87,57.23,40.0,-4.0
+Spain,,2/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.52,0.0001,0.0003,0.08,rain,59.48,41.21,40.65,0.82,1030.6,0.78,3,36.44,59.48,40.0,-4.0
+Spain,,2/9/2020,Clear throughout the day.,clear-day,0.56,0.0002,0.0008,0.09,rain,63.42,40.7,44.42,0.83,1032.2,0.18,4,41.21,63.42,40.0,-4.0
+Spain,,2/10/2020,Overcast throughout the day.,partly-cloudy-day,0.6,0.0,0.0002,0.05,,63.45,44.93,45.21,0.83,1027.8,0.72,3,40.7,63.45,40.0,-4.0
+Spain,,2/11/2020,Overcast throughout the day.,cloudy,0.64,0.0001,0.0004,0.08,rain,59.81,41.94,46.09,0.83,1023.8,1.0,3,44.93,59.81,40.0,-4.0
+Spain,,2/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.67,0.0001,0.0004,0.08,rain,62.56,37.76,44.52,0.81,1024.4,0.75,3,41.94,62.56,40.0,-4.0
+Spain,,2/13/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.06,rain,59.93,35.88,41.41,0.8,1026.5,0.18,4,37.76,59.93,40.0,-4.0
+Spain,,2/14/2020,Clear throughout the day.,partly-cloudy-day,0.75,0.0001,0.0003,0.04,rain,64.0,36.92,40.53,0.76,1026.7,0.33,4,35.88,64.0,40.0,-4.0
+Spain,,2/15/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.04,rain,65.24,40.41,42.04,0.77,1027.4,0.04,4,36.92,65.24,40.0,-4.0
+Spain,,2/16/2020,Overcast throughout the day.,partly-cloudy-day,0.81,0.0001,0.0003,0.09,rain,60.42,40.99,45.03,0.82,1028.3,0.71,3,40.41,60.42,40.0,-4.0
+Spain,,2/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.85,0.0002,0.0004,0.09,rain,60.3,36.99,40.41,0.71,1030.5,0.59,3,40.99,60.3,40.0,-4.0
+Spain,,2/18/2020,Clear throughout the day.,clear-day,0.88,0.0,0.0001,0.02,,63.83,33.12,34.55,0.62,1031.2,0.09,4,36.99,63.83,40.0,-4.0
+Spain,,2/19/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0004,0.03,rain,64.44,34.64,32.53,0.59,1025.6,0.0,4,33.12,64.44,40.0,-4.0
+Spain,,2/20/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.03,rain,69.91,34.86,27.47,0.48,1028.5,0.0,4,34.64,69.91,40.0,-4.0
+Spain,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0004,0.01,rain,71.07,36.65,24.53,0.41,1032.1,0.0,4,34.86,71.07,40.0,-4.0
+Spain,,2/22/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.01,rain,72.27,37.01,28.64,0.44,1032.7,0.17,4,36.65,72.27,40.0,-4.0
+Spain,,2/23/2020,Clear throughout the day.,clear-day,0.04,0.0001,0.0003,0.01,rain,72.36,39.98,30.6,0.47,1027.6,0.0,5,37.01,72.36,40.0,-4.0
+Spain,,2/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.05,rain,66.81,38.39,37.19,0.62,1021.9,0.54,4,39.98,66.81,40.0,-4.0
+Spain,,2/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0003,0.04,rain,64.45,36.79,35.21,0.61,1022.5,0.37,4,38.39,64.45,40.0,-4.0
+Spain,,2/26/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0003,0.02,rain,67.42,36.93,35.27,0.61,1023.6,0.23,5,36.79,67.42,40.0,-4.0
+Spain,,2/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.16,0.0,0.0003,0.01,,69.34,45.36,33.92,0.56,1021.4,0.51,4,36.93,69.34,40.0,-4.0
+Spain,,2/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.19,0.0002,0.0019,0.08,rain,58.56,45.27,42.48,0.69,1015.1,0.76,3,45.36,58.56,40.0,-4.0
+Spain,,2/29/2020,Light rain in the evening and overnight.,rain,0.22,0.0015,0.0147,0.64,rain,60.13,52.52,44.79,0.76,1014.4,0.89,3,45.27,60.13,40.0,-4.0
+Spain,,3/1/2020,Possible drizzle and dangerously windy in the morning.,rain,0.25,0.0046,0.019,0.87,rain,59.07,39.66,40.03,0.63,1010.4,0.82,3,42.33,59.07,40.0,-4.0
+Spain,,3/2/2020,Windy until evening.,wind,0.28,0.0001,0.0007,0.1,rain,58.6,51.56,42.37,0.76,1019.2,0.83,3,39.66,58.6,40.0,-4.0
+Spain,,3/3/2020,Overcast throughout the day.,cloudy,0.32,0.0003,0.0012,0.06,rain,64.62,49.23,48.09,0.76,1021.2,0.9,4,51.42,64.62,40.0,-4.0
+Spain,,3/4/2020,Windy in the morning and afternoon.,wind,0.35,0.0003,0.0014,0.1,rain,62.61,40.59,44.24,0.7,1015.3,0.71,4,49.19,62.61,40.0,-4.0
+Spain,,3/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.39,0.0002,0.0008,0.05,rain,58.63,38.82,32.68,0.58,1019.9,0.55,4,40.59,58.63,40.0,-4.0
+Spain,,3/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0,0.0003,0.01,,63.78,32.61,32.41,0.52,1026.6,0.68,4,38.82,63.78,40.0,-4.0
+Spain,,3/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0001,0.0005,0.02,rain,64.98,38.17,34.28,0.63,1026.2,0.38,4,32.61,64.98,40.0,-4.0
+Spain,,3/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.5,0.0001,0.0004,0.01,rain,68.01,38.9,34.78,0.57,1026.6,0.55,4,38.17,68.01,40.0,-4.0
+Spain,,3/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0,0.0001,0.02,,74.31,43.78,36.7,0.52,1026.5,0.6,4,38.9,74.31,40.0,-4.0
+Spain,,3/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0002,0.0004,0.03,rain,79.82,49.6,43.92,0.6,1023.6,0.38,5,43.78,79.82,40.0,-4.0
+Spain,,3/11/2020,Overcast throughout the day.,cloudy,0.62,0.0002,0.0004,0.03,rain,80.71,50.08,45.42,0.55,1018.8,0.97,3,49.6,80.71,40.0,-4.0
+Spain,,3/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.66,0.001,0.011000000000000001,0.11,rain,75.28,46.39,47.11,0.6,1016.9,0.63,5,50.08,75.28,40.0,-4.0
+Spain,,3/13/2020,Clear throughout the day.,clear-day,0.69,0.0001,0.003,0.06,rain,73.9,45.96,46.24,0.65,1018.6,0.23,6,46.39,73.9,40.0,-4.0
+Spain,,3/14/2020,Light rain overnight.,rain,0.73,0.0019,0.0114,0.4,rain,70.85,39.02,45.99,0.66,1014.0,0.46,4,45.96,70.85,40.0,-4.0
+Spain,,3/15/2020,Light rain until evening.,rain,0.76,0.0153,0.0641,0.94,rain,49.42,34.89,38.33,0.81,1013.4,0.79,3,38.71,51.94,40.0,-4.0
+Spain,,3/16/2020,Mostly cloudy throughout the day.,rain,0.8,0.0019,0.0105,0.29,rain,63.38,41.23,41.38,0.78,1022.3,0.52,3,34.89,63.38,40.0,-4.0
+Spain,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0001,0.0009,0.05,rain,66.74,43.28,42.68,0.67,1024.6,0.39,6,41.23,66.74,40.0,-4.0
+Spain,,3/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.86,0.0001,0.0003,0.02,rain,65.02,43.69,42.48,0.66,1019.8,0.44,5,43.28,65.02,40.0,-4.0
+Spain,,3/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0001,0.0007,0.13,rain,63.99,44.04,43.22,0.69,1015.3,0.63,4,43.69,63.99,40.0,-4.0
+Spain,,3/20/2020,Light rain in the morning and afternoon.,rain,0.92,0.0041,0.0208,0.88,rain,53.63,37.23,42.07,0.8,1012.6,0.77,3,42.55,53.63,40.0,-4.0
+Spain,,3/21/2020,Light rain in the evening and overnight.,rain,0.95,0.0034,0.0261,0.75,rain,59.66,44.18,40.07,0.77,1012.1,0.52,4,37.23,59.66,40.0,-4.0
+Spain,,3/22/2020,Light rain until evening.,rain,0.98,0.0093,0.0229,0.93,rain,60.68,46.02,44.95,0.81,1014.5,0.84,3,44.18,60.68,40.0,-4.0
+Spain,,3/23/2020,Overcast throughout the day.,rain,0.01,0.0008,0.0037,0.35,rain,61.43,39.7,43.1,0.71,1015.5,0.84,3,46.02,61.43,40.0,-4.0
+Spain,,3/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0002,0.0006,0.08,rain,63.65,36.94,39.85,0.65,1015.3,0.4,5,39.7,63.65,40.0,-4.0
+Spain,,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0,0.0,0.0,,65.14,38.94,29.25,0.5,1010.6,0.03,6,36.94,65.14,40.0,-4.0
+Spain,,3/26/2020,Foggy in the morning.,rain,0.1,0.0012,0.0064,0.29,rain,53.0,30.59,33.65,0.67,1012.6,0.52,3,37.73,53.0,40.0,-4.0
+Spain,,3/27/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0004,0.01,rain,62.61,33.69,30.63,0.6,1017.8,0.16,6,30.59,62.61,40.0,-4.0
+Spain,,3/28/2020,Clear throughout the day.,clear-day,0.17,0.0,0.0002,0.02,,68.39,44.57,32.57,0.53,1017.9,0.28,6,33.69,68.39,40.0,-4.0
+Spain,,3/29/2020,Light rain in the evening and overnight.,rain,0.2,0.0037,0.0239,0.58,rain,52.83,36.44,34.99,0.62,1013.9,1.0,3,38.16,52.83,40.0,-4.0
+Spain,,3/30/2020,Light rain throughout the day.,rain,0.23,0.0295,0.0785,0.99,rain,53.52,41.54,42.15,0.91,1007.5,1.0,3,36.44,53.52,40.0,-4.0
+Spain,,3/31/2020,Light rain in the morning.,rain,0.26,0.0054,0.0244,0.9,rain,56.85,35.28,43.05,0.8,1011.7,0.5,4,41.54,56.85,40.0,-4.0
+Spain,,4/1/2020,Clear throughout the day.,rain,0.3,0.0012,0.0082,0.28,rain,63.39,38.87,37.92,0.7,1012.9,0.1,5,35.28,63.39,40.0,-4.0
+Spain,,4/2/2020,Clear throughout the day.,partly-cloudy-day,0.33,0.0005,0.0049,0.13,rain,66.88,37.65,35.44,0.57,1016.7,0.32,6,38.87,66.88,40.0,-4.0
+Spain,,4/3/2020,Partly cloudy throughout the day.,clear-day,0.37,0.0001,0.0002,0.03,rain,71.18,46.87,36.43,0.56,1015.7,0.3,7,37.65,71.18,40.0,-4.0
+Spain,,4/4/2020,Light rain overnight.,rain,0.41,0.0025,0.0151,0.42,rain,71.33,52.83,43.59,0.59,1016.5,0.88,4,46.87,71.33,40.0,-4.0
+Spain,,4/5/2020,Possible drizzle in the morning and overnight.,rain,0.45,0.0086,0.0437,0.84,rain,66.83,50.7,50.78,0.75,1019.2,0.96,4,52.83,66.83,40.0,-4.0
+Spain,,4/6/2020,Possible drizzle in the morning.,rain,0.49,0.0059,0.0149,0.71,rain,68.37,47.63,53.87,0.84,1023.0,0.54,6,50.7,68.37,40.0,-4.0
+Spain,,4/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.53,0.0001,0.0006,0.07,rain,73.07,51.86,50.25,0.72,1022.4,0.39,6,47.63,73.07,40.0,-4.0
+Spain,,4/8/2020,Light rain in the evening and overnight.,rain,0.57,0.0071,0.0628,0.82,rain,64.11,53.15,48.78,0.72,1019.6,0.99,4,51.86,64.11,40.0,-4.0
+Spain,,4/9/2020,Light rain in the morning and afternoon.,rain,0.6,0.0161,0.0535,0.99,rain,61.03,46.44,53.96,0.93,1020.4,0.97,4,52.26,61.03,40.0,-4.0
+Spain,,4/10/2020,Possible light rain in the evening.,rain,0.64,0.0044,0.0209,0.63,rain,68.43,49.24,50.58,0.79,1019.6,0.82,5,46.44,68.43,40.0,-4.0
+Spain,,4/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0002,0.0012,0.21,rain,69.67,46.81,42.84,0.57,1016.0,0.62,6,49.24,69.67,40.0,-4.0
+Spain,,4/12/2020,Possible light rain in the afternoon and evening.,rain,0.71,0.0068,0.0212,0.68,rain,64.05,46.84,48.11,0.74,1008.2,0.48,6,46.81,64.05,40.0,-4.0
+Spain,,4/13/2020,Possible light rain in the evening and overnight.,rain,0.74,0.0087,0.0313,0.71,rain,65.48,49.49,49.62,0.79,1010.8,0.36,5,46.84,65.48,40.0,-4.0
+Spain,,4/14/2020,Light rain until evening.,rain,0.78,0.0241,0.0886,0.94,rain,64.14,46.85,50.2,0.83,1012.7,0.62,4,49.49,64.14,40.0,-4.0
+Spain,,4/15/2020,Possible light rain in the afternoon and evening.,rain,0.81,0.0035,0.0215,0.71,rain,68.69,51.31,49.39,0.77,1015.4,0.76,4,46.85,68.69,40.0,-4.0
+Spain,,4/16/2020,Overcast throughout the day.,rain,0.84,0.0009,0.005,0.25,rain,66.92,47.29,49.44,0.72,1015.3,0.95,4,51.31,66.92,40.0,-4.0
+Spain,,4/17/2020,Overcast throughout the day.,partly-cloudy-day,0.87,0.0004,0.0024,0.12,rain,69.99,48.47,48.78,0.72,1014.5,0.87,4,47.29,69.99,40.0,-4.0
+Spain,,4/18/2020,Possible drizzle in the afternoon.,rain,0.9,0.0024,0.0066,0.57,rain,64.3,42.58,50.24,0.78,1010.6,0.84,4,48.47,64.3,40.0,-4.0
+Spain,,4/19/2020,Windy overnight.,wind,0.93,0.0001,0.0005,0.08,rain,64.28,43.43,44.99,0.72,1010.3,0.49,5,42.58,64.28,40.0,-4.0
+Spain,,4/20/2020,Overcast throughout the day.,rain,0.96,0.0018,0.0056,0.6,rain,60.16,42.73,45.73,0.81,1009.1,0.96,4,43.43,60.17,40.0,-4.0

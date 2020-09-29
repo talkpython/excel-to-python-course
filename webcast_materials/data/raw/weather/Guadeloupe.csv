@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Guadeloupe,,12/31/2019,Humid throughout the day.,clear-day,0.19,0.0003,0.0014,0.16,rain,86.66,73.21,72.17,0.78,1014.3,0.16,7,74.51,86.66,16.265,-61.551
+Guadeloupe,,1/1/2020,Humid throughout the day.,clear-day,0.22,0.0003,0.001,0.16,rain,86.73,74.25,71.57,0.77,1014.8,0.22,6,73.21,86.73,16.265,-61.551
+Guadeloupe,,1/2/2020,Possible light rain in the morning.,rain,0.25,0.0061,0.031,0.56,rain,85.99,72.32,72.17,0.79,1015.4,0.36,6,74.25,85.99,16.265,-61.551
+Guadeloupe,,1/3/2020,Possible light rain overnight.,rain,0.28,0.0043,0.0223,0.35,rain,85.34,74.1,71.76,0.8,1016.8,0.29,7,72.32,85.34,16.265,-61.551
+Guadeloupe,,1/4/2020,Possible light rain in the morning.,rain,0.31,0.0145,0.0288,0.7,rain,81.97,72.74,73.01,0.86,1016.4,0.57,6,74.1,81.97,16.265,-61.551
+Guadeloupe,,1/5/2020,Possible drizzle in the morning.,rain,0.34,0.008,0.0157,0.64,rain,82.57,72.66,72.25,0.84,1015.1,0.55,5,72.74,82.57,16.265,-61.551
+Guadeloupe,,1/6/2020,Humid and partly cloudy throughout the day.,rain,0.37,0.0011,0.0048,0.28,rain,84.2,71.03,70.55,0.78,1015.0,0.38,6,72.66,84.2,16.265,-61.551
+Guadeloupe,,1/7/2020,Humid and partly cloudy throughout the day.,rain,0.4,0.0015,0.0046,0.3,rain,85.22,73.69,70.42,0.78,1016.4,0.35,6,71.03,85.22,16.265,-61.551
+Guadeloupe,,1/8/2020,Possible light rain overnight.,rain,0.44,0.0083,0.0225,0.55,rain,85.18,74.26,71.85,0.79,1017.9,0.49,6,73.69,85.18,16.265,-61.551
+Guadeloupe,,1/9/2020,Humid and partly cloudy throughout the day.,rain,0.47,0.0073,0.0187,0.57,rain,85.15,74.84,71.03,0.76,1018.5,0.44,6,74.26,85.15,16.265,-61.551
+Guadeloupe,,1/10/2020,Partly cloudy throughout the day.,rain,0.51,0.0051,0.0183,0.39,rain,83.98,73.73,69.5,0.73,1018.5,0.43,6,74.75,83.98,16.265,-61.551
+Guadeloupe,,1/11/2020,Possible light rain in the morning and overnight.,rain,0.55,0.0241,0.0404,0.7,rain,82.94,74.69,70.95,0.79,1018.2,0.52,6,73.73,82.94,16.265,-61.551
+Guadeloupe,,1/12/2020,Possible light rain and humid throughout the day.,rain,0.58,0.0204,0.0306,0.8,rain,83.47,72.18,70.07,0.77,1018.7,0.44,6,74.69,83.47,16.265,-61.551
+Guadeloupe,,1/13/2020,Light rain throughout the day.,rain,0.62,0.0172,0.0269,0.86,rain,83.0,72.0,69.19,0.77,1018.1,0.5,6,72.08,83.0,16.265,-61.551
+Guadeloupe,,1/14/2020,Light rain and humid throughout the day.,rain,0.66,0.0279,0.0384,0.97,rain,82.42,73.36,70.3,0.81,1016.3,0.47,6,72.0,82.42,16.265,-61.551
+Guadeloupe,,1/15/2020,Light rain in the morning and afternoon.,rain,0.69,0.0177,0.0369,0.85,rain,82.14,71.59,70.16,0.79,1015.9,0.5,6,73.36,82.14,16.265,-61.551
+Guadeloupe,,1/16/2020,Partly cloudy throughout the day.,rain,0.73,0.004,0.0112,0.39,rain,84.32,72.48,69.93,0.79,1017.1,0.35,7,71.59,84.32,16.265,-61.551
+Guadeloupe,,1/17/2020,Humid and partly cloudy throughout the day.,rain,0.77,0.0037,0.0122,0.42,rain,84.11,71.43,71.11,0.81,1017.5,0.31,7,72.48,84.11,16.265,-61.551
+Guadeloupe,,1/18/2020,Possible light rain in the morning and afternoon.,rain,0.8,0.013999999999999999,0.0251,0.79,rain,81.9,72.89,71.11,0.83,1017.6,0.62,6,71.43,81.9,16.265,-61.551
+Guadeloupe,,1/19/2020,Humid and partly cloudy throughout the day.,rain,0.84,0.0013,0.0039,0.3,rain,83.7,72.77,69.65,0.77,1017.4,0.46,7,72.89,83.7,16.265,-61.551
+Guadeloupe,,1/20/2020,Clear throughout the day.,clear-day,0.87,0.0004,0.0011,0.13,rain,84.63,71.76,68.76,0.74,1016.8,0.31,7,72.77,84.63,16.265,-61.551
+Guadeloupe,,1/21/2020,Possible drizzle in the morning.,rain,0.91,0.0069,0.0127,0.63,rain,83.04,72.32,71.21,0.83,1015.0,0.63,6,71.76,83.04,16.265,-61.551
+Guadeloupe,,1/22/2020,Possible drizzle in the morning.,rain,0.94,0.0037,0.0128,0.5,rain,83.29,73.5,70.98,0.82,1013.7,0.68,6,72.32,83.29,16.265,-61.551
+Guadeloupe,,1/23/2020,Humid and partly cloudy throughout the day.,rain,0.97,0.0012,0.0027,0.27,rain,84.76,73.33,71.47,0.79,1013.0,0.44,7,73.5,84.76,16.265,-61.551
+Guadeloupe,,1/24/2020,Possible light rain in the evening and overnight.,rain,0.0,0.0089,0.0464,0.58,rain,84.74,72.17,72.63,0.84,1013.8,0.46,7,73.33,84.74,16.265,-61.551
+Guadeloupe,,1/25/2020,Humid and partly cloudy throughout the day.,rain,0.04,0.0075,0.0464,0.53,rain,85.37,72.22,71.35,0.8,1015.1,0.32,8,72.17,85.37,16.265,-61.551
+Guadeloupe,,1/26/2020,Humid and partly cloudy throughout the day.,rain,0.07,0.0045,0.0148,0.55,rain,84.48,72.11,70.85,0.79,1015.1,0.33,7,72.22,84.48,16.265,-61.551
+Guadeloupe,,1/27/2020,Clear throughout the day.,rain,0.1,0.0006,0.0076,0.3,rain,84.99,72.73,69.04,0.74,1015.7,0.15,9,72.11,84.99,16.265,-61.551
+Guadeloupe,,1/28/2020,Clear throughout the day.,clear-day,0.13,0.001,0.0071,0.15,rain,85.17,71.11,70.08,0.77,1015.2,0.25,8,72.73,85.17,16.265,-61.551
+Guadeloupe,,1/29/2020,Clear throughout the day.,clear-day,0.16,0.0004,0.002,0.13,rain,86.11,72.45,70.32,0.78,1015.6,0.15,9,71.11,86.11,16.265,-61.551
+Guadeloupe,,1/30/2020,Humid and partly cloudy throughout the day.,clear-day,0.19,0.0006,0.0022,0.19,rain,85.48,72.3,71.29,0.79,1016.2,0.29,7,72.45,85.48,16.265,-61.551
+Guadeloupe,,1/31/2020,Humid throughout the day.,clear-day,0.22,0.0002,0.0003,0.08,rain,86.13,73.18,70.69,0.77,1017.8,0.09,9,72.3,86.13,16.265,-61.551
+Guadeloupe,,2/1/2020,Humid throughout the day.,clear-day,0.25,0.0004,0.0019,0.15,rain,85.59,73.28,70.85,0.78,1017.7,0.22,9,73.18,85.59,16.265,-61.551
+Guadeloupe,,2/2/2020,Humid and partly cloudy throughout the day.,clear-day,0.28,0.001,0.0035,0.22,rain,84.6,71.73,70.91,0.78,1016.7,0.31,7,73.28,84.6,16.265,-61.551
+Guadeloupe,,2/3/2020,Partly cloudy throughout the day.,clear-day,0.31,0.0006,0.0033,0.15,rain,85.13,71.65,69.85,0.77,1018.0,0.23,8,71.73,85.13,16.265,-61.551
+Guadeloupe,,2/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.0006,0.0032,0.19,rain,84.02,72.54,69.55,0.77,1017.8,0.33,7,71.65,84.02,16.265,-61.551
+Guadeloupe,,2/5/2020,Partly cloudy throughout the day.,rain,0.38,0.0038,0.0158,0.49,rain,84.67,74.17,70.92,0.78,1017.7,0.3,8,72.54,84.67,16.265,-61.551
+Guadeloupe,,2/6/2020,Partly cloudy throughout the day.,clear-day,0.42,0.0011,0.0029,0.19,rain,85.23,73.92,70.41,0.75,1017.4,0.3,7,74.17,85.23,16.265,-61.551
+Guadeloupe,,2/7/2020,Partly cloudy throughout the day.,rain,0.45,0.0066,0.025,0.47,rain,84.85,74.3,70.45,0.76,1018.3,0.42,7,73.92,84.85,16.265,-61.551
+Guadeloupe,,2/8/2020,Humid and mostly cloudy throughout the day.,rain,0.49,0.0061,0.0237,0.51,rain,84.3,73.86,70.49,0.77,1017.6,0.52,6,74.3,84.3,16.265,-61.551
+Guadeloupe,,2/9/2020,Possible light rain in the morning.,rain,0.53,0.0107,0.0329,0.66,rain,83.37,73.19,70.96,0.79,1018.6,0.42,7,73.86,83.37,16.265,-61.551
+Guadeloupe,,2/10/2020,Possible light rain in the morning.,rain,0.57,0.0099,0.0238,0.6,rain,84.53,74.12,69.9,0.76,1018.8,0.33,8,73.19,84.53,16.265,-61.551
+Guadeloupe,,2/11/2020,Possible light rain in the morning and overnight.,rain,0.61,0.013000000000000001,0.0254,0.72,rain,83.5,73.62,70.3,0.77,1018.0,0.49,6,74.12,83.5,16.265,-61.551
+Guadeloupe,,2/12/2020,Possible light rain overnight.,rain,0.64,0.0107,0.0348,0.66,rain,84.74,73.32,70.04,0.76,1017.1,0.34,7,73.62,84.74,16.265,-61.551
+Guadeloupe,,2/13/2020,Possible light rain overnight.,rain,0.68,0.0111,0.0373,0.67,rain,83.87,73.06,69.83,0.76,1016.5,0.41,8,73.32,83.87,16.265,-61.551
+Guadeloupe,,2/14/2020,"Possible light rain until morning, starting again in the evening.",rain,0.72,0.0209,0.071,0.8,rain,83.9,73.22,70.97,0.79,1016.9,0.49,7,73.06,83.9,16.265,-61.551
+Guadeloupe,,2/15/2020,Possible light rain in the morning and afternoon.,rain,0.75,0.028999999999999998,0.0555,0.84,rain,82.61,73.34,71.94,0.82,1016.3,0.77,6,73.22,82.61,16.265,-61.551
+Guadeloupe,,2/16/2020,Humid and partly cloudy throughout the day.,rain,0.79,0.0022,0.0094,0.36,rain,83.95,73.67,71.1,0.8,1015.3,0.39,7,73.34,83.95,16.265,-61.551
+Guadeloupe,,2/17/2020,Possible light rain in the morning.,rain,0.82,0.0094,0.0323,0.5,rain,83.81,73.32,70.69,0.79,1015.6,0.33,7,73.67,83.81,16.265,-61.551
+Guadeloupe,,2/18/2020,Partly cloudy throughout the day.,rain,0.85,0.004,0.0166,0.3,rain,83.58,72.57,70.09,0.77,1016.6,0.32,8,73.32,83.58,16.265,-61.551
+Guadeloupe,,2/19/2020,Humid and partly cloudy throughout the day.,rain,0.89,0.0075,0.0167,0.52,rain,83.27,71.78,70.03,0.78,1016.3,0.49,7,72.57,83.27,16.265,-61.551
+Guadeloupe,,2/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.92,0.0014,0.0043,0.18,rain,82.72,71.01,68.43,0.76,1015.8,0.47,8,71.78,82.72,16.265,-61.551
+Guadeloupe,,2/21/2020,Clear throughout the day.,clear-day,0.95,0.0006,0.0023,0.19,rain,84.37,70.89,68.5,0.75,1015.8,0.24,9,71.01,84.37,16.265,-61.551
+Guadeloupe,,2/22/2020,Partly cloudy throughout the day.,rain,0.98,0.0052,0.0161,0.36,rain,84.74,69.91,69.49,0.78,1015.2,0.28,10,70.89,84.74,16.265,-61.551
+Guadeloupe,,2/23/2020,Clear throughout the day.,clear-day,0.01,0.0004,0.0013,0.16,rain,85.48,72.22,68.83,0.75,1015.2,0.1,10,69.91,85.48,16.265,-61.551
+Guadeloupe,,2/24/2020,Possible light rain in the evening.,rain,0.04,0.0108,0.0562,0.5,rain,85.16,73.32,72.3,0.83,1015.3,0.42,7,72.22,85.16,16.265,-61.551
+Guadeloupe,,2/25/2020,Possible drizzle in the morning.,rain,0.07,0.0048,0.0156,0.52,rain,83.73,73.47,72.33,0.83,1015.4,0.47,8,73.32,83.73,16.265,-61.551
+Guadeloupe,,2/26/2020,Humid and partly cloudy throughout the day.,rain,0.1,0.0046,0.0134,0.37,rain,84.02,70.64,71.14,0.81,1015.7,0.52,8,73.47,84.02,16.265,-61.551
+Guadeloupe,,2/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0003,0.0011,0.08,rain,83.58,71.59,68.82,0.76,1016.4,0.32,9,70.64,83.58,16.265,-61.551
+Guadeloupe,,2/28/2020,Humid and partly cloudy throughout the day.,clear-day,0.16,0.0009,0.0023,0.15,rain,84.36,70.88,69.84,0.78,1017.1,0.31,8,71.59,84.36,16.265,-61.551
+Guadeloupe,,2/29/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0033,0.0144,0.22,rain,84.48,72.71,70.22,0.79,1017.7,0.42,8,70.88,84.48,16.265,-61.551
+Guadeloupe,,3/1/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.22,0.0024,0.0062,0.23,rain,83.98,70.58,69.93,0.77,1017.3,0.38,8,72.71,83.98,16.265,-61.551
+Guadeloupe,,3/2/2020,Partly cloudy throughout the day.,clear-day,0.26,0.0007,0.0034,0.15,rain,83.31,72.08,68.62,0.76,1016.8,0.24,8,70.58,83.31,16.265,-61.551
+Guadeloupe,,3/3/2020,Partly cloudy throughout the day.,rain,0.29,0.0036,0.0187,0.33,rain,84.73,72.14,69.97,0.77,1016.8,0.36,9,72.08,84.73,16.265,-61.551
+Guadeloupe,,3/4/2020,Partly cloudy throughout the day.,rain,0.32,0.0034,0.0115,0.38,rain,84.77,71.67,70.19,0.77,1017.8,0.3,9,72.14,84.77,16.265,-61.551
+Guadeloupe,,3/5/2020,Partly cloudy throughout the day.,clear-day,0.36,0.0006,0.0025,0.14,rain,84.06,71.98,68.49,0.73,1018.9,0.31,9,71.67,84.06,16.265,-61.551
+Guadeloupe,,3/6/2020,Partly cloudy throughout the day.,rain,0.4,0.003,0.0195,0.25,rain,84.89,73.69,69.51,0.76,1017.5,0.3,9,71.98,84.89,16.265,-61.551
+Guadeloupe,,3/7/2020,Humid and partly cloudy throughout the day.,rain,0.43,0.0031,0.0064,0.29,rain,84.62,71.76,70.63,0.78,1015.3,0.47,8,73.69,84.62,16.265,-61.551
+Guadeloupe,,3/8/2020,Clear throughout the day.,clear-day,0.47,0.0005,0.0041,0.19,rain,85.35,70.51,66.99,0.69,1016.8,0.2,11,71.76,85.35,16.265,-61.551
+Guadeloupe,,3/9/2020,Partly cloudy throughout the day.,rain,0.51,0.0033,0.0175,0.26,rain,84.66,73.47,67.04,0.71,1018.5,0.42,8,70.51,84.66,16.265,-61.551
+Guadeloupe,,3/10/2020,Humid and mostly cloudy throughout the day.,rain,0.55,0.0036,0.0125,0.39,rain,84.37,73.0,69.74,0.76,1017.0,0.66,7,73.47,84.37,16.265,-61.551
+Guadeloupe,,3/11/2020,Partly cloudy throughout the day.,rain,0.59,0.0013,0.0079,0.29,rain,84.68,72.03,69.16,0.73,1014.8,0.49,8,73.0,84.68,16.265,-61.551
+Guadeloupe,,3/12/2020,Humid and partly cloudy throughout the day.,rain,0.63,0.005,0.0345,0.37,rain,84.65,73.25,70.02,0.77,1013.2,0.47,8,72.03,84.65,16.265,-61.551
+Guadeloupe,,3/13/2020,Clear throughout the day.,rain,0.67,0.0018,0.0061,0.26,rain,85.52,71.42,70.11,0.75,1014.9,0.25,10,73.25,85.52,16.265,-61.551
+Guadeloupe,,3/14/2020,Partly cloudy throughout the day.,rain,0.7,0.0075,0.0243,0.35,rain,84.75,70.77,70.01,0.78,1014.9,0.3,8,71.42,84.75,16.265,-61.551
+Guadeloupe,,3/15/2020,Partly cloudy throughout the day.,rain,0.74,0.0067,0.0172,0.55,rain,83.11,70.31,70.02,0.8,1014.5,0.32,9,70.77,83.11,16.265,-61.551
+Guadeloupe,,3/16/2020,Clear throughout the day.,clear-day,0.77,0.001,0.0083,0.18,rain,85.31,71.36,67.2,0.72,1014.7,0.21,10,70.31,85.31,16.265,-61.551
+Guadeloupe,,3/17/2020,Partly cloudy throughout the day.,clear-day,0.8,0.0014,0.006999999999999999,0.17,rain,84.54,71.99,69.03,0.75,1015.3,0.3,10,71.36,84.54,16.265,-61.551
+Guadeloupe,,3/18/2020,Humid and partly cloudy throughout the day.,rain,0.84,0.0046,0.0114,0.42,rain,84.64,72.66,70.43,0.78,1016.4,0.29,10,71.99,84.64,16.265,-61.551
+Guadeloupe,,3/19/2020,Humid and partly cloudy throughout the day.,rain,0.87,0.002,0.008,0.33,rain,84.7,72.25,70.41,0.76,1017.3,0.3,9,72.66,84.7,16.265,-61.551
+Guadeloupe,,3/20/2020,Light rain in the morning and afternoon.,rain,0.9,0.0162,0.0427,0.78,rain,82.53,71.46,69.82,0.78,1017.1,0.46,8,72.25,82.53,16.265,-61.551
+Guadeloupe,,3/21/2020,Light rain starting in the afternoon.,rain,0.93,0.0138,0.0366,0.74,rain,83.62,72.92,70.39,0.8,1016.1,0.44,8,71.46,83.62,16.265,-61.551
+Guadeloupe,,3/22/2020,Light rain until evening.,rain,0.96,0.0358,0.0799,0.98,rain,81.31,72.96,72.35,0.87,1016.8,0.59,7,72.92,81.31,16.265,-61.551
+Guadeloupe,,3/23/2020,Possible light rain and humid throughout the day.,rain,0.99,0.0196,0.0338,0.87,rain,81.01,72.49,72.12,0.86,1018.1,0.61,6,72.96,81.01,16.265,-61.551
+Guadeloupe,,3/24/2020,Light rain in the morning and afternoon.,rain,0.02,0.0174,0.0508,0.88,rain,82.29,71.57,71.72,0.84,1017.2,0.67,6,72.49,82.29,16.265,-61.551
+Guadeloupe,,3/25/2020,Partly cloudy throughout the day.,clear-day,0.05,0.0016,0.0061,0.22,rain,84.27,71.62,69.76,0.77,1015.5,0.27,10,71.57,84.27,16.265,-61.551
+Guadeloupe,,3/26/2020,Humid and partly cloudy throughout the day.,rain,0.08,0.0019,0.0069,0.25,rain,84.73,71.62,69.93,0.77,1014.0,0.25,9,71.62,84.73,16.265,-61.551
+Guadeloupe,,3/27/2020,Humid and partly cloudy throughout the day.,rain,0.11,0.0065,0.0336,0.44,rain,84.74,72.73,70.25,0.77,1012.9,0.29,8,71.62,84.74,16.265,-61.551
+Guadeloupe,,3/28/2020,Humid and partly cloudy throughout the day.,rain,0.14,0.004,0.0111,0.37,rain,84.03,73.76,71.8,0.81,1014.4,0.27,9,72.73,84.03,16.265,-61.551
+Guadeloupe,,3/29/2020,Humid and partly cloudy throughout the day.,rain,0.17,0.003,0.0117,0.31,rain,83.6,72.46,70.35,0.77,1016.4,0.33,8,73.7,83.6,16.265,-61.551
+Guadeloupe,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0005,0.0013,0.14,rain,84.42,69.96,68.29,0.73,1015.7,0.35,10,72.46,84.42,16.265,-61.551
+Guadeloupe,,3/31/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0013,0.0077,0.16,rain,82.99,70.76,68.57,0.75,1013.9,0.32,10,69.96,82.99,16.265,-61.551
+Guadeloupe,,4/1/2020,Partly cloudy throughout the day.,clear-day,0.27,0.0006,0.0029,0.14,rain,85.04,71.02,68.37,0.73,1013.6,0.27,10,70.76,85.04,16.265,-61.551
+Guadeloupe,,4/2/2020,Clear throughout the day.,clear-day,0.31,0.0002,0.0008,0.06,rain,85.38,73.08,68.76,0.73,1014.8,0.27,10,71.02,85.38,16.265,-61.551
+Guadeloupe,,4/3/2020,Humid and partly cloudy throughout the day.,rain,0.34,0.0034,0.0135,0.31,rain,86.49,73.49,72.14,0.79,1013.7,0.43,10,73.08,86.49,16.265,-61.551
+Guadeloupe,,4/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.38,0.0003,0.0006,0.08,rain,87.94,75.26,72.95,0.78,1013.0,0.41,9,73.49,87.94,16.265,-61.551
+Guadeloupe,,4/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0006,0.0021,0.11,rain,87.99,74.62,74.41,0.8,1014.2,0.53,8,75.26,87.99,16.265,-61.551
+Guadeloupe,,4/6/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.46,0.0001,0.0002,0.05,rain,88.05,75.16,74.07,0.79,1015.5,0.33,10,74.62,88.05,16.265,-61.551
+Guadeloupe,,4/7/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.5,0.0001,0.0003,0.04,rain,88.3,74.43,73.16,0.77,1015.7,0.46,8,75.16,88.3,16.265,-61.551
+Guadeloupe,,4/8/2020,Humid and partly cloudy throughout the day.,clear-day,0.54,0.0002,0.0005,0.07,rain,87.93,75.52,72.43,0.76,1014.7,0.29,10,74.43,87.93,16.265,-61.551
+Guadeloupe,,4/9/2020,Humid and partly cloudy throughout the day.,clear-day,0.58,0.0002,0.0005,0.08,rain,87.67,74.15,72.16,0.75,1014.2,0.29,10,75.52,87.67,16.265,-61.551
+Guadeloupe,,4/10/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0002,0.0007,0.06,rain,87.52,75.21,72.8,0.77,1014.8,0.39,8,74.15,87.52,16.265,-61.551
+Guadeloupe,,4/11/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0002,0.0007,0.08,rain,87.6,75.68,72.42,0.76,1016.4,0.41,9,75.21,87.6,16.265,-61.551
+Guadeloupe,,4/12/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0004,0.0018,0.09,rain,88.03,75.93,72.22,0.75,1017.6,0.5,8,75.68,88.03,16.265,-61.551
+Guadeloupe,,4/13/2020,Possible light rain overnight.,rain,0.72,0.0044,0.0134,0.26,rain,86.45,74.64,72.69,0.77,1017.0,0.44,8,75.93,86.45,16.265,-61.551
+Guadeloupe,,4/14/2020,Possible light rain in the morning.,rain,0.75,0.016,0.0217,0.78,rain,85.92,73.8,72.72,0.79,1015.4,0.39,8,74.64,85.92,16.265,-61.551
+Guadeloupe,,4/15/2020,Humid and partly cloudy throughout the day.,rain,0.78,0.0062,0.0131,0.5,rain,85.66,74.18,71.57,0.77,1015.0,0.3,9,73.8,85.66,16.265,-61.551
+Guadeloupe,,4/16/2020,Humid and partly cloudy throughout the day.,rain,0.82,0.0046,0.0119,0.44,rain,86.34,74.03,71.35,0.76,1016.7,0.42,9,74.18,86.34,16.265,-61.551
+Guadeloupe,,4/17/2020,Humid and partly cloudy throughout the day.,rain,0.85,0.0048,0.0156,0.43,rain,86.64,74.43,71.94,0.76,1017.7,0.39,9,74.03,86.64,16.265,-61.551
+Guadeloupe,,4/18/2020,Possible light rain in the morning.,rain,0.88,0.0064,0.0241,0.51,rain,87.04,74.49,72.45,0.77,1017.1,0.35,10,74.43,87.04,16.265,-61.551
+Guadeloupe,,4/19/2020,Possible light rain in the morning.,rain,0.91,0.0087,0.0194,0.61,rain,85.54,74.09,72.51,0.78,1016.7,0.42,9,74.49,85.54,16.265,-61.551
+Guadeloupe,,4/20/2020,Clear throughout the day.,clear-day,0.94,0.0018,0.0085,0.18,rain,85.18,74.9,70.16,0.72,1016.8,0.23,10,74.09,85.18,16.265,-61.551

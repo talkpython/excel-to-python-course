@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Argentina,,12/31/2019,Partly cloudy throughout the day.,rain,0.18,0.0008,0.0144,0.25,rain,84.42,61.78,62.76,0.74,1014.0,0.27,11,64.77,84.42,-38.4161,-63.6167
+Argentina,,1/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0007,0.06,rain,85.4,61.1,58.92,0.66,1017.3,0.42,9,61.78,85.4,-38.4161,-63.6167
+Argentina,,1/2/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.05,rain,90.84,66.17,52.21,0.49,1017.2,0.15,10,61.1,90.84,-38.4161,-63.6167
+Argentina,,1/3/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0003,0.04,rain,96.15,73.85,56.21,0.48,1015.7,0.0,13,66.17,96.15,-38.4161,-63.6167
+Argentina,,1/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.31,0.0016,0.0085,0.2,rain,88.06,59.69,60.02,0.53,1010.7,0.48,11,67.34,88.06,-38.4161,-63.6167
+Argentina,,1/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.34,0.0034,0.0353,0.15,rain,88.22,58.34,53.71,0.59,1003.7,0.5,6,59.69,88.22,-38.4161,-63.6167
+Argentina,,1/6/2020,Clear throughout the day.,clear-day,0.37,0.0,0.0002,0.02,,78.46,59.01,37.98,0.4,1004.8,0.26,10,58.34,78.46,-38.4161,-63.6167
+Argentina,,1/7/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0002,0.06,rain,90.23,65.12,34.11,0.25,1003.7,0.05,12,59.01,90.23,-38.4161,-63.6167
+Argentina,,1/8/2020,Mostly cloudy throughout the day.,rain,0.44,0.0039,0.0213,0.26,rain,85.87,58.4,49.94,0.42,1001.8,0.59,6,65.12,85.87,-38.4161,-63.6167
+Argentina,,1/9/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0001,0.01,,84.12,60.76,30.51,0.23,1008.6,0.09,11,58.4,84.12,-38.4161,-63.6167
+Argentina,,1/10/2020,Clear throughout the day.,clear-day,0.51,0.0002,0.0005,0.04,rain,82.73,57.01,33.44,0.27,1011.9,0.08,12,60.76,82.73,-38.4161,-63.6167
+Argentina,,1/11/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0004,0.05,rain,93.35,59.79,34.91,0.24,1010.0,0.0,12,57.01,93.35,-38.4161,-63.6167
+Argentina,,1/12/2020,Clear throughout the day.,clear-day,0.58,0.0001,0.0003,0.09,rain,94.1,67.81,45.97,0.33,1014.3,0.01,12,59.79,94.1,-38.4161,-63.6167
+Argentina,,1/13/2020,Mostly cloudy throughout the day.,rain,0.62,0.0045,0.0172,0.46,rain,80.56,66.82,56.16,0.54,1011.8,0.8,6,67.76,81.06,-38.4161,-63.6167
+Argentina,,1/14/2020,Clear throughout the day.,clear-day,0.66,0.0,0.0001,0.01,,98.59,62.25,45.86,0.44,1003.6,0.16,12,66.82,98.59,-38.4161,-63.6167
+Argentina,,1/15/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0002,0.03,,75.86,49.78,14.6,0.13,1009.3,0.04,12,61.16,79.25,-38.4161,-63.6167
+Argentina,,1/16/2020,Clear throughout the day.,clear-day,0.73,0.0,0.0003,0.04,,80.34,51.4,17.68,0.18,1019.0,0.02,11,49.78,80.34,-38.4161,-63.6167
+Argentina,,1/17/2020,Clear throughout the day.,clear-day,0.77,0.0001,0.0005,0.06,rain,90.97,65.66,26.14,0.23,1016.7,0.0,12,51.4,90.97,-38.4161,-63.6167
+Argentina,,1/18/2020,Clear throughout the day.,clear-day,0.8,0.0,0.0002,0.02,,98.3,71.6,47.8,0.35,1011.4,0.01,13,65.66,98.3,-38.4161,-63.6167
+Argentina,,1/19/2020,Clear throughout the day.,clear-day,0.84,0.0,0.0002,0.02,,103.7,69.36,49.69,0.32,1007.9,0.31,13,71.6,103.7,-38.4161,-63.6167
+Argentina,,1/20/2020,Possible light rain overnight.,rain,0.87,0.0056,0.0528,0.39,rain,96.01,63.43,54.01,0.44,1010.2,0.65,11,66.68,96.01,-38.4161,-63.6167
+Argentina,,1/21/2020,Clear throughout the day.,rain,0.9,0.0052,0.0544,0.33,rain,93.08,63.41,51.98,0.51,1013.1,0.2,12,63.43,93.08,-38.4161,-63.6167
+Argentina,,1/22/2020,Clear throughout the day.,clear-day,0.94,0.0,0.0003,0.05,,99.02,72.19,52.33,0.45,1013.7,0.03,12,63.41,99.02,-38.4161,-63.6167
+Argentina,,1/23/2020,Clear throughout the day.,clear-day,0.97,0.0018,0.0158,0.11,rain,100.93,69.47,59.62,0.42,1008.7,0.09,12,72.19,100.93,-38.4161,-63.6167
+Argentina,,1/24/2020,Clear throughout the day.,clear-day,0.0,0.0001,0.0004,0.08,rain,91.49,67.47,46.99,0.36,1009.1,0.11,12,69.47,91.49,-38.4161,-63.6167
+Argentina,,1/25/2020,Clear throughout the day.,clear-day,0.03,0.0001,0.0004,0.03,rain,90.84,66.27,38.23,0.25,1008.7,0.25,12,67.47,90.84,-38.4161,-63.6167
+Argentina,,1/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.05,rain,85.84,50.88,38.87,0.29,1010.1,0.53,11,64.59,85.84,-38.4161,-63.6167
+Argentina,,1/27/2020,Windy overnight.,clear-day,0.1,0.0001,0.0004,0.06,rain,88.2,68.06,34.74,0.38,1016.0,0.08,12,50.88,88.2,-38.4161,-63.6167
+Argentina,,1/28/2020,Windy in the morning.,wind,0.13,0.0006,0.0033,0.17,rain,93.15,56.18,47.0,0.33,1004.7,0.58,10,68.06,93.15,-38.4161,-63.6167
+Argentina,,1/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0001,0.0003,0.08,rain,83.06,55.82,40.2,0.43,1012.6,0.53,9,56.18,83.06,-38.4161,-63.6167
+Argentina,,1/30/2020,Clear throughout the day.,clear-day,0.19,0.0001,0.0003,0.06,rain,94.24,69.03,30.88,0.31,1011.9,0.06,11,55.82,94.24,-38.4161,-63.6167
+Argentina,,1/31/2020,Clear throughout the day.,clear-day,0.22,0.0001,0.0003,0.09,rain,96.37,66.09,40.39,0.27,1008.3,0.08,9,69.03,96.37,-38.4161,-63.6167
+Argentina,,2/1/2020,Clear throughout the day.,clear-day,0.25,0.0014,0.0077,0.1,rain,103.13,68.41,51.54,0.38,1005.3,0.12,11,66.09,103.13,-38.4161,-63.6167
+Argentina,,2/2/2020,Clear throughout the day.,clear-day,0.28,0.0,0.0002,0.03,,94.3,67.72,43.41,0.31,1011.6,0.17,12,68.41,94.3,-38.4161,-63.6167
+Argentina,,2/3/2020,Partly cloudy throughout the day.,rain,0.31,0.0115,0.0594,0.5,rain,96.67,67.84,61.14,0.52,1007.4,0.33,10,67.72,96.67,-38.4161,-63.6167
+Argentina,,2/4/2020,Rain in the morning and afternoon.,rain,0.34,0.0613,0.20600000000000002,0.87,rain,79.18,58.72,64.65,0.84,1009.1,0.84,5,64.43,79.18,-38.4161,-63.6167
+Argentina,,2/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.38,0.0002,0.0011,0.15,rain,85.46,65.66,52.39,0.56,1012.1,0.58,7,58.72,85.46,-38.4161,-63.6167
+Argentina,,2/6/2020,Mostly cloudy throughout the day.,rain,0.41,0.0031,0.0148,0.55,rain,78.57,59.59,66.34,0.85,1013.5,0.76,8,65.66,78.57,-38.4161,-63.6167
+Argentina,,2/7/2020,Clear throughout the day.,clear-day,0.45,0.0001,0.0003,0.08,rain,84.54,62.6,57.2,0.65,1018.6,0.04,12,59.59,84.54,-38.4161,-63.6167
+Argentina,,2/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0001,0.0003,0.07,rain,81.23,51.85,57.83,0.67,1020.0,0.54,6,62.45,81.23,-38.4161,-63.6167
+Argentina,,2/9/2020,Clear throughout the day.,clear-day,0.53,0.0001,0.0003,0.06,rain,81.11,53.69,47.47,0.58,1022.9,0.0,11,51.85,81.11,-38.4161,-63.6167
+Argentina,,2/10/2020,Partly cloudy throughout the day.,clear-day,0.57,0.0001,0.0004,0.06,rain,87.22,61.78,43.8,0.44,1020.5,0.24,10,53.69,87.22,-38.4161,-63.6167
+Argentina,,2/11/2020,Clear throughout the day.,clear-day,0.6,0.0,0.0002,0.02,,89.77,68.98,42.69,0.36,1017.0,0.0,11,61.78,89.77,-38.4161,-63.6167
+Argentina,,2/12/2020,Light rain overnight.,rain,0.64,0.0032,0.0522,0.34,rain,96.7,62.95,53.11,0.4,1009.3,0.05,11,68.98,96.7,-38.4161,-63.6167
+Argentina,,2/13/2020,Possible light rain in the morning.,rain,0.68,0.0167,0.0947,0.82,rain,79.07,56.16,61.62,0.76,1010.7,0.67,7,62.95,79.07,-38.4161,-63.6167
+Argentina,,2/14/2020,Clear throughout the day.,clear-day,0.72,0.0002,0.0005,0.11,rain,89.18,62.47,42.48,0.48,1008.9,0.0,10,56.16,89.18,-38.4161,-63.6167
+Argentina,,2/15/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.04,rain,95.61,62.66,30.55,0.19,1004.2,0.0,10,62.47,95.61,-38.4161,-63.6167
+Argentina,,2/16/2020,Clear throughout the day.,clear-day,0.79,0.0001,0.0003,0.04,rain,93.06,65.44,35.22,0.22,1004.2,0.05,9,62.66,93.06,-38.4161,-63.6167
+Argentina,,2/17/2020,Possible light rain in the morning.,rain,0.82,0.0044,0.0158,0.55,rain,79.98,52.0,52.19,0.52,1005.0,0.44,5,64.13,79.98,-38.4161,-63.6167
+Argentina,,2/18/2020,Clear throughout the day.,clear-day,0.85,0.0002,0.0005,0.07,rain,86.66,64.87,34.29,0.39,1011.3,0.0,10,52.0,86.66,-38.4161,-63.6167
+Argentina,,2/19/2020,Clear throughout the day.,clear-day,0.89,0.0,0.0001,0.02,,78.04,46.21,29.15,0.23,1010.0,0.02,10,59.0,78.04,-38.4161,-63.6167
+Argentina,,2/20/2020,Clear throughout the day.,clear-day,0.92,0.0001,0.0004,0.05,rain,76.13,46.56,27.69,0.35,1021.9,0.0,10,46.21,76.13,-38.4161,-63.6167
+Argentina,,2/21/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.06,rain,76.4,45.8,40.62,0.53,1027.6,0.0,10,46.56,76.4,-38.4161,-63.6167
+Argentina,,2/22/2020,Clear throughout the day.,clear-day,0.98,0.0002,0.0004,0.04,rain,84.37,56.41,39.81,0.49,1023.0,0.0,10,45.8,84.37,-38.4161,-63.6167
+Argentina,,2/23/2020,Windy overnight.,wind,0.01,0.0001,0.0003,0.03,rain,91.92,65.1,47.48,0.41,1011.2,0.01,10,56.41,91.92,-38.4161,-63.6167
+Argentina,,2/24/2020,Partly cloudy throughout the day.,rain,0.04,0.0046,0.0409,0.25,rain,81.35,52.18,39.5,0.36,1004.8,0.39,8,60.72,81.35,-38.4161,-63.6167
+Argentina,,2/25/2020,Partly cloudy throughout the day.,clear-day,0.07,0.0001,0.0005,0.04,rain,80.96,52.33,36.68,0.37,1011.1,0.23,7,52.18,80.96,-38.4161,-63.6167
+Argentina,,2/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0004,0.04,rain,91.82,57.78,36.05,0.38,1013.5,0.14,9,52.33,91.82,-38.4161,-63.6167
+Argentina,,2/27/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0005,0.02,rain,95.13,59.3,33.34,0.25,1009.7,0.2,9,57.78,95.13,-38.4161,-63.6167
+Argentina,,2/28/2020,Clear throughout the day.,clear-day,0.16,0.0001,0.0003,0.05,rain,94.23,59.84,43.78,0.4,1013.6,0.24,7,59.3,94.23,-38.4161,-63.6167
+Argentina,,2/29/2020,Clear throughout the day.,clear-day,0.19,0.0001,0.0003,0.03,rain,96.0,64.65,51.06,0.44,1016.4,0.0,9,59.84,96.0,-38.4161,-63.6167
+Argentina,,3/1/2020,Windy overnight.,clear-day,0.22,0.0,0.0003,0.02,,103.38,74.25,49.98,0.38,1013.8,0.06,9,64.65,103.38,-38.4161,-63.6167
+Argentina,,3/2/2020,Clear throughout the day.,wind,0.26,0.0001,0.0003,0.06,rain,99.94,75.41,46.43,0.27,1013.3,0.17,9,74.25,99.94,-38.4161,-63.6167
+Argentina,,3/3/2020,Clear throughout the day.,clear-day,0.29,0.0,0.0003,0.04,,99.95,69.53,48.8,0.3,1012.6,0.05,9,75.41,99.95,-38.4161,-63.6167
+Argentina,,3/4/2020,Clear throughout the day.,clear-day,0.32,0.0,0.0003,0.02,,98.48,71.4,43.03,0.27,1014.1,0.01,10,69.53,98.48,-38.4161,-63.6167
+Argentina,,3/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.36,0.0001,0.0004,0.05,rain,94.9,65.74,50.51,0.34,1014.6,0.59,8,71.4,94.9,-38.4161,-63.6167
+Argentina,,3/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.39,0.0001,0.0005,0.07,rain,96.67,73.62,58.41,0.5,1011.7,0.68,6,65.74,96.67,-38.4161,-63.6167
+Argentina,,3/7/2020,Overcast throughout the day.,rain,0.43,0.0075,0.0393,0.26,rain,93.91,61.72,52.24,0.4,1006.3,0.83,6,71.13,93.91,-38.4161,-63.6167
+Argentina,,3/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.0,0.0003,0.02,,86.86,54.26,25.93,0.18,1010.3,0.56,5,61.72,86.86,-38.4161,-63.6167
+Argentina,,3/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.51,0.0002,0.0004,0.06,rain,87.25,58.91,40.58,0.43,1018.1,0.53,6,54.26,87.25,-38.4161,-63.6167
+Argentina,,3/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.55,0.0001,0.0015,0.03,rain,87.61,64.0,50.71,0.47,1016.2,0.65,5,58.91,87.61,-38.4161,-63.6167
+Argentina,,3/11/2020,Mostly cloudy throughout the day.,rain,0.59,0.0025,0.009000000000000001,0.39,rain,86.7,61.41,63.66,0.74,1009.4,0.45,5,64.0,86.7,-38.4161,-63.6167
+Argentina,,3/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.63,0.001,0.0062,0.11,rain,91.99,70.44,59.91,0.64,1009.5,0.45,5,61.41,91.99,-38.4161,-63.6167
+Argentina,,3/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.66,0.0012,0.0055,0.15,rain,92.35,57.27,64.52,0.63,1008.5,0.49,9,70.44,92.35,-38.4161,-63.6167
+Argentina,,3/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.7,0.0001,0.0004,0.01,rain,79.2,50.44,30.3,0.26,1017.4,0.34,8,57.27,79.2,-38.4161,-63.6167
+Argentina,,3/15/2020,Clear throughout the day.,clear-day,0.74,0.0001,0.0004,0.03,rain,81.66,53.19,42.36,0.52,1020.2,0.06,8,50.44,81.66,-38.4161,-63.6167
+Argentina,,3/16/2020,Clear throughout the day.,clear-day,0.77,0.0,0.0,0.0,,85.54,66.51,47.01,0.47,1013.1,0.09,8,53.19,85.54,-38.4161,-63.6167
+Argentina,,3/17/2020,Possible light rain in the evening.,rain,0.8,0.0113,0.0478,0.53,rain,78.67,58.92,62.85,0.77,1012.4,0.82,5,62.77,78.67,-38.4161,-63.6167
+Argentina,,3/18/2020,Possible drizzle in the morning.,rain,0.83,0.0042,0.0116,0.6,rain,75.02,54.39,56.68,0.78,1015.1,0.32,5,58.92,75.02,-38.4161,-63.6167
+Argentina,,3/19/2020,Clear throughout the day.,clear-day,0.87,0.0001,0.0003,0.02,rain,82.4,51.75,44.35,0.5,1013.2,0.0,8,54.39,82.4,-38.4161,-63.6167
+Argentina,,3/20/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0002,0.01,rain,92.12,61.37,39.14,0.46,1010.7,0.0,7,51.75,92.12,-38.4161,-63.6167
+Argentina,,3/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0026,0.0202,0.06,rain,94.99,63.42,48.33,0.4,1006.7,0.41,5,61.37,94.99,-38.4161,-63.6167
+Argentina,,3/22/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.96,0.0002,0.0013,0.03,rain,92.54,71.12,57.17,0.55,1011.4,0.78,5,63.42,92.54,-38.4161,-63.6167
+Argentina,,3/23/2020,Clear throughout the day.,clear-day,0.99,0.0001,0.0005,0.03,rain,95.34,66.98,56.15,0.43,1010.0,0.19,7,71.12,95.34,-38.4161,-63.6167
+Argentina,,3/24/2020,Clear throughout the day.,clear-day,0.02,0.0006,0.0043,0.05,rain,88.42,60.9,53.33,0.49,1012.3,0.26,7,66.98,88.42,-38.4161,-63.6167
+Argentina,,3/25/2020,Clear throughout the day.,clear-day,0.05,0.0004,0.0034,0.05,rain,82.23,49.06,52.04,0.57,1019.5,0.2,7,60.55,82.23,-38.4161,-63.6167
+Argentina,,3/26/2020,Clear throughout the day.,clear-day,0.08,0.0002,0.0004,0.05,rain,82.09,61.56,49.4,0.64,1018.0,0.0,7,49.06,82.09,-38.4161,-63.6167
+Argentina,,3/27/2020,Clear throughout the day.,clear-day,0.11,0.0001,0.0003,0.05,rain,88.63,65.36,60.14,0.67,1010.1,0.06,7,61.56,88.63,-38.4161,-63.6167
+Argentina,,3/28/2020,Clear throughout the day.,clear-day,0.14,0.0003,0.0042,0.05,rain,89.58,59.4,61.1,0.63,1009.7,0.0,7,65.36,89.58,-38.4161,-63.6167
+Argentina,,3/29/2020,Possible drizzle overnight.,rain,0.17,0.0036,0.0139,0.36,rain,77.94,58.69,56.28,0.73,1017.1,0.44,5,59.4,77.94,-38.4161,-63.6167
+Argentina,,3/30/2020,Light rain in the morning and afternoon.,rain,0.2,0.0111,0.0247,0.94,rain,67.96,49.61,56.46,0.84,1020.7,0.94,4,58.57,67.96,-38.4161,-63.6167
+Argentina,,3/31/2020,Light rain starting in the afternoon.,rain,0.24,0.013000000000000001,0.06,0.95,rain,72.6,58.91,53.91,0.83,1020.6,0.56,6,49.61,72.6,-38.4161,-63.6167
+Argentina,,4/1/2020,Mostly cloudy throughout the day.,rain,0.27,0.0021,0.0168,0.65,rain,75.74,50.06,54.38,0.74,1017.4,0.64,4,58.91,75.74,-38.4161,-63.6167
+Argentina,,4/2/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0003,0.01,rain,74.7,46.42,42.21,0.56,1024.3,0.0,6,50.06,74.7,-38.4161,-63.6167
+Argentina,,4/3/2020,Clear throughout the day.,clear-day,0.34,0.0,0.0,0.0,,75.98,56.58,42.5,0.55,1015.4,0.0,7,46.42,75.98,-38.4161,-63.6167
+Argentina,,4/4/2020,Clear throughout the day.,clear-day,0.38,0.0001,0.0002,0.01,rain,74.64,51.88,42.06,0.49,1009.8,0.05,6,55.84,74.64,-38.4161,-63.6167
+Argentina,,4/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.42,0.0002,0.0025,0.02,rain,77.42,47.42,40.63,0.55,1009.5,0.41,5,51.88,77.42,-38.4161,-63.6167
+Argentina,,4/6/2020,Clear throughout the day.,clear-day,0.46,0.0,0.0002,0.01,,66.68,38.32,23.54,0.32,1023.2,0.05,5,47.01,66.68,-38.4161,-63.6167
+Argentina,,4/7/2020,Clear throughout the day.,clear-day,0.5,0.0,0.0,0.0,,71.5,40.24,20.15,0.32,1025.5,0.05,5,38.32,71.5,-38.4161,-63.6167
+Argentina,,4/8/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0004,0.01,rain,76.8,51.26,28.26,0.37,1024.1,0.0,6,40.24,76.8,-38.4161,-63.6167
+Argentina,,4/9/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0004,0.02,rain,78.6,53.61,42.21,0.5,1021.4,0.0,6,51.26,78.6,-38.4161,-63.6167
+Argentina,,4/10/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0004,0.01,rain,80.31,57.48,44.86,0.5,1017.4,0.0,6,53.61,80.31,-38.4161,-63.6167
+Argentina,,4/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.65,0.0013,0.0078,0.1,rain,76.21,55.95,50.83,0.6,1014.3,0.64,4,57.48,76.21,-38.4161,-63.6167
+Argentina,,4/12/2020,Light rain until evening.,rain,0.68,0.0133,0.043,0.93,rain,67.15,50.66,56.07,0.85,1016.6,1.0,3,55.95,67.15,-38.4161,-63.6167
+Argentina,,4/13/2020,Clear throughout the day.,rain,0.72,0.0004,0.0031,0.26,rain,72.71,44.07,46.04,0.68,1018.1,0.4,5,50.66,72.71,-38.4161,-63.6167
+Argentina,,4/14/2020,Clear throughout the day.,clear-day,0.75,0.0,0.0001,0.01,,73.22,45.35,36.56,0.51,1017.8,0.0,5,44.07,73.22,-38.4161,-63.6167
+Argentina,,4/15/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.08,rain,75.97,57.97,40.05,0.53,1018.7,0.3,5,45.35,75.97,-38.4161,-63.6167
+Argentina,,4/16/2020,Clear throughout the day.,partly-cloudy-day,0.81,0.0,0.0002,0.02,,81.93,59.49,44.77,0.45,1019.9,0.48,5,57.97,81.93,-38.4161,-63.6167
+Argentina,,4/17/2020,Clear throughout the day.,clear-day,0.84,0.0001,0.0003,0.01,rain,86.13,62.66,51.88,0.53,1018.7,0.21,5,59.49,86.13,-38.4161,-63.6167
+Argentina,,4/18/2020,Windy overnight.,wind,0.88,0.0,0.0,0.0,,86.3,61.99,50.01,0.45,1014.1,0.64,4,62.66,86.3,-38.4161,-63.6167
+Argentina,,4/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.91,0.0001,0.0003,0.05,rain,81.71,52.18,35.48,0.33,1014.7,0.64,4,61.32,81.71,-38.4161,-63.6167
+Argentina,,4/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0001,0.0004,0.04,rain,74.1,43.89,33.32,0.35,1018.0,0.78,3,52.18,74.1,-38.4161,-63.6167

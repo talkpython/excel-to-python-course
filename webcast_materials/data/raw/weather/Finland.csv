@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Finland,,12/31/2019,Possible light rain starting in the afternoon.,snow,0.21,0.0043,0.0216,0.65,snow,38.56,37.04,28.29,0.89,999.3,0.68,0,25.82,39.48,64.0,26.0
+Finland,,1/1/2020,Overcast throughout the day.,rain,0.24,0.0004,0.0059,0.5,rain,41.97,37.03,34.09,0.83,992.2,0.91,0,37.01,41.97,64.0,26.0
+Finland,,1/2/2020,Light rain in the afternoon and evening.,rain,0.27,0.0064,0.0308,0.81,rain,39.85,28.47,32.88,0.86,981.4,0.96,0,29.67,39.85,64.0,26.0
+Finland,,1/3/2020,Foggy throughout the day.,snow,0.3,0.0055,0.0165,0.39,snow,32.86,17.07,24.39,0.8,980.5,0.86,0,27.78,32.86,64.0,26.0
+Finland,,1/4/2020,Foggy overnight.,partly-cloudy-day,0.33,0.0003,0.0064,0.24,snow,23.68,22.69,16.16,0.79,1011.7,0.42,0,16.79,28.35,64.0,26.0
+Finland,,1/5/2020,Foggy in the morning.,partly-cloudy-day,0.36,0.0009,0.0049,0.13,snow,32.98,29.06,26.48,0.87,1006.8,0.8,0,24.87,32.98,64.0,26.0
+Finland,,1/6/2020,Overcast throughout the day.,cloudy,0.39,0.0005,0.0021,0.19,rain,38.52,34.66,33.37,0.93,1004.6,0.99,0,32.05,38.52,64.0,26.0
+Finland,,1/7/2020,Light rain until evening.,rain,0.43,0.0126,0.0375,0.84,rain,39.57,32.21,34.34,0.91,989.3,0.98,0,33.55,39.57,64.0,26.0
+Finland,,1/8/2020,Partly cloudy throughout the day.,snow,0.46,0.0005,0.0046,0.32,snow,35.81,28.21,26.72,0.77,993.5,0.33,0,31.26,35.81,64.0,26.0
+Finland,,1/9/2020,Clear throughout the day.,partly-cloudy-day,0.5,0.0001,0.0003,0.07,snow,29.58,25.0,24.59,0.84,1006.0,0.32,0,26.01,31.83,64.0,26.0
+Finland,,1/10/2020,Light rain overnight.,snow,0.54,0.0017,0.0078,0.3,snow,33.92,31.82,24.25,0.84,1005.2,0.73,0,24.91,37.95,64.0,26.0
+Finland,,1/11/2020,Possible light rain in the morning.,rain,0.57,0.0055,0.027999999999999997,0.78,rain,37.28,27.26,30.9,0.86,988.0,0.59,0,30.53,38.13,64.0,26.0
+Finland,,1/12/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0004,0.06,snow,30.88,28.9,25.96,0.85,996.3,0.23,0,27.07,32.42,64.0,26.0
+Finland,,1/13/2020,Light rain in the evening and overnight.,rain,0.65,0.0037,0.0256,0.71,rain,34.63,33.64,27.49,0.84,997.4,0.89,0,28.9,36.26,64.0,26.0
+Finland,,1/14/2020,Possible light rain starting in the afternoon.,rain,0.69,0.0108,0.0266,0.89,rain,37.26,32.82,32.99,0.91,988.2,0.97,0,33.22,38.15,64.0,26.0
+Finland,,1/15/2020,Possible drizzle in the morning.,rain,0.72,0.0022,0.0083,0.51,rain,34.19,31.53,30.25,0.9,998.2,0.92,0,30.3,35.95,64.0,26.0
+Finland,,1/16/2020,Light rain in the evening and overnight.,rain,0.76,0.0026,0.0229,0.7,rain,35.34,33.26,30.42,0.87,1009.5,0.72,0,32.57,35.49,64.0,26.0
+Finland,,1/17/2020,"Light rain until afternoon, starting again overnight.",rain,0.79,0.004,0.0139,0.76,rain,38.75,31.32,33.44,0.93,1005.8,1.0,0,32.59,38.75,64.0,26.0
+Finland,,1/18/2020,Light rain in the morning.,rain,0.83,0.006,0.0188,0.83,rain,33.66,24.26,28.29,0.91,1009.6,0.99,0,25.97,36.5,64.0,26.0
+Finland,,1/19/2020,Light rain in the evening and overnight.,rain,0.86,0.004,0.0322,0.76,rain,38.73,36.91,29.45,0.86,1011.4,0.96,0,24.26,43.49,64.0,26.0
+Finland,,1/20/2020,Windy in the morning.,rain,0.9,0.0008,0.0042,0.39,rain,39.34,26.63,29.4,0.74,996.3,0.57,0,31.17,44.81,64.0,26.0
+Finland,,1/21/2020,Clear throughout the day.,partly-cloudy-day,0.93,0.0002,0.0005,0.19,snow,30.0,20.77,21.05,0.76,1003.3,0.32,0,24.44,31.79,64.0,26.0
+Finland,,1/22/2020,Possible light rain (with a chance of 1–2 in. of snow) in the evening and overnight.,snow,0.96,0.0074,0.0379,0.51,snow,30.69,29.7,22.17,0.84,1005.7,0.66,0,20.42,37.0,64.0,26.0
+Finland,,1/23/2020,Foggy overnight.,rain,1.0,0.0007,0.0092,0.37,rain,31.42,26.32,26.8,0.84,992.2,0.43,0,27.97,37.44,64.0,26.0
+Finland,,1/24/2020,Foggy in the morning.,snow,0.03,0.0009,0.0067,0.27,snow,28.01,20.44,21.53,0.82,994.3,0.48,0,22.46,30.95,64.0,26.0
+Finland,,1/25/2020,Foggy in the morning.,cloudy,0.06,0.0004,0.0023,0.16,snow,25.72,7.61,14.69,0.82,1003.9,0.93,0,10.73,25.72,64.0,26.0
+Finland,,1/26/2020,Foggy starting in the afternoon.,cloudy,0.09,0.0029,0.0101,0.18,snow,16.68,15.69,7.17,0.76,1012.8,0.99,0,7.61,17.47,64.0,26.0
+Finland,,1/27/2020,Foggy throughout the day.,snow,0.12,0.0073,0.0257,0.49,snow,22.96,21.88,15.62,0.82,1003.5,1.0,0,16.83,23.14,64.0,26.0
+Finland,,1/28/2020,Foggy throughout the day.,cloudy,0.15,0.0008,0.0025,0.18,snow,27.33,23.43,20.15,0.85,1003.3,1.0,0,21.92,27.63,64.0,26.0
+Finland,,1/29/2020,Foggy throughout the day.,snow,0.18,0.0022,0.0078,0.3,snow,25.47,21.83,19.81,0.82,1004.7,1.0,0,23.31,26.29,64.0,26.0
+Finland,,1/30/2020,Foggy throughout the day.,fog,0.21,0.0007,0.002,0.24,snow,23.31,17.49,17.04,0.82,1002.4,1.0,0,19.08,24.6,64.0,26.0
+Finland,,1/31/2020,Foggy throughout the day.,snow,0.24,0.0041,0.0215,0.38,snow,26.6,25.61,17.81,0.82,992.1,1.0,0,17.49,27.04,64.0,26.0
+Finland,,2/1/2020,Possible light snow (1–2 in.) in the morning and afternoon.,snow,0.27,0.0086,0.023,0.64,snow,34.78,17.7,25.21,0.87,976.1,1.0,0,20.65,34.78,64.0,26.0
+Finland,,2/2/2020,Foggy in the morning.,snow,0.3,0.0011,0.0047,0.29,snow,27.75,11.78,17.28,0.81,987.3,0.81,0,17.7,27.75,64.0,26.0
+Finland,,2/3/2020,Clear throughout the day.,clear-day,0.34,0.0002,0.0005,0.15,snow,18.58,12.18,9.89,0.82,1000.9,0.02,0,11.78,18.58,64.0,26.0
+Finland,,2/4/2020,Foggy in the afternoon and evening.,snow,0.37,0.0036,0.0256,0.32,snow,28.48,11.05,16.24,0.81,1000.6,0.61,0,14.32,28.48,64.0,26.0
+Finland,,2/5/2020,Clear throughout the day.,clear-day,0.41,0.0001,0.0004,0.03,snow,24.97,7.01,11.93,0.76,1008.4,0.18,0,11.05,24.97,64.0,26.0
+Finland,,2/6/2020,Foggy starting in the afternoon.,snow,0.44,0.0034,0.0158,0.28,snow,28.49,21.62,14.68,0.85,1017.9,0.69,0,7.01,30.02,64.0,26.0
+Finland,,2/7/2020,Foggy in the morning.,partly-cloudy-day,0.48,0.0003,0.0009,0.16,snow,34.35,31.31,26.67,0.9,1011.0,0.74,0,21.62,34.82,64.0,26.0
+Finland,,2/8/2020,Possible light rain and windy overnight.,rain,0.52,0.0012,0.0119,0.39,rain,36.91,34.38,30.58,0.86,994.9,0.94,0,31.31,36.91,64.0,26.0
+Finland,,2/9/2020,Light rain throughout the day.,rain,0.56,0.0131,0.024,0.92,rain,40.26,34.05,34.88,0.9,960.1,1.0,0,36.03,40.26,64.0,26.0
+Finland,,2/10/2020,Possible drizzle in the morning.,rain,0.6,0.0045,0.0153,0.66,rain,37.4,30.79,31.01,0.85,962.6,1.0,0,32.99,37.72,64.0,26.0
+Finland,,2/11/2020,Foggy overnight.,snow,0.63,0.0007,0.0031,0.4,snow,37.66,31.19,29.52,0.84,978.7,1.0,0,30.79,37.66,64.0,26.0
+Finland,,2/12/2020,Possible light snow (< 1 in.) until evening.,snow,0.67,0.0039,0.0082,0.79,snow,37.02,25.85,30.37,0.89,991.1,0.99,0,29.97,37.02,64.0,26.0
+Finland,,2/13/2020,Foggy in the morning.,partly-cloudy-day,0.71,0.0008,0.0027,0.2,snow,29.6,24.04,22.98,0.83,1007.2,0.6,0,25.01,30.66,64.0,26.0
+Finland,,2/14/2020,Possible light snow (< 1 in.) in the afternoon and evening.,snow,0.74,0.0043,0.0153,0.75,snow,34.0,30.39,25.7,0.85,1007.0,0.85,0,24.04,34.01,64.0,26.0
+Finland,,2/15/2020,Light rain starting in the afternoon.,rain,0.78,0.0077,0.0224,0.77,rain,37.23,35.84,31.68,0.88,991.0,0.85,0,30.39,42.01,64.0,26.0
+Finland,,2/16/2020,"Possible drizzle until afternoon, starting again overnight.",rain,0.81,0.0034,0.0145,0.85,rain,37.53,35.16,33.14,0.85,972.6,0.9,0,34.83,42.64,64.0,26.0
+Finland,,2/17/2020,Light rain in the morning.,rain,0.85,0.0048,0.024,0.81,rain,38.95,30.35,32.44,0.87,979.2,0.95,0,31.45,38.95,64.0,26.0
+Finland,,2/18/2020,Overcast throughout the day.,cloudy,0.88,0.0008,0.0022,0.24,snow,32.88,15.71,25.38,0.81,992.2,0.95,0,24.16,34.41,64.0,26.0
+Finland,,2/19/2020,Clear throughout the day.,partly-cloudy-day,0.91,0.0002,0.0007,0.12,snow,24.89,23.33,13.57,0.71,1009.7,0.42,0,15.71,26.1,64.0,26.0
+Finland,,2/20/2020,Light rain throughout the day.,snow,0.94,0.0064,0.0173,0.83,snow,36.86,33.39,29.3,0.85,994.9,0.98,0,25.72,36.87,64.0,26.0
+Finland,,2/21/2020,Light rain throughout the day.,rain,0.97,0.013999999999999999,0.05,0.88,rain,41.08,32.03,33.64,0.88,979.1,0.95,0,33.42,41.08,64.0,26.0
+Finland,,2/22/2020,Possible light rain in the morning and afternoon.,rain,0.0,0.0059,0.0269,0.75,rain,36.89,28.85,29.52,0.84,969.0,0.89,0,32.03,36.89,64.0,26.0
+Finland,,2/23/2020,Possible light snow (1–3 in.) in the afternoon and evening.,snow,0.03,0.0116,0.0269,0.59,snow,32.7,18.64,25.1,0.79,983.6,0.76,0,27.7,32.88,64.0,26.0
+Finland,,2/24/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.07,0.0006,0.0027,0.18,snow,31.78,12.4,19.88,0.79,995.7,0.45,1,18.64,31.78,64.0,26.0
+Finland,,2/25/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.001,0.08,snow,26.5,10.65,13.51,0.79,998.8,0.15,1,12.4,26.5,64.0,26.0
+Finland,,2/26/2020,Clear throughout the day.,clear-day,0.13,0.0001,0.0003,0.02,snow,28.67,5.61,11.16,0.75,1002.5,0.0,1,10.65,28.67,64.0,26.0
+Finland,,2/27/2020,Clear throughout the day.,clear-day,0.16,0.0001,0.0003,0.05,snow,26.97,6.55,8.12,0.74,1003.3,0.04,1,5.61,26.97,64.0,26.0
+Finland,,2/28/2020,Foggy overnight.,partly-cloudy-day,0.19,0.0,0.0003,0.04,,25.06,15.7,8.73,0.76,998.4,0.72,1,6.55,25.06,64.0,26.0
+Finland,,2/29/2020,Foggy in the evening and overnight.,snow,0.22,0.0023,0.0093,0.27,snow,27.37,16.27,18.39,0.83,990.7,0.72,1,18.08,27.37,64.0,26.0
+Finland,,3/1/2020,Overcast throughout the day.,snow,0.25,0.0016,0.0097,0.25,snow,24.28,14.96,15.38,0.81,996.5,0.9,1,16.27,24.28,64.0,26.0
+Finland,,3/2/2020,Overcast throughout the day.,cloudy,0.28,0.0003,0.002,0.13,snow,27.23,15.96,15.09,0.78,1014.7,0.93,1,14.96,27.23,64.0,26.0
+Finland,,3/3/2020,Foggy in the evening and overnight.,partly-cloudy-day,0.32,0.002,0.0192,0.21,snow,29.48,26.08,16.61,0.76,1018.9,0.77,1,15.96,29.48,64.0,26.0
+Finland,,3/4/2020,Foggy in the morning and overnight.,snow,0.35,0.0036,0.0161,0.62,snow,36.79,25.16,28.44,0.86,1000.1,0.99,1,26.59,36.79,64.0,26.0
+Finland,,3/5/2020,Foggy in the morning.,snow,0.39,0.0013,0.0042,0.33,snow,29.91,23.6,22.52,0.81,999.1,0.84,1,24.63,31.66,64.0,26.0
+Finland,,3/6/2020,Clear throughout the day.,clear-day,0.42,0.0001,0.0003,0.09,snow,38.93,19.39,24.82,0.83,1009.7,0.26,1,23.6,38.93,64.0,26.0
+Finland,,3/7/2020,Possible drizzle in the evening.,snow,0.46,0.0014,0.0088,0.47,snow,38.51,34.42,25.21,0.83,1008.4,0.78,1,19.39,38.51,64.0,26.0
+Finland,,3/8/2020,Overcast throughout the day.,rain,0.5,0.0017,0.006999999999999999,0.49,rain,41.3,35.29,33.82,0.85,1001.5,1.0,1,34.7,41.3,64.0,26.0
+Finland,,3/9/2020,Possible drizzle starting in the afternoon.,rain,0.54,0.0014,0.0055,0.63,rain,40.52,30.73,33.95,0.88,998.2,1.0,1,34.11,40.52,64.0,26.0
+Finland,,3/10/2020,Possible drizzle until evening.,rain,0.58,0.0018,0.0074,0.74,rain,38.59,31.87,31.46,0.89,990.0,0.99,1,30.73,38.59,64.0,26.0
+Finland,,3/11/2020,Possible light snow (< 1 in.) until evening.,snow,0.62,0.0035,0.0114,0.78,snow,37.06,29.34,31.83,0.92,978.4,1.0,1,31.87,37.06,64.0,26.0
+Finland,,3/12/2020,Foggy until evening.,snow,0.66,0.0029,0.0093,0.44,snow,31.18,17.16,21.5,0.79,983.7,0.93,1,18.81,33.46,64.0,26.0
+Finland,,3/13/2020,Clear throughout the day.,clear-day,0.69,0.0001,0.0004,0.07,snow,25.17,13.72,10.0,0.65,1006.8,0.16,1,13.76,25.17,64.0,26.0
+Finland,,3/14/2020,Light rain in the evening and overnight.,snow,0.73,0.0048,0.0258,0.74,snow,36.47,31.65,22.15,0.79,1004.0,0.71,1,14.01,36.47,64.0,26.0
+Finland,,3/15/2020,Possible drizzle in the morning.,rain,0.76,0.0036,0.0204,0.87,rain,34.04,25.04,24.32,0.73,1001.9,0.63,1,25.99,37.58,64.0,26.0
+Finland,,3/16/2020,Light snow (1–2 in.) in the afternoon and evening.,snow,0.8,0.0096,0.0332,0.76,snow,34.47,32.76,22.54,0.72,1007.3,0.9,1,25.04,38.05,64.0,26.0
+Finland,,3/17/2020,Clear throughout the day.,clear-day,0.83,0.0002,0.0024,0.21,rain,42.65,26.04,28.57,0.76,999.5,0.28,1,27.78,42.65,64.0,26.0
+Finland,,3/18/2020,Clear throughout the day.,snow,0.86,0.0004,0.0032,0.27,snow,41.2,14.78,25.91,0.78,1004.3,0.2,1,26.04,41.2,64.0,26.0
+Finland,,3/19/2020,Clear throughout the day.,clear-day,0.89,0.0001,0.0006,0.05,snow,31.45,16.76,12.93,0.67,1021.6,0.25,1,14.78,31.45,64.0,26.0
+Finland,,3/20/2020,Clear throughout the day.,clear-day,0.92,0.0003,0.0016,0.19,snow,32.21,12.01,14.11,0.71,1030.5,0.29,1,15.3,32.21,64.0,26.0
+Finland,,3/21/2020,Clear throughout the day.,clear-day,0.95,0.0001,0.0004,0.04,snow,35.17,26.71,11.49,0.6,1036.1,0.1,1,12.01,35.17,64.0,26.0
+Finland,,3/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.98,0.0001,0.0004,0.02,snow,40.8,30.74,23.07,0.67,1030.1,0.65,1,26.71,40.8,64.0,26.0
+Finland,,3/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.01,0.0001,0.0003,0.03,snow,45.11,35.15,26.13,0.65,1018.3,0.78,1,30.74,45.11,64.0,26.0
+Finland,,3/24/2020,Overcast throughout the day.,cloudy,0.04,0.0002,0.0004,0.09,rain,49.65,29.65,31.19,0.67,1010.3,0.96,1,35.15,49.65,64.0,26.0
+Finland,,3/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0004,0.09,rain,44.05,29.98,28.64,0.74,1023.6,0.33,1,29.65,44.05,64.0,26.0
+Finland,,3/26/2020,Clear throughout the day.,clear-day,0.1,0.0002,0.0022,0.17,snow,48.41,33.46,32.19,0.79,1023.5,0.17,2,30.23,48.41,64.0,26.0
+Finland,,3/27/2020,Partly cloudy throughout the day.,rain,0.13,0.0004,0.0023,0.26,rain,39.0,21.43,22.69,0.65,1013.6,0.62,1,25.07,39.3,64.0,26.0
+Finland,,3/28/2020,Clear throughout the day.,clear-day,0.16,0.001,0.0068,0.16,snow,31.87,13.64,12.41,0.57,1018.0,0.12,1,19.68,31.87,64.0,26.0
+Finland,,3/29/2020,Clear throughout the day.,clear-day,0.19,0.0003,0.001,0.14,snow,32.8,18.11,11.42,0.63,1022.2,0.15,2,13.64,32.8,64.0,26.0
+Finland,,3/30/2020,Snow (1–3 in.) in the afternoon and evening.,snow,0.23,0.0112,0.0438,0.72,snow,34.75,28.23,18.72,0.74,1008.1,0.74,2,18.11,35.34,64.0,26.0
+Finland,,3/31/2020,Foggy in the morning.,snow,0.26,0.0005,0.0014,0.27,snow,33.37,15.98,22.77,0.77,992.4,0.89,2,22.11,33.37,64.0,26.0
+Finland,,4/1/2020,Possible light snow (< 1 in.) in the afternoon.,snow,0.3,0.0029,0.0175,0.48,snow,32.78,27.95,20.35,0.81,986.2,0.66,1,15.98,32.78,64.0,26.0
+Finland,,4/2/2020,Snow (1–4 in.) in the morning.,snow,0.33,0.0113,0.0466,0.81,snow,33.6,18.92,25.43,0.83,976.5,0.98,2,26.16,33.6,64.0,26.0
+Finland,,4/3/2020,Mostly cloudy throughout the day.,snow,0.37,0.0008,0.0056,0.38,snow,35.58,21.71,21.44,0.78,1002.3,0.58,2,18.92,35.58,64.0,26.0
+Finland,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0006,0.0035,0.07,snow,34.23,19.5,16.77,0.67,1021.3,0.05,3,21.71,34.23,64.0,26.0
+Finland,,4/5/2020,Foggy in the afternoon.,cloudy,0.45,0.0001,0.0011,0.11,snow,36.72,32.19,21.23,0.74,1027.6,0.89,3,19.5,36.72,64.0,26.0
+Finland,,4/6/2020,Overcast throughout the day.,cloudy,0.49,0.0,0.0002,0.01,,48.6,29.8,33.08,0.81,1016.1,0.94,2,32.19,48.6,64.0,26.0
+Finland,,4/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0002,0.0061,0.09,rain,48.17,32.05,31.5,0.75,1012.9,0.66,2,29.8,48.17,64.0,26.0
+Finland,,4/8/2020,Mostly cloudy throughout the day.,rain,0.56,0.001,0.0103,0.37,rain,41.31,19.21,29.69,0.79,1003.8,0.71,3,26.73,41.31,64.0,26.0
+Finland,,4/9/2020,Mostly cloudy throughout the day.,snow,0.6,0.0007,0.0036,0.28,snow,38.9,24.32,20.38,0.7,1014.1,0.47,3,19.21,38.9,64.0,26.0
+Finland,,4/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.64,0.0003,0.0017,0.18,snow,40.11,21.12,21.0,0.69,1017.8,0.43,4,23.98,40.11,64.0,26.0
+Finland,,4/11/2020,Light rain starting in the afternoon.,rain,0.68,0.0146,0.043,0.88,rain,35.51,31.01,25.43,0.8,1002.5,0.97,3,21.12,40.31,64.0,26.0
+Finland,,4/12/2020,Possible light snow (< 1 in.) in the afternoon and evening.,rain,0.71,0.0052,0.0269,0.77,rain,39.37,26.09,30.26,0.84,985.8,0.83,2,28.11,40.57,64.0,26.0
+Finland,,4/13/2020,Possible light snow (< 1 in.) in the morning.,snow,0.74,0.0014,0.005,0.48,snow,39.99,25.33,26.83,0.8,996.6,0.15,3,26.09,39.99,64.0,26.0
+Finland,,4/14/2020,Possible light snow (< 1 in.) in the evening.,snow,0.78,0.0017,0.009000000000000001,0.39,snow,39.95,27.7,27.0,0.82,995.1,0.8,2,25.33,39.95,64.0,26.0
+Finland,,4/15/2020,Mostly cloudy throughout the day.,snow,0.81,0.0022,0.0123,0.44,snow,42.26,29.96,29.79,0.86,994.0,0.8,2,27.7,42.26,64.0,26.0
+Finland,,4/16/2020,Possible flurries (< 1 in.) in the afternoon.,snow,0.84,0.0029,0.0067,0.66,snow,38.01,31.89,28.74,0.83,999.3,0.95,2,29.96,38.01,64.0,26.0
+Finland,,4/17/2020,Foggy in the afternoon and evening.,rain,0.87,0.0014,0.0051,0.47,rain,38.78,27.97,29.73,0.8,1009.7,0.8,3,31.89,38.78,64.0,26.0
+Finland,,4/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0005,0.05,snow,46.88,32.09,30.66,0.78,1018.6,0.75,2,27.97,46.88,64.0,26.0
+Finland,,4/19/2020,Foggy in the morning.,cloudy,0.93,0.0002,0.0006,0.19,snow,49.29,27.93,35.18,0.84,1024.0,0.95,2,32.09,49.29,64.0,26.0
+Finland,,4/20/2020,Clear throughout the day.,partly-cloudy-day,0.96,0.0001,0.0005,0.06,snow,53.86,24.6,32.36,0.73,1029.9,0.35,3,27.93,53.86,64.0,26.0

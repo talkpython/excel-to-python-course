@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Singapore,,12/31/2019,Humid and partly cloudy throughout the day.,rain,0.2,0.0004,0.0017,0.3,rain,89.17,76.9,74.19,0.76,1012.7,0.63,9,77.7,89.17,1.2833,103.8333
+Singapore,,1/1/2020,Possible light rain in the afternoon and evening.,rain,0.23,0.0051,0.0369,0.47,rain,86.72,78.13,75.94,0.84,1013.2,0.95,6,76.9,86.72,1.2833,103.8333
+Singapore,,1/2/2020,Possible light rain in the afternoon.,rain,0.26,0.0045,0.0213,0.49,rain,87.99,77.13,76.05,0.82,1012.0,0.92,6,78.13,87.99,1.2833,103.8333
+Singapore,,1/3/2020,Humid and overcast throughout the day.,rain,0.29,0.0013,0.0035,0.43,rain,87.72,76.7,75.23,0.8,1010.3,0.81,7,77.13,87.72,1.2833,103.8333
+Singapore,,1/4/2020,Possible light rain overnight.,rain,0.32,0.0025,0.0344,0.35,rain,88.87,76.9,74.64,0.79,1010.6,0.54,9,76.7,88.87,1.2833,103.8333
+Singapore,,1/5/2020,Possible light rain in the afternoon and evening.,rain,0.35,0.0126,0.0472,0.79,rain,88.16,76.14,74.55,0.8,1010.7,0.61,7,77.16,88.16,1.2833,103.8333
+Singapore,,1/6/2020,Possible light rain until evening.,rain,0.39,0.005,0.0162,0.75,rain,85.62,77.07,74.84,0.84,1010.4,0.97,6,76.13,85.62,1.2833,103.8333
+Singapore,,1/7/2020,Possible drizzle in the afternoon.,rain,0.42,0.0027,0.0137,0.59,rain,88.6,77.24,75.22,0.8,1009.6,0.97,6,77.13,88.6,1.2833,103.8333
+Singapore,,1/8/2020,Possible drizzle and humid throughout the day.,rain,0.45,0.0048,0.0149,0.7,rain,88.61,77.18,75.28,0.81,1009.3,0.94,6,77.24,88.61,1.2833,103.8333
+Singapore,,1/9/2020,Light rain until evening.,rain,0.49,0.0169,0.0495,0.92,rain,88.36,77.52,75.05,0.81,1009.3,0.95,6,77.18,88.36,1.2833,103.8333
+Singapore,,1/10/2020,Possible drizzle in the morning and afternoon.,rain,0.53,0.0027,0.0084,0.73,rain,87.84,76.99,74.4,0.79,1010.0,0.97,6,77.52,87.84,1.2833,103.8333
+Singapore,,1/11/2020,Humid and overcast throughout the day.,rain,0.56,0.0024,0.0121,0.53,rain,88.26,76.61,74.01,0.78,1009.8,0.96,6,76.99,88.26,1.2833,103.8333
+Singapore,,1/12/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.0006,0.0033,0.21,rain,89.65,76.93,73.69,0.76,1009.1,0.71,8,76.61,89.65,1.2833,103.8333
+Singapore,,1/13/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.0003,0.0021,0.07,rain,90.53,77.34,73.85,0.75,1009.8,0.7,8,76.93,90.53,1.2833,103.8333
+Singapore,,1/14/2020,Humid and mostly cloudy throughout the day.,rain,0.68,0.0024,0.0081,0.58,rain,88.44,77.18,74.68,0.79,1010.3,0.82,7,77.34,88.44,1.2833,103.8333
+Singapore,,1/15/2020,Possible light rain in the afternoon.,rain,0.71,0.0047,0.0321,0.71,rain,88.75,76.78,74.77,0.79,1010.8,0.89,6,77.18,88.75,1.2833,103.8333
+Singapore,,1/16/2020,Humid and partly cloudy throughout the day.,rain,0.75,0.0003,0.0023,0.29,rain,90.32,77.26,74.21,0.76,1011.1,0.61,11,76.78,90.32,1.2833,103.8333
+Singapore,,1/17/2020,Possible drizzle in the afternoon and evening.,rain,0.79,0.0044,0.0152,0.67,rain,89.4,77.45,75.63,0.81,1010.8,0.83,7,77.26,89.4,1.2833,103.8333
+Singapore,,1/18/2020,Humid and mostly cloudy throughout the day.,rain,0.82,0.0026,0.0103,0.61,rain,89.62,77.86,75.81,0.81,1011.0,0.63,9,77.45,89.62,1.2833,103.8333
+Singapore,,1/19/2020,Possible drizzle and humid throughout the day.,rain,0.86,0.0057,0.013999999999999999,0.83,rain,89.12,76.85,75.59,0.8,1011.5,0.81,8,77.86,89.12,1.2833,103.8333
+Singapore,,1/20/2020,Possible light rain in the morning and afternoon.,rain,0.89,0.0208,0.0856,0.86,rain,84.92,77.12,76.82,0.87,1012.4,0.89,7,76.85,84.92,1.2833,103.8333
+Singapore,,1/21/2020,Humid and partly cloudy throughout the day.,rain,0.92,0.0009,0.0032,0.36,rain,88.83,77.37,75.83,0.81,1012.1,0.51,10,77.12,88.83,1.2833,103.8333
+Singapore,,1/22/2020,Humid and partly cloudy throughout the day.,rain,0.96,0.0016,0.004,0.33,rain,89.62,77.45,75.45,0.79,1010.9,0.39,11,77.37,89.62,1.2833,103.8333
+Singapore,,1/23/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.99,0.0001,0.0005,0.08,rain,90.08,76.46,73.13,0.73,1011.0,0.34,10,77.45,90.08,1.2833,103.8333
+Singapore,,1/24/2020,Humid throughout the day.,partly-cloudy-day,0.02,0.0001,0.0002,0.12,rain,90.19,77.48,73.18,0.74,1010.8,0.36,11,76.46,90.19,1.2833,103.8333
+Singapore,,1/25/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.05,0.0008,0.0085,0.2,rain,89.93,78.43,74.87,0.77,1009.8,0.49,9,77.48,89.93,1.2833,103.8333
+Singapore,,1/26/2020,Humid and mostly cloudy throughout the day.,rain,0.08,0.004,0.0149,0.57,rain,88.99,78.33,75.73,0.8,1009.6,0.82,7,78.43,88.99,1.2833,103.8333
+Singapore,,1/27/2020,Possible light rain and humid throughout the day.,rain,0.11,0.0099,0.0402,0.82,rain,89.42,77.35,76.38,0.81,1009.9,0.59,9,78.33,89.42,1.2833,103.8333
+Singapore,,1/28/2020,Rain and humid throughout the day.,rain,0.14,0.0721,0.2314,0.96,rain,84.74,76.63,76.01,0.88,1011.6,0.97,6,77.29,84.74,1.2833,103.8333
+Singapore,,1/29/2020,Humid and mostly cloudy throughout the day.,rain,0.17,0.0029,0.0218,0.56,rain,88.4,78.13,74.52,0.8,1010.8,0.82,6,76.63,88.4,1.2833,103.8333
+Singapore,,1/30/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0001,0.0003,0.14,rain,88.96,78.33,74.17,0.75,1010.9,0.52,9,78.13,88.96,1.2833,103.8333
+Singapore,,1/31/2020,Humid and mostly cloudy throughout the day.,rain,0.23,0.0011,0.0083,0.29,rain,88.95,77.08,74.94,0.77,1011.0,0.66,10,78.33,88.95,1.2833,103.8333
+Singapore,,2/1/2020,Possible light rain in the morning.,rain,0.26,0.0045,0.0173,0.59,rain,87.99,78.07,74.74,0.79,1011.7,0.79,6,77.08,87.99,1.2833,103.8333
+Singapore,,2/2/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0001,0.0002,0.09,rain,89.38,76.72,73.13,0.73,1012.1,0.77,6,78.07,89.38,1.2833,103.8333
+Singapore,,2/3/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.33,0.0002,0.001,0.14,rain,89.32,76.28,72.34,0.72,1011.4,0.73,8,76.72,89.32,1.2833,103.8333
+Singapore,,2/4/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.36,0.0006,0.0035,0.2,rain,89.17,77.85,73.23,0.75,1010.7,0.76,6,76.28,89.17,1.2833,103.8333
+Singapore,,2/5/2020,Humid and overcast throughout the day.,rain,0.4,0.0007,0.0043,0.29,rain,90.18,78.48,73.82,0.74,1010.9,0.9,6,77.85,90.18,1.2833,103.8333
+Singapore,,2/6/2020,Humid and mostly cloudy throughout the day.,rain,0.43,0.0014,0.0133,0.33,rain,89.63,76.82,73.31,0.72,1011.5,0.7,7,78.48,89.63,1.2833,103.8333
+Singapore,,2/7/2020,Humid and overcast throughout the day.,cloudy,0.47,0.0001,0.0006,0.11,rain,89.51,76.79,71.82,0.71,1012.0,0.94,6,76.82,89.51,1.2833,103.8333
+Singapore,,2/8/2020,Rain starting in the afternoon.,rain,0.51,0.0555,0.2634,0.94,rain,84.8,76.03,75.19,0.85,1011.7,0.93,6,76.79,84.8,1.2833,103.8333
+Singapore,,2/9/2020,Light rain until evening.,rain,0.55,0.0242,0.0667,0.99,rain,87.0,77.7,75.81,0.85,1011.0,0.79,7,76.03,87.0,1.2833,103.8333
+Singapore,,2/10/2020,Light rain and humid throughout the day.,rain,0.59,0.0281,0.0882,0.87,rain,86.46,77.92,76.69,0.86,1011.5,0.74,6,77.7,86.46,1.2833,103.8333
+Singapore,,2/11/2020,Light rain in the morning and afternoon.,rain,0.62,0.0141,0.0404,0.88,rain,88.2,78.32,76.7,0.83,1012.0,0.98,6,77.92,88.2,1.2833,103.8333
+Singapore,,2/12/2020,Humid and mostly cloudy throughout the day.,rain,0.66,0.0036,0.0152,0.43,rain,90.56,77.91,76.43,0.8,1011.2,0.79,6,78.32,90.56,1.2833,103.8333
+Singapore,,2/13/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.7,0.0001,0.0003,0.14,rain,90.08,77.5,76.09,0.8,1010.2,0.39,11,77.91,90.08,1.2833,103.8333
+Singapore,,2/14/2020,Humid throughout the day.,clear-day,0.74,0.0006,0.0048,0.23,rain,89.63,77.62,74.6,0.77,1011.5,0.31,12,77.5,89.63,1.2833,103.8333
+Singapore,,2/15/2020,Humid and mostly cloudy throughout the day.,rain,0.77,0.0041,0.0174,0.37,rain,88.79,77.17,75.29,0.79,1012.1,0.65,6,77.62,88.79,1.2833,103.8333
+Singapore,,2/16/2020,Humid and mostly cloudy throughout the day.,rain,0.8,0.0007,0.0099,0.26,rain,90.37,77.56,74.4,0.76,1012.5,0.66,7,77.17,90.37,1.2833,103.8333
+Singapore,,2/17/2020,Light rain until evening.,rain,0.84,0.0144,0.0387,0.85,rain,86.67,77.96,75.16,0.81,1012.3,0.2,12,77.56,86.67,1.2833,103.8333
+Singapore,,2/18/2020,Possible light rain in the afternoon.,rain,0.87,0.006,0.0395,0.57,rain,89.42,76.89,74.56,0.76,1012.2,0.31,12,77.96,89.42,1.2833,103.8333
+Singapore,,2/19/2020,Humid and mostly cloudy throughout the day.,rain,0.9,0.0018,0.0074,0.31,rain,89.54,76.82,74.7,0.78,1011.9,0.57,11,76.89,89.54,1.2833,103.8333
+Singapore,,2/20/2020,Possible light rain in the morning and afternoon.,rain,0.93,0.0083,0.031,0.71,rain,88.21,76.48,75.43,0.82,1012.5,0.38,7,76.82,88.21,1.2833,103.8333
+Singapore,,2/21/2020,Humid and partly cloudy throughout the day.,rain,0.97,0.0013,0.0051,0.3,rain,87.96,77.24,74.5,0.79,1013.2,0.3,9,76.48,87.96,1.2833,103.8333
+Singapore,,2/22/2020,Possible light rain overnight.,rain,1.0,0.0036,0.0151,0.54,rain,88.96,77.15,74.58,0.78,1012.1,0.12,12,77.24,88.96,1.2833,103.8333
+Singapore,,2/23/2020,Possible light rain until evening.,rain,0.03,0.019,0.0921,0.89,rain,86.69,77.76,75.85,0.84,1011.0,0.35,12,77.15,86.69,1.2833,103.8333
+Singapore,,2/24/2020,Humid and mostly cloudy throughout the day.,rain,0.06,0.0013,0.0097,0.31,rain,89.43,77.91,74.69,0.77,1010.6,0.7,9,77.76,89.43,1.2833,103.8333
+Singapore,,2/25/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.09,0.0004,0.0028,0.15,rain,90.73,78.33,74.91,0.76,1010.5,0.61,8,77.91,90.73,1.2833,103.8333
+Singapore,,2/26/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.12,0.0004,0.0025,0.11,rain,90.6,78.4,74.54,0.75,1010.1,0.71,7,78.33,90.6,1.2833,103.8333
+Singapore,,2/27/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.15,0.0009,0.0066,0.15,rain,90.53,77.32,74.6,0.75,1009.4,0.64,11,78.4,90.53,1.2833,103.8333
+Singapore,,2/28/2020,Humid and partly cloudy throughout the day.,clear-day,0.18,0.0,0.0003,0.02,,91.81,76.85,73.15,0.72,1009.3,0.3,9,77.32,91.81,1.2833,103.8333
+Singapore,,2/29/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0005,0.0033,0.09,rain,91.79,76.97,73.7,0.73,1010.0,0.71,8,76.85,91.79,1.2833,103.8333
+Singapore,,3/1/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0002,0.0016,0.06,rain,91.21,78.36,74.77,0.76,1009.6,0.61,11,76.97,91.21,1.2833,103.8333
+Singapore,,3/2/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.27,0.0023,0.0115,0.19,rain,90.43,78.07,75.35,0.76,1009.9,0.78,8,78.36,90.43,1.2833,103.8333
+Singapore,,3/3/2020,Humid and mostly cloudy throughout the day.,rain,0.31,0.0025,0.0151,0.35,rain,90.0,78.94,75.71,0.77,1010.0,0.74,7,78.07,90.0,1.2833,103.8333
+Singapore,,3/4/2020,Rain and humid throughout the day.,rain,0.34,0.0677,0.2412,0.97,rain,86.2,78.3,76.38,0.85,1011.0,0.97,6,78.77,86.2,1.2833,103.8333
+Singapore,,3/5/2020,Possible drizzle in the morning.,rain,0.38,0.0028,0.0127,0.58,rain,89.06,78.51,75.87,0.8,1011.4,0.86,6,78.3,89.06,1.2833,103.8333
+Singapore,,3/6/2020,Light rain in the afternoon and evening.,rain,0.42,0.0135,0.0549,0.72,rain,89.67,78.46,76.5,0.82,1011.8,0.69,10,78.51,89.67,1.2833,103.8333
+Singapore,,3/7/2020,Humid and overcast throughout the day.,rain,0.45,0.0007,0.003,0.26,rain,89.3,78.02,75.94,0.79,1010.7,0.84,6,78.46,89.3,1.2833,103.8333
+Singapore,,3/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.49,0.0041,0.031,0.24,rain,89.95,78.71,75.81,0.79,1009.3,0.57,10,78.02,89.95,1.2833,103.8333
+Singapore,,3/9/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.53,0.0031,0.0227,0.23,rain,90.29,79.18,76.75,0.8,1008.8,0.79,6,78.71,90.29,1.2833,103.8333
+Singapore,,3/10/2020,Humid throughout the day.,rain,0.57,0.0105,0.049,0.45,rain,90.01,78.4,76.97,0.8,1009.5,0.28,14,79.18,90.01,1.2833,103.8333
+Singapore,,3/11/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0015,0.0098,0.17,rain,91.31,77.84,75.74,0.77,1011.2,0.49,8,78.4,91.31,1.2833,103.8333
+Singapore,,3/12/2020,Humid throughout the day.,clear-day,0.65,0.0019,0.0124,0.2,rain,90.77,79.39,75.61,0.77,1011.5,0.24,13,77.84,90.77,1.2833,103.8333
+Singapore,,3/13/2020,Humid and mostly cloudy throughout the day.,rain,0.68,0.0003,0.0016,0.28,rain,90.81,79.89,76.44,0.77,1010.4,0.61,7,79.39,90.81,1.2833,103.8333
+Singapore,,3/14/2020,Possible light rain in the afternoon and evening.,rain,0.72,0.0057,0.0245,0.67,rain,91.47,79.2,76.46,0.76,1009.7,0.7,8,79.89,91.47,1.2833,103.8333
+Singapore,,3/15/2020,Possible light rain in the morning and afternoon.,rain,0.75,0.0082,0.0467,0.81,rain,90.53,79.0,76.05,0.76,1010.8,0.47,12,79.2,90.53,1.2833,103.8333
+Singapore,,3/16/2020,Humid throughout the day.,clear-day,0.79,0.0002,0.0007,0.14,rain,90.97,78.59,74.11,0.72,1011.5,0.22,13,79.0,90.97,1.2833,103.8333
+Singapore,,3/17/2020,Possible light rain in the evening.,rain,0.82,0.0114,0.054000000000000006,0.54,rain,90.42,78.19,75.16,0.76,1010.5,0.51,7,78.59,90.42,1.2833,103.8333
+Singapore,,3/18/2020,Humid and overcast throughout the day.,rain,0.85,0.0032,0.0207,0.39,rain,89.81,78.19,73.88,0.75,1010.8,0.92,6,78.19,89.81,1.2833,103.8333
+Singapore,,3/19/2020,Possible light rain in the afternoon.,rain,0.88,0.0104,0.0645,0.52,rain,88.7,79.06,74.44,0.76,1011.3,0.93,6,78.19,88.7,1.2833,103.8333
+Singapore,,3/20/2020,Possible light rain starting in the afternoon.,rain,0.91,0.012,0.0536,0.76,rain,88.99,78.39,75.59,0.78,1011.2,0.51,13,79.06,88.99,1.2833,103.8333
+Singapore,,3/21/2020,Rain until evening.,rain,0.94,0.0426,0.1391,0.97,rain,89.13,77.61,76.56,0.82,1010.7,0.67,7,78.39,89.13,1.2833,103.8333
+Singapore,,3/22/2020,Light rain in the morning and afternoon.,rain,0.97,0.0211,0.0838,0.93,rain,86.12,77.84,75.84,0.83,1010.4,0.94,6,77.61,86.12,1.2833,103.8333
+Singapore,,3/23/2020,Humid and mostly cloudy throughout the day.,rain,0.0,0.0068,0.0355,0.36,rain,89.79,78.65,75.91,0.79,1009.1,0.56,6,77.84,89.79,1.2833,103.8333
+Singapore,,3/24/2020,Humid throughout the day.,rain,0.03,0.0043,0.0154,0.32,rain,90.31,79.25,76.14,0.78,1008.3,0.17,13,78.65,90.31,1.2833,103.8333
+Singapore,,3/25/2020,Humid and mostly cloudy throughout the day.,rain,0.06,0.0032,0.0117,0.38,rain,91.19,79.33,76.89,0.78,1009.0,0.73,6,79.25,91.19,1.2833,103.8333
+Singapore,,3/26/2020,Possible light rain in the afternoon.,rain,0.1,0.0103,0.0395,0.53,rain,89.9,79.16,77.22,0.8,1009.9,0.82,8,79.33,89.9,1.2833,103.8333
+Singapore,,3/27/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.13,0.0013,0.0103,0.15,rain,90.66,79.29,76.29,0.77,1009.7,0.82,6,79.16,90.66,1.2833,103.8333
+Singapore,,3/28/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0009,0.0075,0.12,rain,91.81,78.28,75.39,0.75,1008.6,0.45,9,79.29,91.81,1.2833,103.8333
+Singapore,,3/29/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.19,0.0035,0.0281,0.19,rain,90.19,79.31,74.43,0.74,1009.6,0.44,8,78.28,90.19,1.2833,103.8333
+Singapore,,3/30/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.22,0.0017,0.0099,0.24,rain,91.03,79.39,74.45,0.72,1009.8,0.6,6,79.31,91.03,1.2833,103.8333
+Singapore,,3/31/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.25,0.003,0.0135,0.22,rain,90.56,79.88,75.58,0.75,1009.3,0.81,7,79.39,90.56,1.2833,103.8333
+Singapore,,4/1/2020,Possible light rain starting in the afternoon.,rain,0.29,0.011000000000000001,0.0395,0.61,rain,90.48,78.86,76.84,0.78,1009.4,0.65,9,79.88,90.48,1.2833,103.8333
+Singapore,,4/2/2020,Possible light rain in the morning and afternoon.,rain,0.32,0.0144,0.0623,0.69,rain,89.01,79.43,76.93,0.8,1010.1,0.61,10,78.86,89.01,1.2833,103.8333
+Singapore,,4/3/2020,Possible light rain in the afternoon.,rain,0.36,0.0112,0.0488,0.59,rain,91.02,79.61,77.24,0.79,1009.8,0.5,8,79.43,91.02,1.2833,103.8333
+Singapore,,4/4/2020,Possible light rain until evening.,rain,0.4,0.0162,0.0595,0.78,rain,90.82,79.0,77.34,0.8,1010.4,0.71,9,79.61,90.82,1.2833,103.8333
+Singapore,,4/5/2020,Rain and humid throughout the day.,rain,0.44,0.0344,0.1095,0.93,rain,90.09,77.63,77.3,0.82,1010.5,0.81,7,79.0,90.09,1.2833,103.8333
+Singapore,,4/6/2020,Possible drizzle in the morning.,rain,0.48,0.0041,0.0425,0.79,rain,89.5,79.2,74.78,0.77,1010.3,0.87,6,77.63,89.5,1.2833,103.8333
+Singapore,,4/7/2020,Humid and partly cloudy throughout the day.,rain,0.52,0.0053,0.0404,0.49,rain,89.99,79.11,76.72,0.79,1010.3,0.59,13,79.2,89.99,1.2833,103.8333
+Singapore,,4/8/2020,Humid and mostly cloudy throughout the day.,rain,0.56,0.0023,0.0099,0.34,rain,90.1,77.91,76.45,0.78,1010.8,0.74,8,79.11,90.1,1.2833,103.8333
+Singapore,,4/9/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.59,0.0001,0.0003,0.15,rain,91.58,80.55,74.06,0.72,1011.5,0.64,7,77.91,91.58,1.2833,103.8333
+Singapore,,4/10/2020,Possible light rain in the afternoon.,rain,0.63,0.0068,0.0485,0.66,rain,91.12,79.74,75.58,0.73,1011.4,0.91,6,80.55,91.12,1.2833,103.8333
+Singapore,,4/11/2020,Possible light rain in the afternoon and evening.,rain,0.67,0.0069,0.0354,0.61,rain,90.94,80.75,77.56,0.78,1009.9,0.89,7,79.74,90.94,1.2833,103.8333
+Singapore,,4/12/2020,Light rain until evening.,rain,0.7,0.0159,0.0499,0.88,rain,89.12,80.56,78.3,0.83,1009.6,0.96,6,80.75,89.12,1.2833,103.8333
+Singapore,,4/13/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.0007,0.0052,0.19,rain,91.03,79.58,75.9,0.75,1010.5,0.74,10,80.56,91.03,1.2833,103.8333
+Singapore,,4/14/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.77,0.0004,0.0029,0.16,rain,91.03,79.66,75.89,0.75,1010.6,0.66,11,79.58,91.03,1.2833,103.8333
+Singapore,,4/15/2020,Humid and partly cloudy throughout the day.,rain,0.8,0.0012,0.008,0.27,rain,91.5,79.81,75.98,0.75,1010.0,0.58,10,79.66,91.5,1.2833,103.8333
+Singapore,,4/16/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0023,0.0203,0.21,rain,91.51,79.69,75.74,0.74,1010.5,0.74,8,79.81,91.51,1.2833,103.8333
+Singapore,,4/17/2020,Humid and mostly cloudy throughout the day.,rain,0.86,0.0068,0.0406,0.42,rain,91.41,79.77,76.38,0.76,1011.0,0.69,9,79.69,91.41,1.2833,103.8333
+Singapore,,4/18/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0001,0.0006,0.06,rain,91.28,80.92,76.16,0.75,1010.4,0.66,8,79.77,91.28,1.2833,103.8333
+Singapore,,4/19/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.92,0.0001,0.0004,0.11,rain,92.33,81.0,76.58,0.74,1009.9,0.61,12,80.92,92.33,1.2833,103.8333
+Singapore,,4/20/2020,Possible light rain in the afternoon and evening.,rain,0.95,0.0087,0.0636,0.74,rain,91.15,81.46,76.84,0.75,1009.1,0.71,11,81.0,91.15,1.2833,103.8333

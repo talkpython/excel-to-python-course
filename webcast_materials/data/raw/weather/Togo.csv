@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Togo,,1/1/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.04,rain,93.11,64.06,23.08,0.14,1011.3,0.1,10,65.11,93.11,8.6195,0.8248
+Togo,,1/2/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0004,0.05,rain,90.14,58.92,21.31,0.13,1012.7,0.1,10,64.06,90.14,8.6195,0.8248
+Togo,,1/3/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0005,0.03,rain,88.78,60.01,17.96,0.13,1013.6,0.0,11,58.92,88.78,8.6195,0.8248
+Togo,,1/4/2020,Clear throughout the day.,clear-day,0.3,0.0002,0.0003,0.06,rain,91.86,61.57,28.08,0.18,1013.2,0.06,10,60.01,91.86,8.6195,0.8248
+Togo,,1/5/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.04,rain,94.69,65.04,36.95,0.24,1011.5,0.24,10,61.57,94.69,8.6195,0.8248
+Togo,,1/6/2020,Clear throughout the day.,partly-cloudy-day,0.36,0.0,0.0,0.0,,94.33,66.95,46.78,0.34,1010.3,0.36,9,65.04,94.33,8.6195,0.8248
+Togo,,1/7/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0002,0.05,rain,94.05,70.71,48.52,0.35,1010.4,0.1,10,66.95,94.05,8.6195,0.8248
+Togo,,1/8/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0002,0.03,,95.87,70.41,46.64,0.3,1011.5,0.22,10,70.71,95.87,8.6195,0.8248
+Togo,,1/9/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0001,0.01,,97.64,68.13,44.78,0.28,1011.2,0.21,9,70.41,97.64,8.6195,0.8248
+Togo,,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.5,0.0001,0.0004,0.04,rain,97.82,72.52,51.57,0.35,1011.4,0.65,8,68.13,97.82,8.6195,0.8248
+Togo,,1/11/2020,Partly cloudy throughout the day.,rain,0.54,0.0031,0.0224,0.35,rain,92.41,69.39,67.2,0.64,1012.0,0.5,9,72.52,92.41,8.6195,0.8248
+Togo,,1/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0013,0.0087,0.17,rain,93.19,72.55,65.54,0.61,1011.4,0.63,7,69.39,93.19,8.6195,0.8248
+Togo,,1/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0002,0.0009,0.1,rain,97.9,70.2,57.01,0.43,1009.9,0.44,8,72.55,97.9,8.6195,0.8248
+Togo,,1/14/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,94.13,66.9,40.59,0.27,1009.8,0.08,11,70.2,94.13,8.6195,0.8248
+Togo,,1/15/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.01,,97.97,67.46,34.38,0.2,1010.0,0.01,11,66.9,97.97,8.6195,0.8248
+Togo,,1/16/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.03,,97.93,66.97,37.98,0.22,1011.4,0.01,11,68.42,97.93,8.6195,0.8248
+Togo,,1/17/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0004,0.05,rain,95.72,64.46,37.06,0.22,1012.2,0.01,12,66.97,95.72,8.6195,0.8248
+Togo,,1/18/2020,Clear throughout the day.,clear-day,0.8,0.0,0.0002,0.03,,94.61,65.17,37.16,0.23,1012.7,0.03,11,64.46,94.61,8.6195,0.8248
+Togo,,1/19/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0002,0.01,,93.69,65.99,38.18,0.25,1011.5,0.15,9,65.17,93.69,8.6195,0.8248
+Togo,,1/20/2020,Clear throughout the day.,clear-day,0.87,0.0,0.0002,0.02,,95.02,67.68,43.95,0.29,1010.5,0.16,10,65.99,95.02,8.6195,0.8248
+Togo,,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.9,0.0001,0.0002,0.05,rain,96.82,69.37,49.22,0.33,1011.1,0.43,9,67.68,96.82,8.6195,0.8248
+Togo,,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.93,0.0,0.0001,0.02,,96.82,68.09,47.44,0.31,1011.0,0.45,8,69.37,96.82,8.6195,0.8248
+Togo,,1/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0001,0.0002,0.03,rain,95.56,66.09,34.39,0.2,1011.2,0.44,9,68.09,95.56,8.6195,0.8248
+Togo,,1/24/2020,Clear throughout the day.,clear-day,1.0,0.0001,0.0002,0.02,rain,94.06,66.35,20.13,0.12,1011.9,0.28,10,66.09,94.06,8.6195,0.8248
+Togo,,1/25/2020,Clear throughout the day.,clear-day,0.03,0.0001,0.0003,0.03,rain,94.41,63.05,9.01,0.07,1012.1,0.11,11,66.35,94.41,8.6195,0.8248
+Togo,,1/26/2020,Partly cloudy throughout the day.,clear-day,0.06,0.0001,0.0004,0.03,rain,95.08,60.87,9.38,0.07,1012.0,0.27,8,63.05,95.08,8.6195,0.8248
+Togo,,1/27/2020,Clear throughout the day.,clear-day,0.09,0.0001,0.0004,0.05,rain,95.09,63.89,22.09,0.13,1011.5,0.2,10,60.87,95.09,8.6195,0.8248
+Togo,,1/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.12,0.0001,0.0002,0.03,rain,95.25,67.73,26.99,0.15,1011.5,0.48,9,63.89,95.25,8.6195,0.8248
+Togo,,1/29/2020,Clear throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.05,rain,98.38,64.81,24.92,0.14,1011.1,0.38,11,67.73,98.38,8.6195,0.8248
+Togo,,1/30/2020,Partly cloudy throughout the day.,clear-day,0.18,0.0001,0.0003,0.02,rain,97.87,63.26,3.3,0.05,1012.3,0.26,10,64.81,97.87,8.6195,0.8248
+Togo,,1/31/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0003,0.05,rain,96.9,64.54,9.1,0.07,1012.5,0.48,7,63.26,96.9,8.6195,0.8248
+Togo,,2/1/2020,Partly cloudy throughout the day.,clear-day,0.24,0.0001,0.0003,0.04,rain,96.04,65.95,16.67,0.1,1012.0,0.25,8,64.54,96.04,8.6195,0.8248
+Togo,,2/2/2020,Clear throughout the day.,partly-cloudy-day,0.28,0.0,0.0002,0.03,,95.56,64.2,11.76,0.08,1012.3,0.33,11,65.95,95.56,8.6195,0.8248
+Togo,,2/3/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0003,0.04,rain,96.2,60.01,8.48,0.07,1012.3,0.03,11,64.2,96.2,8.6195,0.8248
+Togo,,2/4/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.05,rain,96.47,61.82,13.36,0.09,1012.5,0.16,12,60.01,96.47,8.6195,0.8248
+Togo,,2/5/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0001,0.0003,0.03,rain,95.18,64.11,21.61,0.12,1011.6,0.43,9,61.82,95.18,8.6195,0.8248
+Togo,,2/6/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.01,,95.74,66.74,22.84,0.13,1011.1,0.16,11,64.11,95.74,8.6195,0.8248
+Togo,,2/7/2020,Clear throughout the day.,clear-day,0.45,0.0001,0.0003,0.02,rain,96.93,67.67,23.69,0.12,1011.3,0.04,12,66.74,96.93,8.6195,0.8248
+Togo,,2/8/2020,Partly cloudy throughout the day.,clear-day,0.48,0.0001,0.0003,0.03,rain,98.78,67.49,23.07,0.11,1010.7,0.3,11,67.67,98.78,8.6195,0.8248
+Togo,,2/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.52,0.0001,0.0003,0.05,rain,98.37,68.67,30.04,0.15,1010.8,0.57,9,67.49,98.37,8.6195,0.8248
+Togo,,2/10/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.56,0.0004,0.002,0.06,rain,98.12,71.76,47.93,0.31,1012.0,0.36,11,68.67,98.12,8.6195,0.8248
+Togo,,2/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.0,0.0002,0.03,,96.7,68.46,27.08,0.14,1011.9,0.76,7,71.76,96.7,8.6195,0.8248
+Togo,,2/12/2020,Clear throughout the day.,partly-cloudy-day,0.64,0.0001,0.0004,0.04,rain,94.74,64.53,14.98,0.09,1011.5,0.44,10,68.46,94.74,8.6195,0.8248
+Togo,,2/13/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.01,rain,95.48,64.99,22.51,0.12,1011.2,0.15,11,64.53,95.48,8.6195,0.8248
+Togo,,2/14/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.01,rain,97.33,66.46,24.3,0.13,1009.5,0.28,11,64.99,97.33,8.6195,0.8248
+Togo,,2/15/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.02,rain,98.58,66.24,19.43,0.1,1009.2,0.07,12,66.46,98.58,8.6195,0.8248
+Togo,,2/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.01,rain,99.18,64.97,21.22,0.11,1009.6,0.44,9,66.24,99.18,8.6195,0.8248
+Togo,,2/17/2020,Partly cloudy throughout the day.,clear-day,0.82,0.0001,0.0003,0.05,rain,100.13,67.57,37.59,0.2,1009.8,0.3,11,64.97,100.13,8.6195,0.8248
+Togo,,2/18/2020,Clear throughout the day.,clear-day,0.85,0.0009,0.0051,0.09,rain,101.08,66.79,56.77,0.44,1010.1,0.17,12,67.57,101.08,8.6195,0.8248
+Togo,,2/19/2020,Clear throughout the day.,clear-day,0.88,0.0,0.0001,0.02,,98.91,66.78,41.21,0.25,1009.0,0.11,11,66.79,98.91,8.6195,0.8248
+Togo,,2/20/2020,Clear throughout the day.,clear-day,0.91,0.0002,0.0011,0.06,rain,100.02,69.18,52.9,0.37,1008.0,0.06,12,66.78,100.02,8.6195,0.8248
+Togo,,2/21/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.06,rain,99.33,69.92,43.43,0.28,1008.2,0.24,13,69.18,99.33,8.6195,0.8248
+Togo,,2/22/2020,Clear throughout the day.,clear-day,0.98,0.0002,0.0007,0.06,rain,101.73,71.66,40.86,0.22,1008.8,0.02,13,69.92,101.73,8.6195,0.8248
+Togo,,2/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0009,0.04,rain,101.67,70.66,42.93,0.25,1009.9,0.12,12,71.66,101.67,8.6195,0.8248
+Togo,,2/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.04,0.0001,0.0004,0.03,rain,100.62,67.7,23.71,0.11,1009.6,0.42,7,70.66,100.62,8.6195,0.8248
+Togo,,2/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0003,0.04,rain,98.32,66.11,19.84,0.1,1009.6,0.09,13,67.7,98.32,8.6195,0.8248
+Togo,,2/26/2020,Partly cloudy throughout the day.,clear-day,0.1,0.0001,0.0003,0.01,rain,100.98,66.19,35.82,0.19,1008.7,0.29,9,66.11,100.98,8.6195,0.8248
+Togo,,2/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0014,0.0085,0.08,rain,101.09,69.45,57.43,0.43,1009.0,0.42,8,66.19,101.09,8.6195,0.8248
+Togo,,2/28/2020,Clear throughout the day.,clear-day,0.16,0.0009,0.0082,0.08,rain,100.44,72.6,57.13,0.41,1009.6,0.22,11,69.45,100.44,8.6195,0.8248
+Togo,,2/29/2020,Partly cloudy throughout the day.,clear-day,0.19,0.0007,0.0107,0.06,rain,103.91,70.01,47.42,0.31,1008.3,0.27,11,72.6,103.91,8.6195,0.8248
+Togo,,3/1/2020,Clear throughout the day.,clear-day,0.22,0.0024,0.0199,0.11,rain,101.88,71.53,58.57,0.41,1008.5,0.14,12,70.01,101.88,8.6195,0.8248
+Togo,,3/2/2020,Humid and partly cloudy throughout the day.,rain,0.25,0.0051,0.0334,0.3,rain,95.99,70.63,70.46,0.66,1010.3,0.4,12,71.53,95.99,8.6195,0.8248
+Togo,,3/3/2020,Humid and mostly cloudy throughout the day.,rain,0.28,0.0105,0.0469,0.4,rain,95.44,71.16,70.13,0.68,1011.4,0.75,10,70.63,95.44,8.6195,0.8248
+Togo,,3/4/2020,Humid and overcast throughout the day.,cloudy,0.32,0.0016,0.0124,0.18,rain,95.85,72.27,68.15,0.61,1011.1,0.9,7,71.16,95.85,8.6195,0.8248
+Togo,,3/5/2020,Clear throughout the day.,clear-day,0.35,0.0027,0.0207,0.14,rain,98.66,72.28,60.9,0.48,1009.6,0.3,11,72.27,98.66,8.6195,0.8248
+Togo,,3/6/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.39,0.0036,0.027000000000000003,0.19,rain,96.28,70.56,67.58,0.59,1008.9,0.36,8,72.28,96.28,8.6195,0.8248
+Togo,,3/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0031,0.0404,0.14,rain,98.71,70.2,65.9,0.57,1008.6,0.4,11,70.56,98.71,8.6195,0.8248
+Togo,,3/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.0067,0.0543,0.19,rain,97.01,73.27,67.42,0.6,1009.7,0.56,10,70.2,97.01,8.6195,0.8248
+Togo,,3/9/2020,Possible light rain in the evening.,rain,0.51,0.0263,0.1074,0.54,rain,93.4,71.89,71.07,0.71,1008.8,0.59,9,73.27,93.4,8.6195,0.8248
+Togo,,3/10/2020,Rain overnight.,rain,0.55,0.0047,0.05,0.37,rain,96.01,71.62,70.39,0.68,1007.9,0.84,6,71.89,96.01,8.6195,0.8248
+Togo,,3/11/2020,Rain in the morning.,rain,0.58,0.0458,0.298,0.67,rain,92.43,71.96,69.67,0.7,1008.6,0.98,6,71.62,92.43,8.6195,0.8248
+Togo,,3/12/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0002,0.0004,0.12,rain,100.08,74.13,65.31,0.56,1007.7,0.62,12,71.96,100.08,8.6195,0.8248
+Togo,,3/13/2020,Possible light rain overnight.,rain,0.66,0.0156,0.0824,0.49,rain,95.9,71.81,71.65,0.69,1008.2,0.43,13,74.13,95.9,8.6195,0.8248
+Togo,,3/14/2020,Possible light rain in the morning.,rain,0.7,0.0108,0.0838,0.67,rain,90.54,72.61,71.94,0.75,1009.7,0.79,6,71.81,90.54,8.6195,0.8248
+Togo,,3/15/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.0001,0.0003,0.05,rain,99.21,72.64,64.58,0.54,1008.7,0.77,7,72.61,99.21,8.6195,0.8248
+Togo,,3/16/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.77,0.003,0.0208,0.08,rain,98.49,75.07,66.44,0.56,1007.8,0.61,8,72.64,98.49,8.6195,0.8248
+Togo,,3/17/2020,Humid and mostly cloudy throughout the day.,cloudy,0.8,0.0036,0.03,0.1,rain,100.0,75.1,68.35,0.58,1007.7,0.91,6,75.07,100.0,8.6195,0.8248
+Togo,,3/18/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0051,0.0366,0.15,rain,98.58,75.11,69.89,0.61,1008.3,0.76,7,75.1,98.58,8.6195,0.8248
+Togo,,3/19/2020,Humid and mostly cloudy throughout the day.,rain,0.86,0.013000000000000001,0.069,0.39,rain,95.9,74.84,70.74,0.64,1008.4,0.84,7,75.11,95.9,8.6195,0.8248
+Togo,,3/20/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.89,0.0018,0.0068,0.18,rain,94.69,74.97,71.59,0.67,1008.9,0.7,11,74.84,94.69,8.6195,0.8248
+Togo,,3/21/2020,Humid and overcast throughout the day.,rain,0.92,0.0177,0.0496,0.3,rain,93.13,74.22,72.55,0.71,1008.6,0.95,6,74.97,93.13,8.6195,0.8248
+Togo,,3/22/2020,Rain starting in the afternoon.,rain,0.95,0.0314,0.1016,0.74,rain,93.8,72.32,71.95,0.74,1008.4,0.96,7,73.1,93.8,8.6195,0.8248
+Togo,,3/23/2020,Light rain in the evening and overnight.,rain,0.98,0.022000000000000002,0.1126,0.73,rain,90.49,70.23,72.68,0.81,1009.6,0.89,7,72.32,90.49,8.6195,0.8248
+Togo,,3/24/2020,Possible light rain in the morning.,rain,0.01,0.008,0.0439,0.83,rain,83.15,70.49,71.35,0.88,1011.2,0.99,6,70.23,83.15,8.6195,0.8248
+Togo,,3/25/2020,Possible light rain in the evening.,rain,0.04,0.0188,0.08800000000000001,0.62,rain,89.65,69.59,70.99,0.8,1010.6,0.94,6,70.49,89.65,8.6195,0.8248
+Togo,,3/26/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.001,0.0058,0.19,rain,93.09,72.24,70.39,0.73,1009.2,0.71,8,69.59,93.09,8.6195,0.8248
+Togo,,3/27/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.11,0.0017,0.0144,0.14,rain,95.31,72.07,68.82,0.62,1009.1,0.68,8,72.24,95.31,8.6195,0.8248
+Togo,,3/28/2020,Humid throughout the day.,clear-day,0.14,0.0196,0.105,0.18,rain,95.18,73.19,70.64,0.67,1009.2,0.3,13,72.07,95.18,8.6195,0.8248
+Togo,,3/29/2020,Humid and mostly cloudy throughout the day.,rain,0.17,0.0069,0.0383,0.3,rain,95.19,72.21,72.5,0.72,1008.6,0.6,7,73.19,95.19,8.6195,0.8248
+Togo,,3/30/2020,Humid and overcast throughout the day.,cloudy,0.2,0.0083,0.0439,0.15,rain,97.15,73.92,72.25,0.71,1007.6,0.96,5,72.21,97.15,8.6195,0.8248
+Togo,,3/31/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.23,0.0113,0.0869,0.22,rain,95.55,73.56,71.9,0.67,1007.8,0.87,7,73.92,95.55,8.6195,0.8248
+Togo,,4/1/2020,Humid and mostly cloudy throughout the day.,rain,0.27,0.0201,0.156,0.25,rain,96.36,72.59,72.72,0.72,1009.0,0.77,7,73.56,96.36,8.6195,0.8248
+Togo,,4/2/2020,Humid and overcast throughout the day.,cloudy,0.3,0.0036,0.0272,0.1,rain,95.42,73.84,71.31,0.69,1008.9,0.98,6,72.59,95.42,8.6195,0.8248
+Togo,,4/3/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0021,0.0109,0.06,rain,96.67,73.62,71.69,0.67,1008.3,0.53,9,73.84,96.67,8.6195,0.8248
+Togo,,4/4/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.37,0.0024,0.0119,0.18,rain,93.03,71.19,73.47,0.75,1010.1,0.86,6,73.62,93.03,8.6195,0.8248
+Togo,,4/5/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0068,0.0465,0.11,rain,96.9,73.13,71.58,0.7,1010.4,0.69,9,71.19,96.9,8.6195,0.8248
+Togo,,4/6/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.45,0.0053,0.0328,0.19,rain,95.69,72.21,71.68,0.69,1010.0,0.49,9,73.13,95.69,8.6195,0.8248
+Togo,,4/7/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.49,0.0059,0.0312,0.17,rain,97.01,74.57,71.53,0.69,1009.8,0.77,7,72.21,97.01,8.6195,0.8248
+Togo,,4/8/2020,Possible light rain in the evening.,rain,0.53,0.0071,0.042,0.41,rain,92.79,73.65,73.38,0.73,1008.5,0.74,7,74.57,92.79,8.6195,0.8248
+Togo,,4/9/2020,Rain in the evening and overnight.,rain,0.57,0.0375,0.2118,0.67,rain,95.91,68.24,72.17,0.75,1009.3,0.78,9,73.65,95.91,8.6195,0.8248
+Togo,,4/10/2020,Possible light rain in the morning.,rain,0.61,0.0061,0.0347,0.52,rain,90.77,72.68,69.18,0.72,1010.9,0.87,6,68.24,90.77,8.6195,0.8248
+Togo,,4/11/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.0035,0.023,0.21,rain,91.91,72.77,69.59,0.66,1010.4,0.79,10,72.68,91.91,8.6195,0.8248
+Togo,,4/12/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0023,0.0124,0.15,rain,94.1,72.55,70.32,0.68,1010.7,0.54,9,72.77,94.1,8.6195,0.8248
+Togo,,4/13/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0006,0.01,0.07,rain,95.66,73.94,68.49,0.6,1009.4,0.36,11,72.55,95.66,8.6195,0.8248
+Togo,,4/14/2020,Humid and partly cloudy throughout the day.,rain,0.75,0.0148,0.0445,0.43,rain,95.95,74.43,70.73,0.65,1008.9,0.39,12,73.94,95.95,8.6195,0.8248
+Togo,,4/15/2020,Humid throughout the day.,rain,0.78,0.006,0.0452,0.35,rain,98.08,74.61,71.74,0.67,1009.1,0.2,14,74.43,98.08,8.6195,0.8248
+Togo,,4/16/2020,Humid throughout the day.,rain,0.81,0.0072,0.0337,0.34,rain,97.09,72.09,72.81,0.7,1008.5,0.34,13,74.61,97.09,8.6195,0.8248
+Togo,,4/17/2020,Humid and mostly cloudy throughout the day.,rain,0.84,0.0037,0.0161,0.38,rain,92.92,73.87,73.3,0.76,1008.2,0.75,7,72.09,92.92,8.6195,0.8248
+Togo,,4/18/2020,Possible light rain in the evening.,rain,0.87,0.0118,0.0445,0.51,rain,92.1,72.59,74.37,0.8,1009.9,0.85,7,73.87,92.1,8.6195,0.8248
+Togo,,4/19/2020,Humid and mostly cloudy throughout the day.,rain,0.9,0.0078,0.0515,0.44,rain,92.59,72.53,72.52,0.75,1011.6,0.82,10,72.59,92.59,8.6195,0.8248
+Togo,,4/20/2020,Light rain in the evening and overnight.,rain,0.93,0.0072,0.0434,0.6,rain,92.91,70.11,70.99,0.71,1011.4,0.55,9,72.53,92.91,8.6195,0.8248
+Togo,,4/21/2020,Humid and overcast throughout the day.,rain,0.96,0.0037,0.0251,0.54,rain,91.37,72.77,71.66,0.76,1010.6,0.75,6,70.11,91.37,8.6195,0.8248

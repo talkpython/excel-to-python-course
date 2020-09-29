@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Japan,,12/31/2019,Clear throughout the day.,clear-day,0.2,0.0,0.0002,0.06,,44.96,21.73,13.21,0.56,1023.1,0.0,3,16.9,44.96,36.0,138.0
+Japan,,1/1/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0003,0.08,snow,47.86,22.87,19.07,0.63,1022.6,0.01,3,21.73,47.86,36.0,138.0
+Japan,,1/2/2020,Clear throughout the day.,clear-day,0.26,0.0,0.0,0.0,,47.43,23.22,21.43,0.65,1017.7,0.03,2,22.87,47.43,36.0,138.0
+Japan,,1/3/2020,Possible light snow (1–2 in.) overnight.,snow,0.29,0.0048,0.0439,0.36,snow,46.27,21.85,20.98,0.64,1015.8,0.26,2,23.22,46.27,36.0,138.0
+Japan,,1/4/2020,Partly cloudy throughout the day.,snow,0.32,0.0011,0.0159,0.3,snow,42.14,18.69,16.57,0.63,1022.8,0.38,2,20.65,42.14,36.0,138.0
+Japan,,1/5/2020,Clear throughout the day.,clear-day,0.35,0.0,0.0002,0.01,,42.84,24.95,17.03,0.65,1027.5,0.29,3,17.74,42.84,36.0,138.0
+Japan,,1/6/2020,Light rain starting in the afternoon.,rain,0.38,0.0218,0.0593,0.82,rain,42.41,36.26,26.12,0.77,1024.0,0.72,2,24.95,42.41,36.0,138.0
+Japan,,1/7/2020,Rain until evening.,rain,0.42,0.0393,0.1961,0.9,rain,50.36,30.23,38.68,0.82,1004.5,0.86,2,38.67,50.36,36.0,138.0
+Japan,,1/8/2020,Clear throughout the day.,clear-day,0.45,0.0005,0.0071,0.24,rain,45.19,28.04,26.76,0.67,1012.2,0.28,3,30.23,45.19,36.0,138.0
+Japan,,1/9/2020,Foggy in the morning.,partly-cloudy-day,0.49,0.0006,0.003,0.17,snow,43.08,22.73,25.31,0.75,1017.3,0.67,3,25.67,43.08,36.0,138.0
+Japan,,1/10/2020,Clear throughout the day.,clear-day,0.53,0.0001,0.0003,0.04,snow,49.65,24.57,19.24,0.61,1015.8,0.18,2,22.73,49.65,36.0,138.0
+Japan,,1/11/2020,Overcast throughout the day.,partly-cloudy-day,0.56,0.0007,0.0055,0.23,snow,45.3,28.91,23.96,0.71,1011.4,0.64,2,24.78,45.3,36.0,138.0
+Japan,,1/12/2020,Clear throughout the day.,clear-day,0.6,0.0003,0.0007,0.2,snow,47.43,26.4,24.13,0.65,1012.7,0.31,3,27.13,47.43,36.0,138.0
+Japan,,1/13/2020,Possible light snow (< 1 in.) overnight.,partly-cloudy-day,0.64,0.0006,0.0081,0.14,snow,48.74,29.35,20.95,0.58,1020.3,0.59,2,26.4,48.74,36.0,138.0
+Japan,,1/14/2020,Possible light snow (< 1 in.) in the morning.,snow,0.67,0.0058,0.0238,0.63,snow,44.52,21.87,24.73,0.68,1017.9,0.53,2,26.75,44.52,36.0,138.0
+Japan,,1/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0003,0.08,snow,43.5,22.21,15.66,0.57,1022.5,0.52,2,21.87,43.5,36.0,138.0
+Japan,,1/16/2020,Mostly cloudy throughout the day.,cloudy,0.75,0.0001,0.0004,0.12,snow,43.13,27.84,20.14,0.66,1019.3,0.92,2,22.21,43.13,36.0,138.0
+Japan,,1/17/2020,Overcast throughout the day.,cloudy,0.78,0.0007,0.0025,0.17,snow,38.94,23.51,22.79,0.69,1013.8,0.97,2,26.77,38.94,36.0,138.0
+Japan,,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.82,0.0,0.0002,0.03,,43.73,28.72,19.24,0.61,1015.3,0.58,3,23.51,43.73,36.0,138.0
+Japan,,1/19/2020,Clear throughout the day.,clear-day,0.85,0.0,0.0002,0.04,,48.38,29.43,22.54,0.62,1014.9,0.18,3,28.72,48.38,36.0,138.0
+Japan,,1/20/2020,Clear throughout the day.,clear-day,0.89,0.0003,0.0014,0.1,snow,44.38,22.83,18.68,0.58,1022.0,0.18,3,24.23,44.38,36.0,138.0
+Japan,,1/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.92,0.0001,0.0012,0.03,snow,51.44,33.02,19.84,0.55,1027.7,0.55,3,22.83,51.44,36.0,138.0
+Japan,,1/22/2020,Light rain in the morning and afternoon.,rain,0.95,0.0197,0.0636,0.86,rain,44.98,33.88,35.74,0.89,1022.1,0.92,3,33.02,44.98,36.0,138.0
+Japan,,1/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.99,0.0001,0.0005,0.1,rain,54.72,27.02,32.5,0.74,1023.2,0.67,3,33.88,54.72,36.0,138.0
+Japan,,1/24/2020,Overcast throughout the day.,cloudy,0.02,0.0,0.0002,0.04,,41.95,26.89,22.18,0.66,1028.2,0.98,2,27.02,41.95,36.0,138.0
+Japan,,1/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.05,0.0003,0.001,0.13,snow,46.25,24.22,23.68,0.69,1026.2,0.85,3,26.89,46.25,36.0,138.0
+Japan,,1/26/2020,Snow (2–5 in.) in the evening.,snow,0.08,0.0266,0.0967,0.46,snow,40.0,29.46,23.59,0.75,1023.6,1.0,2,24.22,40.0,36.0,138.0
+Japan,,1/27/2020,Light rain starting in the afternoon.,rain,0.11,0.013000000000000001,0.0464,0.68,rain,45.58,34.38,31.58,0.84,1014.2,0.97,2,29.46,45.58,36.0,138.0
+Japan,,1/28/2020,Foggy in the morning.,rain,0.14,0.0082,0.071,0.72,rain,55.32,29.9,35.69,0.82,1004.8,0.6,3,34.38,55.32,36.0,138.0
+Japan,,1/29/2020,Clear throughout the day.,rain,0.17,0.0009,0.0067,0.28,rain,47.55,22.08,27.82,0.72,1001.8,0.2,3,29.44,47.55,36.0,138.0
+Japan,,1/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0004,0.0045,0.12,snow,40.98,16.7,17.43,0.64,1007.7,0.47,3,21.19,40.98,36.0,138.0
+Japan,,1/31/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0003,0.06,snow,45.76,19.6,14.89,0.59,1016.5,0.07,4,16.7,45.76,36.0,138.0
+Japan,,2/1/2020,Clear throughout the day.,partly-cloudy-day,0.26,0.0001,0.0003,0.01,snow,46.04,22.64,14.72,0.56,1022.5,0.32,4,19.6,46.04,36.0,138.0
+Japan,,2/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.29,0.0,0.0002,0.04,,47.82,20.79,20.69,0.62,1019.1,0.58,4,22.64,47.82,36.0,138.0
+Japan,,2/3/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0003,0.05,snow,47.59,22.48,14.85,0.55,1020.9,0.03,4,20.79,47.59,36.0,138.0
+Japan,,2/4/2020,Mostly cloudy throughout the day.,snow,0.36,0.0008,0.0032,0.29,snow,42.34,13.72,17.38,0.59,1015.7,0.43,3,20.11,42.34,36.0,138.0
+Japan,,2/5/2020,Clear throughout the day.,clear-day,0.4,0.0002,0.001,0.08,snow,32.13,9.76,0.82,0.46,1024.5,0.05,4,13.69,32.13,36.0,138.0
+Japan,,2/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0001,0.0003,0.03,snow,42.76,21.72,1.58,0.41,1026.3,0.51,2,9.76,42.76,36.0,138.0
+Japan,,2/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.47,0.002,0.0168,0.15,snow,41.77,17.32,18.12,0.63,1015.6,0.53,3,21.72,41.77,36.0,138.0
+Japan,,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.51,0.0004,0.0011,0.16,snow,37.11,12.56,8.59,0.55,1018.0,0.37,2,16.57,37.11,36.0,138.0
+Japan,,2/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.55,0.0004,0.0014,0.15,snow,40.57,15.23,9.73,0.52,1016.4,0.35,2,12.56,40.57,36.0,138.0
+Japan,,2/10/2020,Clear throughout the day.,clear-day,0.58,0.0001,0.0002,0.02,snow,45.34,19.94,12.46,0.57,1026.4,0.01,4,15.23,45.34,36.0,138.0
+Japan,,2/11/2020,Light rain overnight.,partly-cloudy-day,0.62,0.0001,0.0008,0.06,snow,55.01,35.28,14.82,0.46,1026.0,0.42,4,19.94,55.01,36.0,138.0
+Japan,,2/12/2020,Light rain in the morning.,rain,0.66,0.0201,0.0931,0.91,rain,59.72,28.47,38.79,0.81,1016.3,0.56,4,35.05,59.72,36.0,138.0
+Japan,,2/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.7,0.0001,0.0003,0.04,rain,56.54,26.07,30.73,0.72,1020.0,0.52,3,28.47,56.54,36.0,138.0
+Japan,,2/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.73,0.0001,0.0003,0.03,rain,55.57,32.16,25.72,0.61,1021.5,0.51,3,26.07,55.57,36.0,138.0
+Japan,,2/15/2020,Light rain throughout the day.,rain,0.77,0.034,0.0674,0.92,rain,53.06,37.85,38.14,0.82,1008.5,0.84,3,32.16,54.12,36.0,138.0
+Japan,,2/16/2020,Possible drizzle (with a chance of 1–2 in. of snow) in the afternoon.,rain,0.8,0.0125,0.0546,0.92,rain,45.69,23.16,29.43,0.67,1003.9,0.58,4,28.45,52.31,36.0,138.0
+Japan,,2/17/2020,Mostly cloudy throughout the day.,snow,0.84,0.001,0.0086,0.29,snow,36.73,16.03,13.58,0.53,1013.6,0.46,3,22.89,36.73,36.0,138.0
+Japan,,2/18/2020,Clear throughout the day.,clear-day,0.87,0.0001,0.0004,0.02,snow,47.87,24.03,13.8,0.54,1025.8,0.13,5,16.03,47.87,36.0,138.0
+Japan,,2/19/2020,Overcast throughout the day.,cloudy,0.9,0.0002,0.0016,0.05,snow,49.13,27.26,21.34,0.62,1029.3,0.9,3,24.03,49.13,36.0,138.0
+Japan,,2/20/2020,Clear throughout the day.,partly-cloudy-day,0.93,0.0001,0.0004,0.05,snow,54.49,30.91,24.99,0.64,1033.8,0.44,5,27.26,54.49,36.0,138.0
+Japan,,2/21/2020,Rain in the afternoon and evening.,rain,0.96,0.0243,0.1695,0.9,rain,48.69,30.06,33.89,0.8,1021.6,0.8,3,30.91,48.69,36.0,138.0
+Japan,,2/22/2020,Clear throughout the day.,clear-day,1.0,0.0003,0.0012,0.1,snow,43.04,21.47,17.82,0.52,1019.5,0.14,4,25.56,43.04,36.0,138.0
+Japan,,2/23/2020,Clear throughout the day.,clear-day,0.03,0.0,0.0003,0.01,,55.86,25.85,16.54,0.48,1022.9,0.07,4,21.47,55.86,36.0,138.0
+Japan,,2/24/2020,Light rain starting in the afternoon.,rain,0.06,0.0152,0.0577,0.8,rain,50.57,34.4,27.82,0.73,1020.2,0.93,4,25.85,50.57,36.0,138.0
+Japan,,2/25/2020,Possible drizzle in the morning.,rain,0.09,0.0077,0.0524,0.86,rain,46.32,23.35,34.4,0.88,1014.8,0.98,3,31.41,46.32,36.0,138.0
+Japan,,2/26/2020,Mostly cloudy throughout the day.,snow,0.12,0.0015,0.0061,0.28,snow,39.17,17.09,19.11,0.66,1019.7,0.82,3,21.73,39.17,36.0,138.0
+Japan,,2/27/2020,Clear throughout the day.,partly-cloudy-day,0.15,0.0002,0.0006,0.03,snow,47.3,24.55,13.81,0.53,1023.5,0.42,4,17.09,47.3,36.0,138.0
+Japan,,2/28/2020,Possible drizzle in the evening.,snow,0.18,0.0008,0.0075,0.47,snow,53.99,30.85,28.83,0.7,1017.9,0.72,4,24.55,53.99,36.0,138.0
+Japan,,2/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0007,0.18,rain,53.83,31.85,33.21,0.76,1016.7,0.61,5,30.85,53.83,36.0,138.0
+Japan,,3/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.24,0.0002,0.0016,0.1,rain,55.91,24.92,33.1,0.71,1015.2,0.73,4,31.85,55.91,36.0,138.0
+Japan,,3/2/2020,Partly cloudy throughout the day.,clear-day,0.27,0.0001,0.0002,0.03,snow,54.8,30.28,24.43,0.61,1021.5,0.26,5,24.92,54.8,36.0,138.0
+Japan,,3/3/2020,Possible drizzle in the evening.,rain,0.31,0.0032,0.0122,0.54,rain,51.69,33.63,28.86,0.67,1017.8,0.87,4,30.28,51.69,36.0,138.0
+Japan,,3/4/2020,Possible drizzle in the morning.,rain,0.34,0.0013,0.0052,0.44,rain,39.59,18.5,19.0,0.57,1010.0,0.51,4,24.57,39.59,36.0,138.0
+Japan,,3/5/2020,Clear throughout the day.,clear-day,0.38,0.0001,0.0003,0.02,snow,49.05,22.53,15.73,0.55,1019.1,0.03,6,18.5,49.05,36.0,138.0
+Japan,,3/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0,0.0002,0.02,,54.77,31.13,22.54,0.63,1021.8,0.7,3,22.53,54.77,36.0,138.0
+Japan,,3/7/2020,Possible drizzle in the morning.,rain,0.45,0.0052,0.0154,0.58,rain,45.62,27.6,32.53,0.85,1018.3,0.88,3,31.13,45.62,36.0,138.0
+Japan,,3/8/2020,Clear throughout the day.,clear-day,0.49,0.0001,0.0003,0.05,rain,66.76,40.08,34.81,0.7,1016.6,0.24,5,27.6,66.76,36.0,138.0
+Japan,,3/9/2020,Light rain throughout the day.,rain,0.53,0.0352,0.0774,0.94,rain,51.32,40.68,44.37,0.91,1003.0,1.0,4,40.08,52.92,36.0,138.0
+Japan,,3/10/2020,Clear throughout the day.,rain,0.57,0.0031,0.0351,0.75,rain,51.8,24.87,31.99,0.63,1004.4,0.3,6,33.22,51.8,36.0,138.0
+Japan,,3/11/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0004,0.02,snow,56.47,26.11,20.18,0.52,1020.4,0.0,6,24.87,56.47,36.0,138.0
+Japan,,3/12/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.65,0.0001,0.0004,0.01,rain,58.51,30.83,21.52,0.52,1017.9,0.63,4,26.11,58.51,36.0,138.0
+Japan,,3/13/2020,Light rain (with a chance of 1–2 in. of snow) until evening.,rain,0.68,0.0191,0.0747,0.83,rain,39.58,21.33,29.41,0.85,1009.7,0.85,3,27.07,39.58,36.0,138.0
+Japan,,3/14/2020,Clear throughout the day.,partly-cloudy-day,0.72,0.0006,0.0041,0.15,snow,45.01,23.23,21.22,0.67,1006.4,0.44,5,21.33,45.01,36.0,138.0
+Japan,,3/15/2020,Foggy in the morning and afternoon.,partly-cloudy-day,0.75,0.0009,0.005,0.17,snow,39.17,13.84,15.01,0.57,1009.4,0.63,3,19.59,39.17,36.0,138.0
+Japan,,3/16/2020,Possible light rain overnight.,clear-day,0.79,0.0007,0.0225,0.14,snow,52.1,31.34,13.86,0.49,1016.0,0.02,6,13.84,52.1,36.0,138.0
+Japan,,3/17/2020,Foggy in the morning.,rain,0.82,0.0085,0.0475,0.61,rain,56.5,28.25,27.71,0.65,1014.3,0.35,6,31.34,56.5,36.0,138.0
+Japan,,3/18/2020,Light rain in the evening and overnight.,rain,0.85,0.0039,0.0343,0.7,rain,61.25,34.27,32.29,0.63,1010.1,0.2,6,28.25,61.25,36.0,138.0
+Japan,,3/19/2020,Possible drizzle in the morning.,rain,0.88,0.0039,0.0289,0.6,rain,48.56,25.66,26.54,0.58,1006.8,0.4,4,32.55,48.56,36.0,138.0
+Japan,,3/20/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0004,0.01,rain,61.17,35.21,19.68,0.43,1013.1,0.02,6,25.66,61.17,36.0,138.0
+Japan,,3/21/2020,Light rain in the afternoon.,rain,0.94,0.0062,0.0387,0.69,rain,61.79,30.46,35.67,0.68,1009.6,0.47,7,35.21,61.79,36.0,138.0
+Japan,,3/22/2020,Clear throughout the day.,clear-day,0.97,0.0002,0.001,0.08,rain,50.62,22.95,22.38,0.58,1011.3,0.19,6,30.46,50.62,36.0,138.0
+Japan,,3/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.0,0.0003,0.0012,0.05,snow,45.42,18.39,11.19,0.46,1016.2,0.35,4,22.95,45.42,36.0,138.0
+Japan,,3/24/2020,Clear throughout the day.,clear-day,0.03,0.0002,0.0004,0.01,snow,57.23,28.29,16.27,0.51,1021.7,0.08,6,18.39,57.23,36.0,138.0
+Japan,,3/25/2020,Clear throughout the day.,partly-cloudy-day,0.06,0.0,0.0,0.0,,68.31,36.06,24.44,0.47,1021.5,0.38,7,28.29,68.31,36.0,138.0
+Japan,,3/26/2020,Light rain throughout the day.,rain,0.09,0.0113,0.0315,0.8,rain,55.79,49.78,38.65,0.69,1016.3,0.94,4,36.06,56.0,36.0,138.0
+Japan,,3/27/2020,Rain (with a chance of 1–2 in. of snow) throughout the day.,rain,0.12,0.0407,0.1661,0.98,rain,57.75,28.08,48.36,0.92,1012.8,1.0,4,36.61,57.75,36.0,138.0
+Japan,,3/28/2020,Snow (2–5 in.) in the morning.,snow,0.16,0.0502,0.1457,0.89,snow,41.59,28.06,30.51,0.88,1018.8,1.0,4,28.08,41.59,36.0,138.0
+Japan,,3/29/2020,Foggy in the morning.,cloudy,0.19,0.0003,0.0006,0.15,rain,53.73,34.75,33.53,0.8,1021.7,1.0,4,28.06,53.73,36.0,138.0
+Japan,,3/30/2020,Overcast throughout the day.,rain,0.22,0.0011,0.0033,0.28,rain,56.64,41.06,40.11,0.85,1020.7,0.97,4,34.75,56.64,36.0,138.0
+Japan,,3/31/2020,Rain throughout the day.,rain,0.25,0.0556,0.2184,0.96,rain,52.25,34.35,43.99,0.94,1007.7,1.0,4,41.06,52.25,36.0,138.0
+Japan,,4/1/2020,Clear throughout the day.,rain,0.29,0.0018,0.0249,0.76,rain,51.93,24.58,30.61,0.66,1010.5,0.49,7,30.54,51.93,36.0,138.0
+Japan,,4/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.32,0.0,0.0002,0.01,,59.98,31.63,17.86,0.43,1020.6,0.36,5,24.58,59.98,36.0,138.0
+Japan,,4/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.36,0.0001,0.0002,0.02,rain,59.56,36.69,28.28,0.51,1015.2,0.33,6,31.63,59.56,36.0,138.0
+Japan,,4/4/2020,Partly cloudy throughout the day.,clear-day,0.4,0.0003,0.0014,0.16,rain,51.96,28.37,27.79,0.62,1013.1,0.27,6,32.15,51.96,36.0,138.0
+Japan,,4/5/2020,Clear throughout the day.,clear-day,0.44,0.0,0.0002,0.03,,57.33,28.22,20.23,0.48,1016.0,0.06,7,28.37,57.33,36.0,138.0
+Japan,,4/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.48,0.0,0.0,0.0,,60.14,28.74,19.96,0.46,1014.5,0.41,6,28.22,60.14,36.0,138.0
+Japan,,4/7/2020,Clear throughout the day.,clear-day,0.52,0.0002,0.0017,0.08,rain,61.01,30.85,25.35,0.49,1013.3,0.09,7,28.74,61.01,36.0,138.0
+Japan,,4/8/2020,Clear throughout the day.,clear-day,0.55,0.0003,0.0022,0.1,rain,59.57,28.07,22.13,0.5,1016.9,0.1,7,30.85,59.57,36.0,138.0
+Japan,,4/9/2020,Partly cloudy throughout the day.,clear-day,0.59,0.0001,0.0003,0.02,snow,53.66,24.0,20.53,0.51,1018.6,0.26,4,28.07,53.66,36.0,138.0
+Japan,,4/10/2020,Clear throughout the day.,partly-cloudy-day,0.63,0.0004,0.0023,0.08,snow,58.49,32.56,22.21,0.57,1018.6,0.33,7,24.0,58.49,36.0,138.0
+Japan,,4/11/2020,Possible light rain in the evening and overnight.,rain,0.67,0.0036,0.0186,0.58,rain,56.21,35.95,32.11,0.7,1013.3,0.93,4,32.56,56.21,36.0,138.0
+Japan,,4/12/2020,Light rain throughout the day.,rain,0.7,0.0249,0.0517,0.84,rain,43.88,30.88,36.73,0.91,996.0,1.0,3,35.95,43.88,36.0,138.0
+Japan,,4/13/2020,Partly cloudy throughout the day.,rain,0.73,0.001,0.0069,0.36,rain,54.09,27.09,24.98,0.57,1007.8,0.46,6,30.88,54.09,36.0,138.0
+Japan,,4/14/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.77,0.0,0.0,0.0,,64.76,33.02,22.11,0.45,1013.3,0.56,5,27.09,64.76,36.0,138.0
+Japan,,4/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.0011,0.0079,0.05,rain,65.15,34.03,28.01,0.51,1016.0,0.62,5,33.02,65.15,36.0,138.0
+Japan,,4/16/2020,Light rain in the evening and overnight.,rain,0.83,0.0021,0.0437,0.61,rain,62.87,43.5,35.92,0.65,1021.8,0.64,4,34.03,62.87,36.0,138.0
+Japan,,4/17/2020,Rain until evening.,rain,0.86,0.0872,0.3114,0.97,rain,47.1,39.96,40.64,0.88,1011.1,0.87,4,40.3,47.1,36.0,138.0
+Japan,,4/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.89,0.0008,0.0117,0.21,rain,62.17,43.24,40.03,0.69,1012.4,0.64,5,39.96,62.17,36.0,138.0
+Japan,,4/19/2020,Light rain in the morning and afternoon.,rain,0.92,0.0138,0.0621,0.78,rain,56.46,38.72,45.48,0.91,1009.5,0.84,4,43.24,56.46,36.0,138.0
+Japan,,4/20/2020,Overcast throughout the day.,partly-cloudy-day,0.95,0.0001,0.0004,0.04,rain,64.57,40.18,36.93,0.64,1008.8,0.66,5,38.72,64.57,36.0,138.0

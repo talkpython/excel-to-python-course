@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+The Bahamas,,12/31/2019,Humid throughout the day.,rain,0.19,0.0034,0.0189,0.38,rain,80.29,74.56,71.47,0.81,1016.4,0.14,5,75.26,80.29,24.25,-76.0
+The Bahamas,,1/1/2020,Clear throughout the day.,rain,0.22,0.0062,0.0533,0.46,rain,78.32,74.05,70.8,0.82,1016.8,0.22,5,74.56,78.32,24.25,-76.0
+The Bahamas,,1/2/2020,Clear throughout the day.,clear-day,0.25,0.0011,0.003,0.18,rain,79.56,75.5,69.13,0.77,1018.6,0.2,6,74.05,79.56,24.25,-76.0
+The Bahamas,,1/3/2020,Humid and partly cloudy throughout the day.,clear-day,0.28,0.0008,0.0027,0.13,rain,80.69,76.34,70.74,0.77,1019.9,0.31,5,75.5,80.69,24.25,-76.0
+The Bahamas,,1/4/2020,Humid and partly cloudy throughout the day.,clear-day,0.31,0.0013,0.0034,0.19,rain,80.45,75.12,72.66,0.82,1020.1,0.31,6,76.34,80.45,24.25,-76.0
+The Bahamas,,1/5/2020,Humid and partly cloudy throughout the day.,clear-day,0.34,0.0013,0.0066,0.2,rain,77.0,69.68,65.39,0.73,1020.1,0.31,4,70.13,77.14,24.25,-76.0
+The Bahamas,,1/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0003,0.0019,0.09,rain,74.83,70.87,59.71,0.65,1020.7,0.5,5,69.53,74.83,24.25,-76.0
+The Bahamas,,1/7/2020,Partly cloudy throughout the day.,rain,0.4,0.0017,0.0134,0.33,rain,75.4,71.6,63.9,0.73,1020.2,0.45,5,70.81,75.4,24.25,-76.0
+The Bahamas,,1/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.44,0.0004,0.0019,0.16,rain,76.18,72.17,63.56,0.7,1023.7,0.43,5,71.6,76.18,24.25,-76.0
+The Bahamas,,1/9/2020,Windy and partly cloudy throughout the day.,rain,0.47,0.0018,0.0057,0.29,rain,76.77,73.24,67.11,0.77,1025.8,0.52,5,72.17,76.77,24.25,-76.0
+The Bahamas,,1/10/2020,Windy and humid throughout the day.,rain,0.51,0.0044,0.0403,0.51,rain,78.29,75.02,70.54,0.83,1024.7,0.42,5,73.19,78.29,24.25,-76.0
+The Bahamas,,1/11/2020,Humid throughout the day.,rain,0.55,0.0027,0.0088,0.33,rain,79.42,75.66,71.53,0.83,1023.8,0.1,6,75.02,79.42,24.25,-76.0
+The Bahamas,,1/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.58,0.0009,0.0091,0.23,rain,79.25,74.89,70.67,0.8,1025.0,0.34,5,75.46,79.25,24.25,-76.0
+The Bahamas,,1/13/2020,Clear throughout the day.,rain,0.62,0.0015,0.0052,0.31,rain,79.32,74.75,70.34,0.8,1025.3,0.23,5,74.89,79.32,24.25,-76.0
+The Bahamas,,1/14/2020,Clear throughout the day.,clear-day,0.66,0.0006,0.0019,0.12,rain,78.96,73.67,66.34,0.71,1024.3,0.22,6,74.38,78.96,24.25,-76.0
+The Bahamas,,1/15/2020,Clear throughout the day.,clear-day,0.7,0.0008,0.0021,0.12,rain,78.3,73.59,65.48,0.7,1022.5,0.24,6,73.67,78.3,24.25,-76.0
+The Bahamas,,1/16/2020,Clear throughout the day.,clear-day,0.73,0.0007,0.0019,0.08,rain,78.18,72.57,64.92,0.69,1023.2,0.17,6,73.59,78.18,24.25,-76.0
+The Bahamas,,1/17/2020,Possible light rain in the evening.,rain,0.77,0.0039,0.017,0.47,rain,77.44,71.01,65.96,0.74,1023.4,0.35,6,72.39,77.44,24.25,-76.0
+The Bahamas,,1/18/2020,Windy in the morning.,wind,0.8,0.0009,0.0021,0.13,rain,75.56,72.2,62.6,0.69,1024.3,0.4,5,71.01,75.56,24.25,-76.0
+The Bahamas,,1/19/2020,Clear throughout the day.,clear-day,0.84,0.0005,0.0014,0.13,rain,77.58,72.94,63.56,0.68,1020.7,0.3,6,72.2,77.58,24.25,-76.0
+The Bahamas,,1/20/2020,Rain in the morning.,rain,0.87,0.0361,0.3353,0.62,rain,77.5,70.69,67.16,0.77,1018.0,0.35,6,72.86,77.5,24.25,-76.0
+The Bahamas,,1/21/2020,Heavy rain in the morning and overnight.,rain,0.91,0.0421,0.6726,0.79,rain,74.66,66.13,64.34,0.75,1015.1,0.64,5,70.69,74.66,24.25,-76.0
+The Bahamas,,1/22/2020,Windy in the morning and afternoon.,rain,0.94,0.0039,0.0381,0.66,rain,70.57,69.58,59.05,0.72,1012.6,0.56,5,65.13,72.27,24.25,-76.0
+The Bahamas,,1/23/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0019,0.0033,0.24,rain,74.65,70.56,63.04,0.71,1013.8,0.53,5,71.1,74.65,24.25,-76.0
+The Bahamas,,1/24/2020,Possible light rain in the morning.,rain,0.01,0.0073,0.0908,0.58,rain,75.77,71.41,64.62,0.74,1015.8,0.48,6,70.56,75.77,24.25,-76.0
+The Bahamas,,1/25/2020,Clear throughout the day.,rain,0.04,0.0015,0.0072,0.38,rain,75.94,70.82,64.32,0.73,1016.9,0.27,6,71.41,75.94,24.25,-76.0
+The Bahamas,,1/26/2020,Clear throughout the day.,clear-day,0.07,0.0009,0.0026,0.21,rain,74.98,70.63,64.24,0.74,1017.2,0.16,7,70.82,74.98,24.25,-76.0
+The Bahamas,,1/27/2020,Clear throughout the day.,rain,0.1,0.0012,0.0034,0.26,rain,76.22,72.6,63.48,0.71,1015.5,0.16,6,70.63,76.22,24.25,-76.0
+The Bahamas,,1/28/2020,Clear throughout the day.,rain,0.13,0.0043,0.0122,0.39,rain,77.63,72.11,66.7,0.75,1013.2,0.11,6,72.6,77.63,24.25,-76.0
+The Bahamas,,1/29/2020,Clear throughout the day.,rain,0.16,0.0055,0.0991,0.39,rain,77.26,73.32,66.9,0.77,1014.4,0.04,6,72.11,77.26,24.25,-76.0
+The Bahamas,,1/30/2020,Possible light rain in the morning.,rain,0.19,0.0048,0.0187,0.5,rain,78.88,72.65,69.65,0.81,1013.8,0.12,7,73.32,78.88,24.25,-76.0
+The Bahamas,,1/31/2020,Partly cloudy throughout the day.,rain,0.22,0.0016,0.0086,0.26,rain,78.38,74.82,69.06,0.8,1017.2,0.36,6,72.65,78.38,24.25,-76.0
+The Bahamas,,2/1/2020,Possible light rain overnight.,partly-cloudy-day,0.25,0.0007,0.003,0.22,rain,79.02,72.17,71.74,0.83,1016.6,0.41,7,74.82,79.02,24.25,-76.0
+The Bahamas,,2/2/2020,Possible light rain and windy in the morning.,rain,0.28,0.0037,0.0275,0.51,rain,73.46,68.95,61.35,0.67,1017.6,0.45,6,69.73,76.74,24.25,-76.0
+The Bahamas,,2/3/2020,Clear throughout the day.,clear-day,0.31,0.0006,0.0023,0.09,rain,74.45,71.06,57.63,0.61,1021.6,0.11,7,68.95,74.45,24.25,-76.0
+The Bahamas,,2/4/2020,Clear throughout the day.,clear-day,0.35,0.0005,0.0021,0.09,rain,77.05,73.16,62.37,0.66,1021.6,0.27,7,71.06,77.05,24.25,-76.0
+The Bahamas,,2/5/2020,Clear throughout the day.,clear-day,0.38,0.001,0.0027,0.1,rain,78.41,73.92,66.47,0.72,1019.3,0.13,7,73.16,78.41,24.25,-76.0
+The Bahamas,,2/6/2020,Humid throughout the day.,rain,0.42,0.0014,0.0047,0.26,rain,79.91,76.1,71.72,0.82,1015.3,0.1,8,73.92,79.91,24.25,-76.0
+The Bahamas,,2/7/2020,Humid and partly cloudy throughout the day.,clear-day,0.45,0.0007,0.0023,0.23,rain,79.5,75.04,72.8,0.85,1016.4,0.23,7,76.1,79.5,24.25,-76.0
+The Bahamas,,2/8/2020,Humid throughout the day.,rain,0.49,0.0096,0.1775,0.42,rain,78.62,74.03,70.95,0.83,1021.2,0.34,7,74.87,78.62,24.25,-76.0
+The Bahamas,,2/9/2020,Possible light rain overnight.,rain,0.53,0.0036,0.0145,0.48,rain,79.0,73.04,70.5,0.82,1023.2,0.22,7,73.87,79.0,24.25,-76.0
+The Bahamas,,2/10/2020,Humid throughout the day.,rain,0.57,0.006,0.0537,0.48,rain,79.24,75.7,70.18,0.8,1022.2,0.27,7,73.04,79.24,24.25,-76.0
+The Bahamas,,2/11/2020,Humid throughout the day.,clear-day,0.61,0.0012,0.0033,0.2,rain,80.49,75.91,71.72,0.81,1021.1,0.12,7,75.7,80.49,24.25,-76.0
+The Bahamas,,2/12/2020,Humid throughout the day.,clear-day,0.64,0.0011,0.0022,0.17,rain,79.58,75.87,71.35,0.81,1020.5,0.13,7,75.91,79.58,24.25,-76.0
+The Bahamas,,2/13/2020,Clear throughout the day.,clear-day,0.68,0.0008,0.002,0.15,rain,80.0,75.17,70.36,0.78,1020.0,0.23,8,75.76,80.0,24.25,-76.0
+The Bahamas,,2/14/2020,Clear throughout the day.,clear-day,0.72,0.0007,0.0022,0.19,rain,79.88,74.18,68.71,0.75,1020.8,0.13,8,75.02,79.88,24.25,-76.0
+The Bahamas,,2/15/2020,Clear throughout the day.,clear-day,0.75,0.0009,0.0021,0.18,rain,79.13,73.6,67.5,0.74,1021.0,0.08,8,74.18,79.13,24.25,-76.0
+The Bahamas,,2/16/2020,Clear throughout the day.,clear-day,0.79,0.0013,0.0032,0.24,rain,78.63,74.04,68.44,0.78,1019.1,0.14,8,73.6,78.63,24.25,-76.0
+The Bahamas,,2/17/2020,Clear throughout the day.,clear-day,0.82,0.0005,0.0019,0.16,rain,79.16,74.65,68.97,0.77,1019.1,0.09,8,74.04,79.16,24.25,-76.0
+The Bahamas,,2/18/2020,Clear throughout the day.,clear-day,0.86,0.0014,0.0023,0.2,rain,79.77,75.59,70.5,0.8,1020.7,0.21,7,74.65,79.77,24.25,-76.0
+The Bahamas,,2/19/2020,Humid throughout the day.,clear-day,0.89,0.0018,0.0128,0.21,rain,79.09,74.37,71.55,0.83,1021.1,0.19,8,75.05,79.09,24.25,-76.0
+The Bahamas,,2/20/2020,Clear throughout the day.,clear-day,0.92,0.0011,0.0025,0.16,rain,79.03,73.87,69.77,0.79,1019.0,0.15,8,74.37,79.03,24.25,-76.0
+The Bahamas,,2/21/2020,Clear throughout the day.,rain,0.95,0.0016,0.0054,0.28,rain,79.19,71.16,69.42,0.79,1016.2,0.06,9,73.87,79.19,24.25,-76.0
+The Bahamas,,2/22/2020,Possible light rain in the morning.,rain,0.98,0.0089,0.0836,0.56,rain,74.49,69.09,65.14,0.78,1017.4,0.44,7,70.72,74.53,24.25,-76.0
+The Bahamas,,2/23/2020,Clear throughout the day.,clear-day,0.01,0.0005,0.0025,0.22,rain,72.85,70.1,59.34,0.67,1020.4,0.23,8,69.09,72.85,24.25,-76.0
+The Bahamas,,2/24/2020,Partly cloudy throughout the day.,clear-day,0.04,0.0009,0.0027,0.19,rain,74.92,71.63,60.75,0.67,1019.3,0.3,8,70.1,74.92,24.25,-76.0
+The Bahamas,,2/25/2020,Clear throughout the day.,clear-day,0.07,0.0012,0.0037,0.14,rain,77.48,73.94,66.97,0.77,1017.5,0.14,8,71.63,77.48,24.25,-76.0
+The Bahamas,,2/26/2020,Clear throughout the day.,clear-day,0.1,0.0006,0.0022,0.15,rain,78.35,74.99,69.38,0.79,1017.1,0.09,9,73.94,78.35,24.25,-76.0
+The Bahamas,,2/27/2020,Possible light rain in the morning.,rain,0.13,0.0065,0.0537,0.61,rain,77.74,69.38,69.39,0.81,1016.5,0.39,9,70.71,77.74,24.25,-76.0
+The Bahamas,,2/28/2020,Mostly cloudy throughout the day.,rain,0.16,0.0023,0.0184,0.36,rain,74.23,67.17,63.16,0.76,1020.3,0.76,6,68.13,74.23,24.25,-76.0
+The Bahamas,,2/29/2020,Clear throughout the day.,clear-day,0.2,0.0007,0.0025,0.17,rain,71.41,65.69,56.03,0.63,1022.5,0.31,8,67.17,71.41,24.25,-76.0
+The Bahamas,,3/1/2020,Clear throughout the day.,clear-day,0.23,0.0006,0.0025,0.14,rain,71.96,68.54,55.26,0.62,1023.7,0.21,7,65.69,71.96,24.25,-76.0
+The Bahamas,,3/2/2020,Clear throughout the day.,clear-day,0.26,0.0013,0.003,0.15,rain,74.47,70.95,59.21,0.65,1021.9,0.3,8,68.54,74.47,24.25,-76.0
+The Bahamas,,3/3/2020,Clear throughout the day.,clear-day,0.29,0.0013,0.003,0.21,rain,77.34,73.79,67.37,0.79,1019.4,0.17,9,70.95,77.34,24.25,-76.0
+The Bahamas,,3/4/2020,Humid throughout the day.,clear-day,0.33,0.0007,0.0028,0.12,rain,78.43,75.8,70.8,0.83,1019.0,0.11,9,73.79,78.43,24.25,-76.0
+The Bahamas,,3/5/2020,Humid throughout the day.,clear-day,0.36,0.0009,0.0026,0.12,rain,78.86,75.26,72.81,0.86,1019.5,0.15,9,75.8,78.86,24.25,-76.0
+The Bahamas,,3/6/2020,Humid throughout the day.,clear-day,0.4,0.0014,0.0037,0.23,rain,78.26,70.44,71.79,0.85,1018.0,0.14,9,74.59,78.26,24.25,-76.0
+The Bahamas,,3/7/2020,Windy in the evening and overnight.,rain,0.44,0.0017,0.0055,0.36,rain,75.23,66.48,61.17,0.69,1019.8,0.41,9,67.3,75.23,24.25,-76.0
+The Bahamas,,3/8/2020,Windy and partly cloudy throughout the day.,wind,0.47,0.0009,0.0027,0.23,rain,71.59,68.89,56.07,0.63,1025.9,0.46,8,66.48,71.59,24.25,-76.0
+The Bahamas,,3/9/2020,Windy and partly cloudy throughout the day.,rain,0.51,0.0013,0.003,0.32,rain,73.58,70.64,60.39,0.69,1027.3,0.57,7,68.89,73.58,24.25,-76.0
+The Bahamas,,3/10/2020,Clear throughout the day.,rain,0.55,0.0008,0.0023,0.25,rain,75.36,70.57,63.08,0.71,1024.8,0.25,8,70.64,75.36,24.25,-76.0
+The Bahamas,,3/11/2020,Partly cloudy throughout the day.,rain,0.59,0.005,0.0637,0.43,rain,76.1,71.3,66.26,0.78,1019.6,0.45,8,70.57,76.1,24.25,-76.0
+The Bahamas,,3/12/2020,Clear throughout the day.,rain,0.63,0.0049,0.0616,0.46,rain,75.98,72.36,68.18,0.83,1016.6,0.26,9,71.3,75.98,24.25,-76.0
+The Bahamas,,3/13/2020,Clear throughout the day.,rain,0.67,0.0013,0.0029,0.3,rain,77.75,73.29,69.71,0.83,1019.1,0.19,10,72.36,77.75,24.25,-76.0
+The Bahamas,,3/14/2020,Clear throughout the day.,clear-day,0.7,0.0008,0.0019,0.17,rain,78.83,72.7,69.29,0.81,1022.7,0.2,10,73.29,78.83,24.25,-76.0
+The Bahamas,,3/15/2020,Clear throughout the day.,clear-day,0.74,0.0006,0.0019,0.1,rain,77.39,72.45,66.23,0.75,1022.5,0.24,10,72.7,77.39,24.25,-76.0
+The Bahamas,,3/16/2020,Partly cloudy throughout the day.,clear-day,0.77,0.0006,0.0017,0.09,rain,77.2,72.52,65.85,0.74,1021.8,0.28,9,72.45,77.2,24.25,-76.0
+The Bahamas,,3/17/2020,Partly cloudy throughout the day.,clear-day,0.8,0.0014,0.0028,0.19,rain,77.28,72.39,67.83,0.79,1022.0,0.22,9,72.52,77.28,24.25,-76.0
+The Bahamas,,3/18/2020,Clear throughout the day.,clear-day,0.84,0.0013,0.0034,0.17,rain,78.31,72.93,67.54,0.77,1023.5,0.19,10,72.39,78.31,24.25,-76.0
+The Bahamas,,3/19/2020,Clear throughout the day.,clear-day,0.87,0.0008,0.0025,0.15,rain,77.97,73.3,67.5,0.76,1024.4,0.23,10,72.93,77.97,24.25,-76.0
+The Bahamas,,3/20/2020,Clear throughout the day.,clear-day,0.9,0.0035,0.055999999999999994,0.23,rain,77.88,72.73,67.61,0.77,1024.7,0.23,9,73.3,77.88,24.25,-76.0
+The Bahamas,,3/21/2020,Clear throughout the day.,clear-day,0.93,0.0019,0.0165,0.22,rain,78.17,72.24,67.53,0.78,1023.4,0.22,10,72.73,78.17,24.25,-76.0
+The Bahamas,,3/22/2020,Clear throughout the day.,clear-day,0.96,0.0008,0.0025,0.2,rain,77.75,72.32,66.95,0.77,1022.6,0.17,11,72.24,77.75,24.25,-76.0
+The Bahamas,,3/23/2020,Clear throughout the day.,clear-day,0.99,0.0011,0.003,0.23,rain,78.21,72.29,67.31,0.77,1022.9,0.09,11,72.32,78.21,24.25,-76.0
+The Bahamas,,3/24/2020,Clear throughout the day.,clear-day,0.02,0.0009,0.0019,0.18,rain,78.08,72.76,67.64,0.78,1020.9,0.03,11,72.29,78.08,24.25,-76.0
+The Bahamas,,3/25/2020,Clear throughout the day.,clear-day,0.05,0.0008,0.0023,0.17,rain,78.47,73.01,67.48,0.76,1017.4,0.15,10,72.76,78.47,24.25,-76.0
+The Bahamas,,3/26/2020,Clear throughout the day.,clear-day,0.08,0.0005,0.0028,0.21,rain,78.28,73.69,69.16,0.8,1016.1,0.08,10,73.01,78.28,24.25,-76.0
+The Bahamas,,3/27/2020,Clear throughout the day.,clear-day,0.11,0.0001,0.001,0.09,rain,77.6,73.33,66.81,0.75,1016.8,0.11,10,73.69,77.6,24.25,-76.0
+The Bahamas,,3/28/2020,Clear throughout the day.,clear-day,0.14,0.0008,0.0025,0.09,rain,79.27,74.92,68.49,0.77,1018.6,0.22,10,73.33,79.27,24.25,-76.0
+The Bahamas,,3/29/2020,Clear throughout the day.,clear-day,0.17,0.0009,0.0029,0.1,rain,79.42,74.85,70.33,0.8,1020.7,0.23,10,74.92,79.42,24.25,-76.0
+The Bahamas,,3/30/2020,Partly cloudy throughout the day.,clear-day,0.2,0.001,0.0027,0.12,rain,78.76,74.62,69.95,0.8,1019.6,0.26,9,74.85,78.76,24.25,-76.0
+The Bahamas,,3/31/2020,Clear throughout the day.,clear-day,0.24,0.0007,0.0021,0.11,rain,79.94,75.51,69.47,0.78,1014.3,0.13,10,74.62,79.94,24.25,-76.0
+The Bahamas,,4/1/2020,Humid throughout the day.,rain,0.27,0.0031,0.0295,0.29,rain,81.03,72.3,72.36,0.83,1010.3,0.12,11,75.51,81.03,24.25,-76.0
+The Bahamas,,4/2/2020,Clear throughout the day.,clear-day,0.31,0.0007,0.0024,0.09,rain,77.27,70.5,62.68,0.66,1013.8,0.13,11,72.3,77.27,24.25,-76.0
+The Bahamas,,4/3/2020,Clear throughout the day.,clear-day,0.34,0.0009,0.0026,0.06,rain,76.19,71.72,58.76,0.6,1015.1,0.17,10,70.5,76.19,24.25,-76.0
+The Bahamas,,4/4/2020,Clear throughout the day.,clear-day,0.38,0.0008,0.0024,0.11,rain,77.41,72.8,60.26,0.61,1014.9,0.08,11,71.72,77.41,24.25,-76.0
+The Bahamas,,4/5/2020,Clear throughout the day.,clear-day,0.42,0.0008,0.0018,0.11,rain,77.64,73.85,61.81,0.63,1016.3,0.18,11,72.8,77.64,24.25,-76.0
+The Bahamas,,4/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.46,0.0009,0.0021,0.16,rain,78.93,73.33,65.54,0.7,1017.7,0.46,9,73.85,78.93,24.25,-76.0
+The Bahamas,,4/7/2020,Clear throughout the day.,clear-day,0.5,0.0018,0.0067,0.23,rain,78.16,73.29,68.71,0.79,1018.4,0.21,11,73.33,78.16,24.25,-76.0
+The Bahamas,,4/8/2020,Clear throughout the day.,clear-day,0.54,0.001,0.0024,0.16,rain,78.91,75.53,69.55,0.79,1016.2,0.11,11,73.29,78.91,24.25,-76.0
+The Bahamas,,4/9/2020,Humid throughout the day.,clear-day,0.58,0.0012,0.0023,0.12,rain,80.48,77.49,72.07,0.82,1013.4,0.01,12,75.53,80.48,24.25,-76.0
+The Bahamas,,4/10/2020,Humid throughout the day.,clear-day,0.61,0.0005,0.0022,0.11,rain,81.13,77.16,74.59,0.86,1012.7,0.09,11,77.49,81.13,24.25,-76.0
+The Bahamas,,4/11/2020,Humid throughout the day.,clear-day,0.65,0.0008,0.0023,0.18,rain,80.51,76.02,74.48,0.88,1016.1,0.19,9,76.77,80.51,24.25,-76.0
+The Bahamas,,4/12/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0006,0.0019,0.17,rain,80.93,77.44,73.57,0.85,1019.6,0.35,10,76.02,80.93,24.25,-76.0
+The Bahamas,,4/13/2020,Humid throughout the day.,rain,0.72,0.0028,0.0478,0.27,rain,81.13,77.35,75.06,0.87,1020.1,0.23,11,77.44,81.13,24.25,-76.0
+The Bahamas,,4/14/2020,Humid throughout the day.,clear-day,0.75,0.0029,0.0376,0.22,rain,81.29,76.34,74.13,0.85,1019.1,0.24,11,77.31,81.29,24.25,-76.0
+The Bahamas,,4/15/2020,Humid throughout the day.,clear-day,0.78,0.0006,0.0022,0.1,rain,80.89,77.02,73.82,0.85,1017.1,0.27,11,76.34,80.89,24.25,-76.0
+The Bahamas,,4/16/2020,Humid throughout the day.,clear-day,0.82,0.0009,0.0024,0.1,rain,82.13,76.75,74.39,0.85,1017.9,0.17,11,77.02,82.13,24.25,-76.0
+The Bahamas,,4/17/2020,Humid throughout the day.,clear-day,0.85,0.0006,0.0019,0.21,rain,81.37,77.49,73.58,0.83,1020.0,0.18,11,76.75,81.37,24.25,-76.0
+The Bahamas,,4/18/2020,Humid throughout the day.,clear-day,0.88,0.0008,0.0023,0.11,rain,81.94,77.61,72.87,0.8,1018.6,0.13,11,77.49,81.94,24.25,-76.0
+The Bahamas,,4/19/2020,Humid throughout the day.,clear-day,0.91,0.0008,0.002,0.12,rain,82.05,78.13,73.6,0.82,1016.9,0.14,11,77.61,82.05,24.25,-76.0
+The Bahamas,,4/20/2020,Humid and partly cloudy throughout the day.,clear-day,0.94,0.0011,0.0031,0.13,rain,83.07,78.84,75.76,0.85,1014.5,0.26,9,78.13,83.07,24.25,-76.0

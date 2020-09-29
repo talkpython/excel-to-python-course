@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Iraq,,12/31/2019,Mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0002,0.04,rain,66.58,45.58,41.99,0.64,1017.6,0.63,3,46.4,66.58,33.0,44.0
+Iraq,,1/1/2020,Overcast throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.05,rain,66.16,48.72,40.55,0.6,1018.9,0.68,2,45.58,66.16,33.0,44.0
+Iraq,,1/2/2020,Clear throughout the day.,clear-day,0.27,0.0,0.0003,0.02,,69.78,47.95,40.46,0.54,1018.2,0.05,3,48.72,69.78,33.0,44.0
+Iraq,,1/3/2020,Clear throughout the day.,clear-day,0.3,0.0001,0.0003,0.08,rain,65.06,43.6,41.54,0.62,1015.2,0.11,3,47.26,65.06,33.0,44.0
+Iraq,,1/4/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0003,0.06,rain,64.3,45.74,39.91,0.63,1015.5,0.06,3,45.14,64.3,33.0,44.0
+Iraq,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,68.45,45.84,41.29,0.61,1020.3,0.18,3,45.74,68.45,33.0,44.0
+Iraq,,1/6/2020,Clear throughout the day.,clear-day,0.39,0.0001,0.0002,0.04,rain,68.57,48.42,38.96,0.56,1020.8,0.0,3,45.84,68.57,33.0,44.0
+Iraq,,1/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0015,0.0121,0.11,rain,65.79,44.48,39.32,0.54,1013.3,0.32,3,48.43,65.79,33.0,44.0
+Iraq,,1/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.46,0.0011,0.0104,0.17,rain,63.54,51.23,37.78,0.56,1014.1,0.5,2,44.48,63.54,33.0,44.0
+Iraq,,1/9/2020,Mostly cloudy throughout the day.,rain,0.5,0.0004,0.0026,0.26,rain,62.64,45.49,42.22,0.61,1012.9,0.8,2,49.81,62.64,33.0,44.0
+Iraq,,1/10/2020,Clear throughout the day.,clear-day,0.53,0.0001,0.0003,0.07,rain,63.54,44.33,40.23,0.63,1016.0,0.14,3,45.49,63.54,33.0,44.0
+Iraq,,1/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0001,0.0003,0.04,rain,63.61,43.85,33.95,0.52,1021.5,0.43,3,44.33,63.61,33.0,44.0
+Iraq,,1/12/2020,Possible light rain in the evening.,rain,0.61,0.0023,0.0166,0.49,rain,64.36,40.63,39.52,0.63,1019.0,0.74,2,43.85,64.36,33.0,44.0
+Iraq,,1/13/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0001,0.01,,62.52,40.19,35.87,0.62,1023.6,0.01,3,40.63,62.52,33.0,44.0
+Iraq,,1/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0,0.0001,0.02,,62.36,42.28,33.42,0.54,1026.0,0.41,3,40.19,62.36,33.0,44.0
+Iraq,,1/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0001,0.0003,0.07,rain,66.16,46.63,31.65,0.48,1025.1,0.57,3,42.28,66.16,33.0,44.0
+Iraq,,1/16/2020,Clear throughout the day.,partly-cloudy-day,0.76,0.0012,0.0085,0.17,rain,73.59,45.81,34.04,0.42,1015.4,0.57,3,46.63,73.59,33.0,44.0
+Iraq,,1/17/2020,Clear throughout the day.,clear-day,0.79,0.0,0.0002,0.05,,65.5,45.62,41.27,0.61,1014.0,0.09,3,45.81,65.5,33.0,44.0
+Iraq,,1/18/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0002,0.0016,0.17,rain,63.62,48.27,43.48,0.68,1018.8,0.47,3,45.62,63.62,33.0,44.0
+Iraq,,1/19/2020,Possible light rain overnight.,clear-day,0.86,0.0002,0.003,0.12,rain,67.55,47.16,44.52,0.66,1021.8,0.27,3,48.27,67.55,33.0,44.0
+Iraq,,1/20/2020,Light rain starting in the afternoon.,rain,0.9,0.0115,0.0523,0.93,rain,63.0,47.99,45.81,0.75,1017.0,0.62,2,47.16,63.0,33.0,44.0
+Iraq,,1/21/2020,Light rain throughout the day.,rain,0.93,0.0241,0.0617,0.99,rain,52.29,45.91,45.69,0.86,1013.9,0.9,2,47.97,52.29,33.0,44.0
+Iraq,,1/22/2020,Clear throughout the day.,rain,0.96,0.0016,0.0097,0.5,rain,57.52,42.74,41.96,0.73,1019.0,0.34,3,45.91,57.52,33.0,44.0
+Iraq,,1/23/2020,Rain in the evening and overnight.,rain,1.0,0.0165,0.1176,0.85,rain,60.36,44.12,40.09,0.68,1016.3,0.55,2,42.74,60.36,33.0,44.0
+Iraq,,1/24/2020,Partly cloudy throughout the day.,rain,0.03,0.004,0.0535,0.67,rain,55.52,44.18,40.94,0.75,1021.3,0.65,3,44.12,55.52,33.0,44.0
+Iraq,,1/25/2020,Clear throughout the day.,clear-day,0.06,0.0001,0.0003,0.05,rain,59.27,40.18,38.25,0.65,1026.0,0.0,4,44.18,59.27,33.0,44.0
+Iraq,,1/26/2020,Clear throughout the day.,clear-day,0.09,0.0001,0.0004,0.04,rain,63.41,42.3,40.0,0.7,1025.0,0.08,4,40.18,63.41,33.0,44.0
+Iraq,,1/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.12,0.0,0.0002,0.02,,64.5,48.06,41.59,0.68,1021.5,0.8,3,42.3,64.5,33.0,44.0
+Iraq,,1/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.15,0.0004,0.0017,0.11,rain,66.84,44.02,40.92,0.59,1017.6,0.64,2,48.06,66.84,33.0,44.0
+Iraq,,1/29/2020,Clear throughout the day.,clear-day,0.18,0.0001,0.0003,0.05,rain,67.28,45.28,40.6,0.62,1021.7,0.0,3,44.02,67.28,33.0,44.0
+Iraq,,1/30/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.05,rain,70.99,47.73,40.44,0.56,1015.1,0.1,3,45.28,70.99,33.0,44.0
+Iraq,,1/31/2020,Clear throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.08,rain,59.9,44.06,29.69,0.41,1016.6,0.4,4,47.73,59.9,33.0,44.0
+Iraq,,2/1/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0003,0.04,rain,60.3,40.39,36.21,0.58,1023.1,0.28,4,44.06,60.3,33.0,44.0
+Iraq,,2/2/2020,Clear throughout the day.,clear-day,0.3,0.0,0.0003,0.03,,61.65,41.01,34.9,0.59,1025.3,0.0,4,40.39,61.65,33.0,44.0
+Iraq,,2/3/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.06,rain,65.8,43.79,34.58,0.54,1020.4,0.29,4,41.01,65.8,33.0,44.0
+Iraq,,2/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.02,rain,71.51,47.02,35.23,0.48,1019.9,0.0,4,43.79,71.51,33.0,44.0
+Iraq,,2/5/2020,Clear throughout the day.,clear-day,0.41,0.0001,0.0003,0.03,rain,77.66,50.83,36.2,0.43,1019.1,0.0,5,47.02,77.66,33.0,44.0
+Iraq,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.03,rain,75.85,51.76,41.68,0.47,1013.5,0.0,5,50.83,75.85,33.0,44.0
+Iraq,,2/7/2020,Partly cloudy throughout the day.,clear-day,0.48,0.0,0.0003,0.02,,67.49,46.23,39.3,0.5,1013.6,0.24,4,51.76,67.49,33.0,44.0
+Iraq,,2/8/2020,Clear throughout the day.,partly-cloudy-day,0.52,0.0003,0.0016,0.11,rain,57.31,36.06,30.8,0.47,1021.2,0.47,4,42.88,57.49,33.0,44.0
+Iraq,,2/9/2020,Clear throughout the day.,partly-cloudy-day,0.56,0.0002,0.001,0.09,rain,45.67,33.15,3.59,0.23,1024.1,0.39,4,34.83,45.67,33.0,44.0
+Iraq,,2/10/2020,Clear throughout the day.,partly-cloudy-day,0.59,0.0005,0.0032,0.14,rain,45.84,29.65,13.93,0.38,1025.4,0.54,4,33.15,45.84,33.0,44.0
+Iraq,,2/11/2020,Clear throughout the day.,partly-cloudy-day,0.63,0.0001,0.0004,0.05,rain,53.17,39.12,14.08,0.35,1029.3,0.35,4,29.65,53.17,33.0,44.0
+Iraq,,2/12/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.09,rain,66.72,41.71,14.97,0.24,1025.6,0.28,5,39.12,66.72,33.0,44.0
+Iraq,,2/13/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.03,rain,66.23,44.19,28.93,0.41,1025.7,0.12,5,41.71,66.23,33.0,44.0
+Iraq,,2/14/2020,Overcast throughout the day.,cloudy,0.74,0.0001,0.0003,0.04,rain,66.78,42.68,21.28,0.3,1022.5,0.95,3,44.19,66.78,33.0,44.0
+Iraq,,2/15/2020,Possible drizzle overnight.,partly-cloudy-day,0.78,0.0006,0.0091,0.24,rain,69.77,51.06,30.08,0.4,1016.5,0.82,3,42.68,69.77,33.0,44.0
+Iraq,,2/16/2020,Clear throughout the day.,rain,0.81,0.0011,0.0147,0.5,rain,69.85,47.47,48.21,0.68,1016.1,0.37,5,51.06,69.85,33.0,44.0
+Iraq,,2/17/2020,Clear throughout the day.,clear-day,0.84,0.0011,0.0059,0.17,rain,74.64,54.38,49.17,0.67,1019.2,0.26,5,47.47,74.64,33.0,44.0
+Iraq,,2/18/2020,Overcast throughout the day.,cloudy,0.88,0.0013,0.012,0.17,rain,75.11,51.82,51.05,0.65,1010.3,0.98,3,54.38,75.11,33.0,44.0
+Iraq,,2/19/2020,Light rain in the morning.,rain,0.91,0.002,0.0171,0.67,rain,68.55,48.33,49.75,0.7,1011.7,0.53,4,51.82,68.55,33.0,44.0
+Iraq,,2/20/2020,Clear throughout the day.,clear-day,0.94,0.0001,0.0003,0.05,rain,72.13,53.2,45.87,0.62,1017.4,0.11,6,48.33,72.13,33.0,44.0
+Iraq,,2/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0005,0.0032,0.06,rain,78.53,53.36,42.76,0.48,1015.5,0.38,5,53.2,78.53,33.0,44.0
+Iraq,,2/22/2020,Clear throughout the day.,clear-day,0.0,0.0001,0.0003,0.05,rain,75.07,56.18,46.66,0.59,1018.3,0.26,6,53.36,75.07,33.0,44.0
+Iraq,,2/23/2020,Overcast throughout the day.,cloudy,0.03,0.0001,0.0005,0.04,rain,78.0,60.61,49.43,0.56,1013.8,1.0,4,56.18,78.0,33.0,44.0
+Iraq,,2/24/2020,Light rain throughout the day.,rain,0.06,0.0171,0.0703,0.96,rain,66.27,50.95,60.04,0.92,1006.3,0.89,4,57.5,66.27,33.0,44.0
+Iraq,,2/25/2020,Possible light rain in the morning.,rain,0.09,0.011000000000000001,0.0848,0.83,rain,61.3,43.22,45.27,0.69,1012.2,0.23,6,50.45,61.3,33.0,44.0
+Iraq,,2/26/2020,Clear throughout the day.,clear-day,0.12,0.0,0.0003,0.02,,71.09,48.31,42.9,0.62,1020.9,0.01,6,43.22,71.09,33.0,44.0
+Iraq,,2/27/2020,Overcast throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.01,rain,73.93,49.38,44.64,0.58,1017.3,0.69,4,48.31,73.93,33.0,44.0
+Iraq,,2/28/2020,Clear throughout the day.,clear-day,0.18,0.0,0.0003,0.02,,77.5,53.27,44.41,0.55,1011.8,0.0,6,49.38,77.5,33.0,44.0
+Iraq,,2/29/2020,Clear throughout the day.,clear-day,0.22,0.0001,0.0003,0.05,rain,68.83,50.68,42.16,0.53,1010.4,0.13,6,53.27,68.83,33.0,44.0
+Iraq,,3/1/2020,Clear throughout the day.,clear-day,0.25,0.0001,0.0002,0.03,rain,69.73,48.76,40.61,0.53,1017.9,0.0,6,50.68,69.73,33.0,44.0
+Iraq,,3/2/2020,Clear throughout the day.,clear-day,0.28,0.0001,0.0002,0.03,rain,72.78,48.4,39.97,0.5,1021.3,0.0,6,48.76,72.78,33.0,44.0
+Iraq,,3/3/2020,Clear throughout the day.,clear-day,0.31,0.0,0.0002,0.01,,74.56,49.45,40.77,0.5,1018.6,0.0,7,48.4,74.56,33.0,44.0
+Iraq,,3/4/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0003,0.01,rain,78.59,50.39,39.51,0.46,1016.5,0.0,7,49.45,78.59,33.0,44.0
+Iraq,,3/5/2020,Dangerously windy in the evening and overnight.,wind,0.39,0.0003,0.0017,0.03,rain,82.27,61.01,34.89,0.34,1010.5,0.13,7,50.39,82.27,33.0,44.0
+Iraq,,3/6/2020,Partly cloudy throughout the day.,wind,0.42,0.0004,0.0024,0.04,rain,73.69,52.9,46.23,0.48,1008.1,0.48,5,61.01,73.69,33.0,44.0
+Iraq,,3/7/2020,Clear throughout the day.,clear-day,0.46,0.0001,0.0005,0.03,rain,80.4,58.65,45.89,0.52,1015.9,0.02,7,52.9,80.4,33.0,44.0
+Iraq,,3/8/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0003,0.01,rain,84.4,55.51,42.53,0.41,1015.6,0.01,7,58.65,84.4,33.0,44.0
+Iraq,,3/9/2020,Clear throughout the day.,clear-day,0.54,0.0,0.0,0.0,,84.68,59.29,38.15,0.35,1016.2,0.19,7,55.51,84.68,33.0,44.0
+Iraq,,3/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0002,0.0004,0.04,rain,86.49,60.13,35.44,0.27,1016.1,0.62,4,59.29,86.49,33.0,44.0
+Iraq,,3/11/2020,Overcast throughout the day.,partly-cloudy-day,0.62,0.0002,0.0004,0.06,rain,87.08,66.4,34.45,0.25,1015.2,0.85,4,60.13,87.08,33.0,44.0
+Iraq,,3/12/2020,"Windy until morning, starting again in the evening.",cloudy,0.66,0.0016,0.0124,0.14,rain,86.0,60.07,28.29,0.2,1010.4,0.99,4,66.4,86.0,33.0,44.0
+Iraq,,3/13/2020,Light rain starting in the afternoon.,rain,0.69,0.0062,0.0319,0.86,rain,70.99,55.73,53.43,0.64,1008.9,0.69,4,60.07,70.99,33.0,44.0
+Iraq,,3/14/2020,Possible drizzle in the morning.,rain,0.73,0.002,0.0123,0.79,rain,73.98,57.1,56.51,0.78,1013.4,0.52,7,55.73,73.98,33.0,44.0
+Iraq,,3/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.0,0.0001,0.02,,76.31,57.36,53.79,0.65,1015.5,0.47,4,57.1,76.31,33.0,44.0
+Iraq,,3/16/2020,Light rain and windy overnight.,clear-day,0.79,0.0019,0.03,0.17,rain,82.55,61.92,52.24,0.54,1012.2,0.23,7,57.36,82.55,33.0,44.0
+Iraq,,3/17/2020,Possible light rain and windy in the morning.,rain,0.83,0.0083,0.0411,0.83,rain,71.72,53.04,51.7,0.62,1008.3,0.48,4,56.72,71.72,33.0,44.0
+Iraq,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0003,0.02,rain,69.49,51.63,43.95,0.56,1014.1,0.09,7,53.04,69.49,33.0,44.0
+Iraq,,3/19/2020,Clear throughout the day.,clear-day,0.89,0.0012,0.0055,0.15,rain,74.24,51.04,43.96,0.53,1012.0,0.31,6,51.63,74.24,33.0,44.0
+Iraq,,3/20/2020,Rain in the afternoon and evening.,rain,0.92,0.025,0.1443,0.87,rain,72.25,47.86,47.4,0.66,1007.7,0.68,4,51.04,72.25,33.0,44.0
+Iraq,,3/21/2020,Clear throughout the day.,rain,0.95,0.0017,0.0126,0.37,rain,64.67,49.56,46.0,0.69,1010.5,0.29,6,47.86,64.67,33.0,44.0
+Iraq,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0004,0.03,rain,74.85,49.15,43.28,0.54,1013.5,0.04,7,49.56,74.85,33.0,44.0
+Iraq,,3/23/2020,Partly cloudy throughout the day.,clear-day,0.01,0.0001,0.0003,0.01,rain,79.66,57.05,38.09,0.42,1012.2,0.24,5,49.15,79.66,33.0,44.0
+Iraq,,3/24/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.04,0.0062,0.0284,0.11,rain,82.5,55.09,43.78,0.42,1009.3,0.63,3,57.05,82.5,33.0,44.0
+Iraq,,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0021,0.0151,0.15,rain,83.85,59.49,49.51,0.53,1010.6,0.19,7,55.09,83.85,33.0,44.0
+Iraq,,3/26/2020,Overcast throughout the day.,partly-cloudy-day,0.1,0.0008,0.0045,0.13,rain,82.55,64.43,49.62,0.49,1011.6,0.76,4,59.49,82.55,33.0,44.0
+Iraq,,3/27/2020,Possible light rain in the morning and afternoon.,rain,0.13,0.0099,0.0544,0.71,rain,75.51,54.89,55.88,0.66,1008.2,0.71,5,62.18,75.51,33.0,44.0
+Iraq,,3/28/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0003,0.0046,0.17,rain,75.26,55.06,49.23,0.6,1009.9,0.37,4,54.89,75.26,33.0,44.0
+Iraq,,3/29/2020,Clear throughout the day.,clear-day,0.19,0.0002,0.0004,0.05,rain,77.85,57.05,40.89,0.41,1011.2,0.18,8,55.06,77.85,33.0,44.0
+Iraq,,3/30/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.1,rain,81.89,63.63,42.9,0.4,1014.8,0.67,7,57.05,81.89,33.0,44.0
+Iraq,,3/31/2020,Dangerously windy in the morning.,wind,0.26,0.0002,0.0012,0.03,rain,90.2,60.49,38.51,0.3,1008.0,0.42,8,63.63,90.2,33.0,44.0
+Iraq,,4/1/2020,Clear throughout the day.,partly-cloudy-day,0.3,0.0001,0.0003,0.01,rain,80.19,56.16,46.68,0.45,1012.0,0.36,7,60.49,80.19,33.0,44.0
+Iraq,,4/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.33,0.0001,0.0002,0.03,rain,84.51,60.23,41.8,0.39,1013.9,0.47,4,56.16,84.51,33.0,44.0
+Iraq,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.03,rain,81.84,54.04,43.34,0.39,1016.9,0.2,8,60.23,81.84,33.0,44.0
+Iraq,,4/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.41,0.0,0.0002,0.01,,84.62,61.64,35.65,0.32,1018.9,0.45,8,54.04,84.62,33.0,44.0
+Iraq,,4/5/2020,Windy in the evening.,wind,0.45,0.0012,0.0077,0.12,rain,90.87,65.19,44.61,0.33,1013.0,0.96,5,61.64,90.87,33.0,44.0
+Iraq,,4/6/2020,Overcast throughout the day.,cloudy,0.49,0.0007,0.0025,0.09,rain,87.63,64.63,51.32,0.45,1010.8,0.99,4,65.19,87.63,33.0,44.0
+Iraq,,4/7/2020,Overcast throughout the day.,cloudy,0.53,0.0011,0.0063,0.08,rain,90.65,65.45,51.46,0.4,1008.9,0.99,4,64.63,90.65,33.0,44.0
+Iraq,,4/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.56,0.0018,0.0207,0.15,rain,88.79,63.82,58.75,0.54,1005.6,0.71,4,65.45,88.79,33.0,44.0
+Iraq,,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0003,0.03,rain,83.79,60.11,44.75,0.4,1006.5,0.0,8,63.82,83.79,33.0,44.0
+Iraq,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0001,0.0004,0.06,rain,80.89,59.08,40.8,0.34,1010.5,0.1,8,60.11,80.89,33.0,44.0
+Iraq,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0003,0.03,,80.95,58.5,45.21,0.42,1014.3,0.31,8,59.08,80.95,33.0,44.0
+Iraq,,4/12/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.04,rain,82.26,56.91,39.43,0.35,1015.9,0.1,8,58.5,82.26,33.0,44.0
+Iraq,,4/13/2020,Clear throughout the day.,clear-day,0.74,0.0,0.0,0.0,,83.28,59.08,32.38,0.27,1015.8,0.12,9,56.91,83.28,33.0,44.0
+Iraq,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0,0.0003,0.01,,86.09,57.19,31.44,0.25,1014.6,0.28,9,59.08,86.09,33.0,44.0
+Iraq,,4/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0002,0.02,rain,88.37,62.97,32.79,0.25,1012.0,0.33,5,57.19,88.37,33.0,44.0
+Iraq,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0001,0.0002,0.09,rain,91.33,69.19,38.06,0.26,1010.0,0.55,7,62.97,91.33,33.0,44.0
+Iraq,,4/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0002,0.001,0.12,rain,86.65,61.68,46.2,0.33,1011.3,0.83,4,69.19,86.65,33.0,44.0
+Iraq,,4/18/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0003,0.03,rain,91.09,65.12,46.7,0.39,1012.5,0.07,9,61.68,91.09,33.0,44.0
+Iraq,,4/19/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0004,0.06,rain,92.41,66.98,45.26,0.33,1011.5,0.13,9,65.12,92.41,33.0,44.0
+Iraq,,4/20/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0003,0.04,rain,96.02,69.04,41.82,0.26,1010.5,0.16,9,66.98,96.02,33.0,44.0

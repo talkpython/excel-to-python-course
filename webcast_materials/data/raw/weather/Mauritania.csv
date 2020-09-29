@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Mauritania,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.06,rain,61.81,35.54,23.15,0.36,1024.6,0.09,7,41.83,61.81,21.0079,10.9408
+Mauritania,,1/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.05,rain,64.94,40.25,25.51,0.42,1026.5,0.0,6,35.54,64.94,21.0079,10.9408
+Mauritania,,1/2/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0004,0.02,rain,68.66,40.69,29.75,0.44,1026.8,0.07,6,40.25,68.66,21.0079,10.9408
+Mauritania,,1/3/2020,Clear throughout the day.,clear-day,0.3,0.0002,0.0003,0.07,rain,71.03,40.51,29.87,0.44,1025.3,0.0,7,40.69,71.03,21.0079,10.9408
+Mauritania,,1/4/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0003,0.03,rain,70.12,40.5,28.45,0.42,1022.7,0.08,6,40.51,70.12,21.0079,10.9408
+Mauritania,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,70.34,40.6,24.11,0.36,1020.8,0.06,6,40.5,70.34,21.0079,10.9408
+Mauritania,,1/6/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0002,0.02,rain,69.47,44.3,22.71,0.31,1022.2,0.09,6,40.6,69.47,21.0079,10.9408
+Mauritania,,1/7/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.43,0.0,0.0002,0.03,,70.0,46.05,22.77,0.3,1022.7,0.45,6,44.3,70.0,21.0079,10.9408
+Mauritania,,1/8/2020,Partly cloudy throughout the day.,clear-day,0.47,0.0,0.0001,0.01,,73.94,46.98,20.47,0.24,1021.2,0.27,6,46.05,73.94,21.0079,10.9408
+Mauritania,,1/9/2020,Clear throughout the day.,partly-cloudy-day,0.5,0.0001,0.0003,0.07,rain,78.27,54.0,24.46,0.25,1019.0,0.46,7,46.67,78.27,21.0079,10.9408
+Mauritania,,1/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.54,0.0001,0.0003,0.03,rain,78.81,56.9,34.88,0.35,1019.4,0.82,5,54.0,78.81,21.0079,10.9408
+Mauritania,,1/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0001,0.0003,0.07,rain,82.5,54.75,31.99,0.29,1016.6,0.85,5,56.9,82.5,21.0079,10.9408
+Mauritania,,1/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0001,0.0003,0.03,rain,77.68,47.49,31.95,0.29,1013.9,0.54,5,57.29,77.68,21.0079,10.9408
+Mauritania,,1/13/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,68.24,42.09,26.67,0.33,1019.8,0.08,7,47.49,68.24,21.0079,10.9408
+Mauritania,,1/14/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0,0.0,,67.91,42.97,29.88,0.43,1022.7,0.02,7,42.09,67.91,21.0079,10.9408
+Mauritania,,1/15/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.03,,73.76,50.44,35.8,0.49,1023.3,0.23,7,42.97,73.76,21.0079,10.9408
+Mauritania,,1/16/2020,Overcast throughout the day.,partly-cloudy-day,0.76,0.0001,0.0004,0.05,rain,72.01,46.96,38.61,0.47,1023.1,0.85,4,50.44,72.01,21.0079,10.9408
+Mauritania,,1/17/2020,Clear throughout the day.,clear-day,0.8,0.0,0.0002,0.02,,73.55,43.65,31.12,0.4,1024.3,0.2,6,46.96,73.55,21.0079,10.9408
+Mauritania,,1/18/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0,0.0,,73.54,43.61,26.5,0.34,1022.4,0.0,7,43.65,73.54,21.0079,10.9408
+Mauritania,,1/19/2020,Clear throughout the day.,clear-day,0.87,0.0,0.0002,0.01,,78.4,47.46,25.73,0.3,1020.3,0.0,7,43.61,78.4,21.0079,10.9408
+Mauritania,,1/20/2020,Clear throughout the day.,clear-day,0.9,0.0,0.0,0.0,,80.37,47.12,18.71,0.21,1021.3,0.0,7,47.46,80.37,21.0079,10.9408
+Mauritania,,1/21/2020,Clear throughout the day.,clear-day,0.93,0.0,0.0001,0.01,,79.95,49.39,11.06,0.14,1021.5,0.08,7,47.12,79.95,21.0079,10.9408
+Mauritania,,1/22/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0002,0.02,rain,79.88,52.14,11.69,0.14,1022.2,0.1,7,49.39,79.88,21.0079,10.9408
+Mauritania,,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0001,0.0002,0.02,rain,82.28,53.69,-1.95,0.07,1022.0,0.09,7,52.14,82.28,21.0079,10.9408
+Mauritania,,1/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0003,0.03,rain,83.21,48.88,-9.18,0.05,1022.3,0.55,6,53.69,83.21,21.0079,10.9408
+Mauritania,,1/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.06,0.0001,0.0003,0.02,rain,82.28,46.43,-3.45,0.07,1021.2,0.54,5,48.88,82.28,21.0079,10.9408
+Mauritania,,1/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.09,0.0001,0.0004,0.04,rain,85.27,54.68,-2.17,0.07,1019.0,0.6,6,46.43,85.27,21.0079,10.9408
+Mauritania,,1/27/2020,Overcast throughout the day.,partly-cloudy-day,0.12,0.0,0.0002,0.03,,88.89,53.13,0.84,0.07,1018.1,0.86,5,54.68,88.89,21.0079,10.9408
+Mauritania,,1/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.07,rain,87.93,48.92,7.41,0.09,1019.1,0.58,5,53.13,87.93,21.0079,10.9408
+Mauritania,,1/29/2020,Clear throughout the day.,clear-day,0.18,0.0001,0.0003,0.05,rain,87.16,49.52,5.56,0.09,1019.9,0.0,8,48.92,87.16,21.0079,10.9408
+Mauritania,,1/30/2020,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.05,rain,87.15,48.41,11.76,0.13,1019.5,0.01,8,49.52,87.15,21.0079,10.9408
+Mauritania,,1/31/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.04,rain,84.61,45.79,13.92,0.15,1019.4,0.09,8,48.41,84.61,21.0079,10.9408
+Mauritania,,2/1/2020,Clear throughout the day.,clear-day,0.27,0.0,0.0002,0.02,,85.54,49.5,11.68,0.14,1018.7,0.0,7,45.79,85.54,21.0079,10.9408
+Mauritania,,2/2/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0003,0.04,rain,85.01,53.43,9.68,0.11,1019.2,0.0,7,49.5,85.01,21.0079,10.9408
+Mauritania,,2/3/2020,Clear throughout the day.,clear-day,0.34,0.0001,0.0003,0.05,rain,80.91,46.48,18.18,0.17,1021.0,0.0,7,53.43,80.91,21.0079,10.9408
+Mauritania,,2/4/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0003,0.03,rain,79.79,47.35,24.61,0.25,1018.9,0.0,8,46.48,79.79,21.0079,10.9408
+Mauritania,,2/5/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.01,,84.4,51.25,25.34,0.26,1017.9,0.01,8,47.35,84.4,21.0079,10.9408
+Mauritania,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.03,rain,77.06,42.63,10.64,0.16,1021.9,0.01,8,51.25,77.06,21.0079,10.9408
+Mauritania,,2/7/2020,Clear throughout the day.,clear-day,0.48,0.0,0.0003,0.02,,77.82,45.19,6.37,0.14,1022.8,0.0,8,42.63,77.82,21.0079,10.9408
+Mauritania,,2/8/2020,Clear throughout the day.,clear-day,0.52,0.0001,0.0003,0.01,rain,81.39,47.46,7.61,0.14,1022.8,0.07,8,45.19,81.39,21.0079,10.9408
+Mauritania,,2/9/2020,Clear throughout the day.,clear-day,0.56,0.0001,0.0004,0.01,rain,83.67,47.59,8.03,0.13,1024.8,0.0,9,47.46,83.67,21.0079,10.9408
+Mauritania,,2/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.6,0.0,0.0,0.0,,82.82,49.79,4.52,0.12,1023.7,0.69,5,47.59,82.82,21.0079,10.9408
+Mauritania,,2/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.0001,0.0004,0.01,rain,81.83,47.74,5.94,0.11,1021.7,0.85,6,49.79,81.83,21.0079,10.9408
+Mauritania,,2/12/2020,Clear throughout the day.,partly-cloudy-day,0.67,0.0001,0.0004,0.02,rain,85.11,45.91,0.74,0.08,1019.3,0.39,8,47.74,85.11,21.0079,10.9408
+Mauritania,,2/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0003,0.01,rain,87.73,54.64,-1.64,0.07,1017.6,0.67,5,45.91,87.73,21.0079,10.9408
+Mauritania,,2/14/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.01,rain,88.62,55.97,4.09,0.08,1017.6,0.18,8,54.64,88.62,21.0079,10.9408
+Mauritania,,2/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.01,rain,87.13,54.79,15.59,0.13,1019.1,0.76,6,55.97,87.13,21.0079,10.9408
+Mauritania,,2/16/2020,Clear throughout the day.,clear-day,0.81,0.0001,0.0003,0.02,rain,82.44,49.91,19.97,0.2,1019.0,0.21,8,54.79,82.44,21.0079,10.9408
+Mauritania,,2/17/2020,Clear throughout the day.,clear-day,0.85,0.0002,0.0004,0.03,rain,80.81,48.27,23.46,0.23,1019.4,0.11,9,49.91,80.81,21.0079,10.9408
+Mauritania,,2/18/2020,Clear throughout the day.,clear-day,0.88,0.0,0.0001,0.01,,79.82,47.82,21.72,0.24,1019.9,0.09,9,48.27,79.82,21.0079,10.9408
+Mauritania,,2/19/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0004,0.03,rain,82.53,50.47,13.56,0.15,1018.0,0.09,8,47.82,82.53,21.0079,10.9408
+Mauritania,,2/20/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.94,0.0001,0.0003,0.01,rain,85.92,56.44,9.42,0.12,1017.9,0.85,6,50.47,85.92,21.0079,10.9408
+Mauritania,,2/21/2020,Overcast throughout the day.,cloudy,0.97,0.0002,0.0004,0.07,rain,83.0,59.46,12.32,0.12,1019.9,0.9,5,56.44,83.0,21.0079,10.9408
+Mauritania,,2/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0001,0.0004,0.02,rain,81.71,48.2,19.56,0.17,1022.0,0.53,6,59.46,81.71,21.0079,10.9408
+Mauritania,,2/23/2020,Clear throughout the day.,clear-day,0.04,0.0001,0.0004,0.01,rain,78.87,45.47,20.12,0.25,1022.4,0.0,9,48.2,78.87,21.0079,10.9408
+Mauritania,,2/24/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0003,0.01,rain,81.51,48.45,19.65,0.23,1019.6,0.0,9,45.47,81.51,21.0079,10.9408
+Mauritania,,2/25/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0,0.0,0.0,,84.07,46.46,9.32,0.13,1016.3,0.58,6,48.45,84.07,21.0079,10.9408
+Mauritania,,2/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0001,0.0003,0.01,rain,85.66,51.63,3.5,0.1,1016.2,0.42,8,46.46,85.66,21.0079,10.9408
+Mauritania,,2/27/2020,Clear throughout the day.,clear-day,0.16,0.0001,0.0004,0.02,rain,91.47,59.59,-1.9,0.06,1016.6,0.24,9,51.63,91.47,21.0079,10.9408
+Mauritania,,2/28/2020,Clear throughout the day.,clear-day,0.19,0.0001,0.0003,0.01,rain,92.09,55.74,-1.0,0.05,1015.7,0.1,10,59.59,92.09,21.0079,10.9408
+Mauritania,,2/29/2020,Clear throughout the day.,clear-day,0.22,0.0001,0.0003,0.01,rain,91.81,53.3,8.12,0.09,1015.3,0.0,10,55.74,91.81,21.0079,10.9408
+Mauritania,,3/1/2020,Clear throughout the day.,clear-day,0.25,0.0001,0.0003,0.01,rain,92.81,52.31,1.67,0.06,1015.7,0.0,10,53.3,92.81,21.0079,10.9408
+Mauritania,,3/2/2020,Clear throughout the day.,clear-day,0.28,0.0,0.0,0.0,,94.12,54.84,-6.64,0.04,1015.9,0.0,10,52.31,94.12,21.0079,10.9408
+Mauritania,,3/3/2020,Clear throughout the day.,clear-day,0.32,0.0,0.0002,0.01,,94.59,58.71,-8.76,0.03,1014.9,0.0,10,54.84,94.59,21.0079,10.9408
+Mauritania,,3/4/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0003,0.02,rain,92.87,58.55,10.69,0.09,1015.4,0.0,10,58.71,92.87,21.0079,10.9408
+Mauritania,,3/5/2020,Clear throughout the day.,clear-day,0.39,0.0,0.0002,0.01,,90.44,51.5,2.97,0.07,1014.6,0.0,10,58.55,90.44,21.0079,10.9408
+Mauritania,,3/6/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0003,0.01,,92.8,55.57,-3.15,0.05,1012.5,0.0,10,51.5,92.8,21.0079,10.9408
+Mauritania,,3/7/2020,Clear throughout the day.,clear-day,0.47,0.0001,0.0004,0.03,rain,95.87,56.31,-8.04,0.04,1012.4,0.0,10,55.57,95.87,21.0079,10.9408
+Mauritania,,3/8/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0004,0.05,rain,91.34,51.51,18.59,0.16,1012.7,0.27,11,56.31,91.34,21.0079,10.9408
+Mauritania,,3/9/2020,Windy overnight.,clear-day,0.54,0.0,0.0,0.0,,91.54,56.21,16.39,0.13,1010.4,0.19,11,51.51,91.54,21.0079,10.9408
+Mauritania,,3/10/2020,Windy in the morning.,wind,0.58,0.0002,0.0004,0.01,rain,80.1,50.21,8.03,0.11,1015.1,0.18,9,56.21,80.1,21.0079,10.9408
+Mauritania,,3/11/2020,Clear throughout the day.,clear-day,0.62,0.0002,0.0004,0.01,rain,78.98,47.52,25.45,0.25,1018.9,0.18,11,50.21,78.98,21.0079,10.9408
+Mauritania,,3/12/2020,Clear throughout the day.,clear-day,0.66,0.0,0.0,0.0,,83.3,47.64,19.8,0.23,1018.2,0.09,11,47.52,83.3,21.0079,10.9408
+Mauritania,,3/13/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0,0.0,,86.52,48.8,10.7,0.13,1017.2,0.01,11,47.64,86.52,21.0079,10.9408
+Mauritania,,3/14/2020,Clear throughout the day.,clear-day,0.73,0.0,0.0,0.0,,89.48,54.95,1.56,0.08,1014.7,0.0,11,48.8,89.48,21.0079,10.9408
+Mauritania,,3/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.76,0.0,0.0,0.0,,93.91,61.07,-5.37,0.04,1013.2,0.73,6,54.95,93.91,21.0079,10.9408
+Mauritania,,3/16/2020,Clear throughout the day.,clear-day,0.8,0.0,0.0,0.0,,98.2,61.38,-3.48,0.04,1013.1,0.3,11,61.07,98.2,21.0079,10.9408
+Mauritania,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0003,0.02,,98.73,62.95,-0.22,0.04,1012.7,0.33,10,61.38,98.73,21.0079,10.9408
+Mauritania,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0001,0.0003,0.01,rain,98.55,62.17,5.18,0.06,1012.4,0.05,12,62.95,98.55,21.0079,10.9408
+Mauritania,,3/19/2020,Clear throughout the day.,clear-day,0.89,0.0,0.0,0.0,,101.28,69.95,10.55,0.07,1011.0,0.12,12,62.17,101.28,21.0079,10.9408
+Mauritania,,3/20/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.92,0.0001,0.0004,0.01,rain,101.57,72.55,18.48,0.09,1008.0,0.45,8,69.95,101.57,21.0079,10.9408
+Mauritania,,3/21/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.95,0.0035,0.0183,0.07,rain,100.68,65.81,35.94,0.2,1007.3,0.6,9,72.55,100.68,21.0079,10.9408
+Mauritania,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0003,0.0037,0.02,rain,102.05,73.04,9.03,0.07,1007.8,0.06,11,65.81,102.05,21.0079,10.9408
+Mauritania,,3/23/2020,Overcast throughout the day.,partly-cloudy-day,0.01,0.0004,0.0021,0.05,rain,103.8,76.4,19.82,0.08,1006.0,0.85,6,73.04,103.8,21.0079,10.9408
+Mauritania,,3/24/2020,Windy overnight.,wind,0.04,0.0002,0.0004,0.06,rain,98.87,65.31,21.28,0.09,1004.8,0.71,9,76.4,98.87,21.0079,10.9408
+Mauritania,,3/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.01,rain,92.67,56.87,-2.12,0.04,1007.6,0.38,8,65.31,92.67,21.0079,10.9408
+Mauritania,,3/26/2020,Clear throughout the day.,clear-day,0.1,0.0001,0.0004,0.01,rain,92.46,59.57,0.26,0.05,1010.6,0.16,12,56.87,92.46,21.0079,10.9408
+Mauritania,,3/27/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0001,0.0004,0.02,rain,97.5,68.72,10.7,0.08,1012.4,0.42,10,59.57,97.5,21.0079,10.9408
+Mauritania,,3/28/2020,Overcast throughout the day.,cloudy,0.17,0.0,0.0002,0.02,,97.01,72.3,18.72,0.09,1010.5,0.89,6,68.72,97.01,21.0079,10.9408
+Mauritania,,3/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0002,0.0004,0.06,rain,100.91,68.56,27.58,0.13,1008.7,0.6,11,72.3,100.91,21.0079,10.9408
+Mauritania,,3/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0001,0.0003,0.02,rain,101.85,67.61,20.51,0.1,1009.3,0.34,11,68.56,101.85,21.0079,10.9408
+Mauritania,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.03,rain,102.78,63.11,7.79,0.06,1009.3,0.1,11,67.61,102.78,21.0079,10.9408
+Mauritania,,4/1/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.3,0.0001,0.0003,0.01,rain,103.15,65.81,3.11,0.05,1008.1,0.51,5,63.11,103.15,21.0079,10.9408
+Mauritania,,4/2/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0002,0.02,rain,104.88,68.07,-8.22,0.03,1005.9,0.57,11,65.81,104.88,21.0079,10.9408
+Mauritania,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.04,rain,104.1,66.77,-4.85,0.03,1007.5,0.2,12,68.07,104.1,21.0079,10.9408
+Mauritania,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0002,0.01,,102.49,65.62,15.01,0.08,1009.2,0.0,12,66.77,102.49,21.0079,10.9408
+Mauritania,,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0,0.0002,0.01,,102.33,70.14,16.47,0.09,1009.6,0.0,12,65.62,102.33,21.0079,10.9408
+Mauritania,,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0,0.0,,100.25,67.94,22.27,0.1,1011.0,0.0,12,70.14,100.25,21.0079,10.9408
+Mauritania,,4/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0,0.0003,0.01,,97.3,68.09,21.49,0.11,1011.8,0.77,9,67.94,97.3,21.0079,10.9408
+Mauritania,,4/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0001,0.0004,0.02,rain,95.43,64.38,15.04,0.08,1013.3,0.74,8,68.09,95.43,21.0079,10.9408
+Mauritania,,4/9/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.61,0.0001,0.0003,0.02,rain,96.54,65.97,16.8,0.09,1014.3,0.73,8,64.38,96.54,21.0079,10.9408
+Mauritania,,4/10/2020,Overcast throughout the day.,cloudy,0.64,0.0001,0.0004,0.06,rain,98.85,66.49,19.37,0.1,1013.5,0.91,5,65.97,98.85,21.0079,10.9408
+Mauritania,,4/11/2020,Clear throughout the day.,clear-day,0.68,0.0,0.0003,0.02,,101.87,68.19,22.19,0.1,1012.9,0.04,12,66.49,101.87,21.0079,10.9408
+Mauritania,,4/12/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.06,rain,103.05,68.48,22.67,0.1,1012.0,0.0,12,68.19,103.05,21.0079,10.9408
+Mauritania,,4/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.75,0.0,0.0003,0.03,,104.92,70.53,20.32,0.09,1011.4,0.49,10,68.48,104.92,21.0079,10.9408
+Mauritania,,4/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0,0.0003,0.02,,104.08,71.27,17.72,0.07,1012.0,0.43,13,70.53,104.08,21.0079,10.9408
+Mauritania,,4/15/2020,Overcast throughout the day.,partly-cloudy-day,0.81,0.0001,0.0002,0.04,rain,103.56,75.2,15.79,0.07,1011.5,0.87,6,71.27,103.56,21.0079,10.9408
+Mauritania,,4/16/2020,Clear throughout the day.,clear-day,0.84,0.0001,0.0002,0.05,rain,103.82,73.8,15.33,0.06,1010.1,0.1,12,75.2,103.82,21.0079,10.9408
+Mauritania,,4/17/2020,Clear throughout the day.,clear-day,0.87,0.0001,0.0002,0.04,rain,103.98,72.23,10.54,0.05,1010.7,0.0,13,73.8,103.98,21.0079,10.9408
+Mauritania,,4/18/2020,Clear throughout the day.,clear-day,0.9,0.0001,0.0003,0.03,rain,105.15,70.95,11.64,0.06,1010.4,0.11,12,72.23,105.15,21.0079,10.9408
+Mauritania,,4/19/2020,Clear throughout the day.,clear-day,0.93,0.0001,0.0004,0.03,rain,107.48,70.31,12.87,0.06,1008.2,0.01,13,70.95,107.48,21.0079,10.9408
+Mauritania,,4/20/2020,Clear throughout the day.,clear-day,0.96,0.0001,0.0003,0.04,rain,105.85,72.02,16.6,0.07,1007.9,0.0,13,70.31,105.85,21.0079,10.9408

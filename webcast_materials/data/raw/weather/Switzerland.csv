@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Switzerland,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0002,0.1,rain,41.29,28.36,19.62,0.55,1032.5,0.12,1,31.68,41.29,46.8182,8.2275
+Switzerland,,1/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.2,rain,39.62,29.9,22.0,0.65,1031.3,0.07,1,28.36,39.62,46.8182,8.2275
+Switzerland,,1/2/2020,Possible drizzle overnight.,rain,0.27,0.0017,0.0154,0.31,rain,41.48,29.9,27.35,0.72,1028.4,0.88,1,30.82,41.48,46.8182,8.2275
+Switzerland,,1/3/2020,Possible drizzle in the morning.,rain,0.3,0.0034,0.0117,0.61,rain,36.96,23.5,30.9,0.97,1032.4,0.94,1,27.83,36.96,46.8182,8.2275
+Switzerland,,1/4/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0003,0.14,snow,36.13,29.03,21.54,0.72,1034.3,0.17,1,23.5,36.13,46.8182,8.2275
+Switzerland,,1/5/2020,Clear throughout the day.,clear-day,0.36,0.0,0.0,0.0,,41.15,27.54,22.44,0.62,1029.7,0.08,1,30.07,41.15,46.8182,8.2275
+Switzerland,,1/6/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0001,0.0006,0.15,rain,37.76,30.38,24.17,0.72,1030.2,0.4,1,27.54,37.76,46.8182,8.2275
+Switzerland,,1/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.43,0.0023,0.0113,0.14,rain,44.81,36.35,17.8,0.48,1030.6,0.71,1,30.38,44.81,46.8182,8.2275
+Switzerland,,1/8/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.0,0.0004,0.02,,47.25,30.78,26.5,0.59,1023.6,0.82,1,36.33,47.25,46.8182,8.2275
+Switzerland,,1/9/2020,Possible light snow (< 1 in.) in the evening.,rain,0.5,0.0018,0.0093,0.41,rain,39.38,26.16,26.04,0.78,1024.6,0.51,1,28.3,39.38,46.8182,8.2275
+Switzerland,,1/10/2020,Clear throughout the day.,partly-cloudy-day,0.54,0.0003,0.0009,0.16,rain,37.66,29.27,23.53,0.76,1032.1,0.5,1,26.16,37.66,46.8182,8.2275
+Switzerland,,1/11/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0001,0.0003,0.11,rain,41.56,30.63,15.28,0.47,1028.8,0.44,1,29.27,41.56,46.8182,8.2275
+Switzerland,,1/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0,0.0002,0.04,,41.15,30.33,15.07,0.46,1022.5,0.36,1,30.63,41.15,46.8182,8.2275
+Switzerland,,1/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0,0.0,0.0,,43.05,33.91,18.05,0.49,1018.9,0.57,1,30.33,43.05,46.8182,8.2275
+Switzerland,,1/14/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.02,,45.97,31.72,24.99,0.63,1021.4,0.29,1,32.31,45.97,46.8182,8.2275
+Switzerland,,1/15/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.06,,44.08,30.24,27.21,0.72,1027.0,0.16,1,30.6,44.08,46.8182,8.2275
+Switzerland,,1/16/2020,Snow (2–5 in.) in the evening and overnight.,rain,0.76,0.0051,0.0588,0.48,rain,41.26,24.5,24.61,0.71,1024.1,0.41,1,29.0,41.26,46.8182,8.2275
+Switzerland,,1/17/2020,Snow (< 1 in.) in the morning.,snow,0.8,0.0147,0.0758,0.78,snow,28.05,18.49,24.41,0.95,1029.0,0.76,1,21.61,29.3,46.8182,8.2275
+Switzerland,,1/18/2020,Foggy in the afternoon and evening.,snow,0.83,0.0021,0.0048,0.5,snow,26.02,17.63,17.89,0.88,1034.0,0.89,1,18.49,26.02,46.8182,8.2275
+Switzerland,,1/19/2020,Clear throughout the day.,clear-day,0.87,0.0001,0.0004,0.06,snow,31.88,21.98,7.72,0.51,1040.4,0.31,1,17.63,31.88,46.8182,8.2275
+Switzerland,,1/20/2020,Clear throughout the day.,partly-cloudy-day,0.9,0.0001,0.0002,0.05,snow,39.96,31.57,17.07,0.55,1038.8,0.34,1,24.42,39.96,46.8182,8.2275
+Switzerland,,1/21/2020,Clear throughout the day.,partly-cloudy-day,0.93,0.0,0.0001,0.01,,44.81,31.91,16.05,0.45,1032.6,0.32,1,31.57,44.81,46.8182,8.2275
+Switzerland,,1/22/2020,Clear throughout the day.,clear-day,0.97,0.0001,0.0002,0.04,rain,42.51,31.39,15.7,0.44,1028.2,0.14,1,31.91,42.51,46.8182,8.2275
+Switzerland,,1/23/2020,Clear throughout the day.,clear-day,1.0,0.0001,0.0002,0.04,rain,43.82,28.72,20.6,0.55,1024.8,0.31,1,31.39,43.82,46.8182,8.2275
+Switzerland,,1/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0003,0.07,rain,40.31,28.42,27.01,0.8,1022.4,0.67,1,28.72,40.31,46.8182,8.2275
+Switzerland,,1/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.06,0.0004,0.0022,0.21,rain,40.52,27.53,27.84,0.83,1020.9,0.68,1,28.42,40.52,46.8182,8.2275
+Switzerland,,1/26/2020,Mostly cloudy throughout the day.,rain,0.09,0.0017,0.0155,0.31,rain,42.78,30.98,27.64,0.79,1016.6,0.89,1,27.53,42.78,46.8182,8.2275
+Switzerland,,1/27/2020,Snow (8–12 in.) throughout the day.,snow,0.12,0.0363,0.0728,0.74,snow,37.34,25.7,26.73,0.86,1008.3,0.99,1,25.7,37.34,46.8182,8.2275
+Switzerland,,1/28/2020,Snow (8–12 in.) until evening.,snow,0.15,0.0574,0.1045,0.86,snow,32.3,27.04,27.01,0.96,1015.3,0.98,1,24.58,32.3,46.8182,8.2275
+Switzerland,,1/29/2020,Light rain in the evening and overnight.,rain,0.18,0.0123,0.0663,0.6,rain,42.09,36.19,26.85,0.74,1018.7,0.9,1,27.04,42.09,46.8182,8.2275
+Switzerland,,1/30/2020,Possible drizzle in the morning.,rain,0.21,0.0054,0.0497,0.69,rain,43.89,33.76,37.76,0.98,1018.3,0.82,2,36.19,43.89,46.8182,8.2275
+Switzerland,,1/31/2020,Possible light rain starting in the afternoon.,rain,0.24,0.0048,0.017,0.69,rain,42.89,34.45,34.26,0.9,1016.5,0.53,2,33.76,42.89,46.8182,8.2275
+Switzerland,,2/1/2020,Rain throughout the day.,rain,0.27,0.0457,0.1122,0.94,rain,41.04,38.74,37.14,0.96,1019.8,0.99,2,34.45,41.72,46.8182,8.2275
+Switzerland,,2/2/2020,Light rain in the morning and afternoon.,rain,0.31,0.0268,0.0825,0.95,rain,43.43,26.1,37.73,0.89,1020.4,0.99,2,37.9,44.8,46.8182,8.2275
+Switzerland,,2/3/2020,Heavy snow (15–24 in.) throughout the day.,snow,0.34,0.0693,0.111,0.88,snow,29.11,21.44,25.87,0.91,1017.5,0.98,1,21.44,45.11,46.8182,8.2275
+Switzerland,,2/4/2020,Snow (1–3 in.) in the morning.,snow,0.37,0.0186,0.0779,0.65,snow,28.32,19.79,19.51,0.85,1032.3,0.69,1,19.79,28.32,46.8182,8.2275
+Switzerland,,2/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0,0.0003,0.01,,37.34,25.79,16.62,0.63,1031.2,0.49,2,19.97,37.34,46.8182,8.2275
+Switzerland,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.09,rain,39.88,27.66,20.93,0.64,1026.9,0.03,2,25.79,39.88,46.8182,8.2275
+Switzerland,,2/7/2020,Overcast throughout the day.,partly-cloudy-day,0.48,0.0,0.0003,0.07,,40.07,27.26,22.4,0.67,1026.2,0.54,2,27.66,40.07,46.8182,8.2275
+Switzerland,,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.52,0.0001,0.0024,0.06,rain,41.06,33.19,25.4,0.72,1024.1,0.64,2,27.26,41.06,46.8182,8.2275
+Switzerland,,2/9/2020,"Possible light rain until afternoon, starting again overnight.",rain,0.56,0.0095,0.0273,0.77,rain,42.04,30.4,33.49,0.8,1012.9,0.96,2,35.11,44.79,46.8182,8.2275
+Switzerland,,2/10/2020,Snow (3–7 in.) until evening.,snow,0.6,0.0314,0.0705,0.91,snow,32.24,22.62,28.15,0.9,1015.4,0.99,2,25.88,36.25,46.8182,8.2275
+Switzerland,,2/11/2020,Mostly cloudy throughout the day.,snow,0.64,0.0063,0.0193,0.47,snow,34.61,23.55,21.42,0.81,1023.1,0.91,2,22.62,34.61,46.8182,8.2275
+Switzerland,,2/12/2020,Rain (with a chance of 4–7 in. of snow) in the evening and overnight.,rain,0.67,0.0268,0.1314,0.66,rain,37.08,27.28,23.4,0.78,1016.3,0.97,2,23.82,37.08,46.8182,8.2275
+Switzerland,,2/13/2020,Snow (1–2 in.) in the morning.,snow,0.71,0.0322,0.1547,0.81,snow,38.77,28.58,28.44,0.9,1023.3,0.8,2,27.28,38.77,46.8182,8.2275
+Switzerland,,2/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.75,0.0001,0.0003,0.06,rain,46.95,37.1,25.2,0.62,1025.5,0.57,2,30.02,46.95,46.8182,8.2275
+Switzerland,,2/15/2020,Overcast throughout the day.,cloudy,0.78,0.0001,0.0003,0.09,rain,46.79,37.61,28.14,0.6,1021.9,0.89,2,37.1,46.79,46.8182,8.2275
+Switzerland,,2/16/2020,Light rain starting in the afternoon.,rain,0.81,0.0131,0.0434,0.78,rain,45.03,24.7,32.27,0.81,1021.7,0.9,2,30.64,45.03,46.8182,8.2275
+Switzerland,,2/17/2020,Mostly cloudy throughout the day.,snow,0.85,0.0048,0.0189,0.56,snow,34.41,24.5,27.29,0.93,1029.3,0.81,2,24.7,34.41,46.8182,8.2275
+Switzerland,,2/18/2020,Snow (3–6 in.) in the afternoon and evening.,snow,0.88,0.0175,0.052000000000000005,0.75,snow,32.46,25.11,24.49,0.9,1026.3,0.95,2,24.5,32.46,46.8182,8.2275
+Switzerland,,2/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.91,0.0002,0.0005,0.17,snow,44.28,29.15,27.08,0.77,1024.2,0.66,2,25.11,44.28,46.8182,8.2275
+Switzerland,,2/20/2020,Possible light rain in the morning.,rain,0.94,0.0053,0.025,0.56,rain,39.29,30.68,28.82,0.86,1029.4,0.86,2,29.15,39.29,46.8182,8.2275
+Switzerland,,2/21/2020,Clear throughout the day.,partly-cloudy-day,0.97,0.0001,0.0004,0.07,rain,49.38,37.34,29.13,0.69,1030.7,0.38,3,30.85,49.38,46.8182,8.2275
+Switzerland,,2/22/2020,Overcast throughout the day.,cloudy,0.01,0.0001,0.0004,0.13,rain,47.91,36.12,35.04,0.75,1027.8,0.91,2,37.34,47.91,46.8182,8.2275
+Switzerland,,2/23/2020,Clear throughout the day.,partly-cloudy-day,0.04,0.0001,0.0003,0.05,rain,53.58,33.65,36.2,0.77,1021.6,0.39,3,36.12,53.58,46.8182,8.2275
+Switzerland,,2/24/2020,Snow (1–2 in.) overnight.,rain,0.07,0.002,0.0109,0.39,rain,43.58,21.09,29.29,0.73,1009.1,0.63,2,31.45,43.58,46.8182,8.2275
+Switzerland,,2/25/2020,Snow (9–14 in.) in the morning and afternoon.,snow,0.1,0.0373,0.0568,0.77,snow,24.21,17.2,21.7,0.92,1007.1,0.95,2,19.77,31.27,46.8182,8.2275
+Switzerland,,2/26/2020,Snow (8–12 in.) starting in the afternoon.,snow,0.13,0.0391,0.1178,0.77,snow,34.42,17.57,21.74,0.89,1008.9,0.95,2,17.2,34.42,46.8182,8.2275
+Switzerland,,2/27/2020,Foggy in the morning.,snow,0.16,0.0098,0.0682,0.48,snow,34.43,30.27,21.63,0.79,1020.0,0.64,3,17.57,36.8,46.8182,8.2275
+Switzerland,,2/28/2020,Possible light rain overnight.,rain,0.19,0.0038,0.0315,0.3,rain,38.25,28.7,28.74,0.83,1008.8,0.98,2,30.27,38.25,46.8182,8.2275
+Switzerland,,2/29/2020,"Possible light rain (with a chance of 1–2 in. of snow) until morning, starting again in the evening.",rain,0.22,0.0107,0.0512,0.66,rain,41.38,26.78,31.35,0.94,1004.0,0.82,3,28.7,41.38,46.8182,8.2275
+Switzerland,,3/1/2020,Heavy snow (4–8 in.) in the evening and overnight.,snow,0.25,0.0107,0.0536,0.61,snow,38.14,21.09,27.55,0.86,995.1,0.75,2,26.78,38.14,46.8182,8.2275
+Switzerland,,3/2/2020,Heavy snow (2–4 in.) in the morning.,snow,0.28,0.0291,0.1235,0.69,snow,33.53,19.64,23.12,0.9,1005.6,0.84,2,21.09,33.53,46.8182,8.2275
+Switzerland,,3/3/2020,Foggy in the morning.,partly-cloudy-day,0.32,0.0012,0.0066,0.19,snow,36.19,26.56,22.95,0.87,1014.8,0.83,2,19.64,36.19,46.8182,8.2275
+Switzerland,,3/4/2020,Possible light rain (with a chance of 1–3 in. of snow) in the afternoon and evening.,rain,0.35,0.0255,0.09,0.56,rain,37.68,25.24,29.42,0.92,1003.9,0.98,3,28.33,37.68,46.8182,8.2275
+Switzerland,,3/5/2020,Possible light snow (1–4 in.) in the morning.,snow,0.39,0.0081,0.0156,0.63,snow,31.7,22.59,26.92,0.94,1003.0,0.87,3,25.24,32.46,46.8182,8.2275
+Switzerland,,3/6/2020,Snow (1–3 in.) in the morning.,snow,0.43,0.0122,0.0313,0.59,snow,33.66,20.54,23.95,0.92,1019.6,0.89,2,22.59,33.66,46.8182,8.2275
+Switzerland,,3/7/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.47,0.0001,0.0005,0.05,snow,42.26,27.27,23.3,0.76,1021.2,0.75,2,20.54,42.26,46.8182,8.2275
+Switzerland,,3/8/2020,Snow (4–8 in.) until evening.,snow,0.5,0.0294,0.0717,0.92,snow,31.17,23.27,28.14,0.98,1017.9,0.94,2,25.19,32.86,46.8182,8.2275
+Switzerland,,3/9/2020,Rain (with a chance of 2–4 in. of snow) throughout the day.,rain,0.54,0.0717,0.1649,0.96,rain,36.49,35.5,29.8,0.96,1020.9,0.9,3,23.27,39.01,46.8182,8.2275
+Switzerland,,3/10/2020,Possible drizzle in the morning.,rain,0.58,0.0027,0.0184,0.62,rain,46.3,35.5,38.36,0.96,1021.1,0.81,3,36.64,46.3,46.8182,8.2275
+Switzerland,,3/11/2020,Light rain in the evening and overnight.,rain,0.62,0.002,0.0342,0.56,rain,46.49,31.45,35.75,0.85,1018.1,0.53,4,35.5,46.49,46.8182,8.2275
+Switzerland,,3/12/2020,Light rain in the morning and afternoon.,rain,0.66,0.0186,0.0877,0.9,rain,33.67,27.03,32.32,0.99,1020.8,0.99,3,29.83,38.25,46.8182,8.2275
+Switzerland,,3/13/2020,Possible flurries (< 1 in.) in the afternoon.,snow,0.69,0.0011,0.0046,0.43,snow,34.93,26.81,28.75,0.94,1021.1,0.93,2,27.03,34.93,46.8182,8.2275
+Switzerland,,3/14/2020,Partly cloudy throughout the day.,clear-day,0.73,0.0001,0.0002,0.04,snow,45.7,29.57,28.02,0.78,1020.2,0.26,4,26.81,45.7,46.8182,8.2275
+Switzerland,,3/15/2020,Partly cloudy throughout the day.,clear-day,0.76,0.0,0.0001,0.01,,48.86,32.65,31.46,0.8,1022.2,0.26,3,29.57,48.86,46.8182,8.2275
+Switzerland,,3/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.8,0.0001,0.0005,0.08,rain,49.13,34.75,34.71,0.85,1029.7,0.37,3,32.65,49.13,46.8182,8.2275
+Switzerland,,3/17/2020,Partly cloudy throughout the day.,clear-day,0.83,0.0001,0.0003,0.05,rain,51.59,35.96,37.15,0.85,1027.8,0.26,4,34.75,51.59,46.8182,8.2275
+Switzerland,,3/18/2020,Clear throughout the day.,clear-day,0.86,0.0005,0.0031,0.09,rain,50.55,35.73,37.14,0.81,1024.0,0.1,4,35.96,50.55,46.8182,8.2275
+Switzerland,,3/19/2020,Possible light rain in the evening.,rain,0.89,0.0092,0.0384,0.48,rain,49.24,32.22,35.87,0.81,1020.7,0.33,4,35.73,49.24,46.8182,8.2275
+Switzerland,,3/20/2020,Foggy in the evening.,rain,0.92,0.0013,0.006,0.35,rain,45.17,29.36,36.5,0.95,1016.8,0.48,4,32.22,45.17,46.8182,8.2275
+Switzerland,,3/21/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.95,0.0005,0.0019,0.21,rain,38.25,23.57,32.38,0.95,1019.9,0.8,3,29.36,38.25,46.8182,8.2275
+Switzerland,,3/22/2020,Clear throughout the day.,clear-day,0.98,0.0001,0.0004,0.04,snow,40.16,18.05,20.61,0.7,1026.3,0.16,4,23.37,40.16,46.8182,8.2275
+Switzerland,,3/23/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0003,0.03,snow,37.2,18.69,12.98,0.57,1025.2,0.01,4,18.05,37.2,46.8182,8.2275
+Switzerland,,3/24/2020,Clear throughout the day.,clear-day,0.04,0.0015,0.0063,0.17,snow,30.21,17.78,15.6,0.69,1019.8,0.24,4,18.69,30.21,46.8182,8.2275
+Switzerland,,3/25/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0003,0.06,snow,39.79,26.36,19.06,0.71,1015.3,0.29,4,17.78,39.79,46.8182,8.2275
+Switzerland,,3/26/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0003,0.0018,0.08,snow,45.18,30.91,30.33,0.82,1015.2,0.6,3,27.0,45.18,46.8182,8.2275
+Switzerland,,3/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0005,0.0021,0.19,rain,43.58,31.66,33.49,0.87,1016.2,0.73,3,30.91,43.58,46.8182,8.2275
+Switzerland,,3/28/2020,Possible light snow (1–4 in.) starting in the afternoon.,snow,0.17,0.0121,0.0333,0.65,snow,38.29,22.95,32.04,0.96,1017.1,0.94,3,26.73,38.29,46.8182,8.2275
+Switzerland,,3/29/2020,Possible light snow (1–2 in.) in the morning.,snow,0.2,0.0095,0.0205,0.66,snow,30.18,18.88,25.24,0.98,1020.5,0.99,3,22.63,30.18,46.8182,8.2275
+Switzerland,,3/30/2020,Clear throughout the day.,clear-day,0.23,0.0001,0.0006,0.07,snow,37.56,20.88,20.02,0.78,1022.9,0.12,4,18.88,37.56,46.8182,8.2275
+Switzerland,,3/31/2020,Clear throughout the day.,clear-day,0.26,0.0001,0.0004,0.03,snow,43.23,25.02,19.98,0.69,1019.6,0.01,5,20.88,43.23,46.8182,8.2275
+Switzerland,,4/1/2020,Foggy overnight.,clear-day,0.3,0.0003,0.0015,0.12,snow,43.47,27.06,28.52,0.86,1014.2,0.27,5,25.02,43.47,46.8182,8.2275
+Switzerland,,4/2/2020,Foggy in the morning.,partly-cloudy-day,0.33,0.0013,0.0054,0.18,rain,43.26,28.22,30.98,0.9,1016.5,0.73,4,27.03,43.26,46.8182,8.2275
+Switzerland,,4/3/2020,Clear throughout the day.,clear-day,0.37,0.0001,0.0002,0.04,rain,48.66,32.9,30.45,0.78,1020.9,0.08,5,28.22,48.66,46.8182,8.2275
+Switzerland,,4/4/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0,0.0,,54.56,33.84,31.84,0.69,1021.8,0.0,6,32.9,54.56,46.8182,8.2275
+Switzerland,,4/5/2020,Clear throughout the day.,clear-day,0.45,0.0,0.0002,0.02,,56.42,36.02,28.03,0.56,1024.0,0.0,6,33.84,56.42,46.8182,8.2275
+Switzerland,,4/6/2020,Clear throughout the day.,clear-day,0.49,0.0,0.0001,0.01,,57.6,37.01,30.19,0.57,1027.7,0.04,6,36.02,57.6,46.8182,8.2275
+Switzerland,,4/7/2020,Clear throughout the day.,clear-day,0.53,0.0004,0.0023,0.05,rain,58.23,38.84,29.67,0.55,1025.8,0.03,6,37.01,58.23,46.8182,8.2275
+Switzerland,,4/8/2020,Clear throughout the day.,clear-day,0.57,0.0004,0.0013,0.1,rain,57.9,39.53,36.49,0.72,1023.2,0.16,6,38.84,57.9,46.8182,8.2275
+Switzerland,,4/9/2020,Clear throughout the day.,clear-day,0.6,0.0001,0.0004,0.05,rain,59.61,40.28,33.74,0.61,1022.6,0.05,7,39.53,59.61,46.8182,8.2275
+Switzerland,,4/10/2020,Clear throughout the day.,clear-day,0.64,0.0003,0.0015,0.07,rain,60.01,41.05,34.93,0.63,1022.1,0.14,7,40.28,60.01,46.8182,8.2275
+Switzerland,,4/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.68,0.0046,0.0178,0.15,rain,56.48,38.99,35.0,0.62,1018.2,0.57,5,41.05,56.48,46.8182,8.2275
+Switzerland,,4/12/2020,Possible light rain overnight.,rain,0.71,0.0051,0.0214,0.42,rain,56.59,31.77,33.67,0.64,1014.2,0.74,5,38.99,56.59,46.8182,8.2275
+Switzerland,,4/13/2020,Foggy in the morning.,rain,0.74,0.0028,0.0187,0.53,rain,47.71,30.88,29.59,0.76,1018.7,0.55,5,31.58,47.71,46.8182,8.2275
+Switzerland,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0001,0.0003,0.01,rain,56.04,38.81,27.2,0.56,1021.8,0.09,7,30.88,56.04,46.8182,8.2275
+Switzerland,,4/15/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0002,0.01,rain,58.31,41.65,30.15,0.51,1019.7,0.45,4,38.81,58.31,46.8182,8.2275
+Switzerland,,4/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.84,0.0009,0.0041,0.06,rain,58.89,43.14,38.99,0.68,1016.6,0.44,6,41.65,58.89,46.8182,8.2275
+Switzerland,,4/17/2020,Mostly cloudy throughout the day.,rain,0.87,0.0052,0.0244,0.33,rain,59.2,42.65,42.25,0.76,1015.9,0.8,5,43.14,59.2,46.8182,8.2275
+Switzerland,,4/18/2020,Possible drizzle in the evening.,rain,0.9,0.0031,0.0157,0.39,rain,57.44,42.27,43.87,0.83,1013.1,0.71,5,42.65,57.44,46.8182,8.2275
+Switzerland,,4/19/2020,Overcast throughout the day.,cloudy,0.93,0.0002,0.0026,0.15,rain,56.42,41.93,42.75,0.84,1009.3,0.97,4,42.27,56.42,46.8182,8.2275
+Switzerland,,4/20/2020,Overcast throughout the day.,cloudy,0.96,0.0001,0.0003,0.05,rain,55.23,39.02,41.84,0.79,1009.4,0.99,4,41.93,55.23,46.8182,8.2275

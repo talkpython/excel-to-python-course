@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Guatemala,,12/31/2019,Possible light rain in the morning.,rain,0.19,0.0147,0.0461,0.78,rain,80.25,64.04,71.24,0.97,1015.3,0.8,5,68.32,80.25,15.7835,-90.2308
+Guatemala,,1/1/2020,Clear throughout the day.,clear-day,0.22,0.0017,0.0086,0.24,rain,85.36,61.86,67.57,0.85,1014.6,0.24,8,64.04,85.36,15.7835,-90.2308
+Guatemala,,1/2/2020,Humid throughout the day.,partly-cloudy-day,0.25,0.0007,0.0053,0.12,rain,87.37,66.08,66.91,0.79,1011.7,0.34,7,61.86,87.37,15.7835,-90.2308
+Guatemala,,1/3/2020,Possible light rain overnight.,clear-day,0.28,0.0005,0.0052,0.13,rain,90.98,68.61,68.98,0.77,1012.0,0.19,8,66.08,90.98,15.7835,-90.2308
+Guatemala,,1/4/2020,Light rain and humid throughout the day.,rain,0.31,0.0439,0.0933,0.89,rain,75.21,61.12,69.35,0.98,1021.6,0.91,5,63.99,75.21,15.7835,-90.2308
+Guatemala,,1/5/2020,Possible light rain in the morning.,rain,0.34,0.006999999999999999,0.0191,0.62,rain,70.29,59.75,62.04,0.95,1025.3,0.8,5,61.14,70.29,15.7835,-90.2308
+Guatemala,,1/6/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0003,0.001,0.16,rain,75.58,60.82,62.63,0.88,1021.3,0.64,5,59.75,75.58,15.7835,-90.2308
+Guatemala,,1/7/2020,Light rain in the evening and overnight.,rain,0.41,0.0071,0.045,0.71,rain,75.74,63.8,64.99,0.92,1020.6,0.68,6,60.82,75.74,15.7835,-90.2308
+Guatemala,,1/8/2020,Light rain until evening.,rain,0.44,0.0152,0.049,0.9,rain,70.22,62.77,65.88,0.98,1021.7,0.95,5,63.8,70.22,15.7835,-90.2308
+Guatemala,,1/9/2020,Light rain in the evening and overnight.,rain,0.48,0.0034,0.0341,0.48,rain,78.38,66.31,67.02,0.93,1018.2,0.61,6,62.77,78.38,15.7835,-90.2308
+Guatemala,,1/10/2020,Possible light rain in the morning.,rain,0.51,0.0048,0.0206,0.67,rain,83.58,66.11,70.39,0.92,1014.6,0.57,6,66.31,83.58,15.7835,-90.2308
+Guatemala,,1/11/2020,Possible light rain overnight.,rain,0.55,0.0026,0.0189,0.37,rain,84.63,67.22,70.5,0.87,1014.4,0.23,8,66.01,84.63,15.7835,-90.2308
+Guatemala,,1/12/2020,"Light rain until morning, starting again in the evening.",rain,0.59,0.0186,0.0443,0.84,rain,81.09,66.72,70.6,0.95,1015.7,0.64,5,67.31,81.09,15.7835,-90.2308
+Guatemala,,1/13/2020,Light rain and humid throughout the day.,rain,0.62,0.0189,0.0385,0.89,rain,80.63,67.09,70.63,0.96,1017.2,0.68,6,66.72,80.63,15.7835,-90.2308
+Guatemala,,1/14/2020,"Light rain until afternoon, starting again overnight.",rain,0.66,0.0156,0.0272,0.86,rain,80.15,65.9,70.55,0.96,1017.3,0.68,7,67.09,80.15,15.7835,-90.2308
+Guatemala,,1/15/2020,Possible light rain in the morning.,rain,0.7,0.0071,0.0327,0.62,rain,82.17,64.17,68.27,0.9,1016.9,0.54,7,65.9,82.17,15.7835,-90.2308
+Guatemala,,1/16/2020,Light rain and humid throughout the day.,rain,0.73,0.0093,0.0229,0.8,rain,79.89,65.65,68.12,0.93,1017.8,0.58,7,64.08,79.89,15.7835,-90.2308
+Guatemala,,1/17/2020,Light rain and humid throughout the day.,rain,0.77,0.031,0.0766,0.98,rain,76.58,65.83,69.75,0.98,1017.0,0.8,6,65.65,76.58,15.7835,-90.2308
+Guatemala,,1/18/2020,Light rain and humid throughout the day.,rain,0.81,0.0132,0.0298,0.92,rain,77.91,66.42,70.15,0.98,1016.8,0.8,6,65.83,77.91,15.7835,-90.2308
+Guatemala,,1/19/2020,Drizzle in the evening and overnight.,rain,0.84,0.0046,0.0131,0.66,rain,81.13,65.29,69.28,0.93,1017.4,0.66,7,66.42,81.13,15.7835,-90.2308
+Guatemala,,1/20/2020,Light rain throughout the day.,rain,0.88,0.0159,0.0237,0.94,rain,75.41,63.69,67.44,0.96,1020.5,0.79,6,65.29,75.41,15.7835,-90.2308
+Guatemala,,1/21/2020,Light rain in the morning and afternoon.,rain,0.91,0.0231,0.0471,0.89,rain,67.61,58.91,64.48,0.98,1022.1,0.87,5,61.75,67.61,15.7835,-90.2308
+Guatemala,,1/22/2020,Mostly cloudy throughout the day.,rain,0.94,0.002,0.0037,0.39,rain,74.49,57.73,62.77,0.93,1018.7,0.57,6,58.91,74.49,15.7835,-90.2308
+Guatemala,,1/23/2020,Clear throughout the day.,clear-day,0.97,0.0002,0.0005,0.11,rain,81.1,61.65,64.13,0.85,1014.6,0.15,8,57.73,81.1,15.7835,-90.2308
+Guatemala,,1/24/2020,Clear throughout the day.,clear-day,0.01,0.0005,0.0049,0.19,rain,83.21,63.31,65.75,0.83,1016.2,0.18,9,61.65,83.21,15.7835,-90.2308
+Guatemala,,1/25/2020,Partly cloudy throughout the day.,rain,0.04,0.0022,0.0053,0.49,rain,82.29,61.8,67.59,0.88,1017.5,0.34,9,63.31,82.29,15.7835,-90.2308
+Guatemala,,1/26/2020,Clear throughout the day.,clear-day,0.07,0.0001,0.0004,0.17,rain,83.88,62.52,65.75,0.81,1016.6,0.11,10,61.8,83.88,15.7835,-90.2308
+Guatemala,,1/27/2020,Humid throughout the day.,rain,0.1,0.0011,0.0067,0.25,rain,85.45,64.5,67.3,0.81,1014.6,0.23,9,62.52,85.45,15.7835,-90.2308
+Guatemala,,1/28/2020,Humid throughout the day.,rain,0.13,0.0203,0.1149,0.45,rain,85.65,65.77,68.59,0.81,1012.1,0.27,9,64.5,85.65,15.7835,-90.2308
+Guatemala,,1/29/2020,Possible light rain starting in the afternoon.,rain,0.16,0.0224,0.0572,0.66,rain,85.03,66.59,70.88,0.87,1012.1,0.28,9,65.77,85.03,15.7835,-90.2308
+Guatemala,,1/30/2020,Possible drizzle in the morning.,rain,0.19,0.0075,0.0263,0.69,rain,83.6,66.92,71.38,0.94,1013.1,0.58,8,66.59,83.6,15.7835,-90.2308
+Guatemala,,1/31/2020,Rain overnight.,rain,0.22,0.0088,0.052000000000000005,0.42,rain,87.57,68.8,72.56,0.87,1012.3,0.27,10,66.92,87.57,15.7835,-90.2308
+Guatemala,,2/1/2020,Rain and humid throughout the day.,rain,0.25,0.0582,0.141,0.96,rain,76.93,63.69,71.6,0.99,1017.9,0.84,6,68.8,76.93,15.7835,-90.2308
+Guatemala,,2/2/2020,Rain in the morning.,rain,0.28,0.0364,0.1489,0.88,rain,74.02,58.5,64.73,0.92,1021.3,0.63,7,63.13,74.02,15.7835,-90.2308
+Guatemala,,2/3/2020,Clear throughout the day.,clear-day,0.32,0.0002,0.0004,0.17,rain,80.82,62.0,64.14,0.84,1017.0,0.11,10,58.5,80.82,15.7835,-90.2308
+Guatemala,,2/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.35,0.0015,0.0076,0.23,rain,86.41,64.39,68.81,0.85,1014.0,0.36,9,62.0,86.41,15.7835,-90.2308
+Guatemala,,2/5/2020,Humid throughout the day.,clear-day,0.38,0.0003,0.0015,0.13,rain,90.14,67.31,68.78,0.78,1010.0,0.09,10,64.39,90.14,15.7835,-90.2308
+Guatemala,,2/6/2020,Humid throughout the day.,clear-day,0.42,0.0002,0.0017,0.11,rain,91.91,69.74,69.1,0.73,1008.4,0.06,10,67.31,91.91,15.7835,-90.2308
+Guatemala,,2/7/2020,Possible light rain in the morning.,rain,0.46,0.0094,0.021,0.63,rain,82.77,66.96,72.71,0.94,1013.7,0.59,7,69.74,82.77,15.7835,-90.2308
+Guatemala,,2/8/2020,Humid and partly cloudy throughout the day.,rain,0.49,0.002,0.0062,0.33,rain,84.87,63.23,71.56,0.9,1016.5,0.46,7,66.96,84.87,15.7835,-90.2308
+Guatemala,,2/9/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.53,0.0015,0.0095,0.2,rain,84.25,64.07,66.05,0.81,1017.6,0.33,9,63.23,84.25,15.7835,-90.2308
+Guatemala,,2/10/2020,Humid and partly cloudy throughout the day.,rain,0.57,0.0016,0.0057,0.25,rain,83.34,64.8,67.48,0.85,1014.8,0.36,8,64.07,83.34,15.7835,-90.2308
+Guatemala,,2/11/2020,Humid throughout the day.,clear-day,0.61,0.0009,0.0029,0.19,rain,84.39,65.62,68.93,0.83,1013.6,0.22,9,64.8,84.39,15.7835,-90.2308
+Guatemala,,2/12/2020,Humid throughout the day.,clear-day,0.65,0.0004,0.0012,0.14,rain,87.1,64.74,68.93,0.79,1011.7,0.2,9,65.62,87.1,15.7835,-90.2308
+Guatemala,,2/13/2020,Possible light rain overnight.,clear-day,0.68,0.0008,0.0166,0.14,rain,88.09,68.7,68.61,0.78,1012.2,0.03,11,64.74,88.09,15.7835,-90.2308
+Guatemala,,2/14/2020,"Possible light rain until afternoon, starting again overnight.",rain,0.72,0.0223,0.0453,0.73,rain,82.77,64.22,71.3,0.93,1016.5,0.64,8,68.7,82.77,15.7835,-90.2308
+Guatemala,,2/15/2020,Possible light rain in the morning and afternoon.,rain,0.76,0.013000000000000001,0.0425,0.57,rain,80.13,62.29,68.96,0.95,1017.8,0.33,9,64.22,80.13,15.7835,-90.2308
+Guatemala,,2/16/2020,Clear throughout the day.,clear-day,0.79,0.0008,0.0022,0.14,rain,81.88,61.73,67.55,0.88,1015.8,0.19,9,62.29,81.88,15.7835,-90.2308
+Guatemala,,2/17/2020,Humid throughout the day.,clear-day,0.82,0.001,0.0055,0.17,rain,82.34,64.53,66.01,0.83,1014.0,0.16,10,61.73,82.34,15.7835,-90.2308
+Guatemala,,2/18/2020,Humid and partly cloudy throughout the day.,clear-day,0.86,0.0034,0.013999999999999999,0.24,rain,84.52,65.32,67.86,0.83,1013.8,0.29,9,64.53,84.52,15.7835,-90.2308
+Guatemala,,2/19/2020,Humid and partly cloudy throughout the day.,rain,0.89,0.0036,0.0126,0.26,rain,84.41,65.78,69.52,0.86,1015.6,0.4,9,65.32,84.41,15.7835,-90.2308
+Guatemala,,2/20/2020,Humid and partly cloudy throughout the day.,rain,0.92,0.0022,0.0094,0.26,rain,85.74,65.87,69.37,0.85,1016.7,0.32,10,65.78,85.74,15.7835,-90.2308
+Guatemala,,2/21/2020,Possible light rain overnight.,rain,0.95,0.0048,0.0459,0.42,rain,84.4,66.01,68.65,0.84,1019.9,0.32,11,65.87,84.4,15.7835,-90.2308
+Guatemala,,2/22/2020,Possible light rain until evening.,rain,0.98,0.0294,0.0672,0.82,rain,77.14,65.07,70.0,0.98,1020.2,0.73,7,66.01,77.14,15.7835,-90.2308
+Guatemala,,2/23/2020,Humid throughout the day.,rain,0.01,0.0032,0.0087,0.39,rain,79.81,60.59,68.0,0.93,1017.9,0.6,9,65.07,79.81,15.7835,-90.2308
+Guatemala,,2/24/2020,Clear throughout the day.,clear-day,0.05,0.0005,0.0049,0.13,rain,87.14,64.28,66.33,0.81,1012.6,0.09,11,60.59,87.14,15.7835,-90.2308
+Guatemala,,2/25/2020,Humid throughout the day.,clear-day,0.08,0.0005,0.0019,0.11,rain,93.5,68.78,69.14,0.75,1010.3,0.2,11,64.28,93.5,15.7835,-90.2308
+Guatemala,,2/26/2020,Rain in the evening and overnight.,rain,0.11,0.0237,0.0878,0.65,rain,86.57,62.58,72.18,0.85,1013.4,0.34,11,68.78,86.57,15.7835,-90.2308
+Guatemala,,2/27/2020,Rain in the morning and afternoon.,rain,0.14,0.0514,0.16899999999999998,0.95,rain,66.64,60.29,65.11,0.99,1022.0,0.92,6,61.75,71.32,15.7835,-90.2308
+Guatemala,,2/28/2020,Overcast throughout the day.,rain,0.17,0.0064,0.013999999999999999,0.51,rain,70.58,60.33,63.1,0.95,1023.6,0.92,6,60.29,70.58,15.7835,-90.2308
+Guatemala,,2/29/2020,Overcast throughout the day.,rain,0.2,0.0045,0.0118,0.49,rain,73.82,59.59,63.02,0.92,1023.6,0.81,6,60.33,73.82,15.7835,-90.2308
+Guatemala,,3/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0003,0.0016,0.12,rain,83.74,63.24,64.91,0.83,1018.5,0.41,10,59.59,83.74,15.7835,-90.2308
+Guatemala,,3/2/2020,Clear throughout the day.,clear-day,0.26,0.0002,0.0004,0.08,rain,89.95,65.59,68.04,0.79,1013.2,0.23,12,63.24,89.95,15.7835,-90.2308
+Guatemala,,3/3/2020,Humid throughout the day.,clear-day,0.29,0.001,0.0083,0.08,rain,93.3,67.95,70.4,0.76,1010.7,0.14,11,65.59,93.3,15.7835,-90.2308
+Guatemala,,3/4/2020,Humid throughout the day.,clear-day,0.33,0.0003,0.0013,0.07,rain,93.92,67.71,69.34,0.7,1010.1,0.09,12,67.95,93.92,15.7835,-90.2308
+Guatemala,,3/5/2020,Rain in the evening and overnight.,rain,0.36,0.0103,0.0755,0.45,rain,91.1,66.12,70.02,0.75,1014.1,0.06,12,67.71,91.1,15.7835,-90.2308
+Guatemala,,3/6/2020,Rain throughout the day.,rain,0.4,0.0607,0.1252,0.95,rain,69.15,62.12,67.82,0.99,1020.9,0.97,5,64.73,72.82,15.7835,-90.2308
+Guatemala,,3/7/2020,Light rain throughout the day.,rain,0.44,0.0181,0.0509,0.87,rain,71.03,63.57,65.16,0.97,1021.4,0.95,6,62.12,71.03,15.7835,-90.2308
+Guatemala,,3/8/2020,Light rain throughout the day.,rain,0.48,0.017,0.0538,0.95,rain,71.93,63.9,65.82,0.97,1019.8,0.96,6,63.57,71.93,15.7835,-90.2308
+Guatemala,,3/9/2020,Light rain until evening.,rain,0.52,0.02,0.0573,0.91,rain,78.75,65.21,69.03,0.97,1019.7,0.73,8,63.9,78.75,15.7835,-90.2308
+Guatemala,,3/10/2020,"Possible light rain until morning, starting again in the evening.",rain,0.55,0.0113,0.0552,0.71,rain,82.99,64.72,69.68,0.91,1019.6,0.48,9,65.21,82.99,15.7835,-90.2308
+Guatemala,,3/11/2020,Possible drizzle in the morning.,rain,0.59,0.0037,0.0222,0.52,rain,83.21,62.89,67.29,0.85,1017.8,0.39,9,64.72,83.21,15.7835,-90.2308
+Guatemala,,3/12/2020,Clear throughout the day.,clear-day,0.63,0.0004,0.0017,0.11,rain,85.59,62.58,66.43,0.78,1014.3,0.18,11,62.89,85.59,15.7835,-90.2308
+Guatemala,,3/13/2020,Clear throughout the day.,clear-day,0.67,0.0002,0.0006,0.1,rain,86.84,63.82,66.99,0.78,1014.9,0.07,12,62.58,86.84,15.7835,-90.2308
+Guatemala,,3/14/2020,Humid throughout the day.,clear-day,0.71,0.0003,0.0006,0.11,rain,87.61,63.5,67.85,0.79,1017.2,0.2,10,63.82,87.61,15.7835,-90.2308
+Guatemala,,3/15/2020,Humid throughout the day.,rain,0.74,0.0019,0.0096,0.25,rain,84.8,62.84,67.69,0.82,1018.1,0.16,11,63.5,84.8,15.7835,-90.2308
+Guatemala,,3/16/2020,Humid throughout the day.,rain,0.77,0.004,0.0242,0.39,rain,84.11,63.82,67.62,0.83,1017.6,0.11,10,62.84,84.11,15.7835,-90.2308
+Guatemala,,3/17/2020,Clear throughout the day.,clear-day,0.81,0.0005,0.0019,0.14,rain,85.63,63.41,66.99,0.79,1017.2,0.1,12,63.82,85.63,15.7835,-90.2308
+Guatemala,,3/18/2020,Humid throughout the day.,clear-day,0.84,0.001,0.0058,0.12,rain,85.91,63.61,68.33,0.81,1016.5,0.09,11,63.41,85.91,15.7835,-90.2308
+Guatemala,,3/19/2020,Humid throughout the day.,clear-day,0.87,0.0007,0.0019,0.11,rain,86.59,64.14,67.32,0.78,1017.0,0.09,12,63.61,86.59,15.7835,-90.2308
+Guatemala,,3/20/2020,Humid throughout the day.,clear-day,0.9,0.0004,0.0017,0.12,rain,88.66,65.34,68.52,0.78,1017.4,0.13,11,64.14,88.66,15.7835,-90.2308
+Guatemala,,3/21/2020,Humid and partly cloudy throughout the day.,rain,0.93,0.0042,0.0215,0.31,rain,86.1,62.86,68.64,0.82,1017.7,0.29,9,65.34,86.1,15.7835,-90.2308
+Guatemala,,3/22/2020,Humid throughout the day.,rain,0.96,0.0057,0.0281,0.48,rain,83.79,64.52,68.44,0.85,1017.6,0.18,10,62.86,83.79,15.7835,-90.2308
+Guatemala,,3/23/2020,Clear throughout the day.,clear-day,0.99,0.0006,0.0024,0.17,rain,87.13,62.47,66.81,0.77,1018.2,0.2,11,64.52,87.13,15.7835,-90.2308
+Guatemala,,3/24/2020,Clear throughout the day.,clear-day,0.02,0.0003,0.0023,0.09,rain,89.47,64.22,66.83,0.74,1016.1,0.06,12,62.47,89.47,15.7835,-90.2308
+Guatemala,,3/25/2020,Humid throughout the day.,clear-day,0.05,0.0002,0.0004,0.09,rain,91.46,63.82,67.22,0.72,1014.1,0.06,13,64.22,91.46,15.7835,-90.2308
+Guatemala,,3/26/2020,Clear throughout the day.,clear-day,0.08,0.0004,0.0029,0.09,rain,91.23,65.85,67.32,0.72,1013.3,0.07,12,63.82,91.23,15.7835,-90.2308
+Guatemala,,3/27/2020,Humid throughout the day.,clear-day,0.11,0.0003,0.0013,0.07,rain,91.46,67.11,68.91,0.74,1011.3,0.08,13,65.85,91.46,15.7835,-90.2308
+Guatemala,,3/28/2020,Humid throughout the day.,clear-day,0.14,0.001,0.0033,0.12,rain,90.18,65.76,70.36,0.77,1011.2,0.18,11,67.11,90.18,15.7835,-90.2308
+Guatemala,,3/29/2020,Humid throughout the day.,clear-day,0.18,0.0005,0.0023,0.06,rain,90.01,66.21,69.57,0.76,1013.0,0.12,11,65.76,90.01,15.7835,-90.2308
+Guatemala,,3/30/2020,Humid and partly cloudy throughout the day.,clear-day,0.21,0.0027,0.0109,0.23,rain,87.79,67.0,70.17,0.81,1013.9,0.26,11,66.21,87.79,15.7835,-90.2308
+Guatemala,,3/31/2020,Humid throughout the day.,clear-day,0.24,0.0024,0.0131,0.15,rain,90.81,68.43,70.18,0.76,1011.7,0.09,12,67.0,90.81,15.7835,-90.2308
+Guatemala,,4/1/2020,Humid throughout the day.,rain,0.27,0.0055,0.0148,0.44,rain,89.5,67.13,71.25,0.8,1012.0,0.28,12,68.43,89.5,15.7835,-90.2308
+Guatemala,,4/2/2020,Clear throughout the day.,clear-day,0.31,0.0014,0.0204,0.17,rain,92.44,67.22,67.57,0.68,1012.2,0.07,13,67.13,92.44,15.7835,-90.2308
+Guatemala,,4/3/2020,Clear throughout the day.,clear-day,0.35,0.0001,0.0002,0.04,rain,95.1,66.8,65.21,0.62,1011.1,0.03,13,67.22,95.1,15.7835,-90.2308
+Guatemala,,4/4/2020,Clear throughout the day.,clear-day,0.38,0.0003,0.0031,0.04,rain,95.06,68.76,67.13,0.66,1010.5,0.22,12,66.8,95.06,15.7835,-90.2308
+Guatemala,,4/5/2020,Humid throughout the day.,partly-cloudy-day,0.42,0.0017,0.0101,0.12,rain,95.0,68.86,69.92,0.7,1011.5,0.42,12,68.76,95.0,15.7835,-90.2308
+Guatemala,,4/6/2020,Humid throughout the day.,clear-day,0.46,0.0001,0.0002,0.05,rain,93.55,67.07,70.6,0.73,1013.8,0.22,11,68.86,93.55,15.7835,-90.2308
+Guatemala,,4/7/2020,Clear throughout the day.,clear-day,0.5,0.0001,0.0003,0.02,rain,94.39,67.72,69.09,0.71,1015.0,0.12,12,67.07,94.39,15.7835,-90.2308
+Guatemala,,4/8/2020,Humid throughout the day.,clear-day,0.54,0.0002,0.0004,0.03,rain,96.56,68.06,69.2,0.69,1013.3,0.22,12,67.72,96.56,15.7835,-90.2308
+Guatemala,,4/9/2020,Humid throughout the day.,clear-day,0.58,0.0001,0.0004,0.04,rain,97.81,69.83,68.99,0.66,1011.7,0.28,11,68.06,97.81,15.7835,-90.2308
+Guatemala,,4/10/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.62,0.0022,0.0174,0.07,rain,99.08,69.51,68.9,0.63,1010.3,0.37,12,69.83,99.08,15.7835,-90.2308
+Guatemala,,4/11/2020,Humid throughout the day.,clear-day,0.65,0.0002,0.0004,0.08,rain,98.18,71.68,68.58,0.63,1010.8,0.2,13,69.51,98.18,15.7835,-90.2308
+Guatemala,,4/12/2020,Humid throughout the day.,clear-day,0.69,0.0009,0.0053,0.07,rain,101.23,71.93,69.41,0.61,1010.1,0.22,12,71.68,101.23,15.7835,-90.2308
+Guatemala,,4/13/2020,Clear throughout the day.,clear-day,0.72,0.0002,0.0004,0.07,rain,103.02,71.7,62.1,0.46,1011.3,0.18,13,71.93,103.02,15.7835,-90.2308
+Guatemala,,4/14/2020,Clear throughout the day.,clear-day,0.76,0.0002,0.0006,0.06,rain,99.2,72.11,67.99,0.58,1012.0,0.17,13,71.7,99.2,15.7835,-90.2308
+Guatemala,,4/15/2020,Humid throughout the day.,clear-day,0.79,0.001,0.004,0.16,rain,96.29,72.09,71.5,0.68,1012.1,0.18,13,72.11,96.29,15.7835,-90.2308
+Guatemala,,4/16/2020,Humid and partly cloudy throughout the day.,rain,0.82,0.0031,0.0193,0.35,rain,95.04,68.7,70.49,0.71,1014.2,0.36,11,72.09,95.04,15.7835,-90.2308
+Guatemala,,4/17/2020,Clear throughout the day.,clear-day,0.85,0.0001,0.0003,0.07,rain,94.89,66.99,66.74,0.63,1015.1,0.13,12,68.7,94.89,15.7835,-90.2308
+Guatemala,,4/18/2020,Clear throughout the day.,clear-day,0.88,0.0001,0.0002,0.06,rain,96.23,68.63,65.42,0.6,1013.9,0.06,13,66.99,96.23,15.7835,-90.2308
+Guatemala,,4/19/2020,Clear throughout the day.,clear-day,0.91,0.0006,0.0041,0.1,rain,98.73,71.71,66.39,0.58,1011.0,0.09,13,68.63,98.73,15.7835,-90.2308
+Guatemala,,4/20/2020,Clear throughout the day.,clear-day,0.94,0.003,0.0113,0.13,rain,101.25,72.97,67.7,0.56,1009.2,0.12,12,71.71,101.25,15.7835,-90.2308

@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Nigeria,,12/31/2019,Clear throughout the day.,clear-day,0.21,0.0001,0.0003,0.04,rain,95.07,58.95,31.59,0.19,1011.2,0.12,11,63.11,95.07,9.082,8.6753
+Nigeria,,1/1/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0004,0.04,rain,90.25,56.69,28.09,0.19,1013.1,0.16,9,58.95,90.25,9.082,8.6753
+Nigeria,,1/2/2020,Clear throughout the day.,clear-day,0.27,0.0001,0.0005,0.02,rain,90.55,57.43,32.36,0.24,1013.9,0.26,11,56.69,90.55,9.082,8.6753
+Nigeria,,1/3/2020,Clear throughout the day.,clear-day,0.3,0.0002,0.0004,0.07,rain,91.31,60.5,37.02,0.28,1013.4,0.27,10,57.43,91.31,9.082,8.6753
+Nigeria,,1/4/2020,Clear throughout the day.,clear-day,0.33,0.0001,0.0002,0.05,rain,93.26,63.94,40.25,0.3,1012.0,0.28,10,60.5,93.26,9.082,8.6753
+Nigeria,,1/5/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.36,0.0,0.0,0.0,,94.0,65.43,45.34,0.33,1011.0,0.63,6,63.94,94.0,9.082,8.6753
+Nigeria,,1/6/2020,Clear throughout the day.,clear-day,0.4,0.0001,0.0002,0.05,rain,96.24,67.82,46.93,0.33,1010.9,0.18,9,65.43,96.24,9.082,8.6753
+Nigeria,,1/7/2020,Clear throughout the day.,clear-day,0.43,0.0,0.0002,0.03,,97.29,67.52,44.36,0.28,1011.7,0.24,10,67.82,97.29,9.082,8.6753
+Nigeria,,1/8/2020,Clear throughout the day.,clear-day,0.47,0.0,0.0001,0.01,,98.66,65.46,39.32,0.23,1011.5,0.05,10,67.52,98.66,9.082,8.6753
+Nigeria,,1/9/2020,Clear throughout the day.,partly-cloudy-day,0.5,0.0001,0.0004,0.02,rain,97.74,67.08,40.04,0.26,1012.1,0.4,9,65.46,97.74,9.082,8.6753
+Nigeria,,1/10/2020,Clear throughout the day.,clear-day,0.54,0.0001,0.0003,0.02,rain,95.78,67.42,45.03,0.3,1012.4,0.08,10,67.08,95.78,9.082,8.6753
+Nigeria,,1/11/2020,Clear throughout the day.,clear-day,0.57,0.0001,0.0003,0.02,rain,96.09,68.76,43.72,0.29,1011.9,0.31,10,67.42,96.09,9.082,8.6753
+Nigeria,,1/12/2020,Clear throughout the day.,clear-day,0.61,0.0001,0.0004,0.02,rain,99.35,69.29,39.01,0.22,1009.7,0.17,9,68.76,99.35,9.082,8.6753
+Nigeria,,1/13/2020,Clear throughout the day.,clear-day,0.65,0.0,0.0,0.0,,99.27,69.87,38.35,0.21,1009.1,0.0,11,69.29,99.27,9.082,8.6753
+Nigeria,,1/14/2020,Clear throughout the day.,clear-day,0.69,0.0,0.0001,0.02,,98.92,66.21,30.02,0.16,1009.8,0.0,11,69.87,98.92,9.082,8.6753
+Nigeria,,1/15/2020,Clear throughout the day.,clear-day,0.72,0.0,0.0002,0.03,,97.45,63.04,22.91,0.12,1011.8,0.13,10,66.21,97.45,9.082,8.6753
+Nigeria,,1/16/2020,Clear throughout the day.,clear-day,0.76,0.0001,0.0004,0.06,rain,96.5,64.74,25.38,0.14,1012.9,0.08,11,63.04,96.5,9.082,8.6753
+Nigeria,,1/17/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.0,0.0002,0.03,,94.99,63.45,35.68,0.22,1013.2,0.38,7,64.74,94.99,9.082,8.6753
+Nigeria,,1/18/2020,Clear throughout the day.,clear-day,0.83,0.0,0.0001,0.01,,95.15,63.62,41.61,0.28,1012.2,0.03,11,63.45,95.15,9.082,8.6753
+Nigeria,,1/19/2020,Clear throughout the day.,clear-day,0.87,0.0,0.0002,0.03,,96.98,66.82,40.54,0.26,1011.3,0.11,11,63.62,96.98,9.082,8.6753
+Nigeria,,1/20/2020,Partly cloudy throughout the day.,clear-day,0.9,0.0001,0.0002,0.02,rain,98.27,67.39,38.32,0.22,1011.5,0.27,9,66.82,98.27,9.082,8.6753
+Nigeria,,1/21/2020,Partly cloudy throughout the day.,clear-day,0.93,0.0,0.0,0.0,,97.11,64.82,26.7,0.15,1011.5,0.29,9,67.39,97.11,9.082,8.6753
+Nigeria,,1/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.97,0.0001,0.0002,0.01,rain,96.83,64.62,19.14,0.11,1012.0,0.42,10,64.82,96.83,9.082,8.6753
+Nigeria,,1/23/2020,Partly cloudy throughout the day.,clear-day,1.0,0.0001,0.0002,0.01,rain,94.94,62.12,3.9,0.06,1012.5,0.26,8,64.62,94.94,9.082,8.6753
+Nigeria,,1/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.03,0.0001,0.0003,0.02,rain,93.54,59.81,3.22,0.06,1013.0,0.38,10,62.12,93.54,9.082,8.6753
+Nigeria,,1/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.06,0.0001,0.0004,0.03,rain,96.04,60.91,10.57,0.08,1012.6,0.48,9,59.81,96.04,9.082,8.6753
+Nigeria,,1/26/2020,Clear throughout the day.,clear-day,0.09,0.0001,0.0004,0.05,rain,96.69,62.7,20.4,0.12,1012.0,0.04,11,60.91,96.69,9.082,8.6753
+Nigeria,,1/27/2020,Partly cloudy throughout the day.,clear-day,0.12,0.0,0.0002,0.02,,98.51,63.87,18.41,0.11,1011.7,0.17,9,62.7,98.51,9.082,8.6753
+Nigeria,,1/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.15,0.0001,0.0003,0.06,rain,97.47,62.48,14.18,0.09,1011.9,0.58,7,63.87,97.47,9.082,8.6753
+Nigeria,,1/29/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.18,0.0001,0.0003,0.03,rain,99.15,62.31,8.24,0.07,1013.0,0.34,10,62.48,99.15,9.082,8.6753
+Nigeria,,1/30/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.21,0.0001,0.0003,0.04,rain,97.97,60.22,9.04,0.08,1013.2,0.33,8,62.31,97.97,9.082,8.6753
+Nigeria,,1/31/2020,Clear throughout the day.,clear-day,0.24,0.0001,0.0003,0.05,rain,96.98,59.67,17.28,0.11,1012.7,0.14,11,60.22,96.98,9.082,8.6753
+Nigeria,,2/1/2020,Partly cloudy throughout the day.,clear-day,0.27,0.0,0.0002,0.03,,96.24,61.81,17.19,0.11,1012.4,0.19,8,59.67,96.24,9.082,8.6753
+Nigeria,,2/2/2020,Clear throughout the day.,clear-day,0.31,0.0001,0.0003,0.06,rain,96.41,62.65,24.04,0.14,1012.4,0.08,10,61.81,96.41,9.082,8.6753
+Nigeria,,2/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.34,0.0001,0.0003,0.07,rain,94.15,62.31,24.91,0.15,1013.0,0.43,9,62.65,94.15,9.082,8.6753
+Nigeria,,2/4/2020,Partly cloudy throughout the day.,clear-day,0.37,0.0001,0.0003,0.07,rain,94.18,64.03,23.99,0.14,1012.4,0.29,8,62.31,94.18,9.082,8.6753
+Nigeria,,2/5/2020,Clear throughout the day.,clear-day,0.41,0.0,0.0003,0.03,,95.88,65.53,25.78,0.15,1011.6,0.28,11,64.03,95.88,9.082,8.6753
+Nigeria,,2/6/2020,Clear throughout the day.,clear-day,0.44,0.0001,0.0003,0.05,rain,98.78,66.64,28.53,0.15,1011.5,0.01,12,65.53,98.78,9.082,8.6753
+Nigeria,,2/7/2020,Clear throughout the day.,clear-day,0.48,0.0,0.0003,0.03,,99.91,67.47,27.65,0.14,1010.7,0.01,12,66.64,99.91,9.082,8.6753
+Nigeria,,2/8/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.52,0.0001,0.0003,0.05,rain,98.48,66.59,34.65,0.19,1011.7,0.36,8,67.47,98.48,9.082,8.6753
+Nigeria,,2/9/2020,Clear throughout the day.,clear-day,0.56,0.0001,0.0004,0.05,rain,97.26,66.07,34.44,0.2,1012.9,0.1,11,66.59,97.26,9.082,8.6753
+Nigeria,,2/10/2020,Partly cloudy throughout the day.,clear-day,0.6,0.0,0.0002,0.01,,96.04,60.66,20.54,0.12,1012.1,0.22,10,66.07,96.04,9.082,8.6753
+Nigeria,,2/11/2020,Clear throughout the day.,partly-cloudy-day,0.64,0.0001,0.0004,0.03,rain,94.91,60.29,23.41,0.14,1012.4,0.35,11,60.66,94.91,9.082,8.6753
+Nigeria,,2/12/2020,Clear throughout the day.,clear-day,0.67,0.0001,0.0004,0.02,rain,96.34,62.97,29.42,0.18,1011.9,0.28,10,60.29,96.34,9.082,8.6753
+Nigeria,,2/13/2020,Clear throughout the day.,clear-day,0.71,0.0001,0.0003,0.01,rain,98.45,65.16,30.06,0.17,1010.1,0.0,12,62.97,98.45,9.082,8.6753
+Nigeria,,2/14/2020,Clear throughout the day.,clear-day,0.75,0.0001,0.0003,0.01,rain,99.66,65.58,25.05,0.13,1009.2,0.11,12,65.16,99.66,9.082,8.6753
+Nigeria,,2/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0003,0.01,rain,99.33,66.53,23.66,0.12,1010.0,0.4,7,65.58,99.33,9.082,8.6753
+Nigeria,,2/16/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.81,0.0001,0.0003,0.05,rain,97.96,66.36,25.2,0.13,1010.3,0.51,7,66.53,97.96,9.082,8.6753
+Nigeria,,2/17/2020,Clear throughout the day.,partly-cloudy-day,0.85,0.0002,0.0004,0.08,rain,96.83,69.82,45.82,0.3,1011.2,0.44,10,66.36,96.83,9.082,8.6753
+Nigeria,,2/18/2020,Overcast throughout the day.,partly-cloudy-day,0.88,0.0,0.0001,0.03,,99.04,65.98,32.79,0.17,1010.0,0.75,6,69.82,99.04,9.082,8.6753
+Nigeria,,2/19/2020,Clear throughout the day.,clear-day,0.91,0.0001,0.0004,0.04,rain,100.46,69.24,32.02,0.17,1008.8,0.15,12,65.98,100.46,9.082,8.6753
+Nigeria,,2/20/2020,Partly cloudy throughout the day.,clear-day,0.94,0.0001,0.0003,0.06,rain,100.67,71.57,33.87,0.17,1008.6,0.25,7,69.24,100.67,9.082,8.6753
+Nigeria,,2/21/2020,Clear throughout the day.,clear-day,0.97,0.0002,0.0004,0.06,rain,101.71,69.84,32.61,0.16,1009.0,0.0,13,71.57,101.71,9.082,8.6753
+Nigeria,,2/22/2020,Clear throughout the day.,clear-day,0.01,0.0001,0.0005,0.04,rain,101.58,67.93,23.29,0.11,1010.1,0.04,12,69.84,101.58,9.082,8.6753
+Nigeria,,2/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.04,0.0001,0.0004,0.04,rain,101.69,64.85,18.34,0.09,1010.2,0.42,7,67.93,101.69,9.082,8.6753
+Nigeria,,2/24/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.03,rain,98.82,65.33,27.82,0.15,1010.1,0.32,11,64.85,98.82,9.082,8.6753
+Nigeria,,2/25/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.1,0.0001,0.0003,0.02,rain,99.37,68.3,28.77,0.15,1009.4,0.33,12,65.33,99.37,9.082,8.6753
+Nigeria,,2/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.13,0.0001,0.0004,0.02,rain,100.11,72.07,32.86,0.17,1009.6,0.37,9,68.3,100.11,9.082,8.6753
+Nigeria,,2/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.16,0.0001,0.0004,0.03,rain,99.12,72.97,34.8,0.17,1009.8,0.62,7,72.07,99.12,9.082,8.6753
+Nigeria,,2/28/2020,Overcast throughout the day.,partly-cloudy-day,0.19,0.0001,0.0004,0.02,rain,102.4,71.71,32.49,0.14,1008.5,0.76,6,72.97,102.4,9.082,8.6753
+Nigeria,,2/29/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.22,0.0009,0.0075,0.04,rain,98.79,70.79,48.45,0.3,1008.9,0.74,8,71.71,98.79,9.082,8.6753
+Nigeria,,3/1/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.25,0.0035,0.0147,0.17,rain,95.69,71.33,64.43,0.54,1010.8,0.42,12,70.79,95.69,9.082,8.6753
+Nigeria,,3/2/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.28,0.0009,0.0035,0.08,rain,99.92,71.75,55.6,0.38,1011.3,0.69,10,71.33,99.92,9.082,8.6753
+Nigeria,,3/3/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.32,0.0,0.0002,0.02,,101.19,71.6,39.43,0.2,1010.8,0.59,8,71.75,101.19,9.082,8.6753
+Nigeria,,3/4/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.35,0.0001,0.0003,0.01,rain,102.07,71.45,27.52,0.12,1009.5,0.39,10,71.6,102.07,9.082,8.6753
+Nigeria,,3/5/2020,Clear throughout the day.,clear-day,0.39,0.0,0.0002,0.01,,102.46,73.53,21.74,0.09,1008.2,0.16,13,71.45,102.46,9.082,8.6753
+Nigeria,,3/6/2020,Overcast throughout the day.,cloudy,0.43,0.0,0.0003,0.01,,99.56,69.52,35.73,0.19,1008.7,0.88,6,73.53,99.56,9.082,8.6753
+Nigeria,,3/7/2020,Clear throughout the day.,partly-cloudy-day,0.47,0.0001,0.0005,0.04,rain,102.07,73.35,40.95,0.22,1009.7,0.38,11,69.52,102.07,9.082,8.6753
+Nigeria,,3/8/2020,Clear throughout the day.,partly-cloudy-day,0.5,0.0001,0.0003,0.04,rain,102.55,71.16,27.12,0.12,1008.2,0.46,13,73.35,102.55,9.082,8.6753
+Nigeria,,3/9/2020,Clear throughout the day.,partly-cloudy-day,0.54,0.0009,0.0082,0.06,rain,101.19,74.46,47.13,0.28,1007.2,0.35,11,71.16,101.19,9.082,8.6753
+Nigeria,,3/10/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.58,0.0047,0.0404,0.15,rain,98.38,74.38,65.33,0.5,1007.4,0.8,6,74.46,98.38,9.082,8.6753
+Nigeria,,3/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.62,0.0002,0.0004,0.05,rain,99.7,68.4,35.23,0.23,1009.1,0.79,8,74.38,99.7,9.082,8.6753
+Nigeria,,3/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.66,0.0,0.0,0.0,,98.48,66.76,16.63,0.09,1010.0,0.52,11,68.4,98.48,9.082,8.6753
+Nigeria,,3/13/2020,Overcast throughout the day.,partly-cloudy-day,0.69,0.0,0.0,0.0,,101.03,65.3,18.14,0.1,1010.4,0.72,6,66.76,101.03,9.082,8.6753
+Nigeria,,3/14/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.73,0.0,0.0,0.0,,102.66,69.03,16.94,0.09,1009.3,0.38,12,65.3,102.66,9.082,8.6753
+Nigeria,,3/15/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.76,0.0,0.0,0.0,,101.07,70.33,30.14,0.15,1008.6,0.41,10,69.03,101.07,9.082,8.6753
+Nigeria,,3/16/2020,Overcast throughout the day.,cloudy,0.8,0.0001,0.0003,0.01,rain,102.6,71.73,24.62,0.12,1008.3,0.88,6,70.33,102.6,9.082,8.6753
+Nigeria,,3/17/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0003,0.01,,102.15,71.15,34.44,0.19,1008.4,0.68,10,71.73,102.15,9.082,8.6753
+Nigeria,,3/18/2020,Overcast throughout the day.,partly-cloudy-day,0.86,0.0004,0.0027,0.03,rain,102.66,71.54,43.66,0.23,1008.3,0.67,6,71.15,102.66,9.082,8.6753
+Nigeria,,3/19/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.89,0.0017,0.0104,0.05,rain,102.1,72.99,51.47,0.32,1008.5,0.77,9,71.54,102.1,9.082,8.6753
+Nigeria,,3/20/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.92,0.0031,0.0121,0.13,rain,98.82,73.26,67.95,0.59,1008.2,0.71,8,72.99,98.82,9.082,8.6753
+Nigeria,,3/21/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.95,0.0061,0.039,0.18,rain,98.6,74.59,67.79,0.58,1007.9,0.35,13,73.26,98.6,9.082,8.6753
+Nigeria,,3/22/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.98,0.0025,0.0165,0.15,rain,96.89,73.34,69.21,0.65,1009.0,0.75,7,74.59,96.89,9.082,8.6753
+Nigeria,,3/23/2020,Possible light rain in the evening and overnight.,rain,0.01,0.0164,0.0645,0.63,rain,89.96,72.3,70.72,0.73,1009.2,0.92,8,73.34,89.96,9.082,8.6753
+Nigeria,,3/24/2020,Possible light rain in the morning.,rain,0.04,0.0104,0.0414,0.7,rain,90.77,72.0,69.33,0.71,1009.6,0.91,8,72.3,90.77,9.082,8.6753
+Nigeria,,3/25/2020,Humid and overcast throughout the day.,cloudy,0.07,0.0141,0.1211,0.16,rain,93.21,72.92,68.7,0.67,1009.3,0.9,6,72.0,93.21,9.082,8.6753
+Nigeria,,3/26/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.1,0.0007,0.0036,0.08,rain,99.34,75.1,68.45,0.6,1008.5,0.52,8,72.92,99.34,9.082,8.6753
+Nigeria,,3/27/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0021,0.0094,0.07,rain,102.05,74.54,65.0,0.48,1008.5,0.5,7,75.1,102.05,9.082,8.6753
+Nigeria,,3/28/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.17,0.0001,0.001,0.05,rain,101.94,75.54,62.62,0.46,1007.9,0.62,6,74.54,101.94,9.082,8.6753
+Nigeria,,3/29/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.2,0.0009,0.0052,0.08,rain,99.26,76.72,67.31,0.54,1007.0,0.84,6,75.54,99.26,9.082,8.6753
+Nigeria,,3/30/2020,Humid and overcast throughout the day.,cloudy,0.23,0.0017,0.011000000000000001,0.16,rain,98.99,74.44,71.06,0.62,1007.3,0.9,5,76.72,98.99,9.082,8.6753
+Nigeria,,3/31/2020,Humid and mostly cloudy throughout the day.,cloudy,0.26,0.0051,0.0169,0.24,rain,96.96,73.67,71.94,0.68,1008.6,0.9,9,74.44,96.96,9.082,8.6753
+Nigeria,,4/1/2020,Humid and overcast throughout the day.,cloudy,0.3,0.0011,0.01,0.1,rain,92.53,75.22,71.88,0.72,1008.6,1.0,5,73.67,92.53,9.082,8.6753
+Nigeria,,4/2/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.34,0.0023,0.0103,0.13,rain,96.65,75.76,71.63,0.66,1008.0,0.79,8,75.22,96.65,9.082,8.6753
+Nigeria,,4/3/2020,Humid and overcast throughout the day.,rain,0.37,0.008,0.0439,0.27,rain,95.35,74.44,73.25,0.73,1009.9,0.97,6,75.76,95.35,9.082,8.6753
+Nigeria,,4/4/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0051,0.0192,0.18,rain,96.64,76.5,73.82,0.73,1010.1,0.83,7,74.44,96.64,9.082,8.6753
+Nigeria,,4/5/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.45,0.0042,0.0196,0.16,rain,95.89,76.07,73.29,0.68,1009.7,0.79,7,76.5,95.89,9.082,8.6753
+Nigeria,,4/6/2020,Humid and overcast throughout the day.,rain,0.49,0.0158,0.0671,0.42,rain,95.64,75.16,72.9,0.71,1009.7,0.9,7,76.07,95.64,9.082,8.6753
+Nigeria,,4/7/2020,Humid and mostly cloudy throughout the day.,rain,0.53,0.0104,0.0931,0.29,rain,95.86,73.57,71.48,0.65,1008.1,0.73,10,75.16,95.86,9.082,8.6753
+Nigeria,,4/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.57,0.0032,0.0127,0.22,rain,92.67,74.35,72.31,0.73,1009.0,0.62,10,73.57,92.67,9.082,8.6753
+Nigeria,,4/9/2020,Humid and overcast throughout the day.,rain,0.61,0.0111,0.046,0.44,rain,92.62,73.46,69.35,0.66,1009.6,0.96,6,74.35,92.62,9.082,8.6753
+Nigeria,,4/10/2020,Overcast throughout the day.,cloudy,0.64,0.0001,0.0004,0.07,rain,96.23,73.31,57.95,0.45,1010.6,0.99,5,73.46,96.23,9.082,8.6753
+Nigeria,,4/11/2020,Overcast throughout the day.,cloudy,0.68,0.0,0.0003,0.01,,96.96,73.25,50.96,0.34,1010.4,0.92,6,73.31,96.96,9.082,8.6753
+Nigeria,,4/12/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0003,0.07,rain,100.62,72.31,39.46,0.2,1009.4,0.6,10,73.25,100.62,9.082,8.6753
+Nigeria,,4/13/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.75,0.0,0.0003,0.04,,102.29,74.45,40.85,0.21,1008.5,0.58,6,72.31,102.29,9.082,8.6753
+Nigeria,,4/14/2020,Clear throughout the day.,clear-day,0.78,0.0002,0.0017,0.03,rain,101.71,74.78,51.58,0.3,1008.2,0.18,11,74.45,101.71,9.082,8.6753
+Nigeria,,4/15/2020,Clear throughout the day.,clear-day,0.81,0.0006,0.0089,0.05,rain,103.86,74.43,42.08,0.21,1007.6,0.23,14,74.78,103.86,9.082,8.6753
+Nigeria,,4/16/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.84,0.002,0.0091,0.1,rain,98.85,74.88,63.83,0.51,1008.0,0.52,9,74.43,98.85,9.082,8.6753
+Nigeria,,4/17/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.87,0.0024,0.0083,0.14,rain,96.67,75.61,70.27,0.63,1009.4,0.69,7,74.88,96.67,9.082,8.6753
+Nigeria,,4/18/2020,Humid and mostly cloudy throughout the day.,rain,0.9,0.0094,0.0348,0.4,rain,95.21,72.39,71.77,0.7,1011.0,0.71,9,75.61,95.21,9.082,8.6753
+Nigeria,,4/19/2020,Overcast throughout the day.,rain,0.93,0.0023,0.01,0.27,rain,93.65,74.76,70.46,0.68,1011.0,0.93,6,72.39,93.65,9.082,8.6753
+Nigeria,,4/20/2020,Humid and overcast throughout the day.,rain,0.96,0.003,0.0087,0.26,rain,98.13,76.68,71.07,0.66,1009.4,0.9,6,74.76,98.13,9.082,8.6753

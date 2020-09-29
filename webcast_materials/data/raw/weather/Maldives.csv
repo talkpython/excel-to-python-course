@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Maldives,,12/31/2019,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.2,0.0003,0.0011,0.13,rain,85.23,80.3,74.24,0.75,1011.9,0.33,9,80.89,85.23,3.2028,73.2207
+Maldives,,1/1/2020,Possible light rain overnight.,partly-cloudy-day,0.23,0.0006,0.017,0.2,rain,85.45,80.43,74.25,0.75,1012.8,0.32,11,80.3,85.45,3.2028,73.2207
+Maldives,,1/2/2020,Possible light rain until evening.,rain,0.26,0.0231,0.0873,0.8,rain,84.95,80.49,76.22,0.81,1011.7,0.79,7,80.35,84.95,3.2028,73.2207
+Maldives,,1/3/2020,Possible light rain until evening.,rain,0.29,0.0143,0.0536,0.62,rain,85.51,79.67,75.22,0.78,1011.0,0.86,6,80.49,85.51,3.2028,73.2207
+Maldives,,1/4/2020,Possible light rain in the morning.,rain,0.33,0.0124,0.0407,0.57,rain,84.86,80.53,75.33,0.79,1010.2,0.22,11,79.66,84.86,3.2028,73.2207
+Maldives,,1/5/2020,Humid and partly cloudy throughout the day.,rain,0.36,0.0058,0.025,0.51,rain,85.58,80.61,75.69,0.78,1011.0,0.49,9,80.53,85.58,3.2028,73.2207
+Maldives,,1/6/2020,Humid and mostly cloudy throughout the day.,rain,0.39,0.0024,0.0078,0.47,rain,85.38,79.86,75.1,0.77,1011.1,0.72,8,80.61,85.38,3.2028,73.2207
+Maldives,,1/7/2020,Humid and mostly cloudy throughout the day.,rain,0.42,0.0041,0.0105,0.55,rain,84.97,79.08,74.69,0.77,1011.1,0.72,8,79.86,84.97,3.2028,73.2207
+Maldives,,1/8/2020,Humid and partly cloudy throughout the day.,rain,0.46,0.0015,0.011000000000000001,0.27,rain,84.75,79.79,74.48,0.77,1010.9,0.6,9,79.26,84.75,3.2028,73.2207
+Maldives,,1/9/2020,Humid throughout the day.,partly-cloudy-day,0.49,0.0011,0.0042,0.24,rain,85.06,79.94,73.65,0.74,1010.8,0.43,10,79.79,85.06,3.2028,73.2207
+Maldives,,1/10/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.53,0.0002,0.0007,0.09,rain,84.31,80.52,73.75,0.75,1010.5,0.4,7,79.94,84.31,3.2028,73.2207
+Maldives,,1/11/2020,Possible light rain in the evening and overnight.,rain,0.57,0.0093,0.044000000000000004,0.5,rain,85.5,79.37,74.41,0.76,1010.7,0.66,7,80.06,85.5,3.2028,73.2207
+Maldives,,1/12/2020,Possible light rain in the morning.,rain,0.61,0.0112,0.0329,0.83,rain,84.0,79.51,73.63,0.77,1010.8,0.92,6,79.02,84.0,3.2028,73.2207
+Maldives,,1/13/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.64,0.001,0.0067,0.11,rain,83.98,80.4,71.51,0.71,1010.6,0.69,8,79.51,83.98,3.2028,73.2207
+Maldives,,1/14/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.68,0.0002,0.0009,0.11,rain,84.41,79.36,72.56,0.72,1010.6,0.4,10,80.4,84.41,3.2028,73.2207
+Maldives,,1/15/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.72,0.0001,0.0002,0.07,rain,84.38,79.68,72.09,0.72,1011.0,0.59,9,79.35,84.38,3.2028,73.2207
+Maldives,,1/16/2020,Humid throughout the day.,partly-cloudy-day,0.75,0.0002,0.0006,0.08,rain,84.6,80.11,72.63,0.73,1010.6,0.35,10,79.68,84.6,3.2028,73.2207
+Maldives,,1/17/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.79,0.0009,0.0065,0.22,rain,85.1,80.0,74.85,0.77,1009.8,0.84,6,80.11,85.1,3.2028,73.2207
+Maldives,,1/18/2020,Possible light rain overnight.,rain,0.82,0.0066,0.0235,0.67,rain,85.45,79.2,76.24,0.81,1010.2,0.73,9,80.0,85.45,3.2028,73.2207
+Maldives,,1/19/2020,Light rain until evening.,rain,0.86,0.0156,0.0309,0.89,rain,85.1,80.84,75.93,0.8,1011.1,0.75,7,79.2,85.1,3.2028,73.2207
+Maldives,,1/20/2020,Humid and partly cloudy throughout the day.,rain,0.89,0.0018,0.0094,0.34,rain,85.28,80.96,76.33,0.8,1011.4,0.48,11,80.84,85.28,3.2028,73.2207
+Maldives,,1/21/2020,Possible light rain in the morning.,rain,0.93,0.0066,0.0217,0.52,rain,85.82,81.83,77.03,0.81,1010.8,0.72,9,80.96,85.82,3.2028,73.2207
+Maldives,,1/22/2020,Possible light rain overnight.,rain,0.96,0.0076,0.0423,0.58,rain,85.57,81.09,78.18,0.84,1009.6,0.67,9,81.77,85.57,3.2028,73.2207
+Maldives,,1/23/2020,Possible light rain and humid throughout the day.,rain,0.99,0.0184,0.0447,0.83,rain,84.85,80.24,78.31,0.85,1010.2,0.97,6,80.98,84.85,3.2028,73.2207
+Maldives,,1/24/2020,Possible light rain in the morning.,rain,0.02,0.0088,0.0612,0.67,rain,85.59,80.9,75.78,0.79,1011.4,0.82,8,80.24,85.59,3.2028,73.2207
+Maldives,,1/25/2020,Humid and overcast throughout the day.,cloudy,0.06,0.0001,0.0004,0.07,rain,85.09,80.71,73.97,0.75,1011.9,0.96,6,80.9,85.09,3.2028,73.2207
+Maldives,,1/26/2020,Humid and mostly cloudy throughout the day.,cloudy,0.09,0.0002,0.0004,0.09,rain,84.81,79.69,72.82,0.72,1012.0,0.9,7,80.5,84.81,3.2028,73.2207
+Maldives,,1/27/2020,Humid throughout the day.,clear-day,0.12,0.0,0.0002,0.04,,84.28,80.17,71.73,0.71,1012.1,0.21,12,79.69,84.28,3.2028,73.2207
+Maldives,,1/28/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.15,0.0002,0.0005,0.1,rain,84.43,80.44,72.6,0.72,1012.4,0.47,11,80.17,84.43,3.2028,73.2207
+Maldives,,1/29/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.18,0.0001,0.0006,0.09,rain,84.9,80.98,72.87,0.72,1012.0,0.41,11,80.44,84.9,3.2028,73.2207
+Maldives,,1/30/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.21,0.0002,0.0005,0.08,rain,84.98,79.61,73.03,0.72,1010.5,0.62,8,80.85,84.98,3.2028,73.2207
+Maldives,,1/31/2020,Humid throughout the day.,partly-cloudy-day,0.24,0.0001,0.0003,0.06,rain,84.86,78.85,72.48,0.72,1011.0,0.51,12,79.61,84.86,3.2028,73.2207
+Maldives,,2/1/2020,Humid and overcast throughout the day.,rain,0.27,0.0025,0.0106,0.3,rain,85.56,79.44,72.39,0.72,1012.3,0.89,6,78.85,85.56,3.2028,73.2207
+Maldives,,2/2/2020,Humid throughout the day.,clear-day,0.3,0.0004,0.0022,0.17,rain,84.91,80.16,73.1,0.73,1012.8,0.16,12,79.44,84.91,3.2028,73.2207
+Maldives,,2/3/2020,Humid throughout the day.,clear-day,0.33,0.0002,0.0006,0.14,rain,85.1,80.31,73.56,0.73,1011.3,0.03,12,80.16,85.1,3.2028,73.2207
+Maldives,,2/4/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.37,0.0005,0.0019,0.21,rain,85.15,80.71,73.66,0.74,1011.7,0.32,9,80.31,85.15,3.2028,73.2207
+Maldives,,2/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.4,0.0001,0.0003,0.06,rain,85.54,81.22,74.92,0.75,1011.9,0.37,11,80.71,85.54,3.2028,73.2207
+Maldives,,2/6/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.44,0.0002,0.0009,0.09,rain,85.64,80.13,74.08,0.74,1012.8,0.48,10,81.22,85.64,3.2028,73.2207
+Maldives,,2/7/2020,Humid throughout the day.,partly-cloudy-day,0.48,0.0,0.0003,0.04,,85.81,80.38,73.27,0.72,1013.0,0.42,13,80.13,85.81,3.2028,73.2207
+Maldives,,2/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.51,0.0005,0.0038,0.17,rain,85.33,80.05,74.08,0.75,1012.2,0.34,12,80.38,85.33,3.2028,73.2207
+Maldives,,2/9/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.55,0.0005,0.0022,0.19,rain,85.43,80.66,74.45,0.76,1011.0,0.36,11,80.05,85.43,3.2028,73.2207
+Maldives,,2/10/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.59,0.0001,0.0008,0.08,rain,85.76,81.34,74.28,0.73,1010.5,0.37,8,80.66,85.76,3.2028,73.2207
+Maldives,,2/11/2020,Humid and overcast throughout the day.,rain,0.63,0.0029,0.0132,0.39,rain,85.79,80.75,75.49,0.77,1011.7,0.69,6,81.26,85.79,3.2028,73.2207
+Maldives,,2/12/2020,Rain starting in the afternoon.,rain,0.67,0.0209,0.0901,0.84,rain,85.6,79.06,76.35,0.81,1012.2,0.46,10,79.87,85.6,3.2028,73.2207
+Maldives,,2/13/2020,Possible light rain in the morning and overnight.,rain,0.7,0.0164,0.1005,0.87,rain,84.95,80.01,75.52,0.8,1011.5,0.75,9,79.06,84.95,3.2028,73.2207
+Maldives,,2/14/2020,Possible light rain in the morning and afternoon.,rain,0.74,0.0214,0.0737,0.81,rain,85.64,80.89,75.78,0.79,1011.3,0.26,11,80.01,85.64,3.2028,73.2207
+Maldives,,2/15/2020,Humid throughout the day.,rain,0.77,0.0027,0.0116,0.36,rain,85.66,79.75,76.19,0.79,1011.6,0.25,13,80.89,85.66,3.2028,73.2207
+Maldives,,2/16/2020,Possible light rain overnight.,rain,0.81,0.0061,0.0429,0.5,rain,85.9,79.98,76.11,0.79,1011.8,0.26,9,79.75,85.9,3.2028,73.2207
+Maldives,,2/17/2020,Possible light rain in the morning and afternoon.,rain,0.84,0.022000000000000002,0.0548,0.83,rain,85.44,80.39,75.86,0.8,1011.6,0.59,6,79.98,85.44,3.2028,73.2207
+Maldives,,2/18/2020,Humid throughout the day.,clear-day,0.87,0.0001,0.0004,0.11,rain,85.37,80.61,73.03,0.72,1011.3,0.23,12,80.39,85.37,3.2028,73.2207
+Maldives,,2/19/2020,Humid throughout the day.,clear-day,0.91,0.0002,0.0008,0.11,rain,85.49,80.91,74.14,0.74,1010.6,0.15,12,80.61,85.49,3.2028,73.2207
+Maldives,,2/20/2020,Light rain in the evening and overnight.,rain,0.94,0.005,0.0536,0.65,rain,86.03,79.83,76.38,0.79,1011.4,0.28,10,80.91,86.03,3.2028,73.2207
+Maldives,,2/21/2020,Rain until evening.,rain,0.97,0.0508,0.1076,0.99,rain,85.08,81.48,76.72,0.82,1012.3,0.98,6,79.83,85.08,3.2028,73.2207
+Maldives,,2/22/2020,Possible light rain in the afternoon and evening.,rain,0.0,0.0107,0.0763,0.71,rain,85.63,80.32,77.07,0.82,1011.5,0.89,7,81.48,85.63,3.2028,73.2207
+Maldives,,2/23/2020,Humid and mostly cloudy throughout the day.,rain,0.03,0.005,0.0243,0.3,rain,85.63,80.89,76.55,0.8,1010.2,0.7,10,80.32,85.63,3.2028,73.2207
+Maldives,,2/24/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.06,0.0007,0.013000000000000001,0.2,rain,85.64,80.05,75.55,0.78,1009.9,0.58,10,80.37,85.64,3.2028,73.2207
+Maldives,,2/25/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.09,0.001,0.0071,0.22,rain,85.56,80.78,75.97,0.79,1010.1,0.77,6,80.05,85.56,3.2028,73.2207
+Maldives,,2/26/2020,Humid and overcast throughout the day.,cloudy,0.12,0.0002,0.0011,0.06,rain,85.22,81.16,75.57,0.78,1010.2,0.93,6,80.78,85.22,3.2028,73.2207
+Maldives,,2/27/2020,Humid and overcast throughout the day.,cloudy,0.15,0.0011,0.0093,0.15,rain,85.54,80.61,74.8,0.76,1009.5,0.91,6,81.05,85.54,3.2028,73.2207
+Maldives,,2/28/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.18,0.0001,0.0003,0.04,rain,85.79,80.77,73.39,0.72,1010.0,0.76,6,80.61,85.79,3.2028,73.2207
+Maldives,,2/29/2020,Humid throughout the day.,clear-day,0.21,0.0001,0.0004,0.06,rain,86.04,81.17,73.96,0.73,1010.4,0.15,13,80.77,86.04,3.2028,73.2207
+Maldives,,3/1/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.24,0.0002,0.0009,0.05,rain,86.5,81.52,73.92,0.72,1011.3,0.5,12,81.17,86.5,3.2028,73.2207
+Maldives,,3/2/2020,Humid and partly cloudy throughout the day.,rain,0.28,0.0037,0.0219,0.25,rain,86.2,81.12,74.46,0.74,1011.5,0.54,12,81.52,86.2,3.2028,73.2207
+Maldives,,3/3/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.31,0.0009,0.0079,0.12,rain,85.68,81.11,73.97,0.73,1011.5,0.74,7,81.12,85.68,3.2028,73.2207
+Maldives,,3/4/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.35,0.0001,0.0003,0.04,rain,86.05,80.54,73.37,0.71,1011.3,0.81,6,81.11,86.05,3.2028,73.2207
+Maldives,,3/5/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.38,0.0001,0.0002,0.03,rain,86.01,78.53,72.04,0.69,1011.5,0.53,11,80.54,86.01,3.2028,73.2207
+Maldives,,3/6/2020,Humid throughout the day.,clear-day,0.42,0.0004,0.0022,0.08,rain,86.51,81.45,72.6,0.72,1012.0,0.14,13,78.53,86.51,3.2028,73.2207
+Maldives,,3/7/2020,Humid throughout the day.,clear-day,0.46,0.0001,0.0005,0.05,rain,86.39,81.0,71.44,0.66,1011.0,0.25,12,81.45,86.39,3.2028,73.2207
+Maldives,,3/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.5,0.0001,0.0003,0.06,rain,86.6,82.23,72.85,0.69,1009.9,0.51,10,81.0,86.6,3.2028,73.2207
+Maldives,,3/9/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.54,0.0001,0.0003,0.05,rain,86.39,82.0,75.1,0.74,1010.0,0.46,12,82.23,86.39,3.2028,73.2207
+Maldives,,3/10/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.58,0.0003,0.001,0.07,rain,86.91,81.76,73.46,0.7,1011.0,0.67,6,82.0,86.91,3.2028,73.2207
+Maldives,,3/11/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.61,0.0002,0.001,0.08,rain,86.59,80.99,73.86,0.71,1011.4,0.41,11,81.76,86.59,3.2028,73.2207
+Maldives,,3/12/2020,Possible light rain in the evening and overnight.,rain,0.65,0.0113,0.0415,0.59,rain,85.51,79.61,75.08,0.79,1010.9,0.31,13,79.86,85.51,3.2028,73.2207
+Maldives,,3/13/2020,Humid throughout the day.,rain,0.69,0.0047,0.0324,0.41,rain,86.49,81.2,75.64,0.78,1010.3,0.26,13,79.61,86.49,3.2028,73.2207
+Maldives,,3/14/2020,Humid throughout the day.,partly-cloudy-day,0.72,0.001,0.0043,0.15,rain,86.29,81.37,74.4,0.74,1010.2,0.36,12,81.2,86.29,3.2028,73.2207
+Maldives,,3/15/2020,Humid throughout the day.,partly-cloudy-day,0.76,0.0013,0.0092,0.11,rain,86.64,81.47,74.31,0.72,1010.8,0.34,12,81.37,86.64,3.2028,73.2207
+Maldives,,3/16/2020,Humid and partly cloudy throughout the day.,clear-day,0.79,0.0011,0.0087,0.19,rain,86.91,82.44,76.31,0.77,1011.1,0.3,11,81.47,86.91,3.2028,73.2207
+Maldives,,3/17/2020,Humid throughout the day.,rain,0.82,0.0087,0.0432,0.47,rain,87.21,82.29,77.0,0.77,1010.9,0.49,13,82.44,87.21,3.2028,73.2207
+Maldives,,3/18/2020,Possible light rain overnight.,rain,0.86,0.0013,0.0179,0.3,rain,87.75,81.37,75.68,0.74,1011.4,0.58,9,82.29,87.75,3.2028,73.2207
+Maldives,,3/19/2020,Possible light rain in the afternoon.,rain,0.89,0.006999999999999999,0.0181,0.63,rain,86.7,81.12,74.57,0.73,1011.7,0.82,9,81.37,86.7,3.2028,73.2207
+Maldives,,3/20/2020,Humid and partly cloudy throughout the day.,rain,0.92,0.0007,0.0029,0.26,rain,86.67,82.1,74.83,0.74,1011.8,0.53,11,81.12,86.67,3.2028,73.2207
+Maldives,,3/21/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.95,0.001,0.0057,0.16,rain,86.95,81.38,74.61,0.72,1011.2,0.48,11,82.01,86.95,3.2028,73.2207
+Maldives,,3/22/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.98,0.0004,0.0018,0.08,rain,86.74,81.51,73.99,0.71,1010.8,0.41,12,81.38,86.74,3.2028,73.2207
+Maldives,,3/23/2020,Humid throughout the day.,clear-day,0.01,0.0001,0.0003,0.05,rain,87.04,81.14,72.7,0.68,1009.6,0.25,11,81.51,87.04,3.2028,73.2207
+Maldives,,3/24/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.04,0.0002,0.0004,0.12,rain,86.1,81.43,71.53,0.67,1009.6,0.39,10,81.14,86.1,3.2028,73.2207
+Maldives,,3/25/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0008,0.0023,0.11,rain,87.03,82.21,73.93,0.71,1009.2,0.51,9,81.43,87.03,3.2028,73.2207
+Maldives,,3/26/2020,Humid throughout the day.,clear-day,0.1,0.0001,0.0004,0.07,rain,87.03,81.81,74.24,0.71,1010.9,0.18,12,82.21,87.03,3.2028,73.2207
+Maldives,,3/27/2020,Humid throughout the day.,clear-day,0.13,0.0001,0.0003,0.06,rain,87.34,81.76,73.24,0.69,1011.0,0.11,13,81.81,87.34,3.2028,73.2207
+Maldives,,3/28/2020,Humid throughout the day.,clear-day,0.16,0.0001,0.0004,0.06,rain,87.02,81.48,71.86,0.66,1010.3,0.25,14,81.76,87.02,3.2028,73.2207
+Maldives,,3/29/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.19,0.0002,0.0004,0.08,rain,86.77,81.93,72.24,0.68,1010.5,0.44,12,81.48,86.77,3.2028,73.2207
+Maldives,,3/30/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.22,0.0002,0.0009,0.1,rain,87.28,82.05,73.52,0.69,1010.8,0.56,8,81.93,87.28,3.2028,73.2207
+Maldives,,3/31/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.26,0.0005,0.0021,0.12,rain,87.07,82.14,76.54,0.77,1010.1,0.65,7,82.05,87.07,3.2028,73.2207
+Maldives,,4/1/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.29,0.0006,0.0024,0.09,rain,87.21,82.31,75.24,0.73,1009.5,0.4,10,82.14,87.21,3.2028,73.2207
+Maldives,,4/2/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.33,0.0005,0.0032,0.08,rain,87.43,82.12,73.81,0.69,1009.7,0.46,8,82.31,87.43,3.2028,73.2207
+Maldives,,4/3/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.37,0.0003,0.0017,0.06,rain,87.2,82.58,72.95,0.68,1010.7,0.65,8,82.12,87.2,3.2028,73.2207
+Maldives,,4/4/2020,Humid and mostly cloudy throughout the day.,rain,0.4,0.0039,0.0137,0.29,rain,87.34,81.87,75.02,0.72,1011.6,0.69,8,82.58,87.34,3.2028,73.2207
+Maldives,,4/5/2020,Humid throughout the day.,clear-day,0.44,0.0055,0.0159,0.24,rain,87.81,81.96,73.7,0.69,1011.7,0.25,13,81.87,87.81,3.2028,73.2207
+Maldives,,4/6/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.48,0.0008,0.0017,0.15,rain,86.95,81.73,72.4,0.67,1011.9,0.71,7,81.96,86.95,3.2028,73.2207
+Maldives,,4/7/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.52,0.0002,0.0024,0.04,rain,87.42,82.3,73.08,0.68,1012.2,0.7,8,81.73,87.42,3.2028,73.2207
+Maldives,,4/8/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.56,0.0001,0.0004,0.08,rain,87.56,82.0,74.84,0.72,1011.8,0.42,11,82.3,87.56,3.2028,73.2207
+Maldives,,4/9/2020,Humid and partly cloudy throughout the day.,rain,0.6,0.0034,0.0166,0.38,rain,87.21,82.34,75.32,0.73,1010.9,0.26,10,82.0,87.21,3.2028,73.2207
+Maldives,,4/10/2020,Humid throughout the day.,rain,0.64,0.0016,0.0098,0.26,rain,87.68,82.37,73.43,0.68,1011.7,0.23,12,82.34,87.68,3.2028,73.2207
+Maldives,,4/11/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.67,0.001,0.0062,0.19,rain,87.02,82.15,73.9,0.7,1011.2,0.38,10,82.37,87.02,3.2028,73.2207
+Maldives,,4/12/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.71,0.0001,0.0003,0.06,rain,87.66,82.33,74.67,0.71,1010.1,0.52,10,82.15,87.66,3.2028,73.2207
+Maldives,,4/13/2020,Possible light rain in the morning and afternoon.,rain,0.74,0.0144,0.0551,0.68,rain,87.35,82.14,75.44,0.73,1010.1,0.68,10,82.33,87.35,3.2028,73.2207
+Maldives,,4/14/2020,Possible light rain in the morning.,rain,0.77,0.0095,0.0363,0.67,rain,87.33,82.65,75.26,0.74,1011.3,0.44,10,82.14,87.33,3.2028,73.2207
+Maldives,,4/15/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.8,0.0003,0.0015,0.18,rain,88.38,82.71,74.8,0.71,1010.6,0.68,10,82.65,88.38,3.2028,73.2207
+Maldives,,4/16/2020,Possible light rain overnight.,rain,0.83,0.0012,0.008,0.36,rain,88.19,82.4,75.41,0.72,1009.8,0.54,9,82.71,88.19,3.2028,73.2207
+Maldives,,4/17/2020,Light rain in the morning and overnight.,rain,0.87,0.0081,0.0534,0.77,rain,87.85,82.92,77.29,0.77,1009.5,0.53,8,82.4,87.85,3.2028,73.2207
+Maldives,,4/18/2020,Possible light rain in the morning.,rain,0.9,0.011000000000000001,0.0565,0.79,rain,88.36,83.55,77.06,0.75,1009.0,0.49,10,82.92,88.36,3.2028,73.2207
+Maldives,,4/19/2020,Possible light rain overnight.,rain,0.93,0.0014,0.004,0.33,rain,88.62,82.26,77.34,0.75,1008.9,0.64,9,83.55,88.62,3.2028,73.2207
+Maldives,,4/20/2020,Rain and humid throughout the day.,rain,0.96,0.0427,0.1076,0.99,rain,85.83,80.04,76.16,0.77,1009.5,0.86,8,82.26,85.83,3.2028,73.2207

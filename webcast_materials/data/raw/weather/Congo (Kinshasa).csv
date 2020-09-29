@@ -1,0 +1,113 @@
+Country/Region,Province/State,time,summary,icon,moonPhase,precipIntensity,precipIntensityMax,precipProbability,precipType,temperatureHigh,temperatureLow,dewPoint,humidity,pressure,cloudCover,uvIndex,temperatureMin,temperatureMax,Lat,Long
+Congo (Kinshasa),,12/31/2019,Rain and humid throughout the day.,rain,0.21,0.0453,0.1835,0.87,rain,88.14,69.29,73.29,0.87,1009.0,1.0,6,72.23,88.14,-4.0383,21.7587
+Congo (Kinshasa),,1/1/2020,Light rain in the morning and afternoon.,rain,0.24,0.0201,0.0623,0.84,rain,85.19,71.2,72.74,0.93,1009.9,1.0,6,69.29,85.19,-4.0383,21.7587
+Congo (Kinshasa),,1/2/2020,Humid and overcast throughout the day.,cloudy,0.27,0.0004,0.0065,0.09,rain,84.68,70.53,71.77,0.85,1011.4,1.0,6,71.2,84.68,-4.0383,21.7587
+Congo (Kinshasa),,1/3/2020,Possible light rain overnight.,rain,0.3,0.0093,0.066,0.52,rain,89.2,70.36,70.83,0.81,1011.3,0.82,10,70.53,89.2,-4.0383,21.7587
+Congo (Kinshasa),,1/4/2020,Possible light rain until evening.,rain,0.33,0.0137,0.0416,0.74,rain,82.72,69.58,71.23,0.88,1011.8,1.0,6,70.36,82.72,-4.0383,21.7587
+Congo (Kinshasa),,1/5/2020,Humid and overcast throughout the day.,rain,0.36,0.0021,0.0097,0.25,rain,92.19,72.05,70.08,0.76,1009.8,0.92,7,69.58,92.19,-4.0383,21.7587
+Congo (Kinshasa),,1/6/2020,Possible light rain in the morning and afternoon.,rain,0.39,0.009000000000000001,0.0276,0.72,rain,87.5,72.68,71.91,0.83,1009.6,0.95,6,72.05,87.5,-4.0383,21.7587
+Congo (Kinshasa),,1/7/2020,Possible light rain in the morning and afternoon.,rain,0.43,0.0152,0.085,0.74,rain,84.42,70.59,71.48,0.85,1010.8,0.91,6,72.58,84.42,-4.0383,21.7587
+Congo (Kinshasa),,1/8/2020,Possible light rain in the morning and afternoon.,rain,0.46,0.0096,0.0578,0.63,rain,80.72,70.4,70.23,0.84,1011.7,0.97,6,70.59,80.72,-4.0383,21.7587
+Congo (Kinshasa),,1/9/2020,Possible light rain in the afternoon and evening.,rain,0.5,0.0091,0.0476,0.74,rain,80.33,68.33,69.96,0.84,1012.5,0.94,7,70.28,80.33,-4.0383,21.7587
+Congo (Kinshasa),,1/10/2020,Overcast throughout the day.,partly-cloudy-day,0.54,0.0002,0.0015,0.2,rain,86.58,66.98,68.35,0.8,1013.8,0.87,6,68.33,86.58,-4.0383,21.7587
+Congo (Kinshasa),,1/11/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.57,0.0009,0.0031,0.2,rain,89.89,69.72,68.15,0.75,1012.9,0.57,11,66.98,89.89,-4.0383,21.7587
+Congo (Kinshasa),,1/12/2020,Humid and partly cloudy throughout the day.,rain,0.61,0.0009,0.0052,0.29,rain,92.68,71.66,68.37,0.69,1010.2,0.47,11,69.54,92.68,-4.0383,21.7587
+Congo (Kinshasa),,1/13/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.65,0.0001,0.0007,0.06,rain,95.8,72.06,67.78,0.61,1008.4,0.41,12,71.66,95.8,-4.0383,21.7587
+Congo (Kinshasa),,1/14/2020,Humid and mostly cloudy throughout the day.,rain,0.69,0.0058,0.0181,0.45,rain,95.53,74.17,70.69,0.67,1008.7,0.83,8,72.06,95.53,-4.0383,21.7587
+Congo (Kinshasa),,1/15/2020,Possible light rain overnight.,rain,0.72,0.002,0.0071,0.36,rain,95.34,71.11,72.15,0.71,1008.8,0.72,9,74.85,95.34,-4.0383,21.7587
+Congo (Kinshasa),,1/16/2020,Possible light rain in the morning and overnight.,rain,0.76,0.0103,0.0319,0.77,rain,90.83,70.92,72.4,0.83,1009.7,0.97,6,71.11,90.83,-4.0383,21.7587
+Congo (Kinshasa),,1/17/2020,Light rain in the morning and afternoon.,rain,0.79,0.0152,0.0613,0.86,rain,78.67,70.74,71.01,0.88,1012.1,0.95,6,70.92,78.67,-4.0383,21.7587
+Congo (Kinshasa),,1/18/2020,Mostly cloudy throughout the day.,partly-cloudy-day,0.83,0.0,0.0002,0.01,,90.94,71.62,68.59,0.71,1011.6,0.82,6,70.74,90.94,-4.0383,21.7587
+Congo (Kinshasa),,1/19/2020,Humid and overcast throughout the day.,rain,0.86,0.0035,0.0213,0.27,rain,93.72,72.44,69.36,0.67,1009.6,0.9,7,71.62,93.72,-4.0383,21.7587
+Congo (Kinshasa),,1/20/2020,Humid and mostly cloudy throughout the day.,rain,0.9,0.0024,0.0146,0.39,rain,93.93,72.45,71.33,0.73,1009.5,0.77,8,72.44,93.93,-4.0383,21.7587
+Congo (Kinshasa),,1/21/2020,Humid and mostly cloudy throughout the day.,rain,0.93,0.0025,0.0127,0.38,rain,93.33,72.67,71.45,0.74,1009.4,0.88,7,72.45,93.33,-4.0383,21.7587
+Congo (Kinshasa),,1/22/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.96,0.0013,0.017,0.17,rain,95.32,71.96,69.94,0.67,1009.0,0.76,7,72.67,95.32,-4.0383,21.7587
+Congo (Kinshasa),,1/23/2020,Mostly cloudy throughout the day.,partly-cloudy-day,1.0,0.0079,0.0555,0.16,rain,93.97,72.91,68.92,0.67,1009.7,0.79,8,71.96,93.97,-4.0383,21.7587
+Congo (Kinshasa),,1/24/2020,Overcast throughout the day.,rain,0.03,0.0141,0.0683,0.32,rain,93.12,70.79,68.63,0.68,1010.4,0.87,7,72.91,93.12,-4.0383,21.7587
+Congo (Kinshasa),,1/25/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.06,0.0008,0.0075,0.17,rain,92.72,72.14,68.87,0.7,1010.5,0.53,6,70.79,92.72,-4.0383,21.7587
+Congo (Kinshasa),,1/26/2020,Overcast throughout the day.,cloudy,0.09,0.0001,0.0004,0.15,rain,92.3,73.76,67.77,0.67,1010.6,0.9,7,72.14,92.3,-4.0383,21.7587
+Congo (Kinshasa),,1/27/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.12,0.0018,0.0098,0.21,rain,89.8,70.81,69.26,0.74,1010.7,0.66,6,72.68,89.8,-4.0383,21.7587
+Congo (Kinshasa),,1/28/2020,Possible light rain in the evening and overnight.,rain,0.15,0.0062,0.0391,0.58,rain,89.93,70.59,70.56,0.8,1010.5,0.69,7,70.81,89.93,-4.0383,21.7587
+Congo (Kinshasa),,1/29/2020,Possible light rain in the afternoon.,rain,0.18,0.0064,0.0499,0.68,rain,90.17,69.99,71.46,0.84,1011.9,0.86,8,70.59,90.17,-4.0383,21.7587
+Congo (Kinshasa),,1/30/2020,Humid and mostly cloudy throughout the day.,rain,0.21,0.0003,0.0014,0.26,rain,92.77,70.28,69.45,0.76,1011.8,0.78,6,69.99,92.77,-4.0383,21.7587
+Congo (Kinshasa),,1/31/2020,Possible light rain until evening.,rain,0.24,0.0157,0.0568,0.75,rain,89.76,70.32,71.41,0.85,1011.6,0.85,6,70.28,89.76,-4.0383,21.7587
+Congo (Kinshasa),,2/1/2020,Possible light rain in the afternoon.,rain,0.27,0.0047,0.0324,0.49,rain,85.34,69.75,71.39,0.84,1012.0,0.93,6,70.32,85.34,-4.0383,21.7587
+Congo (Kinshasa),,2/2/2020,Possible light rain in the morning and overnight.,rain,0.3,0.0053,0.0267,0.54,rain,91.24,69.33,70.31,0.77,1010.7,0.66,10,69.75,91.24,-4.0383,21.7587
+Congo (Kinshasa),,2/3/2020,Rain and humid throughout the day.,rain,0.34,0.0499,0.1375,0.94,rain,77.53,69.04,72.21,0.97,1012.7,0.97,6,69.33,77.53,-4.0383,21.7587
+Congo (Kinshasa),,2/4/2020,Humid and overcast throughout the day.,rain,0.37,0.0019,0.0088,0.53,rain,83.55,68.21,71.21,0.91,1012.9,0.96,6,69.04,83.55,-4.0383,21.7587
+Congo (Kinshasa),,2/5/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.41,0.0001,0.0003,0.07,rain,95.21,71.9,69.56,0.74,1010.9,0.73,6,68.21,95.21,-4.0383,21.7587
+Congo (Kinshasa),,2/6/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.44,0.0003,0.0046,0.18,rain,95.42,73.89,69.83,0.67,1009.7,0.77,8,71.9,95.42,-4.0383,21.7587
+Congo (Kinshasa),,2/7/2020,Heavy rain and humid throughout the day.,rain,0.48,0.0415,0.4124,0.84,rain,89.3,69.08,73.8,0.85,1009.8,0.9,6,70.49,89.3,-4.0383,21.7587
+Congo (Kinshasa),,2/8/2020,Rain in the morning and overnight.,rain,0.52,0.0179,0.3061,0.83,rain,94.8,69.62,70.57,0.76,1010.7,0.91,6,69.08,94.8,-4.0383,21.7587
+Congo (Kinshasa),,2/9/2020,Rain until evening.,rain,0.56,0.0391,0.1445,0.97,rain,81.96,68.39,73.37,0.94,1011.5,0.98,6,69.62,81.96,-4.0383,21.7587
+Congo (Kinshasa),,2/10/2020,Overcast throughout the day.,cloudy,0.6,0.0001,0.0011,0.08,rain,94.18,71.31,68.94,0.72,1010.7,0.92,8,68.39,94.18,-4.0383,21.7587
+Congo (Kinshasa),,2/11/2020,Partly cloudy throughout the day.,rain,0.63,0.004,0.0359,0.33,rain,98.13,70.77,68.9,0.66,1009.1,0.64,14,71.31,98.13,-4.0383,21.7587
+Congo (Kinshasa),,2/12/2020,Possible light rain and humid throughout the day.,rain,0.67,0.0242,0.0912,0.82,rain,83.5,71.52,72.88,0.89,1009.8,0.8,9,70.77,83.5,-4.0383,21.7587
+Congo (Kinshasa),,2/13/2020,Humid and overcast throughout the day.,rain,0.71,0.0023,0.0138,0.57,rain,84.44,70.48,73.33,0.91,1009.4,0.99,6,71.52,84.44,-4.0383,21.7587
+Congo (Kinshasa),,2/14/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.74,0.0023,0.0174,0.22,rain,93.96,71.4,69.84,0.75,1008.5,0.72,6,70.48,93.96,-4.0383,21.7587
+Congo (Kinshasa),,2/15/2020,Humid and mostly cloudy throughout the day.,rain,0.78,0.0022,0.0129,0.36,rain,91.46,71.01,71.04,0.77,1009.5,0.7,7,71.4,91.46,-4.0383,21.7587
+Congo (Kinshasa),,2/16/2020,Humid and overcast throughout the day.,rain,0.81,0.0014,0.0114,0.35,rain,91.55,70.5,72.24,0.82,1010.2,0.84,7,71.01,91.55,-4.0383,21.7587
+Congo (Kinshasa),,2/17/2020,Possible light rain in the afternoon and evening.,rain,0.85,0.0085,0.0396,0.64,rain,89.6,71.98,71.62,0.79,1010.2,0.91,6,70.5,89.6,-4.0383,21.7587
+Congo (Kinshasa),,2/18/2020,Possible light rain in the morning and afternoon.,rain,0.88,0.01,0.0416,0.66,rain,88.88,71.83,73.15,0.87,1010.6,0.89,6,71.98,88.88,-4.0383,21.7587
+Congo (Kinshasa),,2/19/2020,Humid and mostly cloudy throughout the day.,rain,0.91,0.0009,0.0075,0.39,rain,94.69,71.44,71.85,0.76,1009.6,0.62,7,71.83,94.69,-4.0383,21.7587
+Congo (Kinshasa),,2/20/2020,Humid and overcast throughout the day.,partly-cloudy-day,0.94,0.0004,0.0038,0.19,rain,100.31,75.21,68.71,0.63,1007.6,0.84,6,71.44,100.31,-4.0383,21.7587
+Congo (Kinshasa),,2/21/2020,Humid and mostly cloudy throughout the day.,rain,0.97,0.002,0.0092,0.38,rain,94.62,73.96,72.33,0.7,1007.2,0.87,8,75.21,94.62,-4.0383,21.7587
+Congo (Kinshasa),,2/22/2020,Possible light rain in the afternoon and evening.,rain,0.0,0.0079,0.0331,0.58,rain,88.91,72.42,74.2,0.88,1008.4,1.0,6,73.54,88.91,-4.0383,21.7587
+Congo (Kinshasa),,2/23/2020,Rain in the morning and afternoon.,rain,0.03,0.0209,0.1514,0.59,rain,80.37,70.21,72.46,0.9,1011.3,0.98,6,72.42,80.37,-4.0383,21.7587
+Congo (Kinshasa),,2/24/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.07,0.0001,0.0003,0.1,rain,93.76,70.99,70.22,0.75,1010.0,0.82,6,70.21,93.76,-4.0383,21.7587
+Congo (Kinshasa),,2/25/2020,Possible light rain overnight.,partly-cloudy-day,0.1,0.0001,0.0003,0.1,rain,96.64,73.15,69.04,0.66,1008.3,0.61,11,70.99,96.64,-4.0383,21.7587
+Congo (Kinshasa),,2/26/2020,Possible light rain until evening.,rain,0.13,0.0156,0.0704,0.76,rain,83.06,69.6,73.88,0.91,1009.9,0.98,6,72.73,83.06,-4.0383,21.7587
+Congo (Kinshasa),,2/27/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.16,0.0002,0.0021,0.13,rain,96.84,70.28,70.46,0.74,1009.7,0.79,9,69.6,96.84,-4.0383,21.7587
+Congo (Kinshasa),,2/28/2020,Possible light rain overnight.,rain,0.19,0.0025,0.0412,0.3,rain,98.5,71.6,69.61,0.67,1008.4,0.76,11,70.28,98.5,-4.0383,21.7587
+Congo (Kinshasa),,2/29/2020,"Possible light rain until morning, starting again in the evening.",rain,0.22,0.0165,0.0466,0.68,rain,91.95,71.83,72.72,0.81,1009.9,0.99,6,71.6,91.95,-4.0383,21.7587
+Congo (Kinshasa),,3/1/2020,Rain overnight.,rain,0.25,0.0033,0.0529,0.47,rain,94.9,71.65,70.4,0.72,1011.2,0.96,7,71.83,94.9,-4.0383,21.7587
+Congo (Kinshasa),,3/2/2020,Possible light rain in the morning.,rain,0.28,0.02,0.1075,0.66,rain,88.87,68.38,71.32,0.81,1012.7,0.83,6,71.65,88.87,-4.0383,21.7587
+Congo (Kinshasa),,3/3/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.32,0.0004,0.004,0.11,rain,98.93,72.3,67.6,0.66,1010.9,0.45,11,68.38,98.93,-4.0383,21.7587
+Congo (Kinshasa),,3/4/2020,Clear throughout the day.,clear-day,0.35,0.0002,0.0012,0.09,rain,99.33,73.9,68.05,0.61,1009.7,0.15,14,72.3,99.33,-4.0383,21.7587
+Congo (Kinshasa),,3/5/2020,Rain in the afternoon.,rain,0.39,0.0211,0.1075,0.59,rain,94.39,71.84,71.39,0.72,1008.4,0.49,9,73.9,94.39,-4.0383,21.7587
+Congo (Kinshasa),,3/6/2020,Possible light rain in the evening and overnight.,rain,0.42,0.0074,0.0376,0.56,rain,98.48,72.36,72.52,0.75,1007.8,0.88,7,71.84,98.48,-4.0383,21.7587
+Congo (Kinshasa),,3/7/2020,Light rain in the evening and overnight.,rain,0.46,0.0112,0.0595,0.79,rain,93.68,71.06,71.79,0.78,1009.3,0.97,5,72.13,93.68,-4.0383,21.7587
+Congo (Kinshasa),,3/8/2020,Light rain in the morning.,rain,0.5,0.0084,0.0425,0.74,rain,88.09,71.47,70.85,0.82,1009.9,1.0,6,71.06,88.09,-4.0383,21.7587
+Congo (Kinshasa),,3/9/2020,Humid and mostly cloudy throughout the day.,rain,0.54,0.0023,0.0118,0.34,rain,91.84,71.25,72.25,0.79,1008.2,0.85,7,71.47,91.84,-4.0383,21.7587
+Congo (Kinshasa),,3/10/2020,Possible light rain in the evening and overnight.,rain,0.58,0.0064,0.0448,0.63,rain,93.77,72.17,71.59,0.78,1008.0,0.96,6,71.25,93.77,-4.0383,21.7587
+Congo (Kinshasa),,3/11/2020,Light rain until evening.,rain,0.62,0.0145,0.0445,0.85,rain,88.16,69.72,72.66,0.86,1009.9,1.0,6,72.17,88.16,-4.0383,21.7587
+Congo (Kinshasa),,3/12/2020,Possible light rain in the morning.,rain,0.66,0.0031,0.0194,0.59,rain,87.06,70.42,71.75,0.86,1011.3,0.98,6,69.72,87.06,-4.0383,21.7587
+Congo (Kinshasa),,3/13/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.69,0.0001,0.0003,0.15,rain,95.63,73.0,70.05,0.72,1010.1,0.64,12,70.42,95.63,-4.0383,21.7587
+Congo (Kinshasa),,3/14/2020,Possible light rain in the afternoon.,rain,0.73,0.0089,0.065,0.64,rain,96.85,74.29,71.63,0.73,1008.6,0.83,8,73.0,96.85,-4.0383,21.7587
+Congo (Kinshasa),,3/15/2020,Light rain until evening.,rain,0.76,0.0276,0.0809,0.94,rain,87.17,70.59,75.85,0.92,1008.6,0.88,9,73.06,87.17,-4.0383,21.7587
+Congo (Kinshasa),,3/16/2020,Light rain in the morning and afternoon.,rain,0.8,0.0046,0.0162,0.85,rain,77.02,70.34,72.42,0.96,1010.7,1.0,6,70.59,77.02,-4.0383,21.7587
+Congo (Kinshasa),,3/17/2020,Possible light rain in the afternoon.,rain,0.83,0.0061,0.0478,0.5,rain,88.93,70.04,71.58,0.82,1010.6,0.87,9,70.34,88.93,-4.0383,21.7587
+Congo (Kinshasa),,3/18/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.86,0.0007,0.0057,0.14,rain,94.65,70.74,69.69,0.73,1009.6,0.72,7,70.04,94.65,-4.0383,21.7587
+Congo (Kinshasa),,3/19/2020,Possible light rain overnight.,cloudy,0.89,0.0001,0.0018,0.13,rain,92.26,71.17,69.18,0.72,1009.1,0.91,6,70.74,92.26,-4.0383,21.7587
+Congo (Kinshasa),,3/20/2020,Light rain and humid throughout the day.,rain,0.92,0.0138,0.0563,0.92,rain,84.89,68.92,71.86,0.85,1010.0,0.97,5,71.17,84.89,-4.0383,21.7587
+Congo (Kinshasa),,3/21/2020,Light rain in the morning and afternoon.,rain,0.95,0.019,0.0857,0.89,rain,75.96,66.57,71.99,0.99,1011.6,0.96,6,68.92,75.96,-4.0383,21.7587
+Congo (Kinshasa),,3/22/2020,Partly cloudy throughout the day.,partly-cloudy-day,0.98,0.0001,0.0003,0.05,rain,95.82,71.5,68.57,0.74,1010.3,0.57,10,66.57,95.82,-4.0383,21.7587
+Congo (Kinshasa),,3/23/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.01,0.0003,0.0061,0.06,rain,97.87,73.22,69.06,0.64,1008.0,0.51,12,71.5,97.87,-4.0383,21.7587
+Congo (Kinshasa),,3/24/2020,Rain in the morning and afternoon.,rain,0.04,0.0266,0.1007,0.71,rain,86.44,68.83,72.03,0.82,1008.0,0.87,6,72.15,86.44,-4.0383,21.7587
+Congo (Kinshasa),,3/25/2020,Possible light rain in the afternoon and evening.,rain,0.07,0.0057,0.0273,0.56,rain,87.13,70.12,72.04,0.84,1008.8,0.92,6,68.83,87.13,-4.0383,21.7587
+Congo (Kinshasa),,3/26/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.1,0.0046,0.0307,0.24,rain,94.55,71.38,70.31,0.74,1010.1,0.81,7,70.12,94.55,-4.0383,21.7587
+Congo (Kinshasa),,3/27/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.13,0.0002,0.0028,0.04,rain,95.17,69.64,69.67,0.7,1010.5,0.64,6,71.38,95.17,-4.0383,21.7587
+Congo (Kinshasa),,3/28/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.16,0.0035,0.0328,0.16,rain,98.72,72.06,68.93,0.67,1008.7,0.46,9,69.64,98.72,-4.0383,21.7587
+Congo (Kinshasa),,3/29/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.2,0.0005,0.0039,0.16,rain,97.88,74.48,69.95,0.66,1008.0,0.71,9,72.06,97.88,-4.0383,21.7587
+Congo (Kinshasa),,3/30/2020,Humid and partly cloudy throughout the day.,partly-cloudy-day,0.23,0.0005,0.0021,0.14,rain,93.39,72.05,69.99,0.68,1008.4,0.57,11,74.48,93.39,-4.0383,21.7587
+Congo (Kinshasa),,3/31/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.26,0.0022,0.0098,0.22,rain,100.86,75.47,70.58,0.67,1007.9,0.81,7,72.05,100.86,-4.0383,21.7587
+Congo (Kinshasa),,4/1/2020,Rain in the morning and afternoon.,rain,0.3,0.0519,0.2848,0.81,rain,88.92,72.2,72.55,0.83,1007.7,0.72,6,71.8,88.92,-4.0383,21.7587
+Congo (Kinshasa),,4/2/2020,Light rain in the morning and afternoon.,rain,0.33,0.0156,0.0916,0.82,rain,83.14,70.49,72.97,0.87,1009.3,0.83,6,72.2,83.14,-4.0383,21.7587
+Congo (Kinshasa),,4/3/2020,Humid and mostly cloudy throughout the day.,rain,0.37,0.0019,0.0177,0.27,rain,93.09,72.54,70.13,0.72,1009.7,0.76,8,70.49,93.09,-4.0383,21.7587
+Congo (Kinshasa),,4/4/2020,Possible light rain in the evening.,rain,0.41,0.0104,0.0423,0.64,rain,95.55,72.63,70.94,0.71,1010.0,0.76,9,72.54,95.55,-4.0383,21.7587
+Congo (Kinshasa),,4/5/2020,Possible drizzle in the morning.,rain,0.45,0.0035,0.011000000000000001,0.55,rain,90.58,73.53,73.11,0.8,1010.9,0.84,5,72.63,90.58,-4.0383,21.7587
+Congo (Kinshasa),,4/6/2020,Possible light rain overnight.,partly-cloudy-day,0.49,0.0011,0.0086,0.22,rain,96.27,73.63,72.19,0.72,1009.4,0.73,8,73.53,96.27,-4.0383,21.7587
+Congo (Kinshasa),,4/7/2020,Possible light rain until evening.,rain,0.53,0.0077,0.0303,0.76,rain,89.72,71.48,71.67,0.79,1008.6,0.92,6,73.63,89.72,-4.0383,21.7587
+Congo (Kinshasa),,4/8/2020,Possible light rain in the evening.,rain,0.57,0.0041,0.0228,0.56,rain,95.54,72.74,72.46,0.77,1008.2,0.71,10,71.48,95.54,-4.0383,21.7587
+Congo (Kinshasa),,4/9/2020,Rain in the morning and afternoon.,rain,0.6,0.0475,0.2627,0.91,rain,85.17,70.05,73.37,0.91,1009.9,0.91,6,72.74,85.17,-4.0383,21.7587
+Congo (Kinshasa),,4/10/2020,Possible light rain in the evening and overnight.,rain,0.64,0.0053,0.0485,0.57,rain,86.13,72.14,72.97,0.86,1009.2,0.93,5,70.05,86.13,-4.0383,21.7587
+Congo (Kinshasa),,4/11/2020,Light rain until evening.,rain,0.68,0.0153,0.0447,0.93,rain,86.73,70.34,73.96,0.92,1010.3,0.97,5,72.14,86.73,-4.0383,21.7587
+Congo (Kinshasa),,4/12/2020,Humid and overcast throughout the day.,rain,0.71,0.001,0.0075,0.44,rain,85.57,71.42,71.42,0.85,1011.8,0.96,5,70.34,85.57,-4.0383,21.7587
+Congo (Kinshasa),,4/13/2020,Humid and overcast throughout the day.,rain,0.74,0.0073,0.0684,0.4,rain,90.63,70.89,71.97,0.78,1010.1,0.89,5,71.42,90.63,-4.0383,21.7587
+Congo (Kinshasa),,4/14/2020,Humid and mostly cloudy throughout the day.,partly-cloudy-day,0.78,0.0001,0.0016,0.08,rain,98.41,73.69,70.17,0.69,1009.1,0.61,9,70.89,98.41,-4.0383,21.7587
+Congo (Kinshasa),,4/15/2020,Possible light rain overnight.,rain,0.81,0.0026,0.028999999999999998,0.3,rain,101.23,75.71,68.75,0.61,1007.3,0.78,8,73.69,101.23,-4.0383,21.7587
+Congo (Kinshasa),,4/16/2020,Rain until evening.,rain,0.84,0.0845,0.3716,0.98,rain,84.29,71.7,72.06,0.81,1008.4,0.98,6,73.3,84.29,-4.0383,21.7587
+Congo (Kinshasa),,4/17/2020,Light rain and humid throughout the day.,rain,0.87,0.0147,0.0477,0.95,rain,85.03,71.54,72.29,0.86,1010.5,0.92,6,71.7,85.03,-4.0383,21.7587
+Congo (Kinshasa),,4/18/2020,Light rain until evening.,rain,0.9,0.0143,0.0879,0.91,rain,84.45,69.94,72.43,0.89,1012.5,0.98,5,71.54,84.45,-4.0383,21.7587
+Congo (Kinshasa),,4/19/2020,Humid and mostly cloudy throughout the day.,rain,0.93,0.0007,0.0023,0.53,rain,85.99,67.65,71.22,0.88,1011.9,0.87,6,69.94,85.99,-4.0383,21.7587
+Congo (Kinshasa),,4/20/2020,Light rain until evening.,rain,0.96,0.011000000000000001,0.0416,0.95,rain,85.08,70.27,71.92,0.87,1010.9,0.8,8,67.65,85.08,-4.0383,21.7587
