@@ -3,3 +3,4 @@ numpy
 openpyxl
 matplotlib
 pandas
+xlsxwriter

@@ -330,3 +330,5 @@ websocket-client==1.5.2
     # via jupyter-server
 widgetsnbextension==4.0.7
     # via ipywidgets
+xlsxwriter==3.1.1
+    # via -r requirements.in
